@@ -10,7 +10,7 @@
 		
 		$cmd = "wget --mirror --convert-links --adjust-extension --page-requisites --no-parent '$url'";
 
-	//	system($cmd);
+		system($cmd);
 
 	}
 
