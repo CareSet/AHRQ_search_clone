@@ -1,0 +1,397 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>My NQMC FAQs | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class="is-active"><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+
+	<div class="content">
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			<h1>My NQMC FAQs</h1>
+<h2>What features are available for "My NQMC"?</h2>
+<p><strong>My NQMC account creation <span style="text-decoration: underline;">not</span> required.</strong></p>
+<ul style="list-style-type: disc;">
+    <li><strong>My Recent Searches</strong>: Terms you have recently searched appear on the home page directly below the main search box. Clicking the term will run the search and display up-to-date results for that term. </li>
+    <li><strong>My Recently Viewed Measure Summaries</strong>: Measure summaries you have recently viewed appear on the right side of the home page. Your five most recently viewed summaries are displayed. Clicking a title will display the measure summary page. </li>
+</ul>
+<p><strong>My NQMC account creation required.</strong></p>
+<ul style="list-style-type: disc;">
+    <li><strong>Save a Measure Summary(ies)</strong>: To save a measure summary(ies) for viewing later, navigate to a measure summary page, and click the "Save" link at the top of the summary. If you are not signed-in, you will be prompted to do so. If you are signed-in, the hollow star will turn solid indicating you have saved this summary. The measure summary will be saved to your My NQMC dashboard <em>Saved Summaries</em> tab. </li>
+    <li><strong>Measure Summary Alerts</strong>: From the <em>Saved Summaries</em> tab of your My NQMC dashboard, you may subscribe to receive weekly e-mail alerts when your saved summary(ies) has been updated or withdrawn from the site. </li>
+    <li><strong>Organization Alerts</strong>: From the <em>Alerts</em> tab of your My NQMC dashboard, you may subscribe to receive weekly e-mail alerts when a new summary(ies) associated with that organization has been published or if one or more summaries associated with that organization have been updated or withdrawn from the site. You may also subscribe to Organization Alerts from the <a href="/browse/organization" title="Browse by Organization page">Browse by Organization</a> page and from the <a href="/new-this-week/index" title="New This Week page">New This Week</a> page. </li>
+    <li><strong>Topic Alerts</strong>: From the <em>Alerts</em> tab of your My NQMC dashboard, you may subscribe to receive weekly e-mail alerts when a summary(ies) associated with a particular topic has been published, updated, or withdrawn. The NQMC topics have been chosen based on resources such as Healthy People 2020 and relevant content in the NQMC database. </li>
+    <li><strong>Domain Alerts</strong>: From the <em>Alerts</em> tab of your My NQMC dashboard, you may subscribe to receive weekly e-mail alerts when a summary(ies) associated with a particular measure domain has been published, updated, or withdrawn. </li>
+    <li><strong>Expert Commentary Alerts</strong>: From the <em>Alerts</em> tab of your My NQMC dashboard, you may subscribe to receive an alert when a new expert commentary is published to the NQMC site. You may also subscribe to Expert Commentary Alerts from the <a href="/expert" title="Expert Commentaries page">Expert Commentaries</a> page. </li>
+</ul>
+<h2>How can I sign up for a free account?</h2>
+<p>You can create an account directly from the home page by clicking the <em>Create a Free Account</em> link. To create an account, enter an e-mail address (required), password (required), password confirmation (required), first name (optional), and last name (optional).</p>
+<h2>How often are "My NQMC" e-mail alerts issued?</h2>
+<p>E-mail alerts are issued weekly on Monday. <strong>Note</strong>: You will not receive a My NQMC e-mail alert unless there are changes to content where you subscribed. My NQMC e-mail alerts will not affect the NQMC New This Week e-mail. Should you be subscribed to the New This Week e-mail, you will continue to receive this e-mail separately.</p>
+<h2>Why can't I find my specific topic of interest in the topics alerts feature?</h2>
+<p>Topics alerts were chosen based on resources such as Healthy People 2020 and relevant content in the NQMC database. We welcome your <a href="/Contact-us" title="Contac Us">suggestions</a> for additional topic alerts.</p>
+<h2>How can I remove <em>My Recent Searches</em> and <em>My Recently Viewed Measure Summaries</em> from my home page?</h2>
+<p>In order to remove recent searches and recently viewed summaries, you must clear your cache in your Web browser. In <strong>Internet Explorer</strong>, click on <strong>Tools</strong>, then <strong>Internet Options</strong>, and then click on the <strong>General</strong> tab. Under <strong>Browsing History</strong>, click <strong>Delete</strong>. <strong>Note</strong>: Make sure "preserve favorites website data" is NOT selected.</p>
+<h2>How can I opt out of <em>My Recent Searches</em> and <em>My Recently Viewed Measure Summaries</em> features?</h2>
+<p>In order to prevent recent searches and recently viewed measure summaries from being tracked, you must disable cookies in your Web browser. In <strong>Internet Explorer</strong>, click on <strong>Tools</strong>, then <strong>Internet Options</strong>, and then click on the <strong>Privacy</strong> tab. Next, click on the <strong>Advanced</strong> button and select the "Override automatic cookie handling" option. Next, block first-party cookies, and click <strong>OK</strong>. Clear your internet browser cache, close all open browsers, and return to the NQMC home page.</p>
+<h2>Once I create a free account on NQMC, am I automatically signed up for a free account on NQMC's sister site, National Guideline Clearinghouse (NGC)?</h2>
+<p>No. You must create a separate account on NGC; however, the same password may be used for both sites.</p>
+<br />
+Page Last Reviewed or Updated: July 13, 2017
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about/my-nqmc/faqs">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

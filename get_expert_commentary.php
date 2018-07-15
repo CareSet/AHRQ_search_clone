@@ -10,9 +10,12 @@
 
 	$doc = new DOMdocument;
 	//its messy html, so ignore the load errors... 
-	@$doc->loadhtml(file_get_contents($expert_comments_page));
+	echo "Starting download...";
+	$html_text = file_get_contents($expert_comments_page);
+	echo "done. \nLoading DOM..";
+	@$doc->loadhtml($html_text);
 	$xpath = new DOMXPath($doc);
-
+	echo "done. \n";
 
 	$data = [];
 		
