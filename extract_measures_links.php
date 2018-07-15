@@ -5,22 +5,30 @@
 	chdir('./www.qualitymeasures.ahrq.gov');
 
 	$data = [];
+	$errors = [];
 	
 	foreach(glob('*.html') as $file_name){
 		$doc = new DOMdocument;
 		//its messy html, so ignore the load errors... 
-		@$doc->loadhtml(file_get_contents($file_name));
-		$xpath = new DOMXPath($doc);
-		
+		$html_text = file_get_contents($file_name);
+		if($html_text === FALSE){
 
-		$xpath_query = '//h3[@class="results-list-item-title"]/a';
-		foreach($xpath->query($xpath_query) as $result_title_link){
-			$anchor = $result_title_link->nodeValue;
-			$href = $result_title_link->getAttribute('href');
-			$tmp = [];
-			$tmp['anchor'] = $anchor;
-			$tmp['href'] = $href;
-			$data[] = $tmp;
+			echo "Error: failed to open $file_name\n";
+			exit();
+
+		}else{
+			@$doc->loadhtml($html_text);
+			$xpath = new DOMXPath($doc);		
+
+			$xpath_query = '//h3[@class="results-list-item-title"]/a';
+			foreach($xpath->query($xpath_query) as $result_title_link){
+				$anchor = $result_title_link->nodeValue;
+				$href = $result_title_link->getAttribute('href');
+				$tmp = [];
+				$tmp['anchor'] = $anchor;
+				$tmp['href'] = $href;
+				$data[] = $tmp;
+			}
 		}
 	}
 

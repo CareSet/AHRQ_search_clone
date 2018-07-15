@@ -1,0 +1,856 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=706;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Availability of services: the number of dental providers who have provided any dental procedure to at least one child, per 1,000 eligible children. | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180620205251cs_/https://www.qualitymeasures.ahrq.gov/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180620205251js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180620205251if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180620205251/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180620205251if_/https://www.googletagmanager.com/ns.html?id=GTM-KXQCDQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180620205251/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180620205251/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180620205251/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/" class="header-logo NQMC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png">
+				        <source srcset="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header_m.png">
+				        <img src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png" alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Measure Summary</li>
+            <li>NQMC:010664</li>
+            <li>Dec 2015
+            </li>            
+                                </ul>
+        <div>
+                <h1>Availability of services: the number of dental providers who have provided any dental procedure to at least one child, per 1,000 eligible children.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_Developer_String=Quality%20Measurement%2C%20Evaluation%2C%20Testing%2C%20Review%2C%20and%20Implementation%20Consortium%20%28Q-METRIC%29&amp;fLockTerm=Quality%2BMeasurement%252c%2BEvaluation%252c%2BTesting%252c%2BReview%252c%2Band%2BImplementation%2BConsortium%2B%28Q-METRIC%29">Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC)</a></li>
+                        <li>   
+                                <a id="2502" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Quality Measurement, Evaluation, Testing, Review and Implementation Consortium (Q-METRIC). Basic measure information: access to dental care for children. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2015 Dec. 33 p. </td></tr></table>                    <p><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=49899&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fchear.org%252fsites%252fdefault%252ffiles%252fstories%252fpdfs%252favail_m5_dental_rt_0.pdf">View the original measure documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the measure.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+            <h4>Measure Hierarchy</h4>
+<a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_Collection_Hierarchy=objid48580&amp;fLockTerm=Availability%2Bof%2BSpecialty%2BServices%2BMeasures">Availability of Specialty Services Measures</a>                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adolescent%3A%2013-18%20years%20old&amp;fLockTerm=Adolescent%253a%2B13-18%2Byears%2Bold">Adolescent: 13-18 years old</a></li>                                              
+                        <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Child%3A%206-12%20years%20old&amp;fLockTerm=Child%253a%2B6-12%2Byears%2Bold">Child: 6-12 years old</a></li>                                              
+                        <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Child%3A%20Pre-school%3A%202-5%20years%20old&amp;fLockTerm=Child%253a%2BPre-school%253a%2B2-5%2Byears%2Bold">Child: Pre-school: 2-5 years old</a></li>                                              
+                        <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Infant%3A%2001-23%20months%20old&amp;fLockTerm=Infant%253a%2B01-23%2Bmonths%2Bold">Infant: 01-23 months old</a></li>                                              
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_ICD9CM_CUI=C0011334&amp;fLockTerm=Dental+caries%2c+unspecified">Dental caries, unspecified</a>
+ (521.00)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0011331&amp;fLockTerm=Dental+Care">Dental Care</a>
+, <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0282684&amp;fLockTerm=Dental+Care+for+Children">Dental Care for Children</a>
+, <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0011334&amp;fLockTerm=Dental+Caries">Dental Caries</a>
+, <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0011365&amp;fLockTerm=Dental+Health+Services">Dental Health Services</a>
+, <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0018748&amp;fLockTerm=Health+Services+Accessibility">Health Services Accessibility</a>
+, <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0040435&amp;fLockTerm=Tooth+Diseases">Tooth Diseases</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0011334&amp;fLockTerm=Dental+caries">Dental caries</a>
+, <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0011365&amp;fLockTerm=Dental+Health+Services">Dental Health Services</a>
+, <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0011331&amp;fLockTerm=Dental+Procedures">Dental Procedures</a>
+, <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0018748&amp;fLockTerm=Health+Services+Accessibility">Health Services Accessibility</a>
+, <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0040435&amp;fLockTerm=Tooth+Diseases">Tooth Diseases</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0011331&amp;fLockTerm=Dental+care">Dental care</a>
+ (225362009), <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0011334&amp;fLockTerm=Dental+caries">Dental caries</a>
+ (80967001), <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0040435&amp;fLockTerm=Tooth+disorder">Tooth disorder</a>
+ (234947003)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#563" class="section-mark">Measure Domain</a></li>
+                                    <li><a href="#566" class="section-mark">Brief Abstract</a></li>
+                                    <li><a href="#573" class="section-mark">Evidence Supporting the Measure</a></li>
+                                    <li><a href="#580" class="section-mark">State of Use of the Measure</a></li>
+                                    <li><a href="#583" class="section-mark">Application of the Measure in its Current Use</a></li>
+                                    <li><a href="#590" class="section-mark">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></li>
+                                    <li><a href="#593" class="section-mark">Data Collection for the Measure</a></li>
+                                    <li><a href="#605" class="section-mark">Computation of the Measure</a></li>
+                                    <li><a href="#615" class="section-mark">Identifying Information</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10664?contentType=pdf" class="pdf">.PDF 100.4 kb</a></li>
+                            <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10664?contentType=word" class="word">Word Document 284.9 kb</a></li>
+                            <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10664?contentType=xml" class="xml">.XML 34.1 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180620205251/https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/summaries/summary/49899/availability-of-services-the-number-of-dental-providers-who-have-provided-any-dental-procedure-to-at-least-one-child-per-1000-eligible-children" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180620205251/https://twitter.com/share?text=&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/49899/availability-of-services-the-number-of-dental-providers-who-have-provided-any-dental-procedure-to-at-least-one-child-per-1000-eligible-children" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180620205251/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/49899/availability-of-services-the-number-of-dental-providers-who-have-provided-any-dental-procedure-to-at-least-one-child-per-1000-eligible-children&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180620205251/mailto:/?Subject=AHRQ: Availability of services: the number of dental providers who have provided any dental procedure to at least one child, per 1,000 eligible children.&amp;body=https://www.qualitymeasures.ahrq.gov/summaries/summary/49899/availability-of-services-the-number-of-dental-providers-who-have-provided-any-dental-procedure-to-at-least-one-child-per-1000-eligible-children" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Quality Measures Clearinghouse (NQMC). Measure summary: Availability of services: the number of dental providers who have provided any dental procedure to at least one child, per 1,000 eligible children. In: National Quality Measures Clearinghouse (NQMC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Dec 01. [cited 2018 Jun 20]. Available: https://www.qualitymeasures.ahrq.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49899?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49899?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49899?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49899?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49899?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49899">RefWorks</a></li>
+                            <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49899?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="49899" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="563" class="accordion-title section-563 is-active" role="tab" aria-expanded="true"><a href="#">Measure Domain</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Primary Measure Domain</a></h3>
+                    <p>Related Health Care Delivery Measures: Use of Services</p>
+                        <h3><a href="#">Secondary Measure Domain</a></h3>
+                    <p>Related Health Care Delivery Measure: User-enrollee Health State</p>
+
+            </div>
+                <h2 id="566" class="accordion-title section-566 is-active" role="tab" aria-expanded="true"><a href="#">Brief Abstract</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description</a></h3>
+                    <p><div class="content_para"><p>This measure is used to assess the number of dental providers who have provided any dental procedures to at least one child, per 1,000 eligible children.</p>
+<p>This rate will be expressed in terms of 1,000 eligible children (number of dental providers/1,000 enrolled children), where the eligible population includes children younger than 18 years of age at the end of the measurement year, who have been enrolled in a Medicaid program or health plan that includes dental care for at least one 90-day period (or 3 consecutive months) within the measurement year. Dental providers are identified by specific taxonomy codes and dental procedures by procedure codes.</p></div></p>
+                        <h3><a href="#">Rationale</a></h3>
+                    <p><div class="content_para"><p>Oral health is an important, but often understated, component of an individual's overall health, for children as well as adults. In the United States, data for 2005 to 2008 from the National Health and Nutrition Examination Survey (NHANES) indicated that 20.4% of children aged 5 to 11 and 13.3% of children aged 12 to 19 years old had untreated dental caries (tooth decay or cavities). Furthermore, 38.7% of children aged 5 to 11 and 52.0% of children aged 12 to 19 had undergone dental restoration of some type(Dye, Li, &amp; Beltran-Aguilar, 2012).</p>
+<p>If left untreated, dental disease can cause major problems, including significant pain, school absences, infections, and even death (Centers for Medicare and Medicaid Services [CMS], 2011). In a 2000 report, the Surgeon General estimated the effect on missed school time to be quite significant, at 51 million school hours lost to dental disease (CMS, 2009).</p>
+<p>Recommended schedules for both starting and maintaining regular dental visits vary, but the general recommendation is to begin visits around 1 to 2 years of age (or at first tooth eruption). For example, the American Academy of Pediatric Dentistry recommends beginning by age 1 at the latest, with services including "at a minimum, relief of pain and infections, restoration of teeth, and maintenance of dental health" (CMS, 2009). Despite these recommendations, many children fail to get annual dental services of any kind. An estimate from 2004 data suggests that less than half of children (49.6%) visited a dentist in the previous year; this is a slight improvement from 1997, when it was 45.7% (Wall &amp; Brown, 2008). More recent evidence suggests that rates of dental visits have not improved. A recent update to the Healthy People 2020 goals notes that "the indicator for dental visits is losing ground," though this indicator includes people of all ages over 2 (Koh, Blakey, &amp; Roper, 2014). </p>
+<p>Many factors can contribute to a child's failure to obtain a dental visit in a given year, including general availability of dental providers and the availability of providers who will accept the child's payment source. A recent U.S. Government Accountability Office (GAO) (2010) report highlights the geographic disparities in access to dental providers: 4,377 areas in the United States have a shortage of dental health professionals; 7,008 dentists would be needed to fill the gap. Moreover, the reluctance of many dentists to accept Medicaid-enrolled children has been demonstrated in numerous studies (Damiano et al., 1990; Eklund, Pittman, &amp; Clark, 2003; Iben, Kanellis, &amp; Warren, 2000; Mayer et al., 2000; Milgrom &amp; Riedy, 1998; Nainar &amp; Tinanoff, 1997; Shulman et al., 2001; Venzie &amp; Vann, 1993). Reasons cited include low reimbursement rates, excessive paperwork, late or frequently denied reimbursement, and high rates of missed appointments. As a result, the availability of dental providers for Medicaid-enrolled children is widely viewed as inadequate. This is borne out by data indicating that children on Medicaid are less likely to have had a dental visit in the previous year compared with children with private insurance (GAO, 2008). Similarly, children with special health care needs&mdash;many of whom are enrolled in Medicaid&mdash;are less likely to see a dentist compared with children without any special health care needs (Kane et al., 2008). </p></div></p>
+                        <h3><a href="#">Evidence for Rationale</a></h3>
+                    <p><table><tr><td>Centers for Medicare and Medicaid Services (CMS). 2008 national dental summary. Atlanta (GA): Centers for Medicare and Medicaid Services (CMS); 2009 Jan. 54 p. </td></tr></table></p>
+                    <p><table><tr><td>Centers for Medicare and Medicaid Services (CMS). Improving access to and utilization of oral health services for children in Medicaid and CHIP programs. Atlanta (GA): Centers for Medicare and Medicaid Services (CMS); 2011 Apr 11. 8 p. </td></tr></table></p>
+                    <p><table><tr><td>Damiano PC, Brown ER, Johnson JD, Scheetz JP. Factors affecting dentist participation in a state Medicaid program. J Dent Educ. 1990 Nov;54(11):638-43. <a href="https://web.archive.org/web/20180620205251/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2229619" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Dye BA, Li X, Beltran-Aguilar ED. Selected oral health indicators in the United States, 2005-2008. NCHS Data Brief. 2012 May;(96):1-8. <a href="https://web.archive.org/web/20180620205251/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23050519" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Eklund SA, Pittman JL, Clark SJ. Michigan Medicaid's Healthy Kids Dental program: an assessment of the first 12 months. J Am Dent Assoc. 2003 Nov;134(11):1509-15. <a href="https://web.archive.org/web/20180620205251/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14664272" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Iben P, Kanellis MJ, Warren J. Appointment-keeping behavior of Medicaid-enrolled pediatric dental patients in eastern Iowa. Pediatr Dent. 2000 Jul-Aug;22(4):325-9. <a href="https://web.archive.org/web/20180620205251/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10969442" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Kane D, Mosca N, Zotti M, Schwalberg R. Factors associated with access to dental care for children with special health care needs. J Am Dent Assoc. 2008 Mar;139(3):326-33. <a href="https://web.archive.org/web/20180620205251/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18310737" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Koh HK, Blakey CR, Roper AY. Healthy People 2020: a report card on the health of the nation. JAMA. 2014 Jun 25;311(24):2475-6. <a href="https://web.archive.org/web/20180620205251/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24870206" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Mayer ML, Stearns SC, Norton EC, Rozier RG. The effects of Medicaid expansions and reimbursement increases on dentists' participation. Inquiry. 2000 Spring;37(1):33-44.</td></tr></table></p>
+                    <p><table><tr><td>Milgrom P, Riedy C. Survey of Medicaid child dental services in Washington state: preparation for a marketing program. J Am Dent Assoc. 1998 Jun;129(6):753-63. <a href="https://web.archive.org/web/20180620205251/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9631617" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Nainar SM, Tinanoff N. Effect of Medicaid reimbursement rates on children's access to dental care. Pediatr Dent. 1997 Jul-Aug;19(5):315-6. <a href="https://web.archive.org/web/20180620205251/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9260222" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Quality Measurement, Evaluation, Testing, Review and Implementation Consortium (Q-METRIC). Basic measure information: access to dental care for children. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2015 Dec. 33 p. </td></tr></table></p>
+                    <p><table><tr><td>Shulman JD, Ezemobi EO, Sutherland JN, Barsley R. Louisiana dentists' attitudes toward the dental Medicaid program. Pediatr Dent. 2001 Sep-Oct;23(5):395-400. <a href="https://web.archive.org/web/20180620205251/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11699161" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>United States Government Accountability Office (GAO). Report to Congressional committees: oral health: efforts under way to improve children’s access to dental services, but sustained attention needed to address ongoing concerns. Washington (DC): United States Government Accountability Office (GAO); 2010. 83 p. </td></tr></table></p>
+                    <p><table><tr><td>United States Government Accountability Office (GAO). Report to Congressional requesters: Medicaid: extent of dental disease in children has not decreased, and millions are estimated to have untreated tooth decay. Washington (DC): United States Government Accountability Office (GAO); 2008. 46 p. </td></tr></table></p>
+                    <p><table><tr><td>Venezie RD, Vann WF. Pediatric dentists' participation in the North Carolina Medicaid program. Pediatr Dent. 1993 May-Jun;15(3):175-81. <a href="https://web.archive.org/web/20180620205251/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8378154" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Wall TP, Brown LJ. Public dental expenditures and dental visits among children in the U.S., 1996-2004. Public Health Rep. 2008 Sep-Oct;123(5):636-45. <a href="https://web.archive.org/web/20180620205251/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18828419" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Primary Health Components</a></h3>
+                    <p><div class="content_para"><p>Access to dental care; children; adolescents</p></div></p>
+                        <h3><a href="#">Denominator Description</a></h3>
+                    <p><div class="content_para"><p>The eligible population for the denominator is the number of children younger than 18 years on December 31 of the measurement year who have at least one enrollment period of 90 days (or 3 consecutive months) within the measurement year in a health plan that includes dental care. This denominator is divided by 1,000 to calculate the rate per 1,000 eligible children.</p></div></p>
+                        <h3><a href="#">Numerator Description</a></h3>
+                    <p><div class="content_para"><p>The number of dental providers who have provided any dental procedure to at least one enrolled child (see the related "Numerator Inclusions/Exclusions" field)</p></div></p>
+
+            </div>
+                <h2 id="573" class="accordion-title section-573 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Criterion of Quality for the Measure</a></h3>
+                    <p><ul><li>A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences</li><li>One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal</li></ul></p>
+                        <h3><a href="#">Additional Information Supporting Need for the Measure</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Extent of Measure Testing</a></h3>
+                    <p><div class="content_para"><p>The Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) used two methods to test the <em>reliability</em> of the measure. Replication of the measure calculation process demonstrated excellent reliability, with minor variance due to the dynamic nature of health administrative data. Comparison of the taxonomy-based provider identification data sources showed excellent reliability, with over 99% of dental providers identified through the National Plan and Provider Enumeration System (NPPES) registry, to which all Medicaid programs have access. <em>Validity</em> testing was performed to assess the impact of excluding organizational National Provider Identifiers (NPIs) from the measure calculation. Given the documented evidence that including the organizational NPIs would result in double-counting of a substantial number of dental providers, the overall validity of the measure is very good regarding the effect of excluding organizational NPIs.</p>
+<p>Refer to the original measure documentation for additional testing information.</p></div></p>
+                        <h3><a href="#">Evidence for Extent of Measure Testing</a></h3>
+                    <p><table><tr><td>Quality Measurement, Evaluation, Testing, Review and Implementation Consortium (Q-METRIC). Basic measure information: access to dental care for children. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2015 Dec. 33 p. </td></tr></table></p>
+
+            </div>
+                <h2 id="580" class="accordion-title section-580 is-active" role="tab" aria-expanded="true"><a href="#">State of Use of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">State of Use</a></h3>
+                    <p>Current routine use</p>
+                        <h3><a href="#">Current Use</a></h3>
+                    <p>External oversight/Medicaid</p>
+
+            </div>
+                <h2 id="583" class="accordion-title section-583 is-active" role="tab" aria-expanded="true"><a href="#">Application of the Measure in its Current Use</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measurement Setting</a></h3>
+                    <p>Ambulatory/Office-based Care</p>
+                    <p>Hospital Outpatient</p>
+                    <p>Managed Care Plans</p>
+                        <h3><a href="#">Professionals Involved in Delivery of Health Services</a></h3>
+                    <p>Dentists</p>
+                        <h3><a href="#">Least Aggregated Level of Services Delivery Addressed</a></h3>
+                    <p>Single Health Care Delivery or Public Health Organizations</p>
+                        <h3><a href="#">Statement of Acceptable Minimum Sample Size</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Target Population Age</a></h3>
+                    <p><div class="content_para"><p>Age less than or equal to 18 years</p></div></p>
+                        <h3><a href="#">Target Population Gender</a></h3>
+                    <p>Either male or female</p>
+
+            </div>
+                <h2 id="590" class="accordion-title section-590 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Not within an IOM Care Need</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Not within an IOM Domain</p>
+
+            </div>
+                <h2 id="593" class="accordion-title section-593 is-active" role="tab" aria-expanded="true"><a href="#">Data Collection for the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Case Finding Period</a></h3>
+                    <p><div class="content_para"><p>The measurement year</p></div></p>
+                        <h3><a href="#">Denominator Sampling Frame</a></h3>
+                    <p>Enrollees or beneficiaries</p>
+                        <h3><a href="#">Denominator (Index) Event or Characteristic</a></h3>
+                    <p>Patient/Individual (Consumer) Characteristic</p>
+                        <h3><a href="#">Denominator Time Window</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Denominator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+The eligible population for the denominator is the number of children younger than 18 years on December 31 of the measurement year who have at least one enrollment period of 90 days (or 3 consecutive months) within the measurement year in a health plan that includes dental care. This denominator is divided by 1,000 to calculate the rate per 1,000 eligible children. </p>
+<p><strong>Exclusions</strong><br/>
+None</p></div></p>
+                        <h3><a href="#">Exclusions/Exceptions</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Numerator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+The number of dental providers who have provided any dental procedure to at least one enrolled child</p>
+<p class="Note"><strong>Note</strong>:</p>
+<ul class="Note" style="list-style-type: disc;">
+    <li>Dental providers are to be identified using internal coding systems where available. Otherwise, taxonomy codes may be used to link to provider National Provider Identifier (NPI). For example, the National Plan and Provider Enumeration System (NPPES) registry may be used to identify specialists using the rendering NPI or billing NPI. Individual dental providers are to be included as eligible providers. See Table 1 in the original measure documentation for taxonomy codes by provider. </li>
+    <li>For this measure, a dental procedure is defined as any claim with a procedure code in the range of D0100 to D9999. </li>
+</ul>
+<p><strong>Exclusions</strong></p>
+<ul style="list-style-type: disc;">
+    <li>NPIs representing organizations and clinics </li>
+    <li>Dental hygienists </li>
+    <li>NPIs representing professionals who are not dental providers (e.g., physicians, surgeons) </li>
+</ul></div></p>
+                        <h3><a href="#">Numerator Search Strategy</a></h3>
+                    <p>Fixed time period or point in time</p>
+                        <h3><a href="#">Data Source</a></h3>
+                    <p>Administrative clinical data</p>
+                        <h3><a href="#">Type of Health State</a></h3>
+                    <p>Proxy for Health State</p>
+                        <h3><a href="#">Instruments Used and/or Associated with the Measure</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+
+            </div>
+                <h2 id="605" class="accordion-title section-605 is-active" role="tab" aria-expanded="true"><a href="#">Computation of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measure Specifies Disaggregation</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Scoring</a></h3>
+                    <p>Rate/Proportion</p>
+                        <h3><a href="#">Interpretation of Score</a></h3>
+                    <p>Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)</p>
+                        <h3><a href="#">Allowance for Patient or Population Factors</a></h3>
+                    <p>Unspecified</p>
+                        <h3><a href="#">Standard of Comparison</a></h3>
+                    <p>External comparison at a point in, or interval of, time</p>
+                    <p>External comparison of time trends</p>
+                    <p>Internal time comparison</p>
+
+            </div>
+                <h2 id="615" class="accordion-title section-615 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Original Title</a></h3>
+                    <p><div class="content_para"><p>Access to dental care for children.</p></div></p>
+                        <h3><a href="#">Measure Collection Name</a></h3>
+                    <p>Availability of Specialty Services Measures</p>
+                        <h3><a href="#">Submitter</a></h3>
+                    <p>Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) - Academic Affiliated Research Institute</p>
+                        <h3><a href="#">Developer</a></h3>
+                    <p>Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) - Academic Affiliated Research Institute</p>
+                        <h3><a href="#">Funding Source(s)</a></h3>
+                    <p><div class="content_para"><p>This work was funded by the Agency for Healthcare Research and Quality (AHRQ) and the Centers for Medicare &amp; Medicaid Services (CMS) under the Children's Health Insurance Program Reauthorization Act (CHIPRA) Pediatric Quality Measures Program Centers of Excellence grant number U18 HS020516.</p></div></p>
+                        <h3><a href="#">Composition of the Group that Developed the Measure</a></h3>
+                    <p><div class="content_para"><p><strong>Availability of Specialty Services Expert Panel</strong></p>
+<p><em>Representative/Feasibility Panel</em></p>
+<ul style="list-style-type: disc;">
+    <li>George Baker, MD, Retired, Co-Director, Office of Medical Affairs for Michigan Medicaid, Medical Director of Michigan's Title V program for Children and Youth with Special Health Care Needs, Michigan Department of Community Health, Lansing, MI </li>
+    <li>Laura-Mae Baldwin, MD, MPH, Director of Research and Professor, Department of Family Medicine, University of Washington, Seattle, WA </li>
+    <li>Patricia Barrett, MHSA, Vice President for Product Development, National Committee for Quality Assurance, Washington, DC </li>
+    <li>Angie Davis, MA, Parent Representative, DeWitt, MI </li>
+    <li>Lisa Huckleberry, Parent Representative, DeWitt, MI </li>
+    <li>Renee Jenkins, MD, FAAP, Professor, Department of Pediatrics and Child Health, Howard University College of Medicine, Washington, DC </li>
+    <li>David Kelley, MD, MPA, Chief Medical Officer, Office of Medical Assistance Programs, Pennsylvania Department of Public Welfare, Harrisburg, PA </li>
+    <li>Maureen Milligan, PhD, MPA, MA, Director, Texas Institute of Health Care Quality and Efficiency, Texas Health and Human Services Commission, Austin, TX </li>
+    <li>Sue Moran, BSN, MPH, Director of the Bureau of Medicaid Program Operations and Quality Assurance, Michigan Department of Community Health, Lansing, MI </li>
+    <li>R. Gary Rozier, DDS, MPH, Director and Professor, Dental Public Health and Residency Training Program, Department of Health Policy and Management, University of North Carolina at Chapel Hill, Chapel Hill, NC </li>
+    <li>Aradhana (Bela) Sood, MD, MSHA, FAACAP, Professor and Chair, Division of Child and Adolescent Psychiatry, Medical Director, Virginia Treatment Center for Children, Virginia Commonwealth University, Richmond, VA </li>
+    <li>Mark Wietecha, MS, MBA, President and CEO, Children's Hospital Association, Alexandria, VA </li>
+</ul>
+<p><em>Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) Investigators</em></p>
+<ul style="list-style-type: disc;">
+    <li>Sarah J. Clark, MPH, Associate Research Scientist, Department of Pediatrics, School of Medicine, University of Michigan, Ann Arbor, MI </li>
+    <li>Meredith P. Riebschleger, MD, MS, Clinical Lecturer, Department of Pediatrics and Communicable Diseases, Pediatric Rheumatology, School of Medicine, University of Michigan, Ann Arbor, MI </li>
+    <li>Gary L. Freed, MD, MPH, Professor of Pediatrics, School of Medicine and Professor of Health Management and Policy, School of Public Health, University of Michigan, Ann Arbor, MI (principal investigator) </li>
+    <li>Kevin J. Dombkowski, DrPH, MS, Research Associate Professor of Pediatrics, School of Medicine, University of Michigan, Ann Arbor, MI </li>
+</ul></div></p>
+                        <h3><a href="#">Financial Disclosures/Other Potential Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>This measure was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date of Most Current Version in NQMC</a></h3>
+                    <p>2015 Dec</p>
+                        <h3><a href="#">Measure Maintenance</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Date of Next Anticipated Revision</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Measure Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the measure.</p></div></p>
+                        <h3><a href="#">Source(s)</a></h3>
+                    <p><table><tr><td>Quality Measurement, Evaluation, Testing, Review and Implementation Consortium (Q-METRIC). Basic measure information: access to dental care for children. Ann Arbor (MI): Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC); 2015 Dec. 33 p. </td></tr></table></p>
+                        <h3><a href="#">Measure Availability</a></h3>
+                    <p><div class="content_para"><p>Source available from the <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=49899&amp;contentType=summary&amp;redirect=http%3a%2f%2fchear.org%2fsites%2fdefault%2ffiles%2fstories%2fpdfs%2favail_m5_dental_rt_0.pdf" title="Q-METRIC Web site">Quality Measurement, Evaluation, Testing, Review and Implementation Consortium (Q-METRIC) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/> <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=49899&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.chear.org%2fqmetric" title="Q-METRIC Web site">Support documents</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/> are also available.. </p>
+<p>For more information, contact Q-METRIC at 300 North Ingalls Street, Room 6C06, SPC 5456, Ann Arbor, MI 48109-5456; Phone: 734-232-0657; Fax: 734-764-2599.</p></div></p>
+                        <h3><a href="#">NQMC Status</a></h3>
+                    <p><div class="content_para"><p>This NQMC summary was completed by ECRI Institute on March 7, 2016. The information was verified by the measure developer on April 4, 2016.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. </p>
+<p>Inform the Quality Measurement, Evaluation, Testing, Review, and Implementation Consortium (Q-METRIC) if users implement the measures in their health care settings. </p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NQMC Disclaimer</a></h3>
+                    <p><p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria">NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NQMC Measure Summaries</h3>
+            <p>NQMC provides structured summaries containing information about measures and their development.</p>
+            <ul>
+                <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/domain-framework" class="internal-link">Domain Framework</a></li>
+                <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/template-of-measure-attributes" class="internal-link">Template of Measure Attributes</a></li>
+                <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/faqs" class="help-button">Measure Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NQMC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+    
+    <a class="block-link" href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/disclaimer?id=49899&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.svg">
+					  	<img src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.png" alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		                <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a></li>
+						<li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180620205251/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://web.archive.org/web/20180620205251/https://www.guideline.gov/" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.svg">
+									<img src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180620205251/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180620205251im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180620205251/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180620205251js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180620205251js_/https://www.qualitymeasures.ahrq.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:52:51 Jun 20, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 20:13:12 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 487.044 (3)
+  esindex: 0.014
+  captures_list: 512.827
+  CDXLines.iter: 19.013 (3)
+  PetaboxLoader3.datanode: 40.7 (4)
+  exclusion.robots: 0.253
+  exclusion.robots.policy: 0.236
+  RedisCDXSource: 1.745
+  PetaboxLoader3.resolve: 533.884 (3)
+  load_resource: 150.181
+-->

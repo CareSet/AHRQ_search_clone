@@ -93,10 +93,16 @@ function go_wayback($file_url = null,$save_to_dir = null){
 		}
 	}
 
+
+	if(!isset($lastest_line)){
+		echo "Error: could not find latest_line from file...\n";
+		var_export($arrayOfLines);
+		exit();
+	}
+
 	$string_array = explode(' ',$lastest_line);
 	
 	$file_url = $string_array[2];
-
 
 
 	//and finally use the timestamp and the file_url to calculate the download url for the file on archive.org
