@@ -14,9 +14,16 @@ if(get_included_files()[0] == __FILE__){
 
 	$test_urls = [
 		'https://www.guideline.gov/summaries/summary/51178/cataracts-in-adults-management',
+		'https://www.guideline.gov/summaries/summary/51178/cataracts-in-adults-management-this-one-is-missing',
+
 	];
 
-	go_wayback($test_urls, './tmp');
+	foreach($test_urls as $this_url){
+		$results = go_wayback($this_url, './tmp');
+		$saved_to_file = $results['saved_to_file'];
+		$when = $results['timestamp'];
+		echo "$this_url mirrored $when saved to $file_save_as\n";
+	}
 
 }
 
@@ -24,14 +31,21 @@ if(get_included_files()[0] == __FILE__){
 
 
 
-function go_wayback($file_links = null,$save_to_dir = null){
+function go_wayback($file_url = null,$save_to_dir = null){
 
-	if(is_null($file_links) || is_null($save_to_dir)){ 
+	$fail_results = [
+                'saved_to_file' => false,
+                'timestamp' => false,
+                'is_status_good' => false,
+		];
+
+	if(is_null($file_url) || is_null($save_to_dir)){ 
 		echo "Error: I really need a list of zip code urls and a place where to save the archives on the local disk";
 		exit();
 
 	}
 
+	$file_links = [$file_url];
 
 	$arrayOfLines = [];
 	foreach($file_links as $this_file_link){
@@ -47,6 +61,13 @@ function go_wayback($file_links = null,$save_to_dir = null){
 
 		$arrayOfLines = array_merge($arrayOfLines, $this_arrayOfLines);
 
+	}
+
+
+	if(count($arrayOfLines) == 0){
+		//this means that wayback machine has no record of this url...
+		$fail_results['error_message'] = "Wayback machine has nothing";
+		return($fail_results);
 	}
 
 	$last_timestamp = 0;
@@ -79,7 +100,7 @@ function go_wayback($file_links = null,$save_to_dir = null){
 
 
 	//and finally use the timestamp and the file_url to calculate the download url for the file on archive.org
-	$download_url = "https://web.archive.org/web/$timestamp/$file_url";
+	$download_url = "https://web.archive.org/web/$last_timestamp/$file_url";
 
 	$get_file = true;
 
@@ -93,7 +114,7 @@ function go_wayback($file_links = null,$save_to_dir = null){
 		
 	if(file_exists($save_to_file)){
 		//why would we download it again?
-		echo "We already have $save_to_file\n";
+		echo "We already downloaded $save_to_file\n";
 		$get_file = false;
 
 		if(filesize($save_to_file) == 0){
@@ -119,6 +140,13 @@ function go_wayback($file_links = null,$save_to_dir = null){
 		sleep(1);
 	}
 
+	$results = [
+		'saved_to_file' => $save_to_file,
+		'timestamp' => $last_timestamp,
+		'is_status_good' => true,
+		];
+
+	return($results);
 
 }//end function
 
