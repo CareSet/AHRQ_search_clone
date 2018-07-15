@@ -1,0 +1,1063 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app57.us.archive.org';v.server_ms=534;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Guidelines for safety in the gastrointestinal endoscopy unit. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712205034im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712205034im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712205034im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712205034im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712205034/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712205034im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712205034cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712205034js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712205034if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712205034/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712205034if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712205034/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712205034/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712205034/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712205034/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712205034im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712205034im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712205034im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712205034/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712205034/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712205034/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712205034/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712205034/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712205034/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712205034/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712205034/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712205034/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712205034/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712205034/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712205034/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712205034/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712205034/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712205034/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712205034/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712205034/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712205034/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712205034/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712205034/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712205034/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010316</li>
+            <li>2014 Mar
+            </li>            
+                                </ul>
+        <div>
+                <h1>Guidelines for safety in the gastrointestinal endoscopy unit.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712205034/https://www.guideline.gov/search?f_Guideline_Developer_String=American%20Society%20for%20Gastrointestinal%20Endoscopy&amp;fLockTerm=American%2BSociety%2Bfor%2BGastrointestinal%2BEndoscopy">American Society for Gastrointestinal Endoscopy</a></li>
+                        <li>   
+                                <a id="96" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>ASGE Ensuring Safety in the Gastrointestinal Endoscopy Unit Task Force, Calderwood AH, Chapman FJ, Cohen J, Cohen LB, Collins J, Day LW, Early DS. Guidelines for safety in the gastrointestinal endoscopy unit. Gastrointest Endosc. 2014 Mar;79(3):363-72. <a href="https://web.archive.org/web/20180712205034/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24485393" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712205034im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712205034/https://www.guideline.gov/Home/Disclaimer?id=47910&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.asge.org%252fassets%252f0%252f71542%252f71544%252f4a572112-29a4-4313-8ab8-b7801e8f84e2.pdf">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205034im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                            <h4>UMLS Concepts <a href="/web/20180712205034/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0008956&amp;fLockTerm=Clinical+Competence">Clinical Competence</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0008971&amp;fLockTerm=Clinical+Protocols">Clinical Protocols</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0079159&amp;fLockTerm=Conscious+Sedation">Conscious Sedation</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0011121&amp;fLockTerm=Decontamination">Decontamination</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0012683&amp;fLockTerm=Disinfection">Disinfection</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0013961&amp;fLockTerm=Emergency+Medical+Services">Emergency Medical Services</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0752152&amp;fLockTerm=Endoscopes%2c+Gastrointestinal">Endoscopes, Gastrointestinal</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0079278&amp;fLockTerm=Endoscopy%2c+Gastrointestinal">Endoscopy, Gastrointestinal</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0206199&amp;fLockTerm=Equipment+Reuse">Equipment Reuse</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0015474&amp;fLockTerm=Facility+Design+and+Construction">Facility Design and Construction</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0017178&amp;fLockTerm=Gastrointestinal+Diseases">Gastrointestinal Diseases</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C3494474&amp;fLockTerm=Hand+Hygiene">Hand Hygiene</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0085557&amp;fLockTerm=Infection+Control">Infection Control</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0021599&amp;fLockTerm=Inservice+Training">Inservice Training</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C1611232&amp;fLockTerm=Medication+Therapy+Management">Medication Therapy Management</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C1443871&amp;fLockTerm=Personal+Protective+Equipment">Personal Protective Equipment</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0031224&amp;fLockTerm=Personnel+Staffing+and+Scheduling">Personnel Staffing and Scheduling</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MSH_CUI=C0036043&amp;fLockTerm=Safety">Safety</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712205034/https://www.guideline.gov/search?f_MTH_CUI=C0013961&amp;fLockTerm=Emergency+medical+service">Emergency medical service</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MTH_CUI=C0079278&amp;fLockTerm=Endoscopy%2c+Gastrointestinal">Endoscopy, Gastrointestinal</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MTH_CUI=C0017178&amp;fLockTerm=Gastrointestinal+Diseases">Gastrointestinal Diseases</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MTH_CUI=C0085557&amp;fLockTerm=Infectious+disease+prevention+%2f+control">Infectious disease prevention / control</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MTH_CUI=C0021599&amp;fLockTerm=Inservice+Training">Inservice Training</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MTH_CUI=C0030695&amp;fLockTerm=Patient+Monitoring">Patient Monitoring</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MTH_CUI=C1443871&amp;fLockTerm=Personal+protective+equipment">Personal protective equipment</a>
+, <a href="/web/20180712205034/https://www.guideline.gov/search?f_MTH_CUI=C0036043&amp;fLockTerm=Safety">Safety</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712205034/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0079159&amp;fLockTerm=Conscious+sedation">Conscious sedation</a>
+ (314271007), <a href="/web/20180712205034/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0011121&amp;fLockTerm=Decontamination">Decontamination</a>
+ (409530006), <a href="/web/20180712205034/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0017178&amp;fLockTerm=Disorder+of+gastrointestinal+tract">Disorder of gastrointestinal tract</a>
+ (119292006), <a href="/web/20180712205034/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0013961&amp;fLockTerm=Emergency+medical+services">Emergency medical services</a>
+ (409971007), <a href="/web/20180712205034/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0752152&amp;fLockTerm=Gastrointestinal+endoscope">Gastrointestinal endoscope</a>
+ (705509004), <a href="/web/20180712205034/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0079278&amp;fLockTerm=Gastrointestinal+tract+endoscopy">Gastrointestinal tract endoscopy</a>
+ (118155006), <a href="/web/20180712205034/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0085557&amp;fLockTerm=Infection+control+procedure">Infection control procedure</a>
+ (77248004), <a href="/web/20180712205034/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030695&amp;fLockTerm=Monitoring+of+patient">Monitoring of patient</a>
+ (182777000), <a href="/web/20180712205034/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1443871&amp;fLockTerm=Personal+protective+equipment">Personal protective equipment</a>
+ (409526008), <a href="/web/20180712205034/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1320388&amp;fLockTerm=Sedation+management">Sedation management</a>
+ (406187008), <a href="/web/20180712205034/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0557724&amp;fLockTerm=Sterile+environment">Sterile environment</a>
+ (224781007)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712205034/https://www.guideline.gov/search?f_UMD_CUI=C1322688&amp;fLockTerm=Endoscopes%2c+Gastrointestinal+Tract">Endoscopes, Gastrointestinal Tract</a>
+ (20-477)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#394" class="section-mark">Regulatory Alert</a></li>
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712205034/https://www.guideline.gov/summaries/downloadcontent/ngc-10316?contentType=pdf" class="pdf">.PDF 110.5 kb</a></li>
+                            <li><a href="/web/20180712205034/https://www.guideline.gov/summaries/downloadcontent/ngc-10316?contentType=word" class="word">Word Document 312.0 kb</a></li>
+                            <li><a href="/web/20180712205034/https://www.guideline.gov/summaries/downloadcontent/ngc-10316?contentType=xml" class="xml">.XML 56.4 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205034/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/47910/guidelines-for-safety-in-the-gastrointestinal-endoscopy-unit" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205034/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/47910/guidelines-for-safety-in-the-gastrointestinal-endoscopy-unit" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205034/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/47910/guidelines-for-safety-in-the-gastrointestinal-endoscopy-unit&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712205034/mailto:/?Subject=AHRQ: Guidelines for safety in the gastrointestinal endoscopy unit.&amp;body=https://www.guideline.gov/summaries/summary/47910/guidelines-for-safety-in-the-gastrointestinal-endoscopy-unit" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Guidelines for safety in the gastrointestinal endoscopy unit. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Jan 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712205034/https://www.guideline.gov/summaries/citedownload/47910?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712205034/https://www.guideline.gov/summaries/citedownload/47910?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712205034/https://www.guideline.gov/summaries/citedownload/47910?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712205034/https://www.guideline.gov/summaries/citedownload/47910?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712205034/https://www.guideline.gov/summaries/citedownload/47910?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712205034/https://www.guideline.gov/summaries/citedownload/47910">RefWorks</a></li>
+                            <li><a href="/web/20180712205034/https://www.guideline.gov/summaries/citedownload/47910?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="47910" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="394" class="accordion-title section-394 is-active" role="tab" aria-expanded="true"><a href="#">Regulatory Alert</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">FDA Warning/Regulatory Alert</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse</strong>: This guideline references a drug(s) for which important revised regulatory and/or warning information has been released.</p>
+<ul style="list-style-type: disc;">
+    <li><a href="https://web.archive.org/web/20180712205034/http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm518710.htm" target="_blank" title="FDA Web site">August 31, 2016 &ndash; Opioid pain and cough medicines combined with benzodiazepines</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205034im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>: A U.S. Food and Drug Administration (FDA) review has found that the growing combined used of opioid medicines with benzodiazepines or other drugs that depress the central nervous system (CNS) has resulted in serious side effects, including slowed or difficult breathing and deaths. FDA is adding Boxed Warnings to the drug labeling of prescription opioid pain and prescription opioid cough medicines and benzodiazepines. </li>
+</ul></div></p>
+
+            </div>
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Issues and Rationale</span></strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li><strong>Issue</strong>: Structural requirements for 40-inch doors and room sizes &gt;400 square feet required of sterile operating rooms
+    <p><strong>Position</strong>: Standard 36-inch doors, if they accommodate patient transport mechanisms, and room sizes 180 square feet are adequate and safe for endoscopy units because they do not use the same large equipment or number of staff as the operating room.</p>
+    </li>
+    <li><strong>Issue</strong>: Requirement for a written policy on traffic patterns in the endoscopy unit
+    <p><strong>Position</strong>: The unit should define low-risk exposure and high-risk exposure areas and activities within the endoscopy unit and describe the attire and personal protective equipment (PPE) that should be worn in each area. Endoscopy staff can move freely throughout the unit provided that there is appropriate use and changing of PPE.</p>
+    </li>
+    <li><strong>Issue</strong>: Requirement for endoscopy personnel to don full sterile operating room PPE, including new scrubs, hair covers, and booties
+    <p><strong>Position</strong>: It is recommended that staff directly engaged in gastrointestinal (GI) endoscopy or in processes in which splash or contamination could occur wear gloves, face and/or eye shields, and impervious gowns. Units should develop policies that are consistent with Occupational Safety and Health Administration (OSHA) and state-mandated recommendations for wearing face and/or eye shields or masks. Scrubs or other attire may be worn from home because endoscopy is not a sterile procedure. Likewise, there is no need for hair covers or booties. Staff must remove and appropriately discard used PPE before leaving the procedure area.</p>
+    </li>
+    <li><strong>Issue</strong>: Supervision of moderate sedation
+    <p><strong>Position</strong>: Moderate sedation may be administered safely under the supervision of a non-anesthesia physician who is credentialed and privileged to do so.</p>
+    </li>
+    <li><strong>Issue</strong>: Role of capnography
+    <p><strong>Position</strong>: There is inadequate data to support the routine use of capnography when moderate sedation is the target.</p>
+    </li>
+    <li><strong>Issue</strong>: Requirement that 2 nurses (1 monitoring, 1 circulating) are present when moderate sedation is performed
+    <p><strong>Position</strong>: When moderate sedation is the target, a nurse should monitor the patient and can perform interruptible tasks. If more technical assistance is required, a second assistant (nurse, licensed practical nurse [LPN], or unlicensed assistive personnel [UAP]) should be available to join the care team.</p>
+    </li>
+    <li><strong>Issue</strong>: Staffing requirements when sedation and monitoring is provided by anesthesia personnel
+    <p><strong>Position</strong>: When sedation and monitoring are provided by anesthesia personnel, a single additional staff person (nurse, LPN, or UAP) is sufficient to assist with the technical aspects of the procedure.</p>
+    </li>
+    <li><strong>Issue</strong>: Technical capabilities of technicians
+    <p><strong>Position</strong>: Unlicensed technicians who have received initial orientation and ongoing training and are deemed competent by their units, can assist with and participate in tissue acquisition during the endoscopic procedure, including but not limited to the opening and closing of forceps, snares, and other accessories.</p>
+    </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Facilities</span></strong></p>
+<p><strong>Recommendations for Architectural Layout</strong></p>
+<p>Each unit should have a designated flow for the safe physical movement of dirty endoscopes that does not cross-contaminate clean endoscopes coming out of the cleaning process and their storage. Although circular flow is preferable, some units may be constrained by the existing footprint of the facility.</p>
+<p><strong>Recommendations for the Endoscopic Procedure Room</strong></p>
+<p>Endoscopic procedure rooms vary in size, with more complex procedures such as endoscopic retrograde cholangiopancreatography (ERCP) requiring greater space for more specialized equipment and possibly additional staff. For endoscopy, procedure rooms should not be held to the same standards as sterile operating rooms, which require space for anesthesia support and a greater number of staff members and bulkier equipment, none of which are essential for the performance of endoscopy. Standard endoscopic procedures require less space, with requirements varying from as little as 180 square feet to 300 square feet.</p>
+<p>The following are issues within the endoscopic procedure room that are related to patient safety:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Actual marking of the site is not required for endoscopic procedures because endoscopy does not involve lateral right-left distinction levels such as those found in spinal procedures or those done on multiple structures such as fingers or toes. Before starting an endoscopic procedure, the patient, staff, and performing physician should verify the correct patient and procedure to be performed. </li>
+    <li>A reliable and adequate source for oxygen is required. Sources may include in-wall or free-standing oxygen. In some units, carbon dioxide may be used for insufflation of the GI lumen, but this is not a requirement. </li>
+    <li>A suction source for the equipment and patient must be present either in-wall or portable. For tubing and portable suction, the manufacturer's guidelines must be followed. </li>
+    <li>An uninterruptible source of power, supplied either by a generator or battery source is required. The purpose of a secondary power source is to allow completion of the current procedure in the event that the primary power source malfunctions. Procedures should not be started when the only source of power is the secondary source. </li>
+    <li>Units must practice fire safety in adherence with the National Fire Protection Association (NFPA) 101 Life Safety Code, which also dictates the number and type of electrical outlets tied to the generator. The NFPA 101 Life Safety Code recommends that not all outlets be tied to the generator in case the generator fails to disengage once power is restored. </li>
+    <li>The unit's defibrillator and crash cart should be checked at the beginning of each day to ensure that all components are functional, fully stocked, and readily accessible. </li>
+    <li>The routine monitoring of temperature and humidity within the endoscopic procedure area, although advocated by the Centers for Medicare and Medicaid Services (CMS) to theoretically curtail growth of microorganisms and reduce fire hazard, has not been associated with safety outcomes in endoscopic units. In the absence of published guidelines on the optimal ranges for these parameters, routine monitoring of temperature and humidity is not currently warranted. </li>
+    <li>Puncture-resistant containers for biohazardous materials and sharps should be located so that sharps are not passed over the patient. </li>
+    <li>If special therapeutic procedures are planned, specific room features may be required, such as leaded walls when flat-table fluoroscopy is utilized. </li>
+</ol>
+<p><strong>Recommendations for the Endoscopic Recovery Area</strong></p>
+<p>The recovery bays should provide privacy and sufficient space for monitoring and care. The minimum space per bay has not been established. Unit facilities must be able to provide the level of recovery appropriate to the level of sedation utilized.</p>
+<p><strong>Recommendation for Storage of Supplies</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Sterile supply items such as intravenous (IV) solutions should be protected from splash contamination during environmental cleaning (8 to 10 inches off the floor), damage from compression (stacking only ridged containers), and water damage (no storage under sinks). </li>
+    <li>Units should have a process for periodically verifying that supplies marked with an expiration date have not expired. Compliance with this process should be documented. </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Infection Control</span></strong></p>
+<p><strong>Recommendations for Hand Hygiene</strong></p>
+<p>Proper hand washing is considered to be the cornerstone of preventing the transmission of pathogens.</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Hand hygiene should be performed before patient contact (even if gloves are to be worn); after patient contact and before exiting the patient care area; after contact with blood, body fluids, or contaminated surfaces (even if gloves are worn); before performing invasive procedures (i.e., placement or access of intravascular lines); and after glove removal. </li>
+    <li>The use of soap and water is required when hands are visibly soiled and after caring for patients with known or suspected infectious causes of diarrhea such as <em>Clostridium difficile</em>. Otherwise, the use of alcohol-based hand agents is adequate. </li>
+</ol>
+<p><strong>Recommendations for PPE</strong></p>
+<p>The unit should have written policies and procedures regarding PPE that defines activities in which PPE should be worn and the appropriate type. For sterile environments, the use of PPE is commonly dictated by the traffic pattern and location of care, defined as unrestricted, semi-restricted, and restricted areas. In contrast, in the non-sterile endoscopy environment, the use of PPE is dependent on the degree to which staff have the potential to come into direct contact with patients and their bodily fluids during specific activities, rather than the location of care. The risk of exposure can be categorized into low-risk exposure and high-risk exposure, which are defined as follows:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Low-risk exposure: Any personnel not in direct contact with a contaminated endoscope, device or bodily fluid or with the potential for splash contamination. For example, personnel entering the procedure area for a brief period of time who are not involved in direct patient care are considered at low-risk exposure. </li>
+    <li>High-risk exposure: Any personnel working in direct contact with a contaminated endoscope, device, or bodily fluid or any personnel in direct patient care with the potential to come into contact with a contaminated endoscope, device, or bodily fluid. </li>
+</ol>
+<p>Low-risk exposure activities require no PPE. Personnel whose exposure status may change during an endoscopy procedure should have immediate access to PPE should the need arise. High-risk exposure activities require the use of gloves and impervious gowns. Because of the potential for splash exposure to the face, individual units should develop policies based on OSHA and state-mandated recommendations for wearing face and/or eye shields or masks. Hair and shoe covers and gown classifications above Association for the Advancement of Medical Instrumentation level 1 are often included in PPE recommendations. These items generally are mandated for the sterile operating room environment, but there is no evidence to support their requirement or benefit in the non-sterile endoscopy environment.</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Staff must remove and appropriately discard used PPE before leaving the procedure room. PPE should not be reused or worn to care for more than 1 patient. </li>
+    <li>Scrub attire may be worn from home, because endoscopic procedures are performed in a non-sterile environment. </li>
+    <li>Individuals may elect to wear regular clothing covered by an impervious gown. There is no requirement to change clothing once the individual arrives at work. </li>
+    <li>If clothing under the procedure room attire is contaminated with a significant amount of blood or body fluids, the items should be placed in a bag, identified as a potential biohazard, then sent for cleaning to a laundry facility capable of properly cleaning and disinfecting clothing used in healthcare settings. </li>
+</ol>
+<p><strong>Recommendations for Safe Medication Administration Practices</strong></p>
+<p>Safe medication administration practices promote safety in medication administration and have become a highly scrutinized activity within healthcare, in part because of evidence of pathogen transmission resulting from the improper use or reuse of syringes, multiple-dose drug vials, and IV equipment. The Centers for Disease Control and Prevention (CDC) and American Society for Gastrointestinal Endoscopy (ASGE) have issued guidelines outlining safe injection practices. Units should adhere to the following:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Preparing medications for multiple patients should be done in an area away from direct patient care or procedure rooms. </li>
+    <li>Units should appropriately label all medications, including those used for sedation, unless the medication is for immediate use (prepared and administered immediately without leaving the provider's hand). </li>
+    <li>Medications marked either on the container or noted in the package insert as "single patient use" should be used for a single patient only and any remaining drug should be discarded. </li>
+    <li>Units should use new fluid administration sets (e.g., IV tubing) for each patient. </li>
+    <li>Units should prepare and administer injections by using aseptic technique (i.e., cleansing the access diaphragms of medication vials with 70% alcohol before inserting a device in the vial). Single-dose vials, ampules, bags, or bottles of IV solution should be used for a single patient only. </li>
+    <li>Use of a single-dose vial is preferred over multiple dose vials, particularly when medications will be administered to multiple patients. </li>
+    <li>If a multiple-dose vial will be used for more than 1 patient, they should remain in a centralized medication area and should not enter the patient procedure area. These should be dated when opened and discarded according to protocols, in compliance with nationally accepted guidelines, such as those published by the CDC. </li>
+    <li>Units should not re-use a syringe to enter a medication vial or solution, even with a new needle. </li>
+    <li>Units should not use the same syringe to administer medications to multiple patients regardless of whether the needle is changed or an intervening length of IV tubing is used. </li>
+    <li>Units should dispose of used syringes and needles at the point of use in a sharps container that is closable, puncture-resistant, and leak-proof. </li>
+    <li>Units should develop a clearly defined policy for the management of sharps and sharps-related injuries, including the reporting of blood and body fluid exposures. This should be in compliance with federal, state, and local guidelines. </li>
+    <li>Units should maintain a log of sedation medications wasted between patients that can be used to reconcile used and wasted vials at the end of the day. </li>
+    <li>If tubes of lubricant are used for more than one examination, the unit should observe appropriate infection control habits and discard any tube that has potentially been contaminated. </li>
+    <li>Although the multiple-society guideline recommends using sterile water in the irrigation bottle, it is acceptable to use tap water because this has been shown to be safe. The rates of bacterial cultures are no different with the use of tap water versus sterile water, and neither has been associated with clinical infections. </li>
+    <li>Units should follow federal and state requirements for the protection of healthcare personnel from exposure to blood-borne pathogens. </li>
+</ol>
+<p><strong>Recommendations for Safe Handling of Potentially Contaminated Equipment or Surfaces</strong></p>
+<p>Environmental cleaning of surfaces with an appropriate Environmental Protection Agency (EPA)&ndash;labeled disinfectant is mandatory, especially for surfaces that are most likely to become contaminated with pathogens, such as those in close proximity to the patient (e.g., side rails) and other frequently touched surfaces in the unit. Facility policies and procedures should address prompt and appropriate cleaning and decontamination of spills of blood or other potentially infectious material. Units should:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Maintain material safety data sheets for all chemicals used for cleaning and disinfection. These sheets should detail the safe and proper use and emergency protocol for a chemical. Material safety data sheets (MSDS) should be used for training staff on each chemical's safe use. </li>
+    <li>Follow the manufacturer's directions for surface disinfection of patient care items.
+    <ul style="list-style-type: disc;">
+        <li>Appropriate contact time of disinfectant to achieve germicidal kill should be followed. </li>
+        <li>Alcohol should not be used to clean environmental surfaces. </li>
+    </ul>
+    </li>
+    <li>Properly clean and disinfect surfaces that are frequently touched by personnel or dirty equipment in the endoscopic procedure area at the beginning of the day, between cases, and during terminal cleansing. Frequently-touched surfaces may include endoscopy keyboards and video monitors and consoles. </li>
+</ol>
+<p><strong>Recommendations for Terminal Cleansing</strong></p>
+<p>Terminal cleansing involves the cleaning of surfaces to physically remove soil and biofilm, followed by proper disinfection. Typically, this requires use of 2 distinct agents because chemical disinfectants are not effective at cleansing, and cleansing agents are not effective at disinfecting surfaces.</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>The unit should have a terminal cleansing plan that includes methods and chemical agents for cleansing and disinfecting the procedural space at the end of the day. </li>
+    <li>Agents for terminal cleansing should have efficacy in spore removal, which may differ from requirements for agents used in sterile operating rooms. </li>
+    <li>Before the first case of the day, staff should verify that all procedural and recovery areas have been properly cleansed. </li>
+    <li>A training and competency assessment program should be in place for staff members who are involved in terminal cleansing to ensure proper and safe handling and use of the chemicals. </li>
+</ol>
+<p><strong>Recommendations for Reusable Medical Equipment</strong></p>
+<p>The reprocessing protocol of reusable medical equipment such as endoscopes and endoscopic accessories must be strictly followed. The details of reprocessing according to their Spaulding Classification are well described. These policies should be a part of the unit's policies and procedures and core competency assessment.</p>
+<p>Single-use devices as determined by the manufacturer label or packaging insert may not be reprocessed unless they are specifically listed in the U.S. Food and Drug Administration (FDA) 510(k) database. If so, they must be reprocessed by entities that have complied with FDA regulatory requirements and have received FDA clearance to reprocess specific single-use devices.</p>
+<p>Written policies and procedures regarding infection control for a unit should be documented.</p>
+<p><strong><span style="text-decoration: underline;">Staffing</span></strong></p>
+<p><strong>Recommendations for Preprocedure Staffing</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Staffing models in the preprocedure area should support activities required to prepare patients for endoscopy. </li>
+    <li>The ratio of registered nurses (RNs) to patients in preprocedure care is variable depending on the complexity of the patient mix. </li>
+</ol>
+<p><strong>Recommendations for Intraprocedure Staffing Based on Level of Sedation</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>No sedation - One assistant (RN, LPN, or UAP) other than the physician performing the procedure should be present to assist with the technical aspects of the procedure. </li>
+    <li>Moderate sedation (also known as conscious sedation) - Sedation should be directed by a physician who is credentialed and privileged to do so. Moderate sedation can be administered by an RN. During the period in which the patient is sedated, the RN must monitor the patient for vital sign changes, hypoxemia, and comfort. The RN may assist with minor, interruptible tasks. In the event that more intense technical assistance is required, a second assistant (RN, LPN, or UAP) should be available to join the care team for the technical aspects of the procedure. </li>
+    <li>Deep sedation - Most institutions require that deep sedation be administered by an anesthesia professional such as an anesthesiologist, certified registered nurse anesthetist (CRNA), or anesthesiologist assistant who is credentialed and privileged to do so. In this situation, the anesthesia provider should be responsible for administering sedation and monitoring the patient. A second staff person (RN, LPN, or UAP) is required to assist with technical aspects of the procedure. </li>
+</ol>
+<p><strong>Recommendations for Postprocedure Staffing</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>An RN is required to monitor patients who have received sedation until the patient is stabilized and to assess for adverse events related to the endoscopic procedure. </li>
+    <li>Once the patient is stable, postprocedure activities such as providing food or drinks and assistance in changing clothes can be performed by an RN, LPN, or UAP. </li>
+    <li>The ratio of RNs to patients in the postprocedure setting is variable depending on the complexity of the patient mix. </li>
+</ol>
+<p><strong>Recommendations for Training</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Sedation - Sedation should be administered by an RN under the supervision of the endoscopist who is credentialed and privileged to do so or by anesthesia personnel (physician or CRNA) who are credentialed and privileged to do so. These individuals should be specifically trained in endoscopic sedation, including the modes of action and adverse events of the sedative agents being used. This training should be documented. The staff administering sedation must have the knowledge and skills to recognize when the sedation level becomes deeper than planned and to manage and support patients' cardiopulmonary responses to sedation accordingly. On verification of the RN's training, the unit should document the privileging of the RN to provide moderate sedation under the direct supervision of a physician. LPNs and UAPs are not qualified to administer sedation. </li>
+    <li>Technical assistance - Technical assistance can be provided by a variety of staff members, including UAPs, LPNs, RNs, and GI technicians. Training in the use of endoscopic equipment, accessories, and ancillary equipment should be documented and include an objective assessment of initial competence and annual competency testing thereafter to ensure and document that skills are maintained. </li>
+    <li>Basic and advanced cardiac life support- All staff with clinical responsibilities must have basic life support certification. At least one individual with advanced cardiac life support certification must be present in the unit when patients are present. </li>
+    <li>A written policy on staff training along with the type and frequency of core competency assessment should be documented. </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Endoscopic Sedation</span></strong></p>
+<p><strong>Recommendations for the Sedation-Related Environment</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Units should comply with applicable federal and state laws regarding licensure and/or certification of all staff involved in the administration and monitoring of sedation and document training and competencies. </li>
+    <li>Established discharge criteria should be attained before discharge from the endoscopy unit. Patients who received IV sedation during their endoscopic procedure should be discharged in the presence of a responsible individual. A written policy on discharge requirements should be documented. </li>
+    <li>An agreement should exist between the unit and a hospital facility for the transfer of patients who require escalation of care. A written transfer agreement should be documented. </li>
+    <li>A focused history and physical examination, including the patient's current medications and American Society of Anesthesiologists (ASA) classification, should be completed before the start of the procedure. </li>
+</ol>
+<p><strong>Recommendations for Sedation-Related Equipment</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>All sedation-related equipment, before initial use and then at intervals dictated by the manufacturer's guidelines, should be examined and verified to be in proper working order by a qualified biotechnician. </li>
+    <li>Oxygen, suction for the mouth, and electronic equipment that can monitor and display pulse, blood pressure, oxygen saturation, and continuous electrocardiographic rhythm assessment should be available in the procedure room. A written policy for equipment checks and maintenance should be in place. A log to monitor compliance should be maintained. </li>
+</ol>
+<p><strong>Recommendations for Patient Monitoring</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>All patients undergoing endoscopy should be monitored, the frequency of which depends on procedural and patient factors (e.g., type of sedation, duration and complexity of procedure, patient condition). At a minimum, monitoring should be performed before the procedure, after administration of sedatives, at regular intervals during the procedure, during initial recovery, and just before discharge. </li>
+    <li>Units should have procedures in place to rescue patients who are sedated deeper than intended. </li>
+    <li>When the target level is moderate sedation (also known as conscious sedation):
+    <ul style="list-style-type: disc;">
+        <li>The individual assigned responsibility for patient monitoring may perform brief, interruptible tasks. </li>
+        <li>Minimal monitoring requirements include electronic assessment of blood pressure, respiratory rate, heart rate, and pulse oximetry combined with visual monitoring of the patient's level of consciousness and discomfort. </li>
+        <li>Currently, there are inadequate data to support the routine or required use of capnography during endoscopic procedures in adults when moderate sedation is the target. </li>
+    </ul>
+    </li>
+    <li>When deep sedation is targeted:
+    <ul style="list-style-type: disc;">
+        <li>The individual responsible for patient monitoring must be dedicated solely to that task and may not perform any other function during the procedure. </li>
+        <li>The use of capnography in endoscopic ultrasound (EUS), ERCP, and colonoscopy to assess the adequacy of ventilation may reduce the incidence of hypoxemia and apnea, but its impact on the frequency of other sedation-related adverse events such as bradycardia and hypotension is unknown. As such, capnography may be considered for the performance of endoscopy under deep sedation. However, there is no safety data to date to support the universal use of capnography in such cases. </li>
+        <li>Documentation of the clinical assessments and monitoring data during sedation and recovery is required. </li>
+    </ul>
+    </li>
+</ol>
+<p><strong>Recommendations for Medications</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Written policies detailing the methods of drug storage, monitoring of drug inventory and expiration dates, and documentation of compliance with these policies are required. </li>
+    <li>There should be an individual qualified by training and licensure (such as a physician or pharmacist) who is directly responsible for overseeing medication usage in the unit. </li>
+    <li>Medications should be securely stored under environmental conditions consistent with the manufacturer's instructions on the label. The use of single-dose vials for all sedative and analgesic medications is strongly recommended. </li>
+    <li>Controlled substances should be stored in a double-locked cabinet, and a daily medication log compliant with state and federal regulations should be maintained. Disposal of unused narcotics and other controlled drugs should be witnessed by 2 individuals and documented. </li>
+    <li>Medications should be given only under the order of the supervising physician or anesthesia professionals when applicable. </li>
+    <li>Reversal agents for opioids and benzodiazepines should be readily available. </li>
+    <li>A written policy should be in place for the identification, documentation, and review of adverse drug reactions. </li>
+</ol>
+<p><strong>Recommendations for Emergency Management</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Appropriate pharmaceutical agents, oxygen, oral suction, laryngoscope, Ambu bag, and defibrillator should be readily available in the unit. </li>
+    <li>Units should train and periodically provide in-service education for staff in the use of equipment for emergency management. Training and assessment of competency should be documented. </li>
+</ol></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Conditions requiring gastrointestinal endoscopy</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Management</p>
+                    <p>Prevention</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Gastroenterology</p>
+                    <p>Infectious Diseases</p>
+                    <p>Internal Medicine</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Allied Health Personnel</p>
+                    <p>Hospitals</p>
+                    <p>Nurses</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To present recommendations for endoscopy units in implementing and prioritizing safety efforts and to provide an endoscopy-specific guideline by which to evaluate endoscopy units</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Patients requiring gastrointestinal endoscopy</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Consideration for facilities, including architectural layout, endoscopic procedure room and recovery area features, storage of supplies </li>
+    <li>Pathogen transmission prevention plan (hand hygiene) </li>
+    <li>Written policies and procedures for staff use of personal protective equipment (PPE) </li>
+    <li>Adherence to safe medication administration practices </li>
+    <li>Establishment of facility policies and procedures for infectious material cleaning and decontamination </li>
+    <li>Terminal cleansing plan </li>
+    <li>Protocol for reusable medical equipment </li>
+    <li>Appropriate staffing based on patient and procedural factors </li>
+    <li>Staff training and core competency </li>
+    <li>Safety considerations for sedation related environments, equipment, medications and patient monitoring </li>
+    <li>Ready availability of emergency management equipment and staff training </li>
+</ol></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><div class="content_para"><p>Incidence and severity of procedure-related adverse events</p></div></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Hand-searches of Published Literature (Primary Sources)</p>
+                    <p>Hand-searches of Published Literature (Secondary Sources)</p>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p>The guideline developers reviewed existing endoscopy guidelines (US and international), Association of periOperative Registered Nurses (AORN), Society of Gastroenterology Nurses and Associates (SGNA), and Centers for Disease Control and Prevention (CDC) guidelines, performed a literature search in PubMed and reviewed reference lists from cited articles.</p>
+<p>General search terms included "endoscopy," "patient safety," "infection control," "sedation," "monitoring," "staffing." More specific search terms were then used for specific sections. For example, for the infection control section, terms included "hand hygiene," "CDC," "AORN."</p>
+<p>The literature search included publications from 1990 to 2013. Inclusion criteria: guidelines, consensus statements, policy statements, original articles, editorials written in English. Exclusion criteria: publications in language other than English.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p>Not applicable</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Review</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p>Not applicable</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>A cost analysis was not performed and published cost analyses were not reviewed.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>This document was reviewed and approved by the Governing Board of the American Society for Gastrointestinal Endoscopy. This document was reviewed and endorsed by the American Association for the Study of Liver Diseases, American College of Gastroenterology, American Gastroenterological Association Institute, Ambulatory Surgery Center Association, American Society of Colon and Rectal Surgeons, and Society of American Gastrointestinal and Endoscopic Surgeons.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of evidence supporting the&nbsp;recommendations is not specifically stated.</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>Appropriate management of individuals undergoing gastrointestinal (GI) endoscopy</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><div class="content_para"><p>As a general principle, requirements for safety ought to be rooted in evidence that demonstrates a benefit in outcomes. When data are absent, these requirements may be derived from experts with experience in the safe delivery of care in the gastrointestinal (GI) endoscopy setting. Additionally, consideration should be given to the promotion of efficient care and cost containment, with avoidance of requirements unsupported by evidence that then contribute to rising healthcare costs.</p></div></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>An implementation strategy was not provided.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Patient Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+                    <p>Safety</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>ASGE Ensuring Safety in the Gastrointestinal Endoscopy Unit Task Force, Calderwood AH, Chapman FJ, Cohen J, Cohen LB, Collins J, Day LW, Early DS. Guidelines for safety in the gastrointestinal endoscopy unit. Gastrointest Endosc. 2014 Mar;79(3):363-72. <a href="https://web.archive.org/web/20180712205034/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24485393" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712205034im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2014 Mar</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>American Society for Gastrointestinal Endoscopy - Medical Specialty Society</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>American Society for Gastrointestinal Endoscopy</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>American Society for Gastrointestinal Endoscopy (ASGE) Ensuring Safety in the Gastrointestinal Endoscopy Unit Task Force</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Task Force Members</em>: Audrey H. Calderwood, MD (<em>Co-Chair</em>); Frank J. Chapman, MBA (<em>Co-Chair</em>); Jonathan Cohen, MD; Lawrence B. Cohen, MD; James Collins, BS, RN, CNOR; Lukejohn W. Day, MD; Dayna S. Early, MD</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>All authors disclosed no financial relationships relevant to the guideline.</p></div></p>
+                        <h3><a href="#">Guideline Endorser(s)</a></h3>
+                    <p>Ambulatory Surgery Center Association - Professional Association</p>
+                    <p>American Association for the Study of Liver Diseases - Nonprofit Research Organization</p>
+                    <p>American College of Gastroenterology - Medical Specialty Society</p>
+                    <p>American Gastroenterological Association Institute - Medical Specialty Society</p>
+                    <p>American Society of Colon and Rectal Surgeons - Medical Specialty Society</p>
+                    <p>Society of American Gastrointestinal and Endoscopic Surgeons - Medical Specialty Society</p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Electronic copies: Available in Portable Document Format (PDF) from the <a href="/web/20180712205034/https://www.guideline.gov/Home/Disclaimer?id=47910&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.asge.org%2fassets%2f0%2f71542%2f71544%2f4a572112-29a4-4313-8ab8-b7801e8f84e2.pdf" title="American Society for Gastrointestinal Endoscopy Web site">American Society for Gastrointestinal Endoscopy (ASGE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205034im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>Print copies: Available from the American Society for Gastrointestinal Endoscopy, 1520 Kensington Road, Suite 202, Oak Brook, IL 60523</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Make the best choice for your endoscopic procedure. Patient education brochure. Available from the <a href="/web/20180712205034/https://www.guideline.gov/Home/Disclaimer?id=47910&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.asge.org%2fpatients%2fpatients.aspx%3fid%3d376" title="American Society for Gastrointestinal Endoscopy (ASGE) Web site">American Society for Gastrointestinal Endoscopy (ASGE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205034im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Ensuring the safety of your endoscopic procedure. Patient education brochure. Available from the <a href="/web/20180712205034/https://www.guideline.gov/Home/Disclaimer?id=47910&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.asge.org%2fpatients%2fpatients.aspx%3fid%3d404" title="American Society for Gastrointestinal Endoscopy (ASGE) Web site">ASGE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205034im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p class="Disclaimer">Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on May 22, 2014. This summary was updated by ECRI Institute on June 2, 2016 following the U.S. Food and Drug Administration advisory on opioid pain medicines. This summary was updated by ECRI Institute on October 21, 2016 following the U.S. Food and Drug Administration advisory on opioid pain and cough medicines combined with benzodiazepines. This summary was updated by ECRI Institute on February 15, 2017 following the U.S. Food and Drug Administration advisory on general anesthetic and sedation drugs.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712205034/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712205034/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712205034/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712205034/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712205034/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712205034/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712205034/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205034/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205034/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205034/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205034/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205034/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712205034/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712205034/https://www.guideline.gov/disclaimer?id=47910&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712205034im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712205034im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712205034/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712205034/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712205034/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712205034/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712205034/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712205034/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712205034/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712205034/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712205034/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712205034/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712205034/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712205034/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712205034/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712205034/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712205034/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712205034/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712205034/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712205034/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712205034/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712205034im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712205034im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712205034/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712205034im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712205034im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712205034/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712205034js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712205034js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:50:34 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:51:19 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 317.828 (3)
+  esindex: 0.009
+  captures_list: 337.99
+  CDXLines.iter: 10.628 (3)
+  PetaboxLoader3.datanode: 268.64 (4)
+  exclusion.robots: 0.22
+  exclusion.robots.policy: 0.205
+  RedisCDXSource: 6.576
+  PetaboxLoader3.resolve: 185.571
+  load_resource: 177.179
+-->

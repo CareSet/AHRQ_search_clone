@@ -1,0 +1,1405 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app16.us.archive.org';v.server_ms=307;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Clinical practice guidelines for the management of pain, agitation, and delirium in adult patients in the intensive care unit. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712194717im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712194717im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712194717im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712194717im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712194717/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712194717im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712194717cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712194717js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712194717if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712194717/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712194717if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712194717/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712194717/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712194717/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712194717/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712194717im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712194717im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712194717im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712194717/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712194717/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712194717/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712194717/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712194717/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712194717/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712194717/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712194717/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712194717/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712194717/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712194717/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712194717/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712194717/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712194717/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712194717/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712194717/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712194717/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712194717/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712194717/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712194717/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712194717/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:009692</li>
+            <li>1995 (revised 2013 Jan)
+            </li>            
+                                </ul>
+        <div>
+                <h1>Clinical practice guidelines for the management of pain, agitation, and delirium in adult patients in the intensive care unit.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712194717/https://www.guideline.gov/search?f_Guideline_Developer_String=Society%20of%20Critical%20Care%20Medicine&amp;fLockTerm=Society%2Bof%2BCritical%2BCare%2BMedicine">Society of Critical Care Medicine</a></li>
+                        <li>   
+                                <a id="335" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Barr J, Fraser GL, Puntillo K, Ely EW, Gélinas C, Dasta JF, Davidson JE, Devlin JW, Kress JP, Joffe AM, Coursin DB, Herr DL, Tung A, Robinson BRH, Fontaine DK, Ramsay MA, Riker RR, Sessler CN, Pun B, Skrobik Y, Jaeschke R, American College of Critical Care Medicine. Clinical practice guidelines for the management of pain, agitation, and delirium  in adult patients in the intensive care unit. Crit Care Med. 2013 Jan;41(1):263-306. [472 references] <a href="https://web.archive.org/web/20180712194717/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23269131" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194717im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712194717/https://www.guideline.gov/Home/Disclaimer?id=43903&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.learnicu.org%252fSiteCollectionDocuments%252fClinical%252520Practice%252520Guidelines%252520for%252520the%252520Management%252520of%252520Pain%252c%252520Agitation%252c%252520and%252520Delirium%252520in%252520Adult%252520Patients%252520in%252520the%252520Intensive%252520Care%252520Un.pdf">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194717im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Clinical practice guidelines for the sustained use of sedatives and analgesics in the critically ill adult. Am J Health Syst Pharm 2002 Jan 15;59(2):150-78. [235 references]</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712194717/https://www.guideline.gov/search?f_Age_of_Target_Population=Adolescent%20%2813%20to%2018%20years%29&amp;fLockTerm=Adolescent%2B%2813%2Bto%2B18%2Byears%29">Adolescent (13 to 18 years)</a></li>                      
+                        <li><a href="/web/20180712194717/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712194717/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712194717/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712194717/https://www.guideline.gov/search?f_Age_of_Target_Population=Child%20%282%20to%2012%20years%29&amp;fLockTerm=Child%2B%282%2Bto%2B12%2Byears%29">Child (2 to 12 years)</a></li>                      
+                        <li><a href="/web/20180712194717/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712194717/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712194717/https://www.guideline.gov/search?f_ICD9CM_CUI=C1456296&amp;fLockTerm=Delirium+due+to+conditions+classified+elsewhere">Delirium due to conditions classified elsewhere</a>
+ (293.0), <a href="/web/20180712194717/https://www.guideline.gov/search?f_ICD9CM_CUI=C0013819&amp;fLockTerm=Electroencephalogram">Electroencephalogram</a>
+ (89.14), <a href="/web/20180712194717/https://www.guideline.gov/search?f_ICD9CM_CUI=C0031809&amp;fLockTerm=General+physical+examination">General physical examination</a>
+ (89.7), <a href="/web/20180712194717/https://www.guideline.gov/search?f_ICD9CM_CUI=C0178060&amp;fLockTerm=Other+psychiatric+drug+therapy">Other psychiatric drug therapy</a>
+ (94.25)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0002508&amp;fLockTerm=Amines">Amines</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C3202977&amp;fLockTerm=Analgesia">Analgesia</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0002771&amp;fLockTerm=Analgesics">Analgesics</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0002772&amp;fLockTerm=Analgesics%2c+Opioid">Analgesics, Opioid</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0002913&amp;fLockTerm=Anesthesia%2c+Epidural">Anesthesia, Epidural</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0003211&amp;fLockTerm=Anti-Inflammatory+Agents%2c+Non-Steroidal">Anti-Inflammatory Agents, Non-Steroidal</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0040615&amp;fLockTerm=Antipsychotic+Agents">Antipsychotic Agents</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0006949&amp;fLockTerm=Carbamazepine">Carbamazepine</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C1707357&amp;fLockTerm=Checklist">Checklist</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0079159&amp;fLockTerm=Conscious+Sedation">Conscious Sedation</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0010340&amp;fLockTerm=Critical+Illness">Critical Illness</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0010567&amp;fLockTerm=Cyclohexanecarboxylic+Acids">Cyclohexanecarboxylic Acids</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0011206&amp;fLockTerm=Delirium">Delirium</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0113293&amp;fLockTerm=Dexmedetomidine">Dexmedetomidine</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0013457&amp;fLockTerm=Early+Ambulation">Early Ambulation</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0013819&amp;fLockTerm=Electroencephalography">Electroencephalography</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0015215&amp;fLockTerm=Evoked+Potentials%2c+Auditory">Evoked Potentials, Auditory</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0016904&amp;fLockTerm=gamma-Aminobutyric+Acid">gamma-Aminobutyric Acid</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0020592&amp;fLockTerm=Hypnotics+and+Sedatives">Hypnotics and Sedatives</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0021599&amp;fLockTerm=Inservice+Training">Inservice Training</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0021708&amp;fLockTerm=Intensive+Care+Units">Intensive Care Units</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0025084&amp;fLockTerm=Medical+History+Taking">Medical History Taking</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0027415&amp;fLockTerm=Narcotics">Narcotics</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0030193&amp;fLockTerm=Pain">Pain</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0002766&amp;fLockTerm=Pain+Management">Pain Management</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0030198&amp;fLockTerm=Pain+Measurement">Pain Measurement</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0030679&amp;fLockTerm=Patient+Care+Team">Patient Care Team</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0031809&amp;fLockTerm=Physical+Examination">Physical Examination</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0033487&amp;fLockTerm=Propofol">Propofol</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0033978&amp;fLockTerm=Psychotropic+Drugs">Psychotropic Drugs</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0035028&amp;fLockTerm=Relaxation">Relaxation</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0035648&amp;fLockTerm=Risk+Factors">Risk Factors</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0037313&amp;fLockTerm=Sleep">Sleep</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MSH_CUI=C0037316&amp;fLockTerm=Sleep+Deprivation">Sleep Deprivation</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0085631&amp;fLockTerm=Agitation">Agitation</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0002508&amp;fLockTerm=Amines">Amines</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C3202977&amp;fLockTerm=Analgesia">Analgesia</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0002771&amp;fLockTerm=Analgesics">Analgesics</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0002772&amp;fLockTerm=Analgesics%2c+Opioid">Analgesics, Opioid</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0003211&amp;fLockTerm=Anti-Inflammatory+Agents%2c+Non-Steroidal">Anti-Inflammatory Agents, Non-Steroidal</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C2228411&amp;fLockTerm=auditory+evoked+potential+(procedure)">auditory evoked potential (procedure)</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0015215&amp;fLockTerm=Auditory+Evoked+Potentials">Auditory Evoked Potentials</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C1301882&amp;fLockTerm=Bispectral+index+(assessment+scale)">Bispectral index (assessment scale)</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0006949&amp;fLockTerm=Carbamazepine">Carbamazepine</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C1707357&amp;fLockTerm=Checklist">Checklist</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0011206&amp;fLockTerm=Delirium">Delirium</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0013819&amp;fLockTerm=Electroencephalography">Electroencephalography</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0002913&amp;fLockTerm=Epidural+Anesthesia">Epidural Anesthesia</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0060926&amp;fLockTerm=gabapentin">gabapentin</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0020592&amp;fLockTerm=Hypnotics+and+Sedatives">Hypnotics and Sedatives</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0021599&amp;fLockTerm=Inservice+Training">Inservice Training</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0085559&amp;fLockTerm=intensive+care">intensive care</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0021708&amp;fLockTerm=intensive+care+unit">intensive care unit</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0027415&amp;fLockTerm=Narcotics">Narcotics</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C1518471&amp;fLockTerm=Numeric+Pain+Scale">Numeric Pain Scale</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0030193&amp;fLockTerm=Pain">Pain</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0002766&amp;fLockTerm=Pain+management">Pain management</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C1504479&amp;fLockTerm=Pain+scale">Pain scale</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0031809&amp;fLockTerm=physical+examination">physical examination</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0034394&amp;fLockTerm=Questionnaires">Questionnaires</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0035028&amp;fLockTerm=Relaxation">Relaxation</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0086930&amp;fLockTerm=Risk+Assessment">Risk Assessment</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0035648&amp;fLockTerm=risk+factors">risk factors</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0344106&amp;fLockTerm=Sedation+procedure">Sedation procedure</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0036557&amp;fLockTerm=Sedatives">Sedatives</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0234215&amp;fLockTerm=Sensory+Discomfort">Sensory Discomfort</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0037313&amp;fLockTerm=Sleep">Sleep</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_MTH_CUI=C0037316&amp;fLockTerm=Sleep+Deprivation">Sleep Deprivation</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712194717/https://www.guideline.gov/search?f_PDQ_CUI=C0006949&amp;fLockTerm=carbamazepine">carbamazepine</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_PDQ_CUI=C0011206&amp;fLockTerm=delirium">delirium</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_PDQ_CUI=C0060926&amp;fLockTerm=gabapentin">gabapentin</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_PDQ_CUI=C0030193&amp;fLockTerm=pain">pain</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_PDQ_CUI=C0002766&amp;fLockTerm=pain+therapy">pain therapy</a>
+, <a href="/web/20180712194717/https://www.guideline.gov/search?f_PDQ_CUI=C0033487&amp;fLockTerm=propofol">propofol</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002508&amp;fLockTerm=Amine">Amine</a>
+ (43201005), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002771&amp;fLockTerm=Analgesic">Analgesic</a>
+ (373265006), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002771&amp;fLockTerm=Analgesic">Analgesic</a>
+ (53009005), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040615&amp;fLockTerm=Anti-psychotic+agent">Anti-psychotic agent</a>
+ (10784006), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040615&amp;fLockTerm=Anti-psychotic+agent">Anti-psychotic agent</a>
+ (372482001), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015215&amp;fLockTerm=Auditory+evoked+potential">Auditory evoked potential</a>
+ (102969006), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1301882&amp;fLockTerm=Bispectral+index">Bispectral index</a>
+ (398204001), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0006949&amp;fLockTerm=Carbamazepine">Carbamazepine</a>
+ (387222003), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0006949&amp;fLockTerm=Carbamazepine">Carbamazepine</a>
+ (40820003), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0079159&amp;fLockTerm=Conscious+sedation">Conscious sedation</a>
+ (314271007), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0011206&amp;fLockTerm=Delirium">Delirium</a>
+ (2776000), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0011206&amp;fLockTerm=Delirium">Delirium</a>
+ (419567006), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0113293&amp;fLockTerm=Dexmedetomidine">Dexmedetomidine</a>
+ (437750002), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0113293&amp;fLockTerm=Dexmedetomidine">Dexmedetomidine</a>
+ (438079000), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0013819&amp;fLockTerm=Electroencephalogram">Electroencephalogram</a>
+ (54550000), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002913&amp;fLockTerm=Epidural+anesthesia">Epidural anesthesia</a>
+ (18946005), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0179047&amp;fLockTerm=Epidural+anesthesia+kit">Epidural anesthesia kit</a>
+ (701304004), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+ (183301007), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+ (256235009), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+ (61686008), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0085631&amp;fLockTerm=Feeling+agitated">Feeling agitated</a>
+ (24199005), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0060926&amp;fLockTerm=Gabapentin">Gabapentin</a>
+ (108402001), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0060926&amp;fLockTerm=Gabapentin">Gabapentin</a>
+ (386845007), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0016904&amp;fLockTerm=Gamma-aminobutyric+acid">Gamma-aminobutyric acid</a>
+ (259100002), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0021708&amp;fLockTerm=Intensive+care+unit">Intensive care unit</a>
+ (309904001), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003211&amp;fLockTerm=Non-steroidal+anti-inflammatory+agent">Non-steroidal anti-inflammatory agent</a>
+ (16403005), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003211&amp;fLockTerm=Non-steroidal+anti-inflammatory+agent">Non-steroidal anti-inflammatory agent</a>
+ (372665008), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030193&amp;fLockTerm=Pain">Pain</a>
+ (22253000), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030198&amp;fLockTerm=Pain+assessment">Pain assessment</a>
+ (225399009), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002766&amp;fLockTerm=Pain+management">Pain management</a>
+ (278414003), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0031809&amp;fLockTerm=Physical+examination">Physical examination</a>
+ (302199004), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0031809&amp;fLockTerm=Physical+examination">Physical examination</a>
+ (5880005), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0031809&amp;fLockTerm=Physical+examination">Physical examination</a>
+ (81375008), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0033487&amp;fLockTerm=Propofol">Propofol</a>
+ (387423006), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0033487&amp;fLockTerm=Propofol">Propofol</a>
+ (74674007), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0033978&amp;fLockTerm=Psychotherapeutic+agent">Psychotherapeutic agent</a>
+ (418183005), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0033978&amp;fLockTerm=Psychotherapeutic+agent">Psychotherapeutic agent</a>
+ (419937006), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0033978&amp;fLockTerm=Psychotherapeutic+agent">Psychotherapeutic agent</a>
+ (46063005), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0086930&amp;fLockTerm=Risk+assessment">Risk assessment</a>
+ (225338004), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0035648&amp;fLockTerm=Risk+factor">Risk factor</a>
+ (80943009), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0344106&amp;fLockTerm=Sedation">Sedation</a>
+ (72641008), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0036557&amp;fLockTerm=Sedative">Sedative</a>
+ (349859000), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0036557&amp;fLockTerm=Sedative">Sedative</a>
+ (372614000), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0234215&amp;fLockTerm=Sensory+discomfort">Sensory discomfort</a>
+ (87128005), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0037313&amp;fLockTerm=Sleep">Sleep</a>
+ (258158006), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0037316&amp;fLockTerm=Sleep+deprivation">Sleep deprivation</a>
+ (130989002), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1828430&amp;fLockTerm=Trial+for+daily+interruption+of+sedation+during+mechanically+assisted+ventilation">Trial for daily interruption of sedation during mechanically assisted ventilation</a>
+ (424282004), <a href="/web/20180712194717/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1828139&amp;fLockTerm=Trial+for+spontaneous+breathing">Trial for spontaneous breathing</a>
+ (424139009)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712194717/https://www.guideline.gov/search?f_UMD_CUI=C1609452&amp;fLockTerm=Physiologic+Monitor+Modules%2c+Electroencephalography">Physiologic Monitor Modules, Electroencephalography</a>
+ (20-783), <a href="/web/20180712194717/https://www.guideline.gov/search?f_UMD_CUI=C0179047&amp;fLockTerm=Procedure+Kit%2fTrays%2c+Anesthesia%2c+Epidural">Procedure Kit/Trays, Anesthesia, Epidural</a>
+ (10-127)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#394" class="section-mark">Regulatory Alert</a></li>
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#430" class="section-mark">Contraindications</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712194717/https://www.guideline.gov/summaries/downloadcontent/ngc-9692?contentType=pdf" class="pdf">.PDF 128.0 kb</a></li>
+                            <li><a href="/web/20180712194717/https://www.guideline.gov/summaries/downloadcontent/ngc-9692?contentType=word" class="word">Word Document 329.8 kb</a></li>
+                            <li><a href="/web/20180712194717/https://www.guideline.gov/summaries/downloadcontent/ngc-9692?contentType=xml" class="xml">.XML 74.1 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712194717/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/43903/clinical-practice-guidelines-for-the-management-of-pain-agitation-and-delirium-in-adult-patients-in-the-intensive-care-unit" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712194717/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/43903/clinical-practice-guidelines-for-the-management-of-pain-agitation-and-delirium-in-adult-patients-in-the-intensive-care-unit" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712194717/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/43903/clinical-practice-guidelines-for-the-management-of-pain-agitation-and-delirium-in-adult-patients-in-the-intensive-care-unit&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712194717/mailto:/?Subject=AHRQ: Clinical practice guidelines for the management of pain, agitation, and delirium in adult patients in the intensive care unit.&amp;body=https://www.guideline.gov/summaries/summary/43903/clinical-practice-guidelines-for-the-management-of-pain-agitation-and-delirium-in-adult-patients-in-the-intensive-care-unit" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Clinical practice guidelines for the management of pain, agitation, and delirium in adult patients in the intensive care unit. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2013 Jan 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712194717/https://www.guideline.gov/summaries/citedownload/43903?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712194717/https://www.guideline.gov/summaries/citedownload/43903?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712194717/https://www.guideline.gov/summaries/citedownload/43903?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712194717/https://www.guideline.gov/summaries/citedownload/43903?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712194717/https://www.guideline.gov/summaries/citedownload/43903?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712194717/https://www.guideline.gov/summaries/citedownload/43903">RefWorks</a></li>
+                            <li><a href="/web/20180712194717/https://www.guideline.gov/summaries/citedownload/43903?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="43903" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="394" class="accordion-title section-394 is-active" role="tab" aria-expanded="true"><a href="#">Regulatory Alert</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">FDA Warning/Regulatory Alert</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse</strong>: This guideline references a drug(s) for which important revised regulatory and/or warning information has been released.</p>
+<ul style="list-style-type: disc;">
+    <li><a href="https://web.archive.org/web/20180712194717/http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm518710.htm" target="_blank" title="FDA Web site">August 31, 2016 &ndash; Opioid pain and cough medicines combined with benzodiazepines</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194717im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>: A U.S. Food and Drug Administration (FDA) review has found that the growing combined used of opioid medicines with benzodiazepines or other drugs that depress the central nervous system (CNS) has resulted in serious side effects, including slowed or difficult breathing and deaths. FDA is adding Boxed Warnings to the drug labeling of prescription opioid pain and prescription opioid cough medicines and benzodiazepines. </li>
+</ul></div></p>
+
+            </div>
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>The grades of evidence <strong>(A-C)</strong> and levels of recommendations<strong> (1-2, in favor or against)</strong> are defined at the end of the "Major Recommendations" field.</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Pain and Analgesia
+    <ol style="list-style-type: lower-alpha;" start="1">
+        <li>Incidence of pain
+        <ol style="list-style-type: lower-roman;" start="1">
+            <li>Adult medical, surgical, and trauma intensive care unit (ICU) patients routinely experience pain, both at rest and with routine ICU care. <strong>(B)</strong> </li>
+            <li>Pain in adult cardiac surgery patients is common and poorly treated; women experience more pain than men after cardiac surgery. <strong>(B)</strong> </li>
+            <li>Procedural pain is common in adult ICU patients. <strong>(B)</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style="list-style-type: lower-alpha;" start="2">
+        <li>Pain assessment
+        <ol style="list-style-type: lower-roman;" start="1">
+            <li>The task force recommends that pain be routinely monitored in all adult ICU patients. <strong>(+1B)</strong> </li>
+            <li>The Behavioral Pain Scale (BPS) and the Critical-Care Pain Observation Tool (CPOT) are the most valid and reliable behavioral pain scales for monitoring pain in medical, postoperative, or trauma (except for brain injury) adult ICU patients who are unable to self-report and in whom motor function is intact and behaviors are observable. Using these scales in other ICU patient populations and translating them into foreign languages other than French or English require further validation testing. <strong>(B)</strong> </li>
+            <li>The task force does not suggest that vital signs (or observational pain scales that include vital signs) be used alone for pain assessment in adult ICU patients. <strong>(&ndash;2C)</strong> </li>
+            <li>The task force suggests that vital signs may be used as a cue to begin further assessment of pain in these patients, however. <strong>(+2C)</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style="list-style-type: lower-alpha;" start="3">
+        <li>Treatment of pain
+        <ol style="list-style-type: lower-roman;" start="1">
+            <li>The task force recommends that preemptive analgesia and/or nonpharmacologic interventions (e.g., relaxation) be administered to alleviate pain in adult ICU patients prior to chest tube removal. <strong>(+1C)</strong> </li>
+            <li>The task force suggests that for other types of invasive and potentially painful procedures in adult ICU patients, preemptive analgesic therapy and/or nonpharmacologic interventions may also be administered to alleviate pain. <strong>(+2C)</strong> </li>
+            <li>The task force recommends that intravenous (IV) opioids be considered as the first-line drug class of choice to treat non-neuropathic pain in critically ill patients. <strong>(+1C)</strong> </li>
+            <li>All available IV opioids, when titrated to similar pain intensity endpoints, are equally effective. <strong>(C)</strong> </li>
+            <li>The task force suggests that nonopioid analgesics be considered to decrease the amount of opioids administered (or to eliminate the need for IV opioids altogether) and to decrease opioid-related side effects. <strong>(+2C)</strong> </li>
+            <li>The task force recommends that either enterally administered gabapentin or carbamazepine, in addition to IV opioids, be considered for treatment of neuropathic pain. <strong>(+1A)</strong> </li>
+            <li>The task force recommends that thoracic epidural anesthesia/analgesia be considered for postoperative analgesia in patients undergoing abdominal aortic aneurysm surgery. <strong>(+1B)</strong> </li>
+            <li>The task force provides no recommendation for using a lumbar epidural over parenteral opioids for postoperative analgesia in patients undergoing abdominal aortic aneurysm surgery, due to a lack of benefit of epidural over parenteral opioids in this patient population. <strong>(0, A)</strong> </li>
+            <li>The task force provides no recommendation for the use of thoracic epidural analgesia in patients undergoing either intrathoracic or nonvascular abdominal surgical procedures, due to insufficient and conflicting evidence for this mode of analgesic delivery in these patients. <strong>(0, B)</strong> </li>
+            <li>The task force suggests that thoracic epidural analgesia be considered for patients with traumatic rib fractures. <strong>(+2B)</strong> </li>
+            <li>The task force provides no recommendation for neuraxial/regional analgesia over systemic analgesia in medical ICU patients, due to lack of evidence in this patient population. <strong>(0, No Evidence)</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    </li>
+</ol>
+<ol style="list-style-type: decimal;" start="2">
+    <li>Agitation and Sedation
+    <ol style="list-style-type: lower-alpha;" start="1">
+        <li>Depth of sedation vs. clinical outcomes
+        <ol style="list-style-type: lower-roman;" start="1">
+            <li>Maintaining light levels of sedation in adult ICU patients is associated with improved clinical outcomes (e.g., shorter duration of mechanical ventilation and a shorter ICU length of stay [LOS]). <strong>(B)</strong> </li>
+            <li>Maintaining light levels of sedation increases the physiologic stress response, but is not associated with an increased incidence of myocardial ischemia. <strong>(B)</strong> </li>
+            <li>The association between depth of sedation and psychological stress in these patients remains unclear. <strong>(C)</strong> </li>
+            <li>The task force recommends that sedative medications be titrated to maintain a light rather than a deep level of sedation in adult ICU patients, unless clinically contraindicated. <strong>(+1B)</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style="list-style-type: lower-alpha;" start="2">
+        <li>Monitoring depth of sedation and brain function
+        <ol style="list-style-type: lower-roman;" start="1">
+            <li>The Richmond Agitation-Sedation Scale (RASS) and Sedation-Agitation Scale (SAS) are the most valid and reliable sedation assessment tools for measuring quality and depth of sedation in adult ICU patients. <strong>(B)</strong> </li>
+            <li>The task force does not recommend that objective measures of brain function (e.g., auditory evoked potentials [AEPs], Bispectral Index [BIS], Narcotrend Index [NI], Patient State Index [PSI], or state entropy [SE]) be used as the primary method to monitor depth of sedation in noncomatose, nonparalyzed critically ill adult patients, as these monitors are inadequate substitutes for subjective sedation scoring systems. <strong>(&ndash;1B)</strong> </li>
+            <li>The task force suggests that objective measures of brain function (e.g., AEPs, BIS, NI, PSI, or SE) be used as an adjunct to subjective sedation assessments in adult ICU patients who are receiving neuromuscular blocking agents, as subjective sedation assessments may be unobtainable in these patients. <strong>(+2B)</strong> </li>
+            <li>The task force recommends that electroencephalogram (EEG) monitoring be used to monitor nonconvulsive seizure activity in adult ICU patients with either known or suspected seizures, or to titrate electrosuppressive medication to achieve burst suppression in adult ICU patients with elevated intracranial pressure. <strong>(+1A)</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style="list-style-type: lower-alpha;" start="3">
+        <li>Choice of sedative
+        <ol style="list-style-type: lower-roman;" start="1">
+            <li>The task force suggests that sedation strategies using nonbenzodiazepine sedatives (either propofol or dexmedetomidine) may be preferred over sedation with benzodiazepines (either midazolam or lorazepam) to improve clinical outcomes in mechanically ventilated adult ICU patients. <strong>(+2B)</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    </li>
+</ol>
+<ol style="list-style-type: decimal;" start="3">
+    <li>Delirium
+    <ol style="list-style-type: lower-alpha;" start="1">
+        <li>Outcomes associated with delirium
+        <ol style="list-style-type: lower-roman;" start="1">
+            <li>Delirium is associated with increased mortality in adult ICU patients. <strong>(A)</strong> </li>
+            <li>Delirium is associated with prolonged ICU and hospital LOS in adult ICU patients. <strong>(A)</strong> </li>
+            <li>Delirium is associated with the development of post-ICU cognitive impairment in adult ICU patients. <strong>(B)</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style="list-style-type: lower-alpha;" start="2">
+        <li>Detecting and monitoring delirium
+        <ol style="list-style-type: lower-roman;" start="1">
+            <li>The task force recommends routine monitoring of delirium in adult ICU patients. <strong>(+1B)</strong> </li>
+            <li>The Confusion Assessment Method for the ICU (CAM-ICU) and the Intensive Care Delirium Screening Checklist (ICDSC) are the most valid and reliable delirium monitoring tools in adult ICU patients. <strong>(A)</strong> </li>
+            <li>Routine monitoring of delirium in adult ICU patients is feasible in clinical practice. <strong>(B)</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style="list-style-type: lower-alpha;" start="3">
+        <li>Delirium risk factors
+        <ol style="list-style-type: lower-roman;" start="1">
+            <li>Four baseline risk factors are positively and significantly associated with the development of delirium in the ICU: preexisting dementia, history of hypertension and/or alcoholism, and a high severity of illness at admission. <strong>(B)</strong> </li>
+            <li>Coma is an independent risk factor for the development of delirium in ICU patients. <strong>(B)</strong> </li>
+            <li>Conflicting data surround the relationship between opioid use and the development of delirium in adult ICU patients. <strong>(B)</strong> </li>
+            <li>Benzodiazepine use may be a risk factor for the development of delirium in adult ICU patients. <strong>(B)</strong> </li>
+            <li>There are insufficient data to determine the relationship between propofol use and the development of delirium in adult ICU patients. <strong>(C)</strong> </li>
+            <li>In mechanically ventilated adult ICU patients at risk of developing delirium, dexmedetomidine infusions administered for sedation may be associated with a lower prevalence of delirium compared to benzodiazepine infusions. <strong>(B)</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style="list-style-type: lower-alpha;" start="4">
+        <li>Delirium prevention
+        <ol style="list-style-type: lower-roman;" start="1">
+            <li>The task force recommends performing early mobilization of adult ICU patients whenever feasible to reduce the incidence and duration of delirium. <strong>(+1B)</strong> </li>
+            <li>The task force provides no recommendation for using a pharmacologic delirium prevention protocol in adult ICU patients, as no compelling data demonstrate that this reduces the incidence or duration of delirium in these patients. <strong>(0, C)</strong> </li>
+            <li>The task force provides no recommendation for using a combined nonpharmacologic and pharmacologic delirium prevention protocol in adult ICU patients, as this has not been shown to reduce the incidence of delirium in these patients. <strong>(0, C)</strong> </li>
+            <li>The task force does not suggest that either haloperidol or atypical antipsychotics be administered to prevent delirium in adult ICU patients. <strong>(&ndash;2C)</strong> </li>
+            <li>The task force provides no recommendation for the use of dexmedetomidine to prevent delirium in adult ICU patients, as there is no compelling evidence regarding its effectiveness in these patients. <strong>(0, C)</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    <ol style="list-style-type: lower-alpha;" start="5">
+        <li>Delirium treatment
+        <ol style="list-style-type: lower-roman;" start="1">
+            <li>There is no published evidence that treatment with haloperidol reduces the duration of delirium in adult ICU patients. <strong>(No Evidence)</strong> </li>
+            <li>Atypical antipsychotics may reduce the duration of delirium in adult ICU patients. <strong>(C)</strong> </li>
+            <li>The task force does not recommend administering rivastigmine to reduce the duration of delirium in ICU patients. <strong>(&ndash;1B)</strong> </li>
+            <li>The task force does not suggest using antipsychotics in patients at significant risk for torsades de pointes (i.e., patients with baseline prolongation of Q-T interval [corrected] [QTc], patients receiving concomitant medications known to prolong the QTc interval, or patients with a history of this arrhythmia). <strong>(&ndash;2C)</strong> </li>
+            <li>The task force suggests that in adult ICU patients with delirium unrelated to alcohol or benzodiazepine withdrawal, continuous IV infusions of dexmedetomidine rather than benzodiazepine infusions be administered for sedation to reduce the duration of delirium in these patients. <strong>(+2B)</strong> </li>
+        </ol>
+        </li>
+    </ol>
+    </li>
+</ol>
+<ol style="list-style-type: decimal;" start="4">
+    <li>Strategies for Managing Pain, Agitation, and Delirium to Improve ICU Outcomes
+    <ol style="list-style-type: lower-alpha;" start="1">
+        <li>The task force recommends either daily sedation interruption or a light target level of sedation be routinely used in mechanically ventilated adult ICU patients <strong>(+1B)</strong> </li>
+        <li>The task force suggests that analgesia-first sedation be used in mechanically ventilated adult ICU patients. <strong>(+2B)</strong> </li>
+        <li>The task force recommends promoting sleep in adult ICU patients by optimizing patients' environments, using strategies to control light and noise, clustering patient care activities, and decreasing stimuli at night to protect patients' sleep cycles. <strong>(+1C)</strong> </li>
+        <li>The task force provides no recommendation for using specific modes of mechanical ventilation to promote sleep in mechanically ventilated adult ICU patients, as insufficient evidence exists for the efficacy of these interventions. <strong>(0, No Evidence)</strong> </li>
+        <li>The task force recommends using an interdisciplinary ICU team approach that includes provider education, preprinted and/or computerized protocols and order forms, and quality ICU rounds checklists to facilitate the use of pain, agitation, and delirium management guidelines or protocols in adult ICUs. <strong>(+1B)</strong> </li>
+    </ol>
+    </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong>:</p>
+<p><strong>Factors That Affect the Quality of Evidence<sup>a</sup></strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Factors That Affect the Quality of Evidence">
+    <thead>
+        <tr>
+            <th valign="top">Level of Evidence</th>
+            <th valign="top">Quality of Evidence</th>
+            <th valign="top">Type of Evidence</th>
+            <th valign="top">Definition</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="Center" valign="top">A</td>
+            <td class="Center" valign="top">High</td>
+            <td valign="top">High quality randomized controlled trial (RCT)</td>
+            <td valign="top">Further research is unlikely to change the guideline committee's confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">B</td>
+            <td class="Center" valign="top">Moderate</td>
+            <td valign="top">RCT with significant limitations (downgraded)<sup>b</sup>, or high-quality observational study (OS) (upgraded)<sup>c</sup></td>
+            <td valign="top">Further research is likely to have an important impact on the guideline committee's confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">C</td>
+            <td class="Center" valign="top">Low</td>
+            <td valign="top">OS</td>
+            <td valign="top">Further research is very likely to have an important impact on the guideline committee's confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note"><sup>a</sup> Adapted from Guyatt et al; Grading of Recommendations, Assessment, Development and Evaluation (GRADE) Working Group: GRADE: An emerging consensus on rating quality of evidence and strength of recommendations. BMJ 2008; 336:924&ndash;926.</p>
+<p class="Note"><sup>b</sup> RCTs with significant limitations: 1) study design limitations (planning, implementation bias); 2) inconsistency of results; 3) indirectness of evidence; 4) imprecision of results; 5) high likelihood of reporting bias.</p>
+<p class="Note"><sup>c</sup> High-quality OS: 1) large magnitude of treatment effect; 2) evidence of a dose-response relationship; 3) plausible biases would decrease the magnitude of an apparent treatment effect.</p>
+<p><strong>Levels of Recommendations</strong></p>
+<p>A <strong>strong recommendation</strong> either in favor of (+1) or against (&ndash;1) an intervention implied that the majority of task force members believed that the benefits of the intervention significantly outweighed the risks (or vice versa) and that the majority of patients and providers would pursue this course of action (or not), given the choice.</p>
+<p>A <strong>weak recommendation</strong> either in favor of (+2) or against (&ndash;2) an intervention implied that the benefits of the intervention likely outweighed the risks (or vice versa), but that task force members were not confident about these trade-offs, either because of a low quality of evidence or because the trade-offs between risks and benefits were closely balanced. On the basis of this information, most people might pursue this course of action (or not), but a significant number of patients and providers would choose an alternative course of action.</p>
+<p>A <strong>no recommendation</strong> (0) could also be made due to either a lack of evidence or a lack of consensus among subcommittee members.</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Critical illness related:</p>
+<ul style="list-style-type: disc;">
+    <li>Pain and discomfort </li>
+    <li>Agitation </li>
+    <li>Delirium </li>
+    <li>Sleep deprivation </li>
+</ul></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Evaluation</p>
+                    <p>Management</p>
+                    <p>Prevention</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Anesthesiology</p>
+                    <p>Critical Care</p>
+                    <p>Emergency Medicine</p>
+                    <p>Neurology</p>
+                    <p>Nursing</p>
+                    <p>Pulmonary Medicine</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Hospitals</p>
+                    <p>Nurses</p>
+                    <p>Pharmacists</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                    <p>Respiratory Care Practitioners</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>To recommend best practices for assessing, treating, and preventing pain, agitation, and delirium (PAD) to improve clinical outcomes in adult intensive care unit (ICU) patients</li>
+    <li>To revise the "Clinical Practice Guidelines for the Sustained Use of Sedatives and Analgesics in the Critically Ill Adult" published in Critical Care Medicine in 2002</li>
+</ul></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Critically ill adult (&gt;18 years) intensive care unit (ICU) patients</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><div class="content_para"><p><strong>Assessment</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Pain assessment (self-report using Numeric Rating Scale [NRS], if able; Behavioral Pain Scale or Critical-Care Pain Observation Tool [CPOT], if unable to self-report) </li>
+    <li>Assessment of depth and quality of sedation (Richmond Agitation and Sedation Scale [RASS] or Sedation-Agitation Scale [SAS], or brain functioning monitoring, if under neuromuscular blockade) </li>
+    <li>Assessment of delirium risk factors </li>
+    <li>Detecting and monitoring delirium (Confusion Assessment Method for the Intensive Care Unit [CAM-ICU] and the Intensive Care Delirium Screening Checklist [ICDSC]) </li>
+</ol>
+<p><strong>Management/Treatment</strong></p>
+<ol style="list-style-type: decimal;">
+    <li>Treatment of pain
+    <ul style="list-style-type: disc;">
+        <li>Preemptive analgesia and/or nonpharmacologic interventions (e.g., relaxation) </li>
+        <li>Nonopioid analgesics to decrease opioid use and side effects </li>
+        <li>Intravenous (IV) opioids </li>
+        <li>Enterally administered gabapentin or carbamazepine plus IV opioids </li>
+        <li>Thoracic epidural anesthesia/analgesia </li>
+    </ul>
+    </li>
+    <li>Treatment of agitation and sedation
+    <ul style="list-style-type: disc;">
+        <li>Titration of sedative medications to target lightest level of sedation or daily sedation interruption (DSI) </li>
+        <li>Monitoring depth of sedation and brain function (RASS and SAS) </li>
+        <li>Objective measures of brain function (e.g., auditory evoked potentials, Bispectral Index, Narcotrend Index, Patient State Index, or state entropy as indicated) </li>
+        <li>Electroencephalogram monitoring (EEG) </li>
+        <li>Sedation strategies using nonbenzodiazepine sedatives (propofol or dexmedetomidine) </li>
+    </ul>
+    </li>
+    <li>Treatment of delirium
+    <ul style="list-style-type: disc;">
+        <li>Early mobilization of adult intensive care unit (ICU) patients </li>
+        <li>Consideration of delirium risk factors </li>
+        <li>Routine monitoring of delirium </li>
+        <li>IV dexmedetomidine, if sedation is required </li>
+    </ul>
+    </li>
+    <li>Strategies for managing pain, agitation, and delirium
+    <ul style="list-style-type: disc;">
+        <li>Routine daily sedation interruption or a light target level of sedation in mechanically ventilated adult ICU patients </li>
+        <li>Analgesia-first sedation </li>
+        <li>Promoting sleep in adult ICU patients (optimizing patients' environments, strategies to control light and noise, clustering patient care activities, and decreasing stimuli at night) </li>
+        <li>Interdisciplinary ICU team approach (provider education, preprinted and/or computerized protocols and order forms, and quality ICU rounds checklists) </li>
+    </ul>
+    </li>
+</ol>
+<p><strong>Prevention</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Pain prevention
+    <ul style="list-style-type: disc;">
+        <li>Pre-procedure analgesia and/or non-pharmacologic interventions </li>
+        <li>Treatment of pain prior to sedation </li>
+    </ul>
+    </li>
+    <li>Agitation prevention
+    <ul style="list-style-type: disc;">
+        <li>Consider daily spontaneous breathing trials (SBT) </li>
+        <li>Consider early mobility and exercise when at goal sedation level </li>
+        <li>EEG monitoring for patients at risk for seizures or for burst suppression therapy for increased intracranial pressure </li>
+    </ul>
+    </li>
+    <li>Delirium prevention
+    <ul style="list-style-type: disc;">
+        <li>Identify delirium risk factors </li>
+        <li>Mobilize and exercise early </li>
+        <li>Promote sleep </li>
+        <li>Restart baseline psychiatric medications, if needed </li>
+    </ul>
+    </li>
+</ol></div></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Incidence and severity of:
+    <ul style="list-style-type: disc;">
+        <li>Agitation </li>
+        <li>Delirium </li>
+        <li>Long-term cognitive impairment </li>
+        <li>Pain </li>
+        <li>Sedation </li>
+    </ul>
+    </li>
+    <li>Duration of:
+    <ul style="list-style-type: disc;">
+        <li>Intensive care unit (ICU) length of stay (LOS) </li>
+        <li>Hospital LOS </li>
+        <li>Mechanical ventilation use</li>
+    </ul>
+    </li>
+    <li>Mortality </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p>To facilitate the literature review, subcommittees developed a comprehensive list of related key words. A professional librarian expanded and organized this key word list; developed corresponding medical subject heading (MeSH) terms (see the Supplemental Digital Content for the original guideline document [see the "Availability of Companion Documents" field]); searched relevant clinical databases; and created an electronic, Web-based, password-protected database using Refworks software (Bethesda, MD). Eight databases were included in all searches: PubMed, MEDLINE, Cochrane Database of Systematic Reviews, Cochrane Central Register of Controlled Trials, CINAHL, Scopus, ISI Web of Science, and the International Pharmaceutical Abstracts. Search parameters included published (or in press) English-only manuscripts on adult humans (&gt;18 yr), from December 1999 (the search limit for the 2002 guidelines) through December 2010. Studies with less than 30 patients, editorials, narrative reviews, case reports, animal or in vitro studies, and letters to the editor were excluded. Biweekly automated searches were continued beyond this date, and relevant articles were incorporated into the guidelines through July 2012, but studies published after December 2010 were not included in the evidence review and voting process. The 2002 guideline references were also included in the database, and targeted searches of the literature published before December 1999 were performed as needed. Over 19,000 references were ultimately included in the Refworks database.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Expert Consensus (Delphi Method)</p>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Factors That Affect the Quality of Evidence<sup>a</sup></strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Factors That Affect the Quality of Evidence">
+    <thead>
+        <tr>
+            <th valign="top">Level of Evidence</th>
+            <th valign="top">Quality of Evidence</th>
+            <th valign="top">Type of Evidence</th>
+            <th valign="top">Definition</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="Center" valign="top">A</td>
+            <td class="Center" valign="top">High</td>
+            <td valign="top">High quality randomized controlled trial (RCT)</td>
+            <td valign="top">Further research is unlikely to change the guideline committee's confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">B</td>
+            <td class="Center" valign="top">Moderate</td>
+            <td valign="top">RCT with significant limitations (downgraded)<sup>b</sup>, or high-quality observational study (OS) (upgraded)<sup>c</sup></td>
+            <td valign="top">Further research is likely to have an important impact on the guideline committee's confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">C</td>
+            <td class="Center" valign="top">Low</td>
+            <td valign="top">OS</td>
+            <td valign="top">Further research is very likely to have an important impact on the guideline committee's confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note"><sup>a</sup> Adapted from Guyatt et al; Grading of Recommendations, Assessment, Development and Evaluation (GRADE) Working Group: GRADE: An emerging consensus on rating quality of evidence and strength of recommendations. BMJ 2008; 336:924&ndash;926.</p>
+<p class="Note"><sup>b</sup> RCTs with significant limitations: 1) study design limitations (planning, implementation bias); 2) inconsistency of results; 3) indirectness of evidence; 4) imprecision of results; 5) high likelihood of reporting bias.</p>
+<p class="Note"><sup>c</sup> High-quality OS: 1) large magnitude of treatment effect; 2) evidence of a dose-response relationship; 3) plausible biases would decrease the magnitude of an apparent treatment effect.</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Meta-Analysis</p>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p>The statements and recommendations in the 2012 version of the guidelines were developed using the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) methodology, a structured system for rating quality of evidence and grading strength of recommendation in clinical practice (<a href="/web/20180712194717/https://www.guideline.gov/Home/Disclaimer?id=43903&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gradeworkinggroup.org" title="GRADE Web site">http://www.gradeworkinggroup.org</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194717im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>). Subcommittees worked with members of the GRADE Working Group to phrase all clinical questions in either "descriptive" or "actionable" terms. They structured actionable questions in the Population, Intervention, Comparison, Outcomes format and classified clinical outcomes related to each intervention as critical, important, or unimportant to clinical decision making. Only important and critical outcomes were included in the evidence review, and only critical outcomes were included in developing recommendations. Subcommittee members searched the database for relevant articles and uploaded corresponding Portable Document Format (PDFs) to facilitate group review. Two subcommittee members independently completed a GRADE evidence profile summarizing the findings of each study and evaluated the quality of evidence. The quality of evidence was judged to be high (level A), moderate (level B), or low/very low (level C), based on both study design and specific study characteristics, which could result in a reviewer either downgrading or upgrading the quality of the evidence (see Table 1 of the original guideline document [see the "Guideline Availability" field]). If multiple studies related to a particular outcome demonstrated disparate results, and no published systematic reviews on the topic existed, a meta-analysis of the relevant literature was performed by a member of the GRADE Working Group.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus (Delphi)</p>
+                    <p>Expert Consensus (Nominal Group Technique)</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p>Subcommittees collectively reviewed the evidence profiles for each question, and using a nominal group technique, determined the overall quality of evidence (for both descriptive and actionable questions), the strength of recommendation (for actionable questions only), and drafted evidence summaries for review by other task force members. The strength of recommendations was defined as either strong (1) or weak (2), and either for (+) or against (&ndash;) an intervention, based on both the quality of evidence and the risks and benefits across all critical outcomes (Table 2 of the original guideline document). A no recommendation (0) could also be made due to either a lack of evidence or a lack of consensus among subcommittee members. Consensus statements based on expert opinion alone were not used when evidence could not support a recommendation. A strong recommendation either in favor of (+1) or against (&ndash;1) an intervention implied that the majority of task force members believed that the benefits of the intervention significantly outweighed the risks (or vice versa) and that the majority of patients and providers would pursue this course of action (or not), given the choice. A weak recommendation either in favor of (+2) or against (&ndash;2) an intervention implied that the benefits of the intervention likely outweighed the risks (or vice versa), but that task force members were not confident about these tradeoffs, either because of a low quality of evidence or because the trade-offs between risks and benefits were closely balanced. On the basis of this information, most people might pursue this course of action (or not), but a significant number of patients and providers would choose an alternative course of action. Throughout these guidelines, for all strong recommendations, the phrase "The task force recommends &hellip;" was used, and for all weak recommendations, "The task force suggests &hellip;" was used.</p>
+<p>Group consensus for all statements and recommendations was achieved using a modified Delphi method with an anonymous voting scheme. Task force members reviewed the subcommittees' Grading of Recommendations, Assessment, Development and Evaluation (GRADE) Evidence Summaries, and statements and recommendations, and voted and commented anonymously on each statement and recommendation using an on-line electronic survey tool. Consensus on the strength of evidence for each question required a majority (&gt;50%) vote. Consensus on the strength of recommendations was defined as follows: a recommendation in favor of an intervention (or the comparator) required at least 50% of all task force members voting in favor, with less than 20% voting against; failure to meet these voting thresholds resulted in no recommendation being made. For a recommendation to be graded as strong rather than weak, at least 70% of those voting had to vote for a strong recommendation, otherwise it received a weak recommendation. Polling results and comments were then summarized and distributed to all pain, agitation, and delirium (PAD) guideline task force members for review. When one round of voting failed to produce group consensus, additional discussion and a second and/or third round of voting occurred.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p>A <strong>strong recommendation</strong> either in favor of (+1) or against (&ndash;1) an intervention implied that the majority of task force members believed that the benefits of the intervention significantly outweighed the risks (or vice versa) and that the majority of patients and providers would pursue this course of action (or not), given the choice.</p>
+<p>A <strong>weak recommendation</strong> either in favor of (+2) or against (&ndash;2) an intervention implied that the benefits of the intervention likely outweighed the risks (or vice versa), but that task force members were not confident about these trade-offs, either because of a low quality of evidence or because the trade-offs between risks and benefits were closely balanced. On the basis of this information, most people might pursue this course of action (or not), but a significant number of patients and providers would choose an alternative course of action.</p>
+<p>A <strong>no recommendation</strong> (0) could also be made due to either a lack of evidence or a lack of consensus among subcommittee members.</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>The guideline developers reviewed published cost analyses.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>These guidelines have been reviewed and endorsed by the American College of Chest Physicians and the American Association for Respiratory Care; are supported by the American Association for Respiratory Care; and have been reviewed by the New Zealand Intensive Care Society.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified and graded for each recommendation (see the "Major Recommendations" field).</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>Appropriate management of critically ill adults with pain, agitation, and delirium in the intensive care unit (ICU)</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><div class="content_para"><p><strong>Opiate Analgesic Therapy</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Opiate Analgesic Therapy">
+    <thead>
+        <tr>
+            <th valign="top">Opiate</th>
+            <th valign="top">Side Effects and Other Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">Fentanyl</td>
+            <td valign="top">Less hypotension than with morphine. Accumulation with hepatic impairment.</td>
+        </tr>
+        <tr>
+            <td valign="top">Hydromorphone</td>
+            <td valign="top">Therapeutic option in patients tolerant to morphine/fentanyl. Accumulation with hepatic/renal impairment.</td>
+        </tr>
+        <tr>
+            <td valign="top">Morphine</td>
+            <td valign="top">Accumulation with hepatic/renal impairment. Histamine release.</td>
+        </tr>
+        <tr>
+            <td valign="top">Methadone</td>
+            <td valign="top">May be used to slow the development of tolerance where there is an escalation of opioid dosing requirements. Unpredictable pharmacokinetics; unpredictable pharmacodynamics in opiate na&iuml;ve patients. Monitor Q-T interval (corrected) (QTc).</td>
+        </tr>
+        <tr>
+            <td valign="top">Remifentanil</td>
+            <td valign="top">No accumulation in hepatic/renal failure. Use IBW if body weight &gt;130% IBW.</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Nonopiate Analgesic Therapy</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Nonopiate Analgesic Therapy">
+    <thead>
+        <tr>
+            <th valign="top">Nonopiate</th>
+            <th valign="top">Side Effects and Other Information</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">Ketamine</td>
+            <td valign="top">Attenuates the development of acute tolerance to opioids. May cause hallucinations and other psychological disturbances.</td>
+        </tr>
+        <tr>
+            <td valign="top">Keterolac</td>
+            <td valign="top">Avoid nonsteroidal anti-inflammatory drugs in following conditions: renal dysfunction; gastrointestinal bleeding; platelet abnormality; concomitant angiotensin converting enzyme inhibitor therapy, congestive heart failure, cirrhosis, asthma.</td>
+        </tr>
+        <tr>
+            <td valign="top">Ibuprofen</td>
+            <td valign="top">Avoid nonsteroidal anti-inflammatory drugs in following conditions: renal dysfunction; gastrointestinal bleeding; platelet abnormality; concomitant angiotensin converting enzyme inhibitor therapy, congestive heart failure, cirrhosis, asthma. Contraindicated for the treatment of perioperative pain in coronary artery bypass graft surgery.</td>
+        </tr>
+        <tr>
+            <td valign="top">Gabapentin</td>
+            <td valign="top">Side effects: (common) sedation, confusion, dizziness, ataxia. Adjust dosing in renal failure pts. Abrupt discontinuation associated with drug withdrawal syndrome, seizures.</td>
+        </tr>
+        <tr>
+            <td valign="top">Carbamazepine</td>
+            <td valign="top">Side effects: (common) nystagmus, dizziness, diplopia, lightheadedness, lethargy; (rare) aplastic anemia, and agranulocytosis; Stevens&ndash;Johnson syndrome or toxic epidermal necrolysis with HLA-B1502 gene. Multiple drug interactions due to hepatic enzyme induction.</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Sedative Medications</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Nonopiate Analgesic Therapy">
+    <thead>
+        <tr>
+            <th valign="top">Agent</th>
+            <th valign="top">Adverse Effects</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">Midazolam</td>
+            <td valign="top">Respiratory depression, hypotension&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">Lorazepam</td>
+            <td valign="top">Respiratory depression, hypotension; propylene&nbsp; glycol-related acidosis, nephrotoxicity</td>
+        </tr>
+        <tr>
+            <td valign="top">Diazepam</td>
+            <td valign="top">Respiratory depression, hypotension, phlebitis</td>
+        </tr>
+        <tr>
+            <td valign="top">Propofol</td>
+            <td valign="top">Pain on injection, hypotension, respiratory depression, hypertriglyceridemia, pancreatitis, allergic reactions, propofol related infusion syndrome; deep sedation with propofol is associated with significantly longer emergence times than with light sedation</td>
+        </tr>
+        <tr>
+            <td valign="top">Dexmedetomidine </td>
+            <td valign="top">Bradycardia, hypotension; hypertension with loading dose; loss of airway reflexes</td>
+        </tr>
+    </tbody>
+</table></div></p>
+
+            </div>
+                <h2 id="430" class="accordion-title section-430 is-active" role="tab" aria-expanded="true"><a href="#">Contraindications</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Contraindications</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Acetaminophen may be contraindicated in patients with significant hepatic dysfunction. </li>
+    <li>Nonsteroidal anti-inflammatory drugs are contraindicated for the treatment of perioperative pain in coronary artery bypass graft surgery. </li>
+</ul></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><div class="content_para"><p>The guideline document is meant to help clinicians take a more integrated approach to manage pain, agitation, and delirium (PAD) in critically ill patients. Clinicians should adapt the guideline document to the context of individual patient care needs and the available resources of their local health care system. In addition, frequent monitoring of pain, depth of sedation, and delirium should occur using valid and reliable assessment tools; patients should receive preemptive treatment for pain; sedation should only be received if required; and patients should be able to purposefully respond to commands through titration of sedatives. The guideline document is not meant to be proscriptive or applied in absolute terms.</p></div></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p><strong>Tools for Facilitating the Application of the Guidelines to Bedside Care</strong></p>
+<p>Closing the gap between the evidence highlighted in these guidelines and intensive care unit (ICU) practice will be a significant challenge for ICU clinicians and is best accomplished using a multifaceted, interdisciplinary approach. The recommendations supported by clinical practice guidelines should be adapted to local practice patterns and resource availability, and used as a template for institution-specific protocols and order sets. Successful implementation will require augmentation with education, engagement of local thought leaders, point-of-use reminders, and caregiver-specific practice feedback, together with continuous protocol evaluation and modification. Incorporating electronically based guidelines into clinical decision-support tools may facilitate bedside knowledge transfer and application. To support this effort, the guideline developers have developed a pocket card summarizing these guideline recommendations (Figure 2 in the original guideline document), and a template for a pain, agitation, and delirium (PAD) care bundle (Figure 3 in the original guideline document).</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Pocket Guide/Reference Cards</p>
+                    <p>Quick Reference Guides/Physician Guides</p>
+                    <p>Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Safety</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Barr J, Fraser GL, Puntillo K, Ely EW, Gélinas C, Dasta JF, Davidson JE, Devlin JW, Kress JP, Joffe AM, Coursin DB, Herr DL, Tung A, Robinson BRH, Fontaine DK, Ramsay MA, Riker RR, Sessler CN, Pun B, Skrobik Y, Jaeschke R, American College of Critical Care Medicine. Clinical practice guidelines for the management of pain, agitation, and delirium  in adult patients in the intensive care unit. Crit Care Med. 2013 Jan;41(1):263-306. [472 references] <a href="https://web.archive.org/web/20180712194717/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23269131" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194717im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>1995 (revised 2013 Jan)</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>Society of Critical Care Medicine - Professional Association</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>Supporting Organizations: American College of Critical Care Medicine (ACCM) in conjunction with Society of Critical Care Medicine (SCCM) and American Society of Health-System Pharmacists (ASHP)</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Task Force for Clinical Practice Guidelines for Systemic Analgesia and Sedation for Patients in the Intensive Care Unit</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Task Force Members</em>: Juliana Barr, MD, FCCM; Gilles L. Fraser, PharmD, FCCM; Kathleen Puntillo, RN, PhD, FAAN, FCCM; E. Wesley Ely, MD, MPH, FACP, FCCM; C&eacute;line G&eacute;linas, RN, PhD; Joseph F. Dasta, MSc, FCCM, FCCP; Judy E. Davidson, DNP, RN; John W. Devlin, PharmD, FCCM, FCCP; John P. Kress, MD; Aaron M. Joffe, DO; Douglas B. Coursin, MD; Daniel L. Herr, MD, MS, FCCM; Avery Tung, MD; Bryce R. H. Robinson, MD, FACS; Dorrie K. Fontaine, PhD, RN, FAAN; Michael A. Ramsay, MD; Richard R. Riker, MD, FCCM; Curtis N. Sessler, MD, FCCP, FCCM; Brenda Pun, MSN, RN, ACNP; Yoanna Skrobik, MD, FRCP; Roman Jaeschke, MD</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>To minimize the perception of bias in these Guidelines, individual Task Force members with a significant conflict of interest on a particular topic were recused from grading the literature, writing evidence summaries, and developing specific statements and recommendations on that topic.</p>
+<p>Mr. Dasta has consultancies with Hospira, Axel Rx, Cadence Pharmaceuticals, and Pacira Pharmaceuticals and has received honoraria/speaking fees from the France Foundation (speakers bureau continuing medical education [CME] program) sponsored by Hospira.</p>
+<p>Dr. Devlin has received honoraria/speaking fees, consultancies, and grants from Hospira.</p>
+<p>Dr. Ely has received honoraria/speaking fees from GSK and Hospira; and has received grants from Hospira, Pfizer, and Aspect.</p>
+<p>Dr. Herr has received honoraria/speaking fees from Hospira.</p>
+<p>Dr. Kress has received honoraria/ speaking fees from Hospira; and has received a grant from Hospira (unrestricted research).</p>
+<p>Ms. Pun has received honoraria/ speaking fees from Hospira.</p>
+<p>Dr. Ramsay has received honoraria/speaking fees from Hospira and Masimo; and has received a grant from Masimo.</p>
+<p>Dr. Riker has consultancies with Masimo; and has received honoraria/speaking fees from Orion.</p>
+<p>Dr. Sessler has received honoraria/speaking fees from Hospira and consulting fees from Massimo.</p>
+<p>The remaining authors have not disclosed any potential conflicts of interest.</p></div></p>
+                        <h3><a href="#">Guideline Endorser(s)</a></h3>
+                    <p>American Association for Respiratory Care - Professional Association</p>
+                    <p>American College of Chest Physicians - Medical Specialty Society</p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Clinical practice guidelines for the sustained use of sedatives and analgesics in the critically ill adult. Am J Health Syst Pharm 2002 Jan 15;59(2):150-78. [235 references]</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Electronic copies: Available in Portable Document Format (PDF) from the <a href="/web/20180712194717/https://www.guideline.gov/Home/Disclaimer?id=43903&amp;contentType=summary&amp;redirect=http%253A%252F%252Fwww.learnicu.org%252FSiteCollectionDocuments%252FClinical%252520Practice%252520Guidelines%252520for%252520the%252520Management%252520of%252520Pain%252C%252520Agitation%252C%252520and%252520Delirium%252520in%252520Adult%252520Patients%252520in%252520the%252520Intensive%252520Care%252520Un.pdf" title="Society of Critical Care Medicine (SCCM) Web site">Society of Critical Care Medicine (SCCM) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194717im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>Print copies: Available from the Society of Critical Care Medicine, 500 Midway Drive, Mount Prospect, IL 60056; Phone: (847) 827-6869; Fax: (847) 827-6886; on-line through the <a href="/web/20180712194717/https://www.guideline.gov/Home/Disclaimer?id=43903&amp;contentType=summary&amp;redirect=http%3a%2f%2fsccmams2.sccm.org%2fPurchase%2fSearchCatalog.aspx" title="Society of Critical Care Medicine (SCCM) Web site">SCCM Bookstore</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194717im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following is available:</p>
+<ul style="list-style-type: disc;">
+    <li>Clinical practice guidelines for the management of pain, agitation, and delirium in adult patients in the intensive care unit. Guideline MESH Terms. Electronic copies: Available from the <a href="/web/20180712194717/https://www.guideline.gov/Home/Disclaimer?id=43903&amp;contentType=summary&amp;redirect=http%3a%2f%2fdownload.lww.com%2fwolterskluwer_vitalstream_com%2fPermaLink%2fCCM%2fA%2fCCM_41_1_2012_10_10_BARR_204220_SDC1.pdf" title="Society for Critical Care Medicine (SCCM) Web site">Society for Critical Care Medicine (SCCM) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194717im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p>A pocket card operationalizing the pain, agitation, and delirium (PAD) guideline recommendations (front side) and summarizing specific PAD guideline statements and recommendations (back side), and a template for a PAD care bundle can be found in the <a href="/web/20180712194717/https://www.guideline.gov/Home/Disclaimer?id=43903&amp;contentType=summary&amp;redirect=http%253A%252F%252Fwww.learnicu.org%252FSiteCollectionDocuments%252FClinical%252520Practice%252520Guidelines%252520for%252520the%252520Management%252520of%252520Pain%252C%252520Agitation%252C%252520and%252520Delirium%252520in%252520Adult%252520Patients%252520in%252520the%252520Intensive%252520Care%252520Un.pdf">original guideline document</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194717im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI on July 22, 2002. The information was verified by the guideline developers on August 1, 2002. This summary was updated by ECRI on January 12, 2005 following the release of a public health advisory from the U.S. Food and Drug Administration regarding the use of some nonsteroidal anti-inflammatory drug products. This summary was updated on April 15, 2005 following the withdrawal of Bextra (valdecoxib) from the market and the release of heightened warnings for Celebrex (celecoxib) and other nonselective nonsteroidal anti-inflammatory drugs (NSAIDs). This summary was updated by ECRI on June 16, 2005, following the U.S. Food and Drug Administration advisory on COX-2 selective and nonselective nonsteroidal anti-inflammatory drugs (NSAIDs). This summary was updated by ECRI Institute on April 30, 2007, following the FDA advisory on Sedative-hypnotic drug products. This summary was updated by ECRI Institute on October 2, 2007, following the U.S. Food and Drug Administration (FDA) advisory on Haloperidol. This summary was updated by ECRI Institute on April 18, 2013. The updated information was verified by the guideline developer on May 14, 2013. This summary was updated by ECRI Institute on October 28, 2013 following the U.S. Food and Drug Administration advisory on Acetaminophen. This summary was updated by ECRI Institute on September 18, 2015 following the U.S. Food and Drug Administration advisory on non-aspirin nonsteroidal anti-inflammatory drugs (NSAIDs). This summary was updated by ECRI Institute on May 24, 2016 following the U.S. Food and Drug Administration advisory on Olanzapine. This summary was updated by ECRI Institute on June 2, 2016 following the U.S. Food and Drug Administration advisory on Opioid pain medicines. This summary was updated by ECRI Institute on October 21, 2016 following the U.S. Food and Drug Administration advisory on opioid pain and cough medicines combined with benzodiazepines. This summary was updated by ECRI Institute on February 15, 2017 following the U.S. Food and Drug Administration advisory on general anesthetic and sedation drugs.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712194717/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712194717/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712194717/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712194717/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712194717/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712194717/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712194717/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194717/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194717/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194717/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194717/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194717/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712194717/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712194717/https://www.guideline.gov/disclaimer?id=43903&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712194717im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712194717im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712194717/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712194717/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712194717/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712194717/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712194717/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712194717/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712194717/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712194717/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712194717/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712194717/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712194717/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712194717/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712194717/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712194717/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712194717/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712194717/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712194717/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712194717/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712194717/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712194717im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712194717im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712194717/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712194717im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712194717im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712194717/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712194717js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712194717js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 19:47:17 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:02:29 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 180.495 (3)
+  esindex: 0.012
+  captures_list: 229.403
+  CDXLines.iter: 25.305 (3)
+  PetaboxLoader3.datanode: 63.946 (4)
+  exclusion.robots: 0.303
+  exclusion.robots.policy: 0.284
+  RedisCDXSource: 18.249
+  PetaboxLoader3.resolve: 120.419
+  load_resource: 46.687
+-->

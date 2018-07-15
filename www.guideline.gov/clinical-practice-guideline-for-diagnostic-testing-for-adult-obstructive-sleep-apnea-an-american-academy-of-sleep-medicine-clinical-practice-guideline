@@ -1,0 +1,1227 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app57.us.archive.org';v.server_ms=387;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Clinical practice guideline for diagnostic testing for adult obstructive sleep apnea: an American Academy of Sleep Medicine clinical practice guideline. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712203925im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712203925im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712203925im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712203925im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712203925/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712203925im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712203925cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712203925js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712203925if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712203925/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712203925if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712203925/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712203925/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712203925/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712203925/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712203925im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712203925im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712203925/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712203925/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712203925/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712203925/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712203925/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712203925/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712203925/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712203925/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712203925/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712203925/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712203925/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712203925/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712203925/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712203925/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712203925/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712203925/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712203925/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712203925/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712203925/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712203925/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712203925/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:011198</li>
+            <li>2017 Mar 15
+            </li>            
+                                        <li>
+                    <div class="flag-box"><span class="neats"></span> NEATS Assessment</div>    
+                    <a class="icon-info" href="/web/20180712203925/https://www.guideline.gov/help-and-about/summaries/determining-extent-adherence-to-the-iom-standards-in-ngc"><span class="screen-reader-text">Learn More About NEATS Assessment</span></a>                
+                </li>
+        </ul>
+        <div>
+                <h1>Clinical practice guideline for diagnostic testing for adult obstructive sleep apnea: an American Academy of Sleep Medicine clinical practice guideline.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+<li><a href="#neats-tab" class="NEATS"><span class="label">NEATS Assessment</span></a></li>        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712203925/https://www.guideline.gov/search?f_Guideline_Developer_String=American%20Academy%20of%20Sleep%20Medicine&amp;fLockTerm=American%2BAcademy%2Bof%2BSleep%2BMedicine">American Academy of Sleep Medicine</a></li>
+                        <li>   
+                                <a id="105" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Kapur VK, Auckley DH, Chowdhuri S, Kuhlmann DC, Mehra R, Ramar K, Harrod CG. Clinical practice guideline for diagnostic testing for adult obstructive sleep apnea: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2017 Mar 15;13(3):479-504. [131 references] <a href="https://web.archive.org/web/20180712203925/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=28162150" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712203925im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712203925/https://www.guideline.gov/Home/Disclaimer?id=50887&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.aasmnet.org%252fResources%252fclinicalguidelines%252fdiagnostic-testing-OSA.pdf">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203925im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline updates previous versions: Kushida CA, Littner MR, Morgenthaler T, Alessi CA, Bailey D, Coleman J Jr, Friedman L, Hirshkowitz M, Kapen S, Kramer M, Lee-Chiong T, Loube DL, Owens J, Pancer JP, Wise M. Practice parameters for the indications for polysomnography and related procedures: an update for 2005. Sleep. 2005 Apr 1;28(4):499-521. [150 references]</p>
+<p>Collop NA, Anderson WM, Boehlecke B, Claman D, Goldberg R, Gottlieb DJ, Hudgel D, Sateia M, Schwab R, Portable Monitoring Task Force of the American Academy of Sleep Medicine. Clinical guidelines for the use of unattended portable monitors in the diagnosis of obstructive sleep apnea in adult patients. Portable Monitoring Task Force of the American Academy of Sleep Medicine. J Clin Sleep Med. 2007 Dec 15;3(7):737-47.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712203925/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712203925/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712203925/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+                        <li><a href="/web/20180712203925/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712203925/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">HCPCS</h5>
+                    <div class="field-content">
+<a href="/web/20180712203925/https://www.guideline.gov/search?f_HCPCS_CUI=C2368403&amp;fLockTerm=Home+sleep+study+test+(hst)+with+type+ii+portable+monitor%2c+unattended%3b+minimum+of+7+channels%3a+eeg%2c+eog%2c+emg%2c+ecg%2fheart+rate%2c+airflow%2c+respiratory+effort+and+oxygen+saturation">Home sleep study test (hst) with type ii portable monitor, unattended; minimum of 7 channels: eeg, eog, emg, ecg/heart rate, airflow, respiratory effort and oxygen saturation</a>
+, <a href="/web/20180712203925/https://www.guideline.gov/search?f_HCPCS_CUI=C2368404&amp;fLockTerm=Home+sleep+test+(hst)+with+type+iii+portable+monitor%2c+unattended%3b+minimum+of+4+channels%3a+2+respiratory+movement%2fairflow%2c+1+ecg%2fheart+rate+and+1+oxygen+saturation">Home sleep test (hst) with type iii portable monitor, unattended; minimum of 4 channels: 2 respiratory movement/airflow, 1 ecg/heart rate and 1 oxygen saturation</a>
+, <a href="/web/20180712203925/https://www.guideline.gov/search?f_HCPCS_CUI=C2368405&amp;fLockTerm=Home+sleep+test+(hst)+with+type+iv+portable+monitor%2c+unattended%3b+minimum+of+3+channels">Home sleep test (hst) with type iv portable monitor, unattended; minimum of 3 channels</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712203925/https://www.guideline.gov/search?f_ICD9CM_CUI=C0520679&amp;fLockTerm=Obstructive+sleep+apnea+(adult)(pediatric)">Obstructive sleep apnea (adult)(pediatric)</a>
+ (327.23), <a href="/web/20180712203925/https://www.guideline.gov/search?f_ICD9CM_CUI=C0162701&amp;fLockTerm=Polysomnogram">Polysomnogram</a>
+ (89.17)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712203925/https://www.guideline.gov/search?f_MSH_CUI=C0002045&amp;fLockTerm=Algorithms">Algorithms</a>
+, <a href="/web/20180712203925/https://www.guideline.gov/search?f_MSH_CUI=C0162701&amp;fLockTerm=Polysomnography">Polysomnography</a>
+, <a href="/web/20180712203925/https://www.guideline.gov/search?f_MSH_CUI=C0520679&amp;fLockTerm=Sleep+Apnea%2c+Obstructive">Sleep Apnea, Obstructive</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712203925/https://www.guideline.gov/search?f_MTH_CUI=C0002045&amp;fLockTerm=algorithm">algorithm</a>
+, <a href="/web/20180712203925/https://www.guideline.gov/search?f_MTH_CUI=C1522577&amp;fLockTerm=follow-up">follow-up</a>
+, <a href="/web/20180712203925/https://www.guideline.gov/search?f_MTH_CUI=C0162701&amp;fLockTerm=Polysomnography">Polysomnography</a>
+, <a href="/web/20180712203925/https://www.guideline.gov/search?f_MTH_CUI=C0034394&amp;fLockTerm=Questionnaires">Questionnaires</a>
+, <a href="/web/20180712203925/https://www.guideline.gov/search?f_MTH_CUI=C0588436&amp;fLockTerm=Self+Monitoring">Self Monitoring</a>
+, <a href="/web/20180712203925/https://www.guideline.gov/search?f_MTH_CUI=C0520679&amp;fLockTerm=Sleep+Apnea%2c+Obstructive">Sleep Apnea, Obstructive</a>
+, <a href="/web/20180712203925/https://www.guideline.gov/search?f_MTH_CUI=C2923045&amp;fLockTerm=sleep+study+unattended+(procedure)">sleep study unattended (procedure)</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712203925/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C3472696&amp;fLockTerm=Obstructive+sleep+apnea+of+adult">Obstructive sleep apnea of adult</a>
+ (1101000119103), <a href="/web/20180712203925/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0520679&amp;fLockTerm=Obstructive+sleep+apnea+syndrome">Obstructive sleep apnea syndrome</a>
+ (78275009), <a href="/web/20180712203925/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0162701&amp;fLockTerm=Polysomnography">Polysomnography</a>
+ (164773008), <a href="/web/20180712203925/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0162701&amp;fLockTerm=Polysomnography">Polysomnography</a>
+ (60554003), <a href="/web/20180712203925/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0588436&amp;fLockTerm=Self-monitoring">Self-monitoring</a>
+ (310858007), <a href="/web/20180712203925/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0588436&amp;fLockTerm=Self-monitoring">Self-monitoring</a>
+ (441211000124106)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SPN</h5>
+                    <div class="field-content">
+<a href="/web/20180712203925/https://www.guideline.gov/search?f_SPN_CUI=C0182340&amp;fLockTerm=DEVICE%2c+SLEEP+ASSESSMENT">DEVICE, SLEEP ASSESSMENT</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712203925/https://www.guideline.gov/search?f_UMD_CUI=C0182340&amp;fLockTerm=Analyzers%2c+Physiologic%2c+Somnography">Analyzers, Physiologic, Somnography</a>
+ (17-456)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+            <div id="neats-tab" class="content-tab-panel">
+                <p id="NeatsDescription">
+                    National Guideline Clearinghouse (NGC) has assessed this guideline's adherence to standards of trustworthiness, derived from the Institute of Medicine's report
+                    <a href="/web/20180712203925/https://www.guideline.gov/disclaimer?id=50887&amp;contentType=summary&amp;redirect=http%3A%2F%2Fnationalacademies.org%2Fhmd%2FReports%2F2011%2FClinical-Practice-Guidelines-We-Can-Trust.aspx"><i>Clinical Practice Guidelines We Can Trust</i></a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203925im_/https://www.guideline.gov/UI/images/icon_externallink.gif">.
+                </p>
+                <div class="ratings" aria-hidden="true">
+                    <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-1.png" alt="Poor"/> = Poor</span>
+                    <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-2.png" alt="Fair"/> = Fair</span>
+                    <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-3.png" alt="Good"/> = Good</span>
+                    <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-4.png" alt="Very Good"/> = Very Good</span>
+                    <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/> = Excellent</span>
+                </div>
+                    <table aria-describedby="NeatsDescription">
+                        <thead>
+                        <tr>
+                            <th id="section">NEATS Assessment <a class="icon-info" href="/web/20180712203925/https://www.guideline.gov/help-and-about/summaries/determining-extent-adherence-to-the-iom-standards-in-ngc"><span class="screen-reader-text">More about NGC's appraisal</span></a></th>
+                            <th id="standard">Standard of Trustworthiness</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                        <tr>
+                    <td class="topborderme" headers="section">Yes</td>
+                    <td class="greenboldme topborderme" headers="standard">Disclosure of Guideline Funding Source</td>
+                </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">Disclosure and Management of Financial Conflict of Interests</td>
+                </tr>
+                    <tr>
+                        <td class="topborderme" id="blank"></td>
+                        <th class="greenboldme topborderme" id="185" headers="standard">Guideline Development Group Composition</th>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                            Unknown
+                        </td>
+                        <td class="leftpadme" headers="185">Multidisciplinary Group</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                            Yes
+                        </td>
+                        <td class="leftpadme" headers="186">Methodologist Involvement</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-3.png" alt="Good"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="187">Patient and Public Perspectives</td>
+                    </tr>
+                    <tr>
+                        <td class="topborderme" id="blank"></td>
+                        <th class="greenboldme topborderme" id="188" headers="standard">Use of a Systematic Review of Evidence</th>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="188">Search Strategy</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="189">Study Selection</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="190">Synthesis of Evidence</td>
+                    </tr>
+                    <tr>
+                        <td class="topborderme" id="blank"></td>
+                        <th class="greenboldme topborderme" id="191" headers="standard">Evidence Foundations for and Rating Strength of Recommendations</th>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="191">Grading the Quality or Strength of Evidence</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="192">Benefits and Harms of Recommendations</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="193">Evidence Summary Supporting Recommendations</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="194">Rating the Strength of Recommendations</td>
+                    </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">Specific and Unambiguous Articulation of Recommendations</td>
+                </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-3.png" alt="Good"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">External Review</td>
+                </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/rating-3.png" alt="Good"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">Updating</td>
+                </tr>
+
+                        </tbody>
+                    </table>
+            </div>
+    <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712203925/https://www.guideline.gov/summaries/downloadcontent/ngc-11198?contentType=pdf" class="pdf">.PDF 134.9 kb</a></li>
+                            <li><a href="/web/20180712203925/https://www.guideline.gov/summaries/downloadcontent/ngc-11198?contentType=word" class="word">Word Document 327.7 kb</a></li>
+                            <li><a href="/web/20180712203925/https://www.guideline.gov/summaries/downloadcontent/ngc-11198?contentType=xml" class="xml">.XML 67.7 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203925/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/50887/clinical-practice-guideline-for-diagnostic-testing-for-adult-obstructive-sleep-apnea-an-american-academy-of-sleep-medicine-clinical-practice-guideline" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203925/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/50887/clinical-practice-guideline-for-diagnostic-testing-for-adult-obstructive-sleep-apnea-an-american-academy-of-sleep-medicine-clinical-practice-guideline" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203925/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/50887/clinical-practice-guideline-for-diagnostic-testing-for-adult-obstructive-sleep-apnea-an-american-academy-of-sleep-medicine-clinical-practice-guideline&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712203925/mailto:/?Subject=AHRQ: Clinical practice guideline for diagnostic testing for adult obstructive sleep apnea: an American Academy of Sleep Medicine clinical practice guideline.&amp;body=https://www.guideline.gov/summaries/summary/50887/clinical-practice-guideline-for-diagnostic-testing-for-adult-obstructive-sleep-apnea-an-american-academy-of-sleep-medicine-clinical-practice-guideline" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Clinical practice guideline for diagnostic testing for adult obstructive sleep apnea: an American Academy of Sleep Medicine clinical practice guideline. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2017 Mar 15. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712203925/https://www.guideline.gov/summaries/citedownload/50887?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712203925/https://www.guideline.gov/summaries/citedownload/50887?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712203925/https://www.guideline.gov/summaries/citedownload/50887?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712203925/https://www.guideline.gov/summaries/citedownload/50887?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712203925/https://www.guideline.gov/summaries/citedownload/50887?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712203925/https://www.guideline.gov/summaries/citedownload/50887">RefWorks</a></li>
+                            <li><a href="/web/20180712203925/https://www.guideline.gov/summaries/citedownload/50887?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="50887" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>The quality of evidence (<strong>High-Very Low</strong>) and strengths of recommendations (<strong>Strong, Weak</strong>) are defined at the end of the "Major Recommendation" field.</p>
+<p><strong><span style="text-decoration: underline;">Clinical Practice Recommendations</span></strong></p>
+<p>The following clinical practice recommendations are based on a systematic review and evaluation of evidence following the Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology. Remarks are provided to guide clinicians in the implementation of these recommendations. All figures, including meta-analyses and Summary of Findings tables are presented in the supplemental material (see the original guideline document). Table 5 in the original guideline document shows a summary of the recommendation statements including the strength of recommendation and quality of evidence. A decision tree for the diagnosis of patients suspected of having obstructive sleep apnea (OSA) is presented in Figure 2 in the original guideline document.</p>
+<p>The following are good practice statements, the implementation of which is deemed necessary for appropriate and effective diagnosis and management of OSA.</p>
+<ul style="list-style-type: disc;">
+    <li>Diagnostic testing for OSA should be performed in conjunction with a comprehensive sleep evaluation and adequate follow-up. </li>
+    <li>Polysomnography is the standard diagnostic test for the diagnosis of OSA in adult patients in whom there is a concern for OSA based on a comprehensive sleep evaluation. </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Diagnosis of Obstructive Sleep Apnea in Adults Using Clinical Tools, Questionnaires and Prediction Algorithms</span></strong></p>
+<p><strong>Recommendation 1</strong>: The Task Force (TF) recommends that clinical tools, questionnaires and prediction algorithms not be used to diagnose OSA in adults, in the absence of polysomnography or home sleep apnea testing. (<strong>Strong</strong>)</p>
+<p><strong><span style="text-decoration: underline;">Home Sleep Apnea Testing for the Diagnosis of Obstructive Sleep Apnea in Adults</span></strong></p>
+<p><strong>Recommendation 2</strong>: The TF recommends that polysomnography, or home sleep apnea testing (HSAT) with a technically adequate device, be used for the diagnosis of OSA in uncomplicated adult patients presenting with signs and symptoms that indicate an increased risk of moderate to severe OSA. (<strong>Strong</strong>)</p>
+<p><strong>Recommendation 3</strong>: The TF recommends that if a single home sleep apnea test is negative, inconclusive or technically inadequate, polysomnography be performed for the diagnosis of OSA. (<strong>Strong</strong>)</p>
+<p><em>Remarks</em>: The following remarks are based on specifications used by studies that support these recommendation statements:</p>
+<p>An uncomplicated patient is defined by the absence of:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Conditions that place the patient at increased risk of non-obstructive sleep-disordered breathing (e.g., central sleep apnea, hypoventilation and sleep related hypoxemia). Examples of these conditions include significant cardiopulmonary disease, potential respiratory muscle weakness due to neuromuscular conditions, history of stroke and chronic opiate medication use. </li>
+    <li>Concern for significant non-respiratory sleep disorder(s) that require evaluation (e.g., disorders of central hypersomnolence, parasomnias, sleep related movement disorders) or interfere with accuracy of HSAT (e.g., severe insomnia). </li>
+    <li>Environmental or personal factors that preclude the adequate acquisition and interpretation of data from HSAT. </li>
+</ol>
+<p>An increased risk of moderate to severe OSA is indicated by the presence of excessive daytime sleepiness and at least two of the following three criteria: habitual loud snoring, witnessed apnea or gasping or choking, or diagnosed hypertension.</p>
+<p>HSAT is to be administered by an accredited sleep center under the supervision of a board-certified sleep medicine physician, or a board-eligible sleep medicine provider.</p>
+<p>A single HSAT recording is conducted over at least one night.</p>
+<p>A technically adequate HSAT device incorporates a minimum of the following sensors: nasal pressure, chest and abdominal respiratory inductance plethysmography, and oximetry; or else peripheral arterial tonometry (PAT) with oximetry and actigraphy. For additional information regarding HSAT sensor requirements, refer to <em>The American Academy of Sleep Medicine (AASM) Manual for the Scoring of Sleep and Associated Events</em>.</p>
+<p>A technically adequate diagnostic test includes a minimum of 4 hours of technically adequate oximetry and flow data, obtained during a recording attempt that encompasses the habitual sleep period.</p>
+<p><strong><span style="text-decoration: underline;">Diagnosis of Obstructive Sleep Apnea in Adults with Comorbid Conditions</span></strong></p>
+<p><strong>Recommendation 4</strong>: The TF recommends that polysomnography, rather than home sleep apnea testing, be used for the diagnosis of OSA in patients with significant cardiorespiratory disease, potential respiratory muscle weakness due to neuromuscular condition, awake hypoventilation or suspicion of sleep-related hypoventilation, chronic opioid medication use, history of stroke or severe insomnia. (<strong>Strong</strong>)</p>
+<p><strong><span style="text-decoration: underline;">Diagnosis of Obstructive Sleep Apnea in Adults Using a Split-Night versus a Full-Night Polysomnography Protocol</span></strong></p>
+<p><strong>Recommendation 5</strong>: The TF suggests that, if clinically appropriate, a split-night diagnostic protocol, rather than a full-night diagnostic protocol for polysomnography be used in the diagnosis of OSA. (<strong>Weak</strong>)</p>
+<p><em>Remarks</em>: Clinically appropriate is defined as the absence of conditions identified by the clinician that are likely to interfere with successful diagnosis and treatment using a split-night protocol.</p>
+<p>This recommendation is based on a split-night protocol that initiates continuous positive airway pressure (CPAP) titration only when the following criteria are met: (1) a moderate to severe degree of OSA is observed during a minimum of 2 hours of recording time on the diagnostic polysomnography, AND (2) at least 3 hours are available for CPAP titration.</p>
+<p><strong><span style="text-decoration: underline;">Repeat Polysomnography for the Diagnosis of Obstructive Sleep Apnea in Adults</span></strong></p>
+<p><strong>Recommendation 6</strong>: The TF suggests that when the initial polysomnogram is negative and there is still clinical suspicion for OSA, a second polysomnogram be considered for the diagnosis of OSA. (<strong>Weak</strong>)</p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong></p>
+<p><strong>Quality of a Body of Evidence</strong></p>
+<p><strong>High</strong>: Corresponds to a high level of certainty that the true effect lies close to that of the estimate of the effect.</p>
+<p><strong>Moderate</strong>: Corresponds to a moderate level of certainty in the effect estimate; the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</p>
+<p><strong>Low</strong>: Corresponds to a low level of certainty in the effect estimate; the true effect may be substantially different from the estimate of the effect.</p>
+<p><strong>Very low</strong>: Corresponds to very little certainty in the effect estimate; the true effect is likely to be substantially different from the estimate of effect.</p>
+<p><strong>Strength of Recommendations</strong></p>
+<p><strong>Strong</strong>: A STRONG recommendation is one that clinicians should, under most circumstances, always follow (i.e., something that might qualify as a Quality Measure).</p>
+<p><strong>Weak</strong>: A WEAK recommendation reflects a lower degree of certainty in the appropriateness of the patient-care strategy and requires that the clinician use his/her clinical knowledge and experience, and refer to the individual patient's values and preferences to determine the best course of action.</p>
+<p><strong>Example Characteristics of American Academy of Sleep Medicine (AASM) Strengths of Recommendations</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Example Characteristics of American Academy of Sleep Medicine (AASM) Strengths of Recommendations">
+    <tbody>
+        <tr>
+            <th class="Center" valign="top" colspan="2">AASM Strength of Recommendation</th>
+            <th class="Center" valign="top">Example Characteristics Guiding Recommendation</th>
+        </tr>
+        <tr>
+            <td class="Center" valign="middle" rowspan="2">FOR</td>
+            <td class="Center" valign="middle">STRONG</td>
+            <td valign="top">
+            <ul style="list-style-type: disc;">
+                <li>There is a high degree of clinical certainty that the balance between benefits vs. harms (i.e., <span style="text-decoration: underline;">net benefits</span>) favors benefits for this patient-care strategy. </li>
+                <li>The vast majority of well-informed patients would most likely choose this patient-care strategy, compared to alternative patient-care strategies or no treatment. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="middle">WEAK</td>
+            <td valign="top">
+            <ul style="list-style-type: disc;">
+                <li>There is a lower degree of clinical certainty in the balance between benefits vs. harms (i.e., <span style="text-decoration: underline;">net benefits</span>) favors benefit for this patient-care strategy. </li>
+                <li>The majority of well-informed patients would most likely choose this patient-care strategy, compared to alternative patient-care strategies or no treatment. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="middle" rowspan="2">AGAINST</td>
+            <td class="Center" valign="middle">WEAK</td>
+            <td valign="top">
+            <ul style="list-style-type: disc;">
+                <li>There is a lower degree of clinical certainty in the balance between benefits vs. harms (i.e., <span style="text-decoration: underline;">net harms</span>) of this patient-care strategy. </li>
+                <li>The majority of well-informed patients would most likely not choose this patient-care strategy, compared to alternative patient-care strategies or no treatment. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="middle">STRONG</td>
+            <td valign="top">
+            <ul style="list-style-type: disc;">
+                <li>There is a high degree of clinical certainty in the balance between benefits vs. harms (i.e., <span style="text-decoration: underline;">net harms</span>) of this patient-care strategy. </li>
+                <li>The vast majority of well-informed patients would most likely not choose this patient-care strategy, compared to alternative patient-care strategies or no treatment. </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>An algorithm titled "Clinical Algorithm for Implementation of Clinical Practice Guidelines" is provided in the <a href="/web/20180712203925/https://www.guideline.gov/Home/Disclaimer?id=50887&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.aasmnet.org%2fResources%2fclinicalguidelines%2fdiagnostic-testing-OSA.pdf" title="American Academy of Sleep Medicine Web site">original guideline document</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203925im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Obstructive sleep apnea (OSA)</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Diagnosis</p>
+                    <p>Evaluation</p>
+                    <p>Risk Assessment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Family Practice</p>
+                    <p>Internal Medicine</p>
+                    <p>Otolaryngology</p>
+                    <p>Pulmonary Medicine</p>
+                    <p>Sleep Medicine</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Allied Health Personnel</p>
+                    <p>Nurses</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                    <p>Respiratory Care Practitioners</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To combine and update information from prior guideline documents regarding the diagnosis of obstructive sleep apnea (OSA), including the optimal circumstances under which attended in-laboratory polysomnography (PSG) or home sleep apnea testing (HSAT) should be performed</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Adult patients with suspected obstructive sleep apnea (OSA)</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Diagnostic testing for obstructive sleep apnea (OSA) in conjunction with a comprehensive sleep evaluation </li>
+    <li>Use of polysomnography (PSG) for diagnosis of OSA </li>
+    <li>Use of clinical tools, questionnaires or prediction algorithms for diagnosis of OSA (not recommended) </li>
+    <li>Home sleep apnea testing </li>
+    <li>Diagnosis of OSA in patients with comorbid conditions </li>
+    <li>Split-night versus full-night diagnostic protocols for PSG </li>
+    <li>Repeat PSG </li>
+</ol></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Diagnostic accuracy </li>
+    <li>Subjective sleepiness </li>
+    <li>Continuous positive airway pressure (CPAP) adherence </li>
+    <li>Quality of life </li>
+    <li>Apnea-hypopnea index (AHI) </li>
+    <li>Depression </li>
+    <li>Cardiovascular endpoints </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Hand-searches of Published Literature (Primary Sources)</p>
+                    <p>Hand-searches of Published Literature (Secondary Sources)</p>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Literature Searches, Evidence Review and Data Extraction</span></strong></p>
+<p>The Task Force (TF) performed a systematic review of the scientific literature to identify articles that addressed at least one of the nine PICO (Patient, Intervention, Comparison, Outcome) questions. Multiple literature searches were performed by American Academy of Sleep Medicine (AASM) staff using the PubMed and EMBASE databases, throughout the guideline development process (see Figure 1 in the original guideline document). The search yielded articles with various study designs, however the analysis was limited to randomized controlled trials (RCTs) and observational studies. The articles that were cited in the 2007 AASM clinical practice guideline, 2005 practice parameter, 2003 review, and 1997 review were included for data analysis if they met the study inclusion criteria described below.</p>
+<p>The literature searches in PubMed were conducted using a combination of Medical Subject Headings (MeSH) terms and keywords as presented in the supplemental material (see the original guideline document). The PubMed database was searched from January 1, 2005 through July 26, 2012 for any relevant literature published since the last guideline. The PubMed search was expanded on September 26, 2012 to identify relevant articles published prior to January 1, 2005. Literature searches were also performed in EMBASE using a combination of terms and keywords as presented in the supplemental material. The EMBASE database was searched from January 1, 2005 through September 13, 2012. These searches yielded a total of 3,937 articles. There were 205 duplicates identified resulting in a total of 3,732 articles from both databases.</p>
+<p>A second round of literature searches was performed in PubMed and EMBASE to capture more recent literature. The PubMed database was searched from July 27, 2012 to December 23, 2013, and the EMBASE database was searched from September 13, 2012 to December 23, 2013. These searches yielded a total of 2,061 articles. There were 670 duplicates identified resulting in 1,391 additional papers from both databases.</p>
+<p>A final literature search was performed in PubMed to capture the latest literature. The PubMed database was searched from December 24, 2013 to June 29, 2016 and identified 2,129 articles.</p>
+<p>Based on their expertise and familiarity with the literature, TF members submitted additional relevant literature and screened reference lists to identify articles of potential interest. This served as a "spot check" for the literature searches to ensure that important articles were not overlooked and identified an additional 140 publications.</p>
+<p>A total of 7,392 abstracts were assessed by two reviewers to determine whether they met inclusion criteria presented below. Articles were excluded per the criteria listed below.</p>
+<p><strong>Literature Search Limits</strong></p>
+<p>January 1, 2005 to June 29, 2016; human studies; RCTs or observational studies; adults; English language</p>
+<p><strong>Inclusion Criteria</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Diagnosis of obstructive sleep apnea (OSA) with polysomnography (PSG), home sleep apnea testing (HSAT), oximetry, or clinical prediction algorithm </li>
+    <li>Address one of nine PICO questions </li>
+    <li>Adults </li>
+    <li>Outcomes related to accuracy, inconclusive results, complications, quality of life, medical outcomes, adherence, efficiency of diagnosis or access to care </li>
+</ul>
+<p><strong>Exclusion Criteria</strong></p>
+<p>Treatment paper; no OSA; pediatric subjects; initial sample size &lt;25 per condition, 50 total for PICO 2; initial sample size &lt;10 per condition, 20 total for all other PICOs; wrong publication type (review, editorial, methodological, non-RCT or non-observational study); other sleep comorbidities besides OSA; hospitalized or general surgery; diagnostic test not in PICO question; time between HSAT and PSG &gt;4 weeks; HSAT used in-lab; HSAT used simultaneously with PSG in-lab; multiple sleep latency test (MSLT); Maintenance of Wakefulness Test (MWT); and other nap tests performed</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>A total of 98 studies were included in evidence base for recommendations. </li>
+    <li>A total of 86 studies were included in meta-analysis. </li>
+</ul>
+<p>See Figure 1 in the original guideline document for details.</p></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Quality of a Body of Evidence</span></strong></p>
+<p><strong>High</strong>: Corresponds to a high level of certainty that the true effect lies close to that of the estimate of the effect.</p>
+<p><strong>Moderate</strong>: Corresponds to a moderate level of certainty in the effect estimate; the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</p>
+<p><strong>Low</strong>: Corresponds to a low level of certainty in the effect estimate; the true effect may be substantially different from the estimate of the effect.</p>
+<p><strong>Very low</strong>: Corresponds to very little certainty in the effect estimate; the true effect is likely to be substantially different from the estimate of effect.</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Meta-Analysis</p>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Meta-Analysis</span></strong></p>
+<p>Meta-analysis was performed on both diagnostic and clinical outcomes of interest for each PICO (Population/Problem, Intervention, Comparison, Outcome) question, when possible. Outcomes data for diagnostic approaches were categorized as follows: clinical tools, questionnaires, and prediction algorithms; history and physical exam; home sleep apnea testing (HSAT); attended polysomnography (PSG); split-night attended PSG; two-night attended PSG; single-night HSAT; multiple-night HSAT; follow-up attended PSG; and follow-up HSAT. The type of HSAT devices identified in literature search included type 2; type 3; 2&ndash;3 channel; single channel; oximetry; and peripheral arterial tonometry (PAT). A definition of these devices has been previously described. Adult patients were categorized as follows: suspected obstructive sleep apnea (OSA); suspected OSA with comorbid conditions; diagnosed OSA; and scheduled for upper airway surgery.</p>
+<p>For diagnostic outcomes, the pretest probability for OSA (i.e., the prevalence within the study population), sensitivity and specificity of the tested diagnostic approach, and number of patients for each study was used to derive two-by-two tables (i.e., the number of true positive (TP), true negative (TN), false positive (FP), and false negative (FN) diagnoses per 1,000 patients) in both high risk and low risk patients, for each OSA severity threshold (i.e., apnea-hypopnea index [AHI] &ge;5, AHI &ge;15, AHI &ge;30). For analyses that included five or more studies, pooled estimates of sensitivity, specificity, and accuracy were calculated using hierarchical random effects modeling performed in STATA software (accuracy was derived by hierarchical summary receiver-operating characteristic [HSROC] curves). When analyses included fewer than five studies, ranges of sensitivity, specificity and accuracy were used. Based on their clinical expertise and a review of available literature, the Task Force (TF) established estimates of OSA prevalence among "low risk" and "high risk" patients for each OSA severity threshold. The TF envisioned a sleep clinic cohort of middle-aged obese men with typical symptoms of OSA as an example of a high-risk patient population. In contrast, a sleep clinic cohort of younger non-obese women with possible OSA symptoms was used as prototype for a low risk patient population. Prevalence estimates for these populations are presented in Table 4 in the original guideline document.</p>
+<p>The sensitivity and specificity of included studies were entered into Review Manager 5.3 software to generate forest plots for each analysis. The estimates of sensitivity and specificity (pooled or ranges), and OSA prevalence were entered into the GRADE (Grading of Recommendations Assessment, Development and Evaluation) Guideline Development Tool (GDT) to generate the two-by-two tables. The TF determined the downstream consequences of an accurate diagnosis versus an inaccurate diagnosis (see supplemental material, Table S1 in the original guideline document), and used the estimates to weigh the benefits of an accurate diagnosis versus the harms of an inaccurate diagnosis. This information was used, in part, to assess whether a given diagnostic approach could be recommended when compared against PSG.</p>
+<p>For clinical outcomes of interest, data on change scores were entered into the Review Manager 5.3 software to derive the mean difference and standard deviation between the experimental diagnostic approach and the gold standard or comparator. For studies that did not report change scores, data from post-treatment values taken from the last treatment time-point were used for meta-analysis. All meta-analyses of clinical outcomes were performed using the random effects model with results displayed as a forest plot. There was insufficient evidence to perform meta-analyses for PICOs 3 and 9 (see the original guideline document), thus no recommendations are provided.</p>
+<p>Interpretation of clinical significance for the clinical outcomes of interest was conducted by comparing the absolute effects to the clinical significance threshold previously determined by the TF for each clinical outcome of interest (see Table 3 in the original guideline document).</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Expert Task Force</span></strong></p>
+<p>The American Academy of Sleep Medicine (AASM) commissioned a Task Force (TF) of board-certified sleep medicine physicians, with expertise in the diagnosis and management of adults with obstructive sleep apnea (OSA), to develop this guideline.</p>
+<p><strong><span style="text-decoration: underline;">PICO Questions</span></strong></p>
+<p>A PICO (Patient, Population or Problem, Intervention, Comparison, and Outcomes) question template was used to develop clinical questions to be addressed in this guideline. PICO questions were developed based on a review of the existing AASM practice parameters on indications for use of polysomnography (PSG) and home sleep apnea testing (HSAT) for the diagnosis of patients with obstructive sleep apnea (OSA), and a review of systematic reviews, meta-analyses, and guidelines published since 2004. The AASM Board of Directors (BOD) approved the final list of PICO questions presented in Table 1 of the original guideline document before the literature search was performed. The PICO questions identify the commonly used approaches and devices for the diagnosis of OSA. Based on their expertise, the TF developed a list of patient-oriented clinically relevant outcomes that are indicative of whether a treatment should be recommended for clinical practice. A summary of the critical outcomes for each PICO is presented in Table 2 in the original guideline document. Lastly, clinical significance thresholds, used to determine if a change in an outcome was clinically significant, were defined for each outcome by TF clinical judgment, prior to statistical analysis. The clinical significance thresholds are presented by outcome in Table 3 in the original guideline document. It should be noted that there was insufficient evidence to directly address PICO question 1, as no studies were identified that compared the efficacy of clinical prediction algorithms to history and physical exam. However, the TF decided to compare the efficacy of clinical prediction algorithms to PSG and HSAT.</p>
+<p><strong><span style="text-decoration: underline;">Strength of Recommendations</span></strong></p>
+<p>The assessment of evidence quality was performed according to the Grading of Recommendations Assessment, Development and Evaluation (GRADE) process. The TF assessed the following four components to determine the direction and strength of a recommendation: quality of evidence, balance of beneficial and harmful effects, patient values and preferences and resource use as described below.</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li><strong>Quality of evidence</strong>: based on an assessment of the overall risk of bias (randomization, blinding, allocation concealment, selective reporting, and author disclosures), imprecision (clinical significance thresholds), inconsistency (I<sup>2</sup> cutoff of 75%), indirectness (study population), and risk of publication bias (funding sources), the TF determined their overall confidence that the estimated effect found in the body of evidence was representative of the true treatment effect that patients would see. For diagnostic accuracy studies, the quality assessment of diagnostic accuracy studies (QUADAS)-2 tool was used in addition to the quality domains for the assessment of risk of bias in intervention studies. The quality of evidence was based on the outcomes that the TF deemed critical for decision-making. </li>
+    <li><strong>Benefits versus harms</strong>: based on the meta-analysis (if applicable), analysis of any harms or side effects reported within the accepted literature, and the clinical expertise of the TF, the TF determined if the beneficial outcomes of the intervention outweighed any harmful side effects. </li>
+    <li><strong>Patient values and preferences</strong>: based on the clinical expertise of the TF members and any data published on the topic relevant to patient preferences, the TF determined if patients would use the intervention based on the body of evidence, and if patient values and preferences would be generally consistent. </li>
+    <li><strong>Resource use</strong>: based on the clinical expertise of the TF members and a "spot check" for relevant literature the TF determined resource use to be important for determining whether to recommend the use of HSAT versus PSG, split-night versus full-night PSG and single-night versus multiple-night HSAT diagnostic protocols, and repeat testing. Resource use was not considered in-depth for clinical tools, questionnaires and prediction algorithms, diagnosis in adults with comorbid conditions, and repeat PSG. </li>
+</ol>
+<p>Taking these major factors into consideration, each recommendation statement was assigned strength ("STRONG" or "WEAK"). Additional information is provided in the form of "Remarks" immediately following the recommendation statements, when deemed necessary by the TF. Remarks are based on the evidence evaluated during the systematic review, are intended to provide context for the recommendations, and to guide clinicians in implementing the recommendations in daily practice.</p>
+<p>Discussions accompany each recommendation to summarize the relevant evidence and explain the rationale leading to each recommendation. These sections are an integral part of the GRADE system and offer transparency to the process (see the original guideline document).</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Strength of Recommendations</span></strong></p>
+<p><strong>Strong</strong>: A STRONG recommendation is one that clinicians should, under most circumstances, always follow (i.e., something that might qualify as a Quality Measure).</p>
+<p><strong>Weak</strong>: A WEAK recommendation reflects a lower degree of certainty in the appropriateness of the patient-care strategy and requires that the clinician use his/her clinical knowledge and experience, and refer to the individual patient's values and preferences to determine the best course of action.</p>
+<p><strong><span style="text-decoration: underline;">Example Characteristics of American Academy of Sleep Medicine (AASM) Strengths of Recommendations</span></strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Example Characteristics of American Academy of Sleep Medicine (AASM) Strengths of Recommendations">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" colspan="2">AASM Strength of Recommendation</th>
+            <th class="Center" valign="top">Example Characteristics Guiding Recommendation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="Center" valign="middle" rowspan="2">FOR</td>
+            <td class="Center" valign="middle">STRONG</td>
+            <td valign="top">
+            <ul style="list-style-type: disc;">
+                <li>There is a high degree of clinical certainty that the balance between benefits vs. harms (i.e., <span style="text-decoration: underline;">net benefits</span>) favors benefits for this patient-care strategy. </li>
+                <li>The vast majority of well-informed patients would most likely choose this patient-care strategy, compared to alternative patient-care strategies or no treatment. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="middle">WEAK</td>
+            <td valign="top">
+            <ul style="list-style-type: disc;">
+                <li>There is a lower degree of clinical certainty in the balance between benefits vs. harms (i.e., <span style="text-decoration: underline;">net benefits</span>) favors benefit for this patient-care strategy. </li>
+                <li>The majority of well-informed patients would most likely choose this patient-care strategy, compared to alternative patient-care strategies or no treatment. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="middle" rowspan="2">AGAINST</td>
+            <td class="Center" valign="middle">WEAK</td>
+            <td valign="top">
+            <ul style="list-style-type: disc;">
+                <li>There is a lower degree of clinical certainty in the balance between benefits vs. harms (i.e., <span style="text-decoration: underline;">net harms</span>) of this patient-care strategy. </li>
+                <li>The majority of well-informed patients would most likely not choose this patient-care strategy, compared to alternative patient-care strategies or no treatment. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="middle">STRONG</td>
+            <td valign="top">
+            <ul style="list-style-type: disc;">
+                <li>There is a high degree of clinical certainty in the balance between benefits vs. harms (i.e., <span style="text-decoration: underline;">net harms</span>) of this patient-care strategy. </li>
+                <li>The vast majority of well-informed patients would most likely not choose this patient-care strategy, compared to alternative patient-care strategies or no treatment. </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Though a single night of home sleep apnea testing (HSAT) is less resource- intensive than a single night of polysomnography (PSG), the relative cost-effectiveness of management pathways that incorporate each of these diagnostic strategies is unclear. Economic analyses have compared the cost-effectiveness of management pathways that incorporate diagnostic strategies using HSAT or PSG. All have concluded that PSG is the preferred diagnostic strategy from an economic perspective for adults suspected to have moderate to severe obstructive sleep apnea (OSA). An important factor in these analyses is the favorable cost-effectiveness of OSA treatment in patients with moderate to severe OSA, particularly when longer time horizons are considered. As a result, diagnostic strategies that lead to increased false negatives, and leave patients untreated, or increase false positives, and unnecessarily treat patients, have less favorable cost-effectiveness. It is important to note that these economic analyses are susceptible to error because of imprecision in modelling of management pathways and limitations in the quality of data available to estimate parameters. The impact of errors can be magnified when extrapolated over long time horizons. </li>
+    <li>A randomized controlled trial (RCT) that assessed relative cost-effectiveness of management pathways that use HSAT or PSG for diagnosis of OSA reported that in-trial costs were 25% less in the home arm than the in-laboratory arm. These estimates were based on the Medicare Fee Schedule for the various study procedures, including office visits and diagnostic testing, and take into account the need to repeat studies. A subsequent cost minimization analysis of this RCT also considered costs from a provider perspective. While provider costs (capital, labor, overhead) were generally less for the home program, this was not true for all modelled scenarios. The provider perspective highlighted the large number of cost components necessary to ensure high quality home-based OSA management, which narrowed the cost difference relative to lab management. </li>
+    <li>The available studies indicate that the potential cost advantages of HSAT over PSG are not as high as reflected by the cost difference of a single night of testing. Even when HSAT is used in appropriate populations and conditions, additional HSAT and PSG are needed for patients with technically inadequate or inconclusive studies, in order to achieve an accurate diagnosis. In addition, if a home management pathway is used in a manner that results in reduced effectiveness relative to PSG, use of HSAT could in fact be less cost effective than using PSG. Examples of this include use in patient populations with predominantly mild OSA in which there are a higher proportion of negative or indeterminate HSAT results that require follow-up PSG, or use in patients at risk for non-obstructive sleep-related breathing disorders that may not be accurately diagnosed with HSAT. The TF determined that if HSAT is used in the recommended context and management pathway, it would be more cost-effective than if it is used outside this framework. </li>
+    <li>A single cost-effectiveness analysis demonstrated that split-night studies were less costly than full-night studies based on cost per quality of life year (QALY) gained ($1,979 versus $2,092) and would be considered more cost-effective than full-night studies when third-party willingness to pay fell below $11,500 per QALY gained (a level of cost per QALY that would still be considered a good value for payers). However, the TF had low confidence in the certainty of resource use, given the lack of high quality evidence to inform cost effectiveness. </li>
+</ul></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>A draft of the guideline was available for public comment for a two-week period on the American Academy of Sleep Medicine (AASM) Web site. The Task Force (TF) took into consideration all the comments received and made revisions when appropriate. The revised guideline was submitted to the AASM Board of Directors (BOD) who approved these recommendations.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The "Overall Quality of Evidence" sections following each recommendation in the original guideline document summarize the quality of evidence supporting individual recommendations. Also see Table 5 in the original guideline document, which provides a summary of the recommendation statements including the quality of evidence for each recommendation.</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Use of home sleep apnea testing (HSAT) may provide potential benefits to patients with suspected obstructive sleep apnea (OSA). Such benefits could include convenience, comfort, increased access to testing, and decreased cost. HSAT can be performed in the home environment with fewer attached sensors during sleep. The availability of HSAT for diagnosis may improve access to diagnostic testing in resource-limited settings, or when the patient is unable to leave the home or healthcare setting for testing. In addition, HSAT may be less costly when used appropriately. </li>
+    <li>The split-night protocol, in comparison to a full-night baseline assessment followed by a separate positive airway pressure (PAP) titration, has the potential to provide the needed diagnostic information and effective continuous positive airway pressure (CPAP) settings within the same recording. </li>
+    <li>A second night of polysomnography (PSG) in symptomatic patients allows for the diagnosis of OSA in 8% to 25% of patients with initial false negative studies. Establishing a diagnosis of OSA in these patients allows for treatment that leads to improved symptom control (e.g., less daytime sleepiness), better QOL, and potentially decreased cardiovascular morbidity over time. </li>
+</ul>
+<p>Refer to the "Benefits versus Harms" sections in the original guideline document for benefits/harms assessment of specific recommendations.</p></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Harms of home sleep apnea testing (HSAT) could result from the need for additional diagnostic testing among patients with technically inadequate or inconclusive HSAT findings, or from false-positive and false-negative results leading either to unnecessary testing and treatment or to misdiagnosis and subsequent inappropriate therapy or lack of therapy. </li>
+    <li>Potential disadvantages of the split-night study include insufficient diagnostic sampling (e.g., limited rapid eye movement [REM] sleep time and limited supine time in those with difficulty initiating sleep), and insufficient time to ascertain appropriate continuous positive airway pressure (CPAP) treatment settings. </li>
+    <li>Routinely repeating a polysomnography (PSG) in patients with an initial negative PSG has potential downsides. There is a risk that repeat testing could lead to false positive cases being identified, and unnecessarily treated. In addition, the routine use of a 2-night study protocol would cause inconvenience to the patient, increased utilization of resources and healthcare costs, and perhaps even delays in the care of other patients awaiting PSG. </li>
+</ul>
+<p>Refer to the "Benefits versus Harms" sections in the original guideline document for benefits/harms assessment of specific recommendations.</p></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>The recommendations in this guideline define principles of practice that should meet the needs of most patients in most situations. This guideline should not, however, be considered inclusive of all proper methods of care or exclusive of other methods of care reasonably used to obtain the same results. A STRONG recommendation is one that clinicians should, under most circumstances, always follow (i.e., something that might qualify as a Quality Measure). A WEAK recommendation reflects a lower degree of certainty in the appropriateness of the patient-care strategy and requires that the clinician use his/her clinical knowledge and experience, and refer to the individual patient's values and preferences to determine the best course of action. The ultimate judgment regarding the suitability of any specific recommendation must be made by the clinician, in light of the individual circumstances presented by the patient, the available diagnostic tools, the accessible treatment options, and available resources. </li>
+    <li>The American Academy of Sleep Medicine (AASM) expects this guideline to have an impact on professional behavior, patient outcomes, and possibly, health care costs. This clinical practice guideline reflects the state of knowledge at the time of the literature review and will be reexamined and updated as new information becomes available. </li>
+    <li>Refer to the "Discussions and Future Directions" section in the original guideline document for information on limitations of the literature. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>An implementation strategy was not provided.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Clinical Algorithm</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Kapur VK, Auckley DH, Chowdhuri S, Kuhlmann DC, Mehra R, Ramar K, Harrod CG. Clinical practice guideline for diagnostic testing for adult obstructive sleep apnea: an American Academy of Sleep Medicine clinical practice guideline. J Clin Sleep Med. 2017 Mar 15;13(3):479-504. [131 references] <a href="https://web.archive.org/web/20180712203925/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=28162150" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712203925im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2017 Mar 15</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>American Academy of Sleep Medicine - Professional Association</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>The development of this clinical practice guideline was funded by the American Academy of Sleep Medicine.</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Expert Task Force</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Task Force Members</em>: Vishesh K. Kapur, MD, MPH, University of Washington, Seattle, WA; Dennis H. Auckley, MD, MetroHealth Medical Center and Case Western Reserve University, Cleveland, OH; Susmita Chowdhuri, MD, John D. Dingell VA Medical Center and Wayne State University, Detroit, MI; David C. Kuhlmann, MD, Bothwell Regional Health Center, Sedalia, MO; Reena Mehra, MD, MS, Cleveland Clinic, Cleveland, OH; Kannan Ramar, MBBS, MD, Mayo Clinic, Rochester, MN; Christopher G. Harrod, MS, American Academy of Sleep Medicine, Darien, IL</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>The Task Force (TF) was required to disclose all potential conflicts of interest (COI) according to the American Academy of Sleep Medicine's (AASM's) COI policy, both prior to being appointed to the TF, and throughout the research and writing of this paper. In accordance with the AASM's conflicts of interest policy, TF members with a Level 1 conflict were not allowed to participate. TF members with a Level 2 conflict were required to recuse themselves from any related discussion or writing responsibilities.</p>
+<p><strong><span style="text-decoration: underline;">Disclosure Statement</span></strong></p>
+<p>Dr. Auckley receives royalties from Up-to-Date and is a consultant for the American Board of Internal Medicine. Dr. Chowdhuri has received research support from the Veterans' Health Administration. Dr. Mehra has received research support from Philips Respironics and Resmed in the form of equipment used in clinical research. Dr. Mehra also received grant support from the NIH/NHLBI and royalties from Up-to-Date. Mr. Harrod is an employee of the American Academy of Sleep Medicine. The other authors have indicated no financial conflicts of interest.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline updates previous versions: Kushida CA, Littner MR, Morgenthaler T, Alessi CA, Bailey D, Coleman J Jr, Friedman L, Hirshkowitz M, Kapen S, Kramer M, Lee-Chiong T, Loube DL, Owens J, Pancer JP, Wise M. Practice parameters for the indications for polysomnography and related procedures: an update for 2005. Sleep. 2005 Apr 1;28(4):499-521. [150 references]</p>
+<p>Collop NA, Anderson WM, Boehlecke B, Claman D, Goldberg R, Gottlieb DJ, Hudgel D, Sateia M, Schwab R, Portable Monitoring Task Force of the American Academy of Sleep Medicine. Clinical guidelines for the use of unattended portable monitors in the diagnosis of obstructive sleep apnea in adult patients. Portable Monitoring Task Force of the American Academy of Sleep Medicine. J Clin Sleep Med. 2007 Dec 15;3(7):737-47.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712203925/https://www.guideline.gov/Home/Disclaimer?id=50887&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.aasmnet.org%2fResources%2fclinicalguidelines%2fdiagnostic-testing-OSA.pdf" title="American Academy of Sleep Medicine Web site">American Academy of Sleep Medicine Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203925im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following is available:</p>
+<ul style="list-style-type: disc;">
+    <li>Morgenthaler TI, Deriy L, Heald JL, Thomas SM. The evolution of the AASM clinical practice guidelines: another step forward. J Clin Sleep Med. 2016;12(1):129-35. Available from the <a href="/web/20180712203925/https://www.guideline.gov/Home/Disclaimer?id=50887&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.aasmnet.org%2fjcsm%2fViewAbstract.aspx%3fpid%3d30407" title="American Academy of Sleep Medicine Web site">American Academy of Sleep Medicine Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203925im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on July 18, 2010. The information was verified by the guideline developer on August 5, 2010. This summary was updated by ECRI Institute on May 15, 2017. The updated information was verified by the guideline developer on May 26, 2017.</p>
+<p>This NEATS assessment was completed by ECRI Institute on June 22, 2017. The information was verified by the guideline developer on June 26, 2017.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. Please contact the American Academy of Sleep Medicine for information regarding reproduction of American Academy of Sleep Medicine guidelines.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712203925/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712203925/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712203925/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712203925/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712203925/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+        <div class="general-block">
+            <h3 class="synthesis prefix-icon large-icon">Guideline Synthesis</h3>
+            <p class="text-label">This summary is compared in:</p>
+                <p><a href="/web/20180712203925/https://www.guideline.gov/syntheses/synthesis/51029/screening-and-diagnosis-of-obstructive-sleep-apnea">Screening and Diagnosis of Obstructive Sleep Apnea</a></p>    
+        </div>
+        <!-- /.general-block -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712203925/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712203925/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203925/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203925/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203925/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203925/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203925/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712203925/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712203925/https://www.guideline.gov/disclaimer?id=50887&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712203925im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712203925/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712203925/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712203925/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712203925/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712203925/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712203925/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712203925/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712203925/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712203925/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712203925/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712203925/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712203925/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712203925/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712203925/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712203925/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712203925/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712203925/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712203925/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712203925/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712203925im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712203925/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712203925im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712203925im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712203925/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712203925js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712203925js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:39:25 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:48:07 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 187.053 (3)
+  esindex: 0.007
+  captures_list: 213.599
+  CDXLines.iter: 21.011 (3)
+  PetaboxLoader3.datanode: 67.389 (4)
+  exclusion.robots: 0.194
+  exclusion.robots.policy: 0.179
+  RedisCDXSource: 1.525
+  PetaboxLoader3.resolve: 243.008 (2)
+  load_resource: 155.51
+-->

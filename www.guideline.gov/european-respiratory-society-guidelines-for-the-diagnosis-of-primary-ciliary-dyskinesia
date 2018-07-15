@@ -1,0 +1,926 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app19.us.archive.org';v.server_ms=520;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>European Respiratory Society guidelines for the diagnosis of primary ciliary dyskinesia. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712203536im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712203536im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712203536im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712203536im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712203536/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712203536im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712203536cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712203536js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712203536if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712203536/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712203536if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712203536/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712203536/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712203536/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712203536/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712203536im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712203536im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712203536im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712203536/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712203536/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712203536/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712203536/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712203536/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712203536/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712203536/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712203536/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712203536/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712203536/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712203536/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712203536/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712203536/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712203536/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712203536/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712203536/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712203536/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712203536/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712203536/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712203536/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712203536/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:011164</li>
+            <li>2017 Jan 4
+            </li>            
+                                </ul>
+        <div>
+                <h1>European Respiratory Society guidelines for the diagnosis of primary ciliary dyskinesia.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712203536/https://www.guideline.gov/search?f_Guideline_Developer_String=European%20Respiratory%20Society&amp;fLockTerm=European%2BRespiratory%2BSociety">European Respiratory Society</a></li>
+                        <li>   
+                                <a id="701" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Lucas JS, Barbato A, Collins SA, Goutaki M, Behan L, Caudri D, Dell S, Eber E, Escudier E, Hirst RA, Hogg C, Jorissen M, Latzin P, Legendre M, Leigh MW, Midulla F, Nielsen KG, Omran H, Papon JF, Pohunek P, Redfern B, Rigau D, Rindlisbacher B, Santamaria F, Shoemark A, Snijders D, Tonia T, Titieni A, Walker WT, Werner C, Bush A, Kuehni CE. European Respiratory Society guidelines for the diagnosis of primary ciliary dyskinesia. Eur Respir J. 2017 Jan 4;49(1):1-25. <a href="https://web.archive.org/web/20180712203536/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27836958" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712203536im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712203536/https://www.guideline.gov/Home/Disclaimer?id=50661&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252ferj.ersjournals.com%252fcontent%252ferj%252f49%252f1%252f1601090.full.pdf">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203536im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                            <h4>UMLS Concepts <a href="/web/20180712203536/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712203536/https://www.guideline.gov/search?f_MSH_CUI=C0008780&amp;fLockTerm=Ciliary+Motility+Disorders">Ciliary Motility Disorders</a>
+, <a href="/web/20180712203536/https://www.guideline.gov/search?f_MSH_CUI=C0011900&amp;fLockTerm=Diagnosis">Diagnosis</a>
+, <a href="/web/20180712203536/https://www.guideline.gov/search?f_MSH_CUI=C0679560&amp;fLockTerm=Genetic+Testing">Genetic Testing</a>
+, <a href="/web/20180712203536/https://www.guideline.gov/search?f_MSH_CUI=C3178894&amp;fLockTerm=Genotyping+Techniques">Genotyping Techniques</a>
+, <a href="/web/20180712203536/https://www.guideline.gov/search?f_MSH_CUI=C0678118&amp;fLockTerm=Microscopy%2c+Electron%2c+Transmission">Microscopy, Electron, Transmission</a>
+, <a href="/web/20180712203536/https://www.guideline.gov/search?f_MSH_CUI=C0242940&amp;fLockTerm=Microscopy%2c+Video">Microscopy, Video</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712203536/https://www.guideline.gov/search?f_MTH_CUI=C0008780&amp;fLockTerm=Ciliary+Motility+Disorders">Ciliary Motility Disorders</a>
+, <a href="/web/20180712203536/https://www.guideline.gov/search?f_MTH_CUI=C0011900&amp;fLockTerm=Diagnosis">Diagnosis</a>
+, <a href="/web/20180712203536/https://www.guideline.gov/search?f_MTH_CUI=C0679560&amp;fLockTerm=Genetic+screening+method">Genetic screening method</a>
+, <a href="/web/20180712203536/https://www.guideline.gov/search?f_MTH_CUI=C0079603&amp;fLockTerm=Immunofluorescence+assay">Immunofluorescence assay</a>
+, <a href="/web/20180712203536/https://www.guideline.gov/search?f_MTH_CUI=C0262880&amp;fLockTerm=Transmission+Electron+Microscopes">Transmission Electron Microscopes</a>
+, <a href="/web/20180712203536/https://www.guideline.gov/search?f_MTH_CUI=C0678118&amp;fLockTerm=Transmission+Electron+Microscopy">Transmission Electron Microscopy</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712203536/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0011900&amp;fLockTerm=Diagnosis">Diagnosis</a>
+ (439401001), <a href="/web/20180712203536/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0079603&amp;fLockTerm=Fluorescent+immunoassay">Fluorescent immunoassay</a>
+ (30662005), <a href="/web/20180712203536/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0079603&amp;fLockTerm=Fluorescent+immunoassay">Fluorescent immunoassay</a>
+ (703444002), <a href="/web/20180712203536/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0679560&amp;fLockTerm=Genetic+test">Genetic test</a>
+ (405824009), <a href="/web/20180712203536/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0008780&amp;fLockTerm=Immotile+cilia+syndrome">Immotile cilia syndrome</a>
+ (86204009), <a href="/web/20180712203536/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2919779&amp;fLockTerm=Measurement+of+expired+nitric+oxide">Measurement of expired nitric oxide</a>
+ (444642008), <a href="/web/20180712203536/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0262880&amp;fLockTerm=Transmission+electron+microscope">Transmission electron microscope</a>
+ (465981006)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712203536/https://www.guideline.gov/search?f_UMD_CUI=C0262880&amp;fLockTerm=Microscopes%2c+Electron%2c+Transmission">Microscopes, Electron, Transmission</a>
+ (18-090), <a href="/web/20180712203536/https://www.guideline.gov/search?f_UMD_CUI=C1322875&amp;fLockTerm=Video+Systems%2c+Microscope">Video Systems, Microscope</a>
+ (15-968)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712203536/https://www.guideline.gov/summaries/downloadcontent/ngc-11164?contentType=pdf" class="pdf">.PDF 108.3 kb</a></li>
+                            <li><a href="/web/20180712203536/https://www.guideline.gov/summaries/downloadcontent/ngc-11164?contentType=word" class="word">Word Document 305.4 kb</a></li>
+                            <li><a href="/web/20180712203536/https://www.guideline.gov/summaries/downloadcontent/ngc-11164?contentType=xml" class="xml">.XML 50.2 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203536/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/50661/european-respiratory-society-guidelines-for-the-diagnosis-of-primary-ciliary-dyskinesia" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203536/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/50661/european-respiratory-society-guidelines-for-the-diagnosis-of-primary-ciliary-dyskinesia" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203536/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/50661/european-respiratory-society-guidelines-for-the-diagnosis-of-primary-ciliary-dyskinesia&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712203536/mailto:/?Subject=AHRQ: European Respiratory Society guidelines for the diagnosis of primary ciliary dyskinesia.&amp;body=https://www.guideline.gov/summaries/summary/50661/european-respiratory-society-guidelines-for-the-diagnosis-of-primary-ciliary-dyskinesia" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: European Respiratory Society guidelines for the diagnosis of primary ciliary dyskinesia. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2017 Jan 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712203536/https://www.guideline.gov/summaries/citedownload/50661?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712203536/https://www.guideline.gov/summaries/citedownload/50661?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712203536/https://www.guideline.gov/summaries/citedownload/50661?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712203536/https://www.guideline.gov/summaries/citedownload/50661?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712203536/https://www.guideline.gov/summaries/citedownload/50661?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712203536/https://www.guideline.gov/summaries/citedownload/50661">RefWorks</a></li>
+                            <li><a href="/web/20180712203536/https://www.guideline.gov/summaries/citedownload/50661?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="50661" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>The strength of the recommendations (<strong>strong</strong>, <strong>weak</strong>) and levels of evidence (<strong>high, moderate, low</strong> or <strong>very low</strong>) are defined at the end of the "Major Recommendations" field.</p>
+<p><strong><span style="text-decoration: underline;">Evidence-Based Recommendations for the Use of Each of the Six Tests Considered for Primary Ciliary Dyskinesia (PCD) Diagnosis</span></strong></p>
+<p><strong>Clinical Features</strong></p>
+<p>Which patients should be referred for diagnostic testing?</p>
+<p>Based on moderate confidence in the evidence:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>The Task Force recommends that patients are tested for PCD if they have several of the following features: persistent wet cough; situs anomalies; congenital cardiac defects; persistent rhinitis; chronic middle ear disease with or without hearing loss; a history in term infants of neonatal upper and lower respiratory symptoms or neonatal intensive care admittance (<strong>strong recommendation</strong>). </li>
+    <li>Patients with normal situs presenting with other symptoms suggestive of PCD (as listed in recommendation 1 above) should be referred for diagnostic testing (<strong>strong recommendation</strong>). </li>
+    <li>Siblings of patients should be tested for PCD, particularly if they have symptoms suggestive of PCD (as listed in recommendation 1) (<strong>strong recommendation</strong>). </li>
+    <li>The Task Force recommends the use of combinations of distinct PCD symptoms and predictive tools (e.g., PICADAR) to identify patients for diagnostic testing (<strong>weak recommendation</strong>). </li>
+</ol>
+<p><strong>Nasal Nitric Oxide</strong></p>
+<p>In patients suspected of having PCD should nasal nitric oxide be used as a diagnostic tool?</p>
+<p>Based on moderate confidence in the evidence, the Task Force recommends that:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Nasal nitric oxide measurement should be used as part of the diagnostic work-up of school children aged &gt;6 years and adults suspected of having PCD, preferably using a chemiluminescence analyser with a velum closure technique (<strong>strong recommendation</strong>). </li>
+    <li>In children aged &lt;6 years suspected of having PCD, the Task Force suggests nasal nitric oxide measurement using tidal breathing as part of the diagnostic work-up (<strong>weak recommendation</strong>).
+    <p><em>Remark</em>: The Task Force suggests that patients presenting with a strong clinical history should undergo further testing, even if nasal nitric oxide is normal (<strong>weak recommendation</strong>).</p>
+    </li>
+</ol>
+<p><strong>High-speed Video Analysis (HSVA)</strong></p>
+<p>In patients suspected of having PCD should HSVA be used as a diagnostic tool?</p>
+<p>Based on low confidence in the evidence, the Task Force recommends:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>HSVA, including ciliary beat frequency and beat pattern analysis, should be used as part of the diagnostic work-up of patients suspected of having PCD (<strong>weak recommendation</strong>). </li>
+    <li>Ciliary beat frequency should not be used without assessment of ciliary beat pattern in diagnosing PCD (<strong>strong recommendation</strong>). </li>
+    <li>To improve diagnostic accuracy of HSVA, ciliary beat frequency/pattern (CBF/P) assessment should be repeated after air&ndash;liquid interface (ALI) culture (<strong>strong recommendation</strong>). </li>
+</ol>
+<p><strong>Transmission Electron Microscopy (TEM)</strong></p>
+<p>In patients suspected of having PCD should TEM be used as a diagnostic tool?</p>
+<p>Based on low confidence in the evidence, the Task Force recommends:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Ciliary ultrastructure analysis by TEM should be used as part of the diagnostic work-up of patients suspected of having PCD (<strong>strong recommendation</strong>). </li>
+    <li>Further diagnostic investigations should be performed in patients with normal ultrastructure if the clinical history is strong (<strong>strong recommendation</strong>).<sup>#</sup> </li>
+    <li>In patients with hallmark ciliary ultrastructure defects for PCD further confirmatory diagnostic investigations are not required (<strong>strong recommendation</strong>).<sup>&para;</sup> </li>
+</ol>
+<p class="Note"><sup>#</sup>Normal ciliary ultrastructure, as resolvable by TEM, does not exclude the diagnosis of PCD (16% of PCD-positive patients have TEM without a detectable defect).</p>
+<p class="Note"><sup>&para;</sup>Patients with hallmark ciliary ultrastructure defects for PCD (absence of outer dynein arms, combined absence of inner and outer dynein arms, inner dynein arm absence combined with microtubular disarrangement) assessed by TEM almost always have PCD (false-positive results are very rare &asymp;0.7%).</p>
+<p><strong>Genetics</strong></p>
+<p>In patients suspected of having PCD, should genotyping be used as a diagnostic tool?</p>
+<p>There were no studies that fulfilled inclusion criteria to answer this question. Statements to assist the clinician are made in the genetics sections of the original guideline document but these are not evidence based. Therefore, the Task Force could not make formal recommendations as for other diagnostic procedures. However, the Task Force has provided a list of Task Force statements on genetics, which is based upon agreement between experts rather than published evidence.</p>
+<p><strong>Immunofluorescence</strong></p>
+<p>In patients suspected of having PCD, should immunofluorescence be used as a diagnostic tool?</p>
+<p>There were no studies that fulfilled inclusion criteria to answer this question. Statements to assist the clinician are made in the immunofluorescence sections of the original guideline document but these are not evidence based. Therefore, the Task Force could not make formal recommendations as for other diagnostic procedures. However, they have provided a list of Task Force statements on immunofluorescence, based upon agreement between experts rather than published evidence.</p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong></p>
+<p><strong>Quality of Evidence</strong></p>
+<p>Using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach, the Task Force rated the overall quality of evidence for each question as high, moderate, low or very low, based on the following criteria: (1) study design, (2) risk of bias, (3) directness, (4) consistency, (5) precision and (6) publication bias. Criteria 2-6 are assessed as either serious or very serious. Grading of the evidence as <strong>HIGH</strong>, <strong>MODERATE</strong>, <strong>LOW</strong> or <strong>VERY LOW</strong> was based initially on the study design and then downgraded appropriately based on the other factors.</p>
+<p><strong>Strength of Recommendations</strong></p>
+<p>The final grading of the evidence helped to inform the final recommendations as either <strong>STRONG</strong> (should always be done) or <strong>WEAK</strong> (should be performed in certain circumstances). For reaching recommendations, the Task Force took into account the quality of the evidence; the balance between benefits and harms; the patients' values and preferences and other factors such as costs, feasibility, accessibility etc.</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>A diagnostic algorithm for primary ciliary dyskinesia (PCD) is provided in the original guideline document.</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Primary ciliary dyskinesia (PCD)</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Diagnosis</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Family Practice</p>
+                    <p>Internal Medicine</p>
+                    <p>Medical Genetics</p>
+                    <p>Otolaryngology</p>
+                    <p>Pulmonary Medicine</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                    <p>Respiratory Care Practitioners</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To provide evidence-based recommendations on diagnostic testing for primary ciliary dyskinesia (PCD), especially in light of new developments in such tests, and the need for robust diagnoses of patients who might enter randomised controlled trials of treatment</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Patients referred for primary ciliary dyskinesia (PCD) testing in whom the PCD diagnosis was either confirmed or excluded</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Assessment of clinical features (signs and symptoms) of primary ciliary dyskinesia (PCD) </li>
+    <li>Nasal nitric oxide (NO) measurement </li>
+    <li>High-speed video microscopy </li>
+    <li>Genetic analysis (genotyping) </li>
+    <li>Assessment of ciliary structure with transmission electron microscopy </li>
+    <li>Immunofluorescence analysis of protein mislocalisation </li>
+</ol></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><div class="content_para"><p>Sensitivity and specificity/accuracy of diagnostic tests</p></div></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Systematic Review</span></strong></p>
+<p><strong>Literature Search Methods</strong></p>
+<p>The Task Force searched the OVID Medline and EMBASE databases using the search terms outlined in supplementary table 2 (see the "Availability of Companion Document" filed]) to address each PICO (Patient, Intervention/Investigation, Comparison, Outcome) focussed question. In a first step, at least two researchers from each Work Group (WG) screened the titles and abstracts, to exclude manuscripts that clearly did not address the PICO or the WG's additional questions. In a second step, two searchers (one for genetics due to lack of researchers) reviewed the full texts of the remaining papers, to identify manuscripts that addressed the PICO and fulfilled the inclusion criteria. Third, the committee and WG members received the lists of identified papers and were asked to report any additional studies not identified by the search. All data fulfilling the <em>a priori</em> inclusion criteria were included.</p>
+<p>The Task Force included all peer reviewed manuscripts from 1996 to 14th March 2016 with no language limitations. It was decided that manuscripts predating 1996 would be unlikely to reliably diagnose primary ciliary dyskinesia (PCD) versus non-PCD according to current standards. The Task Force excluded conference proceedings, grey literature and studies in non-humans.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Clinical features: 8 studies were included in qualitative synthesis; 2 studies directly addressed PICO (Population, Intervention, Comparison, Outcome question). </li>
+    <li>Nasal nitric oxide: 23 studies were included in qualitative synthesis; 4 studies directly addressed PICO. </li>
+    <li>High speed video: 30 studies were included in qualitative synthesis; 2 studies directly addressed PICO. </li>
+    <li>Transmission electron microscopy (TEM): 19 studies were included in qualitative synthesis; 11 studies directly addressed PICO. </li>
+    <li>Genetics: 95 studies were included in qualitative synthesis; no studies directly addressed PICO. </li>
+    <li>Immunofluorescence (IF): 41 studies were included in qualitative synthesis; no studies directly addressed PICO. </li>
+</ul>
+<p>See flow charts (Figure 1 a-f) in the supplementary material (see the "Availability of Companion Documents" field) for the process of identification and inclusion of studies.</p></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Quality of Evidence</span></strong></p>
+<p>Using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach, the Task Force rated the overall quality of evidence for each question as high, moderate, low or very low, based on the following criteria: (1) study design, (2) risk of bias, (3) directness, (4) consistency, (5) precision and (6) publication bias. Criteria 2-6 are assessed as either serious or very serious. Grading of the evidence as <strong>HIGH,</strong> <strong>MODERATE</strong>, <strong>LOW</strong> or <strong>VERY LOW</strong> was based initially on the study design and then downgraded appropriately based on the other factors.</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Systematic Review</span></strong></p>
+<p>Data extraction tables were designed to capture information required for each Work Group (WG). These were circulated for editing to the Task Force (TF) panel. Each WG decided what data was required a) to answer the PICO (Patient, Intervention/investigation, Comparison, Outcome), and b) to answer additional questions. Data were extracted by two independent researchers with the exception of genetics WG which used single extraction due to lack of researchers. Since there is no reference standard for diagnosis of primary ciliary dyskinesia (PCD), details of how diagnosis was confirmed/excluded was extracted for all studies and acceptability agreed by the TF panel.</p>
+<p><strong><span style="text-decoration: underline;">Quality of Evidence Leading to Recommendations</span></strong></p>
+<p>Grading of Recommendations Assessment, Development and Evaluation (GRADE) is a method for systematically assessing the quality of evidence for a diagnostic test and then making recommendations for use of the test based on the quality of this evidence. Using the GRADE approach the TF rated the overall quality of evidence for each question as high, moderate, low or very low, based on the following criteria: study design, risk of bias, directness, consistency, precision and publication bias.</p>
+<p>The identified manuscripts were assessed on the following criteria &ndash;</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li><strong>Study design</strong> &ndash; for example a randomised controlled trial (although very few exist in diagnostics) would be a higher level of evidence than prospective cohort studies and these would be higher than case-control studies. </li>
+    <li><strong>Risk of bias</strong> &ndash; The TF assessed risk of bias using the Quadas-2 tool for the quality assessment of diagnostic accuracy studies, based on four domains (a) patient selection; b) conduct or interpretation of index test; c) selection, conduct or interpretation of reference standard; and d) patient flow. </li>
+    <li><strong>Directness</strong> - This refers to the existence of a direct link between the diagnostic test and patient important outcomes. For intervention studies, intermediate outcomes, such as accuracy of diagnostic tests, are always considered "indirect" evidence and thus reduce the quality. Therefore, directness was graded as "potentially serious" in all WGs. </li>
+    <li><strong>Consistency</strong> - This refers to the degree to which reported study results (e.g., sensitivity, specificity) from included studies are similar; thus heterogeneity of results was reported as inconsistency. </li>
+    <li><strong>Precision</strong> &ndash; Precision refers to the degree of certainty concerning the estimates of each test performance (quantified by the width of confidence intervals around estimates). </li>
+    <li><strong>Publication bias</strong> &ndash; This indicates that studies may have been published selectively and pooled estimates of published studies might not reflect the truth (e.g., negative findings have not been published, or are unavailable). </li>
+</ol>
+<p>Criteria 2-6 are assessed as either serious or very serious. Grading of the evidence as High, Moderate, Low or Very Low was based initially on the study design and then downgraded appropriately based on the other factors.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus (Delphi)</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Task Force and Work Group Composition</span></strong></p>
+<p>The membership and roles of the Task Force (TF) panel are summarised in Supplementary Table 1 (see the "Availability of Companion Documents" field). A leadership group of four were responsible for chairing meetings, providing support to the work groups and monitoring progress. This leadership group also coordinated the writing of the practice guideline and oversaw the editing. Work Group (WG) leaders were proposed and agreed at the first meeting of the task force, based on their expertise. Following training from European Respiratory Society (ERS) methodologists in Grading of Recommendations Assessment, Development and Evaluation (GRADE), systematic reviewers drafted protocols for the searches, conducted systematic reviews, extracted data from the chosen manuscripts, assessed the quality of the data and finally synthesised the data using narrative and if appropriate meta-analysis.</p>
+<p>The TF panel comprised experts and trainees in the field of primary ciliary dyskinesia (PCD) from multidisciplinary backgrounds including pulmonologists; ear, nose, and throat (ENT); cell scientists; electron microscopists and geneticists. Their expertise included clinical phenotyping, screening tests including nasal nitric oxide (nNO), ex-vivo and in-vivo ciliary function tests including high-speed video microscopy analysis (HSVA) and radioaerosol mucociliary clearance, transmission electron microscopy (TEM), cell culture (submerged and at air-liquid interface [ALI]), lung physiology and imaging, epidemiology and qualitative research. Some members of the panel lead national diagnostic centres, and there were members from countries where diagnostic facilities are limited. Members of the panel volunteered to participate in WG activities based on their expertise and interests. The ERS provided support to the panel from two methodologists, an advisor for dissemination and a junior committee member; the methodologists did not participate in the votes of the recommendations, the dissemination advisor and junior committee member were paediatric pulmonologists and did contribute to WG activities, panel discussions and voting.</p>
+<p>A larger group with interest in PCD has met annually at ERS Congresses since 2006. The opinions of this group of over 60 clinicians, nurses, scientists and allied health professionals were sought and taken into account when deciding which tests to evaluate and which questions needed answering by the TF.</p>
+<p>Two patient representatives participated in the first task force meeting, helped in the project design, contributed to the writing of the practice guideline and the dissemination of the report. The European Lung Foundation contributed to the first meeting. An international survey and semi-structured interviews were conducted to understand the patient perspective.</p>
+<p><strong><span style="text-decoration: underline;">Formulation of the Topics and Questions</span></strong></p>
+<p>The panel met with a wider group of professionals (n=80) interested in PCD during ERS Congress 2014. A semi-structured discussion led to understanding of current diagnostic pathways and tests across Europe, and the questions that clinicians and scientists need answering. These discussions informed a closed meeting of the TF panel. The panel agreed that six diagnostic tests (clinical symptoms, nasal nitric oxide [nNO], high speed video-microscopy [HSV], transmission electron microscopy [TEM], genotype and immunofluorescence labelling of ciliary proteins [IF]) would be evaluated using a 'PICO' (Patient, Intervention/Investigation, Comparison, Outcome) structured question: "Patients suspected of having PCD, Investigated by nNO, TEM etc., when Comparing patients with a final positive or negative diagnostic outcome, what was the diagnostic accuracy (Outcome) of the test?" The TF primarily aimed to identify studies of consecutive patients referred for PCD testing, in whom the PCD diagnosis was either confirmed or excluded. In the absence of sufficient literature of this study design, it was agreed that the comparator group might include healthy controls, or patients with other respiratory diseases (e.g., cystic fibrosis [CF], asthma) from case control studies, but this would down grade the level of evidence. Lack of a gold standard diagnostic test for PCD was a limitation for this project. Diagnostic performance indicators (e.g., sensitivity and specificity) were therefore compared to the authors' final decision regarding positive/negative diagnosis based on available tests. The PICO questions for each test were finalised during several rounds of teleconferences and email discussions (see Table S2 in supplementary materials).</p>
+<p>Several less structured questions were agreed to provide the basis of a narrative synthesis, but these questions were not used to provide recommendations.</p>
+<p><strong><span style="text-decoration: underline;">Quality of Evidence Leading to Recommendations</span></strong></p>
+<p>The final grading of the evidence helped to inform the final recommendations as either STRONG (should always be done) or WEAK (should be performed in certain circumstances). For reaching recommendations, the Committee took into account the quality of the evidence; the balance between benefits and harms; the patients' values and preferences and other factors such as costs, feasibility, accessibility etc. Evidence profiles were discussed with and across WGs electronically and by telephone conferences throughout the duration of the TF and discussed in a face-to-face meeting of the entire TF panel at the 2015 ERS Congress in Amsterdam. Sections of the manuscript were written by WG leaders and members of their groups, and again discussed and amended electronically across WGs and within the committee. Evidence that was of a lower quality than that used for recommendations was commented on in the guideline but was not used to make recommendations.</p>
+<p><strong><span style="text-decoration: underline;">Consensus Statement for Diagnostic Outcomes</span></strong></p>
+<p>The TF conducted a modified Delphi survey in four rounds to develop consensus regarding the contributions of diagnostic tests to confirm or refute a diagnosis of PCD. Only members of the Task Force with relevant expertise participated by completing online questionnaires (<a href="/web/20180712203536/https://www.guideline.gov/Home/Disclaimer?id=50661&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.isurvey.soton.ac.uk%2f" title="iSurvey Web site">https://www.isurvey.soton.ac.uk/</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203536im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>). Respondents were anonymous to others with the exception of the Chair who could identify participants. Before each round participants reviewed the results of previous surveys, including a summation of comments with reasons underlying opinions and recommendations for iterations. The first round of the survey aimed to understand if any individual tests could definitively confirm or exclude a diagnosis of PCD. In the second round each Delphi participant was asked to review the summary of responses from round 1; they were then invited to consider combinations of tests that might confirm or exclude a diagnosis when the diagnosis is considered clinically very likely, or only modest. In round 3 and 4 there were further iterations. A consensus was reached when 80% of participants were in agreement.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Strength of Recommendations</span></strong></p>
+<p>The final grading of the evidence helped to inform the final recommendations as either <strong>STRONG</strong> (should always be done) or <strong>WEAK</strong> (should be performed in certain circumstances). For reaching recommendations, the Task Force took into account the quality of the evidence; the balance between benefits and harms; the patients' values and preferences and other factors such as costs, feasibility, accessibility, etc.</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>These guidelines were endorsed by the European Respiratory Society (ERS) Science Council and Executive Committee in September 2016.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified and graded for each recommendation (see the "Major Recommendations" field).</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>The patient representatives to the Task Force fully endorsed that an accurate diagnosis was an important outcome, because it leads to a better recognition of their problems by physicians and more effective treatment, and thus improves their health and quality of life. This was confirmed by a questionnaire survey of 352 PCD patients from 25 countries and 20 in-depth interviews.</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><div class="content_para"><p>False-positive or false-negative diagnosis</p></div></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>The guidelines published by the European Respiratory Society (ERS) incorporate data obtained from a comprehensive and systematic literature review of the most recent studies available at the time. Health professionals are encouraged to take the guidelines into account in their clinical practice. However, the recommendations issued by this guideline may not be appropriate for use in all situations. It is the individual responsibility of health professionals to consult other sources of relevant information, to make appropriate and accurate decisions in consideration of each patient&rsquo;s health condition and in consultation with that patient and the patient's caregiver where appropriate and/or necessary, and to verify rules and regulations applicable to drugs and devices at the time of prescription. </li>
+    <li>The patient representatives to the Task Force fully endorsed that an accurate diagnosis was an important outcome, because it leads to a better recognition of their problems by physicians and more effective treatment, and thus improves their health and quality of life. However, diagnostic accuracy studies do not provide direct evidence for the improvement of patient-important outcomes; consequently, the confidence in results of test accuracy studies can be judged, at best, as moderate. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>An implementation strategy was not provided.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Clinical Algorithm</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Lucas JS, Barbato A, Collins SA, Goutaki M, Behan L, Caudri D, Dell S, Eber E, Escudier E, Hirst RA, Hogg C, Jorissen M, Latzin P, Legendre M, Leigh MW, Midulla F, Nielsen KG, Omran H, Papon JF, Pohunek P, Redfern B, Rigau D, Rindlisbacher B, Santamaria F, Shoemark A, Snijders D, Tonia T, Titieni A, Walker WT, Werner C, Bush A, Kuehni CE. European Respiratory Society guidelines for the diagnosis of primary ciliary dyskinesia. Eur Respir J. 2017 Jan 4;49(1):1-25. <a href="https://web.archive.org/web/20180712203536/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27836958" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712203536im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2017 Jan 4</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>European Respiratory Society - Professional Association</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>European Respiratory Society</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p> European Respiratory Society Guidelines for the Diagnosis of Primary Ciliary Dyskinesia Task Force</p>
+<p>European Respiratory Society Guidelines for the Diagnosis of Primary Ciliary Dyskinesia Work Groups</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Authors</em>: Jane S. Lucas (<em>Co-chair</em>), Primary Ciliary Dyskinesia Centre, University Hospital Southampton NHS Foundation Trust, Southampton, UK, and University of Southampton Faculty of Medicine, Academic Unit of Clinical and Experimental Medicine, Southampton, UK; Angelo Barbato (<em>Co-chair</em>), Primary Ciliary Dyskinesia Centre, Dept of Woman and Child Health (SDB), University of Padova, Padova, Italy; Samuel A. Collins, Primary Ciliary Dyskinesia Centre, University Hospital Southampton NHS Foundation Trust, Southampton, UK, and University of Southampton Faculty of Medicine, Academic Unit of Clinical and Experimental Medicine, Southampton, UK; Myrofora Goutaki, Institute of Social and Preventive Medicine, University of Bern, Bern, Switzerland, and Dept of Paediatrics, Inselspital, University Hospital of Bern, University of Bern, Bern, Switzerland; Laura Behan, Primary Ciliary Dyskinesia Centre, University Hospital Southampton NHS Foundation Trust, Southampton, UK, and University of Southampton Faculty of Medicine, Academic Unit of Clinical and Experimental Medicine, Southampton, UK; Daan Caudri, Telethon Kids Institute, The University of Western Australia, Subiaco, Australia, and Dept of Pediatrics/Respiratory Medicine, Erasmus University, Rotterdam, The Netherlands; Sharon Dell, Division of Respiratory Medicine, The Hospital for Sick Children, Toronto, ON, Canada, and Dept of Pediatrics and Institute of Health Policy Management and Evaluation, University of Toronto, Toronto, ON, Canada; Ernst Eber, Division of Paediatric Pulmonology and Allergology, Dept of Paediatrics and Adolescent Medicine, Medical University of Graz, Graz, Austria; Estelle Escudier, Service de G&eacute;n&eacute;tique et Embryologie M&eacute;dicales, Centre de R&eacute;f&eacute;rence des Maladies Respiratoires Rares, H&ocirc;pital Armand Trousseau, Assistance Publique - H&ocirc;pitaux de Paris (AP-HP), Paris, France, and Inserm UMR_S933, Sorbonne Universit&eacute;s (UPMC Univ Paris 06), Paris, France; Robert A. Hirst, Centre for PCD Diagnosis and Research, Dept of Infection, Immunity and Inflammation, University of Leicester, Leicester Royal Infirmary, Leicester, UK; Claire Hogg, Depts of Paediatrics and Paediatric Respiratory Medicine, Imperial College and Royal Brompton Hospital, London, UK; Mark Jorissen, ENT Dept, University Hospitals Leuven, Leuven, Belgium; Philipp Latzin, Dept of Paediatrics, Inselspital, University Hospital of Bern, University of Bern, Bern, Switzerland; Marie Legendre, Service de G&eacute;n&eacute;tique et Embryologie M&eacute;dicales, Centre de R&eacute;f&eacute;rence des Maladies Respiratoires Rares, H&ocirc;pital Armand Trousseau, Assistance Publique - H&ocirc;pitaux de Paris (AP-HP), Paris, France, and Inserm UMR_S933, Sorbonne Universit&eacute;s (UPMC Univ Paris 06), Paris, France; Margaret W. Leigh, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA; Fabio Midulla, Paediatric Dept, Sapienza University of Rome, Rome, Italy; Kim G. Nielsen, Danish PCD &amp; chILD Centre, CF Centre Copenhagen, Paediatric Pulmonary Service, Dept of Paediatrics and Adolescent Medicine, Copenhagen University Hospital, Rigshospitalet, Copenhagen, Denmark; Heymut Omran, Dept of Pediatrics, University Hospital Muenster, M&uuml;nster Germany; Jean-Francois Papon, 20AP-HP, H&ocirc;pital Kremlin-Bicetre, service d'ORL et de chirurgie cervico-faciale, Le Kremlin-Bicetre, France, and Facult&eacute; de M&eacute;decine, Universit&eacute; Paris-Sud, Le Kremlin-Bic&ecirc;tre, France; Petr Pohunek, Paediatric Dept, Second Faculty of Medicine, Charles University and Motol University Hospital, Prague, Czech Republic; Beatrice Redfern, PCD Family Support Group, Milton Keynes, UK; David Rigau, Iberoamerican Cochrane Center, Barcelona, Spain; Bernhard Rindlisbacher, Kartagener Syndrom und Prim&auml;re Cili&auml;re Dyskinesie e. V., Steffisburg, Switzerland; Francesca Santamaria, Pediatric Pulmonology, Dept of Translational Medical Sciences, Federico II University, Azienda Ospedaliera Universitaria Federico II, Naples, Italy; Amelia Shoemark, Depts of Paediatrics and Paediatric Respiratory Medicine, Imperial College and Royal Brompton Hospital, London, UK; Deborah Snijders, Primary Ciliary Dyskinesia Centre, Dept of Woman and Child Health (SDB), University of Padova, Padova, Italy; Thomy Tonia, Institute of Social and Preventive Medicine, University of Bern, Bern, Switzerland; Andrea Titieni, Dept of Pediatrics, University Hospital Muenster, M&uuml;nster Germany; Woolf T. Walker, Primary Ciliary Dyskinesia Centre, University Hospital Southampton NHS Foundation Trust, Southampton, UK, and University of Southampton Faculty of Medicine, Academic Unit of Clinical and Experimental Medicine, Southampton, UK; Claudius Werner, Dept of Pediatrics, University Hospital Muenster, M&uuml;nster Germany; Andrew Bush, Depts of Paediatrics and Paediatric Respiratory Medicine, Imperial College and Royal Brompton Hospital, London, UK; Claudia E. Kuehni, Institute of Social and Preventive Medicine, University of Bern, Bern, Switzerland</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Support Statement</span></strong></p>
+<p>J.S. Lucas, K.G. Nielsen, C.E Kuehni, C. Hogg, M.W Leigh and H. Omran received funding from the European Union Seventh Framework Programme (FP7/2007&ndash;2013) under grant agreement n8305404 (BESTCILIA). J.S. Lucas, L. Behan, W.T. Walker and S.A. Collins were supported by the NIHR Respiratory Biomedical Research Unit at the University Hospital Southampton NHS Foundation Trust (Southampton, UK) and AAIR Charity. A. Bush is an NIHR Senior Investigator and was supported by the NIHR Respiratory Disease Biomedical Research Unit at the Royal Brompton and Harefield NHS Foundation Trust and Imperial College London (both London, UK). M. Goutaki was supported by the following national grants: Bernese Lung League, Milena- Pro Kartagener foundation and Swiss National Foundation 32003B_162820/1. S. Dell and M.W. Leigh received funding from the NIH (U54HL096458) through the Genetic Disorders of Mucociliary Clearance Consortium, an initiative of the NIH Office of Rare Diseases Research at the National Center for Advancing Translational Science, and the National Heart, Lung and Blood Institute.</p>
+<p><strong><span style="text-decoration: underline;">Disclosure of Conflicts of Interest</span></strong></p>
+<p>Panel members disclosed potential conflicts of interest according to European Respiratory Society (ERS) policies at the start of the Task Force and prior to publication of this manuscript. Following review of these statements, the Chairs and ERS Guidelines committee considered it unnecessary for any panel member to abstain from decisions for any of the recommendations.</p>
+<p><strong><span style="text-decoration: underline;">Conflict of Interest</span></strong></p>
+<p>D. Rigau and T. Tonia are employees of the ERS. Other disclosures can be found alongside this article at <a href="/web/20180712203536/https://www.guideline.gov/Home/Disclaimer?id=50661&amp;contentType=summary&amp;redirect=http%3a%2f%2ferj.ersjournals.com%2f" title="European Respiratory Journal Web site">erj.ersjournals.com</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203536im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712203536/https://www.guideline.gov/Home/Disclaimer?id=50661&amp;contentType=summary&amp;redirect=http%3a%2f%2ferj.ersjournals.com%2fcontent%2ferj%2f49%2f1%2f1601090.full.pdf" title="European Respiratory Journal Web site">European Respiratory Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203536im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following is available:</p>
+<ul style="list-style-type: disc;">
+    <li>European Respiratory Society guidelines for the diagnosis of primary ciliary dyskinesia. Online supplement. 58 p. Available from the <a href="/web/20180712203536/https://www.guideline.gov/Home/Disclaimer?id=50661&amp;contentType=summary&amp;redirect=http%3a%2f%2ferj.ersjournals.com%2fcontent%2ferj%2f49%2f1%2f1601090%2fDC1%2fembed%2finline-supplementary-material-1.pdf%3fdownload%3dtrue" title="European Respiratory Journal Web site">European Respiratory Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203536im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on April 7, 2017. The information was verified by the guideline developer on May 2, 2017.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712203536/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712203536/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712203536/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712203536/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712203536/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712203536/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712203536/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203536/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203536/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203536/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203536/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203536/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712203536/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712203536/https://www.guideline.gov/disclaimer?id=50661&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712203536im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712203536im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712203536/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712203536/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712203536/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712203536/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712203536/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712203536/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712203536/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712203536/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712203536/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712203536/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712203536/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712203536/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712203536/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712203536/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712203536/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712203536/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712203536/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712203536/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712203536/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712203536im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712203536im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712203536/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712203536im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712203536im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712203536/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712203536js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712203536js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:35:36 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:34:16 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 423.877 (3)
+  esindex: 0.012
+  captures_list: 444.0
+  CDXLines.iter: 14.34 (3)
+  PetaboxLoader3.datanode: 152.535 (4)
+  exclusion.robots: 0.367
+  exclusion.robots.policy: 0.344
+  RedisCDXSource: 1.412
+  PetaboxLoader3.resolve: 304.134
+  load_resource: 49.741
+-->

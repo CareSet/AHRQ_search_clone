@@ -1,0 +1,1318 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app19.us.archive.org';v.server_ms=1248;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>EAACI food allergy and anaphylaxis guidelines: diagnosis and management of food allergy. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712194848im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712194848im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712194848im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712194848im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712194848/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712194848im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712194848cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712194848js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712194848if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712194848/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712194848if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712194848/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712194848/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712194848/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712194848/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712194848im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712194848im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712194848im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712194848/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712194848/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712194848/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712194848/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712194848/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712194848/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712194848/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712194848/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712194848/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712194848/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712194848/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712194848/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712194848/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712194848/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712194848/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712194848/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712194848/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712194848/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712194848/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712194848/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712194848/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010562</li>
+            <li>2014 Aug
+            </li>            
+                                </ul>
+        <div>
+                <h1>EAACI food allergy and anaphylaxis guidelines: diagnosis and management of food allergy.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712194848/https://www.guideline.gov/search?f_Guideline_Developer_String=European%20Academy%20of%20Allergy%20and%20Clinical%20Immunology&amp;fLockTerm=European%2BAcademy%2Bof%2BAllergy%2Band%2BClinical%2BImmunology">European Academy of Allergy and Clinical Immunology</a></li>
+                        <li>   
+                                <a id="1030" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Muraro A, Werfel T, Hoffmann-Sommergruber K, Roberts G, Beyer K, Bindslev-Jensen C, Cardona V, Dubois A, duToit G, Eigenmann P, Fernandez Rivas M, Halken S, Hickstein L, Høst A, Knol E, Lack G, Marchisotto MJ, Niggemann B, Nwaru BI, Papadopoulos NG, Poulsen LK, Santos AF, Skypala I, Schoepfer A, Van Ree R, Venter C, Worm M, Vlieg-Boerstra B, Panesar S, de Silva D, Soares-Weiser K, Sheikh A, Ballmer-Weber BK, Nilsson C, de Jong NW, Akdis CA, EAACI Food Allergy and Anaphylaxis Guidelines Group. EAACI food allergy and anaphylaxis guidelines: diagnosis and management of food allergy. Allergy. 2014 Aug;69(8):1008-25. [86 references] <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24909706" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712194848/https://www.guideline.gov/Home/Disclaimer?id=48691&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fonlinelibrary.wiley.com%252fdoi%252f10.1111%252fall.12429%252ffull">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                            <h4>UMLS Concepts <a href="/web/20180712194848/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712194848/https://www.guideline.gov/search?f_ICD9CM_CUI=C0341106&amp;fLockTerm=Eosinophilic+esophagitis">Eosinophilic esophagitis</a>
+ (530.13)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0001644&amp;fLockTerm=Adrenergic+beta-Agonists">Adrenergic beta-Agonists</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0002520&amp;fLockTerm=Amino+Acids">Amino Acids</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0002792&amp;fLockTerm=Anaphylaxis">Anaphylaxis</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0005558&amp;fLockTerm=Biopsy">Biopsy</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0010210&amp;fLockTerm=Counseling">Counseling</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0013961&amp;fLockTerm=Emergency+Medical+Services">Emergency Medical Services</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0079278&amp;fLockTerm=Endoscopy%2c+Gastrointestinal">Endoscopy, Gastrointestinal</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0341106&amp;fLockTerm=Eosinophilic+Esophagitis">Eosinophilic Esophagitis</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0014563&amp;fLockTerm=Epinephrine">Epinephrine</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0016470&amp;fLockTerm=Food+Hypersensitivity">Food Hypersensitivity</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0017710&amp;fLockTerm=Glucocorticoids">Glucocorticoids</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0019590&amp;fLockTerm=Histamine+Antagonists">Histamine Antagonists</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0020846&amp;fLockTerm=Immunoglobulin+E">Immunoglobulin E</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0021083&amp;fLockTerm=Immunotherapy">Immunotherapy</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0025084&amp;fLockTerm=Medical+History+Taking">Medical History Taking</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0030688&amp;fLockTerm=Patient+Education+as+Topic">Patient Education as Topic</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0358591&amp;fLockTerm=Proton+Pump+Inhibitors">Proton Pump Inhibitors</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C0037296&amp;fLockTerm=Skin+Tests">Skin Tests</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MSH_CUI=C1258091&amp;fLockTerm=Soy+Foods">Soy Foods</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0001644&amp;fLockTerm=Adrenergic+beta-Agonists">Adrenergic beta-Agonists</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0002520&amp;fLockTerm=Amino+Acids">Amino Acids</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0002792&amp;fLockTerm=anaphylaxis">anaphylaxis</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C2984091&amp;fLockTerm=Auto-Injector">Auto-Injector</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0005558&amp;fLockTerm=Biopsy">Biopsy</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0010210&amp;fLockTerm=Counseling">Counseling</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C2702362&amp;fLockTerm=cow+milk+allergenic+extract">cow milk allergenic extract</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0013961&amp;fLockTerm=Emergency+medical+service">Emergency medical service</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0079278&amp;fLockTerm=Endoscopy%2c+Gastrointestinal">Endoscopy, Gastrointestinal</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0341106&amp;fLockTerm=Eosinophilic+esophagitis">Eosinophilic esophagitis</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0014563&amp;fLockTerm=Epinephrine">Epinephrine</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0016470&amp;fLockTerm=Food+Allergy">Food Allergy</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0017710&amp;fLockTerm=Glucocorticoids">Glucocorticoids</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0019590&amp;fLockTerm=Histamine+Antagonists">Histamine Antagonists</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0037296&amp;fLockTerm=Hypersensitivity+skin+testing">Hypersensitivity skin testing</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0020846&amp;fLockTerm=Immunoglobulin+E">Immunoglobulin E</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0202086&amp;fLockTerm=Immunoglobulin+E+measurement">Immunoglobulin E measurement</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0021083&amp;fLockTerm=Immunotherapy">Immunotherapy</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0030688&amp;fLockTerm=Patient+education+(procedure)">Patient education (procedure)</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0358591&amp;fLockTerm=Proton+Pump+Inhibitors">Proton Pump Inhibitors</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0086930&amp;fLockTerm=Risk+Assessment">Risk Assessment</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_MTH_CUI=C0430561&amp;fLockTerm=Skin+prick+test">Skin prick test</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712194848/https://www.guideline.gov/search?f_PDQ_CUI=C0005558&amp;fLockTerm=biopsies">biopsies</a>
+, <a href="/web/20180712194848/https://www.guideline.gov/search?f_PDQ_CUI=C0014563&amp;fLockTerm=therapeutic+epinephrine">therapeutic epinephrine</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002520&amp;fLockTerm=Amino+acid">Amino acid</a>
+ (52518006), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002792&amp;fLockTerm=Anaphylaxis">Anaphylaxis</a>
+ (39579001), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002792&amp;fLockTerm=Anaphylaxis">Anaphylaxis</a>
+ (735173007), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0001644&amp;fLockTerm=Beta-adrenoceptor+agonist">Beta-adrenoceptor agonist</a>
+ (349920008), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0001644&amp;fLockTerm=Beta-adrenoceptor+agonist">Beta-adrenoceptor agonist</a>
+ (373227004), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0005558&amp;fLockTerm=Biopsy">Biopsy</a>
+ (129314006), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0005558&amp;fLockTerm=Biopsy">Biopsy</a>
+ (86273004), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0010210&amp;fLockTerm=Counseling">Counseling</a>
+ (129441002), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0010210&amp;fLockTerm=Counseling">Counseling</a>
+ (409063005), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1828150&amp;fLockTerm=Dietary+management+education%2c+guidance%2c+and+counseling">Dietary management education, guidance, and counseling</a>
+ (424753004), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1512171&amp;fLockTerm=Education+of+caregiver">Education of caregiver</a>
+ (460617003), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0452376&amp;fLockTerm=Elimination+diet">Elimination diet</a>
+ (226194001), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0013961&amp;fLockTerm=Emergency+medical+services">Emergency medical services</a>
+ (409971007), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2960784&amp;fLockTerm=Endoscopy+and+biopsy+of+upper+gastrointestinal+tract">Endoscopy and biopsy of upper gastrointestinal tract</a>
+ (445982009), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0341106&amp;fLockTerm=Eosinophilic+esophagitis">Eosinophilic esophagitis</a>
+ (235599003), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0014563&amp;fLockTerm=Epinephrine">Epinephrine</a>
+ (387362001), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0014563&amp;fLockTerm=Epinephrine">Epinephrine</a>
+ (65502005), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0016470&amp;fLockTerm=Food+allergy">Food allergy</a>
+ (414285001), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0430570&amp;fLockTerm=Gastrointestinal+food+challenge">Gastrointestinal food challenge</a>
+ (252522004), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0079278&amp;fLockTerm=Gastrointestinal+tract+endoscopy">Gastrointestinal tract endoscopy</a>
+ (118155006), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0017710&amp;fLockTerm=Glucocorticoid">Glucocorticoid</a>
+ (116596006), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0017710&amp;fLockTerm=Glucocorticoid">Glucocorticoid</a>
+ (35150008), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0017710&amp;fLockTerm=Glucocorticoid">Glucocorticoid</a>
+ (419933005), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0037296&amp;fLockTerm=Hypersensitivity+skin+testing">Hypersensitivity skin testing</a>
+ (164838003), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0037296&amp;fLockTerm=Hypersensitivity+skin+testing">Hypersensitivity skin testing</a>
+ (268377001), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0037296&amp;fLockTerm=Hypersensitivity+skin+testing">Hypersensitivity skin testing</a>
+ (53309004), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0311151&amp;fLockTerm=Hypoallergenic+infant+formula">Hypoallergenic infant formula</a>
+ (25875002), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0311151&amp;fLockTerm=Hypoallergenic+infant+formula">Hypoallergenic infant formula</a>
+ (443251000124108), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0020846&amp;fLockTerm=Immunoglobulin+E">Immunoglobulin E</a>
+ (48583005), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0202086&amp;fLockTerm=Immunoglobulin+E+measurement">Immunoglobulin E measurement</a>
+ (41960005), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0021083&amp;fLockTerm=Immunological+therapy">Immunological therapy</a>
+ (76334006), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030688&amp;fLockTerm=Patient+education">Patient education</a>
+ (311401005), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0430561&amp;fLockTerm=Prick+test">Prick test</a>
+ (37968009), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0358591&amp;fLockTerm=Proton+pump+inhibitor">Proton pump inhibitor</a>
+ (108665006), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0358591&amp;fLockTerm=Proton+pump+inhibitor">Proton pump inhibitor</a>
+ (372525000), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0086930&amp;fLockTerm=Risk+assessment">Risk assessment</a>
+ (225338004), <a href="/web/20180712194848/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1532456&amp;fLockTerm=Soy+bean+product">Soy bean product</a>
+ (415562007)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712194848/https://www.guideline.gov/search?f_UMD_CUI=C0181349&amp;fLockTerm=Injectors%2c+Medication%2fVaccine%2c+Syringe">Injectors, Medication/Vaccine, Syringe</a>
+ (12-132)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712194848/https://www.guideline.gov/summaries/downloadcontent/ngc-10562?contentType=pdf" class="pdf">.PDF 155.9 kb</a></li>
+                            <li><a href="/web/20180712194848/https://www.guideline.gov/summaries/downloadcontent/ngc-10562?contentType=word" class="word">Word Document 358.6 kb</a></li>
+                            <li><a href="/web/20180712194848/https://www.guideline.gov/summaries/downloadcontent/ngc-10562?contentType=xml" class="xml">.XML 94.5 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712194848/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/48691/eaaci-food-allergy-and-anaphylaxis-guidelines-diagnosis-and-management-of-food-allergy" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712194848/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/48691/eaaci-food-allergy-and-anaphylaxis-guidelines-diagnosis-and-management-of-food-allergy" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712194848/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/48691/eaaci-food-allergy-and-anaphylaxis-guidelines-diagnosis-and-management-of-food-allergy&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712194848/mailto:/?Subject=AHRQ: EAACI food allergy and anaphylaxis guidelines: diagnosis and management of food allergy.&amp;body=https://www.guideline.gov/summaries/summary/48691/eaaci-food-allergy-and-anaphylaxis-guidelines-diagnosis-and-management-of-food-allergy" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: EAACI food allergy and anaphylaxis guidelines: diagnosis and management of food allergy. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Aug 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712194848/https://www.guideline.gov/summaries/citedownload/48691?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712194848/https://www.guideline.gov/summaries/citedownload/48691?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712194848/https://www.guideline.gov/summaries/citedownload/48691?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712194848/https://www.guideline.gov/summaries/citedownload/48691?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712194848/https://www.guideline.gov/summaries/citedownload/48691?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712194848/https://www.guideline.gov/summaries/citedownload/48691">RefWorks</a></li>
+                            <li><a href="/web/20180712194848/https://www.guideline.gov/summaries/citedownload/48691?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="48691" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>Definitions of the level of the evidence (<strong>I&ndash;V</strong>) and grades of recommendation (<strong>A&ndash;D</strong>) are provided at the end of the "Major Recommendations" field.</p>
+<p>Refer to the original guideline document for more information on key terms used in this guideline (Table 1) and food-induced allergic disorders (classified based on the underlying immunopathology) (Table 2).</p>
+<p><strong><span style="text-decoration: underline;">European Academy of Allergy and Clinical Immunology (EAACI) Recommendation on the Diagnosis of Food Allergy</span></strong></p>
+<p><strong>Patient's Clinical History</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Detailed clinical history is essential for the diagnosis of food allergy (<strong>Evidence level: IV; Grade: D</strong>) (Expert opinion). </li>
+    <li>When taking a clinical history eliciting allergens, timing and chronicity, symptoms, severity and signs, reproducibility, known risk (co)factors, family history, coexisting medical problems including other allergic diseases should be addressed (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion). </li>
+    <li>The use of structured questions on symptoms, foods, and other background information is recommended (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion). </li>
+</ul>
+<p><strong>Determination of Sensitization to Food</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Where available, standardized tests and procedures should be used (<strong>Evidence level: IV; Grade: D</strong>) (Expert opinion). </li>
+    <li>Immunoglobulin E (IgE) sensitization does not always predict clinically relevant food allergy, so specific allergy testing should be directed by case history (<strong>Evidence level: IV; Grade: C</strong>) (Soares-Weiser et al., 2014). </li>
+    <li>Either skin prick test (SPT) or specific IgE (sIgE) can be the test of choice for sensitization depending on local availability and absolute and relative contraindications to SPT (<strong>Evidence level: IV; Grade: C</strong>) (Soares-Weiser et al., 2014). </li>
+    <li>Evidence of IgE sensitization to common food and appropriate aeroallergens can support a diagnosis of food allergy in conjunction with clinical history and/or food challenge (<strong>Evidence level: I&ndash;III*; Grade: A&ndash;C</strong>) (Soares-Weiser et al., 2014). </li>
+    <li>In the presence of a suggestive history, a negative SPT or sIgE needs to be interpreted with caution particularly as these are expected in non-IgE-mediated food allergy (<strong>Evidence level: IV; Grade: C</strong>) (Soares-Weiser et al., 2014). </li>
+    <li>Where SPT and sIgE tests are inconclusive, component-resolved diagnostic test (if available) may provide additional diagnostic information (<strong>Evidence level: I&ndash;IV*; Grade: A&ndash;C</strong>*) (Soares-Weiser et al., 2014; Glaumann et al., 2012; Eller &amp; Bindslev-Jensen, 2013; Morita et al., 2009). </li>
+    <li>If clinical history with SPT and/or sIgE results is not highly predictive (see Figure 1 in the original guideline document), an oral food challenge (OFC) is required (<strong>Evidence level: IV; Grade: D</strong>) (Expert opinion). </li>
+    <li>Determination of total IgE is particularly useful in patients with severe eczema; a very high total IgE level suggests that positive sIgE results should be interpreted with care as they may represent asymptomatic sensitization (<strong>Evidence level: IV; Grade: D</strong>) (Expert opinion). </li>
+</ul>
+<p><strong>Elimination Diets for Diagnostic Purposes</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Determining which foods to be avoided should be based on the allergy-focused diet history, clinical history, and allergy testing (SPTs and/or sIgE) (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion). </li>
+    <li>For each individually avoided food, the results of the diagnostic elimination diet should be carefully monitored and evaluated over 2&ndash;4 weeks of avoidance (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion). </li>
+    <li>Where the elimination diet leads to a significant relief of symptoms, it should be continued until the provocation test is performed (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion). </li>
+    <li>Where the elimination diet does not lead to a significant relief of symptoms, food allergy to the eliminated foods is highly unlikely (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion). </li>
+</ul>
+<p><strong>Oral Food Challenge (OFC)</strong></p>
+<ul style="list-style-type: disc;">
+    <li>The OFC (particularly the double-blind placebo-controlled food challenge [DBPCFC]) is the gold standard investigation for the objective diagnosis of IgE- and non-IgE-mediated food allergy (<strong>Evidence level: IV; Grade: D</strong>) (Expert opinion). </li>
+    <li>OFCs should be used to demonstrate allergy or tolerance and in so doing facilitate safe dietary expansion or appropriate allergen avoidance (<strong>Evidence level: IV; Grade: D</strong>) (Expert opinion). </li>
+    <li>The DBPCFC should be performed when symptoms are subjective, with delayed or atypical symptoms, where patients and/or caregivers are anxious, and considered in all research settings (<strong>Evidence level: IV; Grade: D</strong>) (Bindslev-Jensen et al., 2004; Sampson et al., 2012). </li>
+    <li>A negative DBPCFC should end with an open or cumulative ingestion of the food based on a normal age-appropriate portion to confirm oral tolerance (<strong>Evidence level: IV; Grade: D</strong>) (Expert opinion). </li>
+    <li>OFC must be performed in a specialist setting with emergency support immediately available; where there is a moderate-to-high risk of a severe reaction, intensive care support must be immediately available (<strong>Evidence level: IV; Grade: D</strong>) (Expert opinion). </li>
+</ul>
+<p><strong>Diagnosis of Eosinophilic Esophagitis (EoE)</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Every patient with EoE should be referred to an allergist/immunologist for workup (<strong>Evidence level: IV; Grade: D</strong>) (Straumann et al., 2012). </li>
+    <li>EoE is diagnosed by an upper endoscopy with 2&ndash;4 biopsies from both the proximal and distal esophageal biopsies. Biopsies should be performed when the patient has been treated for at least 6 weeks with double-dose proton-pump inhibitors to rule out esophageal eosinophilia caused by gastroesophageal reflux disease and to exclude proton-pump inhibitor-responsive esophageal eosinophilia (<strong>Evidence level: IV; Grade: D</strong>) (Straumann et al., 2012; Dellon et al., 2013). </li>
+    <li>The clinical utility of measuring serum food sIgE and SPT results to generate a successful elimination diet needs further investigation. Future studies should clearly document a clinical and histologic benefit from dietary interventions guided by results from serum IgE levels, skin prick testing, or atopy patch testing (<strong>Evidence level: IV; Grade: D</strong>) (Straumann et al., 2012). </li>
+</ul>
+<p><strong>Unconventional Tests, Including Specific Immunoglobulin G (IgG) Testing</strong></p>
+<ul style="list-style-type: disc;">
+    <li>There are no unconventional tests which can be recommended as an alternative or complementary diagnostic tool in the workup of suspected food allergy, and their use should be discouraged (<strong>Evidence level: III; Grade C</strong>) (Stapel et al., 2008). </li>
+</ul>
+<p class="Note">*For consistency with the EAACI Guidelines on Anaphylaxis, level III-1 to level III-3 for establishing diagnostic test accuracy are summarised as level III in this document.</p>
+<p><strong><span style="text-decoration: underline;">EAACI Recommendation on the Management of Food Allergy</span></strong></p>
+<p><strong>Acute Management</strong></p>
+<ul style="list-style-type: disc;">
+    <li>The patient at risk of severe reactions should be properly and timely identified (<strong>Evidence level: IV; Grade: D</strong>) (Expert opinion). </li>
+</ul>
+<p><em>Antihistamines and Mast Cell Stabilizers</em></p>
+<ul style="list-style-type: disc;">
+    <li>There is evidence to support the benefits of antihistamines for children and adults with acute non-life-threatening symptoms from food allergy (<strong>Evidence level: III; Grade: C</strong>) (de Silva et al., 2014). </li>
+    <li>The prophylactic application of antihistamines is not recommended (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion). </li>
+    <li>Mast cell stabilizers are not recommended for the prophylactic treatment of food allergy (<strong>Evidence level: III; Grade: C</strong>) (de Silva et al., 2014). </li>
+</ul>
+<p><strong>Long-Term Management Strategies</strong></p>
+<p><em>Elimination Diet</em></p>
+<ul style="list-style-type: disc;">
+    <li>A sufficient elimination diet should be based on a formal allergy diagnosis identifying the food allergen(s) responsible of the patient's symptoms/reactions. The indications should be re-evaluated at appropriate intervals (<strong>Evidence level: IV; Grade: D</strong>) (Agata et al., 1993; Alonso et al., 1994; Chen &amp; Bahna, 2011). </li>
+    <li>Appropriate dietary avoidance is the key treatment in the management of food allergy (<strong>Evidence level: IV; Grade: D</strong>) (Expert opinion). </li>
+    <li>Patients with food allergy who are on long-term elimination diets should have access to appropriate dietetic counseling, ideally by a dietitian with competencies in food allergy, and regular monitoring of growth (in children) (<strong>Evidence level: IV; Grade: D</strong>) (Expert opinion). </li>
+    <li>Extensively hydrolyzed cow's milk formulas with documented hypoallergenicity can be recommended as first choice for the treatment of cow's milk allergy, especially in infants and young children. Amino acid formulas can also be recommended especially for the subgroup of patients with more severe symptoms (<strong>Evidence level: I; Grade: A</strong>) (Hill et al., 2007; Koletzko et al., 2012; Muraro et al., 2004; Niggemann et al., 2001). </li>
+    <li>Soy formulas should not be recommended before 6 months of age and at any age in the presence of gastrointestinal symptoms. From 6 to 12 months, it can be considered on a case-by-case basis (<strong>Evidence level: I; Grade: B</strong>) (de Silva et al., 2014). </li>
+    <li>Currently, probiotic supplements cannot be recommended for the management of food allergy (<strong>Evidence level: I; Grade: D</strong>) (de Silva et al., 2014; Hol et al., 2008). </li>
+</ul>
+<p><em>Education and Risk Assessment</em></p>
+<ul style="list-style-type: disc;">
+    <li>Patients and caregivers need to be informed about the foods that should be avoided and practical advice given on avoidance measures, how to recognize a further reaction and the self-management of these reactions (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion). </li>
+    <li>The diagnosis of food allergy should, with permission, be communicated to all relevant caregivers (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion). </li>
+    <li>Patients/carers should be encouraged to join an appropriate patient support organization (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion). </li>
+    <li>All patients with food allergy require a management plan with appropriate education for the patient, caregiver including school (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion). </li>
+    <li>Education should cover allergen avoidance, symptom recognition, and indication for specific treatment and administration of specific mediation (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion). </li>
+    <li>Absolute indications with adrenaline autoinjector include previous anaphylaxis to any food, food allergy associated with persistent or severe asthma, and exercise-induced food-dependent anaphylaxis (<strong>Evidence level: IV; Grade: D</strong>) (Expert opinion; see the National Guideline Clearinghouse [NGC] summary of the EAACI guideline <a href="/web/20180712194848/https://www.guideline.gov/content.aspx?id=48690" title="Guideline #10561">Anaphylaxis: guidelines from the European Academy of Allergy and Clinical Immunology</a>). </li>
+    <li>Relative indications for adrenaline autoinjector with food allergy include (i) food allergies that are likely to be persistent; (ii) mild-to-moderate allergic reaction to peanut and/or tree nut; (iii) mild-to-moderate reaction to very small amounts of food; and (iv) specific high-risk groups, e.g., adolescents, young adult males, poor access to medical care (<strong>Evidence level: IV&ndash;V*; Grade: C&ndash;D</strong>*) (Expert opinion; see the NGC summary of the EAACI guideline <a href="/web/20180712194848/https://www.guideline.gov/content.aspx?id=48690" title="Guideline #10561">Anaphylaxis: guidelines from the European Academy of Allergy and Clinical Immunology</a>). </li>
+    <li>Adrenaline should be immediately administered for cardiovascular symptoms and/or respiratory symptoms such as altered voice, stridor, or bronchospasm that are thought to be induced by food allergy (<strong>Evidence level: IV; Grade: C</strong>) (see the NGC summary of the EAACI guideline <a href="/web/20180712194848/https://www.guideline.gov/content.aspx?id=48690" title="Guideline #10561">Anaphylaxis: guidelines from the European Academy of Allergy and Clinical Immunology</a>). </li>
+    <li>Short-acting beta agonists should be included in the management plan for all patients with coexisting asthma and should be administered for bronchospasm after adrenaline has been administered (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion; see the NGC summary of the EAACI guideline <a href="/web/20180712194848/https://www.guideline.gov/content.aspx?id=48690" title="Guideline #10561">Anaphylaxis: guidelines from the European Academy of Allergy and Clinical Immunology</a>). </li>
+    <li>Patient held glucocorticosteroids may be given with reactions to possibly prevent late-phase respiratory symptoms (self-administered if traveling far from medical care, otherwise in emergency center) (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion; see the NGC summary of the EAACI guideline <a href="/web/20180712194848/https://www.guideline.gov/content.aspx?id=48690" title="Guideline #10561">Anaphylaxis: guidelines from the European Academy of Allergy and Clinical Immunology</a>). </li>
+    <li>Any patient who has received adrenaline should be reviewed in an emergency department (<strong>Evidence level: IV; Grade: D</strong>) (Expert opinion; see the NGC summary of the EAACI guideline <a href="/web/20180712194848/https://www.guideline.gov/content.aspx?id=48690" title="Guideline #10561">Anaphylaxis: guidelines from the European Academy of Allergy and Clinical Immunology</a>). </li>
+</ul>
+<p><em>Specific Immunotherapy</em></p>
+<ul style="list-style-type: disc;">
+    <li>Food allergen-specific immunotherapy for primary food allergy is a promising immunomodulatory treatment approach (<strong>Evidence level: I</strong>), but it is associated with risk of adverse reactions, including anaphylaxis (<strong>Evidence level: I</strong>); it is therefore not currently recommended for routine clinical use (<strong>Evidence level: III; Grade: C</strong>) (de Silva et al., 2014). </li>
+    <li>For patients with respiratory or other allergy symptoms to inhalant allergens that may also cause cross-reactive food allergy, specific immunotherapy is only recommended for the treatment of the respiratory symptoms, not for cross-reactive food allergy (<strong>Evidence level: IV; Grade: D</strong>) (Expert opinion). </li>
+</ul>
+<p><em>Anti-IgE</em></p>
+<ul style="list-style-type: disc;">
+    <li>The use of anti-IgE alone or in combination with specific immunotherapy is currently not recommended for the treatment of food allergy although it represents a promising treatment modality (<strong>Evidence level: IV; Grade: D</strong>) (de Silva et al., 2014). </li>
+</ul>
+<p><em>Challenges at Regular Intervals to Assess Achievements of Tolerance</em></p>
+<ul style="list-style-type: disc;">
+    <li>OFC should be performed at regularly at intervals, as appropriate for the specific food and patient's history, in order to assess achievement of tolerance (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion). </li>
+    <li>Specific IgE testing (<em>in vitro</em> and SPT) has limited value in guiding adequately the timing of OFCs for the development of tolerance (<strong>Evidence level: V; Grade: D</strong>) (Expert opinion). </li>
+</ul>
+<p><em>Cofactors</em></p>
+<ul style="list-style-type: disc;">
+    <li>In food allergy reactions, the potential augmenting role of cofactors (e.g., exercise, nonsteroidal anti-inflammatory drug [NSAID], omeprazole, alcohol intake) should be assessed in a structured history (<strong>Evidence level: III&ndash;IV**; Grade: D</strong>) (Expert opinion). </li>
+    <li>In allergic reactions occurring after exercise, NSAID or alcohol intake, an underlying allergy to foods consumed in the previous hours should be assessed (especially gliadin sensitization or lipid-transfer proteins in southern Europe) (<strong>Evidence level: IV; Grade: D</strong>) (Morita et al., 2009; Cardona et al., 2012; Romano et al., 2012). </li>
+</ul>
+<p class="Note">*Range of levels of evidence and grades are due to range of indications.</p>
+<p class="Note">**Range of levels of evidence and grades are due to range of different cofactors.</p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong>:</p>
+<p><strong>Level of Evidence for Establishing Diagnostic Test Accuracy</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Level of Evidence for Establishing Diagnostic Test Accuracy">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top">Level I</th>
+            <td valign="top">A systematic review of level II studies</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level II</th>
+            <td valign="top">A study of test accuracy with: an independent, blinded comparison with a valid reference standard, among consecutive persons with a defined clinical presentation</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level III-1*</th>
+            <td valign="top">A study of test accuracy with: an independent, blinded comparison with a valid reference standard, among non-consecutive persons with a defined clinical presentation</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level III-2*</th>
+            <td valign="top">A comparison with reference standard that does not meet the criteria required for level II and III-1 evidence</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level III-3*</th>
+            <td valign="top">Diagnostic case-control study</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level IV</th>
+            <td valign="top">Study of diagnostic yield (no reference standard)</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level V</th>
+            <td valign="top">Case reports and expert opinion that include narrative literature, reviews and consensus statements</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note">*For consistency with the Anaphylaxis guidelines, level III-1 &ndash; level III-3 for establishing diagnostic test accuracy were summarised as level III in this document.</p>
+<p><strong>Level of Evidence for Assessing Effectiveness of Interventions</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Level of Evidence for Assessing Effectiveness of Interventions">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top">Level I</th>
+            <td valign="top">Systematic reviews, meta-analysis, randomized controlled trials</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level II</th>
+            <td valign="top">Two groups, nonrandomized studies (e.g., cohort, case&ndash;control)</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level III</th>
+            <td valign="top">One group nonrandomized (e.g., before and after, pretest, and post-test)</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level IV</th>
+            <td valign="top">Descriptive studies that include analysis of outcomes (single-subject design, case series)</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level V</th>
+            <td valign="top">Case reports and expert opinion that include narrative literature, reviews, and consensus statements</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Grades of Recommendation</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Grades of Recommendation">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top">Grade A</th>
+            <td valign="top">Consistent level I studies</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Grade B</th>
+            <td valign="top">Consistent level II or III studies or extrapolations from level I studies</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Grade C</th>
+            <td valign="top">Level IV studies or extrapolations from level II or III studies</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Grade D</th>
+            <td valign="top">Level V evidence or troublingly inconsistent or inconclusive studies at any level</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>The following algorithms are provided in the original guideline document:</p>
+<ul style="list-style-type: disc;">
+    <li>Algorithm for the diagnosis of food allergy </li>
+    <li>Algorithm for oral food challenge </li>
+</ul></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Food allergy and anaphylaxis</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Counseling</p>
+                    <p>Diagnosis</p>
+                    <p>Evaluation</p>
+                    <p>Management</p>
+                    <p>Prevention</p>
+                    <p>Risk Assessment</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Allergy and Immunology</p>
+                    <p>Critical Care</p>
+                    <p>Emergency Medicine</p>
+                    <p>Family Practice</p>
+                    <p>Gastroenterology</p>
+                    <p>Internal Medicine</p>
+                    <p>Obstetrics and Gynecology</p>
+                    <p>Pediatrics</p>
+                    <p>Preventive Medicine</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Emergency Medical Technicians/Paramedics</p>
+                    <p>Health Care Providers</p>
+                    <p>Hospitals</p>
+                    <p>Nurses</p>
+                    <p>Pharmacists</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To provide evidence-based recommendations for the diagnosis and management of patients of any age with suspected or confirmed food allergy</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Patients of any age with suspected or confirmed food allergy</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><div class="content_para"><p><strong>Diagnosis/Evaluation</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Detailed clinical history including use of structured questions on symptoms, foods, and other background information </li>
+    <li>Determination of sensitization to food: skin prick test (SPT), specific immunoglobulin E (sIgE), component-resolved diagnostic test, determination of total IgE </li>
+    <li>Elimination diet </li>
+    <li>Diagnostic oral food challenge (OFC), including the double-blind placebo-controlled food challenge (DBPCFC) </li>
+    <li>Diagnosis of eosinophilic esophagitis (EoE): upper endoscopy and biopsies after proton-pump inhibitor treatment </li>
+</ol>
+<p><strong>Management/Treatment</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Acute management
+    <ul style="list-style-type: disc;">
+        <li>Timely management </li>
+        <li>Antihistamines </li>
+    </ul>
+    </li>
+    <li>Elimination diet
+    <ul style="list-style-type: disc;">
+        <li>Appropriate dietary avoidance </li>
+        <li>Dietetic counseling </li>
+        <li>Use of extensively hydrolyzed cow's milk formula </li>
+        <li>Amino acid formulas </li>
+        <li>Soy formulas </li>
+    </ul>
+    </li>
+    <li>Education and risk assessment
+    <ul style="list-style-type: disc;">
+        <li>Patient and caregiver education and counseling </li>
+        <li>Use of adrenaline autoinjector </li>
+        <li>Short-acting beta agonists </li>
+        <li>Glucocorticosteroids </li>
+        <li>Emergency department review </li>
+    </ul>
+    </li>
+    <li>Specific immunotherapy (not recommended routinely) </li>
+    <li>OFCs at regular intervals to assess achievements of tolerance </li>
+    <li>Assessment of potential augmenting role of cofactors in food allergy reactions </li>
+</ol>
+<p class="Note"><strong>Note</strong>: The following were considered but not recommended: unconventional tests including specific immunoglobulin G (IgG) testing, mast cell stabilizers, probiotic supplements, anti-IgE.</p></div></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Frequency, risk factors, and outcomes of food allergy in Europe </li>
+    <li>Diagnostic accuracy of tests aimed at supporting the clinical diagnosis of food allergy </li>
+    <li>Effectiveness of pharmacological and nonpharmacological interventions for the management of acute, non-life-threatening food-allergic reactions </li>
+    <li>Effectiveness of pharmacological and nonpharmacological interventions for the longer-term management of food allergy </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Hand-searches of Published Literature (Primary Sources)</p>
+                    <p>Hand-searches of Published Literature (Secondary Sources)</p>
+                    <p>Searches of Electronic Databases</p>
+                    <p>Searches of Unpublished Data</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p>In developing these guidelines, three recent systematic reviews on the epidemiology, diagnosis, and management of food allergy were conducted (see the "Availability of Companion Documents" field).</p>
+<p>Key questions addressed in the supporting systematic reviews: diagnosis and management:</p>
+<ul style="list-style-type: disc;">
+    <li>What is the epidemiology (i.e., frequency, risk factors, and outcomes) of food allergy in Europe and how does this vary by time, place, and person? </li>
+    <li>What is the diagnostic accuracy of tests aimed at supporting the clinical diagnosis of food allergy? </li>
+    <li>What is the effectiveness of pharmacological and nonpharmacological interventions for the management of acute, non-life-threatening food-allergic reactions? </li>
+    <li>What is the effectiveness of pharmacological and nonpharmacological interventions for the longer-term management of food allergy? </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">The Epidemiology of Food Allergy in Europe: a Systematic Review</span></strong></p>
+<p><strong>Search Strategy</strong></p>
+<p>Articles were retrieved using a highly sensitive search strategy implemented in four electronic databases (OVID MEDLINE, OVID EMBASE, CINAHL, and ISI Web of Science). The search strategy was devised on OVID MEDLINE and then adapted for the other databases (see Box 1 in the systematic review supplemental information [see the "Availability of Companion Documents" field]). Systematic reviews were retrieved by using the systematic review filter developed at McMaster University Health Information Research Unit (HIRU) (<a href="/web/20180712194848/https://www.guideline.gov/Home/Disclaimer?id=48691&amp;contentType=summary&amp;redirect=http%3a%2f%2fhiru.mcmaster.ca%2fhiru%2fHIRU_Hedges_MEDLINE_Strategies.aspx%23Reviews" title="McMaster University Health Information Research Unit (HIRU) Web site">http://hiru.mcmaster.ca/hiru/HIRU_Hedges_MEDLINE_Strategies.aspx#Reviews</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>). We also adapted the search filter from York University Centre for Reviews and Dissemination (<a href="/web/20180712194848/https://www.guideline.gov/Home/Disclaimer?id=48691&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.york.ac.uk%2finst%2fcrd%2fintertasc%2fepidemiological_studies.html" title="York University Centre for Reviews and Dissemination Web site">http://www.york.ac.uk/inst/crd/intertasc/epidemiological_studies.html</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>) to retrieve the characteristics describing the epidemiology of food allergy (FA). The McMaster filter (<a href="/web/20180712194848/https://www.guideline.gov/Home/Disclaimer?id=48691&amp;contentType=summary&amp;redirect=http%3a%2f%2fhiru.mcmaster.ca%2fhiru%2fHIRU_Hedges_EMBASE_Strategies.aspx%23Prognosis" title="McMaster University Health Information Research Unit (HIRU) Web site">http://hiru.mcmaster.ca/hiru/HIRU_Hedges_EMBASE_Strategies.aspx#Prognosis</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>) was applied for retrieving studies on prognostic factors. Additional references were located by hand search. Unpublished work and research in progress were searched through discussion with experts in the field. There were no language restrictions, and where possible the literature in languages other than English was translated. The literature that the reviewers were unable to translate is shown in the PRISMA flow diagram (see Figure 1 in the systematic review supplemental information [see the "Availability of Companion Documents" field]).</p>
+<p><strong>Inclusion and Exclusion Criteria</strong></p>
+<p>The following study designs were included: systematic reviews and meta-analyses, cohort studies, cross-sectional studies, case&ndash;control studies, and routine healthcare studies published in Europe between 1 January 2000 and 30 September 2012. These were chosen to ensure that the highest levels of European evidence were pooled based on the aims of the review. Reviews, discussion papers, nonresearch letters and editorials, case studies, and case series plus animal studies and all randomized controlled trials were excluded. See the systematic review supporting information (see the "Availability of Companion Documents" field) for more information.</p>
+<p><strong>Study Selection</strong></p>
+<p>The titles of retrieved articles were checked by two independent consultant reviewers according to the selection criteria and categorized as included, not included, and unsure. The abstracts of papers in the unsure category were retrieved and recategorized as above after further discussion. Full-text copies of potentially relevant studies were obtained, and their eligibility for inclusion was independently assessed by two reviewers. Any discrepancies were resolved by consensus or a third reviewer arbitrated.</p>
+<p><strong><span style="text-decoration: underline;">The Diagnosis of Food Allergy: a Systematic Review and Meta-analysis</span></strong></p>
+<p><strong>Search Strategy</strong></p>
+<p>Articles were retrieved using a highly sensitive search strategy implemented in the following databases: Cochrane Library including Cochrane Database of Systematic Reviews, Database of Reviews of Effectiveness (DARE), Cochrane Central Register of Controlled Trials (CENTRAL) (Trials), Methods Studies, Health Technology Assessments (HTA), Economic Evaluations Database (EED), MEDLINE (OVID), EMBASE (OVID), Cumulative Index to Nursing and Allied Health Literature (CINAHL) (Ebscohost), ISI Web of Science (Thomson Web of Knowledge), Turning Research into Practice (TRIP) Database, and Clinicaltrials.gov National Institutes of Health ([NIH] web).</p>
+<p>The search strategies were supplemented by contacting an international panel of experts for potential studies. There were no language restrictions, and where possible, non-English language papers were translated.</p>
+<p><strong>Inclusion and Exclusion Criteria</strong></p>
+<p>Prospective or retrospective, cross-sectional or case&ndash;control studies that evaluated atopy patch test (APT), skin prick test (SPT), specific immunoglobulin Es (IgEs), and component-specific IgE in children or adults presenting with suspected food allergy caused by cow's milk, hen's egg, wheat, soy, peanut, tree nut, fish, or shellfish were included. The reference standard was double-blind placebo-controlled food challenge (DBPCFC) used in at least 50% of the participants. Studies in which participants were selected based on having a positive food allergy test result (index test or reference standard) or for which no 2 X 2 data could be extracted were excluded.</p>
+<p><strong>Study Selection</strong></p>
+<p>Two reviewers independently checked titles and abstracts identified by the search, followed by review of the full text for assessment of eligibility.</p>
+<p><strong><span style="text-decoration: underline;">Acute and Long-term Management of Food Allergy: Systematic Review</span></strong></p>
+<p><strong>Search Strategy</strong></p>
+<p>The following databases were searched: Cochrane Library; MEDLINE, EMBASE, CINAHL, ISI Web of Science, TRIP Database and Clinicaltrials.gov. Experts in the field were contacted for additional studies. Specific search strategies are included in the online supplement for this review (see the "Availability of Companion Documents" field).</p>
+<p><strong>Inclusion and Exclusion Criteria</strong></p>
+<p>Studies of children or adults diagnosed with food allergy or reporting that they had food allergy were included. This included allergy where food was the primary sensitizer and pollen-associated food allergy if there was a direct diagnosis of food allergy. Studies of interventions for life-threatening manifestations were excluded because they were the focus of another review in this series. Systematic reviews and meta-analyses, randomized controlled trials, quasi-randomized controlled trials, controlled clinical trials, controlled before-and-after studies, and interrupted time series studies published up until September 30, 2012, were eligible. No language restrictions were applied and, where possible, relevant studies in languages other than English were translated.</p>
+<p><strong>Study Selection</strong></p>
+<p>The titles and abstracts of articles were checked by two independent reviewers and categorized as included, not included and unsure. Full-text copies of potentially relevant studies were obtained, and their eligibility for inclusion was independently assessed by two reviewers. Any discrepancies were resolved by consensus or discussion with a third reviewer.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p><strong>The Epidemiology of Anaphylaxis in Europe: a Systematic Review</strong></p>
+<p>The authors identified 4053 articles through database searching and 9 through other sources. One hundred and nine articles were assessed for eligibility, and 75 (based on 56 primary studies) were included in the narrative synthesis and 30 studies in the meta-analysis.</p>
+<p><strong>The Diagnosis of Food Allergy: a Systematic Review and Meta-analysis</strong></p>
+<p>The authors identified 6260 studies (excluding duplicates) and 312 were eligible for full-text review. Twenty-four studies (33 references) with a total of 2831 participants were included in the quantitative analyses.</p>
+<p><strong>Acute and Long-term Management of Food Allergy: Systematic Review</strong></p>
+<p>Eighty-four studies were included, comprising 12 systematic reviews (15%), 54 randomized controlled trials (64%), and 18 nonrandomized comparative or controlled cross-over studies (21%).</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Level of Evidence for Establishing Diagnostic Test Accuracy</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Level of Evidence for Establishing Diagnostic Test Accuracy">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top">Level I</th>
+            <td valign="top">A systematic review of level II studies</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level II</th>
+            <td valign="top">A study of test accuracy with: an independent, blinded comparison with a valid reference standard, among consecutive persons with a defined clinical presentation</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level III-1*</th>
+            <td valign="top">A study of test accuracy with: an independent, blinded comparison with a valid reference standard, among non-consecutive persons with a defined clinical presentation</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level III-2*</th>
+            <td valign="top">A comparison with reference standard that does not meet the criteria required for level II and III-1 evidence</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level III-3*</th>
+            <td valign="top">Diagnostic case-control study</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level IV</th>
+            <td valign="top">Study of diagnostic yield (no reference standard)</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level V</th>
+            <td valign="top">Case reports and expert opinion that include narrative literature, reviews and consensus statements</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note">*For consistency with the Anaphylaxis guidelines, level III-1 &ndash; level III-3 for establishing diagnostic test accuracy were summarised as level III in this document.</p>
+<p><strong>Level of Evidence for Assessing Effectiveness of Interventions</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Level of Evidence for Assessing Effectiveness of Interventions">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top">Level I</th>
+            <td valign="top">Systematic reviews, meta-analysis, randomized controlled trials</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level II</th>
+            <td valign="top">Two groups, nonrandomized studies (e.g., cohort, case&ndash;control)</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level III</th>
+            <td valign="top">One group nonrandomized (e.g., before and after, pretest, and post-test)</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level IV</th>
+            <td valign="top">Descriptive studies that include analysis of outcomes (single-subject design, case series)</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Level V</th>
+            <td valign="top">Case reports and expert opinion that include narrative literature, reviews, and consensus statements</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Meta-Analysis</p>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p>In developing these guidelines, three recent systematic reviews on the epidemiology, diagnosis, and management of food allergy were conducted (see the "Availability of Companion Documents" field).</p>
+<p><strong><span style="text-decoration: underline;">The Epidemiology of Anaphylaxis in Europe: a Systematic Review</span></strong></p>
+<p><strong>Risk of Bias Assessment</strong></p>
+<p>Risk of bias in the studies was independently carried out by two reviewers using adapted relevant versions of the Critical Appraisal Skills Programme (CASP) tool (<a href="/web/20180712194848/https://www.guideline.gov/Home/Disclaimer?id=48691&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.casp-uk.net%2f" title="CASP Tool Web site">http://www.casp-uk.net/</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>). An overall grading was assigned to each study based on the grading obtained from the various components of the study (i.e., the appropriateness of the study design for the research question, the risk of selection bias, exposure, and outcome assessment). Discrepancies were resolved by consensus or a third reviewer arbitrated.</p>
+<p><strong>Analysis, Synthesis, and Reporting</strong></p>
+<p>A customized data extraction form was developed and independently used to obtain relevant data from each study by two reviewers. Discrepancies were resolved by discussion or arbitration by a third reviewer. Reviewers recalculated all the frequency estimates of any food allergy (FA) occurrence if adequate data were provided by authors by using minimal measured events rather than extrapolated ones. The 95% confidence intervals (95% CI) of recalculations were computed by the Wilson score method without continuity correction. A random-effects meta-analysis was performed for clinically and methodologically comparable studies to estimate the frequency of FA. Reviewers calculated the age-stratified pooled estimates for the age group 0&ndash;17 years (children) and 18 years and over (adults). The pooled estimates were also stratified by geographical region in Europe. Statistical analysis was undertaken using STATA 11 (Stata Corp, College Station, Tx). See Supporting Information for this systematic review for further details (see the "Availability of Companion Documents" field).</p>
+<p><strong><span style="text-decoration: underline;">The Diagnosis of Food Allergy: a Systematic Review and Meta-analysis</span></strong></p>
+<p><strong>Data Extraction</strong></p>
+<p>Two reviewers extracted data using a customized form and assessed risk of bias using the Quality Assessment of Diagnostic Accuracy Studies (QUADAS)-2 tool. Any discrepancies were resolved by consensus and, where necessary, a senior reviewer was consulted. Reviewers collected study characteristics and recorded the number of true positives, true negatives, false positives, and false negatives for constructing a 2 &times; 2 table for each study. In cases where 2 &times; 2 data were not available, where possible, reviewers derived them from reported summary statistics such as sensitivity, specificity, and/or likelihood ratios.</p>
+<p><strong>Data Analysis, Synthesis, and Reporting</strong></p>
+<p>For each test, diagnostic accuracy was assessed according to target food. Preliminary exploratory analyses were conducted for each test by plotting pairs of sensitivity and specificity from each study on forest plots and in receiver operating characteristic (ROC) space. Hierarchical summary ROC models were used to summarize the accuracy of each test and to compare the accuracy of two or more tests. Where studies used a common or similar cutoff, parameter estimates from the models were used to compute summary sensitivities and specificities with 95% confidence regions. Analyses were performed in Review Manager 5.2 (The Nordic Cochrane Centre, The Cochrane Collaboration, 2012), and SAS software (version 9.2; SAS Institute, Cary, NC, USA).</p>
+<p><strong><span style="text-decoration: underline;">Acute and Long-term Management of Food Allergy: Systematic Review</span></strong></p>
+<p><strong>Risk of Bias Assessment</strong></p>
+<p>Risk of bias was independently carried out by two reviewers using adapted versions of the CASP tool and the Cochrane Effective Practice and Organization of care Group (EPOC) Risk of Bias tools. An overall grading of high, medium, or low quality was assigned to each study.</p>
+<p><strong>Analysis, Synthesis, and Reporting</strong></p>
+<p>A customized data extraction form was used to abstract data from each study, this process being independently undertaken by two reviewers. Discrepancies were resolved by discussion. Three experts in the field checked all of the data extraction for accuracy and relevance. Meta-analysis was not appropriate because the studies were heterogeneous in focus, design, target populations, and interventions. Findings were synthesized narratively by grouping studies according to topic, design, quality, and outcomes. The narrative synthesis was checked by a group of methodologists and subject experts to ensure accuracy and relevance.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p>These Guidelines were produced using the Appraisal of Guidelines for Research &amp; Evaluation (AGREE II) approach. This is a structured approach for the production of guidelines designed to ensure appropriate representation of the full range of stakeholders, a careful search and appraisal of the relevant literature and a systematic approach to the formulation and presentation of recommendations. In order to ensure that the risk of bias is minimized at each step of the process, interim consensus meetings were organised. An overview of the approach is provided below.</p>
+<p><strong>Clarifying the Scope and Purpose of the Guidelines</strong></p>
+<p>The scope of these European Academy of Allergy and Clinical Immunology (EAACI) guidelines is multi-faceted providing statements that assist clinicians in the management of food allergy in daily practice; harmonizing the approach to this disease among stakeholders across Europe; and advocating for further research.</p>
+<p><strong>Ensuring Appropriate Stakeholder Involvement</strong></p>
+<p>Participants and Experts in the Food Allergy Diagnosis and Management Taskforce represented a range of 12 European countries, and disciplinary and clinical backgrounds, i.e., gastroenterologists, primary care, dietitians, and patient groups.</p>
+<p><strong>Systematic Reviews of the Evidence</strong></p>
+<p>The initial full range of questions that were considered important were rationalized through several rounds of iteration into key questions that were then pursued through formal systematic reviews of the evidence.</p>
+<p><strong>Formulating Recommendations</strong></p>
+<p>The Taskforce graded the strength and consistency of key findings from these systematic reviews to formulate evidence-linked recommendations for care. This involved formulation of clear recommendations and the strength of evidence underpinning each recommendation. Experts identified barriers and facilitators to the implementation of each recommendation and included advice how to implement and listed audit criteria that may facilitate organizational compliance.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Grades of Recommendation</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Grades of Recommendation">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top">Grade A</th>
+            <td valign="top">Consistent level I studies</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Grade B</th>
+            <td valign="top">Consistent level II or III studies or extrapolations from level I studies</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Grade C</th>
+            <td valign="top">Level IV studies or extrapolations from level II or III studies</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Grade D</th>
+            <td valign="top">Level V evidence or troublingly inconsistent or inconclusive studies at any level</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p><strong>Peer Review and Public Comment</strong></p>
+<p>A draft of these guidelines was externally peer-reviewed by invited experts from a range of organizations, countries and professional backgrounds. Additionally, the draft guideline was made available on the European Academy of Allergy and Clinical Immunology (EAACI) website for a 3 week period (June 2013) to allow all stakeholders to comment. All feedback was considered by the Food Allergy Diagnosis and Management Taskforce and, where appropriate, revisions were made.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">References Supporting the Recommendations</a></h3>
+                    <p><table><tr><td>Agata H, Kondo N, Fukutomi O, Shinoda S, Orii T. Effect of elimination diets on food-specific IgE antibodies and lymphocyte proliferative responses to food antigens in atopic dermatitis patients exhibiting sensitivity to food allergens. J Allergy Clin Immunol. 1993 Feb;91(2):668-79. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8436780" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Alonso A, Seoane MA, Irañeta SG, Scavini LM, Rodríguez SM. A citrus fruit-exclusion diet in sensitive patients and its influence on specific antibodies. J Investig Allergol Clin Immunol. 1994 May-Jun;4(3):146-8. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7981885" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Bindslev-Jensen C, Ballmer-Weber BK, Bengtsson U, Blanco C, Ebner C, Hourihane J, Knulst AC, Moneret-Vautrin DA, Nekam K, Niggemann B, Osterballe M, Ortolani C, Ring J, Schnopp C, Werfel T, European Academy of Allergology and Clinical Immunology. Standardization of food challenges in patients with immediate reactions to foods--position paper from the European Academy of Allergology and Clinical Immunology. Allergy. 2004 Jul;59(7):690-7. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15180754" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Cardona V, Luengo O, Garriga T, Labrador Horrillo M, Sala-Cunill A, Izquierdo A, Soto L, Guilarte M. Co-factor-enhanced food allergy. Allergy. 2012 Oct;67(10):1316-8. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22845005" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Chen JL, Bahna SL. Spice allergy. Ann Allergy Asthma Immunol. 2011 Sep;107(3):191-9; quiz 199, 265. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21875536" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>de Silva D, Geromi M, Panesar SS, Muraro A, Werfel T, Hoffmann Sommergruber K, Roberts G, Cardona V, Dubois AE, Halken S, Host A, Poulsen LK, Van Ree R, Vlieg-Boerstra BJ, Agache I, Sheikh A, EAACI Food Allergy and Anaphylaxis Guidelines Group. Acute and long-term management of food allergy: systematic review. Allergy. 2014 Feb;69(2):159-67. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24215577" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Dellon ES, Gonsalves N, Hirano I, Furuta GT, Liacouras CA, Katzka DA. ACG clinical guideline: evidenced based approach to the diagnosis and management  of esophageal eosinophilia and eosinophilic esophagitis (EoE). Am J Gastroenterol. 2013 May;108(5):679-92. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23567357" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Eller E, Bindslev-Jensen C. Clinical value of component-resolved diagnostics in peanut-allergic patients. Allergy. 2013 Feb;68(2):190-4. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23240588" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Glaumann S, Nopp A, Johansson SG, Rudengren M, Borres MP, Nilsson C. Basophil allergen threshold sensitivity, CD-sens, IgE-sensitization and DBPCFC in peanut-sensitized children. Allergy. 2012 Feb;67(2):242-7. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22126416" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Hill DJ, Murch SH, Rafferty K, Wallis P, Green CJ. The efficacy of amino acid-based formulas in relieving the symptoms of cow's milk allergy: a systematic review. Clin Exp Allergy. 2007 Jun;37(6):808-22. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17517094" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Hol J, van Leer EH, Elink Schuurman BE, de Ruiter LF, Samsom JN, Hop W, Neijens HJ, de Jongste JC, Nieuwenhuis EE, Cow's Milk Allergy Modified by Elimination and Lactobacilli study group. The acquisition of tolerance toward cow's milk through probiotic supplementation: a randomized, controlled trial. J Allergy Clin Immunol. 2008 Jun;121(6):1448-54. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18436293" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Koletzko S, Niggemann B, Arato A, Dias JA, Heuschkel R, Husby S, Mearin ML, Papadopoulou A, Ruemmele FM, Staiano A, Schäppi MG, Vandenplas Y, European Society of Pediatric Gastroenterology, Hepatology, and Nutrition. Diagnostic approach and management of cow's-milk protein allergy in infants and children: ESPGHAN GI Committee practical guidelines. J Pediatr Gastroenterol Nutr. 2012 Aug;55(2):221-9. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22569527" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Morita E, Matsuo H, Chinuki Y, Takahashi H, Dahlström J, Tanaka A. Food-dependent exercise-induced anaphylaxis -importance of omega-5 gliadin and HMW-glutenin as causative antigens for wheat-dependent exercise-induced anaphylaxis. Allergol Int. 2009 Dec;58(4):493-8. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19847096" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Muraro A, Dreborg S, Halken S, Host A, Niggemann B, Aalberse R, Arshad SH, Berg Av A, Carlsen KH, Duschen K, Eigenmann P, Hill D, Jones C, Mellon M, Oldeus G, Oranje A, Pascual C, Prescott S, Sampson H, Svartengren M, Vandenplas Y, Wahn U, Warner JA, Warner JO, Wickman M, Zeiger RS. Dietary prevention of allergic diseases in infants and small children. Part III: Critical review of published peer-reviewed observational and interventional studies and final recommendations. Pediatr Allergy Immunol. 2004 Aug;15(4):291-307. [92 references] <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15305938" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Niggemann B, Binder C, Dupont C, Hadji S, Arvola T, Isolauri E. Prospective, controlled, multi-center study on the effect of an amino-acid-based formula in infants with cow's milk allergy/intolerance and atopic dermatitis. Pediatr Allergy Immunol. 2001 Apr;12(2):78-82. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11338290" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Romano A, Scala E, Rumi G, Gaeta F, Caruso C, Alonzi C, Maggioletti M, Ferrara R, Palazzo P, Palmieri V, Zeppilli P, Mari A. Lipid transfer proteins: the most frequent sensitizer in Italian subjects with food-dependent exercise-induced anaphylaxis. Clin Exp Allergy. 2012 Nov;42(11):1643-53. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23106665" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Sampson HA, Gerth van Wijk R, Bindslev Jensen C, Sicherer S, Teuber SS, Burks AW, Dubois AE, Beyer K, Eigenmann PA, Spergel JM, Werfel T, Chinchilli VM. Standardizing double-blind, placebo-controlled oral food challenges: American Academy of Allergy, Asthma &amp; Immunology-European Academy of Allergy and Clinical Immunology PRACTALL consensus report. J Allergy Clin Immunol. 2012 Dec;130(6):1260-74. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23195525" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Soares-Weiser K, Takwoingi Y, Panesar SS, Muraro A, Werfel T, Hoffmann-Sommergruber K, Roberts G, Halken S, Poulsen L, van Ree R, Vlieg-Boerstra BJ, Sheikh A, EAACI Food Allergy and Anaphylaxis Guidelines Group. The diagnosis of food allergy: a systematic review and meta-analysis. Allergy. 2014 Jan;69(1):76-86. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24329961" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Stapel SO, Asero R, Ballmer Weber BK, Knol EF, Strobel S, Vieths S, Kleine Tebbe J, EAACI Task Force. Testing for IgG4 against foods is not recommended as a diagnostic tool: EAACI Task Force Report. Allergy. 2008 Jul;63(7):793-6. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18489614" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Straumann A, Aceves SS, Blanchard C, Collins MH, Furuta GT, Hirano I, Schoepfer AM, Simon D, Simon HU. Pediatric and adult eosinophilic esophagitis: similarities and differences. Allergy. 2012 Apr;67(4):477-90. <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22313241" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified and graded for each recommendation (see the "Major Recommendations" field).</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>Appropriate diagnosis and management of food allergy</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>For skin prick tests (SPTs), the use of good-quality food allergen extracts, characterized by the demonstration of clinical efficacy and the presence of relevant allergens, is strongly recommended when available. Due to a possible under-representation of minor allergens or instability of the allergenic proteins, false-negative reactions can occur. Whenever these types of extracts are not available and/or minor or instable allergens are relevant for the sensitization (i.e., most fruits and vegetables), fresh foods should be used. Only trained healthcare professionals, able to interpret results and manage possible adverse reactions, should perform SPTs. </li>
+    <li>SPT and specific immunoglobulin E (sIgE) (and probably component-resolved diagnosis [CRD]) offer high sensitivity in relation to a range of allergens implicated in IgE-mediated food allergy. Direct comparisons among the tests are difficult given the limited body of evidence in which these tests have been compared in the same population. There is greater variation in the specificity of these tests, because they indicate sensitization that may not be of clinical relevance, with sIgE tending to have a higher rate of false-positive results. </li>
+    <li>Oral food challenge must be performed in a specialist setting with emergency support immediately available; where there is a moderate-to-high risk of a severe reaction, intensive care support must be immediately available. </li>
+    <li>Food allergen-specific immunotherapy for primary food allergy is a promising immunomodulatory treatment approach, but it is associated with risk of adverse reactions, including anaphylaxis. For oral immunotherapy, two systematic reviews, eight randomized trials, and three nonrandomized comparisons found that oral immunotherapy with food allergens was associated with improved tolerance and reduced symptoms for children and adults with various food allergies. However, around 90% of participants have side-effects although these were usually not severe. Oral immunotherapy was more efficacious for desensitization to cow&rsquo;s milk than sublingual immunotherapy but was accompanied by more systemic side-effects in one study. One randomized trial found no benefit. The two systematic reviews found mixed evidence and suggested that oral immunotherapy should not currently be recommended as routine treatment. In light of its potential benefit, it should be performed only in highly specialized centers, with expert staff and adequate equipment, and in accordance with clinical protocols approved by local ethics committees. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>Education is a key feature in the management of food allergy and should be heavily promoted to patients, families, and caregivers as well as to healthcare professionals. Developing and validating educational tools will further the establishment of vertical and horizontal networks between Centres of Excellence, allergy specialists, and primary care practitioners. Implementation at the community level should be in partnership with the patient organizations. Adequate reimbursement from national healthcare systems and insurance bodies for diagnostic procedures and the management strategies, including education, should be available.</p>
+<p>Additional supporting information may be found in the online version of this article (see the "Availability of Companion Documents" field):</p>
+<ul ytpe="disc">
+    <li><strong>Table S2</strong>. Food allergy diagnosis: barriers and facilitators to implementation of recommendations </li>
+    <li><strong>Table S4</strong>. Management of food allergy: barriers and facilitators to implementation of recommendations </li>
+    <li><strong>Data S2</strong>. Tools to support implementation of diagnosis of food allergy </li>
+</ul></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Clinical Algorithm</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Living with Illness</p>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+                    <p>Safety</p>
+                    <p>Timeliness </p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Muraro A, Werfel T, Hoffmann-Sommergruber K, Roberts G, Beyer K, Bindslev-Jensen C, Cardona V, Dubois A, duToit G, Eigenmann P, Fernandez Rivas M, Halken S, Hickstein L, Høst A, Knol E, Lack G, Marchisotto MJ, Niggemann B, Nwaru BI, Papadopoulos NG, Poulsen LK, Santos AF, Skypala I, Schoepfer A, Van Ree R, Venter C, Worm M, Vlieg-Boerstra B, Panesar S, de Silva D, Soares-Weiser K, Sheikh A, Ballmer-Weber BK, Nilsson C, de Jong NW, Akdis CA, EAACI Food Allergy and Anaphylaxis Guidelines Group. EAACI food allergy and anaphylaxis guidelines: diagnosis and management of food allergy. Allergy. 2014 Aug;69(8):1008-25. [86 references] <a href="https://web.archive.org/web/20180712194848/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24909706" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2014 Aug</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>European Academy of Allergy and Clinical Immunology - Medical Specialty Society</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>European Academy of Allergy and Clinical Immunology (EAACI)</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>European Academy of Allergy and Clinical Immunology (EAACI) Food Allergy Diagnosis and Management Taskforce</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Taskforce Members</em>: A. Muraro, Department of Mother and Child Health, The Referral Centre for Food Allergy Diagnosis and Treatment Veneto Region, University of Padua, Padua, Italy; T. Werfel, Department of Dermatology and Allergy, Hannover Medical University, Hannover, Germany; K. Hoffmann-Sommergruber, Department of Pathophysiology and Allergy Research, Medical University of Vienna, Vienna, Austria; G. Roberts, David Hide Asthma and Allergy Research Centre, St Mary's Hospital, Isle of Wight, Clinical and Experimental Sciences and Human Development and Health Academic Units, University of Southampton Faculty of Medicine, NIHR Respiratory Biomedical Research Unit, University Hospital Southampton NHS Foundation Trust, Southampton, UK; K. Beyer, Division of Paediatric Pneumology and Immunology, Charit&eacute; University Hospital, Berlin, Germany; C. Bindslev-Jensen, Department of Dermatology and Allergy Centre, Odense University Hospital, Odense, Denmark; V. Cardona, Allergy Section, Department of Internal Medicine, Hospital Universitari Vall d'Hebron, Barcelona, Spain; A. Dubois, Department of Pediatric Pulmonology and Pediatric Allergy, University Medical Center Groningen, University of Groningen and GRIAC Research Institute, Groningen, the Netherlands; G. duToit, MRC &amp; Asthma UK Centre in Allergic Mechanisms of Asthma, Department of Paediatric Allergy, Guy's and St Thomas' NHS Foundation Trust, London, UK; P. Eigenmann, Department of Child and Adolescent, University Hospitals of Geneva, Geneva, Switzerland; M. Fernandez Rivas, Allergy Department, Hospital Clinico San Carlos, Madrid, Spain; S. Halken, Hans Christian Andersen Children's Hospital, Odense University Hospital, Odense, Denmark; L. Hickstein, Department of (Paediatric) Dermatology and Allergology, University Medical Center Utrecht, Utrecht, the Netherlands; A. H&oslash;st, Allergy Department, Hospital Clinico San Carlos, Madrid, Spain; E. Knol, Food Allergy and Anaphylaxis Research and Education (FARE), McLean, VA, USA; G. Lack, MRC &amp; Asthma UK Centre in Allergic Mechanisms of Asthma, Department of Paediatric Allergy, Guy's and St Thomas' NHS Foundation Trust, London, UK; M. J. Marchisotto, Food Allergy and Anaphylaxis Research and Education (FARE), McLean, VA, USA; B. Niggemann, Division of Paediatric Pneumology and Immunology, Charit&eacute; University Hospital, Berlin, Germany; B. I. Nwaru, University of Tampere, Tampere, Finland; N. G. Papadopoulos, Allergy Department, 2nd Pediatric Clinic, University of Athens, Athens, Greece, Center for Pediatrics and Child Health, Institute of Human Development, University of Manchester, Manchester, UK; L. K. Poulsen, Allergy Clinic Copenhagen University Hospital at Gentofte, Copenhagen, Denmark; A. F. Santos, MRC &amp; Asthma UK Centre in Allergic Mechanisms of Asthma, Department of Pediatric Allergy, Division of Asthma, Allergy &amp; Lung Biology, King's College, London, UK, Immunoallergology Department, Coimbra University Hospital, Coimbra, Portugal; I. Skypala, Department of Rehabilitation and Therapies, Royal Brompton and Harefield NHS Foundation Trust, London, UK; A. Schoepfer, Division of Gastroenterology and Hepatology, Centre Hospitalier Universitaire Vaudois, Lausanne, Switzerland; R. Van Ree, Academic Medical Center, University of Amsterdam; C. Venter, David Hide Asthma and Allergy Research Centre, St Mary's Hospital, Isle of Wight; M. Worm, Division of Paediatric Pneumology and Immunology, Charit&eacute; University Hospital, Berlin, Germany; B. Vlieg&ndash;Boerstra, Emma Children's Hospital, Academic Medical Center, University of Amsterdam, Amsterdam, the Netherlands; S. Panesar, Allergy &amp; Respiratory Research Group, Centre for Population Health Sciences, University of Edinburgh, Edinburgh; D. de Silva, The Evidence Centre, London; K. Soares-Weiser, Enhance Reviews Ltd, Wantage; A. Sheikh, Allergy &amp; Respiratory Research Group, Centre for Population Health Sciences, University of Edinburgh, Edinburgh, Evidence-Based Health Care Ltd, Edinburgh, UK; B. K. Ballmer-Weber, Allergy Unit, Department of Dermatology, University Hospital Z&uuml;rich, Z&uuml;rich, Switzerland; C. Nilsson, Department of Clinical Science and Education, S&ouml;dersjukhuset, Karolinska Institutet and Sachs' Children's Hospital, Stockholm, Sweden; N.W. de Jong, ErasmusMC, Internal Medicine, Section Allergology, Rotterdam, the Netherlands; C. A. Akdis, Swiss Institute of Allergy and Asthma Research (SIAF), University of Z&uuml;rich, Christine K&uuml;hne&ndash;Center for Allergy Research and Education (CK-CARE), Davos, Switzerland</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>Antonella Muraro has provided scientific advice for Meda. Graham Roberts has provided scientific advice for Danone and ALK-Abell&oacute;; Thomas Werfel has provided scientific advice for Meda and Novartis. Caroline Nilsson and Susanne Halken have provided scientific advice for ALK-Abell&oacute;. Barbara Ballmer-Weber has provided scientific advice for Thermo Fisher Scientific. Thermo Fisher and ALK-Abell&oacute; have provided consumables for his research activities. Tony DuBois has provided scientific advice for ALK-Abell&oacute; and received funding from ALK-Abell&oacute; to support his research activities. Margitta Worm has provided scientific advice for ALK-Abell&oacute;, Meda, Novartis, and Stallergenes. Montserrat Fern&aacute;ndez Rivas has provided scientific advice to GSK and has received funding from the European Union, the Spanish Ministry of Science, and ALK-Abell&oacute;. Carsten Bindslev-Jensen has received funding from Thermo Fisher, HAL, Stallergenes and Anergis, ALK, Novartis, MSD, Schering-Plough for his research activities. Victoria Cardona has provided scientific advice for ALK-Abell&oacute;. Philippe Eigenmann has provided scientific advice for Danone, Novartis, ALK-Abell&oacute;, DBV technologies, and Stallergenes; he has received funding for research activities from LETI, Nestl&eacute;, and Thermo Fisher. Carina Venter has produced educational material for Danone, Mead Johnson, and Nestl&eacute; and has received research funding from Thermo Fischer, Danone, and Mead Johnson. Berber Vlieg-Boerstra has received research funding from Danone/Nutricia, Yakult, and Mead Johnson. Debra de Silva, Sukhmeet Panesar, and Aziz Sheikh have received funding for coordinating guidelines production and generating the systematic reviews from EAACI. Aziz Sheikh has provided scientific advice to ALK-Abell&oacute;, Meda, Lincoln Medical, Thermo Fisher, Pfizer, and Stallergenes; he is on the Anaphylaxis Campaign UK's Scientific Committee, World Allergy Organization's Anaphylaxis Special Committee, UK Resuscitation Council's Anaphylaxis Committee, and the BSACI's Standard of Care Committee. Lars Poulsen has provided scientific advice to Novozymes and has received funding for research from ALK-Abell&oacute;, Anergis, Biomay, Stallergenes. Kirsten Beyer has received funding for research activities from the European Union, German Research Foundation, Berliner Sparkasse, BEA-Stiftung, Food Allergy &amp; Anaphylaxis Network, Food Allergy Initiative, Danone, Thermo Fisher, DST Diagnostische Systeme &amp; Technologien GmbH, Allergopharma. Gideon Lack, George du Toit, and Bodo Niggemann have no conflict of interests. Karin Hoffmann-Sommergruber has received honoraria from Thermo Fisher and Milupa. Nicolette de Jong's institution has received funding from the Government of the Netherlands.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Electronic copies: Available from the <a href="/web/20180712194848/https://www.guideline.gov/Home/Disclaimer?id=48691&amp;contentType=summary&amp;redirect=http%3a%2f%2fonlinelibrary.wiley.com%2fdoi%2f10.1111%2fall.12429%2ffull" title="Allergy Journal Web site">Allergy Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>EAACI food allergy and anaphylaxis guidelines: diagnosis and management of food allergy. Supplemental and supporting information. Electronic copies: Available from the <a href="/web/20180712194848/https://www.guideline.gov/Home/Disclaimer?id=48691&amp;contentType=summary&amp;redirect=http%3a%2f%2fonlinelibrary.wiley.com%2fdoi%2f10.1111%2fall.12429%2fsuppinfo" title="Allergy Journal Web site">Allergy Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Nwaru BI, Hickstein L, Panesar SS, Muraro A, Werfel T, Cardona V, Dubois AEJ, Halken S, Hoffmann-Sommergruber K, Poulsen LK, Roberts G, Van Ree R, Vlieg-Boerstra BJ, Sheikh A on behalf of the EAACI Food Allergy and Anaphylaxis Guidelines Group. The epidemiology of food allergy in Europe: a systematic review and meta-analysis. Allergy 2014 Jan;69(1):62&ndash;75. Electronic copies: Available from the <a href="/web/20180712194848/https://www.guideline.gov/Home/Disclaimer?id=48691&amp;contentType=summary&amp;redirect=http%3a%2f%2fonlinelibrary.wiley.com%2fdoi%2f10.1111%2fall.12305%2ffull" title="Allergy Journal Web site">Allergy Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>The epidemiology of food allergy in Europe: a systematic review and meta-analysis. Supplemental information. Electronic copies: Available from the <a href="/web/20180712194848/https://www.guideline.gov/Home/Disclaimer?id=48691&amp;contentType=summary&amp;redirect=http%3a%2f%2fonlinelibrary.wiley.com%2fdoi%2f10.1111%2fall.12305%2fsuppinfo" title="Allergy Journal Web site">Allergy Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Soares-Weiser K, Takwoingi Y, Panesar SS, Muraro A, Werfel T, Hoffmann-Sommergruber K, Roberts G, Halken S, Poulsen L, van Ree R, Vlieg-Boerstra BJ, Sheikh A on behalf of the EAACI Food Allergy and Anaphylaxis Guidelines Group. The diagnosis of food allergy: a systematic review and meta-analysis. Allergy 2014 Jan;69(1):76&ndash;86. Electronic copies: Available from the <a href="/web/20180712194848/https://www.guideline.gov/Home/Disclaimer?id=48691&amp;contentType=summary&amp;redirect=http%3a%2f%2fonlinelibrary.wiley.com%2fdoi%2f10.1111%2fall.12333%2ffull" title="Allergy Journal Web site">Allergy Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>The diagnosis of food allergy: a systematic review and meta-analysis. Supplemental information. Available from the <a href="/web/20180712194848/https://www.guideline.gov/Home/Disclaimer?id=48691&amp;contentType=summary&amp;redirect=http%3a%2f%2fonlinelibrary.wiley.com%2fdoi%2f10.1111%2fall.12333%2fsuppinfo" title="Allergy Journal Web site">Allergy Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>de Silva D, Geromi M, Panesar SS, Muraro A, Werfel T, Hoffmann-Sommergruber K, Roberts G, Cardona V, Dubois AEJ, Halken S, Host A, Poulsen LK, Van Ree R, Vlieg-Boerstra BJ, Agache I, Sheikh A on behalf of the EAACI Food Allergy and Anaphylaxis Guidelines Group. Acute and long-term management of food allergy: systematic review. Allergy 2014 Feb;69(2):159&ndash;167. Electronic copies: Available from the <a href="/web/20180712194848/https://www.guideline.gov/Home/Disclaimer?id=48691&amp;contentType=summary&amp;redirect=http%3a%2f%2fonlinelibrary.wiley.com%2fdoi%2f10.1111%2fall.12314%2ffull" title="Allergy Journal Web site">Allergy Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Acute and long-term management of food allergy: systematic review. Supplemental information. Electronic copies: Available from the <a href="/web/20180712194848/https://www.guideline.gov/Home/Disclaimer?id=48691&amp;contentType=summary&amp;redirect=http%3a%2f%2fonlinelibrary.wiley.com%2fdoi%2f10.1111%2fall.12314%2fsuppinfo" title="Allergy Journal Web site">Allergy Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194848im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on November 26, 2014.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712194848/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712194848/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712194848/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712194848/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712194848/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712194848/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712194848/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194848/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194848/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194848/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194848/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194848/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712194848/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712194848/https://www.guideline.gov/disclaimer?id=48691&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712194848im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712194848im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712194848/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712194848/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712194848/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712194848/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712194848/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712194848/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712194848/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712194848/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712194848/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712194848/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712194848/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712194848/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712194848/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712194848/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712194848/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712194848/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712194848/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712194848/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712194848/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712194848im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712194848im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712194848/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712194848im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712194848im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712194848/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712194848js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712194848js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 19:48:48 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:37:54 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 1073.544 (3)
+  esindex: 0.01
+  captures_list: 1110.073
+  CDXLines.iter: 26.541 (3)
+  PetaboxLoader3.datanode: 37.163 (4)
+  exclusion.robots: 0.277
+  exclusion.robots.policy: 0.258
+  RedisCDXSource: 2.59
+  PetaboxLoader3.resolve: 94.28
+  load_resource: 38.951
+-->

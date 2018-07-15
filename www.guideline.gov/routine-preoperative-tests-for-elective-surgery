@@ -1,0 +1,1363 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=1180;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Routine preoperative tests for elective surgery. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712205534im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712205534im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712205534im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712205534im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712205534/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712205534im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712205534cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712205534js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712205534if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712205534/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712205534if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712205534/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712205534/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712205534/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712205534/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712205534im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712205534im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712205534im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712205534/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712205534/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712205534/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712205534/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712205534/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712205534/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712205534/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712205534/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712205534/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712205534/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712205534/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712205534/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712205534/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712205534/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712205534/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712205534/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712205534/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712205534/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712205534/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712205534/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712205534/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010955</li>
+            <li>2016 Apr 5
+            </li>            
+                                </ul>
+        <div>
+                <h1>Routine preoperative tests for elective surgery.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712205534/https://www.guideline.gov/search?f_Guideline_Developer_String=National%20Guideline%20Centre&amp;fLockTerm=National%2BGuideline%2BCentre">National Guideline Centre</a></li>
+                        <li>   
+                                <a id="2670" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td> National Clinical Guideline Centre . Routine preoperative tests for elective surgery. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr 5. 16 p.&nbsp;(NICE guideline; no. 45).&nbsp;</td></tr></table>                    <p><a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=fulltextlink&amp;redirect=https%253a%252f%252fwww.nice.org.uk%252fguidance%252fNG45">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: National Collaborating Centre for Acute Care. Preoperative tests: the use of routine preoperative tests for elective surgery: evidence, methods &amp; guidance. London (UK): National Institute for Clinical Excellence (NICE); 2003 Jun. 108 p. [118 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712205534/https://www.guideline.gov/search?f_Age_of_Target_Population=Adolescent%20%2813%20to%2018%20years%29&amp;fLockTerm=Adolescent%2B%2813%2Bto%2B18%2Byears%29">Adolescent (13 to 18 years)</a></li>                      
+                        <li><a href="/web/20180712205534/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712205534/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712205534/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712205534/https://www.guideline.gov/search?f_Age_of_Target_Population=Child%20%282%20to%2012%20years%29&amp;fLockTerm=Child%2B%282%2Bto%2B12%2Byears%29">Child (2 to 12 years)</a></li>                      
+                        <li><a href="/web/20180712205534/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712205534/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">HCPCS</h5>
+                    <div class="field-content">
+<a href="/web/20180712205534/https://www.guideline.gov/search?f_HCPCS_CUI=C0206058&amp;fLockTerm=Elective+surgery">Elective surgery</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712205534/https://www.guideline.gov/search?f_ICD9CM_CUI=C0007222&amp;fLockTerm=Cardiovascular+disease%2c+unspecified">Cardiovascular disease, unspecified</a>
+ (429.2), <a href="/web/20180712205534/https://www.guideline.gov/search?f_ICD9CM_CUI=C0013516&amp;fLockTerm=Diagnostic+ultrasound+of+heart">Diagnostic ultrasound of heart</a>
+ (88.72), <a href="/web/20180712205534/https://www.guideline.gov/search?f_ICD9CM_CUI=C1623258&amp;fLockTerm=Electrocardiogram">Electrocardiogram</a>
+ (89.52), <a href="/web/20180712205534/https://www.guideline.gov/search?f_ICD9CM_CUI=C0028754&amp;fLockTerm=Obesity%2c+unspecified">Obesity, unspecified</a>
+ (278.00), <a href="/web/20180712205534/https://www.guideline.gov/search?f_ICD9CM_CUI=C0162701&amp;fLockTerm=Polysomnogram">Polysomnogram</a>
+ (89.17)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0005771&amp;fLockTerm=Blood+Cell+Count">Blood Cell Count</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0005800&amp;fLockTerm=Blood+Gas+Analysis">Blood Gas Analysis</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0005845&amp;fLockTerm=Blood+Urea+Nitrogen">Blood Urea Nitrogen</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0007222&amp;fLockTerm=Cardiovascular+Diseases">Cardiovascular Diseases</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0009452&amp;fLockTerm=Communication">Communication</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0009488&amp;fLockTerm=Comorbidity">Comorbidity</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0011849&amp;fLockTerm=Diabetes+Mellitus">Diabetes Mellitus</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0011930&amp;fLockTerm=Diagnostic+Tests%2c+Routine">Diagnostic Tests, Routine</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0013516&amp;fLockTerm=Echocardiography">Echocardiography</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0206058&amp;fLockTerm=Elective+Surgical+Procedures">Elective Surgical Procedures</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C1623258&amp;fLockTerm=Electrocardiography">Electrocardiography</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0013832&amp;fLockTerm=Electrolytes">Electrolytes</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0016529&amp;fLockTerm=Forced+Expiratory+Volume">Forced Expiratory Volume</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0017654&amp;fLockTerm=Glomerular+Filtration+Rate">Glomerular Filtration Rate</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0019116&amp;fLockTerm=Hemostasis">Hemostasis</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0021430&amp;fLockTerm=Informed+Consent">Informed Consent</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0525032&amp;fLockTerm=International+Normalized+Ratio">International Normalized Ratio</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0022658&amp;fLockTerm=Kidney+Diseases">Kidney Diseases</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0022662&amp;fLockTerm=Kidney+Function+Tests">Kidney Function Tests</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0028754&amp;fLockTerm=Obesity">Obesity</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0030688&amp;fLockTerm=Patient+Education+as+Topic">Patient Education as Topic</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0030735&amp;fLockTerm=Peak+Expiratory+Flow+Rate">Peak Expiratory Flow Rate</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0162701&amp;fLockTerm=Polysomnography">Polysomnography</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0032976&amp;fLockTerm=Pregnancy+Tests">Pregnancy Tests</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0033061&amp;fLockTerm=Preoperative+Care">Preoperative Care</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C3665494&amp;fLockTerm=Radiography%2c+Thoracic">Radiography, Thoracic</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0035227&amp;fLockTerm=Respiratory+Function+Tests">Respiratory Function Tests</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0035242&amp;fLockTerm=Respiratory+Tract+Diseases">Respiratory Tract Diseases</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0543467&amp;fLockTerm=Surgical+Procedures%2c+Operative">Surgical Procedures, Operative</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0042014&amp;fLockTerm=Urinalysis">Urinalysis</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MSH_CUI=C0042834&amp;fLockTerm=Vital+Capacity">Vital Capacity</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0005771&amp;fLockTerm=blood+cell+count">blood cell count</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0005800&amp;fLockTerm=Blood+Gas+Analysis">Blood Gas Analysis</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0005845&amp;fLockTerm=Blood+urea+nitrogen+measurement">Blood urea nitrogen measurement</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0007222&amp;fLockTerm=Cardiovascular+Diseases">Cardiovascular Diseases</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0009452&amp;fLockTerm=Communication">Communication</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0201975&amp;fLockTerm=Creatinine+measurement">Creatinine measurement</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0011849&amp;fLockTerm=Diabetes+Mellitus">Diabetes Mellitus</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0013516&amp;fLockTerm=Echocardiography">Echocardiography</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0206058&amp;fLockTerm=Elective+Surgical+Procedures">Elective Surgical Procedures</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C1623258&amp;fLockTerm=Electrocardiography">Electrocardiography</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0013832&amp;fLockTerm=Electrolytes">Electrolytes</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0016529&amp;fLockTerm=Forced+expiratory+volume+function">Forced expiratory volume function</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0017654&amp;fLockTerm=Glomerular+Filtration+Rate">Glomerular Filtration Rate</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0518015&amp;fLockTerm=Hemoglobin+measurement">Hemoglobin measurement</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0017853&amp;fLockTerm=Hemoglobin%2c+Glycosylated">Hemoglobin, Glycosylated</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0019116&amp;fLockTerm=Hemostatic+function">Hemostatic function</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0021430&amp;fLockTerm=Informed+Consent">Informed Consent</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0525032&amp;fLockTerm=International+Normalized+Ratio">International Normalized Ratio</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0022658&amp;fLockTerm=Kidney+Diseases">Kidney Diseases</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0022662&amp;fLockTerm=Kidney+Function+Tests">Kidney Function Tests</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0028754&amp;fLockTerm=Obesity">Obesity</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0543467&amp;fLockTerm=Operative+Surgical+Procedures">Operative Surgical Procedures</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0030688&amp;fLockTerm=Patient+education+(procedure)">Patient education (procedure)</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0030735&amp;fLockTerm=Peak+expiratory+flow+rate+measurement">Peak expiratory flow rate measurement</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0162701&amp;fLockTerm=Polysomnography">Polysomnography</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0032976&amp;fLockTerm=Pregnancy+Tests">Pregnancy Tests</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0205908&amp;fLockTerm=Preoperative+Procedure">Preoperative Procedure</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0024119&amp;fLockTerm=Pulmonary+function+tests">Pulmonary function tests</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0035227&amp;fLockTerm=Respiratory+Function+Tests">Respiratory Function Tests</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0035242&amp;fLockTerm=Respiratory+Tract+Diseases">Respiratory Tract Diseases</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C3665494&amp;fLockTerm=Thoracic+Radiography">Thoracic Radiography</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0042014&amp;fLockTerm=urinalysis">urinalysis</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_MTH_CUI=C0042834&amp;fLockTerm=Vital+capacity">Vital capacity</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712205534/https://www.guideline.gov/search?f_PDQ_CUI=C0028754&amp;fLockTerm=obesity">obesity</a>
+, <a href="/web/20180712205534/https://www.guideline.gov/search?f_PDQ_CUI=C0543467&amp;fLockTerm=surgery">surgery</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0005771&amp;fLockTerm=Blood+cell+count">Blood cell count</a>
+ (88308000), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0005800&amp;fLockTerm=Blood+gas+analysis">Blood gas analysis</a>
+ (167018008), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0005800&amp;fLockTerm=Blood+gas+analysis">Blood gas analysis</a>
+ (278297009), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0005845&amp;fLockTerm=Blood+urea+nitrogen+measurement">Blood urea nitrogen measurement</a>
+ (105011006), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0005845&amp;fLockTerm=Blood+urea+nitrogen+measurement">Blood urea nitrogen measurement</a>
+ (250623007), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0009452&amp;fLockTerm=Communication">Communication</a>
+ (263536004), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0201975&amp;fLockTerm=Creatinine+measurement">Creatinine measurement</a>
+ (70901006), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0011849&amp;fLockTerm=Diabetes+mellitus">Diabetes mellitus</a>
+ (73211009), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0007222&amp;fLockTerm=Disorder+of+cardiovascular+system">Disorder of cardiovascular system</a>
+ (49601007), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0013516&amp;fLockTerm=Echocardiography">Echocardiography</a>
+ (40701008), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1623258&amp;fLockTerm=Electrocardiographic+procedure">Electrocardiographic procedure</a>
+ (29303009), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0013832&amp;fLockTerm=Electrolyte">Electrolyte</a>
+ (86355000), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0016529&amp;fLockTerm=Forced+expired+volume">Forced expired volume</a>
+ (165041004), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0017654&amp;fLockTerm=Glomerular+filtration+rate">Glomerular filtration rate</a>
+ (80274001), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0017853&amp;fLockTerm=Glycosylated+hemoglobin">Glycosylated hemoglobin</a>
+ (259689004), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0017853&amp;fLockTerm=Glycosylated+hemoglobin">Glycosylated hemoglobin</a>
+ (733829007), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019116&amp;fLockTerm=Hemostatic+function">Hemostatic function</a>
+ (74848003), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0567423&amp;fLockTerm=Informed+consent+for+procedure">Informed consent for procedure</a>
+ (182771004), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0525032&amp;fLockTerm=International+normalized+ratio">International normalized ratio</a>
+ (165581004), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0525032&amp;fLockTerm=International+normalized+ratio">International normalized ratio</a>
+ (1951000175101), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0022658&amp;fLockTerm=Kidney+disease">Kidney disease</a>
+ (90708001), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0035227&amp;fLockTerm=Measurement+of+respiratory+function">Measurement of respiratory function</a>
+ (23426006), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0028754&amp;fLockTerm=Obesity">Obesity</a>
+ (414915002), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0028754&amp;fLockTerm=Obesity">Obesity</a>
+ (414916001), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0206058&amp;fLockTerm=Optional+surgery">Optional surgery</a>
+ (274075007), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030688&amp;fLockTerm=Patient+education">Patient education</a>
+ (311401005), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0162701&amp;fLockTerm=Polysomnography">Polysomnography</a>
+ (164773008), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0162701&amp;fLockTerm=Polysomnography">Polysomnography</a>
+ (60554003), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0032976&amp;fLockTerm=Pregnancy+detection+examination">Pregnancy detection examination</a>
+ (74036000), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0033061&amp;fLockTerm=Preoperative+care">Preoperative care</a>
+ (133898004), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0205908&amp;fLockTerm=Preoperative+procedure">Preoperative procedure</a>
+ (133858001), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0022662&amp;fLockTerm=Renal+function+study">Renal function study</a>
+ (44277000), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0543467&amp;fLockTerm=Surgical">Surgical</a>
+ (257556004), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0543467&amp;fLockTerm=Surgical">Surgical</a>
+ (387713003), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0543467&amp;fLockTerm=Surgical">Surgical</a>
+ (83578000), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C3665494&amp;fLockTerm=Thoracic+cage+X-ray">Thoracic cage X-ray</a>
+ (303932001), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0042014&amp;fLockTerm=Urinalysis">Urinalysis</a>
+ (167217005), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0042014&amp;fLockTerm=Urinalysis">Urinalysis</a>
+ (27171005), <a href="/web/20180712205534/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0042834&amp;fLockTerm=Vital+capacity">Vital capacity</a>
+ (268379003)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712205534/https://www.guideline.gov/summaries/downloadcontent/ngc-10955?contentType=pdf" class="pdf">.PDF 159.7 kb</a></li>
+                            <li><a href="/web/20180712205534/https://www.guideline.gov/summaries/downloadcontent/ngc-10955?contentType=word" class="word">Word Document 363.1 kb</a></li>
+                            <li><a href="/web/20180712205534/https://www.guideline.gov/summaries/downloadcontent/ngc-10955?contentType=xml" class="xml">.XML 95.7 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205534/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/50177/routine-preoperative-tests-for-elective-surgery" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205534/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/50177/routine-preoperative-tests-for-elective-surgery" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205534/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/50177/routine-preoperative-tests-for-elective-surgery&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712205534/mailto:/?Subject=AHRQ: Routine preoperative tests for elective surgery.&amp;body=https://www.guideline.gov/summaries/summary/50177/routine-preoperative-tests-for-elective-surgery" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Routine preoperative tests for elective surgery. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2016 Apr 05. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712205534/https://www.guideline.gov/summaries/citedownload/50177?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712205534/https://www.guideline.gov/summaries/citedownload/50177?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712205534/https://www.guideline.gov/summaries/citedownload/50177?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712205534/https://www.guideline.gov/summaries/citedownload/50177?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712205534/https://www.guideline.gov/summaries/citedownload/50177?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712205534/https://www.guideline.gov/summaries/citedownload/50177">RefWorks</a></li>
+                            <li><a href="/web/20180712205534/https://www.guideline.gov/summaries/citedownload/50177?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="50177" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the "Availability of Companion Documents" field for the full version of this guidance and related appendices.</p>
+<p>The wording used in the recommendations in this guideline (for example, words such as 'offer' and 'consider') denotes the certainty with which the recommendation is made (the strength of the recommendation) and is defined at the end of the "Major Recommendations" field.</p>
+<p>The tests covered by this guideline are:</p>
+<ul style="list-style-type: disc;">
+    <li>Chest X-ray </li>
+    <li>Echocardiography (resting) </li>
+    <li>Electrocardiography (ECG; resting) </li>
+    <li>Full blood count (haemoglobin, white blood cell count and platelet count) </li>
+    <li>Glycated haemoglobin (HbA1c) testing </li>
+    <li>Haemostasis tests </li>
+    <li>Kidney function (estimated glomerular filtration rate, electrolytes, creatinine and sometimes urea levels) </li>
+    <li>Lung function tests (spirometry, including peak expiratory flow rate, forced vital capacity and forced expiratory volume) and arterial blood gas analysis </li>
+    <li>Polysomnography </li>
+    <li>Pregnancy testing </li>
+    <li>Sickle cell disease/trait tests </li>
+    <li>Urine tests </li>
+</ul>
+<p>The recommendations were developed in relation to the following comorbidities:</p>
+<ul style="list-style-type: disc;">
+    <li>Cardiovascular </li>
+    <li>Diabetes </li>
+    <li>Obesity </li>
+    <li>Renal </li>
+    <li>Respiratory </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Recommendations Relevant for All Types of Surgery</span></strong></p>
+<p><strong>Communication</strong></p>
+<p>When offering tests before surgery, give people information in line with recommendations (including those on consent and capacity) made in the NICE guideline on <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg138" title="NICE Web site">patient experience in adult NHS services</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </p>
+<p>Ensure that the results of any preoperative tests undertaken in primary care are included when referring people for surgical consultation. </p>
+<p><strong>Considering Existing Medicines</strong></p>
+<p>Take into account any medicines people are taking when considering whether to offer any preoperative test. </p>
+<p><strong>Pregnancy Tests</strong></p>
+<p>On the day of surgery, sensitively ask all women of childbearing potential whether there is any possibility they could be pregnant. </p>
+<p>Make sure women who could possibly be pregnant are aware of the risks of the anaesthetic and the procedure to the fetus. </p>
+<p>Document all discussions with women about whether or not to carry out a pregnancy test.</p>
+<p>Carry out a pregnancy test with the woman's consent if there is any doubt about whether she could be pregnant. </p>
+<p>Develop locally agreed protocols for checking pregnancy status before surgery. </p>
+<p>Make sure protocols are documented and audited, and in line with statutory and professional guidance. </p>
+<p><strong>Sickle Cell Disease or Sickle Cell Trait Tests</strong></p>
+<p>Do not routinely offer testing for sickle cell disease or sickle cell trait before surgery. </p>
+<p>Ask the person having surgery if they or any member of their family have sickle cell disease. </p>
+<p>If the person is known to have sickle cell disease and has their disease managed by a specialist sickle cell service, liaise with this team before surgery.</p>
+<p><strong>HbA1c Testing for People without Diagnosed Diabetes</strong></p>
+<p>Do not routinely offer HbA1c testing before surgery to people without diagnosed diabetes. </p>
+<p><strong>HbA1c Testing for People with Diabetes</strong></p>
+<p>People with diabetes who are being referred for surgical consultation from primary care should have their most recent HbA1c test results included in their referral information. </p>
+<p>Offer HbA1c testing to people with diabetes having surgery if they have not been tested in the last 3 months.</p>
+<p><strong>Urine Tests </strong></p>
+<p>Do not routinely offer urine dipstick tests before surgery. </p>
+<p>Consider microscopy and culture of midstream urine sample before surgery if the presence of a urinary tract infection would influence the decision to operate.</p>
+<p><strong>Chest X-ray </strong></p>
+<p>Do not routinely offer chest X-rays before surgery. </p>
+<p><strong>Echocardiography </strong></p>
+<p>Do not routinely offer resting echocardiography before surgery. </p>
+<p>Consider resting echocardiography if the person has: </p>
+<ul style="list-style-type: disc;">
+    <li>A heart murmur and any cardiac symptom (including breathlessness, pre-syncope, syncope or chest pain) <strong>or</strong> </li>
+    <li>Signs or symptoms of heart failure </li>
+</ul>
+<p>Before ordering the resting echocardiogram, carry out a resting electrocardiogram (ECG) and discuss the findings with an anaesthetist. </p>
+<p><strong><span style="text-decoration: underline;">Recommendations for Specific Surgery Grades (Minor, Intermediate, and Major or Complex) and American Society of Anesthesiologists (ASA) Grades</span></strong></p>
+<p>See tables and recommendations in the original guideline document.</p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong></p>
+<p><strong>Strength of Recommendation</strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation). </p>
+<p><em>Interventions That Must (or Must Not) Be Used</em></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally the GDG uses 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening. </p>
+<p><em>Interventions That Should (or Should Not) Be Used &ndash; a 'Strong' Recommendation </em></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients. </p>
+<p><em>Interventions That Could Be Used </em></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient. </p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>A National Institute for Health and Care Excellence (NICE) pathway titled "Preoperative tests overview" is available from the <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fpathways.nice.org.uk%2fpathways%2fpreoperative-tests" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Conditions that require elective surgery with or without comorbid cardiovascular, respiratory, or renal disease; diabetes; or obesity</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Evaluation</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Anesthesiology</p>
+                    <p>Cardiology</p>
+                    <p>Hematology</p>
+                    <p>Internal Medicine</p>
+                    <p>Nephrology</p>
+                    <p>Nursing</p>
+                    <p>Pathology</p>
+                    <p>Pediatrics</p>
+                    <p>Pulmonary Medicine</p>
+                    <p>Surgery</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Health Care Providers</p>
+                    <p>Health Plans</p>
+                    <p>Hospitals</p>
+                    <p>Nurses</p>
+                    <p>Patients</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To provide recommendations on the use of preoperative tests for elective surgery</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Adults and young people (over 16 years old) who are American Society of Anesthesiologists (ASA) grade 1 to 4 (see table in the original guideline document); who may have one or more of the following comorbidities: cardiovascular, respiratory, renal, diabetes or obesity; and who are having minor, intermediate, or major or complex elective surgery </p>
+<p class="Note"><strong>Note</strong>: Populations not covered by this guideline are:</p>
+<ul class="Note" style="list-style-type: disc;">
+    <li>Children and young people (0 to 16 years) </li>
+    <li>Pregnant women </li>
+    <li>Adults who are ASA2 or above, with comorbidities other than cardiovascular, respiratory, renal, diabetes or obesity </li>
+    <li>People having cardiothoracic or neurosurgery </li>
+</ul></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Pregnancy testing </li>
+    <li>Glycated haemoglobin (HbA1c) test in people with or without diagnosed diabetes </li>
+    <li>Urinalysis </li>
+    <li>Chest X-ray </li>
+    <li>Resting echocardiography </li>
+    <li>Resting electrocardiography (ECG) </li>
+    <li>Full blood count (haemoglobin, white blood cell count and platelet count) </li>
+    <li>Haemostasis tests </li>
+    <li>Kidney function tests (estimated glomerular filtration rate, electrolytes, creatinine and sometimes urea levels) </li>
+    <li>Lung function (spirometry, including peak expiratory flow rate, forced vital capacity and forced expiratory volume) and arterial blood gas analysis </li>
+    <li>Polysomnography </li>
+    <li>Providing patients with information and obtaining patient consent </li>
+    <li>Communicating test results </li>
+    <li>Considering existing medicines before offering preoperative tests </li>
+</ol>
+<p class="Note"><strong>Note</strong>: Sickle cell tests are considered but not recommended. Not all of the listed tests are recommended routinely; see the "Major Recommendations" section and the original guideline document for context.</p></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>All-cause mortality </li>
+    <li>Change in healthcare management (for example cancellation of surgery) </li>
+    <li>Complications related to surgery </li>
+    <li>Length of hospital stay after an operation </li>
+    <li>Hospital readmission </li>
+    <li>Adverse events caused by testing </li>
+    <li>Health related quality of life </li>
+    <li>Intensive care/high dependency unit admission </li>
+    <li>Cost-effectiveness </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Hand-searches of Published Literature (Primary Sources)</p>
+                    <p>Hand-searches of Published Literature (Secondary Sources)</p>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the "Availability of Companion Documents" field for the full version of this guidance and related appendices.</p>
+<p><strong><span style="text-decoration: underline;">Developing the Review Questions and Outcomes</span></strong></p>
+<p>Review questions were developed in a PICO framework (patient, intervention, comparison and outcome) for intervention reviews and using population, presence or absence of factors under investigation (for example, prognostic factors) and outcomes for prognostic reviews. </p>
+<p>This use of a framework guided the literature searching process, critical appraisal and synthesis of evidence, and facilitated the development of recommendations by the Guideline Development Group (GDG). The review questions were drafted by the NCGC technical team and refined and validated by the GDG. The questions were based on the key clinical areas identified in the scope (see Appendix A).</p>
+<p>A total of 17 review questions were identified. </p>
+<p>Full literature searches, critical appraisals and evidence reviews were completed for all the specified review questions.</p>
+<p><strong><span style="text-decoration: underline;">Searching for Evidence</span></strong></p>
+<p><strong>Clinical Literature Search </strong></p>
+<p>Systematic literature searches were undertaken to identify all published clinical evidence relevant to the review questions. Searches were undertaken according to the parameters stipulated within the NICE guidelines manual (see the "Availability of Companion Documents" field). Databases were searched using relevant medical subject headings, free-text terms and study-type filters where appropriate. Studies published in languages other than English were not reviewed. Where possible, searches were restricted to articles published in English. All searches were conducted in MEDLINE, EMBASE, and The Cochrane Library. All searches were updated on 8 July 2015. Papers published after this date were not considered. </p>
+<p>Search strategies were quality assured by cross-checking reference lists of highly relevant papers, analysing search strategies in other systematic reviews, and asking GDG members to highlight any additional studies. Any additional papers identified were ordered by the technical team and assessed for inclusion in the full guideline. The review questions, the study types applied, the databases searched and the years covered can be found in Appendix G. </p>
+<p>The titles and abstracts of records retrieved by the searches were sifted for relevance, with potentially significant publications obtained in full text. These were assessed against the inclusion criteria. </p>
+<p>During the scoping stage, a search was conducted for guidelines and reports on the Web sites listed below, from organisations relevant to the topic. Searching for unpublished literature was not undertaken. All references sent by stakeholders were considered.</p>
+<ul style="list-style-type: disc;">
+    <li>Guidelines International Network database (<a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.g-i-n.net%2f" title="Guidelines International Network Web site">www.g-i-n.net</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>) </li>
+    <li>National Guideline Clearinghouse (NGC) (<a href="https://web.archive.org/web/20180712205534/http://www.guideline.gov/" target="_blank" title="National Guideline Clearinghouse Web site">www.guideline.gov</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>) </li>
+    <li>National Institute for Health and Care Excellence (NICE) (<a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2f" title="National Institute for Health and Care Excellence (NICE) Web site">www.nice.org.uk</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>) </li>
+    <li>National Health Service (NHS) Evidence Search (<a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.evidence.nhs.uk%2f" title="National Health Service (NHS) Evidence Search Web site">www.evidence.nhs.uk</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>) </li>
+    <li>Turning Research Into Practice (TRIP) database (<a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.tripdatabase.com%2f" title="Turning Research Into Practice (TRIP) Database Web site">https://www.tripdatabase.com</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>) </li>
+    <li>BMJ Clinical Evidence (<a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=http%3a%2f%2fclinicalevidence.bmj.com%2fx%2findex.html" title="BMJ Clinical Evidence Web site">http://clinicalevidence.bmj.com</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>) </li>
+    <li>Database of Uncertainties about the Effects of Treatments (DUETS) (<a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.library.nhs.uk%2fduets%2f" title="UK Database of Uncertainties about the Effects of Treatments (DUETS) Web site">https://www.library.nhs.uk/duets/</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>) </li>
+    <li>Centre for Reviews and Dissemination (CRD) (<a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.york.ac.uk%2fcrd%2f" title="University of York Centre for Reviews and Dissemination (CRD) Web site">http://www.york.ac.uk/crd/</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>) </li>
+    <li>PROSPERO (International prospective register of systematic reviews) (<a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.crd.york.ac.uk%2fPROSPERO%2f" title="PROSPERO (International prospective register of systematic reviews) Web site">http://www.crd.york.ac.uk/PROSPERO/</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>) </li>
+</ul>
+<p><strong>Health Economic Literature Search</strong></p>
+<p>Systematic literature searches were also undertaken to identify health economic evidence within published literature relevant to the review questions. The evidence was identified by conducting a broad search relating to elective surgery in the NHS Economic Evaluation Database (NHS EED), the Health Technology Assessment database (HTA) and the Health Economic Evaluations Database (HEED) with no date restrictions. Additionally, the search was run on MEDLINE and EMBASE using a specific economic filter, from 2012, to ensure recent publications that had not yet been indexed by the economic databases were identified. This was supplemented by additional searches that looked for economic papers specifically relating to cardiopulmonary exercise testing on Medline, EMBASE, the NHS Economic Evaluations Database, the Health Technology Assessment database and the Health Economic Evaluation Database, as it became apparent that some papers in this area were not being identified through the first search. Studies published in languages other than English were not reviewed. Where possible, searches were restricted to articles published in English. </p>
+<p>The health economic search strategies are included in Appendix G. All searches were updated on 8 July 8 2015. Papers published after this date were not considered.</p>
+<p><strong><span style="text-decoration: underline;">Evidence of Effectiveness</span></strong></p>
+<p>The tasks of the research fellow are listed below. The research fellow:</p>
+<ul style="list-style-type: disc;">
+    <li>Identified potentially relevant studies for each review question from the relevant search results by reviewing titles and abstracts, and deciding which should be ordered as full papers. Full papers were then obtained. </li>
+    <li>Reviewed full papers against pre-specified inclusion/exclusion criteria to identify studies that addressed the review question in the appropriate population, and reported on outcomes of interest (see Appendix C for clinical review protocols). </li>
+</ul>
+<p><strong>Inclusion and Exclusion Criteria </strong></p>
+<p>The inclusion and exclusion of studies was based on the clinical review protocols, which can be found in Appendix C. Excluded studies by review question (with the reasons for their exclusion) are listed in Appendix K. The GDG was consulted about any uncertainty regarding inclusion or exclusion. </p>
+<p>The key population inclusion criteria were:</p>
+<ul style="list-style-type: disc;">
+    <li>Adults and young people (over 16 years of age) classified as patients who are American Society of Anesthesiologists (ASA) grade 1&ndash;4 undergoing elective surgery </li>
+    <li>The guideline covers selected comorbidities: cardiovascular, respiratory, renal, obesity, diabetes </li>
+</ul>
+<p>The key population exclusion criteria were: </p>
+<ul style="list-style-type: disc;">
+    <li>Children and young people (0&ndash;16 years old) </li>
+    <li>Cardiovascular and neurological surgery </li>
+    <li>Other comorbidities </li>
+    <li>Pregnant women </li>
+</ul>
+<p>Randomised trials, non-randomised trials, and observational studies (including diagnostic or prognostic studies) were included in the evidence reviews as appropriate. </p>
+<p>Conference abstracts were not automatically excluded from the review but were initially assessed against the inclusion criteria and further processed only if no other full publication was available for that review question, in which case the authors of the selected abstracts were contacted for further information. No relevant conference abstracts were identified for this guideline. Literature reviews, posters, letters, editorials, comment articles, unpublished studies and studies not in English were excluded. The clinical review protocols are presented in Appendix C. </p>
+<p><strong>Type of Studies</strong></p>
+<p>Randomised trials, non-randomised trials, and observational studies (including prognostic studies) were included in the evidence reviews as appropriate.</p>
+<p>Randomised controlled trials (RCTs) were not included within this guideline as no studies meeting the PICO were found. Non-randomised studies were found for the resting echocardiography, cardiopulmonary exercise testing (CPET) and polysomnography evidence reviews but none were presented as a combined meta-analysis. The GDG considered the quality of evidence and made recommendations on observational data where appropriate (for example resting echocardiography).</p>
+<p>Where comparative studies were absent or not considered to be of sufficient quality, prognostic reviews with RCTs, pooled analysis of patient level data, and retrospective cohort or prospective cohort studies were included. Case-control studies were excluded because of their high risk of recall bias. Recommendations for resting electrocardiography (ECG), glycated haemoglobin (HbA1c) and all tests included in the HTA 2012 report were informed by prognostic reviews.</p>
+<p><strong><span style="text-decoration: underline;">Evidence of Cost-effectiveness</span></strong></p>
+<p>The GDG is required to make decisions based on the best available evidence of both clinical and cost-effectiveness. Guideline recommendations should be based on the expected costs of the different options in relation to their expected health benefits (that is, their "cost-effectiveness") rather than the total implementation cost. Thus, if the evidence suggests that a strategy provides significant health benefits at an acceptable cost per patient treated, it should be recommended even if it would be expensive to implement across the whole population.</p>
+<p>Evidence on cost-effectiveness related to the key clinical issues being addressed in the guideline was sought. The health economist:</p>
+<ul style="list-style-type: disc;">
+    <li>Undertook a systematic review of the published economic literature </li>
+    <li>Undertook new cost-effectiveness analysis in priority areas </li>
+</ul>
+<p><strong>Literature Review </strong></p>
+<p>The health economist: </p>
+<ul style="list-style-type: disc;">
+    <li>Identified potentially relevant studies for each review question from the economic search results by reviewing titles and abstracts. Full papers were then obtained. </li>
+    <li>Reviewed full papers against pre-specified inclusion and exclusion criteria to identify relevant studies </li>
+</ul>
+<p><em>Inclusion and Exclusion Criteria </em></p>
+<p>Full economic evaluations (studies comparing costs and health consequences of alternative courses of action: cost&ndash;utility, cost-effectiveness, cost&ndash;benefit and cost&ndash;consequences analyses) and comparative costing studies that addressed the review question in the relevant population were considered potentially includable as economic evidence. </p>
+<p>Studies that only reported cost per hospital (not per patient), or only reported average cost-effectiveness without disaggregated costs and effects, were excluded. Literature reviews, abstracts, posters, letters, editorials, comment articles, unpublished studies and studies not in English were excluded. Studies published before 1999 and studies from non-Organisation for Economic Co-operation and Development (OECD) countries or the USA were also excluded, on the basis that the applicability of such studies to the present UK NHS context is likely to be too low for them to be helpful for decision-making. </p>
+<p>Remaining studies were prioritised for inclusion based on their relative applicability to the development of this guideline and the study limitations. For example, if a high quality, directly applicable UK analysis was available, then other less relevant studies may not have been included. Where exclusions occurred on this basis, this is noted in the relevant section. </p>
+<p>For more details about the assessment of applicability and methodological quality see Table 9 in the full version of the guideline and the economic evaluation checklist (Appendix G of the NICE guidelines manual 2012) and the health economics review protocol in Appendix D.</p>
+<p>When no relevant economic studies were found from the economic literature review, relevant UK National Health Service (NHS) unit costs related to the compared interventions were presented to the GDG to inform the possible economic implications of the recommendations.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>See Appendix E: Clinical Article Selection and F: Economic Article Selection (see the "Availability of Companion Documents" field) for detailed flow charts on the article selection process, including total number of records identified through database searching, records screened, records excluded, full-text articles assessed for eligibility, studies included in review, and studies excluded from review.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)</span></strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)">
+    <thead>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="col">Level</th>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="col">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">High</th>
+            <td valign="top">Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">Moderate</th>
+            <td valign="top">Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">Low</th>
+            <td valign="top">Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">Very Low</th>
+            <td valign="top">Any estimate of effect is very uncertain.</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Meta-Analysis</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the "Availability of Companion Documents" field for the full version of this guidance and related appendices.<strong></strong></p>
+<p><strong><span style="text-decoration: underline;">Evidence of Effectiveness</span></strong></p>
+<p>The tasks of the research fellow are listed below. The research fellow:</p>
+<ul style="list-style-type: disc;">
+    <li>Critically appraised relevant studies using the appropriate study design checklists as specified in The Guidelines Manual (see the "Availability of Companion Documents" field). </li>
+    <li>Critically appraised relevant studies with a prognostic study design using the NCGC checklist. </li>
+    <li>Extracted key information about interventional study methods and results using Evibase, NCGC purpose-built software. Evibase produces summary evidence tables, with critical appraisal ratings. Key information about non-interventional study methods and results were manually extracted onto standard evidence tables and critically appraised separately (see Appendix H for the clinical evidence tables). </li>
+    <li>Generated summaries of the evidence by outcome. Outcome data was combined, analysed and reported according to study design:
+    <ul style="list-style-type: disc;">
+        <li>Randomised data were meta-analysed where appropriate and reported in Grading of Recommendations Assessment, Development and Evaluation (GRADE) profiles. </li>
+        <li>Observational data were presented as a range of values in GRADE profiles. </li>
+        <li>Prognostic data were meta-analysed where appropriate and reported in GRADE profiles. </li>
+    </ul>
+    </li>
+    <li>A sample of a minimum of 20% of the abstract lists of the first three sifts by new reviewers were double sifted by a senior research fellow. As no papers were missed by any reviewers, no further double sifting was carried out. All of the evidence reviews were quality assured by a senior research fellow. This included checking:
+    <ul style="list-style-type: disc;">
+        <li>Papers were included or excluded appropriately </li>
+        <li>A sample of the data extractions </li>
+        <li>Correct methods were used to synthesise data </li>
+        <li>A sample of the risk of bias assessments </li>
+    </ul>
+    </li>
+</ul>
+<p><strong>Methods of Combining Clinical Studies </strong></p>
+<p><em>Data Synthesis for Intervention Reviews </em></p>
+<p>Where possible, meta-analyses were conducted to combine the data from the studies for each of the outcomes in the review question using RevMan5 software. </p>
+<p>All analyses were stratified by surgery grade, American Society of Anesthesiologists (ASA) grade (grades 1&ndash;4), and comorbidity (cardiovascular, respiratory, renal, obesity, diabetes) where reported, which meant that strata were not combined and analysed together.</p>
+<p><span style="text-decoration: underline;">Analysis of Different Types of Data </span></p>
+<p>See Section 4.6.3.1 of the full version of the guideline for details regarding analysis of different types of data including dichotomous outcomes, continuous outcomes, generic inverse variance, heterogeneity, and complex analysis/further analysis.</p>
+<p><em>Data Synthesis for Prognostic Factor Reviews </em></p>
+<p>A variety of prognostic effect measures were extracted from papers, depending on the type of outcome. </p>
+<p>For binary outcomes, odds ratios (ORs), risk ratios (RRs) or hazard ratios (HRs) (with their 95% confidence intervals) for the independent effect of each prognostic factors on the outcome were extracted. Beta coefficients for dichotomous outcomes were normally converted to an OR by taking the anti-natural logarithm of the beta coefficient (as beta coefficient = ln OR). </p>
+<p>For continuous outcomes the beta coefficients (or standardised beta coefficients) with their 95% confidence intervals for the independent effect of each prognostic factor were extracted. </p>
+<p>Randomized controlled trials (RCTs), pooled analysis of patient level data, and prospective or retrospective cohort studies were included.</p>
+<p>All non-RCT studies were required to have considered all key confounders previously identified by the Guideline Development Group (GDG) at the protocol stage for that outcome. For a key confounder to be regarded as having been adequately considered, it would have to have been included in the multivariable analysis (although in a step-wise model it would not necessarily have to be present in the final model) or would have to have been shown to be matched across risk factor or outcome groups at baseline. Moreover, the GDG identified several additional confounders for each prognostic protocol: these were desired and studies were not necessarily excluded if these were not adequately considered in final analysis. Univariate analysis was excluded from the final guideline. </p>
+<p>If more than one study covered the same combination of population, risk factor and outcome then meta-analysis was used to pool results. Meta-analysis was carried out using the generic inverse variance function on Review Manager using fixed effects. Heterogeneity was assessed using the same criteria as for intervention studies, with an <em>I&sup2;</em> of 50% to 74% representing serious inconsistency and an <em>I&sup2;</em> of &gt;75% representing very serious inconsistency. If serious or very serious heterogeneity existed, then subgrouping strategies were based on pre-specified subgrouping criteria as for interventional reviews. If subgrouping failed to explain heterogeneity, then the random effects model was used. </p>
+<p>Where evidence was not meta-analysed because studies differed in population, outcome or risk factors then no alternative pooling strategies were carried out, on the basis that such pooling would have little meaning. Results from single studies were presented. </p>
+<p>Studies of lower risk of bias were preferred, taking into account the analysis and the study design. In particular, prospective cohort studies were preferred if they reported multivariable analyses, which adjusted for the key confounders identified by the GDG at the protocol stage for that outcome. </p>
+<p><strong>Appraising the Quality of Evidence by Outcomes </strong></p>
+<p><em>Interventional Studies </em></p>
+<p>The evidence for outcomes from the included observational studies were evaluated and presented using an adaptation of the 'Grading of Recommendations Assessment, Development and Evaluation (GRADE) toolbox' developed by the international <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gradeworkinggroup.org" title="GRADE Working Group Web site">GRADE working group</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. The software (GRADEpro) developed by the GRADE working group was used to assess the quality of each outcome, taking into account individual study quality and the meta-analysis results. </p>
+<p>Each outcome was first examined for each of the quality elements listed and defined in Table 5 in the full version of the guideline.</p>
+<p>Details of how the four main quality elements (risk of bias, indirectness, inconsistency and imprecision) were appraised for each outcome and are detailed in Section 4.6.4.1 in the full version of the guideline. Publication or other bias was only taken into consideration in the quality assessment if it was apparent.</p>
+<p><span style="text-decoration: underline;">Overall Grading of the Quality of Clinical Evidence </span></p>
+<p>Once an outcome had been appraised for the main quality elements, as above, an overall quality grade was calculated for that outcome. The scores from each of the main quality elements (0, -1 or -2) were summed to give a score that could be anything from 0 (the best possible) to -8 (the worst possible). However, scores were capped at -3. This final score was then applied to the starting grade that had originally been applied to the outcome by default, based on study design. For example, all RCTs started as HIGH and the overall quality became MODERATE, LOW or VERY LOW if the overall score was -1, -2 or -3 points respectively. The significance of these overall ratings is explained in Table 7 in the full version of the guideline. The reasons or criteria used for downgrading were specified in the footnotes of the GRADE tables. </p>
+<p>On the other hand, observational interventional studies started at LOW, and so a score of -1 would be enough to take the grade to the lowest level of VERY LOW. Observational studies could, however, be upgraded if there was: a large magnitude of effect, a dose-response gradient, and if all plausible confounding would reduce a demonstrated effect.</p>
+<p><em>Prognostic Studies </em></p>
+<p>The quality of evidence for prognostic studies was evaluated according to the criteria given in Table 6 in the full version of the guideline. If data were meta-analysed the quality for pooled studies was presented. If the data was not pooled then a quality rating was presented for each study. A modified GRADE methodology was used for prognostic studies, considering risk of bias, indirectness, inconsistency and imprecision (defined in the full version of the guideline.)</p>
+<p><em>Risk of Bias </em></p>
+<p>The quality of evidence for prognostic studies was evaluated according to the criteria given in Table 8 in the full version of the guideline.</p>
+<p><strong>Assessing Clinical Importance </strong></p>
+<p>The GDG assessed the evidence by outcome in order to determine if there was, or potentially was, a clinically important benefit, a clinically important harm or no clinically important difference between interventions. To facilitate this, binary outcomes were converted into absolute risk differences (ARDs) using GRADEpro software: the median control group risk across studies was used to calculate the ARD and its 95% confidence interval from the pooled risk ratio. </p>
+<p>Quality rating started at HIGH for prospective studies, and each major limitation (see Table 6 in the full version of the guideline) brought the rating down by one increment to a minimum grade of LOW, as explained for interventional studies.</p>
+<p>This assessment was carried out by the GDG for each critical outcome, and an evidence summary table was produced to compile the GDG's assessments of clinical importance per outcome, alongside the evidence quality and the uncertainty in the effect estimate (imprecision).</p>
+<p><strong>Evidence Statements </strong></p>
+<p>Evidence statements are summary statements that are presented after the GRADE profiles, summarising the key features of the clinical effectiveness evidence presented. The wording of the evidence statements reflects the certainty or uncertainty in the estimate of effect. The evidence statements are presented by outcome and encompass the following key features of the evidence:</p>
+<ul style="list-style-type: disc;">
+    <li>The number of studies and the number of participants for a particular outcome </li>
+    <li>An indication of the direction of effect (if one treatment is beneficial or harmful compared to the other, or whether there is no difference between the 2 tested treatments) </li>
+    <li>A description of the overall quality of evidence (GRADE overall quality) </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Evidence of Cost-effectiveness</span></strong></p>
+<p>The GDG is required to make decisions based on the best available evidence of both clinical and cost-effectiveness. Guideline recommendations should be based on the expected costs of the different options in relation to their expected health benefits (that is, their "cost-effectiveness") rather than the total implementation cost. Thus, if the evidence suggests that a strategy provides significant health benefits at an acceptable cost per patient treated, it should be recommended even if it would be expensive to implement across the whole population.</p>
+<p>Evidence on cost-effectiveness related to the key clinical issues being addressed in the guideline was sought. The health economist:</p>
+<ul style="list-style-type: disc;">
+    <li>Undertook a systematic review of the published economic literature </li>
+    <li>Undertook new cost-effectiveness analysis in priority areas </li>
+</ul>
+<p><strong>Literature Review</strong></p>
+<p>The health economist:</p>
+<ul style="list-style-type: disc;">
+    <li>Critically appraised relevant studies using the economic evaluations checklist as specified in the NICE guidelines manual. </li>
+    <li>Generated summaries of the evidence in NICE economic evidence profiles (included in the relevant chapter for each review question) &ndash; see below for details. </li>
+</ul>
+<p><strong>NICE Economic Evidence Profiles </strong></p>
+<p>The NICE economic evidence profile has been used to summarise cost and cost-effectiveness estimates. The economic evidence profile shows an assessment of applicability and methodological quality for each economic evaluation, with footnotes indicating the reasons for the assessment. These assessments were made by the health economist using the economic evaluation checklist from the NICE guidelines manual. It also shows the incremental costs, incremental effects (for example, quality-adjusted life years [QALYs]) and incremental cost-effectiveness ratio for the base case analysis in the evaluation, as well as information about the assessment of uncertainty in the analysis. See Table 9 in the full version of the guideline for more details. If a non-UK study was included in the profile, the results were converted into pounds sterling using the appropriate purchasing power parity.</p>
+<p><strong>Undertaking New Health Economic Analysis</strong></p>
+<p>As well as reviewing the published economic literature for each review question, new economic analysis was planned to be undertaken by the health economist in selected areas. Priority areas for new health economic analysis were agreed by the GDG after formation of the review questions and consideration of the available health economic evidence.</p>
+<p>Given the lack of clinical evidence in other review areas, the GDG identified polysomnography as the highest priority area for original economic modelling. Initial scoping searches did not identify any studies assessing the cost-effectiveness of polysomnography in the preoperative setting. Given the cost of polysomnography and the high prevalence of obstructive sleep apnoea, the GDG felt that polysomnography could be assigned high priority for original economic modelling, subject to the results of the clinical review.</p>
+<p>However due to insufficient clinical and cost-effective evidence, original economic analysis was deemed unfeasible. In the absence of original economic analysis, unit costs of preoperative testing for polysomnography were presented to inform recommendations (see section 9.6 of the full version of the guideline).</p>
+<strong>Cost-effectiveness Criteria </strong>
+<p>NICE's report 'Social value judgements: principles for the development of NICE guidance' sets out the principles that GDGs should consider when judging whether an intervention offers good value for money. In general, an intervention was considered to be cost-effective if either of the following criteria applied (given that the estimate was considered plausible): </p>
+<ul style="list-style-type: disc;">
+    <li>The intervention dominated other relevant strategies (that is, it was both less costly in terms of resource use and more clinically effective compared with all the other relevant alternative strategies), or </li>
+    <li>The intervention cost less than &pound;20,000 per QALY gained compared with the next best strategy </li>
+</ul>
+<p>If the GDG recommended an intervention that was estimated to cost more than &pound;20,000 per QALY gained, or did not recommend one that was estimated to cost less than &pound;20,000 per QALY gained, the reasons for this decision are discussed explicitly in the 'Recommendations and link to evidence' section of the relevant chapter, with reference to issues regarding the plausibility of the estimate or to the factors set out in 'Social value judgements: principles for the development of NICE guidance'.</p>
+<p>If a study reported the cost per life year gained but not QALYs, the cost per QALY gained was estimated by multiplying by an appropriate utility estimate to aid interpretation. The estimated cost per QALY gained is reported in the economic evidence profile with a footnote detailing the life years gained and the utility value used. When QALYs or life years gained are not used in the analysis, results are difficult to interpret unless one strategy dominates the others with respect to every relevant health outcome and cost.</p>
+<p><strong>In the Absence of Economic Evidence </strong></p>
+<p>When no relevant published studies were found, and new economic analysis was not prioritised, the GDG made a qualitative judgement about cost-effectiveness by considering expected differences in resource use between options and relevant UK National Health Service (NHS) unit costs, alongside the results of the clinical effectiveness review. </p>
+<p>The UK NHS costs reported in the guideline are those that were presented to the GDG and were correct at the time recommendations were drafted. They may have changed subsequently before the time of publication. However, the GDG has no reason to believe they have changed substantially.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus (Delphi)</p>
+                    <p>Informal Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Clinical Guideline Centre (NCGC) on behalf of the National Institute for Health and Care Excellence (NICE). See the "Availability of Companion Documents" field for the full version of this guidance and related appendices.</p>
+<p><strong><span style="text-decoration: underline;">Who Developed This Guideline?</span></strong></p>
+<p>A multidisciplinary Guideline Development Group (GDG) comprising health professionals and lay members, supported by health service researchers from the NCGC, developed this guideline. </p>
+<p>NICE funds the NCGC and thus supported the development of this guideline. The GDG was convened by the NCGC in accordance with guidance from NICE. </p>
+<p>The group met every 6 weeks during the development of the guideline, except for a period of 3 months while the Delphi survey was conducted.</p>
+<p>Staff from the NCGC provided methodological support and guidance for the development process. The team working on the guideline included a project manager, systematic reviewers, health economists and information scientists. They undertook systematic searches of the literature, appraised the evidence, conducted meta-analysis and cost-effectiveness analysis where appropriate and drafted the guideline in collaboration with the GDG.</p>
+<p><strong><span style="text-decoration: underline;">Hierarchy of Evidence</span></strong></p>
+<p>In the absence of high quality evidence the GDG developed a pragmatic process by which to make recommendations: </p>
+<p>Order of preference for study designs: </p>
+<ul style="list-style-type: disc;">
+    <li>Systematic reviews of randomised controlled trials that meet the PICOs (patient, intervention, comparison, outcomes) </li>
+    <li>Randomized controlled trials (RCTs) </li>
+</ul>
+<p>Where no RCTs are available, the GDG will consider: </p>
+<ul style="list-style-type: disc;">
+    <li>Abstracts of RCTs </li>
+</ul>
+<p>Where no RCTs or abstracts of RCTs are available: </p>
+<ul style="list-style-type: disc;">
+    <li>Non-randomised trials: prospective or retrospective cohort studies </li>
+    <li>Non-blinded, single and double-blinded trials will be included </li>
+</ul>
+<p>Where no randomised or non-randomised evidence are available (when applicable): </p>
+<ul style="list-style-type: disc;">
+    <li>Prognostic evidence </li>
+</ul>
+<p>A formal consensus method and informal consensus and clinical experience of the GDG were used to inform all recommendations. The discussions are documented in the 'recommendations and link to evidence' section in each chapter in the full version of the guideline.</p>
+<p><strong><span style="text-decoration: underline;">Delphi Consensus Survey</span></strong></p>
+<p>In the absence of a strong evidence base and clear guidance for clinical practice, a formal Delphi consensus technique was used to provide the GDG with a basis for decision-making. </p>
+<p>The NCGC technical team, in partnership with the GDG, developed a survey based on the current recommendations made in the 2003 guideline, in order to reassess the consensus view amongst the relevant health professionals since 2003. The survey was a modified Delphi survey, which used an anonymous, multi-round, consensus-building technique. The results of the survey along with any economic evidence were considered by the GDG when drafting consensus-based recommendations for the updated guideline. The full methodology and results of the Delphi consensus survey are contained in Appendix L of the full version of the guideline.</p>
+<p><strong><span style="text-decoration: underline;">Developing Recommendations</span></strong></p>
+<p>Over the course of the guideline development process, the GDG was presented with: </p>
+<ul style="list-style-type: disc;">
+    <li>Evidence tables of the clinical and economic evidence reviewed from the literature. All evidence tables are in Appendix H. </li>
+    <li>Summaries of clinical and economic evidence and quality (as presented in Chapters 5&ndash;17 in the full version of the guideline) </li>
+    <li>Forest plots (Appendix J) </li>
+    <li>A description of the methods of the cost-effectiveness analysis undertaken for the guideline (Appendix M) </li>
+    <li>Results of the modified Delphi consensus survey (Appendix L) </li>
+</ul>
+<p>Recommendations were drafted on the basis of the GDG's interpretation of the available evidence, taking into account the balance of benefits, harms and costs between different courses of action. This was either done formally in an economic model, or informally. Firstly, the net benefit over harm (clinical effectiveness) was considered, focusing on the critical outcomes. When this was done informally, the GDG took into account the clinical benefits and harms when one intervention was compared with another. The assessment of net benefit was moderated by the importance placed on the outcomes (the GDG's values and preferences), and the confidence the GDG had in the evidence (evidence quality). Secondly, whether the net benefit justified any differences in costs was assessed. </p>
+<p>When clinical and economic evidence was of poor quality, conflicting or absent, the GDG drafted recommendations based on their expert opinion. The considerations for making consensus-based recommendations include the balance between potential harms and benefits, the economic costs compared to the economic benefits, current practices, recommendations made in other relevant guidelines, patient preferences and equality issues. The consensus recommendations were agreed through discussions in the GDG meeting. The results of the modified Delphi consensus survey were considered alongside any evidence where available, and informed the GDG in their decision making when drafting recommendations. The GDG also considered whether the uncertainty was sufficient to justify delaying making a recommendation to await further research, taking into account the potential harm of failing to make a clear recommendation. </p>
+<p>The GDG considered the 'strength' of recommendations. This takes into account the quality of the evidence but is conceptually different. Some recommendations are 'strong' in that the GDG believes that the vast majority of healthcare and other professionals and patients would choose a particular intervention if they considered the evidence in the same way that the GDG has. This is generally the case if the benefits clearly outweigh the harms for most people and the intervention is likely to be cost effective. However, there is often a closer balance between benefits and harms, and some patients would not choose an intervention whereas others would. This may happen, for example, if some patients are particularly averse to some side effects and others are not. In these circumstances the recommendation is generally weaker, although it may be possible to make stronger recommendations about specific groups of patients.</p>
+<p>The GDG focused on the following factors in agreeing the wording of the recommendations:</p>
+<ul style="list-style-type: disc;">
+    <li>The actions health professionals need to take </li>
+    <li>The information readers need to know </li>
+    <li>The strength of the recommendation (for example the word 'offer' was used for strong recommendations and 'consider' for weaker recommendations) </li>
+    <li>The involvement of patients (and their carers if needed) in decisions on treatment and care </li>
+    <li>Consistency with NICE's standard advice on recommendations about drugs, waiting times and ineffective interventions </li>
+</ul>
+<p>The main considerations specific to each recommendation are outlined in the 'Recommendations and link to evidence' sections within each chapter of the full version of the guideline. </p>
+<p>For certain areas (for example resting echocardiogram [ECG]) the GDG used a traffic light system to show the degree of consensus reached by the GDG (see Table 10 in the full version of the guideline).</p>
+<p>The American Society of Anesthesiologists (ASA) Physical Status Classification System was used when developing recommendations to describe fitness to undergo an anaesthetic. </p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Strength of Recommendation</span></strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation). </p>
+<p><strong>Interventions That Must (or Must Not) Be Used </strong></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally the GDG uses 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening. </p>
+<p><strong>Interventions That Should (or Should Not) Be Used &ndash; a 'Strong' Recommendation </strong></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients. </p>
+<p><strong>Interventions That Could Be Used </strong></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient. </p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>See the Economic Evidence sections for each review question in the full version of the guideline (see the "Availability of Companion Documents" field).</p>
+<p>See also Appendix M: Economic Considerations in the full guideline appendices (see the "Availability of Companion Documents" field). Unit costs of tests are provided for consideration alongside the Delphi survey results.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p><span style="text-decoration: underline;"><strong>Validation Process</strong></span></p>
+<p>This guideline is subject to a 6-week public consultation and feedback as part of the quality assurance and peer review of the document. All comments received from registered stakeholders are responded to in turn and posted on the National Institute for Health and Care Excellence (NICE) Web site.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of evidence supporting the recommendations is not specifically stated.</p>
+<p>See the "Type of Studies" section in the "Description of Methods Used to Collect/Select the Evidence" field for information on the type of studies used to formulate the recommendations.</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Reduced unnecessary testing, thereby reducing anxiety, delays in treatment and unnecessary, costly and possibly harmful treatments </li>
+    <li>Preoperative tests provide a benefit where they yield additional information that cannot be obtained from a patient history and physical examination alone, and also where they:
+    <ul style="list-style-type: disc;">
+        <li>Help to assess the risk to the patient and inform discussions about the risks and benefits of surgery </li>
+        <li>Allow the patient's clinical management to be altered, if necessary, in order to reduce possible harm or increase the benefit of surgery </li>
+        <li>Help to predict postoperative complications </li>
+        <li>Establish a baseline measurement for later reference where potentially abnormal postoperative test results cannot be adequately interpreted in isolation </li>
+    </ul>
+    </li>
+</ul>
+<p>Refer to the "Trade-off between clinical benefits and harms" sections in the full version of the guideline (see the "Availability of Companion Documents" field) for details about benefits of specific preoperative tests.</p></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>There were some concerns among the Guideline Development Group (GDG) that performing a preoperative resting echocardiogram (ECG) in asymptomatic patients could lead to detection of abnormalities with unknown clinical significance. This could potentially lead to further investigations and treatment that might have risks and could delay surgery unnecessarily. </li>
+    <li>The GDG were concerned that incorrect assessments may be made regarding the risk of surgery based on the outcome of cardiopulmonary exercise testing (CPET), in particular when there is no strong evidence to support such assessments. CPET is considered a safe test, with the risks the same as for mild-moderate exercise. Major adverse events including death, myocardial infarction, arrhythmia, haemodynamic instability and orthopaedic injury are reported in study populations at a rate of &lt;1 to 5 per 10,000 tests. </li>
+    <li>If surgery is delayed in order to optimise control of the patient's diabetes, there is a need to consider any potential consequences of delaying surgery. It is also important to note that there is no guarantee that every patient will achieve improved diabetic control during this delay. </li>
+    <li>False-positive or false-negative results of pregnancy tests</li>
+</ul>
+<p>Refer to the "Trade-off between clinical benefits and harms" sections in the full version of the guideline (see the "Availability of Companion Documents" field) for details about harms of specific preoperative tests.</p></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>The recommendations in this guideline represent the view of the National Institute for Health and Care Excellence (NICE), arrived at after careful consideration of the evidence available. When exercising their judgement, professionals are expected to take this guideline fully into account, alongside the individual needs, preferences and values of their patients or service users. The application of the recommendations in this guideline are not mandatory and the guideline does not override the responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or their carer or guardian. </li>
+    <li>Local commissioners and/or providers have a responsibility to enable the guideline to be applied when individual health professionals and their patients or service users wish to use it. They should do so in the context of local and national priorities for funding and developing services, and in light of their duties to have due regard to the need to eliminate unlawful discrimination, to advance equality of opportunity and to reduce health inequalities. Nothing in this guideline should be interpreted in a way that would be inconsistent with compliance with those duties. </li>
+    <li>Healthcare providers need to use clinical judgement, knowledge and expertise when deciding whether it is appropriate to apply guidelines. The recommendations cited here are a guide and may not be appropriate for use in all situations. The decision to adopt any of the recommendations cited here must be made by practitioners in light of individual patient circumstances, the wishes of the patient, clinical expertise and resources. </li>
+    <li>The National Clinical Guideline Centre (NCGC) disclaims any responsibility for damages arising out of the use or non-use of this guideline and the literature used in support of this guideline. </li>
+</ul>
+<p><span style="text-decoration: underline;"><strong>Issues with Guideline Development</strong></span></p>
+<p>The GDG noted that the guideline population was large and cross-cutting, and that the recommendations only provide guidance for routine preoperative assessment. Specific clinical conditions were not considered and all recommendations must be interpreted with appropriate clinical experience. The GDG also anticipated a lack of high quality clinical evidence (randomised controlled trials [RCTs] or sufficiently large cohort studies) to inform the recommendations, and therefore decided to use prognostic data and formal consensus methods to identify areas of agreement on which to base recommendations.</p></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Putting this Guideline into Practice</span> </strong></p>
+<p>The National Institute for Health and Care Excellence (NICE) has produced <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fng45%2fresources" title="National Institute for Health and Care Excellence (NICE) Web site">tools and resources</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> to help you put this guideline into practice (see also the "Availability of Companion Documents" field). </p>
+<p>Putting recommendations into practice can take time. How long may vary from guideline to guideline, and depends on how much change in practice or services is needed. Implementing change is most effective when aligned with local priorities. </p>
+<p>Changes recommended for clinical practice that can be done quickly &ndash; like changes in prescribing practice &ndash; should be shared quickly. This is because healthcare professionals should use guidelines to guide their work &ndash; as is required by professional regulating bodies such as the General Medical and Nursing and Midwifery Councils. </p>
+<p>Changes should be implemented as soon as possible, unless there is a good reason for not doing so (for example, if it would be better value for money if a package of recommendations were all implemented at once). </p>
+<p>Different organisations may need different approaches to implementation, depending on their size and function. Sometimes individual practitioners may be able to respond to recommendations to improve their practice more quickly than large organisations. </p>
+<p>Here are some pointers to help organisations put NICE guidelines into practice: </p>
+<ol style="list-style-type: decimal;" start="1">
+    <li><strong>Raise awareness</strong> through routine communication channels, such as email or newsletters, regular meetings, internal staff briefings and other communications with all relevant partner organisations. Identify things staff can include in their own practice straight away. </li>
+    <li><strong>Identify a lead</strong> with an interest in the topic to champion the guideline and motivate others to support its use and make service changes, and to find out any significant issues locally. </li>
+    <li><strong>Carry out a baseline assessment</strong> against the recommendations to find out whether there are gaps in current service provision. </li>
+    <li><strong>Think about what data you need to measure improvement</strong> and plan how you will collect it. You may want to work with other health and social care organisations and specialist groups to compare current practice with the recommendations. This may also help identify local issues that will slow or prevent implementation. </li>
+    <li><strong>Develop an action plan</strong>, with the steps needed to put the guideline into practice, and make sure it is ready as soon as possible. Big, complex changes may take longer to implement, but some may be quick and easy to do. An action plan will help in both cases. </li>
+    <li><strong>For very big changes</strong> include milestones and a business case, which will set out additional costs, savings and possible areas for disinvestment. A small project group could develop the action plan. The group might include the guideline champion, a senior organisational sponsor, staff involved in the associated services, finance and information professionals. </li>
+    <li><strong>Implement the action plan</strong> with oversight from the lead and the project group. Big projects may also need project management support. </li>
+    <li><strong>Review and monitor</strong> how well the guideline is being implemented through the project group. Share progress with those involved in making improvements, as well as relevant boards and local partners. </li>
+</ol>
+<p>NICE provides a comprehensive programme of support and resources to maximise uptake and use of evidence and guidance. See the <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fabout%2fwhat-we-do%2finto-practice" title="NICE Into Practice Web site">into practice</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> pages for more information. </p>
+<p>Also see Leng G, Moore V, Abraham S, editors (2014) Achieving high quality care &ndash; practical experience from NICE. Chichester: Wiley. </p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Clinical Algorithm</p>
+                    <p>Foreign Language Translations</p>
+                    <p>Mobile Device Resources</p>
+                    <p>Patient Resources</p>
+                    <p>Resources</p>
+                    <p>Wall Poster</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td> National Clinical Guideline Centre . Routine preoperative tests for elective surgery. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr 5. 16 p.&nbsp;(NICE guideline; no. 45).&nbsp;</td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2016 Apr 5</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>National Guideline Centre - National Government Agency [Non-U.S.]</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>The National Clinical Guideline Centre (NCGC) was commissioned by the National Institute for Health and Care Excellence (NICE) to undertake the work on this guideline.</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Guideline Development Group (GDG)</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Guideline Development Group (GDG) Members</em>: Ian Smith (<em>Chair</em>), Senior Lecturer in Anaesthesia, Keele University, Consultant Anaesthetist, University Hospitals of North Midlands; Liz Clark, Patient member; Martin Crook, Consultant in Clinical Biochemistry and Metabolic Medicine, Guy's and St Thomas' Hospital Foundation Trust and Lewisham and Greenwich NHS Trust, Visiting Professor University of Greenwich and Trinity Dublin; Jugdeep Dhesi, Consultant Physician in Geriatrics and General Internal Medicine &amp; Clinical Lead Proactive Care for Older People undergoing Surgery (POPS), Guy's and St Thomas' Hospital Foundation Trust; Luke Howard, Consultant Respiratory Physician, Hammersmith Hospital, Imperial College Healthcare NHS Trust; Nicholas Levy, Consultant Anaesthetist, West Suffolk Hospital; Audrai Morgan, Pre-Assessment Lead Nurse, BMI The Clementine Churchill Hospital; Hasan Mukhtar, Consultant General and Colorectal Surgeon &amp; Honorary Senior Lecturer, Whittington Health; Burra Murthy, Consultant Anaesthetist, Royal Liverpool and Broadgreen University Hospital, Honorary Professor of Anaesthesia, Liverpool John Moores University; Amanda Perrill, Ward Sister, Royal Berkshire NHS Foundation Trust; Marco Scarci, Consultant Thoracic Surgeon, Papworth Hospital; Ann Seymour, Patient member</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>At the start of the guideline development process all Guideline Development Group (GDG) members declared interests including consultancies, fee-paid work, share-holdings, fellowships and support from the healthcare industry. At all subsequent GDG meetings, members declared arising conflicts of interest. Members were either required to withdraw completely or for part of the discussion if their declared interest made it appropriate. The details of declared interests and the actions taken are shown in Appendix B of the full version of the guideline (see the "Availability of Companion Documents" field)</p>
+<p>The May 2007 version (as updated October 2008) of the National Institute for Health and Care Excellence (NICE) code of practice for declaring and dealing with conflicts of interest policy was applied to this guideline.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: National Collaborating Centre for Acute Care. Preoperative tests: the use of routine preoperative tests for elective surgery: evidence, methods &amp; guidance. London (UK): National Institute for Clinical Excellence (NICE); 2003 Jun. 108 p. [118 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fng45" title="NICE Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. Also available for download in ePub or eBook formats from the <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fng45" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Routine preoperative tests for elective surgery. Full guideline. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr. 206 p. (NICE guideline; no. 45). Available from the <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fng45%2fevidence%2ffull-guideline-87258149468" title="NICE Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Routine preoperative tests for elective surgery. Appendices. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr. (NICE guideline; no. 45). Available from the <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fng45%2fevidence" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Routine preoperative tests for elective surgery. Baseline assessment tool. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr. (NICE guideline; no. 45). Available from the <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fng45%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Routine preoperative tests for elective surgery. Costing statement. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr. 1 p. (NICE guideline; no. 45). Available from the <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fng45%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Routine preoperative tests for elective surgery. Colour poster. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr. 2 p. (NICE guideline; no. 45). Available from the <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fng45%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>The guidelines manual 2012. London (UK): National Institute for Health and Care Excellence (NICE); 2012 Nov. Available from the <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fprocess%2fpmg6%2fchapter%2f1-introduction" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Developing NICE guidelines: the manual 2014. London (UK): National Institute for Health and Care Excellence; 2014 Oct. Available from the <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fprocess%2fpmg20%2fchapter%2f1-introduction-and-overview" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>The following is available:</p>
+<ul style="list-style-type: disc;">
+    <li>Tests before surgery. Information for the public. London (UK): National Institute for Health and Care Excellence (NICE); 2016 Apr. 7 p. Available in <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fNG45%2fifp%2fchapter%2fAbout-this-information" title="NICE Web site">English</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> and <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fng45%2fresources%2fgwybodaeth-ir-cyhoedd-welsh-2553162733" title="NICE Web site">Welsh</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> from the National Institute for Health and Care Excellence (NICE) Web site. Also available for download in ePub or eBook formats from the <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fNG45%2fifp%2fchapter%2fAbout-this-information" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p class="Note">Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of National Guideline Clearinghouse (NGC) to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI on January 6, 2005. The information was verified by the guideline developer on June 1, 2005. This summary was updated by ECRI Institute on August 12, 2016.</p>
+<p>The National Institute for Health and Care Excellence (NICE) has granted the National Guideline Clearinghouse (NGC) permission to include summaries of their clinical guidelines with the intention of disseminating and facilitating the implementation of that guidance. NICE has not yet verified this content to confirm that it accurately reflects that original NICE guidance and therefore no guarantees are given by NICE in this regard. All NICE clinical guidelines are prepared in relation to the National Health Service in England and Wales. NICE has not been involved in the development or adaptation of NICE guidance for use in any other country. The full versions of all NICE guidance can be found at <a href="/web/20180712205534/https://www.guideline.gov/Home/Disclaimer?id=50177&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk" title="NICE Web site">www.nice.org.uk</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205534im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712205534/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712205534/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712205534/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712205534/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712205534/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712205534/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712205534/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205534/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205534/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205534/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205534/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205534/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712205534/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712205534/https://www.guideline.gov/disclaimer?id=50177&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712205534im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712205534im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712205534/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712205534/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712205534/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712205534/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712205534/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712205534/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712205534/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712205534/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712205534/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712205534/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712205534/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712205534/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712205534/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712205534/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712205534/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712205534/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712205534/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712205534/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712205534/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712205534im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712205534im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712205534/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712205534im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712205534im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712205534/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712205534js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712205534js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:55:34 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:47:58 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 1105.526 (3)
+  esindex: 0.011
+  captures_list: 1125.957
+  CDXLines.iter: 14.97 (3)
+  PetaboxLoader3.datanode: 90.362 (4)
+  exclusion.robots: 0.258
+  exclusion.robots.policy: 0.239
+  RedisCDXSource: 1.712
+  load_resource: 22.269
+-->

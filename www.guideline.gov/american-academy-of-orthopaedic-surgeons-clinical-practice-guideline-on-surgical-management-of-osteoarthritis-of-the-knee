@@ -1,0 +1,1376 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app23.us.archive.org';v.server_ms=313;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>American Academy of Orthopaedic Surgeons clinical practice guideline on surgical management of osteoarthritis of the knee. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712203906im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712203906im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712203906im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712203906im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712203906/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712203906im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712203906cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712203906js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712203906if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712203906/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712203906if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712203906/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712203906/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712203906/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712203906/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712203906im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712203906im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712203906im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712203906/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712203906/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712203906/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712203906/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712203906/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712203906/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712203906/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712203906/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712203906/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712203906/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712203906/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712203906/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712203906/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712203906/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712203906/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712203906/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712203906/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712203906/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712203906/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712203906/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712203906/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010859</li>
+            <li>2015 Dec 4
+            </li>            
+                                </ul>
+        <div>
+                <h1>American Academy of Orthopaedic Surgeons clinical practice guideline on surgical management of osteoarthritis of the knee.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712203906/https://www.guideline.gov/search?f_Guideline_Developer_String=American%20Academy%20of%20Orthopaedic%20Surgeons&amp;fLockTerm=American%2BAcademy%2Bof%2BOrthopaedic%2BSurgeons">American Academy of Orthopaedic Surgeons</a></li>
+                        <li>   
+                                <a id="42" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>American Academy of Orthopaedic Surgeons (AAOS). American Academy of Orthopaedic Surgeons clinical practice guideline on surgical management of osteoarthritis of the knee. Rosemont (IL): American Academy of Orthopaedic Surgeons (AAOS); 2015 Dec 4. 657 p.  [230 references]</td></tr></table>                    <p><a href="/web/20180712203906/https://www.guideline.gov/Home/Disclaimer?id=49934&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.aaos.org%252fuploadedFiles%252fPreProduction%252fQuality%252fGuidelines_and_Reviews%252fSMOAK%252520CPG__12.4.15.pdf">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203906im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712203906/https://www.guideline.gov/search?f_Age_of_Target_Population=Adolescent%20%2813%20to%2018%20years%29&amp;fLockTerm=Adolescent%2B%2813%2Bto%2B18%2Byears%29">Adolescent (13 to 18 years)</a></li>                      
+                        <li><a href="/web/20180712203906/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712203906/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712203906/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712203906/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712203906/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712203906/https://www.guideline.gov/search?f_ICD9CM_CUI=C0157965&amp;fLockTerm=Osteoarthrosis%2c+unspecified+whether+generalized+or+localized%2c+lower+leg">Osteoarthrosis, unspecified whether generalized or localized, lower leg</a>
+ (715.96), <a href="/web/20180712203906/https://www.guideline.gov/search?f_ICD9CM_CUI=C0086511&amp;fLockTerm=Total+knee+replacement">Total knee replacement</a>
+ (81.54)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0002913&amp;fLockTerm=Anesthesia%2c+Epidural">Anesthesia, Epidural</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0002921&amp;fLockTerm=Anesthesia%2c+Local">Anesthesia, Local</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0086511&amp;fLockTerm=Arthroplasty%2c+Replacement%2c+Knee">Arthroplasty, Replacement, Knee</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0079027&amp;fLockTerm=Blood+Loss%2c+Surgical">Blood Loss, Surgical</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0005934&amp;fLockTerm=Bone+Cements">Bone Cements</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0013457&amp;fLockTerm=Early+Ambulation">Early Ambulation</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0452240&amp;fLockTerm=Exercise+Therapy">Exercise Therapy</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0022748&amp;fLockTerm=Knee+Prosthesis">Knee Prosthesis</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0600577&amp;fLockTerm=Manipulation%2c+Chiropractic">Manipulation, Chiropractic</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0027741&amp;fLockTerm=Nerve+Block">Nerve Block</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0409959&amp;fLockTerm=Osteoarthritis%2c+Knee">Osteoarthritis, Knee</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0029468&amp;fLockTerm=Osteotomy">Osteotomy</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0949766&amp;fLockTerm=Physical+Therapy+Modalities">Physical Therapy Modalities</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0033061&amp;fLockTerm=Preoperative+Care">Preoperative Care</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0035648&amp;fLockTerm=Risk+Factors">Risk Factors</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0040519&amp;fLockTerm=Tourniquets">Tourniquets</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0040613&amp;fLockTerm=Tranexamic+Acid">Tranexamic Acid</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MSH_CUI=C0042487&amp;fLockTerm=Venous+Thrombosis">Venous Thrombosis</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712203906/https://www.guideline.gov/search?f_MTH_CUI=C0600577&amp;fLockTerm=Chiropractic+manipulation">Chiropractic manipulation</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MTH_CUI=C0149871&amp;fLockTerm=Deep+Vein+Thrombosis">Deep Vein Thrombosis</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MTH_CUI=C0002913&amp;fLockTerm=Epidural+Anesthesia">Epidural Anesthesia</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MTH_CUI=C0022748&amp;fLockTerm=Knee+joint+prosthesis+(device)">Knee joint prosthesis (device)</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MTH_CUI=C0086511&amp;fLockTerm=Knee+Replacement+Arthroplasty+(procedure)">Knee Replacement Arthroplasty (procedure)</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MTH_CUI=C0002921&amp;fLockTerm=Local+anesthesia">Local anesthesia</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MTH_CUI=C0498269&amp;fLockTerm=Manipulation+under+anesthesia">Manipulation under anesthesia</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MTH_CUI=C0409959&amp;fLockTerm=Osteoarthritis%2c+Knee">Osteoarthritis, Knee</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MTH_CUI=C0029468&amp;fLockTerm=Osteotomy">Osteotomy</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MTH_CUI=C0949766&amp;fLockTerm=Physical+therapy">Physical therapy</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MTH_CUI=C0452240&amp;fLockTerm=Physical+therapy+exercises">Physical therapy exercises</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MTH_CUI=C0035648&amp;fLockTerm=risk+factors">risk factors</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_MTH_CUI=C0042487&amp;fLockTerm=Venous+Thrombosis">Venous Thrombosis</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712203906/https://www.guideline.gov/search?f_PDQ_CUI=C0949766&amp;fLockTerm=physiotherapy">physiotherapy</a>
+, <a href="/web/20180712203906/https://www.guideline.gov/search?f_PDQ_CUI=C0040613&amp;fLockTerm=tranexamic+acid">tranexamic acid</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0086511&amp;fLockTerm=Arthroplasty+of+knee">Arthroplasty of knee</a>
+ (19063003), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0086511&amp;fLockTerm=Arthroplasty+of+knee">Arthroplasty of knee</a>
+ (609588000), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0585707&amp;fLockTerm=Arthroplasty+of+knee+using+cement">Arthroplasty of knee using cement</a>
+ (307817008), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0585719&amp;fLockTerm=Arthroplasty+of+knee+without+cement">Arthroplasty of knee without cement</a>
+ (307819006), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0005934&amp;fLockTerm=Bone+cement">Bone cement</a>
+ (356497001), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0005934&amp;fLockTerm=Bone+cement">Bone cement</a>
+ (6043006), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0600577&amp;fLockTerm=Chiropractic+manipulation">Chiropractic manipulation</a>
+ (46947000), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0149871&amp;fLockTerm=Deep+venous+thrombosis">Deep venous thrombosis</a>
+ (128053003), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002913&amp;fLockTerm=Epidural+anesthesia">Epidural anesthesia</a>
+ (18946005), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0079027&amp;fLockTerm=Intraoperative+hemorrhage">Intraoperative hemorrhage</a>
+ (213261000), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0022748&amp;fLockTerm=Knee+joint+prosthesis">Knee joint prosthesis</a>
+ (109228008), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002921&amp;fLockTerm=Local+anesthesia">Local anesthesia</a>
+ (386761002), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0498269&amp;fLockTerm=Manipulation+under+anesthesia">Manipulation under anesthesia</a>
+ (274470005), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0027741&amp;fLockTerm=Nerve+block">Nerve block</a>
+ (56333001), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0027741&amp;fLockTerm=Nerve+block">Nerve block</a>
+ (64874008), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0409959&amp;fLockTerm=Osteoarthritis+of+knee">Osteoarthritis of knee</a>
+ (239873007), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0029468&amp;fLockTerm=Osteotomy">Osteotomy</a>
+ (150062003), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0029468&amp;fLockTerm=Osteotomy">Osteotomy</a>
+ (299713009), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0029468&amp;fLockTerm=Osteotomy">Osteotomy</a>
+ (79881004), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0949766&amp;fLockTerm=Physical+therapy+procedure">Physical therapy procedure</a>
+ (91251008), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0033061&amp;fLockTerm=Preoperative+care">Preoperative care</a>
+ (133898004), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0408429&amp;fLockTerm=Resurfacing+of+the+patella">Resurfacing of the patella</a>
+ (239503002), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0035648&amp;fLockTerm=Risk+factor">Risk factor</a>
+ (80943009), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0452240&amp;fLockTerm=Therapeutic+exercise">Therapeutic exercise</a>
+ (226029000), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0452240&amp;fLockTerm=Therapeutic+exercise">Therapeutic exercise</a>
+ (229065009), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0452240&amp;fLockTerm=Therapeutic+exercise">Therapeutic exercise</a>
+ (51998003), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040519&amp;fLockTerm=Tourniquet">Tourniquet</a>
+ (38141007), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040613&amp;fLockTerm=Tranexamic+acid">Tranexamic acid</a>
+ (109006003), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040613&amp;fLockTerm=Tranexamic+acid">Tranexamic acid</a>
+ (386960009), <a href="/web/20180712203906/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0042487&amp;fLockTerm=Venous+thrombosis">Venous thrombosis</a>
+ (111293003)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SPN</h5>
+                    <div class="field-content">
+<a href="/web/20180712203906/https://www.guideline.gov/search?f_SPN_CUI=C0005934&amp;fLockTerm=BONE+CEMENT">BONE CEMENT</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712203906/https://www.guideline.gov/search?f_UMD_CUI=C0005934&amp;fLockTerm=Orthopedic+Cement">Orthopedic Cement</a>
+ (12-830), <a href="/web/20180712203906/https://www.guideline.gov/search?f_UMD_CUI=C0022748&amp;fLockTerm=Prostheses%2c+Joint%2c+Knee">Prostheses, Joint, Knee</a>
+ (16-072), <a href="/web/20180712203906/https://www.guideline.gov/search?f_UMD_CUI=C0040519&amp;fLockTerm=Tourniquets">Tourniquets</a>
+ (14-072)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#430" class="section-mark">Contraindications</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712203906/https://www.guideline.gov/summaries/downloadcontent/ngc-10859?contentType=pdf" class="pdf">.PDF 148.0 kb</a></li>
+                            <li><a href="/web/20180712203906/https://www.guideline.gov/summaries/downloadcontent/ngc-10859?contentType=word" class="word">Word Document 353.6 kb</a></li>
+                            <li><a href="/web/20180712203906/https://www.guideline.gov/summaries/downloadcontent/ngc-10859?contentType=xml" class="xml">.XML 95.0 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203906/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/49934/american-academy-of-orthopaedic-surgeons-clinical-practice-guideline-on-surgical-management-of-osteoarthritis-of-the-knee" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203906/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/49934/american-academy-of-orthopaedic-surgeons-clinical-practice-guideline-on-surgical-management-of-osteoarthritis-of-the-knee" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203906/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/49934/american-academy-of-orthopaedic-surgeons-clinical-practice-guideline-on-surgical-management-of-osteoarthritis-of-the-knee&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712203906/mailto:/?Subject=AHRQ: American Academy of Orthopaedic Surgeons clinical practice guideline on surgical management of osteoarthritis of the knee.&amp;body=https://www.guideline.gov/summaries/summary/49934/american-academy-of-orthopaedic-surgeons-clinical-practice-guideline-on-surgical-management-of-osteoarthritis-of-the-knee" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: American Academy of Orthopaedic Surgeons clinical practice guideline on surgical management of osteoarthritis of the knee. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Dec 04. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712203906/https://www.guideline.gov/summaries/citedownload/49934?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712203906/https://www.guideline.gov/summaries/citedownload/49934?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712203906/https://www.guideline.gov/summaries/citedownload/49934?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712203906/https://www.guideline.gov/summaries/citedownload/49934?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712203906/https://www.guideline.gov/summaries/citedownload/49934?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712203906/https://www.guideline.gov/summaries/citedownload/49934">RefWorks</a></li>
+                            <li><a href="/web/20180712203906/https://www.guideline.gov/summaries/citedownload/49934?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="49934" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>Definitions of the strength of recommendations (<strong>Strong</strong>, <strong>Moderate</strong>, <strong>Limited</strong>, and <strong>Consensus</strong>) and Strength Visual (★★★★, ★★★, ★★, ★) are provided at the end of the "Major Recommendations" field.</p>
+<p><strong>Note from the American Academy of Orthopaedic Surgeons (AAOS)</strong>: The following is a summary of the recommendations of the AAOS Clinical Practice Guideline on the Surgical Management of Osteoarthritis of the Knee. All readers of this summary are strongly urged to consult the full guideline and evidence report for this information. The AAOS work group is confident that those who read the full guideline and evidence report will see that the recommendations were developed using systematic evidence-based processes designed to combat bias, enhance transparency, and promote reproducibility.</p>
+<p>This summary of recommendations is not intended to stand alone. Treatment decisions should be made in light of all circumstances presented by the patient. Treatments and procedures applicable to the individual patient rely on mutual communication between patient, physician, and other healthcare practitioners.</p>
+<p><strong><span style="text-decoration: underline;">Body Mass Index (BMI) as a Risk Factor</span></strong></p>
+<p>Strong evidence supports that obese patients have less improvement in outcomes with total knee arthroplasty (TKA). <strong>Strength of Recommendation: Strong Evidence</strong> ★★★★</p>
+<p><strong><span style="text-decoration: underline;">Diabetes as a Risk Factor</span></strong></p>
+<p>Moderate evidence supports that patients with diabetes are at higher risk for complications with TKA. <strong>Strength of Recommendation: Moderate Evidence</strong> ★★★</p>
+<p><strong><span style="text-decoration: underline;">Chronic Pain as a Risk Factor</span></strong></p>
+<p>Moderate evidence supports that patients with select chronic pain conditions have less improvement in patient reported outcomes with TKA. <strong>Strength of Recommendation: Moderate Evidence</strong> ★★★</p>
+<p><strong><span style="text-decoration: underline;">Depression/Anxiety as a Risk Factor</span></strong></p>
+<p>Limited evidence supports that patients with depression and/or anxiety symptoms have less improvement in patient reported outcomes with TKA. <strong>Strength of Recommendation: Limited Evidence</strong> ★★</p>
+<p><strong><span style="text-decoration: underline;">Cirrhosis/Hepatitis C as a Risk Factor</span></strong></p>
+<p>Limited evidence supports that patients with cirrhosis or hepatitis C are at higher risk for complications with TKA. <strong>Strength of Recommendation: Limited Evidence</strong> ★★</p>
+<p><strong><span style="text-decoration: underline;">Preoperative Physical Therapy</span></strong></p>
+<p>Limited evidence supports that supervised exercise before TKA might improve pain and physical function after surgery. <strong>Strength of Recommendation: Limited Evidence</strong> ★★</p>
+<p><strong><span style="text-decoration: underline;">Delay TKA</span></strong></p>
+<p>Moderate evidence supports that an eight month delay to TKA does not worsen outcomes. <strong>Strength of Recommendation: Moderate Evidence</strong> ★★★</p>
+<p><strong><span style="text-decoration: underline;">Periarticular Local Anesthetic Infiltration</span></strong></p>
+<p>Strong evidence supports the use of peri-articular local anesthetic infiltration compared to placebo in TKA to decrease pain and opioid use. <strong>Strength of Recommendation: Strong Evidence</strong> ★★★★</p>
+<p><strong><span style="text-decoration: underline;">Peripheral Nerve Blockade</span></strong></p>
+<p>Strong evidence supports that peripheral nerve blockade for TKA decreases postoperative pain and opioid requirements. <strong>Strength of Recommendation: Strong Evidence</strong> ★★★★</p>
+<p><strong><span style="text-decoration: underline;">Neuraxial Anesthesia</span></strong></p>
+<p>Moderate evidence supports that neuraxial anesthesia could be used in TKA to improve select perioperative outcomes and complication rates compared to general anesthesia. <strong>Strength of Recommendation: Moderate Evidence</strong> ★★★</p>
+<p><strong><span style="text-decoration: underline;">Tourniquet: Blood Loss Reduction</span></strong></p>
+<p>Moderate evidence supports that the use of a tourniquet in TKA decreases intraoperative blood loss. <strong>Strength of Recommendation: Moderate Evidence</strong> ★★★</p>
+<p><strong><span style="text-decoration: underline;">Tourniquet: Postoperative Pain Reduction</span></strong></p>
+<p>Strong evidence supports that tourniquet use in TKA increases short term post-operative pain. <strong>Strength of Recommendation: Strong Evidence</strong> ★★★★</p>
+<p><strong><span style="text-decoration: underline;">Tourniquet: Postoperative Function</span></strong></p>
+<p>Limited evidence supports that tourniquet use in TKA decreases short term post-operative function. <strong>Strength of Recommendation: Limited Evidence</strong> ★★</p>
+<p><strong><span style="text-decoration: underline;">Tranexamic Acid</span></strong></p>
+<p>Strong evidence supports that, in patients with no known contraindications, treatment with tranexamic acid decreases postoperative blood loss and reduces the necessity of postoperative transfusions following TKA. <strong>Strength of Recommendation: Strong Evidence</strong> ★★★★</p>
+<p><strong><span style="text-decoration: underline;">Antibiotic Bone Cement</span></strong></p>
+<p>Limited evidence does not support the routine use of antibiotics in the cement for primary TKA. <strong>Strength of Recommendation: Limited Evidence</strong> ★★</p>
+<p><strong><span style="text-decoration: underline;">Cruciate Retaining Arthroplasty</span></strong></p>
+<p>Strong evidence supports no difference in outcomes or complications between posterior stabilized and posterior cruciate retaining arthroplasty designs. <strong>Strength of Recommendation: Strong Evidence</strong> ★★★★</p>
+<p><strong><span style="text-decoration: underline;">Polyethylene Tibial Component</span></strong></p>
+<p>Strong evidence supports use of either all-polyethylene or modular tibial components in knee arthroplasty (KA) because of no difference in outcomes. <strong>Strength of Recommendation: Strong Evidence</strong> ★★★★</p>
+<p><strong><span style="text-decoration: underline;">Patellar Resurfacing: Pain and Function</span></strong></p>
+<p>Strong evidence supports no difference in pain or function with or without patellar resurfacing in TKA. <strong>Strength of Recommendation: Strong Evidence</strong> ★★★★</p>
+<p><strong><span style="text-decoration: underline;">Patellar Resurfacing: Reoperations</span></strong></p>
+<p>Moderate evidence supports that patellar resurfacing in TKA could decrease cumulative reoperations after 5 years when compared to no patellar resurfacing in TKA. <strong>Strength of Recommendation: Moderate Evidence</strong> ★★★</p>
+<p><strong><span style="text-decoration: underline;">Cemented Tibial Components Versus Cementless Tibial Components</span></strong></p>
+<p>Strong evidence supports the use of tibial component fixation that is cemented or cementless in TKA due to similar functional outcomes and rates of complications and reoperations. <strong>Strength of Recommendation: Strong Evidence</strong> ★★★★</p>
+<p><strong><span style="text-decoration: underline;">Cemented Femoral and Tibial Components versus Cementless Femoral and Tibial Components</span></strong></p>
+<p>Moderate evidence supports the use of either cemented femoral and tibial components or cementless femoral and tibial components in knee arthroplasty due to similar rates of complications and reoperations. <strong>Strength of Recommendation: Moderate Evidence</strong> ★★★</p>
+<p><strong><span style="text-decoration: underline;">All Cemented Components versus Hybrid Fixation (Cementless Femoral Component)</span></strong></p>
+<p>Moderate evidence supports the use of either cementing all components or hybrid fixation (cementless femur) in TKA due to similar functional outcomes and rates of complications and reoperations. <strong>Strength of Recommendation: Moderate Evidence</strong> ★★★</p>
+<p><strong><span style="text-decoration: underline;">All Cementless Components versus Hybrid Fixation (Cementless Femoral Component)</span></strong></p>
+<p>Limited evidence supports the use of either all cementless components or hybrid fixation (cementless femur) in TKA due to similar rates of complications and reoperations. <strong>Strength of Recommendation: Limited Evidence</strong> ★★</p>
+<p><strong><span style="text-decoration: underline;">Bilateral TKA</span></strong></p>
+<p>Limited evidence supports simultaneous bilateral TKA for patients aged 70 or younger or ASA status 1-2, because there are no increased complications. <strong>Strength of Recommendation: Limited Evidence</strong> ★★</p>
+<p><strong><span style="text-decoration: underline;">Unicompartmental Knee Arthroplasty (UKA): Revisions</span></strong></p>
+<p>Moderate evidence supports that TKA could be used to decrease revision surgery risk compared to UKA for medial compartment osteoarthritis. <strong>Strength of Recommendation: Moderate Evidence</strong> ★★★</p>
+<p><strong><span style="text-decoration: underline;">UKA: Deep Vein Thrombosis (DVT) and Manipulation Under Anesthesia</span></strong></p>
+<p>Limited evidence supports that UKA might be used to decrease the risk of DVT and manipulation under anesthesia compared to TKA for medial compartment osteoarthritis. <strong>Strength of Recommendation: Limited Evidence</strong> ★★</p>
+<p><strong><span style="text-decoration: underline;">UKA versus Osteotomy</span></strong></p>
+<p>Moderate evidence supports no difference between UKA or valgus-producing proximal tibial osteotomy in outcomes and complications in patients with medial compartment knee osteoarthritis. <strong>Strength of Recommendation: Moderate Evidence</strong> ★★★</p>
+<p><strong><span style="text-decoration: underline;">Surgical Navigation</span></strong></p>
+<p>Strong evidence supports not using intraoperative navigation in TKA because there is no difference in outcomes or complications. <strong>Strength of Recommendation: Strong Evidence</strong> ★★★★</p>
+<p><strong><span style="text-decoration: underline;">Patient Specific Instrumentation: Pain and Function</span></strong></p>
+<p>Strong evidence supports not using patient specific instrumentation compared to conventional instrumentation for TKA because there is no difference in pain or functional outcomes. <strong>Strength of Recommendation: Strong Evidence</strong> ★★★★</p>
+<p><strong><span style="text-decoration: underline;">Patient Specific Instrumentation: Transfusions and Complications</span></strong></p>
+<p>Moderate evidence supports not using patient specific instrumentation compared to conventional instrumentation for TKA because there is no difference in transfusions or complications. <strong>Strength of Recommendation: Moderate Evidence</strong> ★★★</p>
+<p><strong><span style="text-decoration: underline;">Drains</span></strong></p>
+<p>Strong evidence supports not using a drain with TKA because there is no difference in complications or outcomes. <strong>Strength of Recommendation: Strong Evidence</strong> ★★★★</p>
+<p><strong><span style="text-decoration: underline;">Cryotherapy Devices</span></strong></p>
+<p>Moderate evidence supports that cryotherapy devices after KA do not improve outcomes. <strong>Strength of Recommendation: Moderate Evidence</strong> ★★★</p>
+<p><strong><span style="text-decoration: underline;">Continuous Passive Motion (CPM)</span></strong></p>
+<p>Strong evidence supports that CPM after KA does not improve outcomes. <strong>Strength of Recommendation: Strong Evidence</strong> ★★★★</p>
+<p><strong><span style="text-decoration: underline;">Postoperative Mobilization: Length of Stay</span></strong></p>
+<p>Strong evidence supports that rehabilitation started on the day of the TKA reduces length of hospital stay. <strong>Strength of Recommendation: Strong Evidence</strong> ★★★★</p>
+<p><strong><span style="text-decoration: underline;">Postoperative Mobilization: Pain and Function</span></strong></p>
+<p>Moderate evidence supports that rehabilitation started on day of TKA compared to rehabilitation started on postop day 1 reduces pain and improves function. <strong>Strength of Recommendation: Moderate Evidence</strong> ★★★</p>
+<p><strong><span style="text-decoration: underline;">Early Stage Supervised Exercise Program: Function</span></strong></p>
+<p>Moderate evidence supports that a supervised exercise program during the first two months after TKA improves physical function. <strong>Strength of Recommendation: Moderate Evidence</strong> ★★★</p>
+<p><strong><span style="text-decoration: underline;">Early Stage Supervised Exercise Program: Pain</span></strong></p>
+<p>Limited evidence supports that a supervised exercise program during the first two months after TKA decreases pain. <strong>Strength of Recommendation: Limited Evidence</strong> ★★</p>
+<p><strong><span style="text-decoration: underline;">Late Stage Postoperative Supervised Exercise Program: Function</span></strong></p>
+<p>Limited evidence supports that selected patients might be referred to an intensive supervised exercise program during late stage post TKA to improve physical function. <strong>Strength of Recommendation: Limited Evidence</strong> ★★</p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong></p>
+<p><strong>Strength of Recommendation Descriptions</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Strength of Recommendation Descriptions">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" scope="col">Strength</th>
+            <th class="Center" valign="top" scope="col">Overall Strength of Evidence</th>
+            <th class="Center" valign="top" scope="col">Description of Evidence Strength</th>
+            <th class="Center" valign="top" scope="col">Strength Visual</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class="Center" valign="top" scope="row">Strong</th>
+            <td class="Center" valign="top">Strong</td>
+            <td valign="top">Evidence from two or more "High" strength studies with consistent findings for recommending for or against the intervention.</td>
+            <td class="Center" valign="top">★★★★</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top" scope="row">Moderate</th>
+            <td class="Center" valign="top">Moderate</td>
+            <td valign="top">Evidence from two or more "Moderate" strength studies with consistent findings, or evidence from a single "High" quality study for recommending for or against the intervention.</td>
+            <td class="Center" valign="top">★★★</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top" scope="row">Limited</th>
+            <td class="Center" valign="top">Low Strength Evidence or Conflicting Evidence</td>
+            <td valign="top">Evidence from one or more "Low" strength studies with consistent findings <strong>or</strong> evidence from a single "Moderate" strength study for recommending for against the intervention or diagnostic or the evidence is insufficient or conflicting and does not allow a recommendation for or against the intervention.</td>
+            <td class="Center" valign="top">★★</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top" scope="row">Consensus*</th>
+            <td class="Center" valign="top">No Evidence</td>
+            <td valign="top">There is no supporting evidence. In the absence of reliable evidence, the guideline development group is making a recommendation based on their clinical opinion. Consensus statements are published in a separate, complimentary document.</td>
+            <td class="Center" valign="top">★</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note">*Consensus based recommendations are made according to specific criteria. These criteria can be found in Appendix VI in the original guideline document.</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Osteoarthritis of the knee</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Management</p>
+                    <p>Rehabilitation</p>
+                    <p>Risk Assessment</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Family Practice</p>
+                    <p>Geriatrics</p>
+                    <p>Internal Medicine</p>
+                    <p>Orthopedic Surgery</p>
+                    <p>Physical Medicine and Rehabilitation</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Nurses</p>
+                    <p>Physical Therapists</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To help improve surgical management of osteoarthritis of the knee based on the current best evidence</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Adult patients (18 years or and older) with osteoarthritis of the knee</p>
+<p class="Note"><strong>Note</strong>: This guideline is not intended to address management of pediatric patients with osteoarthritis or patients with inflammatory arthritis of the knee.</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Consideration of risk factors
+    <ul style="list-style-type: disc;">
+        <li>Body mass index (BMI) </li>
+        <li>Diabetes </li>
+        <li>Chronic pain </li>
+        <li>Depression/anxiety </li>
+        <li>Cirrhosis/hepatitis C </li>
+    </ul>
+    </li>
+    <li>Preoperative physical therapy </li>
+    <li>Delay to total knee arthroplasty (TKA) </li>
+    <li>Periarticular local anesthetic infiltration </li>
+    <li>Peripheral nerve blockade </li>
+    <li>Neuraxial anesthesia </li>
+    <li>Tourniquet (for intraoperative blood loss) </li>
+    <li>Tranexamic acid </li>
+    <li>Consideration of posterior stabilized versus posterior cruciate-retaining arthroplasty designs </li>
+    <li>All-polyethylene or modular tibial components </li>
+    <li>Patellar resurfacing </li>
+    <li>Consideration of cemented versus cementless tibial components </li>
+    <li>Consideration of cemented versus cementless femoral and tibial components </li>
+    <li>Consideration of all cemented components versus hybrid fixation (cementless femoral component) </li>
+    <li>Consideration of all cementless components versus hybrid fixation (cementless femoral component) </li>
+    <li>Bilateral TKA </li>
+    <li>Unicompartmental knee arthroplasty (UKA) versus TKA for medial compartment osteoarthritis (effect on revision risk) </li>
+    <li>UKA to decrease risk of deep vein thrombosis (DVT) and manipulation under anesthesia </li>
+    <li>Consideration of UKA versus osteotomy in patients with medial compartment osteoarthritis </li>
+    <li>Postoperative mobilization started on the day of the TKA (effects on length of hospital stay, pain, and function) </li>
+    <li>Early-stage supervised exercise program (for function and pain) </li>
+    <li>Late-stage postoperative supervised exercise program (for function) </li>
+</ol>
+<p class="Note"><strong>Note</strong>: The following interventions were considered but not recommended:</p>
+<ul class="Note" style="list-style-type: disc;">
+    <li>Tourniquet (for pain reduction and function) </li>
+    <li>Routine use of antibiotic bone cement </li>
+    <li>Intraoperative surgical navigation </li>
+    <li>Patient-specific instrumentation </li>
+    <li>Drains </li>
+    <li>Cryotherapy devices </li>
+    <li>Postoperative continuous passive motion (CPM) </li>
+</ul></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Complications after surgery </li>
+    <li>Length of stay </li>
+    <li>Functional status (including range of motion and ambulation) </li>
+    <li>Stiffness </li>
+    <li>Pain relief </li>
+    <li>Patient satisfaction/well being </li>
+    <li>Quality of life </li>
+    <li>Reoperation </li>
+    <li>Mortality </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Hand-searches of Published Literature (Primary Sources)</p>
+                    <p>Hand-searches of Published Literature (Secondary Sources)</p>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Formulating Population, Intervention, Comparison and Outcome (PICO) Questions</span></strong></p>
+<p>The guideline development group began work on this guideline by constructing a set of PICO questions. These questions specify the patient population of interest (P), the intervention of interest (I), the comparisons of interest (C), and the patient-oriented outcomes of interest (O). They function as questions for the systematic review, not as final recommendations or conclusions. A full list of the original PICO questions can be viewed in Appendix III in the original guideline. Once established, these <em>a priori</em> PICO questions cannot be modified until the final guideline development group meeting.</p>
+<p><strong><span style="text-decoration: underline;">Study Selection Criteria</span></strong></p>
+<p>The guideline work group developed <em>a priori </em>article inclusion criteria for the review. These criteria are the "rules of evidence" and articles that did not meet them are, for the purposes of this guideline, not evidence.</p>
+<p>To be included in the systematic reviews (and hence, in this guideline) an article had to meet the following criteria:</p>
+<p><strong>Work Group Defined Criteria</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Study must be of an <em>osteoarthritis-related</em> injury or prevention thereof and at least 90% of patient population should have osteoarthritis. </li>
+    <li>Study must be published in or after 1966 for <em>surgical treatment, rehabilitation, bracing, prevention</em> and <em>magnetic resonance imaging (MRI)</em>. </li>
+    <li>Study must be published in or after 1966 for <em>x rays</em> and <em>nonoperative treatment</em>. </li>
+    <li>Study must be published in or after 1966 for all others nonspecified. </li>
+    <li>Study should have 10 or more patients per group. </li>
+    <li>For surgical treatment a minimum of N days/months/year (refer to PICO questions for detailed follow up duration)</li>
+    <li>For <em>nonoperative treatment</em> a minimum of N days/months/year (refer to PICO questions for detailed follow up duration)</li>
+    <li>For <em>prevention studies</em> a minimum of N days/months/year (refer to PICO questions for detailed follow up duration)</li>
+</ol>
+<p><strong>Standard Criteria for all Clinical Practice Guidelines</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Article must be a full article report of a clinical study. </li>
+    <li>Retrospective non-comparative case series, medical records review, meeting abstracts, meta-analyses, systematic reviews, historical articles, editorials, letters, and commentaries are <em>excluded</em>. Bibliographies of meta-analyses and systematic reviews will be examined to ensure inclusion of all relevant literature. </li>
+    <li>Confounded studies (i.e., studies that give patients the treatment of interest AND another treatment) are <em>excluded</em>. </li>
+    <li>Case series studies that have non-consecutive enrollment of patients are <em>excluded</em>. </li>
+    <li>Controlled trials in which patients were not stochastically assigned to groups AND in which there was either a difference in patient characteristics or outcomes at baseline AND where the authors did not statistically adjust for these differences when analyzing the results are <em>excluded</em>. </li>
+    <li>All studies evaluated as "very low quality" will be <em>excluded</em>. </li>
+    <li>Composite measures or outcomes are <em>excluded</em> even if they are patient-oriented. </li>
+    <li>Study must appear in a peer-reviewed publication. </li>
+    <li>For any included study that uses "paper-and-pencil" outcome measures (e.g., SF-36), only those outcome measures that have been validated will be included. </li>
+    <li>For any given follow-up time point in any included study, there must be &ge;50% patient follow-up (if the follow-up is &gt;50% but &lt;80%, the study quality will be downgraded by one level). </li>
+    <li>Study must be of humans. </li>
+    <li>Study must be published in English. </li>
+    <li>Study results must be quantitatively presented. </li>
+    <li>Study must not be an in vitro study. </li>
+    <li>Study must not be a biomechanical study. </li>
+    <li>Study must not have been performed on cadavers. </li>
+</ul>
+<p>The guideline work group will only evaluate surrogate outcomes when no patient oriented outcomes are available.</p>
+<p><strong><span style="text-decoration: underline;">Literature Searches</span></strong></p>
+<p>The guideline work group began the systematic review with a comprehensive search of the literature. Articles considered were published prior to January 2015 in four electronic databases: PubMed, EMBASE, CINAHL, and The Cochrane Central Register of Controlled Trials. The medical librarian conducts the search using key terms determined from the guideline development group's PICO questions.</p>
+<p>The guideline work group supplements the electronic search with a manual search of the bibliographies of all retrieved publications, recent systematic reviews, and other review articles for potentially relevant citations. Recalled articles are evaluated for possible inclusion based on the study selection criteria and are summarized for the guideline development group who assist with reconciling possible errors and omissions.</p>
+<p>The study attrition diagram in Appendix IV in the original guideline provides a detailed description of the numbers of identified abstracts and recalled and selected studies that were evaluated in the systematic review of this guideline. The search strategies used to identify the abstracts are contained in Appendix V in the original guideline.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>224 articles were included after full text review and quality analysis. See Appendix IV in the original guideline document for a flow chart of the literature search results.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Methods for Evaluating Evidence</span></strong></p>
+<p><strong>Prognostic Study Quality Appraisal Questions</strong></p>
+<p>The following questions are used to evaluate the study quality of prognostic study designs:</p>
+<ul style="list-style-type: disc;">
+    <li>Was the spectrum of patients studied for this prognostic variable representative of the patient spectrum seen in actual clinical practice? </li>
+    <li>Was loss to follow up unrelated to key characteristics? </li>
+    <li>Was the prognostic factor of interest adequately measured in the study to limit potential bias? </li>
+    <li>Was the outcome of interest adequately measured in study participants to sufficiently limit bias? </li>
+    <li>Were all important confounders adequately measured in study participants to sufficiently limit potential bias? </li>
+    <li>Was the statistical analysis appropriate for the design of the study, limiting potential for presentation of invalid results? </li>
+</ul>
+<p><em>Prognostic Study Design Quality Key</em></p>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" summary="Table: Prognostic Study Design Quality Key">
+    <tbody>
+        <tr>
+            <td class="Center" valign="top">High Quality Study</td>
+            <td class="Center" valign="top">&lt;1 Flaw</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">Moderate Quality Study</td>
+            <td class="Center" valign="top">&ge;1 and &lt;2 Flaws</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">Low Quality Study</td>
+            <td class="Center" valign="top">&ge;2 and &lt;3 Flaws</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">Very Low Quality Study</td>
+            <td class="Center" valign="top">&ge;3 Flaws</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Randomized Study Quality Appraisal Questions</strong></p>
+<p>The following domains are evaluated to determine the study quality of randomized study designs.</p>
+<ul style="list-style-type: disc;">
+    <li>Random sequence generation </li>
+    <li>Allocation concealment </li>
+    <li>Blinding of participants and personnel </li>
+    <li>Incomplete outcome data </li>
+    <li>Selective reporting </li>
+    <li>Other bias </li>
+</ul>
+<p><em>Upgrading Randomized Study Quality Questions</em></p>
+<ul style="list-style-type: disc;">
+    <li>Is there a large magnitude of effect? </li>
+    <li>Influence of all plausible residual confounding </li>
+    <li>Dose-response gradient </li>
+</ul>
+<p><em>Randomized Study Design Quality Key</em></p>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" summary="Table: Randomized Study Design Quality Key">
+    <tbody>
+        <tr>
+            <td class="Center" valign="top">High Quality Study</td>
+            <td class="Center" valign="top">&lt;2 Flaws</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">Moderate Quality Study</td>
+            <td class="Center" valign="top">&ge;2 and &lt;4 Flaws</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">Low Quality Study</td>
+            <td class="Center" valign="top">&ge;4 and &lt;6 Flaws</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">Very Low Quality Study</td>
+            <td class="Center" valign="top">&ge;6 Flaws</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Observational Study Design Quality Appraisal Questions</strong></p>
+<p>The following questions are used to evaluate the study quality of observational study designs. Note that all observation studies begin the appraisal process at "low quality" due to design flaws inherent in observational studies.</p>
+<ul style="list-style-type: disc;">
+    <li>Is this observational study a prospective case series? </li>
+    <li>Does the strategy for recruiting participants into the study differ across groups? </li>
+    <li>Did the study fail to balance the allocation between the groups or match groups (e.g., through stratification, matching, propensity scores)? </li>
+    <li>Were important confounding variables not taken into account in the design and/or analysis (e.g., through matching, stratification, interaction terms, multivariate analysis, or other statistical adjustment such as instrumental variables)? </li>
+    <li>Was the length of follow-up different across study groups? </li>
+    <li>Other bias? </li>
+</ul>
+<p><em>Upgrading Observational Study Quality Questions</em></p>
+<ul style="list-style-type: disc;">
+    <li>Is there a large magnitude of effect? </li>
+    <li>Influence of all plausible residual confounding </li>
+    <li>Dose-response gradient </li>
+</ul>
+<p><em>Observational Study Design Quality Key</em></p>
+<table width="100%" border="1" cellspacing="1" cellpadding="3" summary="Table: Observational Study Design Quality Key">
+    <tbody>
+        <tr>
+            <td class="Center" valign="top">High Quality Study</td>
+            <td class="Center" valign="top">&lt;2 Flaws</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">Moderate Quality Study</td>
+            <td class="Center" valign="top">&ge;2 and &lt;4 Flaws</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">Low Quality Study</td>
+            <td class="Center" valign="top">&ge;4 and &lt;6 Flaws</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">Very Low Quality Study</td>
+            <td class="Center" valign="top">&ge;6 Flaws</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Meta-Analysis</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Best Evidence Synthesis</span></strong></p>
+<p>The guideline work group included only the best available evidence for any given outcome addressing a recommendation. Accordingly, the group first included the highest quality evidence for any given outcome if it was available. In the absence of two or more occurrences of an outcome at this quality, the group considered outcomes of the next lowest quality until at least two or more occurrences of an outcome had been acquired. For example, if there were two 'moderate' quality occurrences of an outcome that addressed a recommendation, the group did not include 'low' quality occurrences of this outcome. A summary of the evidence that met the inclusion criteria, but was not best available evidence was created and can be viewed by recommendation in Appendix X in the original guideline document.</p>
+<p><strong><span style="text-decoration: underline;">Minimally Clinically Important Improvement</span></strong></p>
+<p>Wherever possible, the effects of treatments were considered in terms of the minimally clinically important difference (MCID) in addition to whether their effects are statistically significant. The MCID is the smallest clinical change that is important to patients, and recognizes the fact that there are some treatment-induced statistically significant improvements that are too small to matter to patients. However, there were no occurrences of validated MCID outcomes in the studies included in this clinical practice guideline.</p>
+<p>When MCID values from the specific guideline patient population are not available, the following measures were used (listed in order of priority):</p>
+<ul style="list-style-type: disc;">
+    <li>MCID/minimal important difference (MID) </li>
+    <li>PASS or impact </li>
+    <li>Another validated measure </li>
+    <li>Statistical significance </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Statistical Methods</span></strong></p>
+<p><strong>Analysis of Intervention/Prevention Data</strong></p>
+<p>When possible, the American Academy of Orthopaedic Surgeons (AAOS) Evidence-Based Medicine (EBM) Unit recalculates the results reported in individual studies and compile them to answer the recommendations. The results of all statistical analysis conducted by the AAOS EBM Unit are conducted using SAS 9.4. SAS was used to determine the magnitude, direction, and/or 95% confidence intervals of the treatment effect. For data reported as means (and associated measures of dispersion) the mean difference between groups and the 95% confidence interval was calculated and a two-tailed t-test of independent groups was used to determine statistical significance. When published studies report measures of dispersion other than the standard deviation, the value was estimated to facilitate calculation of the treatment effect. In studies that report standard errors or confidence intervals the standard deviation was back-calculated. In some circumstances statistical testing was conducted by the authors and measures of dispersion were not reported. In the absence of measures of dispersion, the results of the statistical analyses conducted by the authors (i.e., the p-value) are considered as evidence. For proportions, the guideline work group reports the proportion of patients that experienced an outcome along with the percentage of patients that experienced an outcome. The variance of the arcsine difference was used to determine statistical significance. P-values &lt;0.05 were considered statistically significant.</p>
+<p>When the data was available, the guideline work group performed meta-analyses using the random effects method of DerSimonian and Laird. A minimum of three studies was required for an outcome to be considered by meta-analysis. Heterogeneity was assessed with the I-squared statistic. Meta-analyses with I-squared values less than 50% were considered as evidence. Those with I-squared larger than 50% were not considered as evidence for this guideline. All meta-analyses were performed using SAS 9.4. The arcsine difference was used in meta-analysis of proportions. In order to overcome the difficulty of interpreting the magnitude of the arcsine difference, a summary odds ratio is calculated based on random effects meta-analysis of proportions and the number needed to treat (or harm) is calculated. The standardized mean difference was used for meta-analysis of means and magnitude was interpreted using Cohen's definitions of small, medium, and large effect.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus (Nominal Group Technique)</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p>This guideline and systematic review were prepared by the American Academy of Orthopaedic Surgeons (AAOS) Surgical Management of Osteoarthritis of the Knee guideline physician guideline development group (clinical experts) with the assistance of the AAOS Evidence-Based Medicine (EBM) Unit in the Department of Research and Scientific Affairs (methodologists) at the AAOS. To develop this guideline, the guideline development group held an introductory meeting on August 16, 2013 to establish the scope of the guideline and the systematic reviews. As the physician experts, the guideline development group defined the scope of the guideline by creating population, intervention, comparison and outcome (PICO) questions that directed the literature search. The original PICO questions developed at the introductory meeting can be viewed in Appendix III in the original guideline document. When necessary, these clinical experts also provided content help, search terms and additional clarification for the AAOS Medical Librarian. The Medical Librarian created and executed the search(es). The supporting group of methodologists (AAOS EBM Unit) reviewed all abstracts, recalled pertinent full-text articles for review and evaluated the quality of studies meeting the inclusion criteria. They also abstracted, analyzed, interpreted, and/or summarized the relevant data for each recommendation and prepared the initial draft for the final meeting. Upon completion of the systematic reviews, the physician guideline development group participated in a three-day recommendation meeting on April 10-12, 2015. At this meeting, the physician experts and methodologists evaluated and integrated all material to develop the final recommendations. The final recommendations and rationales were edited, written and voted on at the final meeting. Additional edits to the rationales were approved by the guideline development group on webinars after the meeting. The draft guideline recommendations and rationales received final review by the methodologists to ensure that these recommendations and rationales were consistent with the data. The draft was then completed and submitted for peer review on July 6, 2015.</p>
+<p><strong><span style="text-decoration: underline;">Recommending For or Against a Procedure</span></strong></p>
+<p>The guideline development group considers the procedure of interest and comparison procedure when recommending or not recommending a procedure for clinical use. If the procedure of interest results in outcomes that are similar to the comparison procedure, the group may recommend both procedures due to no statistical difference in outcomes. If the procedure of interest results in outcomes that are not statistically different than a placebo or no procedure, the group may recommend against the procedure of interest, because it adds no measurable benefit to a patient's outcomes.</p>
+<p><strong><span style="text-decoration: underline;">Defining the Strength of the Recommendations</span></strong></p>
+<p>Judging the quality of evidence is only a stepping stone towards arriving at the strength of a guideline recommendation. The strength of recommendation also takes into account the quality, quantity, and the trade-off between the benefits and harms of a treatment, the magnitude of a treatment's effect, and whether there is data on critical outcomes.</p>
+<p>Strength of recommendation expresses the degree of confidence one can have in a recommendation. As such, the strength expresses how possible it is that a recommendation will be overturned by future evidence. It is very difficult for future evidence to overturn a recommendation that is based on many high quality randomized controlled trials that show a large effect. It is much more likely that future evidence will overturn recommendations derived from a few small retrospective comparative studies. Consequently, recommendations based on the former kind of evidence are given a high strength of recommendation and recommendations based on the latter kind of evidence are given a low strength.</p>
+<p>To develop the strength of a recommendation, AAOS staff first assigned a preliminary strength for each recommendation that took only the final quality and the quantity of evidence.</p>
+<p><strong><span style="text-decoration: underline;">Wording of the Final Recommendations</span></strong></p>
+<p>To prevent bias in the way recommendations are worded, the AAOS uses specific predetermined language stems that are governed by the evidence strengths. Each recommendation was written using language that accounts for the final strength of the recommendation. This language, and the corresponding strength, is shown in the table below.</p>
+<p><strong>AAOS Guideline Language Stems</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: AAOS Guideline Language Stems">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" scope="col">Guideline Language</th>
+            <th class="Center" valign="top" scope="col">Strength of Recommendation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">Strong evidence supports that the practitioner should/should not do X, because&hellip;</td>
+            <td class="Center" valign="top">Strong</td>
+        </tr>
+        <tr>
+            <td valign="top">Moderate evidence supports that the practitioner could/could not do X, because&hellip;</td>
+            <td class="Center" valign="top">Moderate</td>
+        </tr>
+        <tr>
+            <td valign="top">Limited evidence supports that the practitioner might/might not do X, because&hellip;</td>
+            <td class="Center" valign="top">Limited</td>
+        </tr>
+        <tr>
+            <td valign="top">In the absence of reliable evidence, it is the <strong><em>opinion</em></strong> of this work group that&hellip;*</td>
+            <td class="Center" valign="top">Consensus*</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note">*Consensus based recommendations are made according to specific criteria. These criteria can be found in Appendix VII in the original guideline document.</p>
+<p><strong><span style="text-decoration: underline;">Voting on the Recommendations</span></strong></p>
+<p>The recommendations and their strength were voted on by the guideline development group members during the final meeting. If disagreement between the guideline development group occurred, there was further discussion to see whether the disagreement(s) could be resolved. Recommendations were approved and adopted in instances where a simple majority (60%) of the guideline development group voted to approve.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Strength of Recommendation Descriptions</span></strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Strength of Recommendation Descriptions">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" scope="col">Strength</th>
+            <th class="Center" valign="top" scope="col">Overall Strength of Evidence</th>
+            <th class="Center" valign="top" scope="col">Description of Evidence Strength</th>
+            <th class="Center" valign="top" scope="col">Strength Visual</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class="Center" valign="top" scope="row">Strong</th>
+            <td class="Center" valign="top">Strong</td>
+            <td valign="top">Evidence from two or more "High" strength studies with consistent findings for recommending for or against the intervention.</td>
+            <td class="Center" valign="top">★★★★</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top" scope="row">Moderate</th>
+            <td class="Center" valign="top">Moderate</td>
+            <td valign="top">Evidence from two or more "Moderate" strength studies with consistent findings, or evidence from a single "High" quality study for recommending for or against the intervention.</td>
+            <td class="Center" valign="top">★★★</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top" scope="row">Limited</th>
+            <td class="Center" valign="top">Low Strength Evidence or Conflicting Evidence</td>
+            <td valign="top">Evidence from one or more "Low" strength studies with consistent findings <strong>or</strong> evidence from a single "Moderate" strength study for recommending for against the intervention or diagnostic or the evidence is insufficient or conflicting and does not allow a recommendation for or against the intervention.</td>
+            <td class="Center" valign="top">★★</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top" scope="row">Consensus*</th>
+            <td class="Center" valign="top">No Evidence</td>
+            <td valign="top">There is no supporting evidence. In the absence of reliable evidence, the guideline development group is making a recommendation based on their clinical opinion. Consensus statements are published in a separate, complimentary document.</td>
+            <td class="Center" valign="top">★</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note">*Consensus based recommendations are made according to specific criteria. These criteria can be found in Appendix VI in the original guideline document.</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>The draft guidelines were peer-reviewed, edited in response to that review and subsequently distributed for public commentary. Thereafter, the draft guideline was sequentially approved by the American Academy of Orthopaedic Surgeons (AAOS) Committee on Evidence-Based Quality and Value, AAOS Council on Research and Quality, and the AAOS Board of Directors. All AAOS guidelines are reviewed and updated or retired every five years in accordance with the criteria of the National Guideline Clearinghouse (NGC).</p>
+<p>Thus the process of AAOS guideline development incorporates the benefits from clinical physician expertise as well as the statistical knowledge and interpretation of non-conflicted methodologists. The process also includes an extensive review process offering the opportunity for over 200 clinical physician experts to provide input into the draft prior to publication. This process provides a sound basis for minimizing bias, enhancing transparency and ensuring the highest level of accuracy for interpretation of the evidence.</p>
+<p><strong><span style="text-decoration: underline;">Peer Review</span></strong></p>
+<p>Following the final meeting, the guideline draft undergoes peer review for additional input from external content experts. Written comments are provided on the structured review form (see Appendix VII in the original guideline). All peer reviewers are required to disclose their conflicts of interest. To guide who participates, the guideline development group identifies specialty societies at the introductory meeting. <em>Organizations</em>, not <em>individuals</em>, are specified.</p>
+<p>The specialty societies are solicited for nominations of individual peer reviewers approximately six weeks before the final meeting. The peer review period is announced as it approaches and others interested are able to volunteer to review the draft. The chairs of the guideline development group and chair of the AAOS Committee on Evidence-Based Quality and Value reviews the draft of the guideline prior to dissemination.</p>
+<p>Some specialty societies (both orthopaedic and non-orthopaedic) ask their evidence-based practice (EBP) committee to provide review of the guideline. The organization is responsible for coordinating the distribution of AAOS materials and consolidating their comments onto one form. The chair of the external EBP committees provides disclosure of their conflicts of interest (COI) and manages the potential conflicts of their members.</p>
+<p>Again, the AAOS asks for comments to be assembled into a single response form by the specialty society and for the individual submitting the review to provide disclosure of potentially conflicting interests. The peer review stage gives external stakeholders an opportunity to provide evidence-based direction for modifications that they believe have been overlooked. Since the draft is subject to revisions until its approval by the AAOS Board of Directors as the final step in the guideline development process, confidentiality of all working drafts is essential.</p>
+<p>The chairs of the guideline development group and the manager of the AAOS evidence-based medicine unit drafts the initial responses to comments that address methodology. These responses are then reviewed by the chair and co-chair, who respond to questions concerning clinical practice and techniques. The director of the Department of Research and Scientific Affairs may provide input as well. All comments received and the initial drafts of the responses are also reviewed by all members of the guideline development group. All proposed changes to recommendation language as a result of peer review are based on the evidence and undergoes majority vote by the guideline development group members. Final revisions are summarized in a detailed report that is made part of the guideline document throughout the remainder of the review and approval processes.</p>
+<p>The AAOS believes in the importance of demonstrating responsiveness to input received during the peer review process and welcomes the critiques of external specialty societies. Following final approval of the guideline, all individual responses are posted on the AAOS Web site with a point-by-point reply to each non-editorial comment. Reviewers who wish to remain anonymous notify the AAOS to have their names de-identified; their comments, AAOS responses, and their COI disclosures are still posted.</p>
+<p>Review of the Surgical Management of Osteoarthritis of the Knee guideline was requested of 21 organizations. Seven individuals representing six organizations returned comments on the structured review form (see Appendix VII in the original guideline).</p>
+<p><strong><span style="text-decoration: underline;">Public Commentary</span></strong></p>
+<p>After modifying the draft in response to peer review, the guideline was subjected to a thirty-day period of "Public Commentary." Commentators consist of members of the AAOS Board of Directors (BOD), members of the Council on Research and Quality (CORQ), members of the Board of Councilors (BOC), and members of the Board of Specialty Societies (BOS). The guideline is automatically forwarded to the AAOS BOD and CORQ so that they may review it and provide comment prior to being asked to approve the document. Members of the BOC and BOS are solicited for interest. If they request to see the document, it is forwarded to them for comment. Based on these bodies, over 200 commentators have the opportunity to provide input into this guideline. One organization returned public comments.</p>
+<p><strong><span style="text-decoration: underline;">The AAOS Guideline Approval Process</span></strong></p>
+<p>This final guideline draft must be approved by the AAOS Committee on Evidence-Based Quality and Value Committee, the AAOS Council on Research and Quality, and the AAOS Board of Directors. These decision-making bodies are described in Appendix II in the original guideline document and are not designated to modify the contents. Their charge is to approve or reject its publication by majority vote.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is specifically stated for each recommendation (see the "Major Recommendations" field).</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>The benefits of surgical treatment of osteoarthritis of the knee include relief of pain and improved function.</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><div class="content_para"><p>Most invasive operative treatments, primarily arthroplasty, are associated with known risks. Early postoperative complications include prosthetic infection, venous thromboembolic disease, arthrofibrosis, and pain. Late postoperative complications include infection, prosthetic aseptic loosening, and pain. All can lead to a need for revision arthroplasty.</p>
+<p><strong><span style="text-decoration: underline;">Potential Harms of Specific Interventions</span></strong></p>
+<ul style="list-style-type: disc;">
+    <li>The risks associated with peripheral nerve blockade may include bleeding, infection, and associated neural injury. Although rare, these potential risks need to be balanced with the documented benefits of peripheral nerve blockade. Depending upon clinical circumstances, peripheral nerve blockade may also be associated with postoperative motor weakness. Under these conditions, care must be taken to minimize the risk of patient falls or delayed mobilization during the hospitalization. </li>
+    <li>There is a risk of renal injury with ketorolac injection. There is a theoretical risk of increased infection rates injecting corticosteroids into a surgical field. </li>
+    <li>There is increased risk of acute intraoperative blood loss without a tourniquet. The possibility of poor fixation at the cement-bone interface exists. </li>
+    <li>Care must be taken when utilizing tranexamic acid in patients at high risk for complications such as thromboembolic disease, and color blindness as this has not been adequately studied. This is not a U.S. Food and Drug Administration (FDA) approved use of this agent. The studies used to make this recommendation almost all have significant exclusion criteria, especially regarding patients with a history of venous thromboembolism (VTE) or at high risk for the same. </li>
+    <li>Patellar arthroplasty in total knee arthroplasty (TKA) has been associated with patella fracture or complications from patella insufficiency and the data suggests that this may increase over time. Not resurfacing the patella in the setting of TKA is associated with patella-related reoperations and all reoperations including infection and revision for which the association is not clearly understood. </li>
+    <li>Retrospective reviews of the Swedish Knee Arthroplasty Register revealed higher 30-day mortality if bilateral knee arthroplasties were done at the same time versus staged within a year. Multiple retrospective reviews showed adverse cardiovascular outcomes in patients with simultaneous bilateral knee arthroplasties. One of these reviews helped define the higher risk patient by showing that patients who suffered a major complication had a higher prevalence of comorbidities including, specifically, chronic lung diseases, congestive heart failure and pulmonary hypertension. </li>
+    <li>Potential harms of not using a drain include increased incidence of knee stiffness requiring manipulation with resultant poor range of motion, and increased wound drainage. </li>
+    <li>Intra-operative fracture during component insertion or failure of ingrowth may be of concern with certain cementless designs in patients with poor bone quality. </li>
+    <li>The co-morbidity groups addressed in the risk factor recommendations each have wide spectrums of disease intensity and subsequent great variability in terms of marginally less good outcomes and higher risk. There is a possible risk of patients being treated as a member of a class, rather than as individuals. This is especially the case given that federal payments are increasingly being linked to rates of readmission and complications as well as cost and outcomes. The risk adjustments are not exact enough to protect hospitals and surgeons if they offer surgery to all patients from co-morbidity classes with higher risk or less good outcomes. Given the current pressures from value based payments, separating out the patients with lower expression of their co-morbidities for treatment is less likely than avoidance of the particular class as a whole, even if there is a high likelihood of success for selective cases. </li>
+    <li>The study supporting the recommendation for an eight month delay to TKA does not speak to the effects in outcomes in longer delays, nor does it subcategorize patients at higher risk of permanent disability or injury from delay. </li>
+</ul></div></p>
+
+            </div>
+                <h2 id="430" class="accordion-title section-430 is-active" role="tab" aria-expanded="true"><a href="#">Contraindications</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Contraindications</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Contraindications are relative and require an in depth discussion with the patient and physician (surgeon, anesthesiologist) about their individual risk factors. Additional factors, such as the individual's comorbidities, and/or specific patient characteristics may affect the physician's choice of treatment. Clinician input based on experience increases the probability of identifying patients who will benefit from specific treatment options. The individual patient and/or their decision surrogate dynamic will also influence treatment decisions, therefore, discussion of available treatments and procedures applicable to the individual patient rely on mutual communication between the patient and/or decision surrogate and physician, weighing the potential risks and benefits for that patient. Once the patient and/or their decision surrogate have been informed of available therapies and have discussed these options with the patient's physician, an informed decision can be made. </li>
+    <li>Neuraxial anesthesia should not be performed in patients with known contraindications to the technique. </li>
+    <li>There are specific contraindications in the Physicians' Desk Reference (PDR) for the U.S. Food and Drug Administration (FDA) approved uses of tranexamic acid that include color blindness. The surgeon should be aware of the several common exclusion criteria in the literature, specific contraindications, the experience with this agent in other specialties, and the evolving case report literature before using this agent indiscriminately. FDA contraindications for its approved usage include patients with acquired defective color vision, patients with subarachnoid hemorrhage, patients with active intravascular clotting, and patients with hypersensitivity to tranexamic acid. </li>
+</ul></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>This Clinical Practice Guideline was developed by an American Academy of Orthopaedic Surgeons (AAOS) physician volunteer Guideline Development Group based on a systematic review of the current scientific and clinical information and accepted approaches to treatment and/or diagnosis. This Clinical Practice Guideline is not intended to be a fixed protocol, as some patients may require more or less treatment or different means of diagnosis. Clinical patients may not necessarily be the same as those found in a clinical trial. Patient care and treatment should always be based on a clinician's independent medical judgment, given the individual patient's clinical circumstances. </li>
+    <li>The summary of recommendations is not intended to stand alone. Treatment decisions should be made in light of all circumstances presented by the patient. Treatments and procedures applicable to the individual patient rely on mutual communication between patient, physician, and other healthcare practitioners.</li>
+    <li>Some drugs or medical devices referenced or described in this Clinical Practice Guideline may not have been cleared by the U.S. Food and Drug Administration (FDA) or may have been cleared for a specific use only. The FDA has stated that it is the responsibility of the physician to determine the FDA clearance status of each drug or device he or she wishes to use in clinical practice. </li>
+    <li>This guideline should not be construed as including all proper methods of care or excluding methods of care reasonably directed to obtaining the same results. The ultimate judgment regarding any specific procedure or treatment must be made in light of all circumstances presented by the patient and the needs and resources particular to the locality or institution. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Guideline Dissemination Plans</span></strong></p>
+<p>The primary purpose of the original guideline document is to provide interested readers with full documentation about not only the guideline development group's recommendations, but also about how the group arrived at those recommendations.</p>
+<p>To view all American Academy of Orthopaedic Surgeons (AAOS) published guideline recommendations in a user-friendly app, please visit <a href="/web/20180712203906/https://www.guideline.gov/Home/Disclaimer?id=49934&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.orthoguidelines.org" title="OrthoGuidelines Web site">www.orthoguidelines.org</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203906im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>Shorter versions of the guideline are available in other venues. Publication of most guidelines is announced by an Academy press release, articles authored by the guideline development group and published in the Journal of the American Academy of Orthopaedic Surgeons, and articles published in AAOS <em>Now</em>. Most guidelines are also distributed at the AAOS Annual Meeting in various venues such as on Academy Row and at Committee Scientific Exhibits.</p>
+<p>Selected guidelines are disseminated by webinar, an Online Module for the Orthopaedic Knowledge Online website, Radio Media Tours, Media Briefings, and by distributing them at relevant Continuing Medical Education (CME) courses and at the AAOS Resource Center.</p>
+<p>Other dissemination efforts outside of the AAOS will include submitting the guideline to the National Guideline Clearinghouse (NGC) and distributing the guideline at other medical specialty societies' meetings.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Foreign Language Translations</p>
+                    <p>Mobile Device Resources</p>
+                    <p>Patient Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>American Academy of Orthopaedic Surgeons (AAOS). American Academy of Orthopaedic Surgeons clinical practice guideline on surgical management of osteoarthritis of the knee. Rosemont (IL): American Academy of Orthopaedic Surgeons (AAOS); 2015 Dec 4. 657 p.  [230 references]</td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2015 Dec 4</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>American Academy of Orthopaedic Surgeons - Medical Specialty Society</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>This clinical practice guideline was funded exclusively by the American Academy of Orthopaedic Surgeons (AAOS) who received no funding from outside commercial sources to support the development of this document.</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>American Academy of Orthopaedic Surgeons (AAOS) Surgical Management of Osteoarthritis of the Knee Physician Guideline Development Group</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Guideline Development Group Members</em>: Brian McGrory, M.D., M.S. (<em>Chair</em>), American Academy of Orthopaedic Surgeons, Assistant Clinical Professor, Tufts University School of Medicine, Maine Medical Center Partners Orthopaedics, Falmouth, Maine; Kristy Weber, M.D. (<em>Co-Chair</em>), American Academy of Orthopaedic Surgeons, Professor and Vice Chair, University of Pennsylvania Department of Orthopaedics, Philadelphia, PA; John A. Lynott, M.D., American Academy of Orthopaedic Surgeons, Department of Orthopaedic Surgery, Geisinger Wyoming Valley, Wilkes-Barre, PA; Vinod Dasa, M.D., American Academy of Orthopaedic Surgeons, New Orleans, LA; John C. Richmond, M.D., Arthroscopy Association of North America, New England Baptist Hospital, Boston, MA; Charles Moore Davis III, M.D., PhD, American Association of Hip and Knee Surgeons, Penn State Hershey Bone and Joint Institute, Hershey, PA; Adolph Yates, Jr., M.D., American Association of Hip and Knee Surgeons, Pittsburgh, PA; Atul F. Kamath, M.D., American Association of Hip and Knee Surgeons, Massapequa, NY; Gregory Alexander Brown, MD, PhD, American Orthopaedic Society for Sports Medicine, Park Nicollet Clinic-Meadowbrook, Department of Orthopaedic Surgery, St Louis Park, MN; Tad L. Gerlinger, M.D., Society of Military Orthopaedic Surgeons, Colonel, Medical Corps, US Army, Dept. of Orthopaedics and Rehabilitation, San Antonio Military Medical Center, Ft Sam Houston, TX; Sara Piva, PT, PhD, American Physical Therapy Association, Assistant Professor of Physical Therapy and Clinical and Translational Science Institute, Co-Director Physical Therapy-Clinical Translational Research Center, University of Pittsburgh School of Health and Rehabilitation Sciences, Pittsburgh, PA; Tomas Villanueva, D.O., M.B.A., FACPE, SFHM, Society of Hospital Medicine, Baptist Health Medical Group, Coral Gables, FL; James Hebl, M.D., American Society of Anesthesiologists, Mayo Clinic, Rochester, MN</p>
+<p><em>Guidelines Oversight Chair</em>: David Jevsevar, MD, MBA</p>
+<p><em>AAOS Clinical Practice Guidelines Section Leader</em>: Kevin Shea, MD</p>
+<p><em>AAOS Council on Research and Quality Chair</em>: Kevin J. Bozic, MD, MBA</p>
+<p><em>Additional Contributing Member</em>: James Keeney, M.D., Washington University Department of Orthopaedic Surgery</p>
+<p><em>AAOS Staff</em>: William Shaffer, MD, AAOS Medical Director; Deborah Cummins, PhD, AAOS Director of Research &amp; Scientific Affairs; Jayson N. Murray, MA, Manager, Evidence-Based Medicine Unit; Patrick Donnelly, MA, Lead Research Analyst; Nilay Patel, MA, Research Analyst, Evidence-Based Medicine Analyst; Peter Shores, MPH, Statistician, Evidence-Based Medicine; Anne Woznica, MLS, Medical Librarian; Erica Linskey, Administrative Assistant, Evidence-Based Medicine Unit; Kaitlyn Sevarino, MBA, Evidence-Based Quality and Value Coordinator</p>
+<p><em>Former Staff</em>: Ben Brenton, MSAE, Research Analyst, Evidence-Based Medicine Analyst</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>In accordance with American Academy of Orthopaedic Surgeons (AAOS) policy, all individuals whose names appear as authors or contributors to Clinical Practice Guideline filed a disclosure statement as part of the submission process. All panel members provided full disclosure of potential conflicts of interest prior to voting on the recommendations contained within this Clinical Practice Guidelines.</p>
+<p>Applicants with financial conflicts of interest (COI) related to the guideline topic cannot participate if the conflict occurred within one year of the start date of the guideline's development or if an immediate family member has, or has had, a relevant financial conflict. Additionally, all guideline development group members sign an attestation form agreeing to remain free of relevant financial conflicts for one year following the publication of the guideline.</p>
+<p>See Appendix IX in the original guideline document for individual work group members' conflicts of interest.</p></div></p>
+                        <h3><a href="#">Guideline Endorser(s)</a></h3>
+                    <p>American Association of Hip and Knee Surgeons - Medical Specialty Society</p>
+                    <p>American College of Radiology - Medical Specialty Society</p>
+                    <p>American Geriatrics Society - Medical Specialty Society</p>
+                    <p>Arthroscopy Association of North America - Professional Association</p>
+                    <p>Society of Military Orthopaedic Surgeons - Medical Specialty Society</p>
+                    <p>The Knee Society - Professional Association</p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712203906/https://www.guideline.gov/Home/Disclaimer?id=49934&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.orthoguidelines.org%2ftopic%3fid%3d1019f" title="OrthoGuidelines Web site">OrthoGuidelines Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203906im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>All AAOS clinical practice guidelines (CPGs) can be accessed through the AAOS OrthoGuidelines mobile app available from the <a href="/web/20180712203906/https://www.guideline.gov/Home/Disclaimer?id=49934&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.orthoguidelines.org%2fnativeapp" title="OrthoGuidelines Web site">OrthoGuidelines Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203906im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>The following is available:</p>
+<ul style="list-style-type: disc;">
+    <li>Arthritis of the knee. Patient information. 2014 Jun. Available in <a href="/web/20180712203906/https://www.guideline.gov/Home/Disclaimer?id=49934&amp;contentType=summary&amp;redirect=http%3a%2f%2ftestyoc.aaos.org%2ftopic.cfm%3ftopic%3dA00212" title="OrthoInfo Web site (English Version)">English</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203906im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> and <a href="/web/20180712203906/https://www.guideline.gov/Home/Disclaimer?id=49934&amp;contentType=summary&amp;redirect=http%3a%2f%2ftestyoc.aaos.org%2ftopic.cfm%3ftopic%3dA00607" title="OrthoInfo Web site (Spanish Version)">Spanish</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203906im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> from the OrthoInfo Web site. </li>
+</ul>
+<p class="Disclaimer">Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on March 4, 2016. The information was verified by the guideline developer on April 5, 2016. This summary was updated by ECRI Institute on June 2, 2016 following the U.S. Food and Drug Administration advisory on opioid pain medicines. This summary was updated by ECRI Institute on October 21, 2016 following the U.S. Food and Drug Administration advisory on opioid pain and cough medicines combined with benzodiazepines.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. For more information, please contact AAOS Department of Research and Scientific Affairs, 9400 West Higgins Road, Rosemont, IL 60018; Phone: (847) 823-7186; Fax: (847) 823-8125.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712203906/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712203906/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712203906/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712203906/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712203906/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712203906/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712203906/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203906/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203906/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203906/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203906/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203906/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712203906/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712203906/https://www.guideline.gov/disclaimer?id=49934&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712203906im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712203906im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712203906/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712203906/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712203906/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712203906/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712203906/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712203906/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712203906/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712203906/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712203906/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712203906/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712203906/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712203906/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712203906/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712203906/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712203906/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712203906/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712203906/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712203906/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712203906/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712203906im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712203906im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712203906/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712203906im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712203906im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712203906/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712203906js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712203906js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:39:06 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:33:25 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 176.455 (3)
+  esindex: 0.013
+  captures_list: 214.647
+  CDXLines.iter: 25.253 (3)
+  PetaboxLoader3.datanode: 123.038 (4)
+  exclusion.robots: 0.354
+  exclusion.robots.policy: 0.333
+  RedisCDXSource: 7.56
+  load_resource: 54.704
+-->

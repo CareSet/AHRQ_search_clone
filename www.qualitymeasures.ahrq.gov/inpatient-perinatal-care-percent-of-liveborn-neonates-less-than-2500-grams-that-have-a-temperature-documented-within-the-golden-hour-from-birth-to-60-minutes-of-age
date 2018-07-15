@@ -1,0 +1,899 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app42.us.archive.org';v.server_ms=1681;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Inpatient perinatal care: percent of live-born neonates less than 2,500 grams that have a temperature documented within the Golden Hour from birth to 60 minutes of age. | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180620210950cs_/https://www.qualitymeasures.ahrq.gov/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180620210950js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180620210950if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180620210950/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180620210950if_/https://www.googletagmanager.com/ns.html?id=GTM-KXQCDQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180620210950/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180620210950/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180620210950/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/" class="header-logo NQMC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png">
+				        <source srcset="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header_m.png">
+				        <img src="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png" alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Measure Summary</li>
+            <li>NQMC:009915</li>
+            <li>Aug 2014
+            </li>            
+                                </ul>
+        <div>
+                <h1>Inpatient perinatal care: percent of live-born neonates less than 2,500 grams that have a temperature documented within the Golden Hour from birth to 60 minutes of age.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_Developer_String=Collaboration%20for%20Advancing%20Pediatric%20Quality%20Measures&amp;fLockTerm=Collaboration%2Bfor%2BAdvancing%2BPediatric%2BQuality%2BMeasures">Collaboration for Advancing Pediatric Quality Measures</a></li>
+                        <li>   
+                                <a id="2537" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): timely temperatures for all low birthweight neonates. Rockville (MD): Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 43 p. </td></tr></table>            </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the measure. </p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+            <h4>Measure Hierarchy</h4>
+<a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_Collection_Hierarchy=objid49635&amp;fLockTerm=Inpatient%2BPerinatal%2BCare">Inpatient Perinatal Care</a>                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Infant%3A%20Newborn&amp;fLockTerm=Infant%253a%2BNewborn">Infant: Newborn</a></li>                                              
+                        <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Infant%3A%20Low%20birth%20weight&amp;fLockTerm=Infant%253a%2BLow%2Bbirth%2Bweight">Infant: Low birth weight</a></li>                                              
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0005903&amp;fLockTerm=Body+Temperature">Body Temperature</a>
+, <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0021288&amp;fLockTerm=Infant%2c+Low+Birth+Weight">Infant, Low Birth Weight</a>
+, <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0021562&amp;fLockTerm=Inpatients">Inpatients</a>
+, <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0242963&amp;fLockTerm=Perinatal+Care">Perinatal Care</a>
+, <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0040225&amp;fLockTerm=Time+Factors">Time Factors</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0005903&amp;fLockTerm=Body+Temperature">Body Temperature</a>
+, <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0021562&amp;fLockTerm=inpatient">inpatient</a>
+, <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0021288&amp;fLockTerm=Low+Birth+Weight+Infant">Low Birth Weight Infant</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0005903&amp;fLockTerm=Body+temperature">Body temperature</a>
+ (105723007), <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0005903&amp;fLockTerm=Body+temperature">Body temperature</a>
+ (386725007), <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0005903&amp;fLockTerm=Body+temperature">Body temperature</a>
+ (722490005), <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0021562&amp;fLockTerm=Inpatient">Inpatient</a>
+ (416800000), <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0021288&amp;fLockTerm=Low+birth+weight+infant">Low birth weight infant</a>
+ (276610007)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#563" class="section-mark">Measure Domain</a></li>
+                                    <li><a href="#566" class="section-mark">Brief Abstract</a></li>
+                                    <li><a href="#573" class="section-mark">Evidence Supporting the Measure</a></li>
+                                    <li><a href="#580" class="section-mark">State of Use of the Measure</a></li>
+                                    <li><a href="#583" class="section-mark">Application of the Measure in its Current Use</a></li>
+                                    <li><a href="#660" class="section-mark">National Strategy for Quality Improvement in Health Care</a></li>
+                                    <li><a href="#590" class="section-mark">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></li>
+                                    <li><a href="#593" class="section-mark">Data Collection for the Measure</a></li>
+                                    <li><a href="#605" class="section-mark">Computation of the Measure</a></li>
+                                    <li><a href="#615" class="section-mark">Identifying Information</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-9915?contentType=pdf" class="pdf">.PDF 105.7 kb</a></li>
+                            <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-9915?contentType=word" class="word">Word Document 297.2 kb</a></li>
+                            <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-9915?contentType=xml" class="xml">.XML 43.6 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180620210950/https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/summaries/summary/48792/inpatient-perinatal-care-percent-of-liveborn-neonates-less-than-2500-grams-that-have-a-temperature-documented-within-the-golden-hour-from-birth-to-60-minutes-of-age" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180620210950/https://twitter.com/share?text=&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/48792/inpatient-perinatal-care-percent-of-liveborn-neonates-less-than-2500-grams-that-have-a-temperature-documented-within-the-golden-hour-from-birth-to-60-minutes-of-age" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180620210950/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/48792/inpatient-perinatal-care-percent-of-liveborn-neonates-less-than-2500-grams-that-have-a-temperature-documented-within-the-golden-hour-from-birth-to-60-minutes-of-age&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180620210950/mailto:/?Subject=AHRQ: Inpatient perinatal care: percent of live-born neonates less than 2,500 grams that have a temperature documented within the Golden Hour from birth to 60 minutes of age.&amp;body=https://www.qualitymeasures.ahrq.gov/summaries/summary/48792/inpatient-perinatal-care-percent-of-liveborn-neonates-less-than-2500-grams-that-have-a-temperature-documented-within-the-golden-hour-from-birth-to-60-minutes-of-age" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Quality Measures Clearinghouse (NQMC). Measure summary: Inpatient perinatal care: percent of live-born neonates less than 2,500 grams that have a temperature documented within the Golden Hour from birth to 60 minutes of age. In: National Quality Measures Clearinghouse (NQMC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Aug 06. [cited 2018 Jun 20]. Available: https://www.qualitymeasures.ahrq.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/48792?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/48792?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/48792?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/48792?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/48792?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/48792">RefWorks</a></li>
+                            <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/48792?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="48792" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="563" class="accordion-title section-563 is-active" role="tab" aria-expanded="true"><a href="#">Measure Domain</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Primary Measure Domain</a></h3>
+                    <p>Clinical Quality Measures: Process</p>
+                        <h3><a href="#">Secondary Measure Domain</a></h3>
+                    <p>Does not apply to this measure</p>
+
+            </div>
+                <h2 id="566" class="accordion-title section-566 is-active" role="tab" aria-expanded="true"><a href="#">Brief Abstract</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description</a></h3>
+                    <p><div class="content_para"><p>This measure is used to assess the percent of live-born neonates less than 2,500 grams that have a temperature documented within the Golden Hour from birth to 60 minutes of age.</p></div></p>
+                        <h3><a href="#">Rationale</a></h3>
+                    <p><div class="content_para"><p>This measure addresses a key gap in inpatient perinatal care. Evidence that thermal management (such as hot water bottles and incubators) improves survival of newborn and premature infants exists from as early as the late 19th century (Garrison, 1923; Holt, 1902; Baker, 2000; Pierce, 1875; Currier, 1891; Fischer, 1915; Holt &amp; Macintosh, 1940). Modern studies have confirmed and extended these findings, including potential methods to maintain temperature for infants in the delivery room (Silverman, Fertig, &amp; Berger, 1958; Sinclair, 2007; Watkinson, 2006). Laptook et al. confirmed the association of temperature loss with poor outcomes in 5,277 infants, 401 to 1,499 grams, born at any of 15 academic medical centers participating in the National Institute of Child Health and Development (NICHD) Neonatal Research Network (Laptook, Salhab, &amp; Bhaskar, 2007). A formal item selection process looking at potential measures for infants under 1,500 grams identified neonatal temperature as an independent contributor to a composite quality of care measure (Profit et al., 2011).</p>
+<p>Chart review data were collected from three diverse hospitals in New York City. All three hospitals had a range of birth weights and a range of temperatures. Temperature predicted in-hospital mortality after controlling for covariates. The relationship between temperature and survival is monotonic: an increase of each 1&deg; Celsius up to 37&deg; reduced odds of death by more than 35% in the model using a continuous variable (22% for 1&deg; Fahrenheit). Defining hypothermia as admission temperature below 36.0 would estimate an increase in the risk of mortality by 27%, p=0.19.</p>
+<p>The work confirmed findings in the literature that insurance status and race (Reynolds et al., 2009) are associated with outcomes. Anecdotal reports from among the participating hospitals confirm reports in the literature (Doyle &amp; Bradshaw, 2012) that attention to thermal management can improve temperature outcomes. See the appendix of the original measure documentation for a more complete literature review.</p>
+<p>A distinguished multidisciplinary panel of national experts that included neonatologists, family physician, nurses, and a pediatric hospitalist articulated that it was a fundamental principle that all low birth weight infants need to have a timely temperature taken, whether sick or healthy, admitted to a regular nursery, or to a special care nursery or NICU. "Timely" was considered to represent different values by different Expert Panelists, but in the end none felt it was excusable as a matter of neonatal safety that any low birth weight child would go their first hour without having a documented temperature.</p>
+<p>A Vermont Oxford Network NICU team has migrated the term "The Golden Hour" from field trauma to neonatology to describe the first hour of life (Reynolds et al., 2009). Prevention of hypothermia was described as the cornerstone of Golden Hour activities and continues as such in more recent writings (Doyle &amp; Bradshaw, 2012). Delay in taking temperatures until after one hour of life is a profound violation of fundamental concepts regarding the management of low birth weight newborns.</p></div></p>
+                        <h3><a href="#">Evidence for Rationale</a></h3>
+                    <p><table><tr><td>Baker JP. The incubator and the medical discovery of the premature infant. J Perinatol. 2000 Jul-Aug;20(5):321-8. <a href="https://web.archive.org/web/20180620210950/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10920793" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): timely temperatures for all low birthweight neonates. Rockville (MD): Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 43 p. </td></tr></table></p>
+                    <p><table><tr><td>Currier A. Diseases of the newborn. Philadelphia (PA): FA Davis; 1891. </td></tr></table></p>
+                    <p><table><tr><td>Doyle KJ, Bradshaw WT. Sixty golden minutes. Neonatal Netw. 2012 Sep-Oct;31(5):289-94. <a href="https://web.archive.org/web/20180620210950/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22908049" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Fischer L. Diseases of infancy and childhood. Philadelphia (PA): FA Davis; 1915. </td></tr></table></p>
+                    <p><table><tr><td>Garrison F. History of pediatrics in Abt IA. Philadelphia (PA): WB Saunders; 1923. </td></tr></table></p>
+                    <p><table><tr><td>Holt E, Macintosh R. Holt's diseases of infants and children. New York (NY): Appleton; 1940. </td></tr></table></p>
+                    <p><table><tr><td>Holt LE. The care of premature and delicate infants. In: The diseases of infancy and childhood. Second Edition revised and enlarged. New York (NY): D. Appleton; 1902. </td></tr></table></p>
+                    <p><table><tr><td>Laptook AR, Salhab W, Bhaskar B, Neonatal Research Network. Admission temperature of low birth weight infants: predictors and associated morbidities. Pediatrics. 2007 Mar;119(3):e643-9. <a href="https://web.archive.org/web/20180620210950/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17296783" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Pierce RV. The people's common sense medical adviser in plain English. Buffalo (NY): World's Dispensary Printing Office; 1875. </td></tr></table></p>
+                    <p><table><tr><td>Profit J, Gould JB, Zupancic JA, Stark AR, Wall KM, Kowalkowski MA, Mei M, Pietz K, Thomas EJ, Petersen LA. Formal selection of measures for a composite index of NICU quality of care: Baby-MONITOR. J Perinatol. 2011 Nov;31(11):702-10. <a href="https://web.archive.org/web/20180620210950/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21350429" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Reynolds RD, Pilcher J, Ring A, Johnson R, McKinley P. The Golden Hour: care of the LBW infant during the first hour of life one unit's experience. Neonatal Netw. 2009 Jul-Aug;28(4):211-9; quiz 255-8. <a href="https://web.archive.org/web/20180620210950/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19592362" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Silverman WA, Fertig JW, Berger AP. The influence of the thermal environment upon the survival of newly born premature infants. Pediatrics. 1958 Nov;22(5):876-86. <a href="https://web.archive.org/web/20180620210950/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=13600915" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Sinclair JC. Servo-control for maintaining abdominal skin temperature at 36C in low birth weight infants. Cochrane Database Syst Rev. 2007;1:CD001074.</td></tr></table></p>
+                    <p><table><tr><td>Watkinson M. Temperature control of premature infants in the delivery room. Clin Perinatol. 2006 Mar;33(1):43-53, vi. <a href="https://web.archive.org/web/20180620210950/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16533632" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Primary Health Components</a></h3>
+                    <p><div class="content_para"><p>Inpatient perinatal care; temperature documentation; live-born low birthweight neonates; golden hour </p></div></p>
+                        <h3><a href="#">Denominator Description</a></h3>
+                    <p><div class="content_para"><p>Live-born neonates with birthweight of less than 2,500 grams (see the related "Denominator Inclusions/Exclusions" field)</p></div></p>
+                        <h3><a href="#">Numerator Description</a></h3>
+                    <p><div class="content_para"><p>Live-born neonates with a birthweight of less than 2,500 grams who have their temperature taken within the first 60 minutes of life (see the related "Numerator Inclusions/Exclusions" field)</p></div></p>
+
+            </div>
+                <h2 id="573" class="accordion-title section-573 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Criterion of Quality for the Measure</a></h3>
+                    <p><ul><li>A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences</li><li>A systematic review of the clinical research literature (e.g., Cochrane Review)</li><li>One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal</li></ul></p>
+                        <h3><a href="#">Additional Information Supporting Need for the Measure</a></h3>
+                    <p><div class="content_para"><p><strong>Evidence for Importance of the Measure to Medicaid and/or Children's Health Insurance Program (CHIP)</strong><br/>
+In New York State, about half of low birthweight (LBW) babies are insured by Medicaid. Hypothermia is not only associated with neonatal mortality, but there is evidence that intraventricular hemorrhage (IVH) can also be a consequence of hypothermia. IVH is a significant cause of disability, developmental delay, and, when serious, is a common cause for LBW infants to develop into children with special health care needs. This has broad impact on Medicaid, Medicaid expenses, and early intervention services, including Early and Periodic Screening, Diagnostic and Treatment (EPSDT) services. Hypothermia, through death and disability, may have a long tail that impacts families and programs associated with Medicaid. Furthermore, the Medicaid population is disproportionately black and in the testing data, black infants were disproportionately hypothermic. </p>
+<p><strong>Research Evidence</strong><br/>
+Key findings from a study of 7,553 neonates (from 61 nurseries) in New York State are the following: temperature was variable within weight categories, and blacks were disproportionately cool compared with Hispanic or non-Hispanic others, who were disproportionately cool compared with non-Hispanic whites, whether or not they were stratified by birthweight category. Deaths were disproportionate among those who were cool, in a graded fashion.</p>
+<p>The distribution of mean temperature by nursery ranged from 35.7 to 38.2, with a median of 36.3, a standard error of 0.36, and an interquartile range of 0.4. Twenty-five percent of these nurseries had a mean temperature below 36.1. It is concluded that temperatures do vary across nurseries, further reinforcing the sense that this topic is an important measure of performance.</p>
+<p>Using the Mount Sinai Data Warehouse, which is linked to Mount Sinai's Epic electronic medical record, the developer looked at the time of the first recorded temperature for low birthweight newborns for a one-year period (446 infants for whom the time of the first temperature could be identified electronically) across the weight spectrum and found that on average there were several infants each month whose temperature-taking was delayed, and that these infants were across all weight categories. These data confirm that while infants generally have their temperature taken within 60 minutes, even at a teaching hospital with Level 4 care such as Mount Sinai (which has succeeded in raising admission temperatures for LBW infants because of sustained attention to the issue), it is not universal.</p></div></p>
+                        <h3><a href="#">Evidence for Additional Information Supporting Need for the Measure</a></h3>
+                    <p><table><tr><td>CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): timely temperatures for all low birthweight neonates. Rockville (MD): Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 43 p. </td></tr></table></p>
+                        <h3><a href="#">Extent of Measure Testing</a></h3>
+                    <p><div class="content_para"><p><strong>Reliability</strong><br/>
+The basis for the scientific soundness of this measure lies in the use of a hybrid of administrative/encounter and medical records data. Though they have their limitations, these data types have been shown in multiple studies to be a reliable source of information for population level quality measurement. One such study found that quality measures that could be calculated using administrative data showed higher rates of performance than indicated by a review of the medical record alone, and that claims data is more accurate for identifying services with a high likelihood of documentation due to reimbursement.</p>
+<p>A feasibility study of diverse hospitals from across the country and in different stages of electronic medical record (EMR) development was conducted. The developer's feasibility study was designed to determine the ability and ease of collecting related data. The results from this study show that date and time are self-evident and that there is mild but manageable variation in how time is reported. This limited variation will not impair the calculation of a neonate's age or the relationship of the time of measurement to the time of birth or to the time of arrival to the neonatal intensive-care unit (NICU), as may be required in the measure set. Twelve of 15 respondents were clear that the data would be in the infant record and three others thought it would be in the mother's chart. Nine of 10 who responded to the question indicated the data would be available in the electronic medical record, while one thought that it was more likely in the paper record. None thought the data would be very difficult to obtain.</p>
+<p>In the team's work studying processes and outcomes of neonatal care in three New York City hospitals, they found that chart abstractors could be readily trained to collect valid and reliable data regarding the thermal management of children (and other processes of care) using a simple portable electronic data abstraction tool (Virnig &amp; McBean, 2001; Rubio et al., 2003).</p>
+<p><strong>Validity</strong><br/>
+The validity of the measure stems not only from the use of a formal process that was highly engaged with stakeholders and the literature in order to generate potential measures, but from empirical data analysis of both the Mount Sinai Data Warehouse and the New York State Department of Health Inpatient Neonatal database which has data on virtually all children admitted to Level 2 or higher nurseries in the state.</p>
+<p>Testing (using Mount Sinai data) of International Classification of Diseases, Ninth Revision (ICD-9) codes as a way to identify LBW infants found that 99 infants out of 677 who were identified with the ICD-9 specifications listed in Table 1, Section I of the original measure documentation, had birth weights of over 2,500. The ICD-9 codes for this cohort that were 2,500 grams or above is listed in Table 2.</p>
+<p>Of the 99 infants, 5 had recorded birth weights of 2,500 grams, consistent with the ICD-9 codes used. The developer has indicated in the specifications that the various ICD-9 codes, such as 764.00, 764.10, and 765.10 that represent poor fetal growth without a specified weight need to have their eligibility for the measure confirmed with an actual birthweight.</p>
+<p>The key constructs underlying the measures are:</p>
+<ul style="list-style-type: disc;">
+    <li>Date and time of birth, date and time of arrival to the Level 2 or higher nursery, and time when the first temperature was taken. </li>
+</ul>
+<p>Testing with data from the New York State Neonatal database supports various aspects of this measure. The data include reports from 20 Level 2 nurseries, 27 Level 3 nurseries, and 14 Regional Perinatal Centers that contributed 20 or more infants for the reporting year assessed. Included in the data are all inborn infants from these hospitals with a birthweight of 400 to 2,499 grams whose admission temperature was 29&deg; Celsius or higher. Excluded were those with anencephaly or those who expired within 48 hours without receiving respiratory support beyond oxygen in the NICU. N=7,553. The number of infants ranged from 21 to 370 per hospital and 86.7% were admitted to Level 3 or higher hospitals.</p>
+<p>The developer investigated time of first temperature among infants admitted to the neonatal intensive care unit within 24 hours of birth. Overall, it was found that temperatures taken after 15 minutes of arrival were significantly more likely to be euthermic and less likely to be cool or cold, consistent with expected findings.</p>
+<p>Data analysis confirms that there is variability in the time at which temperatures are taken. Statewide, 86.8% of LBW infants have their temperature taken within 15 minutes of arrival to the nursery. Age of neonate at time that the first temperature was taken was also investigated. It was found that 10.8% of LBW infants (n=815) did not have documentation of a temperature within the first hour of life. The systematic variation&mdash;including the racial differences noted above&mdash;and the apparent structural variation seen across the Level 2, 3, and 4 nurseries reinforce the decision to prioritize these proposed measures of timing as important process of care measures, with failure of the 60 minute measure representing a meaningful failure that jeopardizes patient safety. Data regarding age of neonate and temperature can be seen in Table 3 of the original measure documentation.</p>
+<p>Temperatures measured after 60 minutes of life were higher than those measured within the first hour (p less than .0001). The findings have important implications. The temperature difference reminds [us] that temperature in LBW infants is largely a factor of environment, and that the potentially chaotic environment surrounding delivery and transport immediately following delivery is very different from the potentially more controlled environment of the nursery an hour or more after birth. So the earlier and later temperatures are actually measuring different constructs. Failure to measure a timely temperature after birth forgoes the opportunity to identify and manage early cold stress. Further, if temperature is a quality indicator as proposed, the higher later temperatures may become an incentive to not enter early cool temperatures into the permanent medical record.</p>
+<p>The developer also employed a multitude of experts and diverse stakeholders&mdash;clinicians, scientists, payers, purchasers, and consumers&mdash;as another means of establishing validity and believes this to be central to validity in the context of measuring quality amidst uncertainty. They obtained feedback on the face validity of the constructs, the development of the Boundary Guidelines, and the measure's testing. The use of Expert Panels has been demonstrated to be useful in measure development and evaluation, and practitioners have been identified as a resource for researchers in developing and revising measures, since they are on the frontlines working with the populations who often become research participants. Involving practitioners can assist researchers in the creation of measures that are appropriate and easily administered.</p>
+<p>Throughout development, the Collaboration for Advancing Pediatric Quality Measures (CAPQuaM) brought together stakeholders to ensure their iterative engagement in advancing quality measures that are understandable, salient and actionable. CAPQuaM employed a 360&deg; method, designed to involve key stakeholders in meaningful ways. The development process for this measure cultivated formal input from:</p>
+<ul style="list-style-type: disc;">
+    <li>Medical literature (both peer reviewed and gray, including state websites); </li>
+    <li>Relevant clinicians; </li>
+    <li>Organizational stakeholders (consortium partners, as well as advisory board members, see below); </li>
+    <li>Multidisciplinary, geographically diverse Expert Panel including clinicians and academicians; and </li>
+    <li>CAPQuaM's scientific team. </li>
+</ul>
+<p>Clinical criteria regarding reporting approaches, including consideration of inclusion and exclusion criteria, the value of temperature measurement, and specific and meaningful temperature cutoffs were developed using a modified version of the RAND/University of California, Los Angeles (UCLA) modified Delphi panels. CAPQuaM sought recommendations from major clinical societies and other stakeholders to identify academic and clinician Expert Panel participants with a variety of backgrounds, clinical and regional settings, and expertise. The product of this process was participation by a broad group of experts in the development of clinically detailed scenarios leading to the measures.</p>
+<p>The route to measure specification included development of relevant scenarios and issues for formal processing by an Expert Panel who participated in a two-round RAND/UCLA modified Delphi panel that culminated in a day-long in-person meeting hosted at the Joint Commission and moderated by a pediatrician and an obstetrician-gynecologist. The output from that panel meeting was summarized in the form of a Boundary Guideline that was then used to guide the measure specification and prioritization.</p>
+<p>The developer's feasibility work indicates that the time the temperature is assessed, rather than simply the time that it is recorded, is documented in the medical record, generally an electronic medical record (EMR). This is a critical aspect of the validity of time data.</p></div></p>
+                        <h3><a href="#">Evidence for Extent of Measure Testing</a></h3>
+                    <p><table><tr><td>CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): timely temperatures for all low birthweight neonates. Rockville (MD): Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 43 p. </td></tr></table></p>
+                    <p><table><tr><td>Rubio D, Berg-Weger M, Tebb SS, Lee ES, Rauch S. Objectifying content validity: conducting a content validity study in social work research. Soc Work Res. 2003;27(2):94-104.</td></tr></table></p>
+                    <p><table><tr><td>Virnig BA, McBean M. Administrative data for public health surveillance and planning. Ann Rev Public Health. 2001;22:213-30. <a href="https://web.archive.org/web/20180620210950/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11274519" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+
+            </div>
+                <h2 id="580" class="accordion-title section-580 is-active" role="tab" aria-expanded="true"><a href="#">State of Use of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">State of Use</a></h3>
+                    <p>Current routine use</p>
+                        <h3><a href="#">Current Use</a></h3>
+                    <p>Internal quality improvement</p>
+
+            </div>
+                <h2 id="583" class="accordion-title section-583 is-active" role="tab" aria-expanded="true"><a href="#">Application of the Measure in its Current Use</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measurement Setting</a></h3>
+                    <p>Hospital Inpatient</p>
+                    <p>Other</p>
+                        <h3><a href="#">Professionals Involved in Delivery of Health Services</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Midwife</p>
+                    <p>Nurses</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Least Aggregated Level of Services Delivery Addressed</a></h3>
+                    <p>Clinical Practice or Public Health Sites</p>
+                        <h3><a href="#">Statement of Acceptable Minimum Sample Size</a></h3>
+                    <p>Unspecified</p>
+                        <h3><a href="#">Target Population Age</a></h3>
+                    <p><div class="content_para"><p>Newborn </p></div></p>
+                        <h3><a href="#">Target Population Gender</a></h3>
+                    <p>Either male or female</p>
+
+            </div>
+                <h2 id="660" class="accordion-title section-660 is-active" role="tab" aria-expanded="true"><a href="#">National Strategy for Quality Improvement in Health Care</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">National Quality Strategy Aim</a></h3>
+                    <p>Better Care</p>
+                        <h3><a href="#">National Quality Strategy Priority</a></h3>
+                    <p>Health and Well-being of Communities<br/>Making Care Safer<br/>Prevention and Treatment of Leading Causes of Mortality</p>
+
+            </div>
+                <h2 id="590" class="accordion-title section-590 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Safety</p>
+                    <p>Timeliness</p>
+
+            </div>
+                <h2 id="593" class="accordion-title section-593 is-active" role="tab" aria-expanded="true"><a href="#">Data Collection for the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Case Finding Period</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Denominator Sampling Frame</a></h3>
+                    <p>Patients associated with provider</p>
+                        <h3><a href="#">Denominator (Index) Event or Characteristic</a></h3>
+                    <p>Clinical Condition</p>
+                    <p>Institutionalization</p>
+                    <p>Patient/Individual (Consumer) Characteristic</p>
+                        <h3><a href="#">Denominator Time Window</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Denominator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+Live-born neonates with birthweight of less than 2,500 grams (as identified from either the medical record or by International Classification of Diseases, Ninth Revision, Clinical Modification [ICD-9-CM] principal or other diagnosis codes)</p>
+<p class="Note"><strong>Note</strong>: For codes 76400, 76410, 76420, 76490, 76500, birthweights should be verified from the medical record prior to including in measure. Refer to the original measure documentation for administrative codes. </p>
+<p><strong>Exclusions</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Neonates who do not survive until the time limit of the measure (60 minutes after birth) </li>
+    <li>Neonates not born in hospital/medical care setting </li>
+    <li>Neonates with anencephaly ICD-9-CM 740 </li>
+    <li>Neonates with Comfort care (requires all of the features below): Died within 48 hours of birth; AND Received no respiratory support after arrival to the Level 2 or higher nursery other than blow by oxygen (i.e., did not receive continuous positive airway pressure [CPAP], intubation, or cardiopulmonary resuscitation [CPR] after arrival at Level 2 or higher nursery) </li>
+</ul></div></p>
+                        <h3><a href="#">Exclusions/Exceptions</a></h3>
+                    <p>Medical factors addressed</p>
+                        <h3><a href="#">Numerator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+Live-born neonates with a birthweight of less than 2,500 grams (as identified by International Classification of Diseases, Ninth Revision, Clinical Modification [ICD-9-CM] Principal or Other Diagnosis Codes) who have their temperature taken within the first 60 minutes of life</p>
+<p class="Note"><strong>Note</strong>: Refer to Table 1 in the original measure documentation for ICD-9-CM Principal or Other Diagnosis Codes.</p>
+<p><strong>Exclusions</strong><br/>
+None</p></div></p>
+                        <h3><a href="#">Numerator Search Strategy</a></h3>
+                    <p>Institutionalization</p>
+                        <h3><a href="#">Data Source</a></h3>
+                    <p>Administrative clinical data</p>
+                    <p>Electronic health/medical record</p>
+                    <p>Paper medical record</p>
+                        <h3><a href="#">Type of Health State</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Instruments Used and/or Associated with the Measure</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+
+            </div>
+                <h2 id="605" class="accordion-title section-605 is-active" role="tab" aria-expanded="true"><a href="#">Computation of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measure Specifies Disaggregation</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Scoring</a></h3>
+                    <p>Rate/Proportion</p>
+                        <h3><a href="#">Interpretation of Score</a></h3>
+                    <p>Desired value is a higher score</p>
+                        <h3><a href="#">Allowance for Patient or Population Factors</a></h3>
+                    <p>Analysis by subgroup (stratification by individual factors, geographic factors, etc.)</p>
+                        <h3><a href="#">Description of Allowance for Patient or Population Factors</a></h3>
+                    <p><div class="content_para"><p>General Data Elements for Stratification and Reporting: </p>
+<ul style="list-style-type: disc;">
+    <li>Birthweight </li>
+    <li>5 minute Apgar </li>
+    <li>Race/ethnicity </li>
+    <li>Insurance type (public, commercial, none, other) </li>
+    <li>Benefit category (Health Maintenance Organization [HMO], Preferred Provider Organization [PPO], Medicaid Primary Care Management Plan, Fee for Service, Other) </li>
+    <li>Mother's state and county of residence and or ZIP code </li>
+    <li>Medicaid or Children's Health Insurance Program (CHIP) benefit/qualifying category </li>
+    <li>Born inside or outside of a medical facility
+    <ol style="list-style-type: lower-roman;" start="1">
+        <li>Location of birth
+        <ol style="list-style-type: lower-alpha;" start="1">
+            <li>Operating Room (e.g., for Cesarean section or double set up delivery) </li>
+            <li>Birthing room (birthing room is referring to a birthing or delivery room on a labor and delivery suite that is not an operating room) </li>
+            <li>Other </li>
+        </ol>
+        </li>
+        <li>Location of birth unavailable:
+        <ol style="list-style-type: lower-alpha;" start="1">
+            <li>If delivery occurred by Cesarean section then put location of birth as operating room </li>
+            <li>If this was a twin or multiple gestation delivery put location of birth as operating room </li>
+            <li>Otherwise put location of birth as birthing room/delivery room </li>
+        </ol>
+        </li>
+    </ol>
+    </li>
+</ul></div></p>
+                        <h3><a href="#">Standard of Comparison</a></h3>
+                    <p>External comparison at a point in, or interval of, time</p>
+                    <p>Internal time comparison</p>
+
+            </div>
+                <h2 id="615" class="accordion-title section-615 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Original Title</a></h3>
+                    <p><div class="content_para"><p>CAPQuaM PQMP PERINATAL I: timely temperatures for all low birthweight neonates.</p></div></p>
+                        <h3><a href="#">Measure Collection Name</a></h3>
+                    <p>Inpatient Perinatal Care</p>
+                        <h3><a href="#">Submitter</a></h3>
+                    <p>Collaboration for Advancing Pediatric Quality Measures - Health Care Quality Collaboration</p>
+                        <h3><a href="#">Developer</a></h3>
+                    <p>Collaboration for Advancing Pediatric Quality Measures - Health Care Quality Collaboration</p>
+                        <h3><a href="#">Funding Source(s)</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Composition of the Group that Developed the Measure</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Other Potential Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>This measure was not adapted from another source. </p></div></p>
+                        <h3><a href="#">Date of Most Current Version in NQMC</a></h3>
+                    <p>2014 Aug</p>
+                        <h3><a href="#">Measure Maintenance</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Date of Next Anticipated Revision</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Measure Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the measure. </p></div></p>
+                        <h3><a href="#">Source(s)</a></h3>
+                    <p><table><tr><td>CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): timely temperatures for all low birthweight neonates. Rockville (MD): Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 43 p. </td></tr></table></p>
+                        <h3><a href="#">Measure Availability</a></h3>
+                    <p><div class="content_para"><p>Source available from the <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=48792&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.capquam.org%2fdocs%2fPerinatal%2fPerinatal%2520Measure%25201%2520FINAL%2520COMBINED.pdf" title="CAPQuaM Web site">Collaboration for the Advancement of Pediatric Quality Measures (CAPQuaM) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>. </p>
+<p>For more information, contact Dr. Lawrence Kleinman, Director of Collaboration for Advancing Pediatric Quality Measures (CAPQuaM) at the Icahn School of Medicine at Mount Sinai, Department of Population Health and Policy at 1 Gustave L. Levy Place, Box 1077, New York, NY 10029; Phone: 212-659-9567; E-mail: <a href="https://web.archive.org/web/20180620210950/mailto:Lawrence.Kleinman@mountsinai.org">Lawrence.Kleinman@mountsinai.org</a>; Web site: <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=48792&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.capquam.org%2f" title="CAPQuaM Web site">www.capquam.org</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>. </p></div></p>
+                        <h3><a href="#">NQMC Status</a></h3>
+                    <p><div class="content_para"><p>This NQMC summary was completed by ECRI Institute on July 14, 2015. The information was not verified by the measure developer.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.</p>
+<p>Users may download and use the measure(s) with attribution that these are Collaboration for Advancing Pediatric Quality Measures (CAPQuaM) measures part of the CHIPRA Pediatric Quality Measures Program (PQMP) and the CAPQuaM measure developers are willing to make themselves available for consultation on a case by case basis.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NQMC Disclaimer</a></h3>
+                    <p><p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria">NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NQMC Measure Summaries</h3>
+            <p>NQMC provides structured summaries containing information about measures and their development.</p>
+            <ul>
+                <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/domain-framework" class="internal-link">Domain Framework</a></li>
+                <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/template-of-measure-attributes" class="internal-link">Template of Measure Attributes</a></li>
+                <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/faqs" class="help-button">Measure Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NQMC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+    
+    <a class="block-link" href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/disclaimer?id=48792&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.svg">
+					  	<img src="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.png" alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		                <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a></li>
+						<li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180620210950/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://web.archive.org/web/20180620210950/https://www.guideline.gov/" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.svg">
+									<img src="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180620210950/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180620210950im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180620210950/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180620210950js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180620210950js_/https://www.qualitymeasures.ahrq.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 21:09:50 Jun 20, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:13:30 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 142.122 (3)
+  esindex: 0.024
+  captures_list: 427.762
+  CDXLines.iter: 20.1 (3)
+  PetaboxLoader3.datanode: 120.121 (4)
+  exclusion.robots: 0.176
+  exclusion.robots.policy: 0.167
+  RedisCDXSource: 260.478
+  PetaboxLoader3.resolve: 1197.873
+  load_resource: 1228.978
+-->

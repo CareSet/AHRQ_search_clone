@@ -1,0 +1,1161 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app57.us.archive.org';v.server_ms=473;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Safe administration of systemic cancer therapy. Part 2: administration of chemotherapy and management of preventable adverse events. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712210523im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712210523im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712210523im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712210523im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712210523/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712210523im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712210523cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712210523js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712210523if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712210523/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712210523if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712210523/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712210523/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712210523/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712210523/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712210523im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712210523im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712210523im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712210523/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712210523/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712210523/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712210523/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712210523/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712210523/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712210523/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712210523/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712210523/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712210523/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712210523/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712210523/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712210523/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712210523/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712210523/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712210523/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712210523/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712210523/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712210523/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712210523/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712210523/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010333</li>
+            <li>2014 Mar 10
+            </li>            
+                                </ul>
+        <div>
+                <h1>Safe administration of systemic cancer therapy. Part 2: administration of chemotherapy and management of preventable adverse events.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712210523/https://www.guideline.gov/search?f_Guideline_Developer_String=Program%20in%20Evidence-based%20Care&amp;fLockTerm=Program%2Bin%2BEvidence-based%2BCare">Program in Evidence-based Care</a></li>
+                        <li>   
+                                <a id="924" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Leung M, Bland R, Baldassarre F, Green E, Kaizer L, Hertz S, Craven J, Trudeau M, Boudreau A, Cheung M, Singh S, Kukreti V, Raha R, Safe Administration of Chemotherapy Expert Panel. Safe administration of systemic cancer therapy. Part 2: administration of chemotherapy and management of preventable adverse events. Toronto (ON): Cancer Care Ontario (CCO); 2014 Mar 10. 82 p.&nbsp;(Evidence-based series; no. 12-12-2).&nbsp; [95 references]</td></tr></table>                    <p><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=fulltextlink&amp;redirect=https%253a%252f%252fwww.cancercare.on.ca%252fcommon%252fpages%252fUserFile.aspx%253ffileId%253d299609">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>The EVIDENCE-BASED SERIES report, initially the full original Guideline, over time will expand to contain new information emerging from reviewing and updating activities.</p>
+<p>Please visit the <a href="https://web.archive.org/web/20180712210523/https://www.cancercare.on.ca/common/pages/UserFile.aspx?fileId=299609" title="Cancer Care Ontario Web site">Cancer Care Ontario Web site</a> for details on any new evidence that has emerged and implications to the guidelines.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712210523/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712210523/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712210523/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712210523/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712210523/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712210523/https://www.guideline.gov/search?f_ICD9CM_CUI=C0375111&amp;fLockTerm=Neoplasm+of+unspecified+nature%2c+site+unspecified">Neoplasm of unspecified nature, site unspecified</a>
+ (239.9)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0003392&amp;fLockTerm=Antineoplastic+Agents">Antineoplastic Agents</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C1145640&amp;fLockTerm=Central+Venous+Catheters">Central Venous Catheters</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0008971&amp;fLockTerm=Clinical+Protocols">Clinical Protocols</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0010356&amp;fLockTerm=Cross+Infection">Cross Infection</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0011121&amp;fLockTerm=Decontamination">Decontamination</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C1956058&amp;fLockTerm=Drug+Dosage+Calculations">Drug Dosage Calculations</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0013182&amp;fLockTerm=Drug+Hypersensitivity">Drug Hypersensitivity</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0013216&amp;fLockTerm=Drug+Therapy">Drug Therapy</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0041755&amp;fLockTerm=Drug-Related+Side+Effects+and+Adverse+Reactions">Drug-Related Side Effects and Adverse Reactions</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0014680&amp;fLockTerm=Equipment+Safety">Equipment Safety</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0015379&amp;fLockTerm=Extravasation+of+Diagnostic+and+Therapeutic+Materials">Extravasation of Diagnostic and Therapeutic Materials</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C3494474&amp;fLockTerm=Hand+Hygiene">Hand Hygiene</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0085557&amp;fLockTerm=Infection+Control">Infection Control</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0021436&amp;fLockTerm=Infusion+Pumps">Infusion Pumps</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0206204&amp;fLockTerm=Medical+Waste+Disposal">Medical Waste Disposal</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C1611232&amp;fLockTerm=Medication+Therapy+Management">Medication Therapy Management</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0027651&amp;fLockTerm=Neoplasms">Neoplasms</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0028682&amp;fLockTerm=Nursing+Care">Nursing Care</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C1113679&amp;fLockTerm=Patient+Safety">Patient Safety</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0031542&amp;fLockTerm=Phlebitis">Phlebitis</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MSH_CUI=C0040053&amp;fLockTerm=Thrombosis">Thrombosis</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0041755&amp;fLockTerm=Adverse+reaction+to+drug">Adverse reaction to drug</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0003392&amp;fLockTerm=Antineoplastic+Agents">Antineoplastic Agents</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0028682&amp;fLockTerm=Care+given+by+nurses">Care given by nurses</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C1145640&amp;fLockTerm=Central+venous+catheter%2c+device">Central venous catheter, device</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0392920&amp;fLockTerm=Chemotherapy+Regimen">Chemotherapy Regimen</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0010356&amp;fLockTerm=Cross+Infection">Cross Infection</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0013182&amp;fLockTerm=Drug+Allergy">Drug Allergy</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0014680&amp;fLockTerm=Equipment+Safety">Equipment Safety</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0015379&amp;fLockTerm=Extravasation+of+Diagnostic+and+Therapeutic+Materials">Extravasation of Diagnostic and Therapeutic Materials</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0085557&amp;fLockTerm=Infectious+disease+prevention+%2f+control">Infectious disease prevention / control</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0021436&amp;fLockTerm=Infusion+Pump">Infusion Pump</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0375111&amp;fLockTerm=Neoplasm+of+unspecified+nature%2c+site+unspecified">Neoplasm of unspecified nature, site unspecified</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0027651&amp;fLockTerm=Neoplasms">Neoplasms</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0030695&amp;fLockTerm=Patient+Monitoring">Patient Monitoring</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C1113679&amp;fLockTerm=patient+safety">patient safety</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0013216&amp;fLockTerm=Pharmacotherapy">Pharmacotherapy</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_MTH_CUI=C0040053&amp;fLockTerm=Thrombosis">Thrombosis</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712210523/https://www.guideline.gov/search?f_PDQ_CUI=C0280952&amp;fLockTerm=drug+extravasation">drug extravasation</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1272419&amp;fLockTerm=Adverse+drug+reaction+prevention">Adverse drug reaction prevention</a>
+ (385797002), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0041755&amp;fLockTerm=Adverse+reaction+to+drug">Adverse reaction to drug</a>
+ (264519003), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0041755&amp;fLockTerm=Adverse+reaction+to+drug">Adverse reaction to drug</a>
+ (62014003), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003392&amp;fLockTerm=Antineoplastic+agent">Antineoplastic agent</a>
+ (27867009), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003392&amp;fLockTerm=Antineoplastic+agent">Antineoplastic agent</a>
+ (372688009), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0392920&amp;fLockTerm=Antineoplastic+chemotherapy+regimen">Antineoplastic chemotherapy regimen</a>
+ (716872004), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1145640&amp;fLockTerm=Central+venous+catheter">Central venous catheter</a>
+ (52124006), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0010356&amp;fLockTerm=Cross+infection">Cross infection</a>
+ (36406009), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0010356&amp;fLockTerm=Cross+infection">Cross infection</a>
+ (408678008), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0011121&amp;fLockTerm=Decontamination">Decontamination</a>
+ (409530006), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0013182&amp;fLockTerm=Drug+allergy">Drug allergy</a>
+ (416093006), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0013182&amp;fLockTerm=Drug+allergy">Drug allergy</a>
+ (416098002), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0013216&amp;fLockTerm=Drug+therapy">Drug therapy</a>
+ (416608005), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0280952&amp;fLockTerm=Extravasation+of+drug">Extravasation of drug</a>
+ (264522001), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0393390&amp;fLockTerm=Infection+after+infusion">Infection after infusion</a>
+ (213313005), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0085557&amp;fLockTerm=Infection+control+procedure">Infection control procedure</a>
+ (77248004), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0021436&amp;fLockTerm=Infusion+pump">Infusion pump</a>
+ (430033006), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0021436&amp;fLockTerm=Infusion+pump">Infusion pump</a>
+ (57118008), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030695&amp;fLockTerm=Monitoring+of+patient">Monitoring of patient</a>
+ (182777000), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0027651&amp;fLockTerm=Neoplasm">Neoplasm</a>
+ (108369006), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0031542&amp;fLockTerm=Phlebitis">Phlebitis</a>
+ (61599003), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040053&amp;fLockTerm=Thrombosis">Thrombosis</a>
+ (118927008), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040053&amp;fLockTerm=Thrombosis">Thrombosis</a>
+ (264579008), <a href="/web/20180712210523/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040053&amp;fLockTerm=Thrombosis">Thrombosis</a>
+ (439127006)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SPN</h5>
+                    <div class="field-content">
+<a href="/web/20180712210523/https://www.guideline.gov/search?f_SPN_CUI=C1323131&amp;fLockTerm=PORT+%26+CATHETER%2c+IMPLANTED%2c+SUBCUTANEOUS%2c+INTRAPERITONEAL">PORT &amp; CATHETER, IMPLANTED, SUBCUTANEOUS, INTRAPERITONEAL</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_SPN_CUI=C0021436&amp;fLockTerm=PUMP%2c+INFUSION">PUMP, INFUSION</a>
+, <a href="/web/20180712210523/https://www.guideline.gov/search?f_SPN_CUI=C0493690&amp;fLockTerm=PUMP%2c+INFUSION%2c+ELASTOMERIC">PUMP, INFUSION, ELASTOMERIC</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712210523/https://www.guideline.gov/search?f_UMD_CUI=C1145640&amp;fLockTerm=Catheters%2c+Vascular%2c+Infusion%2c+Central+Venous">Catheters, Vascular, Infusion, Central Venous</a>
+ (10-729), <a href="/web/20180712210523/https://www.guideline.gov/search?f_UMD_CUI=C0021436&amp;fLockTerm=Infusion+Pumps">Infusion Pumps</a>
+ (16-495), <a href="/web/20180712210523/https://www.guideline.gov/search?f_UMD_CUI=C3203791&amp;fLockTerm=Infusion+Pumps%2c+Multitherapy%2c+Ambulatory%2c+Elastomeric%2c+Single-Patient">Infusion Pumps, Multitherapy, Ambulatory, Elastomeric, Single-Patient</a>
+ (25-598)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712210523/https://www.guideline.gov/summaries/downloadcontent/ngc-10333?contentType=pdf" class="pdf">.PDF 123.6 kb</a></li>
+                            <li><a href="/web/20180712210523/https://www.guideline.gov/summaries/downloadcontent/ngc-10333?contentType=word" class="word">Word Document 321.7 kb</a></li>
+                            <li><a href="/web/20180712210523/https://www.guideline.gov/summaries/downloadcontent/ngc-10333?contentType=xml" class="xml">.XML 60.6 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712210523/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/48001/safe-administration-of-systemic-cancer-therapy-part-2-administration-of-chemotherapy-and-management-of-preventable-adverse-events" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712210523/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/48001/safe-administration-of-systemic-cancer-therapy-part-2-administration-of-chemotherapy-and-management-of-preventable-adverse-events" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712210523/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/48001/safe-administration-of-systemic-cancer-therapy-part-2-administration-of-chemotherapy-and-management-of-preventable-adverse-events&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712210523/mailto:/?Subject=AHRQ: Safe administration of systemic cancer therapy. Part 2: administration of chemotherapy and management of preventable adverse events.&amp;body=https://www.guideline.gov/summaries/summary/48001/safe-administration-of-systemic-cancer-therapy-part-2-administration-of-chemotherapy-and-management-of-preventable-adverse-events" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Safe administration of systemic cancer therapy. Part 2: administration of chemotherapy and management of preventable adverse events. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Mar 10. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712210523/https://www.guideline.gov/summaries/citedownload/48001?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712210523/https://www.guideline.gov/summaries/citedownload/48001?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712210523/https://www.guideline.gov/summaries/citedownload/48001?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712210523/https://www.guideline.gov/summaries/citedownload/48001?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712210523/https://www.guideline.gov/summaries/citedownload/48001?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712210523/https://www.guideline.gov/summaries/citedownload/48001">RefWorks</a></li>
+                            <li><a href="/web/20180712210523/https://www.guideline.gov/summaries/citedownload/48001?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="48001" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p><span style="text-decoration: underline;"><strong>Areas of Interest and Summary Recommendations</strong></span></p>
+<p>To optimize the level of professional practice to ensure the safety of chemotherapy administration, it is recommended that:</p>
+<ul style="list-style-type: disc;">
+    <li>Institutions develop, implement and monitor specific policies and procedures for the safe administration of chemotherapy </li>
+    <li>The development of policies and procedures be considered as a quality indicator (step 1) and the subsequent impact of these policies and procedures on patient-relevant outcomes be assessed (step 2) </li>
+</ul>
+<p><strong>Education and Competencies</strong></p>
+<p>The Working Group recommends that organizations have policies and procedures in place that address:</p>
+<ul style="list-style-type: disc;">
+    <li>Roles and responsibilities of health professionals participating in the care of persons with cancer who are receiving chemotherapy </li>
+    <li>Education and skill development of professionals to establish competence in caring for persons receiving chemotherapy and in operating any equipment required to provide this care </li>
+    <li>An ongoing and sustained competency program for all professionals caring for persons receiving chemotherapy that regularly (i.e., annually) evaluates maintenance of competency and adherence to policies and procedures&nbsp; </li>
+    <li>Education of health professionals specifically regarding the prevention, management and reporting of side effects and adverse events </li>
+    <li>Standards for all major processes involved in the prescribing, dispensing and administration of chemotherapy. For example: how chemotherapy is prescribed, the use of standardized chemotherapy protocols (with supporting references and documentation when there are protocol deviations), a process for order verification and independent double-checking, chemotherapy preparation and dispensing, pre-treatment assessment, catheter selection, maintenance and removal, monitoring, patient education and discharge documentation </li>
+    <li>Proper dose of chemotherapy (not routinely capped for larger patients) </li>
+    <li>Proper dose adjustment of chemotherapy based on adverse events and conditions (e.g., febrile neutropenia, neurotoxicity, nephrotoxicity) </li>
+    <li>Safe labeling, and the timing and scheduling of chemotherapy drugs </li>
+    <li>Prevention, early detection and management of complications related to the catheter/device use and to the drug administered </li>
+    <li>Safe handling of hazardous drugs, including drug preparation, equipment for personal protection, drug administration, chemotherapy spill management and waste disposal, that meets provincial and national occupational health and safety standards </li>
+    <li>Education and promotion of self-management in persons receiving chemotherapy (e.g., on prevention, management and reporting of side effects and adverse events) </li>
+</ul>
+<p><strong>Area of Interest 1: Selection, Use and Management of Vascular Access Devices (VAD), Including Potential Complications, During the Administration of Systemic Cancer Treatment</strong></p>
+<p><em>Selection and Management of Peripheral and Central Venous Access Devices and Intra-peritoneal Catheters</em></p>
+<ul style="list-style-type: disc;">
+    <li>Treatment factors are the primary consideration in the selection of an access device, as they may dictate the need for a particular device or class of devices. Clinical factors, patient informed decision making and resource concerns may further direct or guide selection. </li>
+    <li>The access to expertise or device availability should not be a barrier for the patient to receive the most appropriate device. For specific procedures such as the insertion of a port, network connections with other institutions should be in place so that the patient can receive the service if an institution does not have the expertise available. </li>
+</ul>
+<p><em>Prevention and Detection of Complications</em></p>
+<p>As a general, overarching recommendation on catheter-related complications, the Working Group advocates institutions where VADs are inserted or maintained:</p>
+<ul style="list-style-type: disc;">
+    <li>Promote a culture of safety, commit to best practice, patient-centered and standardized care, and provide education and resources to health care providers, patients and their caregivers. </li>
+    <li>Implement continuous monitoring and evaluation of the quality of provider performance and their adherence to organizational policy, procedures and relevant guidelines. </li>
+    <li>Have surveillance programs in place to monitor for device-related complications and conduct systematic error analyses on incident events. </li>
+</ul>
+<p>The recommendations made in this document can assist health professionals to work with their organization and address gaps in policies and procedures. Institutions should facilitate this collaborative work.</p>
+<p>In selecting, inserting and managing a VAD, health professionals should make their decisions with consideration of the multiple factors that may contribute to catheter-related complications.</p>
+<p>The Working Group recommends that:</p>
+<ul style="list-style-type: disc;">
+    <li>Institutions have "care bundles" and standardized protocols at each point of care for preventing, diagnosing and treating infections, occlusions and thrombosis secondary to access devices. Specific instructions should be available for special populations such as patients who are immunosuppressed. </li>
+</ul>
+<p>For the prevention and early detection of infection, occlusion and thrombosis, the Working Group recommends:</p>
+<ul style="list-style-type: disc;">
+    <li>Health professionals should be mindful of the catheter-related factors that may place patients with an access device at risk for catheter-related infection, catheter occlusion or thrombosis. </li>
+    <li>Health professionals should monitor for the appearance of signs and symptoms of local and systemic catheter-related infections on insertion, and during infusion and maintenance of the access device. </li>
+    <li>Health professionals should monitor for early signs and symptoms of access device-related partial or total occlusion as well as for signs and symptoms of venous thrombosis at all points of care. </li>
+</ul>
+<p><strong>Area of Interest 2: Extravasation, Phlebitis, Flare, Allergy and Hypersensitivity Complications of Chemotherapy Administration</strong></p>
+<p>For the prevention of extravasation, phlebitis, infiltration, hypersensitivity, flare and allergic reactions, the Working Group recommends:</p>
+<ul style="list-style-type: disc;">
+    <li>Health professionals be mindful of factors that can put patients at increased risk of extravasation, phlebitis, infiltration, flare, hypersensitivity reactions and allergic reactions. They should follow standardized procedures, including the use of checklists, for the administration of cancer systemic treatment. </li>
+    <li>Patients should be involved in the treatment process (see the National Guideline Clearinghouse (NGC) summary of the Program in Evidence-based Care (PEBC) guideline <a href="/web/20180712210523/https://www.guideline.gov/content.aspx?id=45884" title="Guideline #9864">Safe administration of systemic cancer therapy. Part 1: safety during chemotherapy ordering, transcribing, dispensing, and patient identification</a>) and should be educated about the risk of vesicant extravasation and actions that they can take during the administration, in managing their care after administration, or after extravasation has been identified. </li>
+    <li>Health professionals working in chemotherapy administration settings should be specifically trained for these complications and, in collaboration with the patient should monitor for early signs and symptoms of extravasation, phlebitis, infiltration, flare reaction, hypersensitivity and allergic reactions. </li>
+    <li>At the point of care of insertion of VADs, it is important that careful attention be paid to ensure optimal vein selection. In cases of failure of a first attempt to cannulation, it is recommended that the second insertion should be made above (closer to the heart) the original site. It is best to avoid administering cancer drugs below a previous venipuncture site. </li>
+    <li>Institutional policies and procedures may contain a complete description of other precautions that need to be taken when starting and when monitoring intravenous (IV) treatment including standardized procedures for managing hypersensitivity reactions, allergic reactions, and extravasation </li>
+</ul>
+<p><strong>Area of Interest 3: Nursing Practices Before, During and Immediately After the Administration of Systemic Cancer Treatment, Including Verification and Maintenance of the Treatment Plan</strong></p>
+<p><em>Administration with Volumetric and Elastomeric Pumps, Including the Importance of Independent Checking of Calculations</em></p>
+<ul style="list-style-type: disc;">
+    <li>For elastomeric pumps, staff and patient education is required to ensure pumps are infusing at a rate as close to the nominal rate as possible. This includes:
+    <ul style="list-style-type: disc;">
+        <li>User-specific education materials for pharmacy staff, nurses and patients </li>
+        <li>Ordering physician's awareness of the strengths and weaknesses of the technology, and of the importance of proper preparation and use </li>
+        <li>Instructions on how to identify a pump failure, and appropriate interventions in case of failure </li>
+        <li>Collaboration with the vendors to improve educational materials </li>
+    </ul>
+    </li>
+    <li>Administration of chemotherapy via volumetric or elastomeric pumps should only be performed by registered nurses trained and certified in their use </li>
+    <li>There are physical and operational differences between volumetric pumps. The number of different brands or models of pumps in one institution should be minimized to reduce the risk for incorrect use or programming </li>
+    <li>Pumps in a hospital should all be programmed using the same units that are included in the labeling of chemotherapy </li>
+    <li>Refer to Cancer Care Ontario (CCO) guidelines for appropriate labeling of chemotherapy products. </li>
+    <li>Pump programming should be independently checked by two RNs with the appropriate training for the particular brand and model of volumetric pump </li>
+    <li>Prior to chemotherapy administration, a final check of patient and drug information should be performed independently by two registered nurses (RNs) with the appropriate training and skills </li>
+    <li>Administer continuous cytotoxic therapy via a central venous access device </li>
+    <li>Only luer-lock fittings should be used with administration sets </li>
+    <li>Devices should be checked for leakage or contamination prior to use and throughout the infusion period. If the infusion is occurring at home, the patient should be educated on periodically performing this check </li>
+    <li>Where patients are receiving the infusion at home, they must be supplied with a spill kit and be educated on how to recognize and manage a spill </li>
+    <li>Unused or remaining cytotoxic drug and its devices should be returned to the chemo suite for disposal </li>
+    <li>Cytotoxic precautions (i.e., prevention of contact with cytotoxic drugs or bodily fluids of patients who received such drugs) should be taken according to the recommendations in the NGC summary of the PEBC Evidence-based Series (EBS) report <a href="/web/20180712210523/https://www.guideline.gov/content.aspx?id=47792" title="Guideline #10224">Safe handling of cytotoxics</a>. </li>
+</ul>
+<p><em>Nursing Practices. Administration of Treatment by Nurse: Pre- and Post-care</em></p>
+<p>The Working Group recommends that healthcare practitioners:</p>
+<ul style="list-style-type: disc;">
+    <li>Document systemic treatment administration, including calculations and any relevant safety issues encountered in appropriate records </li>
+    <li>Document any issues/concerns identified by the patient or his or her family, and subsequent interventions, including the response to these interventions </li>
+    <li>Document any education provided to the patient and her or his family </li>
+    <li>In case of errors, document the plan of care and expected outcomes </li>
+</ul>
+<p>Before the administration of the drug, the Working Group recommends:</p>
+<ul style="list-style-type: disc;">
+    <li>Healthcare providers should follow organizational protocols and procedures for patient identification, administration of pre-medications, and patient education </li>
+    <li>During the preparation and administration of systemic cancer treatment, multitasking should be avoided </li>
+</ul>
+<p>For post-care, the Working Group recommends:</p>
+<ul style="list-style-type: disc;">
+    <li>Patients who are going to be sent home with an ambulatory pump should be observed until the proper functioning of the pump can be verified, and possible allergic or hypersensitivity reactions can be excluded </li>
+    <li>Protocols and procedures are to be followed for the safe handling and disposal of used equipment and unused medication and for hand decontamination </li>
+</ul></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Cancer</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Management</p>
+                    <p>Prevention</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Family Practice</p>
+                    <p>Internal Medicine</p>
+                    <p>Nursing</p>
+                    <p>Oncology</p>
+                    <p>Preventive Medicine</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Allied Health Personnel</p>
+                    <p>Health Care Providers</p>
+                    <p>Hospitals</p>
+                    <p>Pharmacists</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To provide guidance on processes, technologies and devices for the prevention and control of adverse effects that can happen during or following the administration of systemic treatment to adult cancer patients</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Adult patients who are going to receive chemotherapy treatment or are already receiving chemotherapy treatment for cancer</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Development, implementation and monitoring of specific policies and procedures for the safe administration of chemotherapy </li>
+    <li>Selection and management of peripheral and central venous access devices and intra-peritoneal catheters </li>
+    <li>Prevention and detection of complications
+    <ul style="list-style-type: disc;">
+        <li>Continuous monitoring and evaluation </li>
+        <li>Implementation of "care bundles" and standardized protocols </li>
+    </ul>
+    </li>
+    <li>Prevention and early detection of infection, occlusion and thrombosis </li>
+    <li>Prevention of extravasation, phlebitis, infiltration, hypersensitivity, flare and allergic reactions </li>
+    <li>Nursing practices before, during and immediately after the administration of systemic cancer treatment, including verification and maintenance of treatment plan </li>
+    <li>Administration with volumetric and elastomeric pumps, including independent checking of calculations </li>
+    <li>Pre and post care </li>
+    <li>Protocols and procedures for the safe handling and disposal of used equipment and unused medication and for hand decontamination </li>
+</ol></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Verification and maintenance of the treatment plan </li>
+    <li>Extravasation, phlebitis, flare, allergy and hypersensitivity complications of chemotherapy administration </li>
+    <li>Proper dose of chemotherapy (not routinely capped for larger patients) </li>
+    <li>Proper dose adjustment of chemotherapy based on adverse events and conditions (e.g., febrile neutropenia, neurotoxicity, nephrotoxicity) </li>
+    <li>Safe labeling, and the timing and scheduling of chemotherapy drugs </li>
+    <li>Prevention, early detection and management of complications related to the catheter/device use and to the drug administered </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Hand-searches of Published Literature (Primary Sources)</p>
+                    <p>Hand-searches of Published Literature (Secondary Sources)</p>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p>For this document, the results of the general search for guidelines conducted at the start of the two part series was reviewed; a second search was conducted in April 2012 including: </p>
+<ul style="list-style-type: disc;">
+    <li>Canadian Partnership Against Cancer Standards and Guideline Evidence database </li>
+    <li>MEDLINE and EMBASE databases (Ovid interface) </li>
+    <li><a href="https://web.archive.org/web/20180712210523/http://www.guideline.gov/index.aspx" target="_blank" title="NGC Web site">National Guideline Clearinghouse (NGC)</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk%2f" title="NICE Web site">National Institute for Health and Care Excellence (NICE)</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.health.govt.nz%2fabout-ministry%2fministry-health-websites%2fnew-zealand-guidelines-group" title="NZGG Web site">New Zealand Guidelines Group</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.apic.org%2f" title="APIC Web site">Association for Professionals in Infection Control and Epidemiology Inc. (APIC)</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.avainfo.org%2fwebsite%2farticle.asp%3fid%3d280986" title="AVA Web site">Association for Vascular Access (AVA)</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.cano-acio.ca%2f" title="CANO Web site">Canadian Association of Nurses in Oncology (CANO)</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="https://web.archive.org/web/20180712210523/http://www.cdc.gov/" target="_blank" title="CDC Web site">Centers for Disease Control (CDC)</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.chica.org%2flinks_evidence_guidelines.php" title="Evidence-based Practice in Infection Prevention and Control Canada Web site">Evidence-based Practice in Infection Prevention and Control Canada</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.ins1.org%2fi4a%2fpages%2findex.cfm%3fpageid%3d1" title="Infusion Nurses Society Web site">Infusion Nurses Society</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.ons.org%2f" title="Oncology Nursing Society Web site">Oncology Nursing Society</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.vascularaccesssociety.com%2f" title="Vascular Access Society Web site">Vascular Access Society</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.jointcommission.org%2f" title="The Joint Commission Web site">Joint Commission</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2frnao.ca%2f" title="RNAO Web site">Registered Nurses Association of Ontario (RNAO)</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.sign.ac.uk%2fmethodology%2fchecklists.html" title="SIGN Web site">Scottish Intercollegiate Guideline Network (SIGN)</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.bccancer.bc.ca%2fdefault.htm" title="BC Cancer Agency Web site">BC Cancer Agency</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2falbertacancer.ca%2f" title="Alberta Cancer Board Web site">Alberta Cancer Board</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.accreditation.ca%2fen%2f" title="Accreditation Canada Web site">Accreditation Canada</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.eviq.org.au%2f" title="EviQ Cancer Treatments Online Web site">EviQ Cancer Treatments Online</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="https://web.archive.org/web/20180712210523/http://www.webmm.ahrq.gov/" target="_blank" title="AHRQ Web site">Agency for Healthcare Research and Quality M&amp;M</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.ismp-canada.org%2f" title="ISMP Canada Web site">Institute of Safe Medication Practices Canada (ISMP Canada)</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li>Quality Healthcare Network </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gacguidelines.ca%2f" title="Guidelines Advisory Committee Web site">Guidelines Advisory Committee</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.fip.org%2f" title="International Pharmaceutical Federation Web site">International Pharmaceutical Federation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li><a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.idsociety.org%2fIndex.aspx" title="IDSA Web site">Infectious Diseases Society of America</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+</ul>
+<p>An untargeted search of the Google&reg; search engine was also conducted with the key words "chemotherapy, extravasation, infections, thrombosis, complications"; the results reported in the first five pages retrieved were examined. The reference lists of included guidelines were scanned for additional references.</p>
+<p>Only guidelines published in or after 2006 that were based on a systematic review of the literature and that were relevant to Ontario and to the objectives and the research questions were considered.</p>
+<p><strong>Guidelines Selection</strong></p>
+<p>See the <a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.cancercare.on.ca%2fcommon%2fpages%2fUserFile.aspx%3ffileId%3d154918" title="Cancer Care Ontario Web site">Methods document</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> for more information. The Working group organized the selection process of guidelines in two steps.</p>
+<p>At step 1, performed by the methodologist, and one clinician, the working group included documents that were:</p>
+<ul style="list-style-type: disc;">
+    <li>Relevant to Ontario </li>
+    <li>Specific to their objectives </li>
+    <li>Included a systematic review of the evidence </li>
+    <li>Published during or after 2006 </li>
+    <li>Had recommendations about the long-term use of access devices and their complications </li>
+    <li>Published in English </li>
+</ul>
+<p>The Working Group excluded guidelines that:</p>
+<ul style="list-style-type: disc;">
+    <li>Covered topics already addressed in other existing Cancer Care Ontario guidelines </li>
+    <li>Included an exclusively pediatric population </li>
+    <li>Covered exclusively temporary central catheters placed in acute care settings </li>
+</ul>
+<p>At step 2 of the process, the Working Group examined the guidelines selected and, based on their expertise, decided to exclude those that were:</p>
+<ul style="list-style-type: disc;">
+    <li>Not current </li>
+    <li>Clinically not relevant </li>
+    <li>Reports of procedure manuals </li>
+    <li>Not related to the intravenous or intraperitoneal administration </li>
+    <li>Focused on access devices used for hemodialysis, on intensive care unit patients and on the administration of parenteral nutrition </li>
+</ul></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>The search of the bibliographic sources generated 96 documents. Fifteen guidelines represented by 16 publications were selected after the two-step process.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Expert Consensus (Committee)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p>Not applicable</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Quality Assessment</strong></p>
+<p>The quality of the guidelines was measured independently using the Appraisal of Guidelines for Research &amp; Evaluation (AGREE) II tool by Working Group members, the methodologist and one of the Program in Evidence-based Care (PEBC) students in pairs. The Working Group met on August 16, 2012 to discuss the results of the quality assessment, and the results of the Appraisal of Guidelines for Research &amp; Evaluation (AGREE) II evaluation are reported in Appendix 2 of the original guideline document.</p>
+<p><strong>Synthesizing the Evidence</strong></p>
+<p>For each area of interest, the Working Group used specific, clinically relevant questions to structure this document, including topics of relevance for the recommendations. These questions are presented in Table 1 in the original guideline document with a reference to the guidelines that have been used as the evidence base for the recommendations.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Formation of the Guideline Development Working Group</strong></p>
+<p>Cancer Care Ontario's (CCO) Systemic Treatment and Nursing Programs asked the Program in Evidence-based Care (PEBC) to develop a guideline on the safe administration of systemic cancer treatment. In consultation with the Systemic Treatment and Nursing Programs, a Working Group was identified. This Working Group consisted of three registered nurses, two pharmacists, two hematologists, three medical oncologists, and one health research methodologist. The Working Group and the Systemic Treatment and Nursing Programs also formed the Safe Chemotherapy Administration Guideline Development Group. This group would take responsibility for providing feedback on the guideline as it was being developed requiring changes as necessary before approving it.</p>
+<p><strong>Aggregate Evidence Quality and Potential for Bias</strong></p>
+<p>The Working Group strived to provide guidance for both organizations and clinicians in this very complex and technical area of practice while striving not to make a procedure manual of this guideline. The high quality, evidence-based guidelines forming the backbone of this document were retrieved and selected through a systematic process, and appropriate references and links to them have been provided.</p>
+<p>This process was intended to reduce bias, and at the same time to integrate the expertise of the Working Group with the available evidence, in order to produce guidance that is sound and applicable to Ontario.</p>
+<p><strong>Values of the Working Group</strong></p>
+<p>The Working Group considered the values of patient-centered care and context-specific flexibility in weighing benefits compared to harms, and then made a considered judgement.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p>Not applicable</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Internal Review</span></strong></p>
+<p>Almost all programs in Evidence-based Care (PEBC) documents undergo internal review. This review is conducted by the Expert Panel and the Report Approval Panel. The Working Group was responsible for incorporating the feedback and required changes of both of these panels, and both panels had to approve the document before it could be sent to External Review.</p>
+<p><strong>Expert Panel Review and Approval</strong></p>
+<p>The members of this group were required to submit conflict of interest declarations prior to reviewing the document. These declarations are described in Appendix 1 of the original guideline document. The document must be approved by formal vote. In order to be approved, 75% of the Safe Chemotherapy Administration Expert Panel membership must cast a vote or abstain, and of those who voted, 75% must approve the document. At the time of the voting, the Safe Chemotherapy Administration Expert Panel members could suggest changes to the document, and possibly make their approval conditional on those changes. In those cases, the Working Group would be responsible for considering the changes, and if those changes could be made without substantially altering the recommendations, the altered draft would not need to be re-submitted for approval again.</p>
+<p>The Safe Chemotherapy Expert Panel reviewed the document between August 23, and September 25, 2013. During this review, the Safe Chemotherapy Expert Panel provided the following key feedback:</p>
+<ul style="list-style-type: disc;">
+    <li>Extend the recommendations to cancer patients in any settings, not exclusively ambulatory hospital. </li>
+    <li>Minor changes in the wording of the recommendations and of the text in general to improve clarity and consistency.&nbsp; </li>
+</ul>
+<p>In response to this feedback, the Working Group made the following changes:</p>
+<ul style="list-style-type: disc;">
+    <li>The phrase "in a hospital setting" was removed throughout the document. </li>
+    <li>Changes in the wording were made to improve clarity and consistency of language. </li>
+</ul>
+<p>On September 26 in a teleconference meeting the Safe Chemotherapy Administration Working Group decided together on the changes to be made in response to feedback and formally approved them unanimously.</p>
+<p><strong>Report Approval Panel Review and Approval</strong></p>
+<p>The purpose of the Report Approval Panel (RAP) review is to ensure the methodological rigor and quality of PEBC documents. The RAP consists of nine clinicians with broad experience in clinical research and guideline development, and the Director of the PEBC. For each document, three RAP members review the document: the Director and two others. RAP members must not have had any involvement in the development of the guideline prior to Internal Review. All three RAP members must approve the document, although they may do so conditionally. If there is a conditional approval, the Working Group is responsible for ensuring the necessary changes are made, with the Assistant Director of Quality and Methods, PEBC, making a final determination that the RAP's concerns have been addressed.</p>
+<p>In June 2013 the RAP reviewed this document. The RAP conditionally approved the document in September, 2013. Key issues raised by the Report Approval Panel included the following:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Although the document is very well written and well organized, and it is useful, it does not provide specific enough guidance. </li>
+    <li>A change to the core recommendation has been suggested as follows:
+    <p>To optimize the highest level of professional practice (dictated by professional bodies, such as ONA or Canadian Association of Nurses in Oncology (CANO) to ensure optimal safety of chemotherapy administration, it is recommended:</p>
+    <ul style="list-style-type: disc;">
+        <li>That institutions develop, implement and monitor specific policies and procedures for the safe admin of chemotherapy </li>
+        <li>That these policies and procedures be developed by DATE </li>
+        <li>That development of policies and procedures be considered as a quality indicator for part of Cancer System Quality Index </li>
+    </ul>
+    <p>The Working Group made some changes in the wording of the recommendations to align with RAP suggestions; however, the document was not substantially changed. This was discussed with Dr. Melissa Brouwers, Dr. Sheila McNair and Mr. Hans Messersmith and the RAP agreed with the position of the Working Group.</p>
+    </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">External Review by Ontario Clinicians and Other Experts</span></strong></p>
+<p>The PEBC external review process is two-pronged and includes a targeted peer review that is intended to obtain direct feedback on the draft report from a small number of specified content experts and a professional consultation that is intended to facilitate dissemination of the final guidance report to Ontario practitioners.</p>
+<p>Following approval of the document at Internal Review, the Safe Chemotherapy Administration Expert Panel circulated the draft document with recommendations modified as noted under Internal Review, above, to external review participants for review and feedback. Appendix 2 in the original guideline document summarizes the draft recommendations and supporting evidence developed by the Safe Administration of Chemotherapy Expert Panel as submitted for External Review.</p>
+<p><strong>Methods</strong></p>
+<p><em>Targeted Peer Review</em></p>
+<p>During the guideline development process, nine targeted peer reviewers from Ontario considered to be clinical and/or methodological experts on the topic were identified by the working group. Several weeks prior to completion of the draft report, the nominees were contacted by email and asked to serve as reviewers. Three reviewers agreed and the draft report and a questionnaire were sent via email for their review. The questionnaire consisted of items evaluating the methods, results, and interpretive summary used to inform the draft recommendations and whether the draft recommendations should be approved as a guideline. Written comments were invited. The questionnaire and draft document were sent out on November 15, 2013. Follow-up reminders were sent at two weeks (email) and at four weeks (telephone call). The Safe Chemotherapy Administration Expert Panel reviewed the results of the survey.</p>
+<p><em>Professional Consultation</em></p>
+<p>Feedback was obtained through a brief online survey of health care professionals who are the intended users of the guideline. All oncology nurses, medical oncologists, pharmacists in oncology, radiation oncologists and interventional radiologists in the PEBC database were contacted by email to inform them of the survey. All the participants were from Ontario. Participants were asked to rate the overall quality of the guideline (see Section 1 in the original guideline document) and whether they would use and/or recommend it. Written comments were invited. Participants were contacted by email and directed to the survey website where they were provided with access to the survey, the guideline recommendations (see Section 1 in the original guideline document) and the evidentiary base (see Section 2 in the original guideline document). The notification email was sent on November 15, 2013. The consultation period ended on January 10, 2014. The Safe Chemotherapy Administration Expert Panel reviewed the results of the survey.</p>
+<p><strong><span style="text-decoration: underline;">Conclusion</span></strong></p>
+<p>This EBS report reflects the integration of feedback obtained through the external review process with final approval given by the Safe Chemotherapy Administration Expert Panel and the Report Approval Panel of the PEBC. Updates of the report will be conducted in accordance with the PEBC Document Assessment and Review Protocol.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The recommendations are supported by a clinical practice guideline and systematic reviews.</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>Safe administration of systemic cancer therapy</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Special consideration and precautions should be made to the labelling and scheduling of drugs that are to be administered intrathecally. Mistaken intrathecal administration of drugs prepared for intravenous (IV) administration (e.g., bortezomib and vincristine) have resulted in fatal outcomes. A resource for the safe labelling of chemotherapy drugs is in the Cancer Care Ontario (CCO) Evidence-Based Series #12-11 <a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.cancercare.on.ca%2fcommon%2fpages%2fUserFile.aspx%3ffileId%3d50191" title="CCO Web site">Patient Safety Issues: Key Components of Chemotherapy Labelling</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>For more specific details on the selection and use of catheters, the Working Group refers the reader to the source guidelines by Oncology Nursing Society (ONS) (book available for purchase), <a href="https://web.archive.org/web/20180712210523/http://www.cdc.gov/hicpac/pdf/guidelines/bsi-guidelines-2011.pdf" target="_blank" title="CDC Web site">Centers for Disease Control and Prevention (CDC)</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> and <a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.cancernurse.eu%2fdocuments%2fEONSClinicalGuidelinesSection6-en.pdf" title="EONS Web site">European Oncology Nursing Society (EONS)</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>For more specific details on the prevention, detection and management of complications, the Working Group refers the reader to the source guidelines highlighted in this document. The evidence base for many of the procedures needed in this area has been established, while several topics are still controversial and the evidence evolving. </li>
+    <li>Two selected guidelines represented by three publications were relevant for this topic area and applicable to Ontario: the <a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.cancernurse.eu%2fdocuments%2fEONSClinicalGuidelinesSection6-en.pdf" title="EONS Web site">EONS guideline</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> and the ONS guideline. Recommendations regarding patient education and their involvement in the detection and management of extravasation are from the EONS guidelines and endorsed by the Working Group. </li>
+    <li>Factors that have been recognized as causes for variations in the flow rate of elastomeric pumps are:
+    <ul style="list-style-type: disc;">
+        <li>Fluid viscosity </li>
+        <li>Head height </li>
+        <li>Temperature </li>
+        <li>Underfilling </li>
+        <li>Diameter of access device </li>
+        <li>Patient's blood pressure </li>
+    </ul>
+    <p>Additional considerations and explanations and specific recommendations for the practical use of elastomeric pumps are reported in the resources for implementation reported in the box below.</p>
+    </li>
+    <li>The root-cause-analysis of the fluorouracil incident that occurred in Alberta in 2006 identified the lack of appropriate documentation and multitasking as contributing factors to the mistaken programming of the pump. </li>
+    <li>Care has been taken in the preparation of the information contained in this report. Nonetheless, any person seeking to apply or consult the report is expected to use independent medical judgment in the context of individual clinical circumstances or seek out the supervision of a qualified clinician. CCO makes no representation or guarantees of any kind whatsoever regarding the report content or use or application and disclaims any responsibility for its application or use in any way. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>An implementation strategy was not provided.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Quick Reference Guides/Physician Guides</p>
+                    <p>Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Living with Illness</p>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+                    <p>Safety</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Leung M, Bland R, Baldassarre F, Green E, Kaizer L, Hertz S, Craven J, Trudeau M, Boudreau A, Cheung M, Singh S, Kukreti V, Raha R, Safe Administration of Chemotherapy Expert Panel. Safe administration of systemic cancer therapy. Part 2: administration of chemotherapy and management of preventable adverse events. Toronto (ON): Cancer Care Ontario (CCO); 2014 Mar 10. 82 p.&nbsp;(Evidence-based series; no. 12-12-2).&nbsp; [95 references]</td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2014 Mar 10</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>Program in Evidence-based Care - State/Local Government Agency [Non-U.S.]</p>
+                        <h3><a href="#">Guideline Developer Comment</a></h3>
+                    <p><div class="content_para"><p>The Program in Evidence-based Care (PEBC) is a Province of Ontario initiative sponsored by Cancer Care Ontario and the Ontario Ministry of Health and Long-Term Care.</p></div></p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>The Program in Evidence-based Care (PEBC) is supported by the Ontario Ministry of Health and Long-Term Care through Cancer Care Ontario. All work produced by the PEBC is editorially independent from its funding source.</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Safe Administration of Chemotherapy Expert Panel</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Authors</em>: M. Leung, R. Bland, F. Baldassarre, E. Green, L. Kaizer, S. Hertz, J. Craven, M. Trudeau, A. Boudreau, M. Cheung, S. Singh, V. Kukreti, R. Raha</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>In accordance with the Program in Evidence-based Care (PEBC) Conflict of Interest (COI) Policy, the guideline authors, Safe Chemotherapy Administration Expert Panel members, and internal and external reviewers were asked to disclose potential conflicts of interest.</p>
+<p>For the Working Group members, 10 members declared they had no conflicts of interest, and two (SS and RB) declared conflicts. SS declared to have received more than $5,000 in a single year from Novartis, and RB declared to work for Innomar Strategies Inc. since 2012.</p>
+<p>For the Safe Chemotherapy Administration Expert Panel, nine members declared they had no conflicts of interest, and three (VB, KJ and GK) declared conflicts. VB declared to be co-investigator on a study of IV chemotherapy and to have received funding from Cancer Agencies; declared to be Director of Pharmacy Services and Provincial Oncology Drug Program for Cancercare Manitoba. KJ declared to be co-investigator for study (Improving the Safety of Ambulatory Intravenous Chemotherapy in Canada) funded by CPSI, CAPCA, ISMP and five provincial cancer agencies (2008-2010). GK declared to have received travel and conference support greater than $5,000 to attend a meeting in 2012.</p>
+<p>The COI declared above did not disqualify any individuals from performing their designated role in the development of this guideline, in accordance with the PEBC COI Policy.</p>
+<p>To obtain a copy of the policy, please contact the PEBC office by email at <a href="https://web.archive.org/web/20180712210523/mailto:ccopgi.mcmaster.ca">ccopgi.mcmaster.ca</a>.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>The EVIDENCE-BASED SERIES report, initially the full original Guideline, over time will expand to contain new information emerging from reviewing and updating activities.</p>
+<p>Please visit the <a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.cancercare.on.ca%2fcommon%2fpages%2fUserFile.aspx%3ffileId%3d299609" title="Cancer Care Ontario Web site">Cancer Care Ontario Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> for details on any new evidence that has emerged and implications to the guidelines.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Electronic copies: Available in Portable Document Format (PDF) from the <a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.cancercare.on.ca%2fcommon%2fpages%2fUserFile.aspx%3ffileId%3d299609" title="Cancer Care Ontario Web site">Cancer Care Ontario Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Safe administration of systemic cancer therapy. Part 2: administration of chemotherapy and management of preventable adverse events. Summary. Toronto (ON): Cancer Care Ontario; 2014 Mar 10. 22 p. Electronic copies: Available in Portable Document Format (PDF) from the <a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.cancercare.on.ca%2fcommon%2fpages%2fUserFile.aspx%3ffileId%3d299611" title="Cancer Care Ontario Web site">Cancer Care Ontario (CCO) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Program in evidence-based care handbook. Toronto (ON): Cancer Care Ontario (CCO); 2012. 14 p. Electronic copies: Available in PDF from the <a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.cancercare.on.ca%2fcommon%2fpages%2fUserFile.aspx%3ffileId%3d50876" title="Cancer Care Ontario Web site">CCO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p>In addition, Appendix 1A in the <a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.cancercare.on.ca%2fcommon%2fpages%2fUserFile.aspx%3ffileId%3d299609" title="Cancer Care Ontario Web site">original guideline document</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> includes a compendium of examples of procedures relevant to chemotherapy administration.</p></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on June 2, 2014.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. Please refer to the <a href="/web/20180712210523/https://www.guideline.gov/Home/Disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.cancercare.on.ca%2fontariocancernews%2fcopyright.html" title="CCO Web site">Copyright and Disclaimer Statements</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210523im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> posted at the Program in Evidence-based Care section of the Cancer Care Ontario Web site.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712210523/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712210523/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712210523/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712210523/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712210523/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712210523/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712210523/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712210523/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712210523/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712210523/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712210523/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712210523/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712210523/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712210523/https://www.guideline.gov/disclaimer?id=48001&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712210523im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712210523im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712210523/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712210523/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712210523/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712210523/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712210523/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712210523/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712210523/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712210523/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712210523/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712210523/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712210523/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712210523/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712210523/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712210523/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712210523/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712210523/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712210523/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712210523/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712210523/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712210523im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712210523im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712210523/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712210523im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712210523im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712210523/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712210523js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712210523js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 21:05:23 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:38:11 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 327.326 (3)
+  esindex: 0.007
+  captures_list: 346.104
+  CDXLines.iter: 14.408 (3)
+  PetaboxLoader3.datanode: 160.489 (4)
+  exclusion.robots: 0.144
+  exclusion.robots.policy: 0.133
+  RedisCDXSource: 1.656
+  PetaboxLoader3.resolve: 233.415 (3)
+  load_resource: 100.896
+-->

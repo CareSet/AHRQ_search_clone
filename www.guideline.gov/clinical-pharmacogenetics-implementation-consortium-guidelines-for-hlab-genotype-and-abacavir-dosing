@@ -1,0 +1,946 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app29.us.archive.org';v.server_ms=525;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Clinical Pharmacogenetics Implementation Consortium guidelines for HLA-B genotype and abacavir dosing. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712205837im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712205837im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712205837im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712205837im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712205837/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712205837im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712205837cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712205837js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712205837if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712205837/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712205837if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712205837/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712205837/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712205837/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712205837/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712205837im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712205837im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712205837im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712205837/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712205837/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712205837/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712205837/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712205837/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712205837/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712205837/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712205837/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712205837/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712205837/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712205837/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712205837/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712205837/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712205837/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712205837/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712205837/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712205837/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712205837/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712205837/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712205837/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712205837/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:009587</li>
+            <li>2012 Apr (reaffirmed 2014)
+            </li>            
+                                </ul>
+        <div>
+                <h1>Clinical Pharmacogenetics Implementation Consortium guidelines for HLA-B genotype and abacavir dosing.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712205837/https://www.guideline.gov/search?f_Guideline_Developer_String=Clinical%20Pharmacogenetics%20Implementation%20Consortium&amp;fLockTerm=Clinical%2BPharmacogenetics%2BImplementation%2BConsortium">Clinical Pharmacogenetics Implementation Consortium</a></li>
+                        <li>   
+                                <a id="2418" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Martin MA, Klein TE, Dong BJ, Pirmohamed M, Haas DW, Kroetz DL, Clinical Pharmacogenetics Implementation Consortium. Clinical Pharmacogenetics Implementation Consortium guidelines for HLA-B genotype and abacavir dosing. Clin Pharmacol Ther. 2012 Apr;91(4):734-8. [40 references] <a href="https://web.archive.org/web/20180712205837/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22378157" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712205837im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712205837/https://www.guideline.gov/Home/Disclaimer?id=39535&amp;contentType=fulltextlink&amp;redirect=https%253a%252f%252fcpicpgx.org%252fguidelines%252fguideline-for-abacavir-and-hla-b%252f">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205837im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>The Clinical Pharmacogenetics Implementation Consortium (CPIC) reaffirmed the currency of this guideline in 2014.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                            <h4>UMLS Concepts <a href="/web/20180712205837/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712205837/https://www.guideline.gov/search?f_ICD9CM_CUI=C0019693&amp;fLockTerm=Human+immunodeficiency+virus+%5bHIV%5d+disease">Human immunodeficiency virus [HIV] disease</a>
+ (042)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712205837/https://www.guideline.gov/search?f_MSH_CUI=C0376565&amp;fLockTerm=Anti-HIV+Agents">Anti-HIV Agents</a>
+, <a href="/web/20180712205837/https://www.guideline.gov/search?f_MSH_CUI=C0012136&amp;fLockTerm=Dideoxynucleosides">Dideoxynucleosides</a>
+, <a href="/web/20180712205837/https://www.guideline.gov/search?f_MSH_CUI=C3178894&amp;fLockTerm=Genotyping+Techniques">Genotyping Techniques</a>
+, <a href="/web/20180712205837/https://www.guideline.gov/search?f_MSH_CUI=C0019693&amp;fLockTerm=HIV+Infections">HIV Infections</a>
+, <a href="/web/20180712205837/https://www.guideline.gov/search?f_MSH_CUI=C0019737&amp;fLockTerm=HLA-B+Antigens">HLA-B Antigens</a>
+, <a href="/web/20180712205837/https://www.guideline.gov/search?f_MSH_CUI=C1611232&amp;fLockTerm=Medication+Therapy+Management">Medication Therapy Management</a>
+, <a href="/web/20180712205837/https://www.guideline.gov/search?f_MSH_CUI=C0031325&amp;fLockTerm=Pharmacogenetics">Pharmacogenetics</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712205837/https://www.guideline.gov/search?f_MTH_CUI=C0663655&amp;fLockTerm=abacavir">abacavir</a>
+, <a href="/web/20180712205837/https://www.guideline.gov/search?f_MTH_CUI=C1285573&amp;fLockTerm=Genotype+determination">Genotype determination</a>
+, <a href="/web/20180712205837/https://www.guideline.gov/search?f_MTH_CUI=C0019693&amp;fLockTerm=HIV+Infections">HIV Infections</a>
+, <a href="/web/20180712205837/https://www.guideline.gov/search?f_MTH_CUI=C0019737&amp;fLockTerm=HLA-B+Antigens">HLA-B Antigens</a>
+, <a href="/web/20180712205837/https://www.guideline.gov/search?f_MTH_CUI=C1510501&amp;fLockTerm=Human+leukocyte+antigen+B+genotype+determination">Human leukocyte antigen B genotype determination</a>
+, <a href="/web/20180712205837/https://www.guideline.gov/search?f_MTH_CUI=C3174092&amp;fLockTerm=Medication+dose">Medication dose</a>
+, <a href="/web/20180712205837/https://www.guideline.gov/search?f_MTH_CUI=C0031325&amp;fLockTerm=Pharmacogenetics">Pharmacogenetics</a>
+, <a href="/web/20180712205837/https://www.guideline.gov/search?f_MTH_CUI=C1138555&amp;fLockTerm=Pharmacogenomics">Pharmacogenomics</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712205837/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0663655&amp;fLockTerm=Abacavir">Abacavir</a>
+ (116084008), <a href="/web/20180712205837/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0663655&amp;fLockTerm=Abacavir">Abacavir</a>
+ (387005008), <a href="/web/20180712205837/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1285573&amp;fLockTerm=Genotype+determination">Genotype determination</a>
+ (363779003), <a href="/web/20180712205837/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1285573&amp;fLockTerm=Genotype+determination">Genotype determination</a>
+ (726528006), <a href="/web/20180712205837/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019737&amp;fLockTerm=HLA-B+antigen">HLA-B antigen</a>
+ (54481006), <a href="/web/20180712205837/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019693&amp;fLockTerm=Human+immunodeficiency+virus+infection">Human immunodeficiency virus infection</a>
+ (86406008), <a href="/web/20180712205837/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1510501&amp;fLockTerm=Human+leukocyte+antigen+B+genotype+determination">Human leukocyte antigen B genotype determination</a>
+ (250179005), <a href="/web/20180712205837/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1138555&amp;fLockTerm=Pharmacogenomic+specialist">Pharmacogenomic specialist</a>
+ (720505003)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#430" class="section-mark">Contraindications</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712205837/https://www.guideline.gov/summaries/downloadcontent/ngc-9587?contentType=pdf" class="pdf">.PDF 106.2 kb</a></li>
+                            <li><a href="/web/20180712205837/https://www.guideline.gov/summaries/downloadcontent/ngc-9587?contentType=word" class="word">Word Document 294.4 kb</a></li>
+                            <li><a href="/web/20180712205837/https://www.guideline.gov/summaries/downloadcontent/ngc-9587?contentType=xml" class="xml">.XML 42.1 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205837/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/39535/clinical-pharmacogenetics-implementation-consortium-guidelines-for-hlab-genotype-and-abacavir-dosing" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205837/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/39535/clinical-pharmacogenetics-implementation-consortium-guidelines-for-hlab-genotype-and-abacavir-dosing" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205837/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/39535/clinical-pharmacogenetics-implementation-consortium-guidelines-for-hlab-genotype-and-abacavir-dosing&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712205837/mailto:/?Subject=AHRQ: Clinical Pharmacogenetics Implementation Consortium guidelines for HLA-B genotype and abacavir dosing.&amp;body=https://www.guideline.gov/summaries/summary/39535/clinical-pharmacogenetics-implementation-consortium-guidelines-for-hlab-genotype-and-abacavir-dosing" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Clinical Pharmacogenetics Implementation Consortium guidelines for HLA-B genotype and abacavir dosing. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Apr 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712205837/https://www.guideline.gov/summaries/citedownload/39535?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712205837/https://www.guideline.gov/summaries/citedownload/39535?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712205837/https://www.guideline.gov/summaries/citedownload/39535?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712205837/https://www.guideline.gov/summaries/citedownload/39535?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712205837/https://www.guideline.gov/summaries/citedownload/39535?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712205837/https://www.guideline.gov/summaries/citedownload/39535">RefWorks</a></li>
+                            <li><a href="/web/20180712205837/https://www.guideline.gov/summaries/citedownload/39535?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="39535" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>The strength of therapeutic recommendations (Strong, Moderate, Optional) is defined at the end of the "Major Recommendations" field.</p>
+<p><strong>Genetic Test Interpretation</strong></p>
+<p>The assignment of the likely human leukocyte antigen B (HLA-B) phenotype, based on allele diplotypes, is summarized in Table 1 below.</p>
+<p><strong>Table 1. Assignment of Likely HLA-B Phenotypes Based on Genotypes</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table 1: Assignment of Likely HLA-B Phenotypes Based on Genotypes">
+    <thead>
+        <tr>
+            <th valign="top">Likely Phenotype</th>
+            <th valign="top">Genotypes</th>
+            <th valign="top">Examples of Diplotypes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">Very low risk of hypersensitivity (constitutes ~94%<sup>a</sup> of patients)</td>
+            <td valign="top">Absence of <em>*57:01</em> alleles (reported as "negative" on a genotyping test)</td>
+            <td valign="top">*X/*X<sup>b</sup></td>
+        </tr>
+        <tr>
+            <td valign="top">High risk of hypersensitivity (~6% of patients)</td>
+            <td valign="top">Presence of at least one <em>*57:01</em> allele (reported as "positive" on a genotyping test)</td>
+            <td valign="top">*57:01/*X<sup>b</sup><br/>
+            *57:01/*57:01</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note"><sup>a</sup>See Supplementary Data (see the "Availability of Companion Documents" field) for estimates of genotype frequencies among different ethnic/geographic groups.</p>
+<p class="Note"><sup>b</sup>*X = any <em>HLA-B</em> genotype other than <em>*57:01</em>.</p>
+<p><strong>Therapeutic Recommendations</strong></p>
+<p>The guideline authors agree with others that <em>HLA-B*57:01</em> screening should be performed in all abacavir-naive individuals before initiation of abacavir-containing therapy (see the table below); this is consistent with the recommendations of the U.S. Food and Drug Administration, the U.S. Department of Health and Human Services, and the European Medicines Agency. In abacavir-naive individuals who are <em>HLA-B*57:01</em>-positive, abacavir is not recommended and should be considered only under exceptional circumstances when the potential benefit, based on resistance patterns and treatment history, outweighs the risk. <em>HLA-B*57:01</em> genotyping is widely available in the developed world and is considered the standard of care prior to initiating abacavir. Where <em>HLA-B*57:01</em> genotyping is not clinically available (such as in resource-limited settings), some have advocated initiating abacavir, provided there is appropriate clinical monitoring and patient counseling about the signs and symptoms of hypersensitivity reaction (HSR), although this remains at the clinician's discretion.</p>
+<p>There is some debate among clinicians regarding whether <em>HLA-B*57:01</em> testing is necessary in patients who had previously tolerated abacavir chronically, discontinued its use for reasons other than HSR, and are now planning to resume abacavir. The presence of <em>HLA-B*57:01</em> has a positive predictive value of ~50% for immunologically confirmed hypersensitivity, indicating that some <em>HLA-B*57:01</em>-positive individuals can be, and have been, safely treated with abacavir. However, the guideline authors were unable to find any data to show that <em>HLA-B*57:01</em>-positive individuals with previous, safe exposure to abacavir had zero risk of HSR upon re-exposure. Although there are isolated case reports of previously asymptomatic patients developing a hypersensitivity-like reaction after restarting abacavir, there were confounding circumstances. Many of the patients had complicating concomitant illnesses that could have masked an HSR during initial abacavir therapy, and none were immunologically confirmed, making the case reports difficult to interpret. Furthermore, most of these case reports precede the availability of <em>HLA-B*57:01</em> genetic testing, making it impossible to determine from the published data whether there could be a risk of HSR upon re-exposure to abacavir in previously asymptomatic <em>HLA-B*57:01</em>-positive patients.</p>
+<p>In addition, there may also exist a small group of patients who have been on chronic abacavir therapy since before the introduction of <em>HLA-B*57:01</em> genotyping. Given that virtually all abacavir HSR events occur within the first several weeks of therapy, and that ~50% of <em>HLA-B*57:01</em> carriers can safely take abacavir, the guideline authors were unable to find any evidence to suggest that <em>HLA-B*57:01</em>-positive individuals on current, long-term, uninterrupted abacavir therapy are at risk of developing HSR. Existing clinical guidelines have a blanket recommendation that all <em>HLA-B*57:01</em>-positive individuals should avoid abacavir, regardless of patient history. Although <em>HLA-B*57:01</em> genotyping has proven utility in significantly reducing the incidence of both clinically diagnosed and immunologically confirmed hypersensitivity in patients being newly considered for abacavir therapy, the connection between <em>HLA-B*57:01</em> genotype and risk of HSR in patients with previous asymptomatic abacavir use is less clear.</p>
+<p><strong>Recommendations for Incidental Findings</strong></p>
+<p>Although other variants in <em>HLA-B</em> are associated with autoimmune diseases and drug response phenotypes, they have not been associated with abacavir HSR.</p>
+<p><strong>Other Considerations</strong></p>
+<p>Abacavir skin patch testing may be performed after a case of clinically diagnosed HSR to determine whether it can be immunologically confirmed. At this time, skin patch testing is an investigational procedure, and the results should be interpreted only by an experienced immunologist. More details on skin patch testing can be found in the Supplementary Materials and Methods online (see the "Availability of Companion Documents" field).</p>
+<p><strong>Table 2. Recommended Therapeutic Use of Abacavir in Relation to <em>HLA-B</em> Genotype</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table 2: Recommended Therapeutic Use of Abacavir in Relation to HLA-B Genotype">
+    <thead>
+        <tr>
+            <th valign="top">Genotype</th>
+            <th valign="top">Implications for Phenotypic Measures</th>
+            <th valign="top">Recommendations for Abacavir</th>
+            <th valign="top">Classification of Recommendations</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">Noncarrier of <em>HLA-B*57:01</em></td>
+            <td valign="top">Low or reduced risk of abacavir hypersensitivity</td>
+            <td valign="top">Use abacavir per standard dosing guidelines</td>
+            <td valign="top">Strong</td>
+        </tr>
+        <tr>
+            <td valign="top">Carrier of <em>HLA-B*57:01</em></td>
+            <td valign="top">Significantly increased risk of abacavir hypersensitivity</td>
+            <td valign="top">Abacavir is not recommended</td>
+            <td valign="top">Strong</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note">HLA-B, human leukocyte antigen B</p>
+<p><span style="text-decoration: underline;"><strong>Definitions</strong></span>:</p>
+<p><strong>Strength of Therapeutic Recommendations</strong></p>
+<p><strong>Strong</strong>: The evidence is high quality and the desirable effects clearly outweigh the undesirable effects.</p>
+<p><strong>Moderate</strong>: There is a close or uncertain balance as to whether the evidence is high quality and the desirable clearly outweigh the undesirable effects.</p>
+<p><strong>Optional</strong>: The desirable effects are closely balanced with undesirable effects and there is room for differences of opinion as to the need for the recommended course of action.</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>The original guideline document includes a treatment algorithm for clinical use of abacavir based on <em>human leukocyte antigen B&nbsp;(HLA-B)*57:01</em> genotype.</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Human immunodeficiency virus (HIV) infection</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Prevention</p>
+                    <p>Risk Assessment</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Family Practice</p>
+                    <p>Infectious Diseases</p>
+                    <p>Internal Medicine</p>
+                    <p>Medical Genetics</p>
+                    <p>Pharmacology</p>
+                    <p>Preventive Medicine</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Pharmacists</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To provide information that will allow the interpretation of clinical <em>human leukocyte antigen B (HLA-B)</em> genotype tests so that the results can be used to guide the use of abacavir for the treatment of human immunodeficiency virus (HIV)</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Individuals infected with human immunodeficiency virus (HIV)</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><div class="content_para"><p>Abacavir therapy based on <em>human leukocyte antigen B (HLA-B)*57:01</em> genotype</p></div></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Risk of abacavir hypersensitivity </li>
+    <li>Positive predictive value and negative predictive value of genetic testing </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Searches of Electronic Databases</p>
+                    <p>Searches of Unpublished Data</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>2012 Original Guideline</strong></p>
+<p>The guideline authors searched the PubMed database (1966 to April 2011) and Ovid MEDLINE (1950 to April 2011) for keywords ((HLA OR HLA-B OR HLA-B57 OR HLA-B*5701) AND (abacavir)), as well as a more general search for (abacavir hypersensitivity).</p>
+<p>To construct a <em>human leukocyte antigen B (HLA-B)*57:01</em> minor allele frequency table based on ethnicity, the PubMed&reg; database (1966 to April 2011) and Ovid MEDLINE (1950 to April 2011) were searched using the following criteria: ((HLA-B OR HLA-B57 OR HLA-B*5701) AND (genotype OR allele OR frequency)) with filter limits set to retrieve "full-text" and "English" literature. Studies were considered for inclusion if (1) the ethnicity of the population was clearly indicated; (2) either allele frequencies or alleles for <em>HLA-B*57:01</em> genotypes were reported; (3) the method by which <em>HLA-B</em> was genotyped was reliable and proven (no proof-of-principle experiments); (4) the sample population consisted of at least 50 individuals; (5) the study represented publication of novel data (no reviews or meta-analyses) and (6) the population studied did not have any concomitant disease (such as autoimmune conditions) that would be expected to result in a distribution of <em>HLA-B</em> alleles that were different from the general population. In instances where genotype data from large cohorts of ethnically diverse individuals were reported, without respect to ethnicity, studies were only considered if one ethnicity was &ge;95% of the majority. Additional studies were also included from the Allele Frequency Net Database (<a href="/web/20180712205837/https://www.guideline.gov/Home/Disclaimer?id=39535&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.allelefrequencies.net" title="Allele Frequency Net Database">www.allelefrequencies.net</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205837im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>), an online repository for HLA allele frequencies from both previously published and unpublished sources, if they met the previously described inclusion criteria. All previously published data were manually checked against the original publications to verify the <em>HLA-B*57:01</em> allele frequencies. In some cases, sample sizes or allele frequencies were updated to reflect only subjects successfully genotyped for <em>HLA-B*57:01</em> (rather than the total sample size of the study) or to correct errata in the original publication. The combined analysis included 35,630 Europeans, 1,321 South Americans, 8,570 Africans, 1,029 Middle Easterners, 3,391 Mexicans, 12,175 Asians, and 326 Southwest Asians.</p>
+<p><strong>2014 Reaffirmation</strong></p>
+<p>The guideline authors searched the PubMed database (1966 to November 2013) and Ovid MEDLINE (1950 to November 2013) for keywords ((HLA OR HLA-B OR HLA-B57 OR HLA-B*5701) AND (abacavir)), as well as a more general search for (abacavir hypersensitivity).</p>
+<p>To construct a <em>HLA-B*57:01</em> minor allele frequency table based on ethnicity, the PubMed&reg; database (1966 to November 2013) and Ovid MEDLINE (1950 to November 2013) were searched using the following criteria: ((HLA-B OR HLA-B57 OR HLA-B*5701) AND (genotype OR allele OR frequency)) with filter limits set to retrieve "full-text" and "English" literature.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Level of Evidence</strong></p>
+<p><strong>High</strong>: Evidence includes consistent results from well-designed, well-conducted studies.</p>
+<p><strong>Moderate</strong>: Evidence is sufficient to determine effects, but the strength of the evidence is limited by the number, quality, or consistency of the individual studies, generalizability to routine practice, or indirect nature of the evidence.</p>
+<p><strong>Weak</strong>: Evidence is insufficient to assess the effects on health outcomes because of limited number or power of studies, important flaws in their design or conduct, gaps in the chain of evidence, or lack of information.</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>2012 Original Guideline</strong></p>
+<p>The Clinical Pharmacogenetics Implementation Consortium's dosing recommendations are based weighing the evidence from a combination of preclinical functional and clinical data, as well as on some existing disease-specific consensus guidelines. Some of the factors that are taken into account include in vitro cytokine profiling of abacavir-stimulated immune cells in patients with various <em>human leukocyte antigen B&nbsp;(HLA-B)</em> alleles, as well as both retrospective and prospective in vivo clinical outcome data for abacavir. Overall, the dosing recommendations are simplified to allow rapid interpretation by clinicians. They have been adopted from the rating scale for evidence-based therapeutic recommendations on the use of retroviral agents.</p>
+<p>Evidence was summarized into tables (see the "Availability of Companion Documents" field) and graded (see the "Rating Scheme for the Strength of the Evidence" field).</p>
+<p><strong>2014 Reaffirmation</strong></p>
+<p>While the guideline authors found no new evidence that would change their original recommendations, they did find one additional study that was added to the evidence table in the supplementary material (see Supplementary Table S3 in the online Supplemental material [see the "Availability of Companion Documents" field]). Recent studies have been published that further describe the mechanism by which abacavir can elicit an immune response through <em>HLA-B*57:01</em>. Discussion of these studies was added to the Supplementary Material online.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>2012 Original Guideline</strong></p>
+<p>The authors chose to use a slight modification of a transparent and simple system with just three categories for recommendations: strong, moderate, and optional (see the "Rating Scheme for the Strength of the Recommendations" field).</p>
+<p>Overall, the dosing recommendations are simplified to allow rapid interpretation by clinicians. They have been adopted from the Department of Health and Human Services rating scale for evidence-based therapeutic recommendations on the use of retroviral agents.</p>
+<p><strong>2014 Reaffirmation</strong></p>
+<p>The guideline authors reviewed recent literature and concluded that none of the evidence would change the therapeutic recommendations in the original guideline; therefore, the original publication remains clinically current.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Strength of Therapeutic Recommendations</strong></p>
+<p><strong>Strong</strong>: The evidence is high quality and the desirable effects clearly outweigh the undesirable effects.</p>
+<p><strong>Moderate</strong>: There is a close or uncertain balance as to whether the evidence is high quality and the desirable clearly outweigh the undesirable effects.</p>
+<p><strong>Optional</strong>: The desirable effects are closely balanced with undesirable effects and there is room for differences of opinion as to the need for the recommended course of action.</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The evidence summarized in Supplemental Table S3 (see the "Availability of Companion Documents" field) is graded on a scale of high, moderate, and weak, based upon the level of evidence (see the "Rating Scheme for the Strength of the Evidence" field). Every effort was made to present evidence from high-quality studies, which provided the framework for the strength of therapeutic recommendations.</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>A clear benefit of <em>human leukocyte antigen B&nbsp;(HLA-B)*57:01</em> testing is that it leads to a reduction in the incidence of abacavir hypersensitivity reaction by identifying patients at significant risk so that alternative antiretroviral therapy can be prescribed for them. Importantly, a number of effective and safe antiretrovirals are available that can be substituted for abacavir in patients carrying this risk-related allele. <em>HLA-B*57:01</em>'s high negative predictive value (&gt;99%) shows that it is extremely effective in identifying those at risk of immunologically confirmed hypersensitivity to abacavir.</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>A potential problem of <em>human leukocyte antigen B&nbsp;(HLA-B)*57:01</em> testing would be an error in genotyping or in reporting a genotype. This could result in high-risk patients mistakenly being given abacavir and potentially having a hypersensitivity reaction (HSR). However, given that patients testing negative for <em>HLA-B*57:01</em> also have a 3% risk of developing a clinically diagnosed hypersensitivity reaction (HSR), standard practice would include patient counseling and careful monitoring for signs and symptoms of an HSR. </li>
+    <li>Given the lifelong nature of genotype results, an error in genotyping may also have a broader adverse impact on a patient's health care if other associations with <em>HLA-B*57:01</em> are found in the future. </li>
+</ul></p>
+
+            </div>
+                <h2 id="430" class="accordion-title section-430 is-active" role="tab" aria-expanded="true"><a href="#">Contraindications</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Contraindications</a></h3>
+                    <p><div class="content_para"><p>If the symptoms of clinically diagnosed hypersensitivity reaction resolve after discontinuation of abacavir, drug rechallenge is contraindicated because immediate and life-threatening reactions, including anaphylaxis and even fatalities, can occur. In addition, an allergy to abacavir should be noted in the patient's medical record.</p></div></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><div class="content_para"><p><strong>Caveats: Appropriate Use and/or Potential Misuse of Genetic Tests</strong></p>
+<ul style="list-style-type: disc;">
+    <li>The positive predictive value of <em>human leukocyte antigen B&nbsp;(HLA-B)*57:01</em> genotyping is ~50%, which means that a significant number of patients will be denied abacavir on the basis of their genotyping results even though they would have been able to take abacavir without experiencing a hypersensitivity reaction (HSR). There is currently no way to know <em>a priori</em> which <em>HLA-B*57:01</em> carriers are and which are not likely to experience HSRs, although new genetic risk factors may be found in the future. Given the potential seriousness of HSRs, the moderate positive predictive value is greatly outweighed by the very high negative predictive value of <em>HLA-B*57:01</em> genotyping. </li>
+    <li><em>HLA-B*57:01</em> is not predictive of any other adverse reactions a patient may experience while on abacavir treatment, nor does it predict whether abacavir will be effective in treating a patient's human immunodeficiency virus (HIV). In addition, genotyping is not a replacement for appropriate patient education and clinical monitoring for the signs and symptoms of hypersensitivity. The development of signs and symptoms of an HSR warrants that serious consideration be given to discontinuing abacavir, regardless of the <em>HLA-B</em> genotyping results. </li>
+</ul>
+<p><strong>Disclaimer</strong></p>
+<p>Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines reflect expert consensus based on clinical evidence and peer-reviewed literature available at the time they are written and are intended only to assist clinicians in decision making and to identify questions for further research. New evidence may have emerged since the time a guideline was submitted for publication. Guidelines are limited in scope and are not applicable to interventions or diseases not specifically identified. Guidelines do not account for all variations among individual patients and cannot be considered inclusive of all proper methods of care or exclusive of other treatments. It remains the responsibility of the health-care provider to determine the best course of treatment for the patient. Adherence to any guideline is voluntary, with the ultimate determination regarding its application to be made solely by the clinician and the patient. CPIC assumes no responsibility for any injury to persons or damage to property related to any use of CPIC's guidelines, or for any errors or omissions.</p></div></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>An implementation strategy was not provided.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Clinical Algorithm</p>
+                    <p>Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Living with Illness</p>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Safety</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Martin MA, Klein TE, Dong BJ, Pirmohamed M, Haas DW, Kroetz DL, Clinical Pharmacogenetics Implementation Consortium. Clinical Pharmacogenetics Implementation Consortium guidelines for HLA-B genotype and abacavir dosing. Clin Pharmacol Ther. 2012 Apr;91(4):734-8. [40 references] <a href="https://web.archive.org/web/20180712205837/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22378157" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712205837im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2012 Apr (reaffirmed 2014)</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>Clinical Pharmacogenetics Implementation Consortium - Independent Expert Panel</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>This work was funded by National Institutes of Health (NIH) grants GM61390 and GM61374.</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><strong>2012 Original Guideline</strong></p>
+<p><em>Authors</em>: MA Martin, Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, California, USA; TE Klein, Department of Genetics, Stanford University, Stanford, California, USA; BJ Dong, Department of Clinical Pharmacy, University of California, San Francisco, San Francisco, California, USA; M Pirmohamed, Department of Pharmacology, University of Liverpool, Liverpool, UK; DW Haas, Departments of Medicine, Pharmacology, and Pathology, Microbiology, and Immunology, Vanderbilt University, Nashville, Tennessee, USA; DL Kroetz, Department of Bioengineering and Therapeutic Sciences, University of California, San Francisco, San Francisco, California, USA</p>
+<p><strong>2014 Reaffirmation</strong></p>
+<p><em>Authors</em>: Michael A. Martin, Departments of Bioengineering and Therapeutic Sciences University of California, San Francisco, California USA; James M. Hoffman, Department of Pharmaceutical Sciences, St. Jude Children's Research Hospital, Memphis, Tennessee, USA; Robert R. Freimuth, Department of Health Sciences Research, Mayo Clinic, Rochester, Minnesota, USA; Teri E. Klein, Department of Genetics, Stanford University, Stanford, California USA; Betty J. Dong, Department of Clinical Pharmacy, University of California, San Francisco, California USA; Munir Pirmohamed, Department of Pharmacology, University of Liverpool, Liverpool UK; J. Kevin Hicks, Department of Pharmacy and Center for Personalized Healthcare, Cleveland Clinic, Cleveland, OH, USA; Mark R. Wilkinson, Department of Pharmaceutical Sciences, St. Jude Children's Research Hospital, Memphis, Tennessee, USA; David W. Haas, Department of Medicine, Vanderbilt University, Nashville, TN USA; and Deanna L. Kroetz, Departments of Bioengineering and Therapeutic Sciences University of California, San Francisco, California USA</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p><strong>2012 Original Guideline</strong></p>
+<p>The authors declared no conflict of interest.</p>
+<p><strong>2014 Reaffirmation</strong></p>
+<p>T.E.K. is a consultant for Personalis Inc. D.W.H has been a consultant to Merck. The other authors declare no conflicts of interest.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>The Clinical Pharmacogenetics Implementation Consortium (CPIC) reaffirmed the currency of this guideline in 2014.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712205837/https://www.guideline.gov/Home/Disclaimer?id=39535&amp;contentType=summary&amp;redirect=https%3a%2f%2fcpicpgx.org%2fguidelines%2fguideline-for-abacavir-and-hla-b%2f" title="Clinical Pharmacogenetics Implementation Consortium (CPIC) Web site">Clinical Pharmacogenetics Implementation Consortium (CPIC) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205837im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Clinical Pharmacogenetics Implementation Consortium Guidelines for HLA-B genotype and abacavir dosing: 2014 update. Clin Pharmacol Ther. 2014 May;95(5):499-500. Available from the <a href="/web/20180712205837/https://www.guideline.gov/Home/Disclaimer?id=39535&amp;contentType=summary&amp;redirect=https%3a%2f%2fcpicpgx.org%2fguidelines%2fguideline-for-abacavir-and-hla-b%2f" title="Clinical Pharmacogenetics Implementation Consortium (CPIC) Web site">Clinical Pharmacogenetics Implementation Consortium (CPIC) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205837im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Supplementary material for the 2013 update, including tables and methodological information, is available from the <a href="/web/20180712205837/https://www.guideline.gov/Home/Disclaimer?id=39535&amp;contentType=summary&amp;redirect=https%3a%2f%2fcpicpgx.org%2fguidelines%2fguideline-for-abacavir-and-hla-b%2f" title="CPIC Web site">CPIC Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205837im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Supplementary material for the original guideline document, including tables and methodological information, is available from the <a href="/web/20180712205837/https://www.guideline.gov/Home/Disclaimer?id=39535&amp;contentType=summary&amp;redirect=https%3a%2f%2fcpicpgx.org%2fguidelines%2fguideline-for-abacavir-and-hla-b%2f" title="CPIC Web site">CPIC Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205837im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on May 15, 2013. The information was verified by the guideline developer on June 25, 2013. The currency of the guideline was reaffirmed by the developer in 2014 and this summary was updated by ECRI Institute on June 26, 2014.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p>
+<p>CPIC<sup>&reg;</sup> is a registered service mark of the <a href="https://web.archive.org/web/20180712205837/http://www.hhs.gov/" target="_blank" title="DHHS Web site">U.S. Department of Health &amp; Human Services (HHS)</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205837im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712205837/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712205837/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712205837/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712205837/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712205837/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712205837/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712205837/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205837/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205837/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205837/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205837/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205837/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712205837/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712205837/https://www.guideline.gov/disclaimer?id=39535&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712205837im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712205837im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712205837/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712205837/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712205837/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712205837/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712205837/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712205837/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712205837/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712205837/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712205837/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712205837/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712205837/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712205837/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712205837/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712205837/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712205837/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712205837/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712205837/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712205837/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712205837/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712205837im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712205837im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712205837/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712205837im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712205837im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712205837/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712205837js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712205837js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:58:37 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:58:01 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 383.263 (3)
+  esindex: 0.007
+  captures_list: 414.443
+  CDXLines.iter: 25.377 (3)
+  PetaboxLoader3.datanode: 74.401 (4)
+  exclusion.robots: 0.233
+  exclusion.robots.policy: 0.219
+  RedisCDXSource: 1.642
+  PetaboxLoader3.resolve: 298.451 (2)
+  load_resource: 66.722
+-->

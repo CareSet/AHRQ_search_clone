@@ -1,0 +1,894 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app17.us.archive.org';v.server_ms=353;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Short-stay nursing home care: percent of residents who were offered and declined the pneumococcal vaccine. | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180625154601cs_/https://www.qualitymeasures.ahrq.gov/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180625154601js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180625154601if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180625154601/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180625154601if_/https://www.googletagmanager.com/ns.html?id=GTM-KXQCDQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180625154601/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180625154601/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180625154601/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/" class="header-logo NQMC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png">
+				        <source srcset="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header_m.png">
+				        <img src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png" alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Measure Summary</li>
+            <li>NQMC:010717</li>
+            <li>Oct 2015
+            </li>            
+                                </ul>
+        <div>
+                <h1>Short-stay nursing home care: percent of residents who were offered and declined the pneumococcal vaccine.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_Developer_String=Centers%20for%20Medicare%20%26%20Medicaid%20Services&amp;fLockTerm=Centers%2Bfor%2BMedicare%2B%2526%2BMedicaid%2BServices">Centers for Medicare &amp; Medicaid Services</a></li>
+                        <li>   
+                                <a id="11" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+        <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_Developer_String=RTI%20International&amp;fLockTerm=RTI%2BInternational">RTI International</a></li>
+                        <li>   
+                                <a id="2498" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. </td></tr></table>                    <p><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=50043&amp;contentType=fulltextlink&amp;redirect=https%253a%252f%252fwww.cms.gov%252fMedicare%252fQuality-Initiatives-Patient-Assessment-Instruments%252fNursingHomeQualityInits%252fDownloads%252fMDS-30-QM-Users-Manual-V90.pdf">View the original measure documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: RTI International. MDS 3.0 quality measures user's manual. v8.0. Baltimore (MD): Center for Medicare &amp; Medicaid Services (CMS); 2013 Apr 15. 80 p. </p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+            <h4>Measure Hierarchy</h4>
+<a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_Collection_Hierarchy=objid25809&amp;fLockTerm=Nursing%2BHome%2BQuality%2BInitiative%2BMeasures">Nursing Home Quality Initiative Measures</a> &gt; <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_Collection_Hierarchy=objid25809%3Bobjid26089&amp;fLockTerm=Short-stay%2BQuality%2BMeasures">Short-stay Quality Measures</a>                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Unspecified&amp;fLockTerm=Unspecified">Unspecified</a></li>                                              
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_ICD9CM_CUI=C1561696&amp;fLockTerm=Vaccination+not+carried+out+because+of+patient+refusal">Vaccination not carried out because of patient refusal</a>
+ (V64.06)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0023303&amp;fLockTerm=Length+of+Stay">Length of Stay</a>
+, <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0028688&amp;fLockTerm=Nursing+Homes">Nursing Homes</a>
+, <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0032269&amp;fLockTerm=Pneumococcal+Infections">Pneumococcal Infections</a>
+, <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0358314&amp;fLockTerm=Pneumococcal+Vaccines">Pneumococcal Vaccines</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0028688&amp;fLockTerm=Nursing+Homes">Nursing Homes</a>
+, <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0358314&amp;fLockTerm=Pneumococcal+vaccine">Pneumococcal vaccine</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0028688&amp;fLockTerm=Long+term+care+facility">Long term care facility</a>
+ (42665001), <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0032269&amp;fLockTerm=Pneumococcal+infectious+disease">Pneumococcal infectious disease</a>
+ (16814004), <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0419707&amp;fLockTerm=Pneumococcal+vaccination">Pneumococcal vaccination</a>
+ (12866006), <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C1303096&amp;fLockTerm=Pneumococcal+vaccination+declined">Pneumococcal vaccination declined</a>
+ (401086001), <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0358314&amp;fLockTerm=Pneumococcal+vaccine">Pneumococcal vaccine</a>
+ (333598008), <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0358314&amp;fLockTerm=Pneumococcal+vaccine">Pneumococcal vaccine</a>
+ (398730001)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#563" class="section-mark">Measure Domain</a></li>
+                                    <li><a href="#566" class="section-mark">Brief Abstract</a></li>
+                                    <li><a href="#573" class="section-mark">Evidence Supporting the Measure</a></li>
+                                    <li><a href="#580" class="section-mark">State of Use of the Measure</a></li>
+                                    <li><a href="#583" class="section-mark">Application of the Measure in its Current Use</a></li>
+                                    <li><a href="#660" class="section-mark">National Strategy for Quality Improvement in Health Care</a></li>
+                                    <li><a href="#590" class="section-mark">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></li>
+                                    <li><a href="#593" class="section-mark">Data Collection for the Measure</a></li>
+                                    <li><a href="#605" class="section-mark">Computation of the Measure</a></li>
+                                    <li><a href="#615" class="section-mark">Identifying Information</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10717?contentType=pdf" class="pdf">.PDF 116.5 kb</a></li>
+                            <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10717?contentType=word" class="word">Word Document 300.5 kb</a></li>
+                            <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10717?contentType=xml" class="xml">.XML 46.2 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180625154601/https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/summaries/summary/50043/shortstay-nursing-home-care-percent-of-residents-who-were-offered-and-declined-the-pneumococcal-vaccine" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180625154601/https://twitter.com/share?text=&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/50043/shortstay-nursing-home-care-percent-of-residents-who-were-offered-and-declined-the-pneumococcal-vaccine" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180625154601/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/50043/shortstay-nursing-home-care-percent-of-residents-who-were-offered-and-declined-the-pneumococcal-vaccine&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180625154601/mailto:/?Subject=AHRQ: Short-stay nursing home care: percent of residents who were offered and declined the pneumococcal vaccine.&amp;body=https://www.qualitymeasures.ahrq.gov/summaries/summary/50043/shortstay-nursing-home-care-percent-of-residents-who-were-offered-and-declined-the-pneumococcal-vaccine" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Quality Measures Clearinghouse (NQMC). Measure summary: Short-stay nursing home care: percent of residents who were offered and declined the pneumococcal vaccine. In: National Quality Measures Clearinghouse (NQMC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Oct 01. [cited 2018 Jun 25]. Available: https://www.qualitymeasures.ahrq.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50043?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50043?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50043?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50043?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50043?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50043">RefWorks</a></li>
+                            <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50043?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="50043" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="563" class="accordion-title section-563 is-active" role="tab" aria-expanded="true"><a href="#">Measure Domain</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Primary Measure Domain</a></h3>
+                    <p>Clinical Quality Measures: Process</p>
+                        <h3><a href="#">Secondary Measure Domain</a></h3>
+                    <p>Does not apply to this measure</p>
+
+            </div>
+                <h2 id="566" class="accordion-title section-566 is-active" role="tab" aria-expanded="true"><a href="#">Brief Abstract</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description</a></h3>
+                    <p><div class="content_para"><p>This measure is used to assess the percent of short-stay residents who were offered and declined the pneumococcal vaccine during the 12-month reporting period.</p></div></p>
+                        <h3><a href="#">Rationale</a></h3>
+                    <p><div class="content_para"><p>According to the Centers for Disease Control and Prevention (CDC) (2009), pneumococcal disease kills more people in the United States each year than all other vaccine-preventable diseases combined. In 2006, all possible pneumonia diagnoses (including viral, bacterial and unspecified organisms) killed 55,477 people in the United States (Hall, Levant, &amp; DeFrances, 2012) and was responsible for approximately 589,000 hospital discharges in males and 643,000 hospital discharges in females (DeFrances et al., 2008). Among the 2006 discharges, individuals age 65 or older had the highest rate at 189 per 10,000 (DeFrances et al., 2008). For patients in long-term care facilities, pneumonia is the leading cause of morbidity and mortality and is the leading cause of transfer to acute-care hospitals (Furman, Rayner, &amp; Tobin, 2004). Older people and those with chronic health conditions are at high risk for pneumococcal disease. Pneumonia is of even greater concern for post-surgery patients: CDC reports that pneumonia is the third-most-frequent healthcare-acquired infection (HAI) among post-surgical patients, with a prevalence of 15%; and among cases in which the cause of death was an HAI, pneumonia is the most frequent HAI (38%) (CDC, 2009). Given that many patients in post-acute care (PAC) settings are post-surgery, vaccinations of post-acute care residents can prevent or lower the risk of residents becoming seriously ill. Stroke patients are also at higher risk of pneumonia as a complication; pneumonia is one of the most common adverse events and the second most common cause of acute-hospital readmission (Hung et al., 2005).</p>
+<p>The pneumococcal vaccine protects against the bacterial strain of pneumonia caused by <em>Streptococcus pneumoniae</em> (<em>S. pneumoniae</em>). Specific data related to <em>S. pneumoniae</em> in nursing facilities, long-term care hospitals (LTCHs) and inpatient rehabilitation facilities (IRFs) is currently unknown. Generally speaking, <em>S. pneumoniae</em> accounted for 5,000 deaths among persons of all ages in 2009 (CDC, 2010). The estimated overall annual incidence of <em>S. pneumoniae</em> in the United States is 15 to 30 cases per 100,000 population, with the rate being higher in persons aged 65 or older (about 50 to 83 cases per 100,000 population) (CDC, 1997). The use of the PPSV23 vaccine among adults aged 65 or older and those adults aged 19 to 64 years with underlying medical conditions is recommended, as they are at greater risk for serious pneumococcal infection (CDC, 2010).</p>
+<p>Hospitalization rates for pneumonia-related stays for the elderly population have been increasing over the past 15 years; among those 85 or older, at least 1 in 20 people were hospitalized each year because of pneumonia (Fry et al., 2005). In 2005, Medicare paid an average of $6,342 per hospital discharge for pneumonia-related short-stay hospitalizations; the average length of stay was 6.1 days. The number of Medicare-reimbursed discharges related to pneumococcal infection for the same year was 670,000 (Health Care Financing Review, 2007).</p>
+<p>Healthy People 2010 (Objective 14-29f) and Healthy People 2020 (Objective IID-13.3) set a goal of 90% of adults vaccinated against pneumococcal disease in long-term care facilities and nursing homes by 2010 and 2020, respectively (Office of Disease Prevention and Health Promotion [ODPHP], 2000; ODPHP, 2011). However, estimated pneumococcal vaccination coverage remains below 50% among high-risk groups (National Health Interview Survey [NHIS], 2006). In 2006, 66 percent of persons in long-term care facilities and nursing homes certified by the Centers for Medicare and Medicaid Services (CMS) reported having up-to-date pneumococcal vaccinations (ODPHP, 2011). CMS currently uses MDS 2.0 data to publicly report a pneumococcal vaccination quality measure (QM) for nursing facility residents. In an analysis of quality measures using MDS data from the 2006 Quarter 1 for a random 10% facility sample, the University of Colorado found that this measure had a significant amount of variability across facilities. The quality measure varied from 15.6% at the 10th percentile to 98.1% at the 90th percentile. In addition, 8.0% of facilities had 100% vaccination (Brega et al., 2008). The first quarter (Q1) 2007 statewide averages for the PAC population ranged from 48.8% to 91.8%, with a 73.7% national average (Colorado Foundation for Medical Care, 2007).</p>
+<p>This measure is intended to encourage nursing homes, LTCHs, and IRFs to focus on this important aspect of clinical care by assessing residents/patients on the status of their pneumococcal vaccine immunization and to provide immunization as deemed clinically appropriate.</p></div></p>
+                        <h3><a href="#">Evidence for Rationale</a></h3>
+                    <p><table><tr><td>Brega A, Goodrich G, Nuccio E, Hittle D. Transition of publicly reported nursing home quality measures to MDS 3.0-draft. Denver (CO): Division of Health Care Policy and Research University of Colorado at Denver; 2008. </td></tr></table></p>
+                    <p><table><tr><td>Centers for Disease Control and Prevention (CDC), Advisory Committee on Immunization Practices. Updated recommendations for prevention of invasive pneumococcal disease among adults using the 23-valent pneumococcal polysaccharide vaccine (PPSV23). MMWR Morb Mortal Wkly Rep. 2010 Sep 3;59(34):1102-6. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20814406" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Centers for Disease Control and Prevention (CDC). Pneumococcal polysaccharide vaccine: What you need to know. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2009 Mar. </td></tr></table></p>
+                    <p><table><tr><td>Centers for Disease Control and Prevention. Prevention of pneumococcal disease: recommendations of the Advisory Committee on Immunization Practices (ACIP). MMWR Recomm Rep. 1997 Apr 4;46(RR-8):1-24. [123 references] <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9132580" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Colorado Foundation for Medical Care. Environmental scan: review of the literature, clinical guidelines, and other sources of information pertinent to the CMS publicly reported nursing home quality measures. Englewood (CO): Colorado Foundation for Medical Care; 2007. </td></tr></table></p>
+                    <p><table><tr><td>DeFrances CJ, Lucas CA, Buie VC, Golosinskiy A. 2006 National Hospital Discharge Survey. Natl Health Stat Report. 2008 Jul 30;(5):1-20. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18841653" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Fry AM, Shay DK, Holman RC, Curns AT, Anderson LJ. Trends in hospitalizations for pneumonia among persons aged 65 years or older in  the United States, 1988-2002. JAMA. 2005 Dec 7;294(21):2712-9. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16333006" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Furman CD, Rayner AV, Tobin EP. Pneumonia in older residents of long-term care facilities. Am Fam Physician. 2004 Oct 15;70(8):1495-500. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15526736" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Hall MJ, Levant S, DeFrances CJ. Hospitalization for stroke in U.S. hospitals, 1989-2009. NCHS Data Brief. 2012 May;(95):1-8. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22617404" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Health Care Financing Review. Statistical supplement 293. Baltimore (MD): Centers for Medicare and Medicaid Services; 2007. </td></tr></table></p>
+                    <p><table><tr><td>Hung JW, Tsay TH, Chang HW, Leong CP, Lau YC. Incidence and risk factors of medical complications during inpatient stroke rehabilitation. Chang Gung Med J. 2005 Jan;28(1):31-8. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15804146" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>National Health Interview Survey. Pneumococcal: self-reported pneumococcal vaccination coverage trends 1989-2006. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2006. </td></tr></table></p>
+                    <p><table><tr><td>National Quality Forum measure information: percent of residents or patients assessed and appropriately given the pneumococcal vaccine (short stay). Washington (DC): National Quality Forum (NQF); 2016 Jan 16. 17 p. </td></tr></table></p>
+                    <p><table><tr><td>Office of Disease Prevention and Health Promotion (ODPHP). Healthy people 2010. [internet]. Washington (DC): U.S. Department of Health and Human Services (HHS); 2000.&nbsp;</td></tr></table></p>
+                    <p><table><tr><td>Office of Disease Prevention and Health Promotion (ODPHP). Immunization and infectious diseases. [internet]. Washington (DC): U.S. Department of Health and Human Services (HHS); 2011 Jun.&nbsp;</td></tr></table></p>
+                        <h3><a href="#">Primary Health Components</a></h3>
+                    <p><div class="content_para"><p>Nursing home; short-stay; pneumococcal vaccine</p></div></p>
+                        <h3><a href="#">Denominator Description</a></h3>
+                    <p><div class="content_para"><p>All short-stay residents with a selected target assessment (see the related "Denominator Inclusions/Exclusions" field)</p></div></p>
+                        <h3><a href="#">Numerator Description</a></h3>
+                    <p><div class="content_para"><p>Residents meeting the following criteria on the selected target assessment:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Were offered and declined the vaccine. </li>
+</ol>
+<p>See the related "Numerator Inclusions/Exclusions" field.</p></div></p>
+
+            </div>
+                <h2 id="573" class="accordion-title section-573 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Criterion of Quality for the Measure</a></h3>
+                    <p><ul><li>A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence</li><li>A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences</li><li>One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal</li></ul></p>
+                        <h3><a href="#">Additional Information Supporting Need for the Measure</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>In 2004, the seventh-most common cause of death for persons age 65 or older in the United States was pneumonia and influenza (Gorina et al., 2008). Influenza and pneumonia continue to be a leading cause of death, and they were reported by the Centers for Medicare and Medicaid Services (CMS) in 2011 to be the fifth-leading cause of death among individuals age 65 or older. Additionally, pneumonia is among the top 20 most common Medicare Severity Long term Care Diagnosis Related Groups (MS-LTC-DRG) ("Long-term care," 2011). Death related to pneumonia affects the elderly at a higher rate, especially for persons aged 85 or older (Thompson et al., 2003; Centers for Disease Control and Prevention [CDC], 2011). Almost 60,000 deaths in 2004 were caused by influenza and pneumonia, and more than 85% of those were among the elderly (Gorina et al., 2008). CMS reports that there are currently more than 40,000 cases of invasive pneumococcal disease in the United States and approximately one third of these are in individuals age 65 or older (CMS, 2011). Also, over half of the more than 5,000 annual deaths from invasive pneumococcal diseases occurred in individuals age 65 or older (CMS, 2011). Frail elderly are especially at risk for contracting pneumonia as a complication of another infection or medical condition, particularly stroke or previous or recent surgery or a condition requiring surgery or a ventilator&mdash;all of which are conditions for which patients may spend some of their recovery time in an IRF or LTCH (Hung et al., 2005; CDC, 2011; Fagon et al., 1993). In 2004, there were approximately 123,000 deaths with influenza and pneumonia mentioned on the death certificate as a secondary cause of death (Gorina et al., 2008). </li>
+    <li>As the evidence suggests, immunization of post-acute care residents or patients against pneumococcal infections is an important mechanism for reducing serious illness and mortality in all at-risk patients, regardless of setting. In addition to protecting vaccinated individuals, research suggests that vaccination programs using the pneumococcal conjugate vaccine can contribute to development of a herd immunity amongst the elderly, protecting even those who cannot get vaccinated. According to the 2010 update to the Advisory Committee on Immunization Practices (ACIP) recommendations for prevention of invasive pneumococcal disease, pneumococcal vaccinations have reduced pneumococcal infection among unvaccinated persons, including those aged greater than 65. In 2000 the CDC introduced the infant-7 valent pneumococcal vaccine immunization program. By 2007 the overall incidence rate of invasive pneumococcal disease among person ages 65 and older had decreased by 37% (CDC, 2010). Additional indirect effects are expected to occur when the PCV13 immunization (given to youths age less than 18) program, initiated in 2010, is fully implemented, although the magnitude of these effects is difficult to predict (CDC, 2010). It is important to note that herd immunity is only relevant in the context of the pneumococcal conjugate vaccine. </li>
+    <li>A study of the implementation of a pneumococcal vaccination standing order on an inpatient hospital serving geriatric patients found that after implementing the order, the vaccination rate increased from 0% to 15.4%, and vaccination opportunity rate increased from 8% to 59.1% (Eckrode, Church, &amp; English, 2007). This indicates that there is a wide range of performance among facilities that are measuring vaccination rates and those that are not.
+    <p>In an analysis of quality measures using Minimum Data Set (MDS) 2.0 data from 2006 Quarter 1 (Q1) for a random 10% facility sample, the University of Colorado found that this measure had a significant amount of variability across facilities. The quality measure varied from 15.6% at the 10th percentile to 98.1% at the 90th percentile. In addition, 8.0% of facilities had 100% vaccination (Brega et al., 2008).</p>
+    </li>
+    <li>A study that examined racial disparities in receipt and documentation of pneumococcal vaccinations among nursing home residents concluded that racial disparities exist in vaccination coverage among U.S. nursing home residents (Li &amp; Mukamel, 2010). The incidence of pneumococcal infection in black adults is three to five times as high as that of white adults (Smith et al., 2007), but pneumococcal vaccination rates are lower for black nursing home residents than for white residents&mdash;31% of black residents compared with 24% of white residents age 65 years or older had never received pneumococcal vaccination. Blacks also had a higher likelihood of unknown vaccination status than whites in Medicaid-only nursing facilities and lower odds of unknown vaccination status in government-owned nursing facilities. The racial difference in pneumococcal vaccination exists predominantly in certain nursing facility types (Marsteller et al., 2008).
+    <p>Within nursing homes specifically, racial segregation between facilities has been shown to be a major factor in racial disparities in this population, primarily for African Americans. In 2000, a study drawing on national MDS and Online Survey, Certification, and Reporting (OSCAR) data found that two-thirds of all black residents were living in just 10% of all facilities (Smith et al., 2007). A 2002 survey of a stratified sample of 39 nursing homes and 181 residential care/assisted living facilities in four states had similar findings (Howard et al., 2002). Facilities serving African Americans have demonstrated a lower level of quality care than those serving whites, with lower staff-to-resident ratios and higher deficiency ratings (Grabowski, 2004). Minority groups in general, and African Americans in particular, also have more limited access to nursing home care than whites (National Center for Health Statistics [NCHS], CDC, 1997; Marsteller et al., 2008).</p>
+    </li>
+</ul></p>
+                        <h3><a href="#">Evidence for Additional Information Supporting Need for the Measure</a></h3>
+                    <p><table><tr><td>Brega A, Goodrich G, Nuccio E, Hittle D. Transition of publicly reported nursing home quality measures to MDS 3.0-draft. Denver (CO): Division of Health Care Policy and Research University of Colorado at Denver; 2008. </td></tr></table></p>
+                    <p><table><tr><td>Centers for Disease Control and Prevention (CDC), Advisory Committee on Immunization Practices. Updated recommendations for prevention of invasive pneumococcal disease among adults using the 23-valent pneumococcal polysaccharide vaccine (PPSV23). MMWR Morb Mortal Wkly Rep. 2010 Sep 3;59(34):1102-6. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20814406" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Centers for Disease Control and Prevention (CDC). Pneumococcal vaccination: who needs it?. [internet]. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2011 Apr.&nbsp;</td></tr></table></p>
+                    <p><table><tr><td>Centers for Medicare and Medicaid Services (CMS). Immunizations. [internet]. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); 2011 May&nbsp;[updated 2014 Dec 15]; </td></tr></table></p>
+                    <p><table><tr><td>Eckrode C, Church N, English WJ. Implementation and evaluation of a nursing assessment/standing orders-based inpatient pneumococcal vaccination program. Am J Infect Control. 2007 Oct;35(8):508-15. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17936141" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Fagon JY, Chastre J, Hance AJ, Montravers P, Novara A, Gibert C. Nosocomial pneumonia in ventilated patients: a cohort study evaluating attributable mortality and hospital stay. Am J Med. 1993 Mar;94(3):281-8. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8452152" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Gorina Y, Kelly T, Lubitz J, Hines Z. Trends in influenza and pneumonia among older persons in the United States. Hyattsville (MD): Centers for Disease Control and Prevention (CDC), National Center for Health Statistics; 2008. </td></tr></table></p>
+                    <p><table><tr><td>Grabowski DC. The admission of blacks to high-deficiency nursing homes. Med Care. 2004 May;42(5):456-64. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15083106" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Howard DL, Sloane PD, Zimmerman S, Eckert JK, Walsh JF, Buie VC, Taylor PJ, Koch GG. Distribution of African Americans in residential care/assisted living and nursing homes: more evidence of racial disparity. Am J Public Health. 2002 Aug;92(8):1272-7. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12144983" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Hung JW, Tsay TH, Chang HW, Leong CP, Lau YC. Incidence and risk factors of medical complications during inpatient stroke rehabilitation. Chang Gung Med J. 2005 Jan;28(1):31-8. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15804146" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Li Y, Mukamel DB. Racial disparities in receipt of influenza and pneumococcus vaccinations among US nursing-home residents. Am J Public Health. 2010 Apr 1;100 Suppl 1:S256-62. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20147674" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Long-term care hospital services. In: Medicare Payment Advisory Commission (MedPAC). Report to the Congress: Medicare payment policy. Washington (DC): Medicare Payment Advisory Commission (MedPAC); 2011 Mar. p. 231-56.</td></tr></table></p>
+                    <p><table><tr><td>Marsteller JA, Tiggle RB, Remsburg RE, Bardenheier B, Shefer A, Han B. Pneumococcal vaccination in nursing homes: does race make a difference. J Am Med Dir Assoc. 2008 Nov;9(9):641-7. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18992696" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention (CDC). Health, United States 1996-97 and injury chartbook. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 1997. 341 p. </td></tr></table></p>
+                    <p><table><tr><td>National Center for Immunization and Respiratory Diseases (NCIRD). Pneumococcal diseases. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2011. 279-96 p. </td></tr></table></p>
+                    <p><table><tr><td>National Quality Forum measure information: percent of residents or patients assessed and appropriately given the pneumococcal vaccine (short stay). Washington (DC): National Quality Forum (NQF); 2016 Jan 16. 17 p. </td></tr></table></p>
+                    <p><table><tr><td>Post-procedure pneumonia (PPP) event. In: National Center for Preparedness, Detection and Control of Infectious Diseases (NCPDCID). The National Healthcare Safety Network (NHSN) manual. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2011 Jun. </td></tr></table></p>
+                    <p><table><tr><td>Smith DB, Feng Z, Fennell ML, Zinn JS, Mor V. Separate and unequal: racial segregation and disparities in quality across U.S. nursing homes. Health Aff (Millwood). 2007 Sep-Oct;26(5):1448-58. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17848457" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Thompson WW, Shay DK, Weintraub E, Brammer L, Cox N, Anderson LJ, Fukuda K. Mortality associated with influenza and respiratory syncytial virus in the United States. JAMA. 2003 Jan 8;289(2):179-86. <a href="https://web.archive.org/web/20180625154601/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12517228" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Extent of Measure Testing</a></h3>
+                    <p><div class="content_para"><p>A joint RAND/Harvard team engaged in a deliberate iterative process to incorporate provider and consumer input, expert consultation, scientific advances in clinical knowledge about screening and assessment, Centers for Medicare &amp; Medicaid Services (CMS) experience, and intensive item development and testing by a national Veteran's Health Administration (VHA) consortium. This process allowed the final national testing of Minimum Data Set (MDS) 3.0 to include well-developed and tested items.</p>
+<p>The national validation and evaluation of the MDS 3.0 included 71 community nursing homes (NHs) (3,822 residents) and 19 VHA NHs (764 residents), regionally distributed throughout the United States. The evaluation was designed to test and analyze inter-rater agreement (reliability) between gold-standard (research) nurses and between facility and gold-standard nurses, validity of key sections, response rates for interview items, anonymous feedback on changes from participating nurses, and time to complete the MDS assessment.</p>
+<p>Analysis of the test results showed that MDS 3.0 items had either excellent or very good reliability even when comparing research nurse to facility-nurse assessment. In most instances these were higher than those seen in the past with MDS 2.0. In addition, for the cognitive, mood and behavior items, national testing included collection of independent criterion or gold-standard measures. These MDS 3.0 sections were more highly matched to criterion measures than were MDS 2.0 items.</p>
+<p>Improvements incorporated in MDS 3.0 produced a more efficient assessment: better quality information was obtained in less time. Such gains should improve identification of resident needs and enhance resident-focused care planning. In addition, including items recognized in other care settings is likely to enhance communication among providers. These significant gains reflect the cumulative effect of changes across the tool, including use of more valid items, direct inclusion of resident reports, improved clarity of retained items, deletion of poorly performing items, form redesign, and briefer assessment periods for clinical items.</p>
+<p>Refer to <em>Development &amp; Validation of a Revised Nursing Home Assessment Tool: MDS 3.0.</em> for additional information.</p></div></p>
+                        <h3><a href="#">Evidence for Extent of Measure Testing</a></h3>
+                    <p><table><tr><td>Saliba D, Buchanan J. Development &amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp; Medicaid Services; 2008 Apr. 263 p. </td></tr></table></p>
+
+            </div>
+                <h2 id="580" class="accordion-title section-580 is-active" role="tab" aria-expanded="true"><a href="#">State of Use of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">State of Use</a></h3>
+                    <p>Current routine use</p>
+                        <h3><a href="#">Current Use</a></h3>
+                    <p>Decision-making by consumers about health plan/provider choice</p>
+                    <p>Internal quality improvement</p>
+                    <p>National reporting</p>
+
+            </div>
+                <h2 id="583" class="accordion-title section-583 is-active" role="tab" aria-expanded="true"><a href="#">Application of the Measure in its Current Use</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measurement Setting</a></h3>
+                    <p>Hospital Inpatient</p>
+                    <p>Long-term Care Facilities - Other</p>
+                    <p>Skilled Nursing Facilities/Nursing Homes</p>
+                        <h3><a href="#">Professionals Involved in Delivery of Health Services</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Nurses</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Least Aggregated Level of Services Delivery Addressed</a></h3>
+                    <p>Single Health Care Delivery or Public Health Organizations</p>
+                        <h3><a href="#">Statement of Acceptable Minimum Sample Size</a></h3>
+                    <p>Specified</p>
+                        <h3><a href="#">Target Population Age</a></h3>
+                    <p><div class="content_para"><p>Age greater than or equal to 5 years</p></div></p>
+                        <h3><a href="#">Target Population Gender</a></h3>
+                    <p>Either male or female</p>
+
+            </div>
+                <h2 id="660" class="accordion-title section-660 is-active" role="tab" aria-expanded="true"><a href="#">National Strategy for Quality Improvement in Health Care</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">National Quality Strategy Aim</a></h3>
+                    <p>Better Care</p>
+                        <h3><a href="#">National Quality Strategy Priority</a></h3>
+                    <p>Health and Well-being of Communities<br/>Prevention and Treatment of Leading Causes of Mortality</p>
+
+            </div>
+                <h2 id="590" class="accordion-title section-590 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+
+            </div>
+                <h2 id="593" class="accordion-title section-593 is-active" role="tab" aria-expanded="true"><a href="#">Data Collection for the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Case Finding Period</a></h3>
+                    <p><div class="content_para"><p>12-month reporting period</p></div></p>
+                        <h3><a href="#">Denominator Sampling Frame</a></h3>
+                    <p>Patients associated with provider</p>
+                        <h3><a href="#">Denominator (Index) Event or Characteristic</a></h3>
+                    <p>Diagnostic Evaluation</p>
+                    <p>Institutionalization</p>
+                        <h3><a href="#">Denominator Time Window</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Denominator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+All short-stay* residents with a selected target assessment </p>
+<p class="Note">*<strong>Short-stay</strong>: An episode with cumulative days in facility (CDIF) less than or equal to 100 days as of the end of the target period.</p>
+<p><strong>Exclusions</strong><br/>
+Resident's age on target date of selected target assessment is less than 5 years (i.e., resident has not yet reached 5th birthday on target date).</p></div></p>
+                        <h3><a href="#">Exclusions/Exceptions</a></h3>
+                    <p>Unspecified</p>
+                        <h3><a href="#">Numerator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+Residents meeting the following criteria on the selected target assessment:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Were offered and declined the vaccine. </li>
+</ol>
+<p class="Note"><strong>Note</strong>: Refer to the original measure documentation for details. </p>
+<p><strong>Exclusions</strong><br/>
+Unspecified</p></div></p>
+                        <h3><a href="#">Numerator Search Strategy</a></h3>
+                    <p>Institutionalization</p>
+                        <h3><a href="#">Data Source</a></h3>
+                    <p>Administrative clinical data</p>
+                        <h3><a href="#">Type of Health State</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Instruments Used and/or Associated with the Measure</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Center for Medicare &amp; Medicaid Services (CMS) Minimum Data Set (MDS) - Resident Assessment Instrument (Version 3.0) </li>
+    <li>Inpatient Rehabilitation Facility Patient Assessment Instrument (IRF-PAI) Version 1.2 for Inpatient </li>
+    <li>Long-Term Care Hospital (LTCH) Continuity Assessment Record &amp; Evaluation (CARE) Data Set Version 2.01 </li>
+</ul></p>
+
+            </div>
+                <h2 id="605" class="accordion-title section-605 is-active" role="tab" aria-expanded="true"><a href="#">Computation of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measure Specifies Disaggregation</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Scoring</a></h3>
+                    <p>Rate/Proportion</p>
+                        <h3><a href="#">Interpretation of Score</a></h3>
+                    <p>Desired value is a higher score</p>
+                        <h3><a href="#">Allowance for Patient or Population Factors</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Standard of Comparison</a></h3>
+                    <p>External comparison at a point in, or interval of, time</p>
+                    <p>Internal time comparison</p>
+
+            </div>
+                <h2 id="615" class="accordion-title section-615 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Original Title</a></h3>
+                    <p><div class="content_para"><p>Percent of residents who were offered and declined the pneumococcal vaccine (short-stay).</p></div></p>
+                        <h3><a href="#">Measure Collection Name</a></h3>
+                    <p>Nursing Home Quality Initiative Measures</p>
+                        <h3><a href="#">Measure Set Name</a></h3>
+                    <p>Short-stay Quality Measures</p>
+                        <h3><a href="#">Submitter</a></h3>
+                    <p>Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]</p>
+                        <h3><a href="#">Developer</a></h3>
+                    <p>Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]</p>
+                    <p>RTI International - Nonprofit Research Organization</p>
+                        <h3><a href="#">Funding Source(s)</a></h3>
+                    <p><div class="content_para"><p>United States (U.S.) Government</p></div></p>
+                        <h3><a href="#">Composition of the Group that Developed the Measure</a></h3>
+                    <p><div class="content_para"><p>United States (U.S.) Government Staff, Clinical Experts, Researchers, and Statisticians</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Other Potential Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>No conflicts of interest exist.</p></div></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>This measure was adapted from the following source:</p>
+<ul style="list-style-type: disc;">
+    <li>Influenza vaccination for all nursing home residents and pneumococcal vaccination of residents age 65 or older (Centers for Disease Control and Prevention [CDC]) </li>
+</ul></div></p>
+                        <h3><a href="#">Date of Most Current Version in NQMC</a></h3>
+                    <p>2015 Oct</p>
+                        <h3><a href="#">Measure Maintenance</a></h3>
+                    <p><div class="content_para"><p>Annual and endorsement</p></div></p>
+                        <h3><a href="#">Date of Next Anticipated Revision</a></h3>
+                    <p><div class="content_para"><p>Quarter 2 2016</p></div></p>
+                        <h3><a href="#">Measure Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: RTI International. MDS 3.0 quality measures user's manual. v8.0. Baltimore (MD): Center for Medicare &amp; Medicaid Services (CMS); 2013 Apr 15. 80 p. </p></div></p>
+                        <h3><a href="#">Source(s)</a></h3>
+                    <p><table><tr><td>RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. </td></tr></table></p>
+                        <h3><a href="#">Measure Availability</a></h3>
+                    <p><div class="content_para"><p>Source available from the <a href="https://web.archive.org/web/20180625154601/https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/Downloads/MDS-30-QM-Users-Manual-V90.pdf" target="_blank" title="CMS Web site">Centers for Medicare &amp; Medicaid Services (CMS) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>For more information, refer to the CMS Web site at <a href="https://web.archive.org/web/20180625154601/http://www.cms.gov/" target="_blank" title="CMS Web site">www.cms.gov</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following is available: </p>
+<ul style="list-style-type: disc;">
+    <li>Saliba D, Buchanan J. Development &amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp; Medicaid Services; 2008 Apr. 263 p. Available from the <a href="https://web.archive.org/web/20180625154601/http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/downloads/MDS30FinalReport.pdf" title="Centers for Medicare &amp; Medicaid Services (CMS) Web site" target="_blank">Centers for Medicare &amp; Medicaid Services (CMS) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">NQMC Status</a></h3>
+                    <p><div class="content_para"><p>This NQMC summary was completed by ECRI Institute on August 15, 2013. The information was verified by the measure developer on December 3, 2013.</p>
+<p>This NQMC summary was updated by ECRI Institute on May 31, 2016. The information was not verified by the measure developer. </p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>No copyright restrictions apply.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NQMC Disclaimer</a></h3>
+                    <p><p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria">NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NQMC Measure Summaries</h3>
+            <p>NQMC provides structured summaries containing information about measures and their development.</p>
+            <ul>
+                <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/domain-framework" class="internal-link">Domain Framework</a></li>
+                <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/template-of-measure-attributes" class="internal-link">Template of Measure Attributes</a></li>
+                <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/faqs" class="help-button">Measure Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NQMC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+    
+    <a class="block-link" href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/disclaimer?id=50043&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.svg">
+					  	<img src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.png" alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		                <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a></li>
+						<li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180625154601/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://web.archive.org/web/20180625154601/https://www.guideline.gov/" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.svg">
+									<img src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180625154601/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180625154601im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180625154601/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180625154601js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180625154601js_/https://www.qualitymeasures.ahrq.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 15:46:01 Jun 25, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:10:02 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 48.691 (3)
+  esindex: 0.014
+  captures_list: 131.448
+  CDXLines.iter: 18.94 (3)
+  PetaboxLoader3.datanode: 49.949 (4)
+  exclusion.robots: 0.378
+  exclusion.robots.policy: 0.343
+  RedisCDXSource: 58.901
+  PetaboxLoader3.resolve: 126.425
+  load_resource: 171.1
+-->

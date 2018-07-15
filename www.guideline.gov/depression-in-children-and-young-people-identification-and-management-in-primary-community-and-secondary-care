@@ -1,0 +1,1435 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=286;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Depression in children and young people: identification and management in primary, community and secondary care. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712194709im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712194709im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712194709im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712194709im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712194709/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712194709im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712194709cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712194709js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712194709if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712194709/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712194709if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712194709/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712194709/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712194709/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712194709/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712194709im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712194709im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712194709im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712194709/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712194709/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712194709/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712194709/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712194709/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712194709/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712194709/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712194709/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712194709/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712194709/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712194709/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712194709/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712194709/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712194709/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712194709/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712194709/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712194709/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712194709/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712194709/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712194709/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712194709/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010689</li>
+            <li>2005 (revised 2015 Mar)
+            </li>            
+                                </ul>
+        <div>
+                <h1>Depression in children and young people: identification and management in primary, community and secondary care.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712194709/https://www.guideline.gov/search?f_Guideline_Developer_String=National%20Guideline%20Alliance&amp;fLockTerm=National%2BGuideline%2BAlliance">National Guideline Alliance</a></li>
+                        <li>   
+                                <a id="1459" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+        <li><a href="/web/20180712194709/https://www.guideline.gov/search?f_Guideline_Developer_String=National%20Guideline%20Alliance&amp;fLockTerm=National%2BGuideline%2BAlliance">National Guideline Alliance</a></li>
+                        <li>   
+                                <a id="1459" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>National Collaborating Centre for Mental Health. Depression in children and young people: identification and management in primary, community and secondary care. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Mar. 63 p.&nbsp;(Clinical guideline; no. 28).&nbsp;</td></tr></table>                    <p><a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.nice.org.uk%252fguidance%252fcg28%252fresources%252fguidance-depression-in-children-and-young-people-identification-and-management-in-primary-community-and-secondary-care-pdf">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: National Collaborating Centre for Mental Health. Depression in children and young people. Identification and management in primary, community and secondary care. London (England): British Psychological Society, Royal College of Psychiatrists; 2005. 233 p. [299 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712194709/https://www.guideline.gov/search?f_Age_of_Target_Population=Child%20%282%20to%2012%20years%29&amp;fLockTerm=Child%2B%282%2Bto%2B12%2Byears%29">Child (2 to 12 years)</a></li>                      
+                        <li><a href="/web/20180712194709/https://www.guideline.gov/search?f_Age_of_Target_Population=Adolescent%20%2813%20to%2018%20years%29&amp;fLockTerm=Adolescent%2B%2813%2Bto%2B18%2Byears%29">Adolescent (13 to 18 years)</a></li>                      
+                        <li><a href="/web/20180712194709/https://www.guideline.gov/search?f_Age_of_Target_Population=Child%20%282%20to%2012%20years%29&amp;fLockTerm=Child%2B%282%2Bto%2B12%2Byears%29">Child (2 to 12 years)</a></li>                      
+                        <li><a href="/web/20180712194709/https://www.guideline.gov/search?f_Age_of_Target_Population=Adolescent%20%2813%20to%2018%20years%29&amp;fLockTerm=Adolescent%2B%2813%2Bto%2B18%2Byears%29">Adolescent (13 to 18 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712194709/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">HCPCS</h5>
+                    <div class="field-content">
+<a href="/web/20180712194709/https://www.guideline.gov/search?f_HCPCS_CUI=C0025355&amp;fLockTerm=Mental+health+services%2c+not+otherwise+specified">Mental health services, not otherwise specified</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712194709/https://www.guideline.gov/search?f_ICD9CM_CUI=C0868892&amp;fLockTerm=Depressive+disorder%2c+not+elsewhere+classified">Depressive disorder, not elsewhere classified</a>
+ (311), <a href="/web/20180712194709/https://www.guideline.gov/search?f_ICD9CM_CUI=C0015618&amp;fLockTerm=Family+therapy">Family therapy</a>
+ (94.42), <a href="/web/20180712194709/https://www.guideline.gov/search?f_ICD9CM_CUI=C0260942&amp;fLockTerm=Screening+for+depression">Screening for depression</a>
+ (V79.0)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0085100&amp;fLockTerm=Adolescent+Health+Services">Adolescent Health Services</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0003289&amp;fLockTerm=Antidepressive+Agents">Antidepressive Agents</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0242905&amp;fLockTerm=Antidepressive+Agents%2c+Second-Generation">Antidepressive Agents, Second-Generation</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0003290&amp;fLockTerm=Antidepressive+Agents%2c+Tricyclic">Antidepressive Agents, Tricyclic</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0008079&amp;fLockTerm=Child+Health+Services">Child Health Services</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0008845&amp;fLockTerm=Citalopram">Citalopram</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0009429&amp;fLockTerm=Combined+Modality+Therapy">Combined Modality Therapy</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0009475&amp;fLockTerm=Community+Mental+Health+Services">Community Mental Health Services</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0010570&amp;fLockTerm=Cyclohexanols">Cyclohexanols</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0011570&amp;fLockTerm=Depression">Depression</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0011581&amp;fLockTerm=Depressive+Disorder">Depressive Disorder</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C1269683&amp;fLockTerm=Depressive+Disorder%2c+Major">Depressive Disorder, Major</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0013806&amp;fLockTerm=Electroconvulsive+Therapy">Electroconvulsive Therapy</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0015031&amp;fLockTerm=Ethnic+Groups">Ethnic Groups</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0015618&amp;fLockTerm=Family+Therapy">Family Therapy</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0016365&amp;fLockTerm=Fluoxetine">Fluoxetine</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0019993&amp;fLockTerm=Hospitalization">Hospitalization</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C1256259&amp;fLockTerm=Hypericum">Hypericum</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0021430&amp;fLockTerm=Informed+Consent">Informed Consent</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0025084&amp;fLockTerm=Medical+History+Taking">Medical History Taking</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C1611232&amp;fLockTerm=Medication+Therapy+Management">Medication Therapy Management</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0025355&amp;fLockTerm=Mental+Health+Services">Mental Health Services</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0026192&amp;fLockTerm=Minority+Groups">Minority Groups</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0070122&amp;fLockTerm=Paroxetine">Paroxetine</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0030678&amp;fLockTerm=Patient+Care+Planning">Patient Care Planning</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0030685&amp;fLockTerm=Patient+Discharge">Patient Discharge</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0030688&amp;fLockTerm=Patient+Education+as+Topic">Patient Education as Topic</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0033137&amp;fLockTerm=Primary+Health+Care">Primary Health Care</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0033871&amp;fLockTerm=Psychiatric+Status+Rating+Scales">Psychiatric Status Rating Scales</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0033968&amp;fLockTerm=Psychotherapy">Psychotherapy</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0034928&amp;fLockTerm=Referral+and+Consultation">Referral and Consultation</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0036371&amp;fLockTerm=School+Health+Services">School Health Services</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0036606&amp;fLockTerm=Self-Help+Groups">Self-Help Groups</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0074393&amp;fLockTerm=Sertraline">Sertraline</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0037438&amp;fLockTerm=Social+Support">Social Support</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MSH_CUI=C0700325&amp;fLockTerm=Watchful+Waiting">Watchful Waiting</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0003289&amp;fLockTerm=Antidepressive+Agents">Antidepressive Agents</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0008079&amp;fLockTerm=Child+Health+Services">Child Health Services</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0009429&amp;fLockTerm=Combined+Modality+Therapy">Combined Modality Therapy</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0740218&amp;fLockTerm=Depression+screen">Depression screen</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0011581&amp;fLockTerm=Depressive+Disorder">Depressive Disorder</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0868892&amp;fLockTerm=Depressive+disorder%2c+NEC+in+ICD9CM_2014">Depressive disorder, NEC in ICD9CM_2014</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0013806&amp;fLockTerm=Electroconvulsive+Therapy">Electroconvulsive Therapy</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0260942&amp;fLockTerm=Encounter+due+to+screening+for+depression">Encounter due to screening for depression</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0015031&amp;fLockTerm=Ethnic+group">Ethnic group</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0241889&amp;fLockTerm=Family+history">Family history</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0015618&amp;fLockTerm=Family+psychotherapy">Family psychotherapy</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0019993&amp;fLockTerm=Hospitalization">Hospitalization</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C1256259&amp;fLockTerm=Hypericum">Hypericum</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0021430&amp;fLockTerm=Informed+Consent">Informed Consent</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C1269683&amp;fLockTerm=MAJOR+DEPRESSIVE+DISORDER">MAJOR DEPRESSIVE DISORDER</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0011570&amp;fLockTerm=Mental+Depression">Mental Depression</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0204934&amp;fLockTerm=Nutrition+education">Nutrition education</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0030685&amp;fLockTerm=Patient+Discharge">Patient Discharge</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0030688&amp;fLockTerm=Patient+education+(procedure)">Patient education (procedure)</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0700325&amp;fLockTerm=Patient+observation">Patient observation</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0033137&amp;fLockTerm=Primary+Health+Care">Primary Health Care</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0033968&amp;fLockTerm=Psychotherapy">Psychotherapy</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0086930&amp;fLockTerm=Risk+Assessment">Risk Assessment</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0036371&amp;fLockTerm=School+Health+Services">School Health Services</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0037438&amp;fLockTerm=Social+support">Social support</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0036606&amp;fLockTerm=Support+Groups">Support Groups</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0003290&amp;fLockTerm=Tricyclic+Antidepressive+Agents">Tricyclic Antidepressive Agents</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_MTH_CUI=C0078569&amp;fLockTerm=venlafaxine">venlafaxine</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712194709/https://www.guideline.gov/search?f_PDQ_CUI=C0016365&amp;fLockTerm=fluoxetine">fluoxetine</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_PDQ_CUI=C0700325&amp;fLockTerm=observation">observation</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_PDQ_CUI=C0074393&amp;fLockTerm=sertraline">sertraline</a>
+, <a href="/web/20180712194709/https://www.guideline.gov/search?f_PDQ_CUI=C0078569&amp;fLockTerm=venlafaxine">venlafaxine</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003289&amp;fLockTerm=Antidepressant">Antidepressant</a>
+ (36236003), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003289&amp;fLockTerm=Antidepressant">Antidepressant</a>
+ (372720008), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0008845&amp;fLockTerm=Citalopram">Citalopram</a>
+ (321986007), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0008845&amp;fLockTerm=Citalopram">Citalopram</a>
+ (372596005), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0740218&amp;fLockTerm=Depression+screening">Depression screening</a>
+ (171207006), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0011581&amp;fLockTerm=Depressive+disorder">Depressive disorder</a>
+ (35489007), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2585807&amp;fLockTerm=Education+about+sleep+hygiene+behavior">Education about sleep hygiene behavior</a>
+ (439035007), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0013806&amp;fLockTerm=Electroconvulsive+therapy">Electroconvulsive therapy</a>
+ (23835007), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015031&amp;fLockTerm=Ethnic+group">Ethnic group</a>
+ (364699009), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015031&amp;fLockTerm=Ethnic+group">Ethnic group</a>
+ (372148003), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015031&amp;fLockTerm=Ethnic+group">Ethnic group</a>
+ (397731000), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015031&amp;fLockTerm=Ethnic+group">Ethnic group</a>
+ (398089004), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+ (183301007), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+ (256235009), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+ (61686008), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0241889&amp;fLockTerm=Family+history+of+clinical+finding">Family history of clinical finding</a>
+ (416471007), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0241889&amp;fLockTerm=Family+history+of+clinical+finding">Family history of clinical finding</a>
+ (57177007), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015618&amp;fLockTerm=Family+psychotherapy+procedure">Family psychotherapy procedure</a>
+ (108313002), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015618&amp;fLockTerm=Family+psychotherapy+procedure">Family psychotherapy procedure</a>
+ (51484002), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0016365&amp;fLockTerm=Fluoxetine">Fluoxetine</a>
+ (372767007), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0016365&amp;fLockTerm=Fluoxetine">Fluoxetine</a>
+ (53640004), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1256259&amp;fLockTerm=Hypericum">Hypericum</a>
+ (40499002), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019993&amp;fLockTerm=Inpatient+care">Inpatient care</a>
+ (394656005), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0237167&amp;fLockTerm=Language+barrier">Language barrier</a>
+ (422693009), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1269683&amp;fLockTerm=Major+depressive+disorder">Major depressive disorder</a>
+ (370143000), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0025355&amp;fLockTerm=Mental+health+service">Mental health service</a>
+ (708168004), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0204934&amp;fLockTerm=Nutrition+education">Nutrition education</a>
+ (61310001), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0150295&amp;fLockTerm=Parent+education%3a+adolescent">Parent education: adolescent</a>
+ (386380002), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0150297&amp;fLockTerm=Parent+education%3a+childrearing+family">Parent education: childrearing family</a>
+ (386381003), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0070122&amp;fLockTerm=Paroxetine">Paroxetine</a>
+ (321963000), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0070122&amp;fLockTerm=Paroxetine">Paroxetine</a>
+ (372595009), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030685&amp;fLockTerm=Patient+discharge">Patient discharge</a>
+ (58000006), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030688&amp;fLockTerm=Patient+education">Patient education</a>
+ (311401005), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0700325&amp;fLockTerm=Patient+status+observation">Patient status observation</a>
+ (103705002), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0033968&amp;fLockTerm=Psychotherapy">Psychotherapy</a>
+ (75516001), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0679867&amp;fLockTerm=Relapse+prevention">Relapse prevention</a>
+ (405782001), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0679867&amp;fLockTerm=Relapse+prevention">Relapse prevention</a>
+ (441181000124107), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0086930&amp;fLockTerm=Risk+assessment">Risk assessment</a>
+ (225338004), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0074393&amp;fLockTerm=Sertraline">Sertraline</a>
+ (321958004), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0074393&amp;fLockTerm=Sertraline">Sertraline</a>
+ (372594008), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0036606&amp;fLockTerm=Support+groups">Support groups</a>
+ (224879000), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003290&amp;fLockTerm=Tricyclic+antidepressant">Tricyclic antidepressant</a>
+ (33219003), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003290&amp;fLockTerm=Tricyclic+antidepressant">Tricyclic antidepressant</a>
+ (373253007), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0078569&amp;fLockTerm=Venlafaxine">Venlafaxine</a>
+ (108432009), <a href="/web/20180712194709/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0078569&amp;fLockTerm=Venlafaxine">Venlafaxine</a>
+ (372490001)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712194709/https://www.guideline.gov/summaries/downloadcontent/ngc-10689?contentType=pdf" class="pdf">.PDF 179.6 kb</a></li>
+                            <li><a href="/web/20180712194709/https://www.guideline.gov/summaries/downloadcontent/ngc-10689?contentType=word" class="word">Word Document 395.1 kb</a></li>
+                            <li><a href="/web/20180712194709/https://www.guideline.gov/summaries/downloadcontent/ngc-10689?contentType=xml" class="xml">.XML 120.1 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712194709/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/49118/depression-in-children-and-young-people-identification-and-management-in-primary-community-and-secondary-care" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712194709/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/49118/depression-in-children-and-young-people-identification-and-management-in-primary-community-and-secondary-care" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712194709/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/49118/depression-in-children-and-young-people-identification-and-management-in-primary-community-and-secondary-care&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712194709/mailto:/?Subject=AHRQ: Depression in children and young people: identification and management in primary, community and secondary care.&amp;body=https://www.guideline.gov/summaries/summary/49118/depression-in-children-and-young-people-identification-and-management-in-primary-community-and-secondary-care" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Depression in children and young people: identification and management in primary, community and secondary care. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712194709/https://www.guideline.gov/summaries/citedownload/49118?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712194709/https://www.guideline.gov/summaries/citedownload/49118?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712194709/https://www.guideline.gov/summaries/citedownload/49118?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712194709/https://www.guideline.gov/summaries/citedownload/49118?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712194709/https://www.guideline.gov/summaries/citedownload/49118?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712194709/https://www.guideline.gov/summaries/citedownload/49118">RefWorks</a></li>
+                            <li><a href="/web/20180712194709/https://www.guideline.gov/summaries/citedownload/49118?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="49118" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: The 2005 guideline was developed by the National Collaborating Centre for Mental Health (NCCMH) on behalf of the National Institute for Health and Care Excellence (NICE). NICE's Clinical Guidelines Update Programme updated this guideline in 2015. The following guidance is based on the best available evidence. </p>
+<p>The full guideline gives details of the methods and the evidence used to develop the <strong>[2005]</strong> recommendations. The guideline addendum gives details of the methods and the evidence used to develop the <strong>[2015]</strong> and <strong>[new 2015]</strong> recommendations. See the "Availability of Companion Documents" field for the full version of this guidance and the 2015 guideline addendum.</p>
+<p>Recommendations are marked as <strong>[new 2015]</strong>, <strong>[2015]</strong> or <strong>[2005]</strong>:</p>
+<ul style="list-style-type: disc;">
+    <li><strong>[new 2015]</strong> indicates that the evidence has been reviewed and the recommendation has been added or updated </li>
+    <li><strong>[2015]</strong> if the evidence has been reviewed but no change has been made to the recommendation </li>
+    <li><strong>[2005]</strong> if the evidence has not been reviewed since the original guideline. </li>
+</ul>
+<p>The wording used in the recommendations in this guideline (for example, words such as 'offer' and 'consider') denotes the certainty with which the recommendation is made (the strength of the recommendation) and is defined at the end of the "Major Recommendations" field.</p>
+<p><span style="text-decoration: underline;"><strong>Care of All Children and Young People with Depression</strong></span></p>
+<p><strong>Good Information, Informed Consent and Support</strong></p>
+<p>Children and young people and their families need good information, given as part of a collaborative and supportive relationship with healthcare professionals, and need to be able to give fully informed consent. <strong>[2005]</strong></p>
+<p>Healthcare professionals involved in the detection, assessment or treatment of children or young people with depression should ensure that information is provided to the patient and their parent(s) and carer(s) at an appropriate time. The information should be age appropriate and should cover the nature, course and treatment of depression, including the likely side-effect profile of medication should this be offered. <strong>[2005]</strong></p>
+<p>Healthcare professionals involved in the treatment of children or young people with depression should take time to build a supportive and collaborative relationship with both the patient and the family or carers. <strong>[2005]</strong></p>
+<p>Healthcare professionals should make all efforts necessary to engage the child or young person and their parent(s) or carer(s) in treatment decisions, taking full account of patient and parental/carer expectations, so that the patient and their parent(s) or carer(s) can give meaningful and properly informed consent before treatment is initiated. <strong>[2005]</strong></p>
+<p>Families and carers should be informed of self-help groups and support groups and be encouraged to participate in such programmes where appropriate. <strong>[2005]</strong></p>
+<p><strong>Language and Ethnic Minorities</strong></p>
+<p>Where possible, all services should provide written information or audiotaped material in the language of the child or young person and their family or carer(s), and professional interpreters should be sought for those whose preferred language is not English. <strong>[2005]</strong></p>
+<p>Consideration should be given to providing psychological therapies and information about medication and local services in the language of the child or young person and their family or carers where the patient's and/or their family's or carer's first language is not English. If this is not possible, an interpreter should be sought. <strong>[2005]</strong></p>
+<p>Healthcare professionals in primary, secondary and relevant community settings should be trained in cultural competence to aid in the diagnosis and treatment of depression in children and young people from black and minority ethnic groups. This training should take into consideration the impact of the patient's and healthcare professional's racial identity status on the patient's depression. <strong>[2005]</strong></p>
+<p>Healthcare professionals working with interpreters should be provided with joint training opportunities with those interpreters, to ensure that both healthcare professionals and interpreters understand the specific requirements of interpretation in a mental health setting. <strong>[2005]</strong></p>
+<p>The development and evaluation of services for children and young people with depression should be undertaken in collaboration with stakeholders involving patients and their families and carers, including members of black and minority ethnic groups. <strong>[2005]</strong></p>
+<p><strong>Assessment and Coordination of Care</strong></p>
+<p>When assessing a child or young person with depression, healthcare professionals should routinely consider, and record in the patient's notes, potential comorbidities, and the social, educational and family context for the patient and family members, including the quality of interpersonal relationships, both between the patient and other family members and with their friends and peers. <strong>[2005]</strong></p>
+<p>In the assessment of a child or young person with depression, healthcare professionals should always ask the patient and their parent(s) or carer(s) directly about the child or young person's alcohol and drug use, any experience of being bullied or abused, self-harm and ideas about suicide. A young person should be offered the opportunity to discuss these issues initially in private. <strong>[2005]</strong></p>
+<p>If a child or young person with depression presents acutely having self-harmed, the immediate management should follow the NICE guideline <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk%2fguidance%2fCG016" title="NICE Web site">Self-harm: the short-term physical and psychological management and secondary prevention of self-harm in primary and secondary care</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> as this applies to children and young people, paying particular attention to the guidance on consent and capacity. Further management should then follow this depression guideline. <strong>[2005]</strong></p>
+<p>In the assessment of a child or young person with depression, healthcare professionals should always ask the patient, and be prepared to give advice, about self-help materials or other methods used or considered potentially helpful by the patient or their parent(s) or carer(s). This may include educational leaflets, helplines, self-diagnosis tools, peer, social and family support groups, complementary therapies, and religious and spiritual groups. <strong>[2005]</strong></p>
+<p>Healthcare professionals should only recommend self-help materials or strategies as part of a supported and planned package of care. <strong>[2005]</strong></p>
+<p>For any child or young person with suspected mood disorder, a family history should be obtained to check for unipolar or bipolar depression in parents and grandparents. <strong>[2005]</strong></p>
+<p>When a child or young person has been diagnosed with depression, consideration should be given to the possibility of parental depression, parental substance misuse, or other mental health problems and associated problems of living, as these are often associated with depression in a child or young person and, if untreated, may have a negative impact on the success of treatment offered to the child or young person. <strong>[2005]</strong></p>
+<p>When the clinical progress of children and young people with depression is being monitored in secondary care, the self-report Mood and Feelings Questionnaire (MFQ) should be considered as an adjunct to clinical judgement. <strong>[2005]</strong></p>
+<p>In the assessment and treatment of depression in children and young people, special attention should be paid to the issues of:</p>
+<ul style="list-style-type: disc;">
+    <li>Confidentiality </li>
+    <li>The young person's consent (including Gillick competence) </li>
+    <li>Parental consent </li>
+    <li>Child protection </li>
+    <li>The use of the Mental Health Act in young people </li>
+    <li>The use of the Children Act. <strong>[2005]</strong> </li>
+</ul>
+<p>The form of assessment should take account of cultural and ethnic variations in communication, family values and the place of the child or young person within the family. <strong>[2005]</strong></p>
+<p><strong>The Organisation and Planning of Services</strong></p>
+<p>Healthcare professionals specialising in depression in children and young people should work with local Child and Adolescent Mental Health Services (CAMHS) to enhance specialist knowledge and skills regarding depression in these existing services. This work should include providing training and help with guideline implementation. <strong>[2005]</strong></p>
+<p>CAMHS and local healthcare commissioning organisations should consider introducing a primary mental health worker (or CAMHS link worker) into each secondary school and secondary pupil referral unit as part of tier 2 provision within the locality. <strong>[2005] </strong></p>
+<p>Primary mental health workers (or CAMHS link workers) should establish clear lines of communication between CAMHS and tier 1 or 2, with named contact people in each tier or service, and develop systems for the collaborative planning of services for young people with depression in tiers 1 and 2. <strong>[2005]</strong></p>
+<p>CAMHS and local healthcare commissioning organisations should routinely monitor the rates of detection, referral and treatment of children and young people, from all ethnic groups, with mental health problems, including those with depression, in local schools and primary care. This information should be used for planning services and made available for local, regional and national comparison. <strong>[2005]</strong></p>
+<p>All healthcare and CAHMS professionals should routinely use, and record in the notes, appropriate outcome measures (such as those self-report measures used in screening for depression or generic outcome measures used by particular services, for example Health of the Nation Outcome Scale for Children and Adolescents [HoNOSCA] or Strengths and Difficulties Questionnaire [SDQ]), for the assessment and treatment of depression in children and young people. This information should be used for planning services, and made available for local, regional and national comparison. <strong>[2005]</strong></p>
+<p><strong>Treatment Considerations in All Settings</strong></p>
+<p>Most children and young people with depression should be treated on an outpatient or community basis. <strong>[2005] </strong></p>
+<p>Before any treatment is started, healthcare professionals should assess, together with the young person, the social network around him or her. This should include a written formulation, identifying factors that may have contributed to the development and maintenance of depression, and that may impact both positively or negatively on the efficacy of the treatments offered. The formulation should also indicate ways that the healthcare professionals may work in partnership with the social and professional network of the young person. <strong>[2005]</strong></p>
+<p>When bullying is considered to be a factor in a child or young person's depression, CAMHS, primary care and educational professionals should work collaboratively to prevent bullying and to develop effective antibullying strategies. <strong>[2005] </strong></p>
+<p>Psychological therapies used in the treatment of children and young people with depression should be provided by therapists who are also trained child and adolescent mental healthcare professionals. <strong>[2005]</strong></p>
+<p>Psychological therapies used in the treatment of children and young people with depression should be provided by healthcare professionals who have been trained to an appropriate level of competence in the specific modality of psychological therapy being offered. <strong>[2005]</strong></p>
+<p>Therapists should develop a treatment alliance with the family. If this proves difficult, consideration should be given to providing the family with an alternative therapist. <strong>[2005]</strong></p>
+<p>Comorbid diagnoses and developmental, social and educational problems should be assessed and managed, either in sequence or in parallel, with the treatment for depression. Where appropriate this should be done through consultation and alliance with a wider network of education and social care. <strong>[2005]</strong></p>
+<p>Attention should be paid to the possible need for parents' own psychiatric problems (particularly depression) to be treated in parallel, if the child or young person's mental health is to improve. If such a need is identified, then a plan for obtaining such treatment should be made, bearing in mind the availability of adult mental health provision and other services. <strong>[2005] </strong></p>
+<p>A child or young person with depression should be offered advice on the benefits of regular exercise and encouraged to consider following a structured and supervised exercise programme of typically up to three sessions per week of moderate duration (45 minutes to 1 hour) for between 10 and 12 weeks. <strong>[2005]</strong></p>
+<p>A child or young person with depression should be offered advice about sleep hygiene and anxiety management. <strong>[2005]</strong></p>
+<p>A child or young person with depression should be offered advice about nutrition and the benefits of a balanced diet. <strong>[2005]</strong></p>
+<p><strong><span style="text-decoration: underline;">Stepped Care</span></strong></p>
+<p>The stepped-care model of depression draws attention to the different needs that depressed children and young people have &ndash; depending on the characteristics of their depression and their personal and social circumstances &ndash; and the responses that are required from services. It provides a framework in which to organise the provision of services that support both healthcare professionals and patients and their parent(s) or carer(s) in identifying and accessing the most effective interventions (see table below).</p>
+<p><strong>Table. The Stepped Care Model</strong></p>
+<table border="1" cellspacing="5" cellpadding="5" summary="Table. The Stepped Care Model">
+    <thead>
+        <tr>
+            <th valign="top">Focus</th>
+            <th valign="top">Action</th>
+            <th valign="top">Responsibility</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">Detection</td>
+            <td valign="top">Risk Profiling</td>
+            <td valign="top">Tier 1</td>
+        </tr>
+        <tr>
+            <td valign="top">Recognition</td>
+            <td valign="top">Identification in presenting children or young people</td>
+            <td valign="top">Tiers 2-4</td>
+        </tr>
+        <tr>
+            <td valign="top">Mild depression (including dysthymia)</td>
+            <td valign="top">Watchful waiting<br/>
+            Non-directive supportive therapy/group cognitive behavioural therapy/guided self-help</td>
+            <td valign="top">Tier 1 <br/>
+            Tier 1 or 2</td>
+        </tr>
+        <tr>
+            <td valign="top">Moderate to severe depression</td>
+            <td valign="top">Brief psychological therapy <br/>
+            +/&ndash; fluoxetine</td>
+            <td valign="top">Tier 2 or 3</td>
+        </tr>
+        <tr>
+            <td valign="top">Depression unresponsive to/recurrent depression/psychotic depression</td>
+            <td valign="top">Intensive psychological therapy <br/>
+            +/&ndash; fluoxetine, sertraline, citalopram, with an antipsychotic</td>
+            <td valign="top">Tier 3 or 4</td>
+        </tr>
+    </tbody>
+</table>
+<p>The guidance follows these five steps. </p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Detection and recognition of depression and risk profiling in primary care and community settings. </li>
+    <li>Recognition of depression in children and young people referred to CAMHS. </li>
+    <li>Managing recognised depression in primary care and community settings &ndash; mild depression. </li>
+    <li>Managing recognised depression in tier 2 or 3 CAMHS &ndash; moderate to severe depression. </li>
+    <li>Managing recognised depression in tier 3 or 4 CAMHS &ndash; unresponsive, recurrent and psychotic depression, including depression needing inpatient care. </li>
+</ol>
+<p>Each step introduces additional interventions; the higher steps assume interventions in the previous step. <strong>[2005]</strong></p>
+<p><strong><span style="text-decoration: underline;">Step 1: Detection, Risk Profiling and Referral</span></strong></p>
+<p><strong>Detection and Risk Profiling</strong></p>
+<p>Healthcare professionals in primary care, schools and other relevant community settings should be trained to detect symptoms of depression, and to assess children and young people who may be at risk of depression. Training should include the evaluation of recent and past psychosocial risk factors, such as age, gender, family discord, bullying, physical, sexual or emotional abuse, comorbid disorders, including drug and alcohol use, and a history of parental depression; the natural history of single loss events; the importance of multiple risk factors; ethnic and cultural factors; and factors known to be associated with a high risk of depression and other health problems, such as homelessness, refugee status and living in institutional settings. <strong>[2005]</strong></p>
+<p>Healthcare professionals in primary care, schools and other relevant community settings should be trained in communications skills such as 'active listening' and 'conversational technique', so that they can deal confidently with the acute sadness and distress ('situational dysphoria') that may be encountered in children and young people following recent undesirable events. <strong>[2005]</strong></p>
+<p>Healthcare professionals in primary care settings should be familiar with screening for mood disorders. They should have regular access to specialist supervision and consultation. <strong>[2005]</strong></p>
+<p>Healthcare professionals in primary care, schools and other relevant community settings who are providing support for a child or young person with situational dysphoria should consider ongoing social and environmental factors if the dysphoria becomes more persistent. <strong>[2005]</strong></p>
+<p>CAMHS tier 2 or 3 should work with health and social care professionals in primary care, schools and other relevant community settings to provide training and develop ethnically and culturally sensitive systems for detecting, assessing, supporting and referring children and young people who are either depressed or at significant risk of becoming depressed. <strong>[2005]</strong></p>
+<p>In the provision of training by CAMHS professionals for healthcare professionals in primary care, schools and relevant community settings, priority should be given to the training of pastoral support staff in schools (particularly secondary schools), community paediatricians and general practitioners (GPs). <strong>[2005]</strong></p>
+<p>When a child or young person is exposed to a single recent undesirable life event, such as bereavement, parental divorce or separation or a severely disappointing experience, healthcare professionals in primary care, schools and other relevant community settings should undertake an assessment of the risks of depression associated with the event and make contact with their parent(s) or carer(s) to help integrate parental/carer and professional responses. The risk profile should be recorded in the child or young person's records. <strong>[2005]</strong></p>
+<p>When a child or young person is exposed to a single recent undesirable life event, such as bereavement, parental divorce or separation or a severely disappointing experience, in the absence of other risk factors for depression, healthcare professionals in primary care, schools and other relevant community settings should offer support and the opportunity to talk over the event with the child or young person. <strong>[2005]</strong></p>
+<p>Following an undesirable event, a child or young person should not normally be referred for further assessment or treatment, as single events are unlikely to lead to a depressive illness. <strong>[2005]</strong></p>
+<p>A child or young person who has been exposed to a recent undesirable life event, such as bereavement, parental divorce or separation or a severely disappointing experience and is identified to be at high risk of depression (the presence of two or more other risk factors for depression), should be offered the opportunity to talk over their recent negative experiences with a professional in tier 1 and assessed for depression. Early referral should be considered if there is evidence of depression and/or self-harm. <strong>[2005] </strong></p>
+<p>When a child or young person is exposed to a recent undesirable life event, such as bereavement, parental divorce or separation or a severely disappointing experience, and where one or more family members (parents or children) have multiple-risk histories for depression, they should be offered the opportunity to talk over their recent negative experiences with a professional in tier 1 and assessed for depression. Early referral should be considered if there is evidence of depression and/or self-harm. <strong>[2005] </strong></p>
+<p>If children and young people who have previously recovered from moderate or severe depression begin to show signs of a recurrence of depression, healthcare professionals in primary care, schools or other relevant community settings should refer them to CAMHS tier 2 or 3 for rapid assessment. <strong>[2005]</strong></p>
+<p><strong>Referral Criteria</strong></p>
+<p>For children and young people, the following factors should be used by healthcare professionals as indications that management can remain at tier 1:</p>
+<ul style="list-style-type: disc;">
+    <li>Exposure to a single undesirable event in the absence of other risk factors for depression </li>
+    <li>Exposure to a recent undesirable life event in the presence of two or more other risk factors with no evidence of depression and/or self-harm </li>
+    <li>Exposure to a recent undesirable life event, where one or more family members (parents or children) have multiple-risk histories for depression, providing that there is no evidence of depression and/or self-harm in the child or young person </li>
+    <li>Mild depression without comorbidity. <strong>[2005]</strong> </li>
+</ul>
+<p>For children and young people, the following factors should be used by healthcare professionals as criteria for referral to tier 2 or 3 CAMHS:</p>
+<ul style="list-style-type: disc;">
+    <li>Depression with two or more other risk factors for depression </li>
+    <li>Depression where one or more family members (parents or children) have multiple-risk histories for depression </li>
+    <li>Mild depression in those who have not responded to interventions in tier 1 after 2&ndash;3 months </li>
+    <li>Moderate or severe depression (including psychotic depression) </li>
+    <li>Signs of a recurrence of depression in those who have recovered from previous moderate or severe depression </li>
+    <li>Unexplained self-neglect of at least 1 month's duration that could be harmful to their physical health </li>
+    <li>Active suicidal ideas or plans </li>
+    <li>Referral requested by a young person or their parent(s) or carer(s). <strong>[2005]</strong> </li>
+</ul>
+<p>For children and young people, the following factors should be used by healthcare professionals as criteria for referral to tier 4 services:</p>
+<ul style="list-style-type: disc;">
+    <li>High recurrent risk of acts of self-harm or suicide </li>
+    <li>Significant ongoing self-neglect (such as poor personal hygiene or significant reduction in eating that could be harmful to their physical health) </li>
+    <li>Requirement for intensity of assessment/treatment and/or level of supervision that is not available in tier 2 or 3. <strong>[2005]</strong> </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Step 2: Recognition</span></strong></p>
+<p>Children and young people of 11 years or older referred to CAMHS without a diagnosis of depression should be routinely screened with a self-report questionnaire for depression (of which the MFQ is currently the best) as part of a general assessment procedure. <strong>[2005]</strong></p>
+<p>Training opportunities should be made available to improve the accuracy of CAMHS professionals in diagnosing depressive conditions. The existing interviewer-based instruments (such as Kiddie-Sads [K-SADS] and Child and Adolescent Psychiatric Assessment [CAPA]) could be used for this purpose but will require modification for regular use in busy routine CAMHS settings. <strong>[2005]</strong></p>
+<p>Within tier 3 CAMHS, professionals who specialise in the treatment of depression should have been trained in interviewer-based assessment instruments (such as K-SADS and CAPA) and have skills in non-verbal assessments of mood in younger children. <strong>[2005]</strong></p>
+<p><strong><span style="text-decoration: underline;">Step 3: Mild Depression</span></strong></p>
+<p><strong>Watchful Waiting</strong></p>
+<p>For children and young people with diagnosed mild depression who do not want an intervention or who, in the opinion of the healthcare professional, may recover with no intervention, a further assessment should be arranged, normally within 2 weeks ('watchful waiting'). <strong>[2005]</strong></p>
+<p>Healthcare professionals should make contact with children and young people with depression who do not attend follow-up appointments. <strong>[2005]</strong></p>
+<p><strong>Interventions for Mild Depression</strong></p>
+<p>Discuss the choice of psychological therapies with children and young people and their family members or carers (as appropriate). Explain that there is no good-quality evidence that one type of psychological therapy is better than the others. <strong>[new 2015] </strong></p>
+<p>Following a period of up to 4 weeks of watchful waiting, offer all children and young people with continuing mild depression and without significant comorbid problems or signs of suicidal ideation individual non-directive supportive therapy, group cognitive behavioural therapy (CBT) or guided self-help for a limited period (approximately 2 to 3 months). This could be provided by appropriately trained professionals in primary care, schools, social services and the voluntary sector or in tier 2 CAMHS. <strong>[2015]</strong></p>
+<p>Children and young people with mild depression who do not respond after 2 to 3 months to non-directive supportive therapy, group CBT or guided self-help should be referred for review by a tier 2 or 3 CAMHS team. <strong>[2005]</strong></p>
+<p>Antidepressant medication should not be used for the initial treatment of children and young people with mild depression. <strong>[2005]</strong></p>
+<p>The further treatment of children and young people with persisting mild depression unresponsive to treatment at tier 1 or 2 should follow the guidance for moderate to severe depression (see below). <strong>[2005]</strong></p>
+<p><strong><span style="text-decoration: underline;">Steps 4 and 5: Moderate to Severe Depression</span></strong></p>
+<p><strong>Treatments for Moderate to Severe Depression</strong></p>
+<p>See 'Interventions for Mild Depression' above on discussions to have with children and young people and their family members or carers (as appropriate) before starting psychological therapies.</p>
+<p>Children and young people presenting with moderate to severe depression should be reviewed by a CAMHS tier 2 or 3 team. <strong>[2005]</strong></p>
+<p>Offer children and young people with moderate to severe depression a specific psychological therapy (individual CBT, interpersonal therapy, family therapy, or psychodynamic psychotherapy) that runs for at least 3 months. <strong>[new 2015]</strong></p>
+<p><strong>Combined Treatments for Moderate to Severe Depression</strong></p>
+<p>Consider combined therapy (fluoxetine<sup>1</sup> and psychological therapy) for initial treatment of moderate to severe depression in young people (12&ndash;18 years), as an alternative to psychological therapy followed by combined therapy and to recommendations below. <strong>[new 2015]</strong></p>
+<p>If moderate to severe depression in a child or young person is unresponsive to psychological therapy after four to six treatment sessions, a multidisciplinary review should be carried out. <strong>[2005]</strong></p>
+<p>Following multidisciplinary review, if the child or young person's depression is not responding to psychological therapy as a result of other coexisting factors such as the presence of comorbid conditions, persisting psychosocial risk factors such as family discord, or the presence of parental mental ill-health, alternative or perhaps additional psychological therapy for the parent or other family members, or alternative psychological therapy for the patient, should be considered. <strong>[2005]</strong></p>
+<p>Following multidisciplinary review, offer fluoxetine<sup>2</sup> if moderate to severe depression in a young person (12&ndash;18 years) is unresponsive to a specific psychological therapy after 4 to 6 sessions. <strong>[2015]</strong></p>
+<p>Following multidisciplinary review, cautiously consider fluoxetine<sup>3</sup> if moderate to severe depression in a child (5&ndash;11 years) is unresponsive to a specific psychological therapy after 4 to 6 sessions, although the evidence for fluoxetine's effectiveness in this age group is not established. <strong>[2015]</strong></p>
+<p><strong>Depression Unresponsive to Combined Treatment</strong></p>
+<p>If moderate to severe depression in a child or young person is unresponsive to combined treatment with a specific psychological therapy and fluoxetine after a further six sessions, or the patient and/or their parent(s) or carer(s) have declined the offer of fluoxetine, the multidisciplinary team should make a full needs and risk assessment. This should include a review of the diagnosis, examination of the possibility of comorbid diagnoses, reassessment of the possible individual, family and social causes of depression, consideration of whether there has been a fair trial of treatment, and assessment for further psychological therapy for the patient and/or additional help for the family. <strong>[2005]</strong></p>
+<p>Following multidisciplinary review, the following should be considered:</p>
+<ul style="list-style-type: disc;">
+    <li>An alternative psychological therapy which has not been tried previously (individual CBT, interpersonal therapy or shorter-term family therapy, of at least 3 months' duration), or </li>
+    <li>Systemic family therapy (at least 15 fortnightly sessions), or </li>
+    <li>Individual child psychotherapy (approximately 30 weekly sessions). <strong>[2005]</strong> </li>
+</ul>
+<p><strong>How to Use Antidepressants in Children and Young People</strong></p>
+<p>Do not offer antidepressant medication to a child or young person with moderate to severe depression except in combination with a concurrent psychological therapy. Specific arrangements must be made for careful monitoring of adverse drug reactions, as well as for reviewing mental state and general progress; for example, weekly contact with the child or young person and their parent(s) or carer(s) for the first 4 weeks of treatment. The precise frequency will need to be decided on an individual basis, and recorded in the notes. In the event that psychological therapies are declined, medication may still be given, but as the young person will not be reviewed at psychological therapy sessions, the prescribing doctor should closely monitor the child or young person's progress on a regular basis and focus particularly on emergent adverse drug reactions. <strong>[2015]</strong></p>
+<p>If an antidepressant is to be prescribed this should only be following assessment and diagnosis by a child and adolescent psychiatrist. <strong>[2005]</strong></p>
+<p>When an antidepressant is prescribed to a child or young person with moderate to severe depression, it should be fluoxetine<sup>3</sup> as this is the only antidepressant for which clinical trial evidence shows that the benefits outweigh the risks. <strong>[2005]</strong></p>
+<p>If a child or young person is started on antidepressant medication, they (and their parent(s) or carer(s) as appropriate) should be informed about the rationale for the drug treatment, the delay in onset of effect, the time course of treatment, the possible side effects, and the need to take the medication as prescribed. Discussion of these issues should be supplemented by written information appropriate to the child or young person's and parents' or carers' needs that covers the issues described above and includes the latest patient information advice from the relevant regulatory authority. <strong>[2005]</strong></p>
+<p>A child or young person prescribed an antidepressant should be closely monitored for the appearance of suicidal behaviour, self-harm or hostility, particularly at the beginning of treatment, by the prescribing doctor and the healthcare professional delivering the psychological therapy. Unless it is felt that medication needs to be started immediately, symptoms that might be subsequently interpreted as side effects should be monitored for 7 days before prescribing. Once medication is started the patient and their parent(s) or carer(s) should be informed that if there is any sign of new symptoms of these kinds, urgent contact should be made with the prescribing doctor. <strong>[2005]</strong></p>
+<p>When fluoxetine<sup>3</sup> is prescribed for a child or young person with depression, the starting dose should be 10 mg daily. This can be increased to 20 mg daily after 1 week if clinically necessary, although lower doses should be considered in children of lower body weight. There is little evidence regarding the effectiveness of doses higher than 20 mg daily. However, higher doses may be considered in older children of higher body weight and/or when, in severe illness, an early clinical response is considered a priority. <strong>[2005]</strong></p>
+<p>When an antidepressant is prescribed in the treatment of a child or young person with depression and a self-report rating scale is used as an adjunct to clinical judgement, this should be a recognised scale such as the MFQ. <strong>[2005]</strong></p>
+<p>When a child or young person responds to treatment with fluoxetine<sup>3</sup>, medication should be continued for at least 6 months after remission (defined as no symptoms and full functioning for at least 8 weeks); in other words, for 6 months after this 8-week period. <strong>[2005]</strong></p>
+<p>If treatment with fluoxetine is unsuccessful or is not tolerated because of side effects, consideration should be given to the use of another antidepressant. In this case sertraline or citalopram are the recommended second-line treatments<sup>4</sup>. <strong>[2005]</strong></p>
+<p>Sertraline or citalopram should only be used when the following criteria have been met<sup>4</sup>.</p>
+<ul style="list-style-type: disc;">
+    <li>The child or young person and their parent(s) or carer(s) have been fully involved in discussions about the likely benefits and risks of the new treatment and have been provided with appropriate written information. This information should cover the rationale for the drug treatment, the delay in onset of effect, the time course of treatment, the possible side effects, and the need to take the medication as prescribed; it should also include the latest patient information advice from the relevant regulatory authority. </li>
+    <li>The child or young person's depression is sufficiently severe and/or causing sufficiently serious symptoms (such as weight loss or suicidal behaviour) to justify a trial of another antidepressant. </li>
+    <li>There is clear evidence that there has been a fair trial of the combination of fluoxetine and a psychological therapy (in other words that all efforts have been made to ensure adherence to the recommended treatment regimen). </li>
+    <li>There has been a reassessment of the likely causes of the depression and of treatment resistance (for example other diagnoses such as bipolar disorder or substance abuse). </li>
+    <li>There has been advice from a senior child and adolescent psychiatrist &ndash; usually a consultant. </li>
+    <li>The child or young person and/or someone with parental responsibility for the child or young person (or the young person alone, if over 16 or deemed competent) has signed an appropriate and valid consent form. <strong>[2005]</strong> </li>
+</ul>
+<p>When a child or young person responds to treatment with citalopram or sertraline<sup>4</sup>, medication should be continued for at least 6 months after remission (defined as no symptoms and full functioning for at least 8 weeks). <strong>[2005]</strong></p>
+<p>When an antidepressant other than fluoxetine<sup>3</sup> is prescribed for a child or young person with depression, the starting dose should be half the daily starting dose for adults. This can be gradually increased to the daily dose for adults over the next 2 to 4 weeks if clinically necessary, although lower doses should be considered in children with lower body weight. There is little evidence regarding the effectiveness of the upper daily doses for adults in children and young people, but these may be considered in older children of higher body weight and/or when, in severe illness, an early clinical response is considered a priority. <strong>[2005]</strong></p>
+<p>Paroxetine and venlafaxine should not be used for the treatment of depression in children and young people. <strong>[2005]</strong></p>
+<p>Tricyclic antidepressants should not be used for the treatment of depression in children and young people. <strong>[2005]</strong></p>
+<p>Where antidepressant medication is to be discontinued, the drug should be phased out over a period of 6 to 12 weeks with the exact dose being titrated against the level of discontinuation/withdrawal symptoms. <strong>[2005]</strong></p>
+<p>As with all other medications, consideration should be given to possible drug interactions when prescribing medication for depression in children and young people. This should include possible interactions with complementary and alternative medicines as well as with alcohol and 'recreational' drugs. <strong>[2005]</strong></p>
+<p>Although there is some evidence that St John's wort may be of some benefit in adults with mild to moderate depression, this cannot be assumed for children or young people, for whom there are no trials upon which to make a clinical decision. Moreover, it has an unknown side-effect profile and is known to interact with a number of other drugs, including contraceptives. Therefore St John's wort should not be prescribed for the treatment of depression in children and young people. <strong>[2005]</strong></p>
+<p>A child or young person with depression who is taking St John's wort as an over-the-counter preparation should be informed of the risks and advised to discontinue treatment while being monitored for recurrence of depression and assessed for alternative treatments in accordance with this guideline. <strong>[2005]</strong></p>
+<p><strong>The Treatment of Psychotic Depression</strong></p>
+<p>For children and young people with psychotic depression, augmenting the current treatment plan with an atypical antipsychotic medication<sup>5</sup> should be considered, although the optimum dose and duration of treatment are unknown. <strong>[2005]</strong></p>
+<p>Children and young people prescribed an atypical antipsychotic medication should be monitored carefully for side effects. <strong>[2005]</strong></p>
+<p><strong>Inpatient Care</strong></p>
+<p>Inpatient treatment should be considered for children and young people who present with a high risk of suicide, high risk of serious self-harm or high risk of self-neglect, and/or when the intensity of treatment (or supervision) needed is not available elsewhere, or when intensive assessment is indicated. <strong>[2005]</strong></p>
+<p>When considering admission for a child or young person with depression, the benefits of inpatient treatment need to be balanced against potential detrimental effects, for example loss of family and community support. <strong>[2005]</strong></p>
+<p>When inpatient treatment is indicated, CAMHS professionals should involve the child or young person and their parent(s) or carer(s) in the admission and treatment process whenever possible. <strong>[2005]</strong></p>
+<p>Commissioners and strategic health authorities should ensure that inpatient treatment is available within reasonable travelling distance to enable the involvement of families and maintain social links. <strong>[2005]</strong></p>
+<p>Commissioners and strategic health authorities should ensure that inpatient services are able to admit a young person within an appropriate timescale, including immediate admission if necessary. <strong>[2005]</strong></p>
+<p>Inpatient services should have a range of interventions available including medication, individual and group psychological therapies and family support. <strong>[2005]</strong></p>
+<p>Inpatient facilities should be age appropriate and culturally enriching, with the capacity to provide appropriate educational and recreational activities. <strong>[2005]</strong></p>
+<p>Planning for aftercare arrangements should take place before admission or as early as possible after admission and should be based on the Care Programme Approach. <strong>[2005]</strong></p>
+<p>Tier 4 CAMHS professionals involved in assessing children or young people for possible inpatient admission should be specifically trained in issues of consent and capacity, the use of current mental health legislation and the use of childcare laws, as they apply to this group of patients. <strong>[2005]</strong></p>
+<p><strong>Electroconvulsive Therapy (ECT)</strong></p>
+<p>ECT should only be considered for young people with very severe depression and either life-threatening symptoms (such as suicidal behaviour) or intractable and severe symptoms that have not responded to other treatments. <strong>[2005]</strong></p>
+<p>ECT should be used extremely rarely in young people and only after careful assessment by a practitioner experienced in its use and only in a specialist environment in accordance with NICE recommendations. <strong>[2005]</strong></p>
+<p>ECT is not recommended in the treatment of depression in children (5&ndash;11 years). <strong>[2005]</strong></p>
+<p><strong>Discharge after a First Episode</strong></p>
+<p>When a child or young person is in remission (less than two symptoms and full functioning for at least 8 weeks) they should be reviewed regularly for 12 months by an experienced CAMHS professional. The exact frequency of contact should be agreed between the CAMHS professional and the child or young person and/or the parent(s) or carer(s) and recorded in the notes. At the end of this period, if remission is maintained, the young person can be discharged to primary care. <strong>[2005]</strong></p>
+<p>CAMHS should keep primary care professionals up to date about progress and the need for monitoring of the child or young person in primary care. CAMHS should also inform relevant primary care professionals within 2 weeks of a patient being discharged and should provide advice about whom to contact in the event of a recurrence of depressive symptoms. <strong>[2005] </strong></p>
+<p>Children and young people who have been successfully treated and discharged but then re-referred should be seen as soon as possible rather than placed on a routine waiting list. <strong>[2005]</strong></p>
+<p><strong>Recurrent Depression and Relapse Prevention</strong></p>
+<p>Specific follow-up psychological therapy sessions to reduce the likelihood of, or at least detect, a recurrence of depression should be considered for children and young people who are at a high risk of relapse (for example individuals who have already experienced two prior episodes, those who have high levels of subsyndromal symptoms, or those who remain exposed to multiple-risk circumstances). <strong>[2005]</strong></p>
+<p>CAMHS specialists should teach recognition of illness features, early warning signs, and subthreshold disorders to tier 1 professionals, children or young people with recurrent depression and their families and carer(s). Self-management techniques may help individuals to avoid and/or cope with trigger factors. <strong>[2005]</strong></p>
+<p>When a child or young person with recurrent depression is in remission (less than two symptoms and full functioning for at least 8 weeks) they should be reviewed regularly for 24 months by an experienced CAMHS professional. The exact frequency of contact should be agreed between the CAMHS professional and the child or young person and/or the parent(s) or carer(s) and recorded in the notes. At the end of this period, if remission is maintained, the young person can be discharged to primary care. <strong>[2005] </strong></p>
+<p>Children and young people with recurrent depression who have been successfully treated and discharged but then re-referred should be seen as a matter of urgency. <strong>[2005]</strong></p>
+<p><strong><span style="text-decoration: underline;">Transfer to Adult Services</span></strong></p>
+<p>The CAMHS team currently providing treatment and care for a young person aged 17 who is recovering from a first episode of depression should normally continue to provide treatment until discharge is considered appropriate in accordance with this guideline, even when the person turns 18 years of age. <strong>[2005]</strong></p>
+<p>The CAMHS team currently providing treatment and care for a young person aged 17 to 18 who either has ongoing symptoms from a first episode that are not resolving or has, or is recovering from, a second or subsequent episode of depression should normally arrange for a transfer to adult services, informed by the Care Programme Approach. <strong>[2005]</strong></p>
+<p>A young person aged 17 to 18 with a history of recurrent depression who is being considered for discharge from CAMHS should be provided with comprehensive information about the treatment of depression in adults (including the NICE 'Information for the public' version for adult depression [see the "Availability of Companion Documents" field]) and information about local services and support groups suitable for young adults with depression. <strong>[2005]</strong></p>
+<p>A young person aged 17 to 18 who has successfully recovered from a first episode of depression and is discharged from CAMHS should not normally be referred on to adult services, unless they are considered to be at high risk of relapse (for example, if they are living in multiple-risk circumstances). <strong>[2005]</strong></p>
+<p><strong><span style="text-decoration: underline;">Footnotes</span></strong></p>
+<p class="Note"><sup>1</sup>At the time of publication (March 2015), fluoxetine did not have UK marketing authorisation for use in young people (aged 12&ndash;18), without a previous trial of psychological therapy that was ineffective. For combined antidepressant treatment and psychological therapy as an initial treatment, the prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gmc-uk.org%2fguidance%2fethical_guidance%2f14327.asp" title="General Medical Council Web site">Good practice in prescribing and managing medicines and devices</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> for further information.</p>
+<p class="Note"><sup>2</sup>At the time of publication (March 2015), fluoxetine was the only antidepressant with UK marketing authorisation for use for children and young people aged 8 to 18 years.</p>
+<p class="Note"><sup>3</sup>At the time of publication (March 2015), fluoxetine did not have a UK marketing authorisation for use in children under the age of 8 years. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gmc-uk.org%2fguidance%2fethical_guidance%2f14327.asp" title="General Medical Council Web site">Good practice in prescribing and managing medicines and devices</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> for further information.</p>
+<p class="Note"><sup>4</sup>At the time of publication (March 2015), sertraline and citalopram did not have a UK marketing authorisation for use in young people under the age of 18 years. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gmc-uk.org%2fguidance%2fethical_guidance%2f14327.asp" title="General Medical Council Web site">Good practice in prescribing and managing medicines and devices</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> for further information.</p>
+<p class="Note"><sup>5</sup>At the time of publication (March 2015), risperidone did not have a UK marketing authorisation for use in young people under the age of 18 years. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the General Medical Council's <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gmc-uk.org%2fguidance%2fethical_guidance%2f14327.asp" title="General Medical Council Web site">Good practice in prescribing and managing medicines and devices</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> for further information.</p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong>:</p>
+<p><strong><span style="text-decoration: underline;">Strength of Recommendations</span></strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><strong>Interventions That Must (or Must Not) Be Used</strong></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally the GDG uses 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><strong>Interventions That Should (or Should Not) Be Used &ndash; a 'Strong' Recommendation</strong></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients.</p>
+<p><strong>Interventions That Could Be Used</strong></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p>
+<p><strong>Recommendation Wording in Guideline Updates</strong></p>
+<p>NICE began using this approach to denote the strength of recommendations in guidelines that started development after publication of the 2009 version of 'The guidelines manual' (January 2009). This does not apply to any recommendations ending <strong>[2005]</strong> or <strong>[2015]</strong>. In particular, for recommendations labelled <strong>[2005]</strong> or <strong>[2015]</strong>, the word 'consider' may not necessarily be used to denote the strength of the recommendation.</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>A NICE pathway titled "Depression Overview" is available from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fpathways.nice.org.uk%2fpathways%2fdepression" title="NICE Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Depression</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Diagnosis</p>
+                    <p>Evaluation</p>
+                    <p>Management</p>
+                    <p>Risk Assessment</p>
+                    <p>Screening</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Emergency Medicine</p>
+                    <p>Family Practice</p>
+                    <p>Pediatrics</p>
+                    <p>Psychiatry</p>
+                    <p>Psychology</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Allied Health Personnel</p>
+                    <p>Health Plans</p>
+                    <p>Hospitals</p>
+                    <p>Nurses</p>
+                    <p>Pharmacists</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                    <p>Psychologists/Non-physician Behavioral Health Clinicians</p>
+                    <p>Public Health Departments</p>
+                    <p>Social Workers</p>
+                    <p>Substance Use Disorders Treatment Providers</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>To offer best practice advice on the care of children and young people with depression </li>
+    <li>To add and update recommendations on psychological therapies and antidepressants from the 2005 clinical guideline on depression in children and young people </li>
+</ul></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Children (5&ndash;11 years) and young people (12&ndash;18 years) in primary, community and secondary care</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><div class="content_para"><p><strong>General Management Principles</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Providing good information to patients and carers about depression and its treatment and about self-help and support groups </li>
+    <li>Obtaining informed consent </li>
+    <li>Considerations for language and ethnic minorities </li>
+    <li>Assessment of patient's social, educational, and family history </li>
+    <li>Assessment of history of self-harm, alcohol/drug abuse, and other forms of abuse </li>
+    <li>Use of the self-report Mood and Feelings Questionnaire (MFQ) as an adjunct to clinical judgement </li>
+    <li>Organisation and planning of services including working with local Child and Adolescent Mental Health Services (CAMHS) </li>
+    <li>General treatment considerations in all settings (e.g., working within patient's social network, use of trained child and adolescent therapists, treatment of comorbid conditions, and counseling on sleep hygiene, exercise, and nutrition) </li>
+</ol>
+<p><strong>Risk Assessment/Screening/Diagnosis (Stepped-Care Model)</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Detection of depression and risk profiling in primary care, schools, and other relevant community settings </li>
+    <li>Referral criteria </li>
+    <li>Diagnosing depression using interviewer-based assessment instruments such as Kiddie-Sads (K-SADS) and Child and Adolescent Psychiatric Assessment (CAPA) </li>
+</ol>
+<p><strong>Treatment/Management (Stepped-Care Model)</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Watchful waiting </li>
+    <li>Interventions for mild depression (psychological therapies) </li>
+    <li>Interventions for moderate to severe depression
+    <ul style="list-style-type: disc;">
+        <li>Psychological therapies </li>
+        <li>Combined fluoxetine and psychological therapy </li>
+    </ul>
+    </li>
+    <li>Reassessment of patients unresponsive to combined treatment and consideration of alternative psychological therapy, systemic family therapy, or individual child psychotherapy </li>
+    <li>Use of antidepressants (dosage, monitoring, discontinuation)
+    <ul style="list-style-type: disc;">
+        <li>Fluoxetine (first-line) </li>
+        <li>Sertraline or citalopram (second-line) </li>
+        <li>Paroxetine, venlafaxine, tricyclic antidepressants, and St. Johns' wort (not recommended) </li>
+    </ul>
+    </li>
+    <li>Treatment of psychotic depression using atypical antipsychotic medication </li>
+    <li>Inpatient care </li>
+    <li>Electroconvulsive therapy (ECT) </li>
+    <li>Discharge after a first episode of depression </li>
+    <li>Prevention of relapse </li>
+    <li>Transfer to adult services </li>
+</ol></div></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Level of function (functional status) </li>
+    <li>Improvement in depressive symptoms </li>
+    <li>Remission from depressive disorder/symptoms </li>
+    <li>Suicide-related outcomes (suicidal ideation/serious adverse events) </li>
+    <li>Acceptability of treatment (dropout rate) </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Mental Health (NCCMH) on behalf of the National Institute for Health and Care Excellence (NICE). See the "Availability of Companion Documents" field for the full version of this guidance.</p>
+<p><strong><span style="text-decoration: underline;">2005 Guideline</span></strong></p>
+<p>See the full version of the guideline for details about the methodology used for the 2005 recommendations.</p>
+<p><strong><span style="text-decoration: underline;">2015 Update</span></strong></p>
+<p><strong>Methods</strong></p>
+<p>Important outcomes were chosen and prioritised by the topic-specific members of the Committee using a ranking method. The relative value of different outcomes was discussed, and the final rankings were completed by each topic-specific member independently, collated, and then agreed by the standing Committee members before the review was carried out.</p>
+<p>Evidence reviews (including health economic evidence) were conducted for each review question. The searches were carried out on July 8, July 21, and August 13, 2014, in the following databases: CDSR (Wiley), Database of Abstracts of Reviews of Effects &ndash; DARE (Wiley), HTA database (CRD, Ovid, Wiley), CENTRAL (Wiley), MEDLINE (Ovid), MEDLINE In-Process (Ovid), EMBASE (Ovid), PsycINFO (Ovid), CINAHL (EBSCOhost/HDAS), NHS Economic Evaluation Database - NHS EED (Wiley), and Health Economic Evaluations Database - HEED (Wiley). See Appendices D, F, and G in the <em>Addendum to clinical guideline 28, depression in children and young people</em> (see the "Availability of Companion Documents" field) for details of search strategies and inclusion/exclusion criteria.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">2005 Guideline</span></strong></p>
+<p>See the full version of the guideline for details about the methodology used for the 2005 recommendations.</p>
+<p><strong><span style="text-decoration: underline;">2015 Update</span></strong></p>
+<p>Review Question 1: 40 unique studies (48 articles)</p>
+<p>Review Question 2: 1 systematic review</p>
+<p>Review Question 3: 2 unique economic studies (3 articles); no other studies met the criteria</p>
+<p>See Appendix E: Review flowcharts in the <em>Addendum to clinical guideline 28, depression in children and young people</em> for a diagram of included articles/studies (including economic studies). See the "Availability of Companion Documents" field.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">2005 Guideline</span></strong></p>
+<p>See the full version of the guideline (see the "Availability of Companion Documents" field) for details about the methodology used for the 2005 recommendations.</p>
+<p><strong><span style="text-decoration: underline;">2015 Update</span></strong></p>
+<p><strong>Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Overall Quality of Outcome Evidence in GRADE (Grading of Recommendations Assessment, Development and Evaluation)">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" scope="col">Level</th>
+            <th class="Center" valign="top" scope="col">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class="Center" valign="top">High</th>
+            <td valign="top">Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Moderate</th>
+            <td valign="top">Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Low</th>
+            <td valign="top">Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Very Low</th>
+            <td valign="top">Any estimate of effect is very uncertain.</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Meta-Analysis</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Mental Health (NCCMH) on behalf of the National Institute for Health and Care Excellence (NICE). See the "Availability of Companion Documents" field for the full version of this guidance.</p>
+<p><strong><span style="text-decoration: underline;">2005 Guideline</span></strong></p>
+<p>See the full version of the guideline for details about the methodology used for the 2005 recommendations.</p>
+<p><strong><span style="text-decoration: underline;">2015 Update</span></strong></p>
+<p><strong>Methods</strong></p>
+<p>The same minimum clinically important differences were used as those that were agreed by the guideline development group for the original NICE guideline on depression in children and young people. For comparisons of an active intervention with no treatment, minimum clinically important differences were taken to be 0.2 and 5 for dichotomous outcomes and -0.4 and 0.4 standardised mean differences (SMDs) for continuous outcomes. For comparisons of two active interventions, minimum clinically important differences were taken to be 0.5 and 2 for dichotomous outcomes and -0.2 and 0.2 SMDs for continuous outcomes.</p>
+<p>For each question, the quality of evidence for each important outcome for each comparison was appraised using the approach recommended by the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) working group (see Appendix H in the <em>Addendum to clinical guideline 28, depression in children and young people</em> [see the "Availability of Companion Document" field]). All included studies were randomised controlled trials. Typical reasons for downgrading the evidence for risk of bias included lack of blinding (of participants or outcome assessors), inadequate or unclear allocation concealment, and inadequate or unclear random sequence generation. Inconsistency was only assessed when data was combined in a meta-analysis. The degree of heterogeneity was assessed, and 95% confidence intervals were examined to determine whether serious inconsistency was present, using the methods described by the GRADE working group. Indirectness was assessed by noting whether the evidence directly applied to the review question; no cases of serious indirectness were noted. Imprecision was assessed by determining whether 95% confidence intervals incorporated clinically significant harm, no effect and clinically significant benefit. If all three were incorporated in the confidence interval, imprecision was judged very serious. If two of the three were incorporated, imprecision was considered serious. Other factors such as publication bias were also considered, but none gave rise to serious uncertainty.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                    <p>Informal Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Mental Health (NCCMH) on behalf of the National Institute for Health and Care Excellence (NICE). See the "Availability of Companion Documents" field for the full version of this guidance.</p>
+<p><strong><span style="text-decoration: underline;">2005 Guideline</span></strong></p>
+<p>See the full version of the guideline for details about the methodology used for the 2005 recommendations.</p>
+<p><strong><span style="text-decoration: underline;">2015 Update</span></strong></p>
+<p><strong>Methods</strong></p>
+<p>This update was developed based on the process and methods described in the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk%2farticle%2fpmg6%2fchapter%2f1%2520Introduction" title="NICE Web site">guidelines manual 2012</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (see the "Availability of Companion Documents" field). Where there are deviations from the process and methods, these are stated in the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk%2farticle%2fpmg17%2fchapter%2f1%2520Purpose" title="NICE Web site">interim process and methods guide for updates pilot programme 2013</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (see the "Availability of Companion Documents" field).</p>
+<p><strong>Clinical Guidelines Update</strong></p>
+<p>The NICE Clinical Guidelines Update Team update discrete parts of published clinical guidelines as requested by NICE's Guidance Executive. Suitable topics for update are identified through the surveillance programme (see <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk%2farticle%2fpmg16%2fchapter%2f1%2520Purpose" title="NICE Web site">surveillance programme interim guide</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>).</p>
+<p>These guidelines are updated using a standing Committee of healthcare professionals, research methodologists and lay members from a range of disciplines and localities. For the duration of the update the core members of the Committee are joined by up to 5 additional members who are have specific expertise in the topic being updated, referred to as topic-specific members.</p>
+<p><strong>Update Information</strong></p>
+<p>The NICE guideline on depression in children and young people (NICE clinical guideline CG28) was reviewed in 2013 as part of NICE's routine surveillance programme to decide whether it required updating. The surveillance report identified new evidence relating to two areas of the guidance:</p>
+<ul style="list-style-type: disc;">
+    <li>The psychological therapies for the treatment of depression in children and young people </li>
+    <li>The use of antidepressant treatment and psychological therapy, either alone or together for the treatment of depression in children and young people. </li>
+</ul>
+<p>The full report can be found here: <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg28%2fresources%2fcg28-depression-in-children-and-young-people-review-decision-oct-132" title="NICE Web site">http://www.nice.org.uk/guidance/cg28/resources/cg28-depression-in-children-and-young-people-review-decision-oct-132</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>Recommendations in this addendum fall into 3 categories:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>New recommendations relating to psychological therapy and the combination of psychological therapy and antidepressant treatment for depression in children and young people have been made in this addendum and are labelled <strong>[new 2015]</strong>. </li>
+    <li>Recommendations labelled <strong>[2015]</strong> have been reviewed, but the Committee concluded that there was not enough new evidence to change them. </li>
+    <li>Recommendations highlighted in grey and labelled <strong>[2005]</strong> are only included to provide context. </li>
+</ol>
+<p>See the guideline addendum for information on how the Committee moved from the evidence to each recommendation, and describes the relative value placed on outcomes, benefits and harms, resource use, and the overall quality of the evidence, as well as other considerations.</p>
+<p>See the "Evidence to recommendation" discussion for each review question in the <em>Addendum to clinical guideline 28, depression in children and young people</em> (see the "Availability of Companion Documents" field).</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">2005 Guideline</span></strong></p>
+<p>Not applicable</p>
+<p><strong><span style="text-decoration: underline;">2015 Update</span></strong></p>
+<p><strong><span style="text-decoration: underline;">Strength of Recommendations</span></strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><strong>Interventions That Must (or Must Not) Be Used</strong></p>
+<p>The GDG usually uses 'must' or 'must not' only if there is a legal duty to apply the recommendation. Occasionally the GDG uses 'must' (or 'must not') if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><strong>Interventions That Should (or Should Not) Be Used &ndash; a 'Strong' Recommendation</strong></p>
+<p>The GDG uses 'offer' (and similar words such as 'refer' or 'advise') when confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. Similar forms of words (for example, 'Do not offer&hellip;') are used when the GDG is confident that an intervention will not be of benefit for most patients.</p>
+<p><strong>Interventions That Could Be Used</strong></p>
+<p>The GDG uses 'consider' when confident that an intervention will do more good than harm for most patients, and be cost effective, but other options may be similarly cost effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p>
+<p><strong>Recommendation Wording in Guideline Updates</strong></p>
+<p>The National Institute for Health and Care Excellence (NICE) began using this approach to denote the strength of recommendations in guidelines that started development after publication of the 2009 version of 'The guidelines manual' (January 2009). This does not apply to any recommendations ending <strong>[2005]</strong> or <strong>[2015]</strong>. In particular, for recommendations labelled <strong>[2005]</strong> or <strong>[2015]</strong>, the word 'consider' may not necessarily be used to denote the strength of the recommendation.</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">2005 Guideline</span></strong></p>
+<p>See the full version of the guideline (see the "Availability of Companion Documents" field) for information on cost analysis.</p>
+<p><strong><span style="text-decoration: underline;">2015 Update</span></strong></p>
+<p>The health economic evidence identified by the health economics systematic review was summarised for each review question following presentation of the clinical evidence. The characteristics and results of all economic studies included in the review were provided in the form of evidence tables in Appendix G.3 in the <em>Addendum to clinical guideline 28, depression in children and young people</em> (see the "Availability of Companion Documents" field).</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">2005 Guideline</span></strong></p>
+<p>See the full version of the guideline (see the "Availability of Companion Documents" field) for information on stakeholder involvement and validation of the guideline.</p>
+<p><strong><span style="text-decoration: underline;">2015 Update</span></strong></p>
+<p>The guideline was validated through two consultations.</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>The first draft of the guideline (the full guideline and the National Institute for Health and Care Excellence [NICE] guideline) were consulted with Stakeholders and comments were considered by the Guideline Development Group (GDG). </li>
+    <li>The final consultation draft of the full guideline, the NICE guideline and the Information for the Public were submitted to stakeholders for final comments. </li>
+</ol>
+<p>The final draft was submitted to the Guideline Review Panel for review prior to publication.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of evidence supporting the recommendations is not specifically stated.</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">2005 Guideline</span></strong></p>
+<p>Improved identification and appropriate management and care of children and young people with depression</p>
+<p><strong><span style="text-decoration: underline;">2015 Update</span></strong></p>
+<p>Refer to the "Trade-off between benefits and harms" sections of the addendum (see the "Availability of Companion Documents" field) for specific benefits of psychological therapies, antidepressants, and combination therapy for treatment of depression in children and young people.</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">2005 Guideline</span></strong></p>
+<ul style="list-style-type: disc;">
+    <li>All antidepressant drugs have significant risks when given to children and young people with depression and, with the exception of fluoxetine, there is little evidence that they are effective in this context. Although fluoxetine can cause significant adverse drug reactions, it is safer when combined with psychological therapies. </li>
+    <li>The main side effects for young people receiving electroconvulsive therapy (ECT) for depression appear to be the same as for adults. ECT may cause short or long-term memory impairment for past events (retrograde amnesia) and current events (anterograde amnesia). As this type of cognitive impairment is a feature of many mental health problems, including severe depression, it may sometimes be difficult to differentiate the effects of ECT from those associated with the condition itself. The most significant side effect from ECT is memory impairment. The effects of ECT on the developing brain are unknown. </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">2015 Update</span></strong></p>
+<p>Refer to the "Trade-off between benefits and harms" sections of the addendum (see the "Availability of Companion Documents" field) for specific harms of interventions used in treatment of depression in children and young people.</p></div></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>This guidance represents the view of the National Institute for Health and Care Excellence (NICE), which was arrived at after careful consideration of the evidence available. Healthcare professionals are expected to take it fully into account when exercising their clinical judgement. However, the guidance does not override the individual responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or guardian or carer, and informed by the summaries of product characteristics of any drugs. </li>
+    <li>Implementation of this guidance is the responsibility of local commissioners and/or providers. Commissioners and providers are reminded that it is their responsibility to implement the guidance, in their local context, in light of their duties to have due regard to the need to eliminate unlawful discrimination, advance equality of opportunity and foster good relations. Nothing in this guidance should be interpreted in a way that would be inconsistent with compliance with those duties. </li>
+    <li>For all recommendations, NICE expects that there is discussion with the patient about the risks and benefits of the interventions, and their values and preferences. This discussion aims to help them to reach a fully informed decision (see also 'Patient-centred care'). </li>
+    <li>Remember that child maltreatment:
+    <ul style="list-style-type: disc;">
+        <li>Is common </li>
+        <li>Can present anywhere, such as emergency departments and primary care or on home visits. </li>
+    </ul>
+    <p>Be aware of or suspect abuse as a contributory factor to or cause of the symptoms or signs of depression in children. Abuse may also coexist with depression. See the NICE guideline on <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg89" title="NICE Web site">child maltreatment</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> for clinical features that may be associated with maltreatment.</p>
+    </li>
+    <li>The guideline will assume that prescribers will use a medicine's summary of product characteristics to inform decisions made with individual patients. </li>
+    <li>This guideline recommends some medicines for indications for which they do not have a UK marketing authorisation at the date of publication, if there is good evidence to support that use. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. The patient (or those with authority to give consent on their behalf) should provide informed consent, which should be documented. See the General Medical Council's <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gmc-uk.org%2fguidance%2fethical_guidance%2f14327.asp" title="General Medical Council Web site">Good practice in prescribing and managing medicines and devices</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> for further information. Where recommendations have been made for the use of medicines outside their licensed indications ('off-label use'), these medicines are marked with a footnote in the recommendations. </li>
+    <li>Patients and healthcare professionals have rights and responsibilities as set out in the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.gov.uk%2fgovernment%2fpublications%2fthe-nhs-constitution-for-england" title="UK NHS Web site">National Health Service (NHS) Constitution for England</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> &ndash; all NICE guidance is written to reflect these. Treatment and care should take into account individual needs and preferences. Patients should have the opportunity to make informed decisions about their care and treatment, in partnership with their healthcare professionals. If the patient is under 16, their family or carers should also be given information and support to help the child or young person to make decisions about their treatment. Healthcare professionals should follow the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.gov.uk%2fgovernment%2fpublications%2freference-guide-to-consent-for-examination-or-treatment-second-edition" title="UK Department of Health Web site">Department of Health's advice on consent</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. If someone does not have capacity to make decisions, healthcare professionals should follow the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.gov.uk%2fgovernment%2fcollections%2fmental-capacity-act-making-decisions" title="UK Department of Justice Web site">code of practice that accompanies the Mental Capacity Act</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> and the supplementary <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwebarchive.nationalarchives.gov.uk%2f20130107105354%2fhttp%3a%2fwww.dh.gov.uk%2fen%2fPublicationsandstatistics%2fPublications%2fPublicationsPolicyAndGuidance%2fDH_085476" title="UK Department of Health Archive Web site">code of practice on deprivation of liberty safeguards</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>If a young person is moving between paediatric and adult services, care should be planned and managed according to the best practice guidance described in the Department of Health's <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwebarchive.nationalarchives.gov.uk%2f20130107105354%2fhttp%3a%2fwww.dh.gov.uk%2fen%2fPublicationsandstatistics%2fPublications%2fPublicationsPolicyAndGuidance%2fDH_4132145" title="UK Department of Health Archive Web site">Transition: getting it right for young people</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Adult and paediatric healthcare teams should work jointly to provide assessment and services to young people with depression. Diagnosis and management should be reviewed throughout the transition process, and there should be clarity about who is the lead clinician to ensure continuity of care. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>Implementation tools and resources to help clinicians put the guideline into practice are available on the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg28%2fresources" title="NICE Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (see also the "Availability of Companion Documents" field).</p>
+<p><strong><span style="text-decoration: underline;">Key Priorities for Implementation</span></strong></p>
+<p>The following recommendations were identified as priorities for implementation in the 2005 guideline and have not been changed in the 2015 update.</p>
+<p><strong>Assessment and Coordination of Care</strong></p>
+<p>When assessing a child or young person with depression, healthcare professionals should routinely consider, and record in the patient's notes, potential comorbidities, and the social, educational and family context for the patient and family members, including the quality of interpersonal relationships, both between the patient and other family members and with their friends and peers. <strong>[2005]</strong></p>
+<p class="Note"><strong>Note</strong>: Definition of healthcare professionals: A generic term used in this guideline to cover all health professionals such as general practitioners (GPs), psychologists, psychotherapists, psychiatrists, paediatricians, school doctors, nurses (including school and community based), health visitors, counsellors, art therapists, music therapists, drama therapists and family therapists who work with children and young people and whose work may involve considering the young person's additional psychological needs.</p>
+<p><strong>Treatment Considerations in All Settings</strong></p>
+<p>Psychological therapies used in the treatment of children and young people with depression should be provided by therapists who are also trained child and adolescent mental healthcare professionals. <strong>[2005]</strong></p>
+<p>Comorbid diagnoses and developmental, social and educational problems should be assessed and managed, either in sequence or in parallel, with the treatment for depression. Where appropriate this should be done through consultation and alliance with a wider network of education and social care. <strong>[2005]</strong></p>
+<p>Attention should be paid to the possible need for parents' own psychiatric problems (particularly depression) to be treated in parallel, if the child or young person's mental health is to improve. If such a need is identified, then a plan for obtaining such treatment should be made, bearing in mind the availability of adult mental health provision and other services. <strong>[2005]</strong></p>
+<p><strong>Step 1: Detection and Risk Profiling</strong></p>
+<p>Healthcare professionals in primary care, schools and other relevant community settings should be trained to detect symptoms of depression, and to assess children and young people who may be at risk of depression. Training should include the evaluation of recent and past psychosocial risk factors, such as age, gender, family discord, bullying, physical, sexual or emotional abuse, comorbid disorders, including drug and alcohol use, and a history of parental depression; the natural history of single loss events; the importance of multiple risk factors; ethnic and cultural factors; and factors known to be associated with a high risk of depression and other health problems, such as homelessness, refugee status and living in institutional settings. <strong>[2005]</strong></p>
+<p>Child and Adolescent Mental Health Services (CAMHS) tier 2 or 3 should work with health and social care professionals in primary care, schools and other relevant community settings to provide training and develop ethnically and culturally sensitive systems for detecting, assessing, supporting and referring children and young people who are either depressed or at significant risk of becoming depressed. <strong>[2005]</strong></p>
+<p><strong>Step 2: Recognition</strong></p>
+<p>Training opportunities should be made available to improve the accuracy of CAMHS professionals in diagnosing depressive conditions. The existing interviewer-based instruments (such as Kiddie-Sads [K-SADS] and Child and Adolescent Psychiatric Assessment [CAPA]) could be used for this purpose but will require modification for regular use in busy routine CAMHS settings. <strong>[2005]</strong></p>
+<p><strong>Step 3: Mild Depression</strong></p>
+<p>Antidepressant medication should not be used for the initial treatment of children and young people with mild depression. <strong>[2005]</strong></p>
+<p><strong>Steps 4 and 5: Moderate to Severe Depression</strong></p>
+<p>Offer children and young people with moderate to severe depression a specific psychological therapy (individual cognitive behavioural therapy [CBT], interpersonal therapy, family therapy, or psychodynamic psychotherapy) that runs for at least 3 months. <strong>[new 2015]</strong></p>
+<p>Do not offer antidepressant medication to a child or young person with moderate to severe depression except in combination with a concurrent psychological therapy. Specific arrangements must be made for careful monitoring of adverse drug reactions, as well as for reviewing mental state and general progress; for example, weekly contact with the child or young person and their parent(s) or carer(s) for the first 4 weeks of treatment. The precise frequency will need to be decided on an individual basis, and recorded in the notes. In the event that psychological therapies are declined, medication may still be given, but as the young person will not be reviewed at psychological therapy sessions, the prescribing doctor should closely monitor the child or young person's progress on a regular basis and focus particularly on emergent adverse drug reactions. <strong>[2015]</strong></p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Clinical Algorithm</p>
+                    <p>Mobile Device Resources</p>
+                    <p>Patient Resources</p>
+                    <p>Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>National Collaborating Centre for Mental Health. Depression in children and young people: identification and management in primary, community and secondary care. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Mar. 63 p.&nbsp;(Clinical guideline; no. 28).&nbsp;</td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2005 (revised 2015 Mar)</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>National Guideline Alliance - National Government Agency [Non-U.S.]</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>National Institute for Health and Care Excellence (NICE)</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Guideline Development Group - Standing Committee B</p>
+<p>Clinical Guidelines Update Team</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">2005 Guideline</span></strong></p>
+<p>For the composition of the previous Guideline Development Group, see the full version of the guideline (see the "Availability of Companion Documents" field).</p>
+<p><strong><span style="text-decoration: underline;">2015 Update</span></strong></p>
+<p><em>Clinical Guidelines Update Team</em>: Philip Alderson, Clinical Adviser; Emma Banks, Co-ordinator; Elizabeth Barrett, Information Scientist; Paul Crosland, Health Economist; Nicole Elliott, Associate Director; Kathryn Hopkins, Technical Analyst; Susannah Moon, Programme Manager; Rebecca Parsons, Project Manager; Charlotte Purves, Administrator; Toni Tan, Technical Advisor</p>
+<p>Members of Standing Committee B and the topic experts for the 2015 update are listed on the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk%2fguidance%2findevelopment%2fgid-cgwave0731%2fdocuments" title="NICE Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">2005 Guideline</span></strong></p>
+<p>See the full version of the guideline for information on declarations of interest.</p>
+<p><strong><span style="text-decoration: underline;">2015 Update</span></strong></p>
+<p>Members of the Standing Committee made declarations of interest under the new National Institute for Health and Care Excellence (NICE) policy (2014). See Section 3.6 in the original guideline document. All other members of the Committee stated that they had no interests to declare.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: National Collaborating Centre for Mental Health. Depression in children and young people. Identification and management in primary, community and secondary care. London (England): British Psychological Society, Royal College of Psychiatrists; 2005. 233 p. [299 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Electronic copies: Available from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg28" title="NICE Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Addendum to clinical guideline 28, depression in children and young people. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Mar. 271 p. (Clinical guideline addendum; no. 28.1). Electronic copies: Available from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg28%2fevidence%2fdepression-in-children-and-young-people-guideline-addendum2" title="NICE Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Depression in children and young people: identification and management in primary, community and secondary care. Evidence update. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. 20 p. (Clinical guideline; no. 28). Electronic copies: Available from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg28%2fevidence%2fcg28-depression-in-children-and-young-people-evidence-update2" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Depression in children and young people: identification and management in primary, community and secondary care. Full guideline. London (UK): National Institute for Health and Care Excellence (NICE); 2005. 233 p. (Clinical guideline; no. 28): Electronic copies: Available from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg28%2fevidence%2fcg28-depression-in-children-and-young-people-full-guideline-2" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Depression in children and young people: identification and management in primary, community and secondary care. Appendices. London (UK): National Institute for Health and Care Excellence (NICE); 2005. (Clinical guideline; no. 28): Electronic copies: Available from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg28%2fevidence" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Depression in children and young people: identification and management in primary, community and secondary care. Baseline assessment tool. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Mar. (Clinical guideline; no. 28): Electronic copies: Available from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg28%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Depression in children and young people: identification and management in primary, community and secondary care. National cost-impact report. (UK): National Institute for Health and Care Excellence (NICE); 2005 Oct. 36 p. (Clinical guideline; no. 28): Electronic copies: Available from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg28%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Depression in children and young people: identification and management in primary, community and secondary care. Costing statement. London (UK): National Institute for Health and Care Excellence (NICE); 2015 Mar. 4 p. (Clinical guideline; no. 28): Electronic copies: Available from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg28%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Depression in children and young people: identification and management in primary, community and secondary care. Costing template. London (UK): National Institute for Health and Care Excellence (NICE); 2005 Oct. (Clinical guideline; no. 28): Electronic copies: Available from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg28%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Interim process and methods guide for the clinical guideline updates using standing committees pilot programme 2013. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Oct. 18 p. (Clinical guideline; no. 28): Electronic copies: Available from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fprocess%2fpmg17%2fchapter%2fpurpose" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>The guidelines manual 2012. London (UK): National Institute for Health and Care Excellence (NICE); 2012 Nov. Electronic copies: Available from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fprocess%2fpmg6%2fchapter%2fintroduction" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Depression in children and young people: identification and management in primary, community and secondary care. Information for the public. London (UK): National Institute for Health and Care Excellence; 2015 Mar. 21 p. (Clinical guideline; no. 28). Electronic copies: Available from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg28%2fifp%2fchapter%2fAbout-this-information" title="NICE Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. Also available for download in ePub or eBook formats from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg28%2fifp%2fchapter%2fAbout-this-information" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. Also available in Welsh from the <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg28%2fresources%2fgwybodaeth-ir-cyhoedd-193487581" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</li>
+</ul>
+<p class="Disclaimer">Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on April 29, 2015. This summary was updated by ECRI Institute on May 24, 2016 following the U.S. Food and Drug Administration advisory on Olanzapine.</p>
+<p>The National Institute for Health and Care Excellence (NICE) has granted the National Guideline Clearinghouse (NGC) permission to include summaries of their clinical guidelines with the intention of disseminating and facilitating the implementation of that guidance. NICE has not yet verified this content to confirm that it accurately reflects that original NICE guidance and therefore no guarantees are given by NICE in this regard. All NICE clinical guidelines are prepared in relation to the National Health Service in England and Wales. NICE has not been involved in the development or adaptation of NICE guidance for use in any other country. The full versions of all NICE guidance can be found at <a href="/web/20180712194709/https://www.guideline.gov/Home/Disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk" title="NICE Web site">www.nice.org.uk</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712194709im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712194709/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712194709/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712194709/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712194709/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712194709/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712194709/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712194709/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194709/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194709/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194709/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194709/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712194709/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712194709/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712194709/https://www.guideline.gov/disclaimer?id=49118&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712194709im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712194709im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712194709/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712194709/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712194709/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712194709/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712194709/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712194709/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712194709/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712194709/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712194709/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712194709/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712194709/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712194709/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712194709/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712194709/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712194709/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712194709/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712194709/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712194709/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712194709/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712194709im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712194709im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712194709/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712194709im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712194709im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712194709/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712194709js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712194709js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 19:47:09 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:47:12 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 204.857 (3)
+  esindex: 0.007
+  captures_list: 221.205
+  CDXLines.iter: 12.586 (3)
+  PetaboxLoader3.datanode: 87.806 (4)
+  exclusion.robots: 0.162
+  exclusion.robots.policy: 0.148
+  RedisCDXSource: 0.607
+  PetaboxLoader3.resolve: 130.336
+  load_resource: 47.851
+-->

@@ -1,0 +1,1270 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=434;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Falls: assessment and prevention of falls in older people. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712190225im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712190225im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712190225im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712190225im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712190225/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712190225im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712190225cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712190225js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712190225if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712190225/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712190225if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712190225/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712190225/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712190225/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712190225/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712190225im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712190225im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712190225im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712190225/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712190225/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712190225/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712190225/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712190225/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712190225/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712190225/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712190225/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712190225/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712190225/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712190225/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712190225/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712190225/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712190225/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712190225/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712190225/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712190225/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712190225/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712190225/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712190225/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712190225/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:009951</li>
+            <li>2004 Jun (revised 2013 Jun)
+            </li>            
+                                </ul>
+        <div>
+                <h1>Falls: assessment and prevention of falls in older people.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712190225/https://www.guideline.gov/search?f_Guideline_Developer_String=National%20Institute%20for%20Health%20and%20Care%20Excellence%20%28NICE%29&amp;fLockTerm=National%2BInstitute%2Bfor%2BHealth%2Band%2BCare%2BExcellence%2B%28NICE%29">National Institute for Health and Care Excellence (NICE)</a></li>
+                        <li>   
+                                <a id="1178" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>National Institute for Health and Care Excellence (NICE). Falls: assessment and prevention of falls in older people. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. 33 p.&nbsp;(Clinical guideline; no. 161).&nbsp;</td></tr></table>                    <p><a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fguidance.nice.org.uk%252fCG161">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: National Collaborating Centre for Nursing and Supportive Care. Clinical practice guideline for the assessment and prevention of falls in older people. London (UK): National Institute for Clinical Excellence (NICE); 2004 Jun. 185 p.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712190225/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712190225/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712190225/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712190225/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712190225/https://www.guideline.gov/search?f_ICD9CM_CUI=C0278372&amp;fLockTerm=Functional+evaluation">Functional evaluation</a>
+ (93.01), <a href="/web/20180712190225/https://www.guideline.gov/search?f_ICD9CM_CUI=C0000929&amp;fLockTerm=Home+accidents">Home accidents</a>
+ (E849.0), <a href="/web/20180712190225/https://www.guideline.gov/search?f_ICD9CM_CUI=C0027853&amp;fLockTerm=Neurologic+examination">Neurologic examination</a>
+ (89.13)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712190225/https://www.guideline.gov/search?f_MSH_CUI=C0000918&amp;fLockTerm=Accident+Prevention">Accident Prevention</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MSH_CUI=C0000921&amp;fLockTerm=Accidental+Falls">Accidental Falls</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MSH_CUI=C0000929&amp;fLockTerm=Accidents%2c+Home">Accidents, Home</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MSH_CUI=C0007168&amp;fLockTerm=Cardiac+Pacing%2c+Artificial">Cardiac Pacing, Artificial</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MSH_CUI=C0011904&amp;fLockTerm=Diagnostic+Techniques%2c+Cardiovascular">Diagnostic Techniques, Cardiovascular</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MSH_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MSH_CUI=C1611232&amp;fLockTerm=Medication+Therapy+Management">Medication Therapy Management</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MSH_CUI=C0517349&amp;fLockTerm=Muscle+Strength">Muscle Strength</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MSH_CUI=C0027853&amp;fLockTerm=Neurologic+Examination">Neurologic Examination</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MSH_CUI=C0030688&amp;fLockTerm=Patient+Education+as+Topic">Patient Education as Topic</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MSH_CUI=C0243024&amp;fLockTerm=Patient-Centered+Care">Patient-Centered Care</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MSH_CUI=C0042793&amp;fLockTerm=Vision+Tests">Vision Tests</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712190225/https://www.guideline.gov/search?f_MTH_CUI=C0000921&amp;fLockTerm=Accidental+Falls">Accidental Falls</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MTH_CUI=C2317515&amp;fLockTerm=Assessment+of+mobility">Assessment of mobility</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MTH_CUI=C0870300&amp;fLockTerm=Assessment%3a+Cognition">Assessment: Cognition</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MTH_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MTH_CUI=C0150223&amp;fLockTerm=Fall+prevention">Fall prevention</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MTH_CUI=C1532976&amp;fLockTerm=Fall+risk+assessment">Fall risk assessment</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MTH_CUI=C0000929&amp;fLockTerm=Home+Accidents">Home Accidents</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MTH_CUI=C0517349&amp;fLockTerm=Muscle+Strength">Muscle Strength</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MTH_CUI=C0027853&amp;fLockTerm=Neurologic+Examination">Neurologic Examination</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MTH_CUI=C0030688&amp;fLockTerm=Patient+education+(procedure)">Patient education (procedure)</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MTH_CUI=C0086930&amp;fLockTerm=Risk+Assessment">Risk Assessment</a>
+, <a href="/web/20180712190225/https://www.guideline.gov/search?f_MTH_CUI=C0042793&amp;fLockTerm=Vision+Tests">Vision Tests</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712190225/https://www.guideline.gov/search?f_PDQ_CUI=C0870300&amp;fLockTerm=cognitive+assessment">cognitive assessment</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0000918&amp;fLockTerm=Accident+prevention">Accident prevention</a>
+ (134185000), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0000921&amp;fLockTerm=Accidental+fall">Accidental fall</a>
+ (217082002), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2711404&amp;fLockTerm=Assessment+for+risk+of+cardiovascular+disease">Assessment for risk of cardiovascular disease</a>
+ (441829007), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2317515&amp;fLockTerm=Assessment+of+mobility">Assessment of mobility</a>
+ (430481008), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1960377&amp;fLockTerm=Assessment+of+sense+of+balance">Assessment of sense of balance</a>
+ (427226009), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0429958&amp;fLockTerm=Bladder+incontinence+assessment">Bladder incontinence assessment</a>
+ (281046009), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+ (183301007), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+ (256235009), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0015259&amp;fLockTerm=Exercise">Exercise</a>
+ (61686008), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1271034&amp;fLockTerm=Exercise+promotion%3a+strength+training">Exercise promotion: strength training</a>
+ (386291006), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0150223&amp;fLockTerm=Fall+prevention">Fall prevention</a>
+ (386296001), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1532976&amp;fLockTerm=Fall+risk+assessment">Fall risk assessment</a>
+ (414191008), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0278372&amp;fLockTerm=Functional+assessment">Functional assessment</a>
+ (12894003), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0203969&amp;fLockTerm=Gait+evaluation">Gait evaluation</a>
+ (39609006), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0557251&amp;fLockTerm=Hazards+in+the+home">Hazards in the home</a>
+ (224260008), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0027853&amp;fLockTerm=Neurological+assessment">Neurological assessment</a>
+ (225398001), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0027853&amp;fLockTerm=Neurological+assessment">Neurological assessment</a>
+ (84728005), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1272163&amp;fLockTerm=Osteoporosis+risk+assessment+done">Osteoporosis risk assessment done</a>
+ (391014006), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030688&amp;fLockTerm=Patient+education">Patient education</a>
+ (311401005), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0560023&amp;fLockTerm=Review+of+medication">Review of medication</a>
+ (182836005), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0086930&amp;fLockTerm=Risk+assessment">Risk assessment</a>
+ (225338004), <a href="/web/20180712190225/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0042793&amp;fLockTerm=Visual+testing">Visual testing</a>
+ (268360001)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712190225/https://www.guideline.gov/summaries/downloadcontent/ngc-9951?contentType=pdf" class="pdf">.PDF 141.9 kb</a></li>
+                            <li><a href="/web/20180712190225/https://www.guideline.gov/summaries/downloadcontent/ngc-9951?contentType=word" class="word">Word Document 345.2 kb</a></li>
+                            <li><a href="/web/20180712190225/https://www.guideline.gov/summaries/downloadcontent/ngc-9951?contentType=xml" class="xml">.XML 83.9 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712190225/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/46931/falls-assessment-and-prevention-of-falls-in-older-people" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712190225/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/46931/falls-assessment-and-prevention-of-falls-in-older-people" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712190225/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/46931/falls-assessment-and-prevention-of-falls-in-older-people&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712190225/mailto:/?Subject=AHRQ: Falls: assessment and prevention of falls in older people.&amp;body=https://www.guideline.gov/summaries/summary/46931/falls-assessment-and-prevention-of-falls-in-older-people" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Falls: assessment and prevention of falls in older people. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2013 Jun 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712190225/https://www.guideline.gov/summaries/citedownload/46931?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712190225/https://www.guideline.gov/summaries/citedownload/46931?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712190225/https://www.guideline.gov/summaries/citedownload/46931?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712190225/https://www.guideline.gov/summaries/citedownload/46931?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712190225/https://www.guideline.gov/summaries/citedownload/46931?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712190225/https://www.guideline.gov/summaries/citedownload/46931">RefWorks</a></li>
+                            <li><a href="/web/20180712190225/https://www.guideline.gov/summaries/citedownload/46931?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="46931" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the Centre for Clinical Practice at the National Institute for Health and Care Excellence (NICE). See the "Availability of Companion Documents" field for the full version of this guidance.</p>
+<p><strong>Note</strong>: The wording used in the recommendations in this guideline (for example, words such as 'offer' and 'consider') denotes the certainty with which the recommendation is made (the strength of the recommendations). See the end of the "Major Recommendations" field for further descriptions of the strength of recommendations.</p>
+<p><strong>Labelling of recommendations</strong>: New recommendations have been added about preventing falls in older people during a hospital stay. These are labeled <strong>[new 2013]</strong>. The original recommendations from NICE clinical guideline 21 are incorporated unchanged (except for minor wording changes for the purposes of clarification only). These are labeled <strong>[2004]</strong> or <strong>[2004, amended 2013]</strong>.</p>
+<p><strong><span style="text-decoration: underline;">Preventing Falls in Older People</span></strong></p>
+<p><strong>Case/Risk Identification</strong></p>
+<p>Older people in contact with healthcare professionals should be asked routinely whether they have fallen in the past year and asked about the frequency, context and characteristics of the fall/s. <strong>[2004]</strong></p>
+<p>Older people reporting a fall or considered at risk of falling should be observed for balance and gait deficits and considered for their ability to benefit from interventions to improve strength and balance. (Tests of balance and gait commonly used in the United Kingdom [UK] are detailed in Section 3.3 of the full version of the original guideline.) <strong>[2004]</strong></p>
+<p><strong>Multifactorial Falls Risk Assessment</strong></p>
+<p>Older people who present for medical attention because of a fall, or report recurrent falls in the past year, or demonstrate abnormalities of gait and/or balance should be offered a multifactorial falls risk assessment. This assessment should be performed by a healthcare professional with appropriate skills and experience, normally in the setting of a specialist falls service. This assessment should be part of an individualised, multifactorial intervention. <strong>[2004]</strong></p>
+<p>Multifactorial assessment may include the following:</p>
+<ul style="list-style-type: disc;">
+    <li>Identification of falls history </li>
+    <li>Assessment of gait, balance and mobility, and muscle weakness </li>
+    <li>Assessment of osteoporosis risk </li>
+    <li>Assessment of the older person's perceived functional ability and fear relating to falling </li>
+    <li>Assessment of visual impairment </li>
+    <li>Assessment of cognitive impairment and neurological examination </li>
+    <li>Assessment of urinary incontinence </li>
+    <li>Assessment of home hazards </li>
+    <li>Cardiovascular examination and medication review <strong>[2004]</strong> </li>
+</ul>
+<p><strong>Multifactorial Interventions</strong></p>
+<p>All older people with recurrent falls or assessed as being at increased risk of falling should be considered for an individualised multifactorial intervention. <strong>[2004]</strong></p>
+<p>In successful multifactorial intervention programmes the following specific components are common (against a background of the general diagnosis and management of causes and recognised risk factors):</p>
+<ul style="list-style-type: disc;">
+    <li>Strength and balance training </li>
+    <li>Home hazard assessment and intervention </li>
+    <li>Vision assessment and referral </li>
+    <li>Medication review with modification/withdrawal <strong>[2004]</strong> </li>
+</ul>
+<p>Following treatment for an injurious fall, older people should be offered a multidisciplinary assessment to identify and address future risk and individualised intervention aimed at promoting independence and improving physical and psychological function. <strong>[2004]</strong></p>
+<p><strong>Strength and Balance Training</strong></p>
+<p>Strength and balance training is recommended. Those most likely to benefit are older people living in the community with a history of recurrent falls and/or balance and gait deficit. A muscle-strengthening and balance programme should be offered. This should be individually prescribed and monitored by an appropriately trained professional. <strong>[2004]</strong></p>
+<p><strong>Exercise in Extended Care Settings</strong></p>
+<p>Multifactorial interventions with an exercise component are recommended for older people in extended care settings who are at risk of falling. <strong>[2004]</strong></p>
+<p><strong>Home Hazard and Safety Intervention</strong></p>
+<p>Older people who have received treatment in hospital following a fall should be offered a home hazard assessment and safety intervention/modifications by a suitably trained healthcare professional. Normally this should be part of discharge planning and be carried out within a timescale agreed by the patient or carer, and appropriate members of the health care team. <strong>[2004]</strong></p>
+<p>Home hazard assessment is shown to be effective only in conjunction with follow-up and intervention, not in isolation. <strong>[2004] </strong></p>
+<p><strong>Psychotropic Medications</strong></p>
+<p>Older people on psychotropic medications should have their medication reviewed, with specialist input if appropriate, and discontinued if possible to reduce their risk of falling. <strong>[2004]</strong></p>
+<p><strong>Cardiac Pacing</strong></p>
+<p>Cardiac pacing should be considered for older people with cardioinhibitory carotid sinus hypersensitivity who have experienced unexplained falls. <strong>[2004]</strong></p>
+<p><strong>Encouraging the Participation of Older People in Falls Prevention Programmes</strong></p>
+<p>To promote the participation of older people in falls prevention programmes the following should be considered.</p>
+<ul style="list-style-type: disc;">
+    <li>Healthcare professionals involved in the assessment and prevention of falls should discuss what changes a person is willing to make to prevent falls. </li>
+    <li>Information should be relevant and available in languages other than English. </li>
+    <li>Falls prevention programmes should also address potential barriers such as low self-efficacy and fear of falling, and encourage activity change as negotiated with the participant. <strong>[2004]</strong> </li>
+</ul>
+<p>Practitioners who are involved in developing falls prevention programmes should ensure that such programmes are flexible enough to accommodate participants' different needs and preferences and should promote the social value of such programmes. <strong>[2004]</strong></p>
+<p><strong>Education and Information Giving</strong></p>
+<p>All healthcare professionals dealing with patients known to be at risk of falling should develop and maintain basic professional competence in falls assessment and prevention. <strong>[2004]</strong></p>
+<p>Individuals at risk of falling, and their carers, should be offered information orally and in writing about:</p>
+<ul style="list-style-type: disc;">
+    <li>What measures they can take to prevent further falls </li>
+    <li>How to stay motivated if referred for falls prevention strategies that include exercise or strength and balancing components </li>
+    <li>The preventable nature of some falls </li>
+    <li>The physical and psychological benefits of modifying falls risk </li>
+    <li>Where they can seek further advice and assistance </li>
+    <li>How to cope if they have a fall, including how to summon help and how to avoid a long lie <strong>[2004]</strong> </li>
+</ul>
+<p><strong>Interventions That Cannot Be Recommended</strong></p>
+<p><em>Brisk walking</em>. There is no evidence<sup>1</sup> that brisk walking reduces the risk of falling. One trial showed that an unsupervised brisk walking programme increased the risk of falling in postmenopausal women with an upper limb fracture in the previous year. However, there may be other health benefits of brisk walking by older people. <strong>[2004]</strong></p>
+<p><strong>Interventions That Cannot Be Recommended Because of Insufficient Evidence</strong></p>
+<p>The authors do not recommend implementation of the following interventions at present. This is not because there is strong evidence against them, but because there is insufficient or conflicting evidence supporting them<sup>1</sup>. <strong>[2004]</strong></p>
+<p><em>Low intensity exercise combined with incontinence programmes</em>. There is no evidence<sup>1</sup> that low intensity exercise interventions combined with continence promotion programmes reduce the incidence of falls in older people in extended care settings. <strong>[2004]</strong></p>
+<p><em>Group exercise (untargeted)</em>. Exercise in groups should not be discouraged as a means of health promotion, but there is little evidence<sup>1</sup> that exercise interventions that were not individually prescribed for older people living in the community are effective in falls prevention. <strong>[2004]</strong></p>
+<p><em>Cognitive/behavioural interventions</em>. There is no evidence<sup>1</sup> that cognitive/behavioural interventions alone reduce the incidence of falls in older people living in the community who are of unknown risk status. Such interventions included risk assessment with feedback and counselling and individual education discussions. There is no evidence<sup>1</sup> that complex interventions in which group activities included education, a behaviour modification programme aimed at moderating risk, advice and exercise interventions are effective in falls prevention with older people living in the community. <strong>[2004]</strong></p>
+<p><em>Referral for correction of visual impairment</em>. There is no evidence<sup>1</sup> that referral for correction of vision as a single intervention for older people living in the community is effective in reducing the number of people falling. However, vision assessment and referral has been a component of successful multifactorial falls prevention programmes. <strong>[2004]</strong></p>
+<p><em>Vitamin D</em>. There is evidence<sup>1</sup> that vitamin D deficiency and insufficiency are common among older people and that, when present, they impair muscle strength and possibly neuromuscular function, via central nervous system (CNS)-mediated pathways. In addition, the use of combined calcium and vitamin D3 supplementation has been found to reduce fracture rates in older people in residential/nursing homes and sheltered accommodation. Although there is emerging evidence<sup>1</sup> that correction of vitamin D deficiency or insufficiency may reduce the propensity for falling, there is uncertainty about the relative contribution to fracture reduction via this mechanism (as opposed to bone mass) and about the dose and route of administration required. No firm recommendation can therefore currently be made on its use for this indication.<sup>2</sup> <strong>[2004, amended 2013]</strong></p>
+<p><em>Hip protectors</em>. Reported trials that have used individual patient randomisation have provided no evidence<sup>1</sup> for the effectiveness of hip protectors to prevent fractures when offered to older people living in extended care settings or in their own homes. Data from cluster randomised trials provide some evidence<sup>1</sup> that hip protectors are effective in the prevention of hip fractures in older people living in extended care settings who are considered at high risk.<strong> [2004]</strong></p>
+<p><span style="text-decoration: underline;"><strong>Preventing Falls in Older People During a Hospital Stay</strong></span></p>
+<p><strong>Predicting Patients' Risk of Falling in Hospital</strong></p>
+<p>Do not use fall risk prediction tools to predict inpatients' risk of falling in hospital. <strong>[new 2013]</strong></p>
+<p>Regard the following groups of inpatients as being at risk of falling in hospital and manage their care according to recommendations below:</p>
+<ul style="list-style-type: disc;">
+    <li>All patients aged 65 years or older </li>
+    <li>Patients aged 50 to 64 years who are judged by a clinician to be at higher risk of falling because of an underlying condition. <strong>[new 2013]</strong> </li>
+</ul>
+<p><strong>Assessment and Interventions</strong></p>
+<p>Ensure that aspects of the inpatient environment (including flooring, lighting, furniture and fittings such as hand holds) that could affect patients' risk of falling are systematically identified and addressed. <strong>[new 2013]</strong></p>
+<p>For patients at risk of falling in hospital (see recommendations above), consider a multifactorial assessment and a multifactorial intervention. <strong>[new 2013]</strong></p>
+<p>Ensure that any multifactorial assessment identifies the patient's individual risk factors for falling in hospital that can be treated, improved or managed during their expected stay. These may include:</p>
+<ul style="list-style-type: disc;">
+    <li>Cognitive impairment </li>
+    <li>Continence problems </li>
+    <li>Falls history, including causes and consequences (such as injury and fear of falling) </li>
+    <li>Footwear that is unsuitable or missing </li>
+    <li>Health problems that may increase their risk of falling </li>
+    <li>Medication </li>
+    <li>Postural instability, mobility problems and/or balance problems </li>
+    <li>Syncope syndrome </li>
+    <li>Visual impairment <strong>[new 2013]</strong> </li>
+</ul>
+<p>Ensure that any multifactorial intervention:</p>
+<ul style="list-style-type: disc;">
+    <li>Promptly addresses the patient's identified individual risk factors for falling in hospital <strong>and</strong> </li>
+    <li>Takes into account whether the risk factors can be treated, improved or managed during the patient's expected stay. <strong>[new 2013]</strong> </li>
+</ul>
+<p>Do not offer falls prevention interventions that are not tailored to address the patient's individual risk factors for falling. <strong>[new 2013]</strong></p>
+<p><strong>Information and Support</strong></p>
+<p>Provide relevant oral and written information and support for patients, and their family members and carers if the patient agrees. Take into account the patient's ability to understand and retain information. Information should include:</p>
+<ul style="list-style-type: disc;">
+    <li>Explaining about the patient's individual risk factors for falling in hospital </li>
+    <li>Showing the patient how to use the nurse call system and encouraging them to use it when they need help </li>
+    <li>Informing family members and carers about when and how to raise and lower bed rails </li>
+    <li>Providing consistent messages about when a patient should ask for help before getting up or moving about </li>
+    <li>Helping the patient to engage in any multifactorial intervention aimed at addressing their individual risk factors <strong>[new 2013]</strong> </li>
+</ul>
+<p>Ensure that relevant information is shared across services. Apply the principles in <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=http%3a%2f%2fpublications.nice.org.uk%2fpatient-experience-in-adult-nhs-services-improving-the-experience-of-care-for-people-using-adult-cg138%2fguidance%23continuity-of-care-and-relationships" title="NICE Web site">Patient experience in adult NHS services (NICE clinical guideline 138)</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> in relation to continuity of care. <strong>[new 2013]</strong></p>
+<p class="Note"><sup>1</sup> This refers to evidence reviewed in 2004.</p>
+<p class="Note"><sup>2</sup> The following text has been deleted from the 2004 recommendation: "Guidance on the use of vitamin D for fracture prevention will be contained in the forthcoming NICE clinical practice guideline on osteoporosis, which is currently under development." As yet there is no NICE guidance on the use of vitamin D for fracture prevention.</p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong>:</p>
+<p><strong>Strength of Recommendations</strong></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations labelled <strong>[new 2013]</strong> in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p>For all recommendations, NICE expects that there is discussion with the patient about the risks and benefits of the interventions, and their values and preferences. This discussion aims to help them to reach a fully informed decision (see also "Patient-centred care" in the original guideline document).</p>
+<p><strong>Interventions That Must (or Must Not) Be Used</strong></p>
+<p>The GDG usually uses "must" or "must not" only if there is a legal duty to apply the recommendation. Occasionally they use "must" (or "must not") if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><strong>Interventions That Should (or Should Not) Be Used &ndash; A "Strong" Recommendation</strong></p>
+<p>The GDG uses "offer" (and similar words such as "refer" or "advise") when they are confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost effective. The GDG uses similar forms of words (for example, "Do not offer&hellip;") when they are confident that an intervention will not be of benefit for most patients.</p>
+<p><strong>Interventions That Could Be Used</strong></p>
+<p>The GDG uses "consider" when they are confident that an intervention will do more good than harm for most patients, and be cost-effective, but other options may be similarly cost-effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p>
+<p><strong>Wording of 2004 Recommendations</strong></p>
+<p>NICE began using this approach to denote the strength of recommendations in guidelines that started development after publication of the 2009 version of "The guidelines manual" (January 2009). This does not apply to any recommendations ending <strong>[2004]</strong> (see the "Major Recommendations" field). In particular, for recommendations labelled<strong> [2004]</strong>, the word "consider" may not necessarily be used to denote the strength of the recommendation.</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>A care pathway for the recommendations in this guideline is available in the original guideline document. </li>
+    <li>A NICE pathway titled "Falls in Older People Overview" is available from the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=http%3a%2f%2fpathways.nice.org.uk%2fpathways%2ffalls-in-older-people" title="NICE Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Fall-related injuries</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Counseling</p>
+                    <p>Prevention</p>
+                    <p>Risk Assessment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Family Practice</p>
+                    <p>Geriatrics</p>
+                    <p>Internal Medicine</p>
+                    <p>Nursing</p>
+                    <p>Physical Medicine and Rehabilitation</p>
+                    <p>Preventive Medicine</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Allied Health Personnel</p>
+                    <p>Emergency Medical Technicians/Paramedics</p>
+                    <p>Health Care Providers</p>
+                    <p>Hospitals</p>
+                    <p>Nurses</p>
+                    <p>Patients</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                    <p>Psychologists/Non-physician Behavioral Health Clinicians</p>
+                    <p>Public Health Departments</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>To provide recommendations for the assessment and prevention of falls in older people </li>
+    <li>To extend and replace National Institute for Health and Care Excellence (NICE) clinical guideline 21 (published November 2004) </li>
+</ul></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>All people aged 65 or older </li>
+    <li>People aged 50 to 64 who are admitted to hospital and are judged by a clinician to be at higher risk of falling because of an underlying condition </li>
+</ul></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><div class="content_para"><p><strong>Preventing Falls in Older People</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Case/risk identification </li>
+    <li>Individualised multifactorial falls risk assessment
+    <ul style="list-style-type: disc;">
+        <li>Identification of falls history </li>
+        <li>Assessment of gait, balance and mobility, and muscle weakness </li>
+        <li>Assessment of osteoporosis risk </li>
+        <li>Assessment of the older person's perceived functional ability and fear relating to falling </li>
+        <li>Assessment of visual impairment </li>
+        <li>Assessment of cognitive impairment and neurological examination </li>
+        <li>Assessment of urinary incontinence </li>
+        <li>Assessment of home hazards </li>
+        <li>Cardiovascular examination and medication review </li>
+    </ul>
+    </li>
+    <li>Individualised multifactorial interventions
+    <ul style="list-style-type: disc;">
+        <li>Strength and balance training </li>
+        <li>Exercise in extended care settings </li>
+        <li>Home hazard assessment and safety intervention </li>
+        <li>Vision assessment and referral </li>
+        <li>Medication review with modification/withdrawal </li>
+        <li>Cardiac pacing </li>
+        <li>Encouraging the participation of older people in falls prevention programmes </li>
+        <li>Education and information giving </li>
+    </ul>
+    </li>
+</ol>
+<p class="Note"><strong>Note</strong>: The following interventions were considered but not recommended for falls prevention:</p>
+<ul class="contentListFont">
+    <li>Brisk walking </li>
+    <li>Low-intensity exercise combined with incontinence programme </li>
+    <li>Group exercise (untargeted) </li>
+    <li>Cognitive/behavioural interventions </li>
+    <li>Referral for correction of visual impairment </li>
+    <li>Vitamin D supplementation </li>
+    <li>Hip protectors </li>
+</ul>
+<p><strong>Preventing Falls in Older People During a Hospital Stay</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Predicting patients' risk of falling in hospital (fall risk prediction tools not recommended) </li>
+    <li>Assessment and interventions
+    <ul style="list-style-type: disc;">
+        <li>Ensuring that aspects of the inpatient environment that could affect patients' risk of falling are systematically identified and addressed </li>
+        <li>Multifactorial assessment and multifactorial intervention </li>
+        <li>Tailoring falls prevention intervention to the patient's individual risk </li>
+    </ul>
+    </li>
+    <li>Information and support for patients, and their family members and carers </li>
+</ol></div></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Rate of falls (and proportion of people who fall) </li>
+    <li>Impact of falls and complications as a consequence of falls </li>
+    <li>Mortality </li>
+    <li>Patient satisfaction and experience of falls prevention, interventions and strategies </li>
+    <li>Quality of life (for example, fear, confidence and functioning) </li>
+    <li>Activities of daily living </li>
+    <li>Adherence to falls prevention strategies (by patients, healthcare professionals and other staff) </li>
+    <li>Resource use and cost (for example, length of stay) </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Hand-searches of Published Literature (Primary Sources)</p>
+                    <p>Hand-searches of Published Literature (Secondary Sources)</p>
+                    <p>Searches of Electronic Databases</p>
+                    <p>Searches of Unpublished Data</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the Centre for Clinical Practice at the National Institute for Health and Care Excellence (NICE). See the "Availability of Companion Documents" field for the full version of this guidance.</p>
+<p>The methods used to develop this guideline were different for the different sections, because of the evolution of guideline development methodology. The section for all older people comprises the previous 2004 guideline (CG21), which has been maintained as far as possible in its original structure and style. The additional section for older people who are admitted to hospital contains new evidence and recommendations that were developed using The Guidelines Manual (2009). This has inevitably led to inconsistencies in style.</p>
+<p><span style="text-decoration: underline;"><strong>Previous 2004 Guideline</strong></span></p>
+<p>The following sources of evidence were used to inform the guideline:</p>
+<ul style="list-style-type: disc;">
+    <li>The Cochrane reviews: a) Interventions for the prevention of falls in older people and b) Hip protectors for the prevention of hip fractures </li>
+    <li>American Geriatric Society/British Geriatric Society (2001) clinical guidelines that were based on the systematic review Falls prevention interventions in the Medicare population </li>
+    <li>Analysis of epidemiological data relating to risk factors (National Collaborating Centre for Nursing and Supportive Care [NCC-NSC]) </li>
+    <li>Reviews of assessment processes, tools, tests and instruments for identifying those at risk (NCC-NSC) </li>
+    <li>Review of studies examining patients' views and experiences of falls prevention programmes and methods to maximise participation (NCC-NSC) </li>
+    <li>Reviews of studies on fear of falling and interventions to reduce the psychosocial consequences of falling (NCC-NSC) </li>
+    <li>Reviews of the evidence on costs and economic evaluations (School of Health and Related Research [SCHARR]) </li>
+    <li>Reviews of rehabilitation strategies (NCC-NSC) </li>
+</ul>
+<p>Details on the methods and the main results for each review are reported in Sections 3.3.1 to 3.3.14 of the full version of the original guideline document.</p>
+<p><strong><span style="text-decoration: underline;">Updated 2013 Guideline</span></strong></p>
+<p><strong>Scoping Searches</strong></p>
+<p>Scoping searches were undertaken on websites and databases in August 2011 to provide information for scope development and project planning. Browsing or simple search strategies were employed. See Appendix B in the full version of the original guideline document for a list of websites and databases searched.</p>
+<p><strong>Main Searches</strong></p>
+<p><em>Sources Searched for the Guideline</em></p>
+<ul style="list-style-type: disc;">
+    <li>Cochrane Database of Systematic Reviews &ndash; CDSR (Wiley) </li>
+    <li>Cochrane Central Register of Controlled Trials &ndash; CENTRAL (Wiley) </li>
+    <li>Database of Abstracts of Reviews of Effects &ndash; DARE (Wiley and CRD Web site) </li>
+    <li>Health Technology Assessment Database &ndash; HTA (Wiley and CRD Web site) </li>
+    <li>EMBASE (Ovid) </li>
+    <li>MEDLINE (Ovid) </li>
+    <li>MEDLINE In-Process (Ovid) </li>
+</ul>
+<p><strong>Identification of Evidence for Clinical Question</strong></p>
+<p>The searches were conducted between November 2011 and March 2012. The aim of the searches was to identify evidence for each of the clinical questions being asked. The MEDLINE search strategies are presented in Appendix B of the full version of the guideline (see the "Availability of Companion Documents" field). These were translated for use in all of the other databases.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Levels of Evidence (2004 Guideline)</strong></p>
+<p><strong>I</strong>: Evidence from meta-analysis of randomised controlled trials or at least one randomised controlled trial</p>
+<p><strong>II</strong>: Evidence from at least one controlled trial without randomisation or at least one other type of quasi-experimental study</p>
+<p><strong>III</strong>: Evidence from non-experimental descriptive studies, such as comparative studies, correlation studies, and case-control studies</p>
+<p><strong>IV</strong>: Evidence from expert committee reports or opinions and/or clinical experience of respected authorities</p>
+<p><strong>Overall Quality of Outcome Evidence in GRADE (Grading of Recommendations Assessment, Development and Evaluation) (2013 Updated Guideline)</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Overall Quality of Outcome Evidence in GRADE (Grading of Recommendations Assessment, Development and Evaluation)">
+    <thead>
+        <tr>
+            <th valign="top" scope="col">Level</th>
+            <th valign="top" scope="col">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign="top" scope="row">High</th>
+            <td valign="top">Further research is very unlikely to change confidence in the estimate of effect</td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Moderate</th>
+            <td valign="top">Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate</td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Low</th>
+            <td valign="top">Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate</td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Very Low</th>
+            <td valign="top">Any estimate of effect is very uncertain</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Meta-Analysis</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the Centre for Clinical Practice at the National Institute for Health and Care Excellence (NICE). See the "Availability of Companion Documents" field for the full version of this guidance.</p>
+<p>The methods used to develop this guideline were different for the different sections, because of the evolution of guideline development methodology. The section for all older people comprises the previous 2004 guideline (CG21), which has been maintained as far as possible in its original structure and style. The additional section for older people who are admitted to hospital contains new evidence and recommendations that were developed using The guidelines manual (2009). This has inevitably led to inconsistencies in style. For example, Grading of Recommendations Assessment, Development, and Evaluation (GRADE) methodology is used in the newer sections of the guideline to assess the quality and strength of the evidence and recommendations, whereas in the older 2004 section of guidelines, the evidence and recommendations are graded using the old evidence hierarchy.</p>
+<p><strong>Previous 2004 Guideline Methods</strong></p>
+<p>Questions addressed by the evidence reviews included:</p>
+<ul style="list-style-type: disc;">
+    <li>What is the best method of identifying those at highest risk of a first or subsequent fall? (Source of evidence: risk factor evidence review) </li>
+    <li>What assessment tool or process should be used to identify modifiable risk factors for falling? (Source of evidence: assessment evidence review) </li>
+    <li>What are the most clinically effective and cost effective methods for falls prevention? (Source of evidence: clinical and cost effectiveness reviews) </li>
+    <li>What interventions are there to reduce the psychosocial consequences of falling? (Source of evidence: Cochrane review) </li>
+    <li>What is the evidence for the effectiveness of hip protectors? (Cochrane review) </li>
+    <li>What is the best method for maximising participation and compliance in falls prevention programmes and modification of specific risk factors, for example, medication withdrawal/review? (Source of evidence: patients' views and experiences) </li>
+    <li>Are falls prevention programmes acceptable to patients? (Source of evidence: patients' views and experiences review) </li>
+    <li>What is the best method of rehabilitation/intervention/process of care following a fall requiring treatment? (Source of evidence: rehabilitation review, hip protector review and Cochrane falls prevention review) </li>
+</ul>
+<p>The methods and the main results for each review are reported in Sections 3.3.1 to 3.3.14 of the full versions of the original guideline document. The detailed evidence summaries &ndash; including economic evidence, where relevant &ndash; evidence statements, Guideline Development Group considerations and recommendations are in Section 3.4 of the full version of the guideline.</p>
+<p><strong>Updated 2013 Guideline Methods</strong></p>
+<p>Questions addressed by the evidence reviews included:</p>
+<ul style="list-style-type: disc;">
+    <li>What risk prediction tool(s) or process(es) should be used to identify modifiable and non-modifiable risk factors for falling for patients in hospital? Does this method vary by inpatient setting? </li>
+    <li>What interventions reduce older patients' risk of falling and/or the severity of a fall in hospital, compared with usual care? Which interventions are the most effective? Does the intervention vary by inpatient setting? </li>
+    <li>What are the education and information needs of patients and their family members and carers after a hospital-based falls risk assessment, or a fall in hospital? </li>
+</ul>
+<p>The methods and the main results for each review are reported in Section 4 of the full version of the original guideline document.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the Centre for Clinical Practice at the National Institute for Health and Care Excellence (NICE). See the "Availability of Companion Documents" field for the full version of this guidance.</p>
+<p>This guideline is an extension to the remit of NICE clinical guideline 21 (published November 2004) to include assessing and preventing falls in older people during a hospital stay (inpatients).</p>
+<p>The 2 main parts of the guideline are as follows:</p>
+<ul style="list-style-type: disc;">
+    <li>Recommendations for all older people (Sections 1.1 and 3 of the full version of the guideline). Evidence on the assessment and prevention of falls in older people has not been updated and the original 2004 recommendations remain unchanged (except for some minor wording changes for the purposes of clarification only). This part was originally developed by the National Collaborating Centre for Nursing and Supportive Care (now part of the National Clinical Guideline Centre) and published by the Royal College of Nursing. </li>
+    <li>Additional recommendations for older people who are admitted to hospital (Sections 1.2 and 4 of the full version of the guideline). New evidence has been reviewed and new recommendations have been made for assessing and preventing falls in older people during a hospital stay. This part was developed by the Internal Clinical Guidelines Programme in the Centre for Clinical Practice at NICE. </li>
+</ul>
+<p><strong>Methods Used to Develop the Guideline</strong></p>
+<p>The methods used to develop this guideline were different for the different sections, because of the evolution of guideline development methodology.</p>
+<p>The section for all older people (section 3 of the full version of the guideline) comprises the previous 2004 guideline (CG21), which has been maintained as far as possible in its original structure and style (although it has been renumbered to maintain consistency throughout the entire guideline). The additional section for older people who are admitted to hospital (section 4 of the full version of the guideline) contains new evidence and recommendations that were developed using The guidelines manual (2009). This has inevitably led to inconsistencies in style. For example, Grading of Recommendations Assessment, Development, and Evaluation (GRADE) methodology is used in section 4 to assess the quality and strength of the evidence and recommendations, whereas in section 3 the evidence and recommendations are graded using the old evidence hierarchy. In addition, in section 3 (developed in 2004) older people are defined as those aged 65 and older, but more recently the Department of Health has recognised that there are different interpretations of 'older people', some of which include people from the age of 50. Section 4 of the guideline reflects this, and the new recommendations also cover people aged between 50 and 64. The different sections of the guideline contain details of the methodology used at the time of development.</p>
+<p>It is important to emphasise that although guideline methodology has changed over time, all of the 2004 recommendations are just as relevant and important now as they were when they were originally published.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">2004 Guideline Strength of Recommendations</span></strong></p>
+<p><strong>Grade A</strong> - Directly based on category I evidence</p>
+<p><strong>Grade B</strong> - Directly based on category II evidence or extrapolated recommendation from category I evidence</p>
+<p><strong>Grade C</strong> - Directly based on category III evidence or extrapolated recommendation from category I or II evidence</p>
+<p><strong>Grade D</strong> - Directly based on category IV evidence or extrapolated recommendation from category I, II, or III evidence</p>
+<p><span style="text-decoration: underline;"><strong>2013 Guideline Strength of Recommendations</strong></span></p>
+<p>Some recommendations can be made with more certainty than others. The Guideline Development Group (GDG) makes a recommendation based on the trade-off between the benefits and harms of an intervention, taking into account the quality of the underpinning evidence. For some interventions, the GDG is confident that, given the information it has looked at, most patients would choose the intervention. The wording used in the recommendations labelled <strong>[new 2013]</strong> in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation).</p>
+<p><strong>Interventions That Must (or Must Not) Be Used</strong></p>
+<p>The GDG usually uses "must" or "must not" only if there is a legal duty to apply the recommendation. Occasionally they use "must" (or "must not") if the consequences of not following the recommendation could be extremely serious or potentially life threatening.</p>
+<p><strong>Interventions That Should (or Should Not) Be Used &ndash; A "Strong" Recommendation</strong></p>
+<p>The GDG uses "offer" (and similar words such as "refer" or "advise") when they are confident that, for the vast majority of patients, an intervention will do more good than harm, and be cost-effective. The GDG uses similar forms of words (for example, "Do not offer&hellip;") when they are confident that an intervention will not be of benefit for most patients.</p>
+<p><strong>Interventions That Could Be Used</strong></p>
+<p>The GDG uses "consider" when they are confident that an intervention will do more good than harm for most patients, and be cost-effective, but other options may be similarly cost-effective. The choice of intervention, and whether or not to have the intervention at all, is more likely to depend on the patient's values and preferences than for a strong recommendation, and so the healthcare professional should spend more time considering and discussing the options with the patient.</p>
+<p><strong>Wording of 2004 Recommendations</strong></p>
+<p>National Institute for Health and Care Excellence (NICE) began using this approach to denote the strength of recommendations in guidelines that started development after publication of the 2009 version of "The guidelines manual" (January 2009). This does not apply to any recommendations ending <strong>[2004]</strong> (see the "Major Recommendations" field). In particular, for recommendations labeled <strong>[2004]</strong>, the word "consider" may not necessarily be used to denote the strength of the recommendation.</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">2004 Guideline Cost Analysis</span></strong></p>
+<p><strong>Cost-Effectiveness Review and Modelling: Methods and Results</strong></p>
+<p>To fulfil the Department of Health (DH) and Welsh Assembly Government remit, the National Institute for Health and Care Excellence (NICE) requested that the cost-effectiveness evidence of interventions for the assessment and prevention of falls in older people be assessed. In accordance with the objectives of the scope, cost-effectiveness was addressed in the following way:</p>
+<ul style="list-style-type: disc;">
+    <li>A comparison of the cost and cost-effectiveness of falls prevention interventions compared with usual care, other intentions or no intervention </li>
+    <li>An investigation of which types of falls prevention programmes are the most cost-effective. </li>
+</ul>
+<p>The aim of the review was twofold. Firstly, to identify economic evaluations that had been conducted alongside trials and secondly, to identify evidence that could be used in cost-effectiveness modelling.</p>
+<p><strong>Summary of the Health Economics Evidence</strong></p>
+<p>Although clinical and cost-effectiveness data exists for falls prevention, there are no UK studies. The quality of reporting in these studies is often patchy, as some costs and benefits are reported and not others. The reported studies did not use the same costing methods or always report incremental costs or discounting.</p>
+<p>Those from countries other than the UK have limited applicability as the health care systems are often very different. Even in the small number of studies included, few comparisons can be made between studies due to the differences in methodology.</p>
+<p>Identifying those individuals who may benefit most from an intervention is not always reported: who should be targeted for screening; when screening should take place; and at what intervals is an area of considerable uncertainty in terms of costs and benefits.</p>
+<p>There is a lack of cost-effectiveness evidence in this area and therefore, the guideline development group (GDG) would recommend further research.</p>
+<p><strong>The Cost-Effectiveness of Interventions to Prevent Falls in the Elderly: Modelling Report</strong></p>
+<p>Cost-effectiveness analyses of two falls prevention strategies were reported; exercise programmes for at risk individuals dwelling in the community and multifactorial interventions for at risk individuals dwelling in the community.</p>
+<p>The central estimates for the incremental cost-effectiveness ratio (ICER) for both the multifactorial and exercise intervention indicate that both interventions are cost-effective, compared to doing nothing. However, these results most be interpreted with great caution. The bootstrapped confidence intervals around the ICERs are large, reflecting the great uncertainty surrounding the evidence for the effect, and indeed the costs of providing the interventions and the costs of treating fall related injuries.</p>
+<p>For further results and discussion please refer to Section 3.4 of the full version of the original guideline document.</p>
+<p><strong><span style="text-decoration: underline;">2013 Guideline Cost Analysis</span></strong></p>
+<p><strong>Inpatient Falls Prevention Interventions: Health Economic Modeling</strong></p>
+<p>In the absence of relevant published literature, an original health economic De novo model was constructed.</p>
+<p><em>Decision Problem</em></p>
+<p>The health economic analysis addressed one question from the guideline scope, based on GDG prioritisation:</p>
+<ul style="list-style-type: disc;">
+    <li>What is the cost-effectiveness of multifactorial interventions to reduce the risk and/or severity of inpatient falls for patients aged 65+, compared with usual care (assumed to be no actions to prevent falls)? </li>
+</ul>
+<p>The GDG recommended that single interventions should not be used to reduce the risk and/or severity of inpatient falls. Therefore, only multifactorial interventions were considered for health economic modelling.</p>
+<p><em>Model Structure</em></p>
+<p>The model used a discrete event (or individual patient) structure, capturing the costs and benefits associated with a series of events and discrete health states. A discrete event model was used to accurately model each patient's falls history, variable lifespan and differing time in each state (for more details, see Appendix K of the full version of the original guideline document.</p>
+<p><em>Principal Findings</em></p>
+<p>It would appear that, if inpatient falls can be prevented and/or their severity reduced, this is very likely to be a cost-effective course of action.</p>
+<p>However, in both settings, the difference in quality-adjusted life-years (QALYs) is small, as can be seen in Figure 3 of the full version of the original guideline document. The changes represent less than 0.06% of lifetime QALYs in the model. The cost differences are slightly bigger, but still less than 0.7% of an average patient's total lifetime costs.</p>
+<p>A difference of 0.003 QALYs or less (1 quality-adjusted day or less) may be viewed as clinically not relevant over an average lifetime of ten years. However, the average experience of the simulated cohort contains a great heterogeneity of experience, and some simulated patients will have derived very appreciable benefit from having falls averted during their hospitalisation(s). Certainly, the 25% reduction in fall rates (taken from the meta-analysis) was thought to be clinically significant by the GDG. Cost differences were small but generally indicated savings in both settings. Therefore, the intervention can probably be said to be cost-effective in the acute and non-acute settings, compared with no action to reduce the rate and/or severity of inpatient falls.</p>
+<p>Refer to Section 4.4.4 of the full version of the original guideline for further discussion of this economic model.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>The guideline was validated through two consultations.</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>The first draft of the guideline (the full guideline, National Institute for Health and Care Excellence [NICE] guideline, and Quick Reference Guide) were consulted with Stakeholders and comments were considered by the Guideline Development Group (GDG). </li>
+    <li>The final consultation draft of the Full guideline, the NICE guideline and the Information for the Public were submitted to stakeholders for final comments. </li>
+</ol>
+<p>The final draft was submitted to the Guideline Review Panel for review prior to publication.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of evidence supporting the recommendations is not specifically stated.</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>Implementation of the recommendations may ensure that older people at risk from falls receive appropriate management and care to prevent the occurrence of falls, improve outcomes, and minimize recurrence of injury due to falls.</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>This guidance represents the view of the National Institute for Health and Care Excellence (NICE), which was arrived at after careful consideration of the evidence available. Healthcare professionals are expected to take it fully into account when exercising their clinical judgement. However, the guidance does not override the individual responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or guardian or carer, and informed by the summary of product characteristics of any drugs. </li>
+    <li>Implementation of this guidance is the responsibility of local commissioners and/or providers. Commissioners and providers are reminded that it is their responsibility to implement the guidance, in their local context, in light of their duties to have due regard to the need to eliminate unlawful discrimination, advance equality of opportunity and foster good relations. Nothing in this guidance should be interpreted in a way that would be inconsistent with compliance with those duties. </li>
+    <li>Patients and healthcare professionals have rights and responsibilities as set out in the National Health Service (NHS) Constitution for England &ndash; all NICE guidance is written to reflect these. Treatment and care should take into account individual needs and preferences. Patients should have the opportunity to make informed decisions about their care and treatment, in partnership with their healthcare professionals. Healthcare professionals should follow the Department of Health's advice on consent. If someone does not have the capacity to make decisions, healthcare professionals should follow the code of practice that accompanies the Mental Capacity Act and the supplementary code of practice on deprivation of liberty safeguards. In Wales, healthcare professionals should follow advice on consent from the Welsh Government. </li>
+    <li>NICE has produced guidance on the components of good patient experience in adult NHS services. All healthcare professionals should follow the recommendations in Patient experience in adult NHS services. </li>
+    <li>For all recommendations, NICE expects that there is discussion with the service user about the risks and benefits of the interventions, and their values and preferences. This discussion aims to help them to reach a fully informed decision (see also Patient-centred care). </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>The National Institute for Health and Care Excellence (NICE) has developed tools to help organisations implement this guidance. These are available on the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=http%3a%2f%2fguidance.nice.org.uk%2fCG161" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (see also the "Availability of Companion Documents" field).</p>
+<p><strong><span style="text-decoration: underline;">Key Priorities for Implementation</span></strong></p>
+<p>The following recommendations have been identified as priorities for implementation.</p>
+<p><strong>Preventing Falls in Older People</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Older people in contact with healthcare professionals should be asked routinely whether they have fallen in the past year and asked about the frequency, context and characteristics of the fall(s). <strong>[2004]</strong> </li>
+    <li>Older people who present for medical attention because of a fall, or report recurrent falls in the past year, or demonstrate abnormalities of gait and/or balance should be offered a multifactorial falls risk assessment. This assessment should be performed by a healthcare professional with appropriate skills and experience, normally in the setting of a specialist falls service. This assessment should be part of an individualised, multifactorial intervention. <strong>[2004]</strong> </li>
+</ul>
+<p><strong>Preventing Falls in Older People during a Hospital Stay</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Regard the following groups of inpatients as being at risk of falling in hospital and manage their care according to recommendations for assessment and interventions:
+    <ul style="list-style-type: disc;">
+        <li>All patients aged 65 years or older </li>
+        <li>Patients aged 50 to 64 years who are judged by a clinician to be at higher risk of falling because of an underlying condition <strong>[new 2013]</strong> </li>
+    </ul>
+    </li>
+    <li>For patients at risk of falling in hospital, consider a multifactorial assessment and a multifactorial intervention. <strong>[new 2013]</strong> </li>
+    <li>Ensure that any multifactorial assessment identifies the patient's individual risk factors for falling in hospital that can be treated, improved or managed during their expected stay. These may include:
+    <ul style="list-style-type: disc;">
+        <li>Cognitive impairment </li>
+        <li>Continence problems </li>
+        <li>Falls history, including causes and consequences (such as injury and fear of falling) </li>
+        <li>Footwear that is unsuitable or missing </li>
+        <li>Health problems that may increase their risk of falling </li>
+        <li>Medication </li>
+        <li>Postural instability, mobility problems and/or balance problems </li>
+        <li>Syncope syndrome </li>
+        <li>Visual impairment <strong>[new 2013]</strong> </li>
+    </ul>
+    </li>
+</ul></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Audit Criteria/Indicators</p>
+                    <p>Clinical Algorithm</p>
+                    <p>Foreign Language Translations</p>
+                    <p>Mobile Device Resources</p>
+                    <p>Patient Resources</p>
+                    <p>Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>National Institute for Health and Care Excellence (NICE). Falls: assessment and prevention of falls in older people. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. 33 p.&nbsp;(Clinical guideline; no. 161).&nbsp;</td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2004 Jun (revised 2013 Jun)</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>National Institute for Health and Care Excellence (NICE) - National Government Agency [Non-U.S.]</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>National Institute for Health and Care Excellence (NICE)</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Guideline Development Group</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Guideline Development Group Members</em>: Damien Longson (<em>Chair</em>), Consultant Liaison Psychiatrist, Manchester Mental Health &amp; Social Care Trust; Harry Allen, Consultant Psychiatrist for the Elderly, Manchester Mental Health and Social Care Trust; Senel Arkut, Strategic &amp; Operational Social Care Manager, London Borough of Brent; Elizabeth Caroline Brown, Principle Physiotherapist in Medicine, University Hospital of North Staffordshire; Harm Gordijn, Falls Prevention Co-ordinator, South Warwickshire NHS Foundation Trust; Frances Healy, Head of Clinical Review and Response, National Patient Safety Agency; Ray Jankowski, Deputy Director of Public Health, NHS Hertfordshire PCT; Rosemary Leaf, Patient and carer member; JoAnne Panitzke-Jones, Senior Commissioning Manager, Torbay Care Trust; Opinder Sahota, Professor in Orthogeriatric Medicine &amp; Consultant Physician; Lindsay Smith, General practitioner, East Somerset Research Consortium; Cameron Swift, Emeritus Professor of Health Care of the Elderly &amp; Honorary Emeritus Consultant Physician in General Internal Medicine; John Taylor, Patient and carer member; Julie Windsor, Clinical Nurse Specialist, Portsmouth Hospitals NHS Trust</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>All members of the Guideline Development Group (GDG) were required to make formal declarations of interest at the outset, which were recorded. GDG members were also asked to declare interests at the beginning of each GDG meeting. This information is recorded in the meeting minutes and kept on file at the National Collaborating Centre for Nursing and Supportive Care (NCC-NSC). GDG declarations of interest can be found in Appendix A of the full version of the original guideline document (see the "Availability of Companion Documents" field).</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: National Collaborating Centre for Nursing and Supportive Care. Clinical practice guideline for the assessment and prevention of falls in older people. London (UK): National Institute for Clinical Excellence (NICE); 2004 Jun. 185 p.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Electronic copies: Available from the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fCG161" title="National Institute for Health and Care Excellence (NICE) Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. Also available for download in ePub and eBook formats from the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fCG161" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Falls: assessment and prevention of falls in older people. Full guideline. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. 315 p. (Clinical guideline; no. 161). Electronic copies: Available from the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg161%2fevidence%2ffalls-full-guidance-190033741" title="NICE Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Falls: assessment and prevention of falls in older people. Appendices. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. Various p. (Clinical guideline; no. 161). Electronic copies: Available from the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg161%2fevidence" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Falls: assessment and prevention of falls in older people. Appendices from CG21. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. Various p. (Clinical guideline; no. 161). Electronic copies: Available from the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg161%2fevidence" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Falls: assessment and prevention of falls in older people. Baseline assessment tool. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. (Clinical guideline; no. 161). Electronic copies: Available from the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg161%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Falls: assessment and prevention of falls in older people. Clinical audit tools. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. (Clinical guideline; no. 161). Electronic copies: Available from the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg161%2fresources">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Falls: assessment and prevention of falls in older people. Costing statement. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. 8 p. (Clinical guideline; no. 161). Electronic copies: Available from the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg161%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Falls: assessment and prevention of falls in older people. Podcast. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. (Clinical guideline; no. 161). Electronic copies: Available from the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg161%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Falls in older people. Overview. NICE pathway. London (UK): National Institute for Health and Care Excellence (NICE). 2013 Jun. (Clinical guideline; no. 161). Electronic copies: Available from the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=http%3a%2f%2fpathways.nice.org.uk%2fpathways%2ffalls-in-older-people" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>The following is available:</p>
+<ul style="list-style-type: disc;">
+    <li>Preventing falls in older people. Information for the public. London (UK): National Institute for Health and Care Excellence (NICE); 2013 Jun. (Clinical guideline; no. 161). Available from the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg161%2fifp%2fchapter%2fAbout-this-information" title="NICE Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. Also available for download in ePub and eBook formats from the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg161%2fifp%2fchapter%2fAbout-this-information" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. Also available in Welsh from the <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg161%2fresources%2fatal-achosion-o-gwympo-ymhlith-pobl-hyn-gwybodaeth-ir-cyhoedd-190032445" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p class="Disclaimer">Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI on February 16, 2005. The information was verified by the guideline developer on March 7, 2005. This summary was updated by ECRI Institute on October 4, 2013.</p>
+<p>The National Institute for Health and Care Excellence (NICE) has granted the National Guideline Clearinghouse (NGC) permission to include summaries of their clinical guidelines with the intention of disseminating and facilitating the implementation of that guidance. NICE has not yet verified this content to confirm that it accurately reflects that original NICE guidance and therefore no guarantees are given by NICE in this regard. All NICE clinical guidelines are prepared in relation to the National Health Service in England and Wales. NICE has not been involved in the development or adaptation of NICE guidance for use in any other country. The full versions of all NICE guidance can be found at <a href="/web/20180712190225/https://www.guideline.gov/Home/Disclaimer?id=46931&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk" title="NICE Web site">www.nice.org.uk</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190225im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712190225/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712190225/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712190225/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712190225/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712190225/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712190225/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712190225/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712190225/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712190225/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712190225/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712190225/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712190225/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712190225/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712190225/https://www.guideline.gov/disclaimer?id=46931&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712190225im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712190225im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712190225/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712190225/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712190225/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712190225/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712190225/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712190225/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712190225/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712190225/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712190225/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712190225/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712190225/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712190225/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712190225/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712190225/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712190225/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712190225/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712190225/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712190225/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712190225/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712190225im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712190225im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712190225/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712190225im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712190225im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712190225/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712190225js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712190225js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 19:02:25 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:30:43 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 125.342 (3)
+  esindex: 0.006
+  captures_list: 142.875
+  CDXLines.iter: 13.917 (3)
+  PetaboxLoader3.datanode: 95.956 (4)
+  exclusion.robots: 0.153
+  exclusion.robots.policy: 0.141
+  RedisCDXSource: 1.019
+  PetaboxLoader3.resolve: 238.07
+  load_resource: 266.58
+-->

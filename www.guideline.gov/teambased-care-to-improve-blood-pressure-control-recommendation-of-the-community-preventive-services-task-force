@@ -1,0 +1,933 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=341;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Team-based care to improve blood pressure control: recommendation of the Community Preventive Services Task Force. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712210231im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712210231im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712210231im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712210231im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712210231/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712210231im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712210231cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712210231js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712210231if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712210231/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712210231if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712210231/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712210231/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712210231/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712210231/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712210231im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712210231im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712210231im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712210231/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712210231/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712210231/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712210231/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712210231/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712210231/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712210231/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712210231/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712210231/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712210231/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712210231/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712210231/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712210231/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712210231/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712210231/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712210231/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712210231/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712210231/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712210231/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712210231/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712210231/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010799</li>
+            <li>2014 Jul
+            </li>            
+                                </ul>
+        <div>
+                <h1>Team-based care to improve blood pressure control: recommendation of the Community Preventive Services Task Force.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712210231/https://www.guideline.gov/search?f_Guideline_Developer_String=Community%20Preventive%20Services%20Task%20Force&amp;fLockTerm=Community%2BPreventive%2BServices%2BTask%2BForce">Community Preventive Services Task Force</a></li>
+                        <li>   
+                                <a id="2584" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Community Preventive Services Task Force. Team-based care to improve blood pressure control: recommendation of the Community Preventive Services Task Force. Am J Prev Med. 2014 Jul;47(1):100-2. [6 references] <a href="https://web.archive.org/web/20180712210231/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24933493" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712210231im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712210231/https://www.guideline.gov/Home/Disclaimer?id=49614&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.thecommunityguide.org%252fcvd%252fcvd-AJPM-recs-team-based-care.pdf">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210231im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712210231/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712210231/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712210231/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712210231/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712210231/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712210231/https://www.guideline.gov/search?f_ICD9CM_CUI=C0007222&amp;fLockTerm=Cardiovascular+disease%2c+unspecified">Cardiovascular disease, unspecified</a>
+ (429.2), <a href="/web/20180712210231/https://www.guideline.gov/search?f_ICD9CM_CUI=C0020538&amp;fLockTerm=Complications+affecting+other+specified+body+systems%2c+not+elsewhere+classified%2c+hypertension">Complications affecting other specified body systems, not elsewhere classified, hypertension</a>
+ (997.91)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712210231/https://www.guideline.gov/search?f_MSH_CUI=C0007222&amp;fLockTerm=Cardiovascular+Diseases">Cardiovascular Diseases</a>
+, <a href="/web/20180712210231/https://www.guideline.gov/search?f_MSH_CUI=C0020538&amp;fLockTerm=Hypertension">Hypertension</a>
+, <a href="/web/20180712210231/https://www.guideline.gov/search?f_MSH_CUI=C2364172&amp;fLockTerm=Medication+Adherence">Medication Adherence</a>
+, <a href="/web/20180712210231/https://www.guideline.gov/search?f_MSH_CUI=C1611232&amp;fLockTerm=Medication+Therapy+Management">Medication Therapy Management</a>
+, <a href="/web/20180712210231/https://www.guideline.gov/search?f_MSH_CUI=C0030679&amp;fLockTerm=Patient+Care+Team">Patient Care Team</a>
+, <a href="/web/20180712210231/https://www.guideline.gov/search?f_MSH_CUI=C1321605&amp;fLockTerm=Patient+Compliance">Patient Compliance</a>
+, <a href="/web/20180712210231/https://www.guideline.gov/search?f_MSH_CUI=C0036592&amp;fLockTerm=Self+Care">Self Care</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712210231/https://www.guideline.gov/search?f_MTH_CUI=C2364172&amp;fLockTerm=Adherence+To+Medication+Regime">Adherence To Medication Regime</a>
+, <a href="/web/20180712210231/https://www.guideline.gov/search?f_MTH_CUI=C0007222&amp;fLockTerm=Cardiovascular+Diseases">Cardiovascular Diseases</a>
+, <a href="/web/20180712210231/https://www.guideline.gov/search?f_MTH_CUI=C1321605&amp;fLockTerm=Compliance+behavior">Compliance behavior</a>
+, <a href="/web/20180712210231/https://www.guideline.gov/search?f_MTH_CUI=C0020538&amp;fLockTerm=Hypertensive+disease">Hypertensive disease</a>
+, <a href="/web/20180712210231/https://www.guideline.gov/search?f_MTH_CUI=C0036592&amp;fLockTerm=Self-care+interventions">Self-care interventions</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712210231/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1321605&amp;fLockTerm=Compliance+behavior">Compliance behavior</a>
+ (405078008), <a href="/web/20180712210231/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0007222&amp;fLockTerm=Disorder+of+cardiovascular+system">Disorder of cardiovascular system</a>
+ (49601007), <a href="/web/20180712210231/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0020538&amp;fLockTerm=Hypertensive+disorder">Hypertensive disorder</a>
+ (38341003), <a href="/web/20180712210231/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2364172&amp;fLockTerm=Medication+compliance">Medication compliance</a>
+ (182884001), <a href="/web/20180712210231/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2364172&amp;fLockTerm=Medication+compliance">Medication compliance</a>
+ (418633004), <a href="/web/20180712210231/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0036592&amp;fLockTerm=Self-care+interventions">Self-care interventions</a>
+ (384758001)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712210231/https://www.guideline.gov/summaries/downloadcontent/ngc-10799?contentType=pdf" class="pdf">.PDF 90.5 kb</a></li>
+                            <li><a href="/web/20180712210231/https://www.guideline.gov/summaries/downloadcontent/ngc-10799?contentType=word" class="word">Word Document 291.5 kb</a></li>
+                            <li><a href="/web/20180712210231/https://www.guideline.gov/summaries/downloadcontent/ngc-10799?contentType=xml" class="xml">.XML 38.6 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712210231/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/49614/teambased-care-to-improve-blood-pressure-control-recommendation-of-the-community-preventive-services-task-force" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712210231/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/49614/teambased-care-to-improve-blood-pressure-control-recommendation-of-the-community-preventive-services-task-force" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712210231/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/49614/teambased-care-to-improve-blood-pressure-control-recommendation-of-the-community-preventive-services-task-force&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712210231/mailto:/?Subject=AHRQ: Team-based care to improve blood pressure control: recommendation of the Community Preventive Services Task Force.&amp;body=https://www.guideline.gov/summaries/summary/49614/teambased-care-to-improve-blood-pressure-control-recommendation-of-the-community-preventive-services-task-force" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Team-based care to improve blood pressure control: recommendation of the Community Preventive Services Task Force. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Jul 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712210231/https://www.guideline.gov/summaries/citedownload/49614?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712210231/https://www.guideline.gov/summaries/citedownload/49614?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712210231/https://www.guideline.gov/summaries/citedownload/49614?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712210231/https://www.guideline.gov/summaries/citedownload/49614?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712210231/https://www.guideline.gov/summaries/citedownload/49614?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712210231/https://www.guideline.gov/summaries/citedownload/49614">RefWorks</a></li>
+                            <li><a href="/web/20180712210231/https://www.guideline.gov/summaries/citedownload/49614?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="49614" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>Definitions for the categories of task force recommendations and evidence (<strong>recommended</strong>, <strong>recommended against</strong>, or <strong>insufficient evidence</strong>) are provided at the end of the "Major Recommendations" field.</p>
+<p><strong><span style="text-decoration: underline;">Task Force Findings</span></strong></p>
+<p>The Community Preventive Services Task Force recommends team-based care to improve blood pressure (BP)&nbsp;control on the basis of strong evidence of effectiveness in improving the proportion of patients with controlled BP and reducing systolic BP (SBP) and diastolic BP (DBP). Evidence was considered <strong>strong</strong> based on findings from 80 studies of team-based care organized primarily with nurses and pharmacists working in collaboration with primary care providers, other professionals, and patients. The economic evidence indicates that team-based care is cost effective.</p>
+<p>A summary of the Task Force finding and rationale is available at <a href="/web/20180712210231/https://www.guideline.gov/Home/Disclaimer?id=49614&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.thecommunityguide.org%2fcvd%2fteambasedcare.html" title="Community Guide Web site">www.thecommunityguide.org/cvd/teambased care.html</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210231im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong></p>
+<p><strong>Categories of Task Force Recommendations and Findings</strong></p>
+<p>The Task Force uses the terms below to describe its findings.</p>
+<p><em>Recommended</em></p>
+<p>The systematic review of available studies provides strong or sufficient evidence that the intervention is effective.</p>
+<p>The categories of "strong" and "sufficient" evidence reflect the Task Force's degree of confidence that an intervention has beneficial effects. They do not directly relate to the expected magnitude of benefits. The categorization is based on several factors, such as study design, number of studies, and consistency of the effect across studies.</p>
+<p><em>Recommended Against</em></p>
+<p>The systematic review of available studies provides strong or sufficient evidence that the intervention is harmful or not effective.</p>
+<p><em>Insufficient Evidence</em></p>
+<p>The available studies do not provide sufficient evidence to determine if the intervention is, or is not, effective. This does NOT mean that the intervention does not work. It means that additional research is needed to determine whether or not the intervention is effective.</p>
+<p>Task Force findings may include a rationale statement that explains why they made a recommendation or arrived at other conclusions.</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Hypertension </li>
+    <li>Cardiovascular disease (CVD)</li>
+</ul></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Counseling</p>
+                    <p>Management</p>
+                    <p>Prevention</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Cardiology</p>
+                    <p>Family Practice</p>
+                    <p>Internal Medicine</p>
+                    <p>Nursing</p>
+                    <p>Preventive Medicine</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Allied Health Personnel</p>
+                    <p>Dietitians</p>
+                    <p>Health Care Providers</p>
+                    <p>Hospitals</p>
+                    <p>Nurses</p>
+                    <p>Patients</p>
+                    <p>Pharmacists</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                    <p>Public Health Departments</p>
+                    <p>Social Workers</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To evaluate the effectiveness of team-based care to improve blood pressure (BP) control</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Adults with hypertension</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><div class="content_para"><p>Team-based care to improve blood pressure (BP) management, including medication management, patient follow-up, and adherence and self-management support</p></div></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Clinical effectiveness
+    <ul style="list-style-type: disc;">
+        <li>Primary outcomes
+        <ul style="list-style-type: disc;">
+            <li>Proportion of patients with controlled blood pressure (BP) </li>
+            <li>Reduction of systolic blood pressure (SBP) and diastolic blood pressure (DBP) </li>
+            <li>Cardiovascular disease (CVD) related morbidity (e.g., incidence of heart attacks and strokes) and mortality </li>
+        </ul>
+        </li>
+        <li>Secondary outcomes
+        <ul style="list-style-type: disc;">
+            <li>Medication adherence </li>
+            <li>Satisfaction with care </li>
+            <li>Proportion of patients with controlled hemoglobin A1c (HbA1c) </li>
+            <li>Reduction in fasting blood glucose (FBG) </li>
+            <li>Reduction in total cholesterol and low-density lipoprotein cholesterol </li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li>Cost-effectiveness </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p>The Task Force finding is based on evidence from a Community Guide systematic review (52 studies; search period, July 2003-May 2012) published in 2014 and a previous systematic review published in 2006 (28 studies; search period, January 1980&ndash;July 2003), in which the conceptual approach and methods matched those of the Community Guide review (see the "Availability of Companion Documents" field).</p>
+<p><strong><span style="text-decoration: underline;">Effectiveness Review</span></strong></p>
+<p><strong>Search for Evidence</strong></p>
+<p>The search for evidence consisted of two steps. Step 1 involved locating existing systematic reviews on team-based care for blood pressure (BP) control. Although multiple high-quality systematic reviews on this topic were identified, the systematic review by Walsh and colleagues (2006) had a conceptualization and methods similar to the Community Guide approach. Further, the scope adopted for the Walsh review reflected the team's goal of examining the effectiveness of team-based care from a population health perspective. The literature search from this prior review ended in July 2003. Step 2 consisted of an updated search adopting the Walsh review's search terms and databases. This Community Guide update covered the period from July 2003 to May 2012. The complete search strategy is available at <a href="/web/20180712210231/https://www.guideline.gov/Home/Disclaimer?id=49614&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.thecommunityguide.org%2fcvd%2fsupportingmaterials%2fSS-team-based-care.html" title="Community Guide Web site">www.thecommunityguide.org/cvd/supportingmaterials/SS-team-based-care.html</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210231im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </p>
+<p><strong>Inclusion Criteria</strong></p>
+<p>Studies were included if they</p>
+<ul style="list-style-type: disc;">
+    <li>Met the definition of team-based care as described in the conceptual framework </li>
+    <li>Were in English </li>
+    <li>Were not in the Walsh et al. review </li>
+    <li>Were conducted in a high-income economy consistent with Community Guide methods </li>
+    <li>Reported at least one BP outcome of interest (i.e., proportion of patients with controlled BP, reduction in systolic BP [SBP], or reduction in diastolic BP [DBP]) </li>
+    <li>Included a comparison group or had an interrupted time-series design with at least two measurements before and after the intervention </li>
+    <li>Targeted populations with primary hypertension or populations with comorbid conditions such as diabetes as long as the primary focus of the intervention was BP control </li>
+    <li>Did not include populations with secondary hypertension (e.g., pregnancy) or with a history of cardiovascular disease (CVD) (e.g., myocardial infarction) </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Economic Review</span></strong></p>
+<p>The economic review is based on evidence from the Community Guide search for effectiveness evidence (search period January 1980&ndash;May 2012) and an earlier search for economic evidence conducted by the Centers for Disease Control and Prevention's (CDC's) Division for Heart Disease and Stroke Prevention (DHDSP) (search period January 1985&ndash;March 2011).</p>
+<p>The DHDSP review searched eight bibliographic databases: Medline, EMBASE, PsycINFO, CINAHL, EconLit, Socio Abs, Web of Science, and Cochrane. The types of documents retrieved by the search included journal articles, books, book chapters, reports, and conference papers.</p>
+<p>Search terms and strategies were adjusted to each database, based on controlled and uncontrolled vocabularies and search software.</p>
+<p>For more information on searches, see the <a href="/web/20180712210231/https://www.guideline.gov/Home/Disclaimer?id=49614&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.thecommunityguide.org%2fcvd%2fteambasedcare.html" title="Community Guide Web site">Community Guide Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210231im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (see also the "Availability of Companion Documents" field).</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Results from Effectiveness Review</span></strong></p>
+<ul style="list-style-type: disc;">
+    <li>2014 Community Guide Systematic Review: 52 studies from 70 papers </li>
+    <li>2006 Walsh et al. Systematic Review: 28 studies&nbsp; </li>
+</ul>
+<p>See Figure 2 in the systematic review (Proia et al.; see the "Availability of Companion Documents" field) for breakdown of the article selection process.</p>
+<p><strong><span style="text-decoration: underline;">Systematic Economic Review</span></strong></p>
+<p>Thirty-one studies were included in the review. Eleven studies provided cost-effectiveness estimates while the other studies provided estimates for the cost of intervention and the change in health care cost.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Quality Assessment</span></strong></p>
+<p>Each study was assessed for threats to internal and external validity and rated as:</p>
+<p><strong>Good</strong> (0&ndash;1 limitations)</p>
+<p><strong>Fair</strong> (2&ndash;4 limitations)</p>
+<p><strong>Limited</strong> (&gt;4 limitations) </p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Effectiveness Review</span></strong></p>
+<p><strong>Data Abstraction and Quality Assessment</strong></p>
+<p>Each study included in the current review was evaluated independently by two reviewers. Abstraction was based on the standard Community Guide process (<a href="/web/20180712210231/https://www.guideline.gov/Home/Disclaimer?id=49614&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.thecommunityguide.org%2fmethods%2fabstractionform.pdf" title="Community Guide Web site">www.thecommunityguide.org/methods/abstractionform.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210231im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>). Disagreements between reviewers were resolved by consensus.</p>
+<p>Using Community Guide methods, each study was assessed for threats to internal and external validity. Threats to validity&mdash;such as poor descriptions of the intervention, population, sampling frame, and inclusion/exclusion criteria; poor measurement of exposure or outcome; lack of appropriate analytic methods; incomplete data sets; high attrition; or intervention and comparison groups not being comparable at baseline&mdash;were used to characterize studies as having good (0&ndash;1 limitations); fair (2&ndash;4); or limited (&gt;4) quality of execution. Studies judged to be of limited quality of execution were excluded from analysis.</p>
+<p>Conclusions on the strength of evidence on effectiveness are based on evidence from both reviews (Walsh and colleagues and this Community Guide update), taking into account the number of studies, quality of available evidence, consistency of results, magnitude of effect estimates, and applicability considerations.</p>
+<p>Evidence tables are available (see the "Availability of Companion Documents" field).</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The Community Preventive Services Task Force makes recommendations about community- and system-based interventions, determined by the Task Force to be of public health importance in preventing illness, injury, or premature death. The Task Force bases its recommendations on a systematic review of the evidence on effectiveness and also considers additional benefits, potential harms, and applicability to settings and populations other than those studied. For interventions with evidence of effectiveness, the Task Force also conducts a systematic review of the evidence on economic efficiency, including assessments on program costs, cost-effectiveness, and cost&ndash;benefit ratios.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Categories of Task Force Recommendations and Findings</span></strong></p>
+<p>The Task Force uses the terms below to describe its findings.</p>
+<p><strong>Recommended</strong></p>
+<p>The systematic review of available studies provides strong or sufficient evidence that the intervention is effective.</p>
+<p>The categories of "strong" and "sufficient" evidence reflect the Task Force's degree of confidence that an intervention has beneficial effects. They do not directly relate to the expected magnitude of benefits. The categorization is based on several factors, such as study design, number of studies, and consistency of the effect across studies.</p>
+<p><strong>Recommended Against</strong></p>
+<p>The systematic review of available studies provides strong or sufficient evidence that the intervention is harmful or not effective.</p>
+<p><strong>Insufficient Evidence</strong></p>
+<p>The available studies do not provide sufficient evidence to determine if the intervention is, or is not, effective. This does NOT mean that the intervention does not work. It means that additional research is needed to determine whether or not the intervention is effective.</p>
+<p>Task Force findings may include a rationale statement that explains why they made a recommendation or arrived at other conclusions.</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>A separate systematic review examining the economic evidence (31 studies; search period, January 1980&ndash;May 2012) found most cost-effectiveness estimates to be below the conservative threshold of $50,000 per quality-adjusted life-year (QALY) saved. This suggests that implementation of team-based care for blood pressure (BP) control is cost-effective. See the economic review on the <a href="/web/20180712210231/https://www.guideline.gov/Home/Disclaimer?id=49614&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.thecommunityguide.org%2fcvd%2fteambasedcare.html" title="Community Guide Web site">Community Guide Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210231im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> for more information.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>Not stated</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>Not applicable</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of evidence supporting the recommendations is not specifically stated.</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Results from two systematic reviews demonstrate the effectiveness of team-based care in improving the proportion of patients with controlled blood pressure (BP) and reduced systolic blood pressure (SBP)&nbsp;and diastolic blood pressure (DBP). Magnitude of effect estimates, number of studies, and consistency of effects provide the basis for the strong evidence finding. </li>
+    <li>Team-based care also resulted in improvements for most lipid- and diabetes-related outcomes, suggesting potential benefits for comprehensive cardiovascular disease (CVD) risk reduction. </li>
+</ul></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><div class="content_para"><p>No harm to patients were identified from team-based care interventions in the included studies or the broader literature. Team-based care is well suited to addressing potential adverse effects from hypertension medications through providing support for patients about medications as well as proactive follow-up and monitoring.</p></div></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><div class="content_para"><p>The findings and conclusions in the guideline are those of the Community Preventive Services Task Force and do not necessarily represent those of Centers for Disease Control and Prevention (CDC). Task Force evidence-based recommendations are not mandates for compliance or spending. Instead, they provide information and options for decision makers and stakeholders to consider when determining which programs, services, and policies best meet the needs, preferences, available resources, and constraints of their constituents.</p></div></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Considerations for Implementation</span></strong></p>
+<p>The team-based care model is the essence of the shifting paradigm of U.S. healthcare delivery to an approach that is more coordinated and integrated. Central to this approach is organizing care around the patient with the support of multiple providers. Team members who worked with patients and primary care providers in the studies included in the systematic review were most frequently nurses and pharmacists. There were larger improvements in the proportion of patients achieving blood pressure (BP) control when pharmacists were included in the team, whereas reductions in systolic blood pressure (SBP) and diastolic blood pressure (DBP) were similar to overall estimates when either nurses or pharmacists were part of the team. Involvement of additional team members related to medication management (e.g., pharmacists and nurses) was conceptualized in three levels. Team-based care models in which team members could make changes to medications independent of the patient's primary care provider or make suggestions for medication changes to the primary care provider based on evidence-based clinical protocols achieved larger improvements in BP outcomes than those that only provided education on hypertension and support for medication adherence to patients.</p>
+<p>Moreover, the improvement in outcomes for common comorbidities such as diabetes and cholesterol using team-based care suggest the great potential for applying this approach to managing chronic disease. Studies that used team-based care for comprehensive cardiovascular disease (CVD) risk reduction most commonly employed nurse practitioners to work with primary care providers and patients to both manage patient medications and provide vital self-management support.</p>
+<p>With the advent of the Patient-Centered Medical Home and accountable care organizations, many health systems are looking to implement value-based models of chronic care&mdash;where reimbursement is tied to improvements in health outcomes for entire panels of patients. At the center of this systems-level organizational change are models like team-based care that improve the efficiency, quality, and value of care.</p>
+<p>Health systems will need to consider the needs of their patients and resources at their disposal when establishing team-based care to manage CVD risk factors. Clear decisions about team constitution and team member roles as well as reimbursement mechanisms are needed. Activities to foster team building and achieve provider buy-in could prove invaluable. Training resources for providers need to provide orientation and exposure to skills necessary to address multiple CVD risk factors while working with a team that includes the patient. Screening and proactive follow-up processes, as well as access to self-management resources including tools such as BP home monitors, seem to facilitate the success of team-based care. Support for self-management includes developing patient knowledge and skills as well as improving patient attitudes and health behavior aimed at addressing high BP and related risk factors.</p>
+<p>The arrival of new technologies presents many opportunities to further harness the potential of team-based care. Various modalities (e.g., Web-based, app-based, text message&ndash;based, and electronic health records) could serve to improve communication between providers and patients, clinical decisions by providers, and patient support.</p></div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Living with Illness</p>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Community Preventive Services Task Force. Team-based care to improve blood pressure control: recommendation of the Community Preventive Services Task Force. Am J Prev Med. 2014 Jul;47(1):100-2. [6 references] <a href="https://web.archive.org/web/20180712210231/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24933493" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712210231im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2014 Jul</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>Community Preventive Services Task Force - Independent Expert Panel</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>The Task Force is an independent, unpaid, nonfederal body. The U.S. Congress mandates that the Centers for Disease Control and Prevention support the operations of the Task Force.</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Community Preventive Services Task Force</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Task Force Members</em>: Jonathan E. Fielding, MD, MPH, MBA (<em>Chair</em>), Professor of Health Services and Pediatrics, Schools of Public Health and Medicine, University of California, Los Angeles; Robert L. Johnson, MD, FAAP (<em>Vice-Chair</em>), Dean and Professor of Pediatrics and Psychiatry, Director, Division of Adolescent and Young Adult Medicine, Rutgers New Jersey Medical School; Bruce Nedrow (Ned) Calonge, MD, MPH, President and CEO, The Colorado Trust; Marshall H. Chin, MD, MPH, FACP, Richard Parillo Family Professor, Healthcare Ethics, Department of Medicine, University of Chicago, Director, Chicago Center for Diabetes Translation Research, Director, RWJF Finding Answers: Disparities Research for Change; General Internist; John M. Clymer, Executive Director, National Forum for Heart Disease &amp; Stroke Prevention, Adjunct Assistant Professor, Loma Linda University School of Public Health; Karen Glanz, PhD, MPH, George A. Weiss University Professor, Department of Biostatistics and Epidemiology, University of Pennsylvania Perelman School of Medicine; Ron Z. Goetzel, PhD, MA, Senior Scientist and Director, Institute for Health and Productivity Studies, Johns Hopkins Bloomberg School of Public Health, Vice President, Consulting and Applied Research, Truven Health Analytics; Lawrence W. Green, DrPH, DSc (Hon.), Professor of Epidemiology and Biostatistics, School of Medicine, University of California at San Francisco; Shiriki K. Kumanyika, PhD, MPH, Professor of Epidemiology, Associate Dean for Health Promotion and Disease Prevention, Senior Advisor to the Center for Public Health Initiatives, University of Pennsylvania Perelman School of Medicine; Gilbert Omenn, MD, PhD, Professor of Public Health, Internal Medicine, Human Genetics, and Computational Medicine and Bioinformatics, University of Michigan; C. Tracy Orleans, PhD, Senior Scientist and Distinguished Fellow, Department of Research and Evaluation, Robert Wood Johnson Foundation; Nicolaas P. Pronk, PhD, Vice President, Health Management, Health Science Officer and Senior Research Investigator, HealthPartners Research Foundation, Adjunct Professor of Society, Human Development and Health, Harvard School of Public Health; Patrick L. Remington, MD, MPH, Professor and Associate Dean for Public Health, School of Medicine and Public Health, University of Wisconsin, Madison </p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>No financial disclosures were reported by the authors of this paper.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712210231/https://www.guideline.gov/Home/Disclaimer?id=49614&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.thecommunityguide.org%2fcvd%2fcvd-AJPM-recs-team-based-care.pdf" title="Community Guide Web site">Community Guide Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210231im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Proia KK, Thota AB, Njie GJ, Finnie RK, Hopkins DP, Mukhtar Q, Pronk NP, Zeigler D, Kottke TE, Rask KJ, Lackland DT, Brooks JF, Braun LT, Cooksey T. Team-based care and improved blood pressure control: a Community Guide systematic review. Am J Prev Med 2014 Jul;47(1):86&ndash;99. Available from the <a href="/web/20180712210231/https://www.guideline.gov/Home/Disclaimer?id=49614&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.thecommunityguide.org%2fcvd%2fcvd-AJPM-evrev-team-based-care.pdf" title="Community Guide Web site">Community Guide Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210231im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Jacob V, Chattopadhyay SK, Thota AB, Proia KK, Njie G, Hopkins DP, Finnie RKC, Pronk NP, Kottke TE, Community Preventive Services Task Force. Economics of team-based care in controlling blood pressure: a Community Guide systematic review. Am J Prev Med 2015;49(5):772-83. Available from the <a href="/web/20180712210231/https://www.guideline.gov/Home/Disclaimer?id=49614&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.thecommunityguide.org%2fcvd%2fcvd-AJPM-econ-teambasedcare.pdf" title="Community Guide Web site">Community Guide Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210231im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p>Additional supporting materials, including the analytic framework, evidence gaps, evidence tables, included studies, and search strategies, are available from the <a href="/web/20180712210231/https://www.guideline.gov/Home/Disclaimer?id=49614&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.thecommunityguide.org%2fcvd%2fteambasedcare.html" title="Community Guide Web site">Community Guide Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712210231im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on December 16, 2015. The information was verified by the guideline developer on January 25, 2016.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>No copyright restrictions apply.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712210231/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712210231/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712210231/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712210231/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712210231/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712210231/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712210231/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712210231/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712210231/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712210231/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712210231/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712210231/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712210231/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712210231/https://www.guideline.gov/disclaimer?id=49614&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712210231im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712210231im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712210231/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712210231/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712210231/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712210231/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712210231/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712210231/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712210231/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712210231/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712210231/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712210231/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712210231/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712210231/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712210231/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712210231/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712210231/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712210231/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712210231/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712210231/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712210231/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712210231im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712210231im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712210231/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712210231im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712210231im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712210231/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712210231js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712210231js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 21:02:31 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:54:27 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 83.395 (3)
+  esindex: 0.007
+  captures_list: 102.052
+  CDXLines.iter: 15.239 (3)
+  PetaboxLoader3.datanode: 80.289 (4)
+  exclusion.robots: 0.203
+  exclusion.robots.policy: 0.19
+  RedisCDXSource: 0.478
+  PetaboxLoader3.resolve: 181.569
+  load_resource: 222.328
+-->

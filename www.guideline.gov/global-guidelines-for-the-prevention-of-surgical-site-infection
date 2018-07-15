@@ -1,0 +1,1284 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app22.us.archive.org';v.server_ms=2023;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Global guidelines for the prevention of surgical site infection. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712190242im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712190242im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712190242im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712190242im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712190242/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712190242im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712190242cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712190242js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712190242if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712190242/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712190242if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712190242/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712190242/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712190242/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712190242/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712190242im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712190242im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712190242/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712190242/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712190242/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712190242/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712190242/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712190242/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712190242/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712190242/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712190242/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712190242/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712190242/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712190242/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712190242/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712190242/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712190242/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712190242/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712190242/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712190242/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712190242/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712190242/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712190242/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:011181</li>
+            <li>2016
+            </li>            
+                                        <li>
+                    <div class="flag-box"><span class="neats"></span> NEATS Assessment</div>    
+                    <a class="icon-info" href="/web/20180712190242/https://www.guideline.gov/help-and-about/summaries/determining-extent-adherence-to-the-iom-standards-in-ngc"><span class="screen-reader-text">Learn More About NEATS Assessment</span></a>                
+                </li>
+        </ul>
+        <div>
+                <h1>Global guidelines for the prevention of surgical site infection.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+<li><a href="#neats-tab" class="NEATS"><span class="label">NEATS Assessment</span></a></li>        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712190242/https://www.guideline.gov/search?f_Guideline_Developer_String=World%20Health%20Organization&amp;fLockTerm=World%2BHealth%2BOrganization">World Health Organization</a></li>
+                        <li>   
+                                <a id="297" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>World Health Organization (WHO). Global guidelines for the prevention of surgical site infection. Geneva: World Health Organization (WHO); 2016. 184 p.  [777 references]</td></tr></table>                    <p><a href="/web/20180712190242/https://www.guideline.gov/Home/Disclaimer?id=50706&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fapps.who.int%252firis%252fbitstream%252f10665%252f250680%252f1%252f9789241549882-eng.pdf%253fua%253d1">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190242im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712190242/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712190242/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712190242/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+                        <li><a href="/web/20180712190242/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712190242/https://www.guideline.gov/search?f_Age_of_Target_Population=Adolescent%20%2813%20to%2018%20years%29&amp;fLockTerm=Adolescent%2B%2813%2Bto%2B18%2Byears%29">Adolescent (13 to 18 years)</a></li>                      
+                        <li><a href="/web/20180712190242/https://www.guideline.gov/search?f_Age_of_Target_Population=Child%20%282%20to%2012%20years%29&amp;fLockTerm=Child%2B%282%2Bto%2B12%2Byears%29">Child (2 to 12 years)</a></li>                      
+                        <li><a href="/web/20180712190242/https://www.guideline.gov/search?f_Age_of_Target_Population=Infant%20%281%20to%2023%20months%29&amp;fLockTerm=Infant%2B%281%2Bto%2B23%2Bmonths%29">Infant (1 to 23 months)</a></li>                      
+                        <li><a href="/web/20180712190242/https://www.guideline.gov/search?f_Age_of_Target_Population=Infant%2C%20Newborn%20%28to%201%20month%29&amp;fLockTerm=Infant%252c%2BNewborn%2B%28to%2B1%2Bmonth%29">Infant, Newborn (to 1 month)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712190242/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">HCPCS</h5>
+                    <div class="field-content">
+<a href="/web/20180712190242/https://www.guideline.gov/search?f_HCPCS_CUI=C0520058&amp;fLockTerm=Skin+sealants%2c+protectants%2c+moisturizers%2c+ointments%2c+any+type%2c+any+size">Skin sealants, protectants, moisturizers, ointments, any type, any size</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_HCPCS_CUI=C0038941&amp;fLockTerm=Surgical+site+infection">Surgical site infection</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0003205&amp;fLockTerm=Anti-Infective+Agents%2c+Local">Anti-Infective Agents, Local</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0282638&amp;fLockTerm=Antibiotic+Prophylaxis">Antibiotic Prophylaxis</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0005802&amp;fLockTerm=Blood+Glucose">Blood Glucose</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C1456573&amp;fLockTerm=Global+Health">Global Health</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0018504&amp;fLockTerm=Hair+Removal">Hair Removal</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C3494474&amp;fLockTerm=Hand+Hygiene">Hand Hygiene</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0085557&amp;fLockTerm=Infection+Control">Infection Control</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0021889&amp;fLockTerm=Intraoperative+Care">Intraoperative Care</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0085259&amp;fLockTerm=Mupirocin">Mupirocin</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C1956078&amp;fLockTerm=Negative-Pressure+Wound+Therapy">Negative-Pressure Wound Therapy</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0242739&amp;fLockTerm=Nutritional+Support">Nutritional Support</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0150706&amp;fLockTerm=Perioperative+Care">Perioperative Care</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0032786&amp;fLockTerm=Postoperative+Care">Postoperative Care</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0033061&amp;fLockTerm=Preoperative+Care">Preoperative Care</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0180511&amp;fLockTerm=Surgical+Drapes">Surgical Drapes</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0038941&amp;fLockTerm=Surgical+Wound+Infection">Surgical Wound Infection</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0038969&amp;fLockTerm=Sutures">Sutures</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MSH_CUI=C0043237&amp;fLockTerm=World+Health+Organization">World Health Organization</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712190242/https://www.guideline.gov/search?f_MTH_CUI=C0003205&amp;fLockTerm=Anti-Infective+Agents%2c+Local">Anti-Infective Agents, Local</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MTH_CUI=C0282638&amp;fLockTerm=Antibiotic+Prophylaxis">Antibiotic Prophylaxis</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MTH_CUI=C0005802&amp;fLockTerm=Blood+Glucose">Blood Glucose</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MTH_CUI=C0455052&amp;fLockTerm=Bowel+preparation">Bowel preparation</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MTH_CUI=C0055361&amp;fLockTerm=chlorhexidine+gluconate">chlorhexidine gluconate</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MTH_CUI=C0018504&amp;fLockTerm=General+hair+removal+-+epilation">General hair removal - epilation</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MTH_CUI=C0085557&amp;fLockTerm=Infectious+disease+prevention+%2f+control">Infectious disease prevention / control</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MTH_CUI=C0242739&amp;fLockTerm=Nutritional+Support">Nutritional Support</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MTH_CUI=C0038969&amp;fLockTerm=Surgical+sutures">Surgical sutures</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MTH_CUI=C0043237&amp;fLockTerm=World+Health+Organization">World Health Organization</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_MTH_CUI=C0460765&amp;fLockTerm=Wound+Dressings+(device)">Wound Dressings (device)</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712190242/https://www.guideline.gov/search?f_PDQ_CUI=C0455052&amp;fLockTerm=bowel+preparation">bowel preparation</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_PDQ_CUI=C0242739&amp;fLockTerm=nutritional+support">nutritional support</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0282638&amp;fLockTerm=Antibiotic+prophylaxis">Antibiotic prophylaxis</a>
+ (422181004), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1279757&amp;fLockTerm=Bathing+procedures">Bathing procedures</a>
+ (225428008), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0055361&amp;fLockTerm=Chlorhexidine+gluconate">Chlorhexidine gluconate</a>
+ (108895000), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0055361&amp;fLockTerm=Chlorhexidine+gluconate">Chlorhexidine gluconate</a>
+ (255862003), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0055361&amp;fLockTerm=Chlorhexidine+gluconate">Chlorhexidine gluconate</a>
+ (411195003), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0018504&amp;fLockTerm=General+hair+removal+-+epilation">General hair removal - epilation</a>
+ (1449002), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0018504&amp;fLockTerm=General+hair+removal+-+epilation">General hair removal - epilation</a>
+ (287608005), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0085557&amp;fLockTerm=Infection+control+procedure">Infection control procedure</a>
+ (77248004), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0021889&amp;fLockTerm=Intraoperative+care">Intraoperative care</a>
+ (133900002), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0150410&amp;fLockTerm=Irrigation+of+wound">Irrigation of wound</a>
+ (225116006), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C3840058&amp;fLockTerm=Management+of+bowel+preparation+for+surgery">Management of bowel preparation for surgery</a>
+ (700098008), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0085259&amp;fLockTerm=Mupirocin">Mupirocin</a>
+ (387397004), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0085259&amp;fLockTerm=Mupirocin">Mupirocin</a>
+ (71453003), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0232091&amp;fLockTerm=Normal+blood+volume">Normal blood volume</a>
+ (64826008), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0445103&amp;fLockTerm=Normothermia">Normothermia</a>
+ (262004005), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0242739&amp;fLockTerm=Nutritional+support">Nutritional support</a>
+ (278906000), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0150706&amp;fLockTerm=Perioperative+care">Perioperative care</a>
+ (133897009), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0032786&amp;fLockTerm=Postoperative+care">Postoperative care</a>
+ (133899007), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0038941&amp;fLockTerm=Postoperative+wound+infection">Postoperative wound infection</a>
+ (433202001), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0038941&amp;fLockTerm=Postoperative+wound+infection">Postoperative wound infection</a>
+ (58126003), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0033061&amp;fLockTerm=Preoperative+care">Preoperative care</a>
+ (133898004), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0204800&amp;fLockTerm=Preoperative+preparation+of+skin">Preoperative preparation of skin</a>
+ (28792004), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0455052&amp;fLockTerm=Preparation+of+bowel+for+procedure">Preparation of bowel for procedure</a>
+ (225106003), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0180511&amp;fLockTerm=Surgical+drapes">Surgical drapes</a>
+ (65105002), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C3882194&amp;fLockTerm=Surgical+laminar+airflow+unit">Surgical laminar airflow unit</a>
+ (465436003), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C3689199&amp;fLockTerm=Surgical+patient+drape">Surgical patient drape</a>
+ (706785002), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0038969&amp;fLockTerm=Surgical+suture">Surgical suture</a>
+ (27065002), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0038969&amp;fLockTerm=Surgical+suture">Surgical suture</a>
+ (408099007), <a href="/web/20180712190242/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0460765&amp;fLockTerm=Wound+management+dressing">Wound management dressing</a>
+ (348667003)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SPN</h5>
+                    <div class="field-content">
+<a href="/web/20180712190242/https://www.guideline.gov/search?f_SPN_CUI=C0180511&amp;fLockTerm=DRAPE%2c+SURGICAL">DRAPE, SURGICAL</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_SPN_CUI=C0181066&amp;fLockTerm=GOWN%2c+SURGICAL">GOWN, SURGICAL</a>
+, <a href="/web/20180712190242/https://www.guideline.gov/search?f_SPN_CUI=C0490881&amp;fLockTerm=PROTECTOR%2c+WOUND%2c+PLASTIC">PROTECTOR, WOUND, PLASTIC</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712190242/https://www.guideline.gov/search?f_UMD_CUI=C0181066&amp;fLockTerm=Gowns%2c+Medical">Gowns, Medical</a>
+ (11-898), <a href="/web/20180712190242/https://www.guideline.gov/search?f_UMD_CUI=C1322784&amp;fLockTerm=Negative-Pressure+Wound+Therapy+Systems">Negative-Pressure Wound Therapy Systems</a>
+ (20-395), <a href="/web/20180712190242/https://www.guideline.gov/search?f_UMD_CUI=C0180511&amp;fLockTerm=Surgical+Drapes">Surgical Drapes</a>
+ (12-368), <a href="/web/20180712190242/https://www.guideline.gov/search?f_UMD_CUI=C3689199&amp;fLockTerm=Surgical+Drapes%2c+Patient">Surgical Drapes, Patient</a>
+ (32-595), <a href="/web/20180712190242/https://www.guideline.gov/search?f_UMD_CUI=C0038969&amp;fLockTerm=Sutures">Sutures</a>
+ (13-896)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+            <div id="neats-tab" class="content-tab-panel">
+                <p id="NeatsDescription">
+                    National Guideline Clearinghouse (NGC) has assessed this guideline's adherence to standards of trustworthiness, derived from the Institute of Medicine's report
+                    <a href="/web/20180712190242/https://www.guideline.gov/disclaimer?id=50706&amp;contentType=summary&amp;redirect=http%3A%2F%2Fnationalacademies.org%2Fhmd%2FReports%2F2011%2FClinical-Practice-Guidelines-We-Can-Trust.aspx"><i>Clinical Practice Guidelines We Can Trust</i></a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190242im_/https://www.guideline.gov/UI/images/icon_externallink.gif">.
+                </p>
+                <div class="ratings" aria-hidden="true">
+                    <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-1.png" alt="Poor"/> = Poor</span>
+                    <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-2.png" alt="Fair"/> = Fair</span>
+                    <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-3.png" alt="Good"/> = Good</span>
+                    <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-4.png" alt="Very Good"/> = Very Good</span>
+                    <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/> = Excellent</span>
+                </div>
+                    <table aria-describedby="NeatsDescription">
+                        <thead>
+                        <tr>
+                            <th id="section">NEATS Assessment <a class="icon-info" href="/web/20180712190242/https://www.guideline.gov/help-and-about/summaries/determining-extent-adherence-to-the-iom-standards-in-ngc"><span class="screen-reader-text">More about NGC's appraisal</span></a></th>
+                            <th id="standard">Standard of Trustworthiness</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                        <tr>
+                    <td class="topborderme" headers="section">Yes</td>
+                    <td class="greenboldme topborderme" headers="standard">Disclosure of Guideline Funding Source</td>
+                </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">Disclosure and Management of Financial Conflict of Interests</td>
+                </tr>
+                    <tr>
+                        <td class="topborderme" id="blank"></td>
+                        <th class="greenboldme topborderme" id="185" headers="standard">Guideline Development Group Composition</th>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                            Yes
+                        </td>
+                        <td class="leftpadme" headers="185">Multidisciplinary Group</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                            Yes
+                        </td>
+                        <td class="leftpadme" headers="186">Methodologist Involvement</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-4.png" alt="Very Good"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="187">Patient and Public Perspectives</td>
+                    </tr>
+                    <tr>
+                        <td class="topborderme" id="blank"></td>
+                        <th class="greenboldme topborderme" id="188" headers="standard">Use of a Systematic Review of Evidence</th>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="188">Search Strategy</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-3.png" alt="Good"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="189">Study Selection</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="190">Synthesis of Evidence</td>
+                    </tr>
+                    <tr>
+                        <td class="topborderme" id="blank"></td>
+                        <th class="greenboldme topborderme" id="191" headers="standard">Evidence Foundations for and Rating Strength of Recommendations</th>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="191">Grading the Quality or Strength of Evidence</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="192">Benefits and Harms of Recommendations</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="193">Evidence Summary Supporting Recommendations</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="194">Rating the Strength of Recommendations</td>
+                    </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">Specific and Unambiguous Articulation of Recommendations</td>
+                </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">External Review</td>
+                </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">Updating</td>
+                </tr>
+
+                        </tbody>
+                    </table>
+            </div>
+    <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712190242/https://www.guideline.gov/summaries/downloadcontent/ngc-11181?contentType=pdf" class="pdf">.PDF 149.0 kb</a></li>
+                            <li><a href="/web/20180712190242/https://www.guideline.gov/summaries/downloadcontent/ngc-11181?contentType=word" class="word">Word Document 347.4 kb</a></li>
+                            <li><a href="/web/20180712190242/https://www.guideline.gov/summaries/downloadcontent/ngc-11181?contentType=xml" class="xml">.XML 82.1 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712190242/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/50706/global-guidelines-for-the-prevention-of-surgical-site-infection" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712190242/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/50706/global-guidelines-for-the-prevention-of-surgical-site-infection" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712190242/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/50706/global-guidelines-for-the-prevention-of-surgical-site-infection&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712190242/mailto:/?Subject=AHRQ: Global guidelines for the prevention of surgical site infection.&amp;body=https://www.guideline.gov/summaries/summary/50706/global-guidelines-for-the-prevention-of-surgical-site-infection" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Global guidelines for the prevention of surgical site infection. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2016 Jan 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712190242/https://www.guideline.gov/summaries/citedownload/50706?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712190242/https://www.guideline.gov/summaries/citedownload/50706?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712190242/https://www.guideline.gov/summaries/citedownload/50706?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712190242/https://www.guideline.gov/summaries/citedownload/50706?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712190242/https://www.guideline.gov/summaries/citedownload/50706?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712190242/https://www.guideline.gov/summaries/citedownload/50706">RefWorks</a></li>
+                            <li><a href="/web/20180712190242/https://www.guideline.gov/summaries/citedownload/50706?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="50706" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>Definitions for the strength of the recommendations (<strong>strong</strong>, <strong>conditional</strong>) and the quality of evidence (<strong>high</strong>, <strong>moderate</strong>, <strong>low</strong>, <strong>very low</strong>) are provided at the end of the "Major Recommendations" field.</p>
+<p><strong><span style="text-decoration: underline;">Preoperative Measures</span></strong></p>
+<p><strong>Preoperative Bathing</strong></p>
+<p>It is good clinical practice for patients to bathe or shower prior to surgery.</p>
+<p>The panel suggests that either a plain or antimicrobial soap may be used for this purpose. (<strong>Conditional recommendation, moderate quality of evidence</strong>)</p>
+<p>The panel decided not to formulate a recommendation on the use of chlorhexidine gluconate (CHG)-impregnated cloths for the purpose of reducing surgical site infection (SSI) due to the limited and very low quality evidence.</p>
+<p>See Table 4.1.1 in the original guideline document for recommendations on preoperative bathing according to available guidelines.</p>
+<p><strong>Decolonization with Mupirocin Ointment with or without Chlorhexidine Gluconate Body Wash for the Prevention of <em>Staphylococcus aureus</em> Infection in Nasal Carriers Undergoing Surgery</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>The panel recommends that patients undergoing cardiothoracic and orthopaedic surgery with known nasal carriage of <em>Staphylococcus aureus (S. aureus)</em> should receive perioperative intranasal applications of mupirocin 2% ointment with or without a combination of CHG body wash. (<strong>Strong recommendation, moderate quality of evidence</strong>) </li>
+    <li>The panel suggests considering to treat also patients with known nasal carriage of <em>S. aureus</em> undergoing other types of surgery with perioperative intranasal applications of mupirocin 2% ointment with or without a combination of CHG body wash. (<strong>Conditional recommendation, moderate quality of evidence</strong>) </li>
+</ol>
+<p>See Table 4.2.1 in the original guideline document for recommendations on screening and decolonization of <em>S. aureus</em> according to available guidelines and bundles.</p>
+<p><strong>Screening for Extended-Spectrum Beta-lactamase Colonization and the Impact on Surgical Antibiotic Prophylaxis</strong></p>
+<p>The panel decided not to formulate a recommendation due to the lack of evidence.</p>
+<p><strong>Optimal Timing for Preoperative Surgical Antibiotic Prophylaxis</strong></p>
+<p>The panel recommends the administration of surgical antibiotic prophylaxis (SAP) prior to the surgical incision when indicated (depending on the type of operation). (<strong>Strong recommendation, low quality of evidence</strong>)</p>
+<p>The panel recommends the administration of SAP within 120 minutes before incision, while considering the half-life of the antibiotic. (<strong>Strong recommendation, moderate quality of evidence</strong>)</p>
+<p>See Table 4.4.1 in the original guideline document for recommendations on SAP according to available guidelines.</p>
+<p><strong>Mechanical Bowel Preparation and the Use of Oral Antibiotics</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>The panel suggests that preoperative oral antibiotics combined with mechanical bowel preparation (MBP) should be used to reduce the risk of SSI in adult patients undergoing elective colorectal surgery. (<strong>Conditional recommendation, moderate quality evidence</strong>) </li>
+    <li>The panel recommends that MBP alone (without administration of oral antibiotics) should not be used for the purpose of reducing SSI in adult patients undergoing elective colorectal surgery. (<strong>Strong recommendation, moderate quality evidence</strong>) </li>
+</ol>
+<p>See Table 4.5.1 in the original guideline document for recommendations on MBP and the administration of oral antimicrobials according to available guidelines.</p>
+<p><strong>Hair Removal</strong></p>
+<p>The panel recommends that in patients undergoing any surgical procedure, hair should either not be removed or, if absolutely necessary, it should be removed only with a clipper. Shaving is strongly discouraged at all times, whether preoperatively or in the operating room (OR). (<strong>Strong recommendation, moderate quality of evidence</strong>)</p>
+<p>See Table 4.6.1 in the original guideline document for recommendations on hair removal according to available guidelines.</p>
+<p><strong>Surgical Site Preparation</strong></p>
+<p>The panel recommends alcohol-based antiseptic solutions based on CHG for surgical site skin preparation in patients undergoing surgical procedures. (<strong>Strong recommendation, low to moderate quality of evidence</strong>)</p>
+<p>See Table 4.7.1 in the original guideline document for recommendations on surgical site skin preparation according to available guidelines.</p>
+<p><strong>Antimicrobial Skin Sealants</strong></p>
+<p>The panel suggests that antimicrobial sealants should not be used after surgical site skin preparation for the purpose of reducing SSI. (<strong>Conditional recommendation, very low quality of evidence</strong>)</p>
+<p><strong>Surgical Hand Preparation</strong></p>
+<p>The panel recommends that surgical hand preparation be performed either by scrubbing with a suitable antimicrobial soap and water or using a suitable alcohol-based handscrub (ABHR) before donning sterile gloves. (<strong>Strong recommendation, moderate quality of evidence</strong>)</p>
+<p>See Table 4.9.1 in the original guideline document for recommendations on surgical hand preparation according to available guidelines.</p>
+<p><strong><span style="text-decoration: underline;">Preoperative and/or Intraoperative Measures</span></strong></p>
+<p><strong>Enhanced Nutritional Support</strong></p>
+<p>The panel suggests considering the administration of oral or enteral multiple nutrient-enhanced nutritional formulas for the purpose of preventing SSI in underweight patients who undergo major surgical operations. (<strong>Conditional recommendation, very low quality of evidence</strong>)</p>
+<p><strong>Perioperative Discontinuation of Immunosuppressive Agents</strong></p>
+<p>The panel suggests not discontinuing immunosuppressive medication prior to surgery for the purpose of preventing SSI. (<strong>Conditional recommendation, very low quality of evidence</strong>)</p>
+<p><strong>Perioperative Oxygenation</strong></p>
+<p>The panel recommends that adult patients undergoing general anaesthesia with endotracheal intubation for surgical procedures should receive an 80% fraction of inspired oxygen (FiO<sub>2</sub>) intraoperatively and, if feasible, in the immediate postoperative period for 2 to 6 hours to reduce the risk of SSI. (<strong>Strong recommendation, moderate quality of evidence</strong>)</p>
+<p>See Table 4.12.1 in the original guideline document for recommendations on oxygenation preparation according to available guidelines.</p>
+<p><strong>Maintaining Normal Body Temperature (Normothermia)</strong></p>
+<p>The panel suggests the use of warming devices in the operating room and during the surgical procedure for patient body warming with the purpose of reducing SSI. (<strong>Conditional recommendation, moderate quality of evidence</strong>)</p>
+<p>See Table 4.13.1 in the original guideline document for recommendations on body temperature control (normothermia) according to available guidelines.</p>
+<p><strong>Use of Protocols for Intensive Perioperative Blood Glucose Control</strong></p>
+<p>The panel suggests the use of protocols for intensive perioperative blood glucose control for both diabetic and non-diabetic adult patients undergoing surgical procedures to reduce the risk of SSI. (<strong>Conditional recommendation, low quality of evidence</strong>)</p>
+<p>See Table 4.14.1 in the original guideline document for recommendations on perioperative blood glucose control according to available guidelines.</p>
+<p><strong>Maintenance of Adequate Circulating Volume Control/Normovolemia</strong></p>
+<p>The panel suggests the use of goal-directed fluid therapy (GDFT) intraoperatively to reduce the risk of SSI. (<strong>Conditional recommendation, low quality of evidence</strong>)</p>
+<p>See Table 4.15.1 in the original guideline document for recommendations on the maintenance of normovolemia according to available guidelines.</p>
+<p><strong>Drapes and Gowns</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>The panel suggests that either sterile, disposable, non-woven or sterile, reusable woven drapes and surgical gowns can be used during surgical operations for the purpose of preventing SSI. (<strong>Conditional recommendation, moderate to very low quality of evidence</strong>) </li>
+    <li>The panel suggests not to use plastic adhesive incise drapes with or without antimicrobial properties for the purpose of preventing SSI. (<strong>Conditional recommendation, low to very low quality of evidence</strong>) </li>
+</ol>
+<p><strong>Wound Protector Devices</strong></p>
+<p>The panel suggests considering the use of wound protector (WP) devices in clean-contaminated, contaminated and dirty abdominal surgical procedures for the purpose of reducing the rate of SSI. (<strong>Conditional recommendation, very low quality of evidence</strong>)</p>
+<p>See Table 4.17.1 in the original guideline document for recommendations on the use of wound protector (WP) devices according to available guidelines.</p>
+<p><strong>Incisional Wound Irrigation</strong></p>
+<p>The panel considers that there is insufficient evidence to recommend for or against saline irrigation of <span style="text-decoration: underline;">incisional</span> wounds before closure for the purpose of preventing SSI.</p>
+<p>The panel suggests considering the use of irrigation of the <span style="text-decoration: underline;">incisional</span> wound with an aqueous povidone-iodine (PVP-I) solution before closure for the purpose of preventing SSI, particularly in clean and clean-contaminated wounds.</p>
+<p>The panel suggests that antibiotic <span style="text-decoration: underline;">incisional</span> wound irrigation before closure should not be used for the purpose of preventing SSI.</p>
+<p>(<strong>Conditional recommendations, low quality of evidence</strong>)</p>
+<p>See Table 4.18.1 in the original guideline document for recommendations on wound irrigation according to available guidelines.</p>
+<p><strong>Prophylactic Negative Pressure Wound Therapy</strong></p>
+<p>The panel suggests the use of prophylactic negative pressure wound therapy (pNPWT) in adult patients on primarily closed surgical incisions in high-risk wounds, for the purpose of the prevention of SSI, while taking resources into account. (<strong>Conditional recommendation, low quality of evidence</strong>)</p>
+<p><strong>Use of Surgical Gloves</strong></p>
+<p>The panel decided not to formulate a recommendation due to the lack of evidence to assess whether double-gloving or changing of gloves during the operation or using specific types of gloves is more effective in reducing the risk of SSI.</p>
+<p>See Table 4.20.1 in the original guideline document for recommendations on gloving according to available guidelines.</p>
+<p><strong>Changing of Surgical Instruments</strong></p>
+<p>The panel decided not to formulate a recommendation on this topic due to the lack of evidence.</p>
+<p><strong>Antimicrobial-Coated Sutures</strong></p>
+<p>The panel suggests the use of triclosan-coated sutures for the purpose of reducing the risk of SSI, independent of the type of surgery. (<strong>Conditional recommendation, moderate quality of evidence</strong>)</p>
+<p>See Table 4.22.1 in the original guideline document for recommendations on the use of antimicrobial-coated sutures according to available guidelines.</p>
+<p><strong>Laminar Airflow Ventilation Systems in the Context of Operating Room Ventilation</strong></p>
+<p>The panel suggests that laminar airflow ventilation systems should not be used to reduce the risk of SSI for patients undergoing total arthroplasty surgery. (<strong>Conditional recommendation, low to very low quality of evidence</strong>)</p>
+<p>See Table 4.23.1 in the original guideline document for recommendations on ventilation systems in the operating room according to available guidelines.</p>
+<p><strong><span style="text-decoration: underline;">Postoperative Measures</span></strong></p>
+<p><strong>Surgical Antibiotic Prophylaxis Prolongation</strong></p>
+<p>The panel recommends against the prolongation of SAP administration after completion of the operation for the purpose of preventing SSI. (<strong>Strong recommendation, moderate quality of evidence</strong>)</p>
+<p>See Table 4.24.1 in the original guideline document for recommendations on SAP according to available guidelines.</p>
+<p><strong>Advanced Dressings</strong></p>
+<p>The panel suggests not using any type of advanced dressing over a standard dressing on primarily closed surgical wounds for the purpose of preventing SSI. (<strong>Conditional recommendation, low quality of evidence</strong>)</p>
+<p><strong>Antimicrobial Prophylaxis in the Presence of a Drain and Optimal Timing for Wound Drain Removal</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>The panel suggests that perioperative antibiotic prophylaxis should not be continued to the presence of a wound drain for the purpose of preventing SSI. (<strong>Conditional recommendation, low quality of evidence</strong>) </li>
+    <li>The panel suggests removing the wound drain when clinically indicated. No evidence was found to recommend an optimal timing of wound drain removal for the purpose of preventing SSI. (<strong>Conditional recommendation, very low quality of evidence</strong>) </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong></p>
+<p><strong>Grading of Recommendations Assessment, Development and Evaluation (GRADE) Categories of Quality of Evidence</strong></p>
+<p><strong>High</strong>: The panel is very confident that the true effect lies close to that of the estimate of the effect.</p>
+<p><strong>Moderate</strong>: The panel is moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</p>
+<p><strong>Low</strong>: The panel's confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect.</p>
+<p><strong>Very low</strong>: The panel has very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of the effect.</p>
+<p><strong>Strength of Recommendations</strong></p>
+<ul style="list-style-type: disc;">
+    <li><strong>Strong</strong>: With strong recommendations, the guideline communicates the message that the desirable effects of adherence to the recommendation outweigh the undesirable effects. This means that in most situations the recommendation can be adopted as policy. </li>
+    <li><strong>Conditional</strong>: These are made when there is greater uncertainty about quality of evidence, balance of benefit versus harms and burdens, values and preferences, and resource use, or if local adaptation has to account for a greater variety in values and preferences, or when resource use makes the intervention suitable for some, but not for other locations. This means that there is a need for substantial debate and involvement of stakeholders before this recommendation can be adopted as policy. </li>
+</ul></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Surgical site infection (SSI)</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Management</p>
+                    <p>Prevention</p>
+                    <p>Risk Assessment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Infectious Diseases</p>
+                    <p>Preventive Medicine</p>
+                    <p>Surgery</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Allied Health Personnel</p>
+                    <p>Health Care Providers</p>
+                    <p>Hospitals</p>
+                    <p>Nurses</p>
+                    <p>Pharmacists</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                    <p>Utilization Management</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To provide a comprehensive range of evidence-based recommendations for interventions to be applied during the pre-, intra- and postoperative periods for the prevention of surgical site infection (SSI), while taking into consideration resource availability and values and preferences</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Patients of any age undergoing any surgical procedure</p>
+<p class="Note"><strong>Note</strong>: There are recommendations that are either not proven for the paediatric population due to lack of evidence or inapplicable.</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Preoperative measures
+    <ul style="list-style-type: disc;">
+        <li>Preoperative bathing </li>
+        <li>Decolonization with mupirocin ointment with or without chlorhexidine gluconate body wash for the prevention of <em>Staphylococcus aureus</em> infection in nasal carriers </li>
+        <li>Optimal timing for preoperative surgical antibiotic prophylaxis </li>
+        <li>Mechanical bowel preparation with or without oral antibiotics </li>
+        <li>Hair removal (not recommended) </li>
+        <li>Surgical site preparation (alcohol-based antiseptic solutions versus aqueous solutions) </li>
+        <li>Antimicrobial skin sealants (not recommended) </li>
+        <li>Surgical hand preparation </li>
+    </ul>
+    </li>
+    <li>Preoperative and/or intraoperative measures
+    <ul style="list-style-type: disc;">
+        <li>Enhanced nutritional support </li>
+        <li>Perioperative discontinuation of immunosuppressive agents (not recommended) </li>
+        <li>Perioperative use of an increased fraction of inspired oxygen </li>
+        <li>Maintaining normal body temperature (normothermia) </li>
+        <li>Use of protocols for intensive perioperative blood glucose control </li>
+        <li>Maintenance of adequate circulating volume control/normovolemia </li>
+        <li>Use of drapes and gowns </li>
+        <li>Wound protector devices </li>
+        <li>Incisional wound irrigation </li>
+        <li>Prophylactic negative pressure wound therapy </li>
+        <li>Antimicrobial-coated sutures </li>
+        <li>Laminar airflow ventilation systems in the context of operating room ventilation </li>
+    </ul>
+    </li>
+    <li>Postoperative measures
+    <ul style="list-style-type: disc;">
+        <li>Prolongation of surgical antibiotic prophylaxis (recommendation against) </li>
+        <li>Advanced dressings (not recommended) </li>
+        <li>Antimicrobial prophylaxis in the presence of a drain (not recommended) </li>
+    </ul>
+    </li>
+</ol>
+<p class="Note"><strong>Note</strong>: The following were considered but no recommendation was made because of lack of evidence: screening for extended-spectrum beta-lactamase colonization and the impact on antibiotic prophylaxis, use of surgical gloves (double gloving, changing gloves, type of gloves), changing of surgical instruments, optimal timing for wound drain removal.</p></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Surgical site infection (SSI) incidence rates </li>
+    <li>SSI-attributable mortality </li>
+    <li>Adverse effects of interventions </li>
+    <li>Cost-effectiveness </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Evidence Identification and Retrieval</span></strong></p>
+<p>The Systematic Reviews Expert Group (SREG) retrieved evidence on the effectiveness of interventions for the prevention of surgical site infection (SSI) from randomized controlled trials (RCTs) and nonrandomized studies as needed. The Guideline Steering Group provided the SREG with the methodology and a briefing on the desired output of the systematic reviews and the members of these groups agreed together on the format and timelines for reporting. Using the assembled list of priority topics, questions and critical outcomes from the scoping exercise identified by the World Health Organization (WHO) Guideline Steering Group, the Guideline Development Group (GDG) and the guideline methodologist, the SREG conducted 27 systematic reviews between December 2013 and October 2015 to provide the supporting evidence for the development of the recommendations.</p>
+<p>To identify relevant studies, systematic searches of various electronic databases were conducted, including Medline (Ovid), the Excerpta Medica Database, the Cumulative Index to Nursing and Allied Health Literature, the Cochrane Central Register of Controlled Trials and WHO regional databases. All studies published after 1 January 1990 were considered. In a few reviews, the GDG and the SREG judged that relevant studies had been published before 1990 and no time limit was used. Studies in at least English, French and Spanish were included; some reviews had no language restrictions. A comprehensive list of search terms was used, including Medical Subject Headings. Criteria for the inclusion and exclusion of literature (for example, study design, sample size and follow-up duration) for the reviews were based on the evidence needed and available to answer the specific research questions. Studies from low- and moderate-income countries (LMICs) and high-income countries were considered. Search strategies and summaries of evidence for each systematic review are reported in Web Appendices 2-27 (see the "Availability of Companion Documents" field).</p>
+<p>Two independent reviewers screened the titles and abstracts of retrieved references for potentially relevant studies. The full text of all potentially eligible articles was obtained and then reviewed independently by two authors based on inclusion criteria. Duplicate studies were excluded.</p>
+<p>Refer to Web Appendices 2-27 (see the "Availability of Companion Documents" field) for detailed information on databases searched and search strategies for each review question.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>Please refer to Web Appendices 2-27 (see the "Availability of Companion Documents" field) for the number of source documents included in the systematic review for each of the guideline questions, including the number of documents initially retrieved in the literature search and the number of documents included after removal of duplicates, application of inclusion/exclusion criteria, and quality appraisal.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Grading of Recommendations Assessment, Development and Evaluation (GRADE) Categories of Quality of Evidence</span></strong></p>
+<p><strong>High</strong>: The panel is very confident that the true effect lies close to that of the estimate of the effect.</p>
+<p><strong>Moderate</strong>: The panel is moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</p>
+<p><strong>Low</strong>: The panel's confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the effect.</p>
+<p><strong>Very low</strong>: The panel has very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of the effect.</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Meta-Analysis</p>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p>Two independent reviewers extracted data in a predefined evidence table and critically appraised the retrieved studies.</p>
+<p>Quality was assessed using the Cochrane Collaboration tool to assess the risk of bias of randomized controlled studies (RCTs) and the Newcastle-Ottawa Quality assessment Scale for cohort studies. Any disagreements were resolved through discussion or after consultation with the senior author, when necessary.</p>
+<p>Meta-analyses of available comparisons were performed using Review Manager version 5.3, as appropriate. Crude estimates were pooled as odds ratios (OR) with 95% confidence intervals (CI) using a random effects model. The Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology was used to assess the quality of the body of retrieved evidence. Based on the rating of the available evidence, the quality of evidence was graded as "high", "moderate", "low" or "very low" (see the "Rating Scheme for the Strength of the Evidence" field).</p>
+<p>Refer to Web Appendices 2-27 (see the "Availability of Companion Documents" field) for detailed information on quality of evidence, evidence tables, and results of meta-analyses for each review question.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">WHO Guideline Development Process</span></strong></p>
+<p>The guidelines were developed following the standard recommendations described in the World Health Organization (WHO) <em>Handbook for guideline development</em> (see the "Availability of Companion Documents" field) and according to a scoping proposal approved by the WHO Guidelines Review Committee.</p>
+<p>The development of the guidelines involved the formation of four main groups to guide the process, and their specific roles are described in the following sections.</p>
+<p><strong>WHO Guideline Steering Group</strong></p>
+<p>The WHO Guideline Steering Group was chaired by the director of the Department of Service Delivery and Safety (SDS). Participating members were from the SDS Infection Prevention and Control (IPC) team, the SDS emergency and essential surgical care programme, the Department of Pandemic and Epidemic Diseases, and the IPC team at the WHO Regional Office of the Americas.</p>
+<p>The Group drafted the initial scoping document for the development of the guidelines. In collaboration with the Guidelines Development Group (GDG), it then identified the primary critical outcomes and priority topics and formulated the related questions in PICO (Patient, Intervention, Comparison, Outcome) format. The Group identified systematic review teams, the guideline methodologist, the members of the GDG and the external reviewers. It supervised also the evidence retrieval and syntheses, organized the GDG meetings, prepared or reviewed the final guideline document, managed the external reviewers' comments and the guideline publication and dissemination.</p>
+<p><strong>Guidelines Development Group</strong></p>
+<p>The WHO Guideline Steering Group identified 20 external experts and stakeholders from the 6 WHO regions to constitute the GDG. Representation was ensured from various professional and stakeholder groups, including surgeons, nurses, IPC and infectious disease specialists, researchers and patient representatives. Geographical representation and gender balance were also considerations when selecting GDG members. Members provided input for the drafting of the scope of the guidelines, the PICO questions and participated in the identification of the methodology for the systematic reviews. In addition, the GDG appraised the evidence that was used to inform the recommendations, advised on the interpretation of the evidence, formulated the final recommendations based on the draft prepared by the WHO Steering Group and reviewed and approved the final guideline document.</p>
+<p><strong>Systematic Reviews Expert Group</strong></p>
+<p>Given the high number of systematic reviews supporting the development of recommendations for the guidelines, a Systematic Reviews Expert Group (SREG) was created. This group included researchers and professionals with a high level of expertise in the selected topics and the conduct of systematic reviews. While some of the reviews were conducted by the WHO IPC team, most SREG experts volunteered to conduct the systematic reviews as an in-kind contribution of their institutions to the development of the guidelines.</p>
+<p>The SREG undertook the systematic reviews and meta-analyses and prepared individual summaries, which are available as web appendices to the guidelines. It assessed also the quality of the evidence and prepared the evidence profiles according to the Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology.</p>
+<p>Some SREG members were also part of the GDG. However, according to the Guideline Review Committee's instructions and to avoid any intellectual conflict, experts leading the systematic reviews were excluded from consensus decision-making for the development of recommendations related to the topic they reviewed, in particular when voting was necessary. As a member of the SREG, the GDG chair was equally excluded from decision-making on recommendations that were based on systematic reviews conducted by himself and his team. Furthermore, in sessions where the chair presented the evidence from systematic reviews conducted by his team, another GDG member was identified to act as the chair.</p>
+<p><strong>External Peer Review Group</strong></p>
+<p>This group included five technical experts with a high level of knowledge and experience in the fields of surgery and IPC. The group was geographically balanced to ensure views from both high- and low- and middle-income countries (LMICs); no member declared a conflict of interest. The group reviewed the final guideline document to identify any factual errors and commented on technical content and evidence, clarity of the language, contextual issues and implications for implementation. The group ensured that the guideline decision-making processes had incorporated contextual values and preferences of potential users of the recommendations, health care professionals and policy-makers. It was not within the remit of this group to change the recommendations formulated by the GDG. However, very useful comments were provided in some cases, which led to modifications of the recommendation text or the explanations provided within the remarks.</p>
+<p><strong><span style="text-decoration: underline;">Formulating the Recommendations</span></strong></p>
+<p>The results of the systematic reviews and meta-analyses were presented at four GDG meetings held in June 2014 and in February, September and November 2015. The evidence profiles and decision-making tables were reviewed to ensure understanding and agreement on the scoring criteria. According to a standard GRADE decision-making table proposed by the methodologist, recommendations were formulated based on the overall quality of the evidence, the balance between benefits and harms, values and preferences and implications for resource use. These were assessed through discussion among members of the GDG. The strength of recommendations was rated as either "strong" (the panel was confident that the benefits of the intervention outweighed the risks) or "conditional" (the panel considered that the benefits of the intervention probably outweighed the risks) (see the "Rating Scheme for the Strength of the Recommendations" field). Recommendations were then formulated and the wording was finalized by consensus. If full consensus could not be achieved, the text was put to the vote and the recommendation was agreed upon according to the opinion of the majority of GDG members.</p>
+<p>In some conditional recommendations, the GDG decided to use the terminology "the panel suggests considering&hellip;" because they considered that it was important to stimulate the user to undertake a thorough decision-making process and to give more flexibility, especially because these recommendations involve important remarks about resource implications and feasibility in LMICs. Areas and topics requiring further research were also identified. After each meeting, the final recommendation tables were circulated and all GDG members provided written approval and comments, if any.</p>
+<p>The systematic reviews targeted patients of any age. In general, these guidelines are valid for both adult and paediatric patients unless specified in the text of the recommendation or in the remarks. In several systematic reviews, no study was retrieved on the paediatric population and thus the GDG discussed whether the recommendations are valid in this population topic by topic. As a result, there are recommendations that are either inapplicable in the paediatric population or not proven due to lack of evidence.</p>
+<p>The guideline methodologist ensured that the GRADE framework was appropriately applied throughout the guideline development process. This included a review of the PICO questions and the results of the systematic reviews and meta-analyses, including participation in re-analyses when appropriate, thus ensuring their comprehensiveness and quality. The methodologist also reviewed all evidence profiles and decision-making tables before and after the GDG meetings and provided guidance to the GDG in formulating the wording and strength of the recommendations.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Strength of Recommendations</span></strong></p>
+<ul style="list-style-type: disc;">
+    <li><strong>Strong</strong>: With strong recommendations, the guideline communicates the message that the desirable effects of adherence to the recommendation outweigh the undesirable effects. This means that in most situations the recommendation can be adopted as policy. </li>
+    <li><strong>Conditional</strong>: These are made when there is greater uncertainty about quality of evidence, balance of benefit versus harms and burdens, values and preferences, and resource use, or if local adaptation has to account for a greater variety in values and preferences, or when resource use makes the intervention suitable for some, but not for other locations. This means that there is a need for substantial debate and involvement of stakeholders before this recommendation can be adopted as policy. </li>
+</ul></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>A cost-effectiveness study found that preoperative whole-body washing with a chlorhexidine gluconate (CHG) solution is not a cost-effective intervention for reducing surgical site infection (SSI). However, it is important to note that this study predominantly consisted of clean surgical procedures for which the risk of SSI is low. Findings from 2 additional studies suggested that the use of CHG-impregnated cloths could lead to reducing health care costs, mainly by decreasing the incidence of SSI. </li>
+    <li>The use of mupirocin, including screening for <em>Staphylococcus aureus (S. aureus)</em> ("screen-and-treat" strategy), was shown to be cost-effective in 2 studies. On average, hospital costs were &euro; 1911 lower per patient treated with mupirocin and CHG soap (n=210) than the costs of care in the placebo arm (n=205; &euro; 8602 vs. &euro; 10 513; P=0.01). </li>
+    <li>A cost-effectiveness study found that although CHG is more expensive, its effectiveness to reduce SSI makes it up to 36% more cost-effective than povidone-iodine (PVP-I). </li>
+    <li>A Canadian study showed that the standard handscrub-related costs of direct supplies were evaluated to be around Can$ 6000 per year for 2000 surgical procedures, not including the cost of cleaning and sterilizing surgical towels. The actual expenses incurred after a full year of handrub use were Can$ 2531 for an annual saving of approximately Can$ 3500. A dramatic decrease in surgical towel use (an average of 300 fewer towels per week) added to the savings. Two other studies from the USA and Cote d'Ivoire showed lower costs with Avagard&reg; and Sterilium&reg; when compared to the use of antiseptic-impregnated hand brushes and a PVP-I product, respectively. </li>
+    <li>Two studies showed lower costs associated with the use of disposable drapes and gowns, whereas a cost-benefit analysis found costs for sterile disposable drapes and gowns to be relatively higher compared with reusable ones. </li>
+    <li>Two small studies found the use of wound protectors to be cost-effective, while one larger trial did not. </li>
+    <li>Cost-effectiveness analyses found laminar airflow to be more expensive compared to a conventional ventilation system. </li>
+</ul>
+<p>Refer to the "Resource use" sections of the original guideline document for cost discussions for each of the guideline topics, including recommendations for which cost-effectiveness studies were not available.</p></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>Draft chapters of the guidelines containing the recommendations were prepared by the World Health Organization (WHO) secretariat and circulated to the Guideline Development Group (GDG) members for final approval and/or comments. Relevant suggested changes were incorporated in a second draft. If GDG comments involved substantial changes to the recommendation, all members participated in online or telephone discussions to reach a final agreement on the text. The second draft was then edited and circulated to the External Peer Review Group and the Guideline Steering Group. The draft document was further revised to address their comments. Suggested changes to the wording of the recommendations or modifications to the scope of the document were not considered in most cases. However, in 3 specific recommendations, most reviewers suggested similar changes and these were considered to be important by the Guideline Steering Group. In these cases, further discussions were undertaken with the GDG through teleconferences and consensus was achieved to make slight changes in the text of the recommendations to meet the reviewers' comments under the guidance of the methodologist.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified and graded for each recommendation (see the "Major Recommendations" field).</p>
+<p>The recommendations are supported by 27 systematic reviews.</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>The overall aim of this guideline is to improve the quality of care and outcome of patients undergoing surgical procedures through the prevention of surgical site infection (SSI).</p>
+<p>Health care-associated infections (HAIs) are acquired by patients when receiving care and are the most frequent adverse event affecting patient safety worldwide. Recent work by the World Health Organization (WHO) Clean Care is Safer Care programme shows that SSI is the most surveyed and frequent type of HAI in low- and middle-income countries (LMICs) and affects up to one third of patients who have undergone a surgical procedure. Although SSI incidence is much lower in high-income countries, it remains the second most frequent type of HAI in Europe and the United States of America (USA). In some European countries, it even represents the most frequent type of HAI. Many factors in a patient's journey through surgery have been identified as contributing to the risk of SSI. The prevention of these infections is complex and requires the integration of a range of measures before, during and after surgery.</p>
+<p>See the "Rationale for the recommendation" and "Summary of the evidence" sections after each recommendation in the original guideline document for additional information on benefits of specific interventions.</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>The Guideline Development Group (GDG) identified possible harm associated with the use of chlorhexidine gluconate (CHG)-containing solutions, although it was stressed that this is a rare occurrence. Two studies found that CHG solutions may cause skin irritation, delayed reactions, such as contact dermatitis and photosensitivity, and hypersensitivity reactions in very rare cases, such as anaphylactic shock. Some of these potential adverse events may be induced also by ingredients of regular soap, such as fragrances. A concern of the GDG was the possible development of reduced susceptibility to CHG, particularly when using CHG-impregnated cloths. </li>
+    <li>The GDG identified possible harms associated with the use of alcohol-based solutions and it was highlighted that they should not be used on neonates or be in contact with mucosa or eyes. CHG solutions must not be allowed to come into contact with the brain, meninges, eye or middle ear. As alcohol is highly flammable, alcohol-based antiseptic preparations may ignite if used in the presence of diathermy and they must be allowed to dry by evaporation. Therefore, it is advisable to ensure that the drapes are not saturated with alcohol or that the alcohol-based solution has not formed a pool underneath the patient before operating. While possible allergies should be accounted for (for example, to povidone-iodine), it should be noted that CHG has a potential risk of causing skin irritation. Operating room (OR) staff should be trained and informed about the potential harms associated with the solutions used for surgical site preparation. </li>
+    <li>The frequency of skin irritation with CHG is concentration-dependent, with products containing 4% most likely to cause dermatitis when used frequently for antiseptic handwashing. True allergic reactions to CHG are very uncommon. </li>
+    <li>The GDG identified antimicrobial resistance (AMR) as an important possible harm associated with the use of mupirocin. Potential allergic reactions to mupirocin can also occur. </li>
+    <li>The GDG identified possible harms of the intervention of MBP with varying levels of severity. These include patient discomfort, electrolyte abnormalities and potentially severe dehydration at the time of anaesthesia and incision. The GDG pointed out that there is an alert issued by the US Food and Drug Administration highlighting that acute phosphate nephropathy (a type of acute renal failure) is a rare but serious adverse event associated with oral sodium phosphate bowel cleansing. </li>
+    <li>Concerns were also raised with regard to the potential adverse effects of the oral antibiotics used (for example, high risk of idiosyncratic reaction with erythromycin). A further concern was AMR as a potential unintended consequence of this intervention. The effectiveness of oral antibiotics may decrease due to their widespread use, thus triggering the emergence of resistant strains. </li>
+    <li>Skin irritation, dryness, dermatitis and some rare allergic reactions are adverse events that can occur following frequent scrubbing for surgical hand preparation. Although these are less frequent with alcohol-based handscrubs (ABHRs) and more frequent with iodophors, even well-tolerated ABHRs containing emollients may cause a transient stinging sensation at any site of broken skin (cuts, abrasions). Allergic contact dermatitis or contact urticaria syndrome caused by hypersensitivity to alcohol or to various additives present in some ABHRs are rare occurrences. ABHR preparations with strong fragrances may be poorly tolerated by a few health care workers with respiratory allergies. </li>
+    <li>When inserting a feeding tube solely to administer multiple nutrient-enhanced nutritional formulas for the purpose of surgical site infection (SSI) prevention, it is important to be aware of the possible discomfort and harm ranging from mucosal irritation and the development of sinusitis to perforation. The GDG identified contaminated preparations as a potential harm, especially due to contaminated water and/or a break in the aseptic technique during preparation. This risk is increased when the feeding takes place at the patient's home. </li>
+    <li>The GDG discussed the possible harms of hyperoxemia, in particular in patients with obstructive lung disease (for example, chronic obstructive pulmonary disease), such as absorption atelectasis with exposure to high oxygen tension and the possibility of depressing ventilation drive, particularly in the postoperative period. </li>
+    <li>The GDG identified a potential harm of skin burns, depending on the warming device (possible with conductive warming mattresses). </li>
+    <li>The increased temperature within the work environment may be a concern for surgical staff. Of note, raising the room temperature is not an option to warm the patient as it causes thermal discomfort for the surgical staff, with an increased risk of dripping sweat onto the surgical site. </li>
+    <li>The GDG emphasized that hypoglycaemia is a possible harm associated with protocols with strict blood glucose target levels. Hypoglycaemia has a serious risk of life-threatening complications, such as cardiac events. </li>
+    <li>The GDG highlighted that if the material of the disposable and reusable surgical drapes and gowns is permeable to liquids, it can expose health care workers to body fluids and also represents a risk for patients. Ideally, the material should be impermeable to prevent the migration of microorganisms. The GDG remarked that both reusable and disposable drapes and gowns commercially available are in permeable or impermeable forms. The GDG identified possible harms associated with the use of disposable drapes in that the adhesive bands of single-use drapes may provoke skin rash or eczema and devices may be dislodged when removing adhesive drapes after the surgical procedure. </li>
+    <li>The GDG identified possible harms associated with the use of wound protector (WP) devices, particularly in patients with abdominal adhesions. In these cases, the insertion of a WP device may be difficult and lead to the need to enlarge the incision, to injuries to the small bowel and to the prolongation of the procedure. A further concern is the limited space to access the surgical field after insertion of the WP. </li>
+    <li>The GDG discussed allergic reactions and metabolic adverse events as potential harms of iodine uptake. However, clinical signs of iodine toxicity were not reported in the included studies. In the case of known or presumed allergy to iodine, other products (for example, chlorhexidine) should be used if incisional wound irrigation is performed. PVP-I must not be allowed to come into contact with exposed meninges and neural tissues, such as the brain or spinal cord. Based on in vitro studies, the GDG also raised concerns about the potential toxic effects of PVP-I on fibroblasts, the mesothelium and the healing of tissue. </li>
+    <li>The GDG identified the appearance of blisters or maceration as possible harms associated with the use of use of negative pressure devices. </li>
+    <li>There is limited evidence that triclosan may have negative effects on wound healing or lead to contact allergy. </li>
+</ul>
+<p>See "Remarks" sections after each Recommendation in the original guideline document and Web Appendices 2-27 (see the "Availability of Companion Documents" field) for additional information on adverse effects of specific interventions.</p></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of the World Health Organization (WHO) concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted and dashed lines on maps represent approximate border lines for which there may not yet be full agreement. </li>
+    <li>The mention of specific companies or of certain manufacturers' products does not imply that they are endorsed or recommended by the WHO in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary products are distinguished by initial capital letters. </li>
+    <li>All reasonable precautions have been taken by the WHO to verify the information contained in this publication. However, the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no event shall the WHO be liable for damages arising from its use. </li>
+    <li>The systematic reviews targeted patients of any age. In general, these guidelines are valid for both adult and paediatric patients unless specified in the text of the recommendation or in the remarks. In several systematic reviews, no study was retrieved on the paediatric population and thus, the Guideline Development Group (GDG) discussed whether the recommendations are valid in this population topic by topic. As a result, there are recommendations that are either inapplicable in the paediatric population or not proven due to lack of evidence. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Dissemination and Implementation of the Guidelines</span></strong></p>
+<p>The overall aim of this guideline is to improve the quality of care and outcome of patients undergoing surgical procedures through the prevention of surgical sight infection (SSI).</p>
+<p>Uptake of the guidelines by all players included in the target audience is essential. In particular, adoption of the recommendations within national and local infection prevention and control (IPC) and safe surgery guidelines and policies is a key element. Their translation into practice in surgical services and operating rooms is the ultimate and most important goal to achieve a reduction of harm due to SSI through the continuum of the patient's surgical journey. The dissemination and implementation of these guidelines are crucial steps that should be undertaken by the international community, as well as by national and local health services.</p>
+<p><strong>Guidelines Implementation</strong></p>
+<p>The IPC team of the World Health Organization (WHO) Service Delivery and Safety Department works with experts and a separate document to accompany the guidelines will be dedicated to strategies for their implementation. This work is based on a systematic literature review aimed at identifying successful strategies and protocols for the implementation of SSI prevention measures, included those recommended by these guidelines.</p>
+<p>The team is also considering the results of some key projects that WHO and other partners have led in the field of safe surgery and SSI prevention over the last years. The results and impact of the dissemination and adoption of the WHO safe surgery checklist will be evaluated and included in the implementation strategy document. Furthermore, over the last 3 years, the WHO IPC team and the Johns Hopkins Armstrong Institute for Patient Safety and Quality (Baltimore, MD) led the implementation of the Surgical Unit-based Safety Programme in hospitals in the WHO African Region and the USA. This was a quasi-experimental before/after study implementing a range of SSI prevention measures, together with infection surveillance, combined with an improvement of the patient safety culture. The quantitative results have shown a significant reduction of SSI and improvement of the patient safety climate, while qualitative evaluations have provided insightful lessons learned on barriers and facilitating factors for implementation. As demonstrated by the Surgical Unit-based Safety Programme and other projects, IPC guidelines are most successfully implemented when embedded in an enabling environment supportive of a patient safety culture. Following expert consultation, the results of all these pieces of work will be included in the implementation strategy document. In addition, a package of more than 20 implementation tools was produced for the Surgical Unit-based Safety Programme. This tool package is in the process of being revised and updated by WHO and it will be issued as the formal implementation package accompanying these guidelines. The package will include SSI prevention, as well as patient safety culture building tools.</p>
+<p><strong>Guidelines Dissemination and Evaluation</strong></p>
+<p>The recommendations in these guidelines will be disseminated through a broad network of international technical partners and stakeholders in the field of IPC, surgery and patient safety, including professional societies and patient organizations. More specifically, the WHO Global Infection Prevention and Control network and the Global Initiative for Emergency and Essential Surgical Care forum will be targeted. Other WHO teams working on IPC projects, WHO country and regional offices, ministries of health, WHO collaborating centres, other United Nations agencies and nongovernmental organizations will be targeted through specific communications and support and collaboration will be provided for dissemination and implementation as appropriate. Dissemination will be done also through all facilities participating in the <em>WHO Save Lives: Clean Your Hands</em> and <em>Safe Surgery Saves Lives</em> global campaigns. Plans are being developed to conduct pilot implementation in some countries, particularly in the African Region and the Region of the Americas. All these activities will be supported by specific communication messages and, importantly, by the implementation strategy document and tool package planned to be issued shortly after publication of the guidelines.</p>
+<p>Dissemination through the scientific literature is considered crucial for the successful uptake and adoption of the recommendations and WHO and members of the Systematic Reviews Expert Group have already submitted some papers for publication in peer-reviewed journals.</p>
+<p>The WHO IPC team will continue to work with all stakeholders and implementers to identify and assess the priorities, barriers and facilitators to guideline implementation. The team will support also the efforts of stakeholders to develop guideline adaptation and implementation strategies tailored to the local context. The recommendations contained in the present guideline should be adapted into locally appropriate documents that are able to meet the specific needs of each country and its health service. Modifications to the recommendations, where necessary, should be limited to conditional recommendations and justifications for any changes should be made in an explicit and transparent manner.</p>
+<p>To assess and follow-up the implementation of these guidelines, an evaluation framework will be developed by the WHO IPC team and colleagues from regional offices. This work will also be based on already available tools from Surgical Unit-based Safety Programme and other IPC projects.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Patient Resources</p>
+                    <p>Quick Reference Guides/Physician Guides</p>
+                    <p>Slide Presentation</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+                    <p>Safety</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>World Health Organization (WHO). Global guidelines for the prevention of surgical site infection. Geneva: World Health Organization (WHO); 2016. 184 p.  [777 references]</td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2016</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>World Health Organization - International Agency</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>Funding for the development of these guidelines was mainly provided by the World Health Organization (WHO), partly funded by the Fleming Fund of the UK Government. However, the views expressed do not necessarily reflect the official policies of the UK Government. The Swiss Government and OASIS Global (USA) also provided essential financial support. The systematic reviews performed by the external expert teams were conducted free of charge as in-kind contributions by the following institutions: Amphia Hospital Breda (the Netherlands); University of Amsterdam (the Netherlands); University of Berlin (Germany); University of Cincinnati (USA); Corporaci&oacute; Sanitaria del Parc Taul&iacute;, University Hospital (Spain); Jinling Hospital and the Medical School of Nanjing University (People's Republic of China).</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>World Health Organization (WHO) Guidelines Development Group</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Chair, Guidelines Development Group</em>: Joseph S Solomkin, University of Cincinnati College of Medicine/OASIS Global, USA</p>
+<p><em>GRADE Methodologist of the WHO Guidelines Development Group</em>: Matthias Egger, University of Bern, Bern, Switzerland</p>
+<p><em>Guidelines Development Group Members</em>: Hanan H Balkhy, King Saud Bin Abdulaziz University for Health Sciences, Kingdom of Saudi Arabia; Marja A Boermeester, University of Amsterdam, the Netherlands; Nizam Damani, Southern Health and Social Service Trust, UK; E Patchen Dellinger, University of Washington, USA; Mazen S Ferwana, King Saud Bin Abdulaziz University for Health Sciences, Kingdom of Saudi Arabia; Petra Gastmeier, Institute of Hygiene and Environmental Medicine, Charit&eacute;-University Medicine Berlin, Germany; Xavier Guirao, Parc Taul&iacute; Hospital Universitari, Spain; Nordiah Jalil, Universiti Kebangsaan Malaysia Medical Centre, Malaysia; Robinah Kaitiritimba, Uganda National Health Consumers' Organization, Uganda; Regina Kamoga, Community Health and Information Network, Uganda; Claire Kilpatrick, Imperial College, London CIPM, S3 Global, UK; Shaheen Mehtar, Stellenbosch University and Infection Control Africa Network, Republic of South Africa; Babacar Ndoye, Infection Control Africa Network Board, Senegal; Peter Nthumba, AIC Kijabe Hospital, Kenya; Leonardo Pagani, Bolzano Central Hospital, Italy and Annecy-Genevois Hospital Centre, France; Didier Pittet, University of Geneva Hospitals, Switzerland; Jianan Ren, Nanjing University, People's Republic of China; Joseph S Solomkin, University of Cincinnati/OASIS Global, USA; Akeau Unahalekhaka, Chiang Mai University, Thailand; Andreas F Widmer, Basel University, Switzerland</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>In accordance with the World Health Organization (WHO) regulations, all members of the Guidelines Development Group (GDG) were required to complete and submit a WHO Declaration of interests form prior to participating in each meeting. External reviewers and members of the Systematic Reviews Expert Group were also required to submit a Declaration of interest form. The secretariat then reviewed and assessed each declaration. In the case of a potential conflict of interest, the reason was presented to the GDG.</p>
+<p>Procedures for the management of declared conflicts of interest were undertaken according to the <em>WHO guidelines for declaration of interests (WHO experts)</em>. Where a conflict of interest was not considered significant enough to pose any risk to the guideline development process or reduce its credibility, the experts were only required to openly declare the potential conflict at the beginning of the Technical Consultation. However, the declared conflicts were considered irrelevant on all occasions and did not warrant any exclusion from the GDG. Therefore, all members participated fully in the formulation of the recommendations and no further action was taken.</p>
+<p>See the "Declaration of Interests" section in the original guideline document for interests declared by GDG members.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712190242/https://www.guideline.gov/Home/Disclaimer?id=50706&amp;contentType=summary&amp;redirect=http%3a%2f%2fapps.who.int%2firis%2fbitstream%2f10665%2f250680%2f1%2f9789241549882-eng.pdf%3fua%3d1" title="WHO Web site">World Health Organization (WHO) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190242im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>WHO global guidelines for the prevention of surgical site infection. Summary. Geneva (Switzerland): World Health Organization (WHO); 2016 Nov 3. 2 p. Available from the <a href="/web/20180712190242/https://www.guideline.gov/Home/Disclaimer?id=50706&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.who.int%2fgpsc%2fSSI-outline.pdf%3fua%3d1" title="WHO Web site">World Health Organization (WHO) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190242im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Global guidelines for the prevention of surgical site infection: an introduction. Slide presentation. Geneva (Switzerland): World Health Organization (WHO); 2016 Nov 3. 12 p. Available from the <a href="/web/20180712190242/https://www.guideline.gov/Home/Disclaimer?id=50706&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.who.int%2fentity%2fgpsc%2fssi-advocacy_slides.pptx%3fua%3d1" title="WHO Web site">WHO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190242im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>WHO handbook for guideline development. 2nd edition. Geneva (Switzerland): World Health Organization (WHO); 2014. 167 p. Available from the <a href="/web/20180712190242/https://www.guideline.gov/Home/Disclaimer?id=50706&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.who.int%2fpublications%2fguidelines%2fhandbook_2nd_ed.pdf%3fua%3d1" title="WHO Web site">WHO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190242im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p>Web appendices 2-27 (systematic reviews) are available from the <a href="/web/20180712190242/https://www.guideline.gov/Home/Disclaimer?id=50706&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.who.int%2fentity%2fgpsc%2fssi-web-appendices%2fen%2findex.html" title="WHO Web site">WHO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190242im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>The following is available:</p>
+<ul style="list-style-type: disc;">
+    <li>Surgical site infections: questions and answers. Geneva (Switzerland): World Health Organization (WHO); 2016. Available from the <a href="/web/20180712190242/https://www.guideline.gov/Home/Disclaimer?id=50706&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.who.int%2fgpsc%2fssi-questions-answers%2fen%2f" title="WHO Web site">World Health Organization (WHO) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712190242im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p class="Disclaimer">Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on May 3, 2017. The information was not verified by the guideline developer.</p>
+<p>This NEATS assessment was completed by ECRI Institute on June 13, 2017. The guideline developer agreed to not review the content.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which may be subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712190242/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712190242/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712190242/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712190242/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712190242/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712190242/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712190242/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712190242/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712190242/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712190242/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712190242/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712190242/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712190242/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712190242/https://www.guideline.gov/disclaimer?id=50706&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712190242im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712190242/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712190242/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712190242/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712190242/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712190242/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712190242/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712190242/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712190242/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712190242/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712190242/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712190242/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712190242/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712190242/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712190242/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712190242/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712190242/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712190242/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712190242/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712190242/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712190242im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712190242/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712190242im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712190242im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712190242/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712190242js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712190242js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 19:02:42 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:37:16 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 1956.881 (3)
+  esindex: 0.007
+  captures_list: 1977.157
+  CDXLines.iter: 16.813 (3)
+  PetaboxLoader3.datanode: 1191.929 (4)
+  exclusion.robots: 0.22
+  exclusion.robots.policy: 0.207
+  RedisCDXSource: 0.567
+  PetaboxLoader3.resolve: 753.813 (2)
+  load_resource: 21.367
+-->

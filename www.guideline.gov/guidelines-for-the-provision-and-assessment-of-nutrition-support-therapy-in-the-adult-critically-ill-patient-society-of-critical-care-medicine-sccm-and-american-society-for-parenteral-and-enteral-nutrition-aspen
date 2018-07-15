@@ -1,0 +1,1332 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app22.us.archive.org';v.server_ms=559;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Guidelines for the provision and assessment of nutrition support therapy in the adult critically ill patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.). | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712205650im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712205650im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712205650im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712205650im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712205650/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712205650im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712205650cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712205650js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712205650if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712205650/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712205650if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712205650/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712205650/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712205650/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712205650/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712205650im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712205650im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712205650im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712205650/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712205650/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712205650/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712205650/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712205650/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712205650/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712205650/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712205650/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712205650/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712205650/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712205650/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712205650/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712205650/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712205650/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712205650/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712205650/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712205650/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712205650/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712205650/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712205650/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712205650/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010952</li>
+            <li>2016 Feb
+            </li>            
+                                </ul>
+        <div>
+                <h1>Guidelines for the provision and assessment of nutrition support therapy in the adult critically ill patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.).</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712205650/https://www.guideline.gov/search?f_Guideline_Developer_String=American%20Society%20for%20Parenteral%20and%20Enteral%20Nutrition&amp;fLockTerm=American%2BSociety%2Bfor%2BParenteral%2Band%2BEnteral%2BNutrition">American Society for Parenteral and Enteral Nutrition</a></li>
+                        <li>   
+                                <a id="100" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+        <li><a href="/web/20180712205650/https://www.guideline.gov/search?f_Guideline_Developer_String=Society%20of%20Critical%20Care%20Medicine&amp;fLockTerm=Society%2Bof%2BCritical%2BCare%2BMedicine">Society of Critical Care Medicine</a></li>
+                        <li>   
+                                <a id="335" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>McClave SA, Taylor BE, Martindale RG, Warren MM, Johnson DR, Braunschweig C, McCarthy MS, Davanos E, Rice TW, Cresci GA, Gervasio JM, Sacks GS, Roberts PR, Compher C, Society of Critical Care Medicine, American Society for Parenteral and Enteral Nutrition. Guidelines for the provision and assessment of nutrition support therapy in the adult critically ill patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.). JPEN J Parenter Enteral Nutr. 2016 Feb;40(2):159-211. [480 references] <a href="https://web.archive.org/web/20180712205650/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26773077" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712205650im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712205650/https://www.guideline.gov/Home/Disclaimer?id=50143&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fpen.sagepub.com%252fcontent%252f40%252f2%252f159.full.pdf">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205650im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712205650/https://www.guideline.gov/search?f_Age_of_Target_Population=Adolescent%20%2813%20to%2018%20years%29&amp;fLockTerm=Adolescent%2B%2813%2Bto%2B18%2Byears%29">Adolescent (13 to 18 years)</a></li>                      
+                        <li><a href="/web/20180712205650/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712205650/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712205650/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712205650/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712205650/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712205650/https://www.guideline.gov/search?f_ICD9CM_CUI=C0001339&amp;fLockTerm=Acute+pancreatitis">Acute pancreatitis</a>
+ (577.0), <a href="/web/20180712205650/https://www.guideline.gov/search?f_ICD9CM_CUI=C0006434&amp;fLockTerm=Burn+of+unspecified+site%2c+unspecified+degree">Burn of unspecified site, unspecified degree</a>
+ (949.0), <a href="/web/20180712205650/https://www.guideline.gov/search?f_ICD9CM_CUI=C0028754&amp;fLockTerm=Obesity%2c+unspecified">Obesity, unspecified</a>
+ (278.00), <a href="/web/20180712205650/https://www.guideline.gov/search?f_ICD9CM_CUI=C0243026&amp;fLockTerm=Sepsis">Sepsis</a>
+ (995.91)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0003402&amp;fLockTerm=Antioxidants">Antioxidants</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0876926&amp;fLockTerm=Brain+Injuries%2c+Traumatic">Brain Injuries, Traumatic</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0006434&amp;fLockTerm=Burns">Burns</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0008679&amp;fLockTerm=Chronic+Disease">Chronic Disease</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0009488&amp;fLockTerm=Comorbidity">Comorbidity</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0010340&amp;fLockTerm=Critical+Illness">Critical Illness</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0012173&amp;fLockTerm=Dietary+Fiber">Dietary Fiber</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0014327&amp;fLockTerm=Enteral+Nutrition">Enteral Nutrition</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0016497&amp;fLockTerm=Food%2c+Formulated">Food, Formulated</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0026162&amp;fLockTerm=Minerals">Minerals</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0026766&amp;fLockTerm=Multiple+Organ+Failure">Multiple Organ Failure</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0028708&amp;fLockTerm=Nutrition+Assessment">Nutrition Assessment</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C2937349&amp;fLockTerm=Nutrition+Therapy">Nutrition Therapy</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0242739&amp;fLockTerm=Nutritional+Support">Nutritional Support</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0028754&amp;fLockTerm=Obesity">Obesity</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0030547&amp;fLockTerm=Parenteral+Nutrition">Parenteral Nutrition</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0525033&amp;fLockTerm=Probiotics">Probiotics</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0243026&amp;fLockTerm=Sepsis">Sepsis</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0039552&amp;fLockTerm=Terminally+Ill">Terminally Ill</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MSH_CUI=C0043251&amp;fLockTerm=Wounds+and+Injuries">Wounds and Injuries</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0003402&amp;fLockTerm=Antioxidants">Antioxidants</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0006434&amp;fLockTerm=Burn+injury">Burn injury</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0008679&amp;fLockTerm=Chronic+disease">Chronic disease</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0012173&amp;fLockTerm=Dietary+Fiber">Dietary Fiber</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0086225&amp;fLockTerm=Enteral+Feeding">Enteral Feeding</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0014327&amp;fLockTerm=Enteral+Nutrition">Enteral Nutrition</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0086337&amp;fLockTerm=Gastric+Feeding+Tubes">Gastric Feeding Tubes</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0085559&amp;fLockTerm=intensive+care">intensive care</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C1257928&amp;fLockTerm=Medical+Nutrition+Therapy">Medical Nutrition Therapy</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0026162&amp;fLockTerm=Minerals">Minerals</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0026766&amp;fLockTerm=Multiple+Organ+Failure">Multiple Organ Failure</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0028708&amp;fLockTerm=Nutrition+Assessment">Nutrition Assessment</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C2937349&amp;fLockTerm=Nutrition+Therapy">Nutrition Therapy</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0242739&amp;fLockTerm=Nutritional+Support">Nutritional Support</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0028754&amp;fLockTerm=Obesity">Obesity</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0030547&amp;fLockTerm=Parenteral+Nutrition">Parenteral Nutrition</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0243026&amp;fLockTerm=Sepsis">Sepsis</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0679247&amp;fLockTerm=Terminal+illness">Terminal illness</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0876926&amp;fLockTerm=Traumatic+Brain+Injury">Traumatic Brain Injury</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_MTH_CUI=C0043251&amp;fLockTerm=Wounds+and+Injuries">Wounds and Injuries</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712205650/https://www.guideline.gov/search?f_PDQ_CUI=C0242739&amp;fLockTerm=nutritional+support">nutritional support</a>
+, <a href="/web/20180712205650/https://www.guideline.gov/search?f_PDQ_CUI=C0028754&amp;fLockTerm=obesity">obesity</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0001339&amp;fLockTerm=Acute+pancreatitis">Acute pancreatitis</a>
+ (197456007), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0028708&amp;fLockTerm=Assessment+of+nutritional+status">Assessment of nutritional status</a>
+ (1759002), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0028708&amp;fLockTerm=Assessment+of+nutritional+status">Assessment of nutritional status</a>
+ (310243009), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0006434&amp;fLockTerm=Burn+injury">Burn injury</a>
+ (125666000), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0006434&amp;fLockTerm=Burn+injury">Burn injury</a>
+ (48333001), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0008679&amp;fLockTerm=Chronic+disease">Chronic disease</a>
+ (27624003), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0012173&amp;fLockTerm=Dietary+fiber">Dietary fiber</a>
+ (116272000), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0086225&amp;fLockTerm=Enteral+feeding">Enteral feeding</a>
+ (229912004), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0026162&amp;fLockTerm=Mineral">Mineral</a>
+ (87918000), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0026766&amp;fLockTerm=Multiple+organ+failure">Multiple organ failure</a>
+ (57653000), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2937349&amp;fLockTerm=Nutrition+therapy">Nutrition therapy</a>
+ (386373004), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0242739&amp;fLockTerm=Nutritional+support">Nutritional support</a>
+ (278906000), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0028754&amp;fLockTerm=Obesity">Obesity</a>
+ (414915002), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0028754&amp;fLockTerm=Obesity">Obesity</a>
+ (414916001), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0243026&amp;fLockTerm=Sepsis">Sepsis</a>
+ (91302008), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0679247&amp;fLockTerm=Terminal+illness">Terminal illness</a>
+ (300936002), <a href="/web/20180712205650/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0876926&amp;fLockTerm=Traumatic+brain+injury">Traumatic brain injury</a>
+ (127295002)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712205650/https://www.guideline.gov/search?f_UMD_CUI=C3204195&amp;fLockTerm=Tubes%2c+Gastrostomy%2c+Feeding%2c+Surgical">Tubes, Gastrostomy, Feeding, Surgical</a>
+ (27-142), <a href="/web/20180712205650/https://www.guideline.gov/search?f_UMD_CUI=C0184121&amp;fLockTerm=Tubes%2c+Nasoenteral%2c+Feeding">Tubes, Nasoenteral, Feeding</a>
+ (16-798)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#430" class="section-mark">Contraindications</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712205650/https://www.guideline.gov/summaries/downloadcontent/ngc-10952?contentType=pdf" class="pdf">.PDF 154.6 kb</a></li>
+                            <li><a href="/web/20180712205650/https://www.guideline.gov/summaries/downloadcontent/ngc-10952?contentType=word" class="word">Word Document 361.3 kb</a></li>
+                            <li><a href="/web/20180712205650/https://www.guideline.gov/summaries/downloadcontent/ngc-10952?contentType=xml" class="xml">.XML 100.9 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205650/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/50143/guidelines-for-the-provision-and-assessment-of-nutrition-support-therapy-in-the-adult-critically-ill-patient-society-of-critical-care-medicine-sccm-and-american-society-for-parenteral-and-enteral-nutrition-aspen" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205650/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/50143/guidelines-for-the-provision-and-assessment-of-nutrition-support-therapy-in-the-adult-critically-ill-patient-society-of-critical-care-medicine-sccm-and-american-society-for-parenteral-and-enteral-nutrition-aspen" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205650/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/50143/guidelines-for-the-provision-and-assessment-of-nutrition-support-therapy-in-the-adult-critically-ill-patient-society-of-critical-care-medicine-sccm-and-american-society-for-parenteral-and-enteral-nutrition-aspen&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712205650/mailto:/?Subject=AHRQ: Guidelines for the provision and assessment of nutrition support therapy in the adult critically ill patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.).&amp;body=https://www.guideline.gov/summaries/summary/50143/guidelines-for-the-provision-and-assessment-of-nutrition-support-therapy-in-the-adult-critically-ill-patient-society-of-critical-care-medicine-sccm-and-american-society-for-parenteral-and-enteral-nutrition-aspen" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Guidelines for the provision and assessment of nutrition support therapy in the adult critically ill patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.). In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2016 Feb 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712205650/https://www.guideline.gov/summaries/citedownload/50143?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712205650/https://www.guideline.gov/summaries/citedownload/50143?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712205650/https://www.guideline.gov/summaries/citedownload/50143?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712205650/https://www.guideline.gov/summaries/citedownload/50143?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712205650/https://www.guideline.gov/summaries/citedownload/50143?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712205650/https://www.guideline.gov/summaries/citedownload/50143">RefWorks</a></li>
+                            <li><a href="/web/20180712205650/https://www.guideline.gov/summaries/citedownload/50143?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="50143" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>Definitions for the grading of recommendations (<strong>Strong</strong>, <strong>Weak</strong>) and quality of evidence (<strong>High</strong>, <strong>Moderate</strong>, <strong>Low</strong>, <strong>Very Low</strong>) are provided at the end of the "Major Recommendations" field. </p>
+<p><strong><span style="text-decoration: underline;">A. Nutrition Assessment</span></strong></p>
+<p><strong>Question: Does the use of a nutrition risk indicator identify patients who will most likely benefit from nutrition therapy?</strong></p>
+<p><strong>A1</strong>. Based on expert consensus, the committee suggests a determination of nutrition risk (e.g., nutritional risk screening [NRS 2002], NUTRIC score) be performed on all patients admitted to the intensive care unit (ICU) for whom volitional intake is anticipated to be insufficient. High nutrition risk identifies those patients most likely to benefit from early enteral nutrition (EN) therapy.</p>
+<p><strong>A2</strong>. Based on expert consensus, the committee suggests that nutrition assessment include an evaluation of comorbid conditions, function of the gastrointestinal (GI) tract, and risk of aspiration. The authors suggest not using traditional nutrition indicators or surrogate markers, as they are not validated in critical care.</p>
+<p><strong>Question: What is the best method for determining energy needs in the critically ill adult patient?</strong></p>
+<p><strong>A3a</strong>. The committee suggests that indirect calorimetry (IC) be used to determine energy requirements, when available and in the absence of variables that affect the accuracy of measurement.</p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>A3b</strong>. Based on expert consensus, in the absence of IC, the committee suggests that a published predictive equation or a simplistic weight-based equation (25&ndash;30 kcal/kg/d) be used to determine energy requirements (see Section Q, "Obesity in Critical Illness," below for obesity recommendations).</p>
+<p><strong>Question: Should protein provision be monitored independently from energy provision in critically ill adult patients?</strong></p>
+<p><strong>A4</strong>. Based on expert consensus, the committee suggests an ongoing evaluation of adequacy of protein provision be performed.</p>
+<p><strong><span style="text-decoration: underline;">B. Initiate EN</span></strong></p>
+<p><strong>Question: What is the benefit of early EN in critically ill adult patients compared with withholding or delaying this therapy?</strong></p>
+<p><strong>B1</strong>. The committee recommends that nutrition support therapy in the form of early EN be initiated within 24 to 48 hours in the critically ill patient who is unable to maintain volitional intake.</p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Strong</strong></p>
+<p><strong>Question: Is there a difference in outcome between the use of EN or parenteral nutrition (PN) for adult critically ill patients?</strong></p>
+<p><strong>B2</strong>. The committee suggests the use of EN over PN in critically ill patients who require nutrition support therapy.</p>
+<p><em>Quality of Evidence</em>: <strong>Low to Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Is the clinical evidence of contractility (bowel sounds, flatus) required prior to initiating EN in critically ill adult patients?</strong></p>
+<p><strong>B3</strong>. Based on expert consensus, the committee suggests that, in the majority of medical ICU (MICU) and surgical ICU (SICU) patient populations, while GI contractility factors should be evaluated when initiating EN, overt signs of contractility should not be required prior to initiation of EN.</p>
+<p><strong>Question: What is the preferred level of infusion of EN within the GI tract for critically ill patients? How does the level of infusion of EN affect patient outcomes?</strong></p>
+<p><strong>B4a</strong>. The committee recommends that the level of infusion be diverted lower in the GI tract in those critically ill patients at high risk for aspiration (see D4 under "Monitoring Tolerance and Adequacy of EN" below) or those who have shown intolerance to gastric EN.</p>
+<p><em>Quality of Evidence</em>: <strong>Moderate to High</strong><br/>
+<em>Recommendation Strength</em>: <strong>Strong</strong></p>
+<p><strong>B4b</strong>. Based on expert consensus the committee suggests that, in most critically ill patients, it is acceptable to initiate EN in the stomach.</p>
+<p><strong>Question: Is EN safe during periods of hemodynamic instability in adult critically ill patients?</strong></p>
+<p><strong>B5</strong>. Based on expert consensus, the committee suggests that in the setting of hemodynamic compromise or instability, EN should be withheld until the patient is fully resuscitated and/or stable. Initiation/reinitiation of EN may be considered with caution in patients undergoing withdrawal of vasopressor support.</p>
+<p><strong><span style="text-decoration: underline;">C. Dosing of EN</span></strong></p>
+<p><strong>Question: What population of patients in the ICU setting does not require nutrition support therapy over the first week of hospitalization?</strong></p>
+<p><strong>C1</strong>. Based on expert consensus, the committee suggests that patients who are at low nutrition risk with normal baseline nutrition status and low disease severity (e.g., NRS 2002 &le;3 or NUTRIC score &le;5) who cannot maintain volitional intake do not require specialized nutrition therapy over the first week of hospitalization in the ICU.</p>
+<p><strong>Question: For which population of patients in the ICU setting is it appropriate to provide trophic EN over the first week of hospitalization?</strong></p>
+<p><strong>C2</strong>. The committee recommends that either trophic or full nutrition by EN is appropriate for patients with acute respiratory distress syndrome (ARDS)/acute lung injury (ALI) and those expected to have a duration of mechanical ventilation &ge;72 hours, as these 2 strategies of feeding have similar patient outcomes over the first week of hospitalization.</p>
+<p><em>Quality of Evidence</em>: <strong>High</strong><br/>
+<em>Recommendation Strength</em>: <strong>Strong</strong></p>
+<p><strong>Question: What population of patients in the ICU requires full EN (as close as possible to target nutrition goals) beginning in the first week of hospitalization? How soon should target nutrition goals be reached in these patients?</strong></p>
+<p><strong>C3</strong>. Based on expert consensus, the committee suggests that patients who are at high nutrition risk (e.g., NRS 2002 &ge;5 or NUTRIC score &ge;5, without interleukin 6) or severely malnourished should be advanced toward goal as quickly as tolerated over 24 to 48 hours while monitoring for refeeding syndrome. Efforts to provide &gt;80% of estimated or calculated goal energy and protein within 48 to 72 hours should be made to achieve the clinical benefit of EN over the first week of hospitalization.</p>
+<p><strong>Question: Does the amount of protein provided make a difference in clinical outcomes of adult critically ill patients?</strong></p>
+<p><strong>C4</strong>. The committee suggests that sufficient (high-dose) protein should be provided. Protein requirements are expected to be in the range of 1.2&ndash;2.0 g/kg actual body weight per day and may likely be even higher in burn or multitrauma patients (see Section M, "Surgical Subsets," and Section P, "Chronically Critically Ill," below).</p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong><span style="text-decoration: underline;">D. Monitoring Tolerance and Adequacy of EN</span></strong></p>
+<p><strong>Question: How should tolerance of EN be monitored in the adult critically ill population?</strong></p>
+<p><strong>D1</strong>. Based on expert consensus, the committee suggests that patients should be monitored daily for tolerance of EN. The committee suggests that inappropriate cessation of EN should be avoided. The committee suggests that ordering a feeding status of nil per os (NPO) for the patient surrounding the time of diagnostic tests or procedures should be minimized to limit propagation of ileus and to prevent inadequate nutrient delivery.</p>
+<p><strong>Question: Should gastric residual volumes (GRVs) be used as a marker for aspiration to monitor ICU patients receiving EN?</strong></p>
+<p><strong>D2a</strong>. The authors suggest that GRVs not be used as part of routine care to monitor ICU patients receiving EN.</p>
+<p><em>Quality of Evidence</em>: <strong>Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>D2b</strong>. The committee suggests that, for those ICUs where GRVs are still utilized, holding EN for GRVs &lt;500 mL in the absence of other signs of intolerance (see D1 above) should be avoided.</p>
+<p><em>Quality of Evidence</em>: <strong>Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Should EN Feeding Protocols Be Used in the Adult ICU Setting?</strong></p>
+<p><strong>D3a</strong>. The committee recommends that enteral feeding protocols be designed and implemented to increase the overall percentage of goal calories provided.</p>
+<p><em>Quality of Evidence</em>: <strong>Moderate to High</strong><br/>
+<em>Recommendation Strength</em>: <strong>Strong</strong></p>
+<p><strong>D3b</strong>. Based on expert consensus, the committee suggests that use of a volume-based feeding protocol or a top-down multistrategy protocol be considered. </p>
+<p><strong>Question: How can risk of aspiration be assessed in critically ill adult patients receiving EN, and what measures may be taken to reduce the likelihood of aspiration pneumonia?</strong></p>
+<p><strong>D4</strong>. Based on expert consensus, the committee suggests that patients receiving EN should be assessed for risk of aspiration and that steps to reduce risk of aspiration and aspiration pneumonia should be proactively employed.</p>
+<p><strong>D4a</strong>. The committee recommends diverting the level of feeding by postpyloric enteral access device placement in patients deemed to be at high risk for aspiration (see also B5 in the "Initiate EN" section above).</p>
+<p><em>Quality of Evidence</em>: <strong>Moderate to High</strong><br/>
+<em>Recommendation Strength</em>: <strong>Strong</strong></p>
+<p><strong>D4b</strong>. Based on expert consensus, the committee suggests that for high-risk patients or those shown to be intolerant to bolus gastric EN, delivery of EN should be switched to continuous infusion.</p>
+<p><strong>D4c</strong>. The committee suggests that, in patients at high risk of aspiration, agents to promote motility, such as prokinetic medications (metoclopramide or erythromycin), be initiated where clinically feasible.</p>
+<p><em>Quality of Evidence</em>: <strong>Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>D4d</strong>. Based on expert consensus, the authors suggest that nursing directives to reduce risk of aspiration and ventilator-associated pneumonia (VAP) be employed. In all intubated ICU patients receiving EN, the head of the bed should be elevated 30&deg; to 45&deg; and use of chlorhexidine mouthwash twice a day should be considered.</p>
+<p><strong>Question: Are surrogate markers useful in determining aspiration in the critical care setting?</strong></p>
+<p><strong>D5</strong>. Based on expert consensus, the committee suggests that neither blue food coloring nor any coloring agent be used as a marker for aspiration of EN. Based on expert consensus, the authors also suggest that glucose oxidase strips not be used as surrogate markers for aspiration in the critical care setting.</p>
+<p><strong>Question: How should diarrhea associated with EN be assessed in the adult critically ill population?</strong></p>
+<p><strong>D6</strong>. Based on expert consensus, the committee suggests that EN not be automatically interrupted for diarrhea but rather that feeds be continued while evaluating the etiology of diarrhea in an ICU patient to determine appropriate treatment.</p>
+<p><strong><span style="text-decoration: underline;">E. Selection of Appropriate Enteral Formulation</span></strong></p>
+<p><strong>Question: Which formula should be used when initiating EN in the critically ill patient?</strong></p>
+<p><strong>E1</strong>. Based on expert consensus, the committee suggests using a standard polymeric formula when initiating EN in the ICU setting. They suggest avoiding the routine use of all specialty formulas in critically ill patients in a MICU and disease-specific formulas in the SICU.</p>
+<p><strong>Question: Do immune-modulating enteral formulations have an impact on clinical outcomes for the critically ill patient regardless of the ICU setting?</strong></p>
+<p><strong>E2</strong>. The committee suggests immune-modulating enteral formulations (arginine with other agents, including eicosapentaenoic acid [EPA], docosahexaenoic acid [DHA], glutamine, and nucleic acid) should not be used routinely in the MICU. Consideration for these formulations should be reserved for patients with traumatic brain injury (TBI) and perioperative patients in the SICU (see Section O, "Postoperative Major Surgery [SICU Admission Expected]," and Section M, "Surgical Subsets," below).</p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Should EN formulas with fish oils (FOs), borage oil, and antioxidants be used in patients with ALI or ARDS?</strong></p>
+<p><strong>E3</strong>. The committee cannot make a recommendation at this time regarding the routine use of an enteral formulation characterized by an anti-inflammatory lipid profile (e.g., omega-3 FOs, borage oil) and antioxidants in patients with ARDS and severe ALI, given conflicting data.</p>
+<p><em>Quality of Evidence</em>: <strong>Low to Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: In adult critically ill patients, what are the indications, if any, for enteral formulations containing soluble fiber or small peptides?</strong></p>
+<p><strong>E4a</strong>. The committee suggests that a commercial mixed fiber formula not be used routinely in the adult critically ill patient prophylactically to promote bowel regularity or prevent diarrhea.</p>
+<p><em>Quality of Evidence</em>: <strong>Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>E4b</strong>. Based on expert consensus, the committee suggests considering use of a commercial mixed fiber-containing formulation if there is evidence of persistent diarrhea. The committee suggests avoiding both soluble and insoluble fiber in patients at high risk for bowel ischemia or severe dysmotility. The committee suggests considering use of small peptide formulations in the patient with persistent diarrhea, with suspected malabsorption or lack of response to fiber.</p>
+<p><strong><span style="text-decoration: underline;">F. Adjunctive Therapy</span></strong></p>
+<p><strong>Question: Should a fiber additive be used routinely in all hemodynamically stable ICU patients on standard enteral formulas? Should a soluble fiber supplement be provided as adjunctive therapy in the critically ill patient who develops diarrhea and is receiving a standard non-fiber-containing enteral formula?</strong></p>
+<p><strong>F1</strong>. Based on expert consensus, the committee suggests that a fermentable soluble fiber additive (e.g., fructooligossaccharides [FOSs], inulin) be considered for routine use in all hemodynamically stable MICU/SICU patients placed on a standard enteral formulation. The committee suggests that 10&ndash;20 g of a fermentable soluble fiber supplement be given in divided doses over 24 hours as adjunctive therapy if there is evidence of diarrhea.</p>
+<p><strong>Question: Is there a role for probiotic administration in critically ill patients? Is there any harm in delivering probiotics to critically ill patients? </strong></p>
+<p><strong>F2</strong>. The committee suggests that, while the use of studied probiotics species and strains appear to be safe in general ICU patients, they should be used only for select medical and surgical patient populations for which randomized controlled trials (RCTs) have documented safety and outcome benefit. The committee cannot make a recommendation at this time for the routine use of probiotics across the general population of ICU patients.</p>
+<p><em>Quality of Evidence</em>: <strong>Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Does the provision of antioxidants and trace minerals affect outcome in critically ill adult patients?</strong></p>
+<p><strong>F3</strong>. The committee suggests that a combination of antioxidant vitamins and trace minerals in doses reported to be safe in critically ill patients be provided to those patients who require specialized nutrition therapy.</p>
+<p><em>Quality of Evidence</em>: <strong>Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Should enteral glutamine be provided to any subsets of patients in the adult ICU setting?</strong></p>
+<p><strong>F4</strong>. The committee suggests that supplemental enteral glutamine not be added to an EN regimen routinely in critically ill patients.</p>
+<p><em>Quality of Evidence</em>: <strong>Moderate</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong><span style="text-decoration: underline;">G. When to Use PN</span></strong></p>
+<p><strong>Question: When should PN be initiated in the adult critically ill patient at low nutrition risk? </strong></p>
+<p><strong>G1</strong>. The committee suggests that, in the patient at low nutrition risk (e.g., NRS 2002 &le;3 or NUTRIC score &le;5), exclusive PN be withheld over the first 7 days following ICU admission if the patient cannot maintain volitional intake and if early EN is not feasible. </p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: When should PN begin in the critically ill patient at high nutrition risk? </strong></p>
+<p><strong>G2</strong>. Based on expert consensus, in the patient determined to be at high nutrition risk (e.g., NRS 2002 &ge;5 or NUTRIC score &ge;5) or severely malnourished, when EN is not feasible, the committee suggests initiating exclusive PN as soon as possible following ICU admission.</p>
+<p><strong>Question: What is the optimal timing for initiating supplemental PN when EN does not meet energy or protein goals in the patient at low or high nutrition risk?</strong></p>
+<p><strong>G3</strong>. The committee recommends that, in patients at either low or high nutrition risk, use of supplemental PN be considered after 7 to 10 days if unable to meet &gt;60% of energy and protein requirements by the enteral route alone. Initiating supplemental PN prior to this 7- to 10-day period in critically ill patients on some EN does not improve outcomes and may be detrimental to the patient.</p>
+<p><em>Quality of Evidence</em>: <strong>Moderate</strong><br/>
+<em>Recommendation Strength</em>: <strong>Strong</strong></p>
+<p><strong><span style="text-decoration: underline;">H. When Indicated, Maximize Efficacy of PN</span></strong></p>
+<p><strong>Question: When PN is needed in the adult critically ill patient, what strategies can be adopted to improve efficacy?</strong></p>
+<p><strong>H1</strong>. Based on expert consensus, the committee suggests the use of protocols and nutrition support teams to help incorporate strategies to maximize efficacy and reduce associated risk of PN. </p>
+<p><strong>Question: In the appropriate candidate for PN (high risk or severely malnourished), should the dose be adjusted over the first week of hospitalization in the ICU? </strong></p>
+<p><strong>H2</strong>. The committee suggests that hypocaloric PN dosing (&le;20 kcal/kg/d or 80% of estimated energy needs) with adequate protein (&ge;1.2 g protein/kg/d) be considered in appropriate patients (high risk or severely malnourished) requiring PN, initially over the first week of hospitalization in the ICU.</p>
+<p><em>Quality of Evidence</em>: <strong>Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Should soy-based intravenous fat emulsions (IVFEs) be provided in the first week of ICU stay? Is there an advantage to using alternative IVFEs (i.e., medium-chain triglycerides [MCTs], olive oil [OO], FO, mixture of oils) over traditional soybean oil (SO)&ndash;based lipid emulsions in critically ill adult patients?</strong></p>
+<p><strong>H3a</strong>. The committee suggests withholding or limiting SO-based IVFE during the first week following initiation of PN in the critically ill patient to a maximum of 100 g/wk (often divided into 2 doses/wk) if there is concern for essential fatty acid deficiency. </p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>H3b</strong>. Alternative IVFEs may provide outcome benefit over soy-based IVFEs; however, the committee cannot make a recommendation at this time due to lack of availability of these products in the United States. When these alternative IVFEs (SMOF [soybean oil, MCT, olive oil, and fish oil emulsion], MCT, OO, and FO) become available in the United States, based on expert opinion, the authors suggest that their use be considered in the critically ill patient who is an appropriate candidate for PN. </p>
+<p><strong>Question: Is there an advantage to using standardized commercially available PN (premixed PN) versus compounded PN admixtures?</strong></p>
+<p><strong>H4</strong>. Based on expert consensus, use of standardized commercially available PN versus compounded PN admixtures in the ICU patient has no advantage in terms of clinical outcomes. </p>
+<p><strong>Question: What is the desired target blood glucose range in adult ICU patients?</strong></p>
+<p><strong>H5</strong>. The committee recommends a target blood glucose range of 140 or 150&ndash;180 mg/dL for the general ICU population; ranges for specific patient populations (postcardiovascular surgery, head trauma) may differ and are beyond the scope of this guideline.</p>
+<p><em>Quality of Evidence</em>: <strong>Moderate</strong><br/>
+<em>Recommendation Strength</em>: <strong>Strong</strong></p>
+<p><strong>Question: Should parenteral glutamine be used in the adult ICU patient?</strong></p>
+<p><strong>H6</strong>. The committee recommends that parenteral glutamine supplementation not be used routinely in the critical care setting.</p>
+<p><em>Quality of Evidence</em>: <strong>Moderate</strong><br/>
+<em>Recommendation Strength</em>: <strong>Strong</strong></p>
+<p><strong>Question: In transition feeding, as an increasing volume of EN is tolerated by a patient already receiving PN, at what point should the PN be terminated?</strong></p>
+<p><strong>H7</strong>. Based on expert consensus, the committee suggests that, as tolerance to EN improves, the amount of PN energy should be reduced and finally discontinued when the patient is receiving &gt;60% of target energy requirements from EN.</p>
+<p><strong><span style="text-decoration: underline;">I: Pulmonary Failure</span></strong></p>
+<p><strong>Question: What is the optimal carbohydrate/fat ratio for the adult ICU patient with pulmonary failure?</strong></p>
+<p><strong>I1</strong>. The committee suggests that specialty high-fat/low-carbohydrate formulations designed to manipulate the respiratory quotient and reduce CO<sub>2</sub> production not be used in ICU patients with acute respiratory failure.</p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Does use of energy-dense EN formulas to restrict fluid administration benefit the adult ICU patient with acute respiratory failure? </strong></p>
+<p><strong>I2</strong>. Based on expert consensus, the committee suggests that fluid-restricted energy-dense EN formulations be considered for patients with acute respiratory failure (especially if in a state of volume overload). </p>
+<p><strong>Question: Should serum phosphate concentrations be monitored when EN or PN is initiated in the ICU patient with respiratory failure?</strong></p>
+<p><strong>I3</strong>. Based on expert consensus, the committee suggests that serum phosphate concentrations should be monitored closely and phosphate replaced appropriately when needed.</p>
+<p><strong><span style="text-decoration: underline;">J. Renal Failure</span></strong></p>
+<p><strong>Question: In adult critically ill patients with acute kidney injury (AKI), what are the indications for use of specialty enteral formulations? What are appropriate energy and protein recommendations to reduce morbidity in AKI?</strong></p>
+<p><strong>J1</strong>. Based on expert consensus, the committee suggests that ICU patients with acute renal failure (ARF) or AKI be placed on a standard enteral formulation and that standard ICU recommendations for protein (1.2&ndash;2 g/kg actual body weight per day) and energy (25&ndash;30 kcal/kg/d) provision should be followed. If significant electrolyte abnormalities develop, a specialty formulation designed for renal failure (with appropriate electrolyte profile) may be considered. </p>
+<p><strong>Question: In adult critically ill patients with AKI receiving hemodialysis or continuous renal replacement therapy (CRRT), what are appropriate targets for protein intake to support increased nitrogen losses?</strong></p>
+<p><strong>J2</strong>. The committee recommends that patients receiving frequent hemodialysis or CRRT receive increased protein, up to a maximum of 2.5 g/kg/d. Protein should not be restricted in patients with renal insufficiency as a means to avoid or delay initiating dialysis therapy.</p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong><span style="text-decoration: underline;">K. Hepatic Failure</span></strong></p>
+<p><strong>Question: Should energy and protein requirements be determined similarly in critically ill patients with hepatic failure as in those without hepatic failure?</strong></p>
+<p><strong>K1</strong>. Based on expert consensus, the committee suggests a dry weight or usual weight be used instead of actual weight in predictive equations to determine energy and protein in patients with cirrhosis and hepatic failure, due to complications of ascites, intravascular volume depletion, edema, portal hypertension, and hypoalbuminemia. The committee suggests that nutrition regimens avoid restricting protein in patients with liver failure, using the same recommendations as for other critically ill patients (see C4 in the "Dosing of EN" section above).</p>
+<p><strong>Question: What is the appropriate route of nutrition delivery in patients with hepatic failure?</strong></p>
+<p><strong>K2</strong>. Based on expert consensus, the committee suggests that EN be used preferentially when providing nutrition therapy in ICU patients with acute and/or chronic liver disease. </p>
+<p><strong>Question: Is a disease-specific enteral formulation needed for critically ill patients with liver disease?</strong></p>
+<p><strong>K3</strong>. Based on expert consensus, the committee suggests that standard enteral formulations be used in ICU patients with acute and chronic liver disease. There is no evidence of further benefit of branched-chain amino acid (BCAA) formulations on coma grade in the ICU patient with encephalopathy who is already receiving first-line therapy with luminal-acting antibiotics and lactulose.</p>
+<p><strong><span style="text-decoration: underline;">L. Acute Pancreatitis</span></strong></p>
+<p><strong>Question: Does disease severity in acute pancreatitis influence decisions to provide specialized nutrition therapy?</strong></p>
+<p><strong>L1a</strong>. Based on expert consensus, the committee suggests that the initial nutrition assessment in acute pancreatitis evaluate disease severity to direct nutrition therapy. Since disease severity may change quickly, the committee suggests frequent reassessment of feeding tolerance and need for specialized nutrition therapy. </p>
+<p><strong>Question: Do patients with mild acute pancreatitis need specialized nutrition therapy?</strong></p>
+<p><strong>L1b</strong>. The committee suggests not providing specialized nutrition therapy to patients with mild acute pancreatitis, instead advancing to an oral diet as tolerated. If an unexpected complication develops or there is failure to advance to oral diet within 7 days, then specialized nutrition therapy should be considered.</p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Which patients require specialized nutrition therapy early after admission for acute pancreatitis?</strong></p>
+<p><strong>L1c</strong>. The committee suggests that patients with moderate to severe acute pancreatitis should have a naso-/oroenteric tube placed and EN started at a trophic rate and advanced to goal as fluid volume resuscitation is completed (within 24 to 48 hours of admission).</p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Which is the most appropriate formula to use when initiating early EN in the patient with moderate to severe acute pancreatitis?</strong></p>
+<p><strong>L2</strong>. The committee suggests using a standard polymeric formula to initiate EN in the patient with severe acute pancreatitis. Although promising, the data are currently insufficient to recommend placing a patient with severe acute pancreatitis on an immune-enhancing formulation at this time.</p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Should patients with severe acute pancreatitis receive EN or PN?</strong></p>
+<p><strong>L3a</strong>. The committee suggests the use of EN over PN in patients with severe acute pancreatitis who require nutrition therapy.</p>
+<p><em>Quality of Evidence</em>: <strong>Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Should patients with severe acute pancreatitis be fed into the stomach or small bowel?</strong></p>
+<p><strong>L3b</strong>. The committee suggests that EN be provided to the patient with severe acute pancreatitis by either the gastric or jejunal route, as there is no difference in tolerance or clinical outcomes between these 2 levels of infusion.</p>
+<p><em>Quality of Evidence</em>: <strong>Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: In the presence of intolerance, what strategies can be used to enhance tolerance to EN in patients with severe acute pancreatitis?</strong></p>
+<p><strong>L4</strong>. Based on expert consensus, the committee suggests that, in patients with moderate to severe acute pancreatitis who have intolerance to EN, measures should be taken to improve tolerance. </p>
+<p><strong>Question: Should patients with severe acute pancreatitis receive probiotics?</strong></p>
+<p><strong>L5</strong>. The committee suggests that the use of probiotics be considered in patients with severe acute pancreatitis who are receiving early EN. </p>
+<p><em>Quality of Evidence</em>: <strong>Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: When is it appropriate to use PN in patients with severe acute pancreatitis?</strong></p>
+<p><strong>L6</strong>. Based on expert consensus, the committee suggests that, for the patient with severe acute pancreatitis, when EN is not feasible, use of PN should be considered after 1 week from the onset of the pancreatitis episode.</p>
+<p><strong><span style="text-decoration: underline;">M. Surgical Subsets</span></strong></p>
+<p><strong>Trauma</strong></p>
+<p><strong>Question: Does the nutrition therapy approach for the trauma patient differ from that for other critically ill patients?</strong></p>
+<p><strong>M1a</strong>. The committee suggests that, similar to other critically ill patients, early enteral feeding with a high protein polymeric diet be initiated in the immediate post-trauma period (within 24 to 48 hours of injury) once the patient is hemodynamically stable.</p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Should immune-modulation formulas be used routinely to improve outcomes in a patient with severe trauma?</strong></p>
+<p><strong>M1b</strong>. The committee suggests that immune-modulating formulations containing arginine and FO be considered in patients with severe trauma. </p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Traumatic Brain Injury</strong></p>
+<p><strong>Question: Does the approach for nutrition therapy for the TBI patient differ from that of other critically ill patients or trauma patients without head injury?</strong></p>
+<p><strong>M2a</strong>. The committee recommends that, similar to other critically ill patients, early enteral feeding be initiated in the immediate post-trauma period (within 24 to 48 hours of injury) once the patient is hemodynamically stable.</p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Should immune-modulating formulas be used in a patient with TBI?</strong></p>
+<p><strong>M2b</strong>. Based on expert consensus, the committee suggests the use of either arginine-containing immune-modulating formulations or EPA/DHA supplement with standard enteral formula in patients with TBI. </p>
+<p><strong>Open Abdomen (OA)</strong></p>
+<p><strong>Question: Is it safe to provide EN to patients with an OA? </strong></p>
+<p><strong>M3a</strong>. Based on expert consensus, the committee suggests early EN (24 to 48 hours post-injury) in patients treated with an OA in the absence of a bowel injury. </p>
+<p><strong>Question: Do patients with OA have increased protein or energy needs?</strong></p>
+<p><strong>M3b</strong>. Based on expert consensus, the committee suggests providing an additional 15&ndash;30 g of protein per liter of exudate lost for patients with OA. Energy needs should be determined as for other ICU patients (see Section A, "Nutrition Assessment," above).</p>
+<p><strong>Burns</strong></p>
+<p><strong>Question: What mode of nutrition support should be used to feed burn patients?</strong></p>
+<p><strong>M4a</strong>. Based on expert consensus, EN should be provided to burn patients whose GI tracts are functional and for whom volitional intake is inadequate to meet estimated energy needs. PN should be reserved for those burn patients for whom EN is not feasible or not tolerated. </p>
+<p><strong>Question: How should energy requirements be determined in burn patients?</strong></p>
+<p><strong>M4b</strong>. Based on expert consensus, the committee suggests that IC be used when available to assess energy needs in burn patients with weekly repeated measures. </p>
+<p><strong>Question: What is the optimal quantity of protein to deliver to patients with large burns requiring ICU care?</strong></p>
+<p><strong>M4c</strong>. Based on expert consensus, the committee suggests that patients with burn injury should receive protein in the range of 1.5&ndash;2 g/kg/d.</p>
+<p><strong>Question: When should nutrition support be initiated? </strong></p>
+<strong>M4d</strong>. Based on expert consensus, the committee suggests very early initiation of EN (if possible, within 4 to 6 hours of injury) in a patient with burn injury.
+<p><strong><span style="text-decoration: underline;">N. Sepsis</span></strong></p>
+<p><strong>Question: Are patients with severe sepsis candidates for early EN therapy?</strong></p>
+<p><strong>N1</strong>. Based on expert consensus, the committee suggests that critically ill patients receive EN therapy within 24 to 48 hours of making the diagnosis of severe sepsis/septic shock as soon as resuscitation is complete and the patient is hemodynamically stable.</p>
+<p><strong>Question: Should exclusive or supplemental PN added to EN providing &lt;60% of goal be used in the acute phase of severe sepsis or septic shock?</strong></p>
+<p><strong>N2</strong>. The committee suggests not using exclusive PN or supplemental PN in conjunction with EN early in the acute phase of severe sepsis or septic shock, regardless of patients' degree of nutrition risk.</p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: What is the optimal micronutrient supplementation in sepsis? </strong></p>
+<p><strong>N3</strong>. The committee cannot make a recommendation regarding selenium, zinc, and antioxidant supplementation in sepsis at this time due to conflicting studies.</p>
+<p><em>Quality of Evidence</em>: <strong>Moderate</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: What are the protein and energy requirements for septic patients in the acute phase of management?</strong></p>
+<p><strong>N4</strong>. Based on expert consensus, the committee suggests the provision of trophic feeding (defined as 10&ndash;20 kcal/h or up to 500 kcal/d) for the initial phase of sepsis, advancing as tolerated after 24 to 48 hours to &gt;80% of target energy goal over the first week. The committee suggests delivery of 1.2&ndash;2 g protein/kg/d.</p>
+<p><strong>Question: Is there any advantage to providing immune- or metabolic-modulating enteral formulations (arginine with other agents, including EPA, DHA, glutamine, and nucleic acid) in sepsis?</strong></p>
+<p><strong>N5</strong>. The committee suggests that immune-modulating formulas not be used routinely in patients with severe sepsis.</p>
+<p><em>Quality of Evidence</em>: <strong>Moderate</strong></p>
+<p><strong><span style="text-decoration: underline;">O. Postoperative Major Surgery (SICU Admission Expected)</span></strong></p>
+<p><strong>Question: Is the use of a nutrition risk indicator to identify patients who will most likely benefit from postoperative nutrition therapy more useful than traditional markers of nutrition assessment?</strong></p>
+<p><strong>O1</strong>. Based on expert consensus, the committee suggests that determination of nutrition risk (e.g., NRS 2002 or NUTRIC score) be performed on all postoperative patients in the ICU and that traditional visceral protein levels (serum albumin, prealbumin, and transferrin concentrations) should not be used as markers of nutrition status.</p>
+<p><strong>Question: What is the benefit of providing EN early in the postoperative setting compared with providing PN or standard therapy (STD)?</strong></p>
+<p><strong>O2</strong>. The committee suggests that EN be provided when feasible in the postoperative period within 24 hours of surgery, as it results in better outcomes than use of PN or STD.</p>
+<p><em>Quality of Evidence</em>: <strong>Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Should immune-modulating formulas be used routinely to improve outcomes in a postoperative patient?</strong></p>
+<p><strong>O3</strong>. The committee suggests the routine use of an immune-modulating formula (containing both arginine and fish oils) in the SICU for the postoperative patient who requires EN therapy.</p>
+<p><em>Quality of Evidence</em>: <strong>Moderate to Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: Is it appropriate to provide EN to a SICU patient in the presence of difficult postoperative situations such as OA, bowel wall edema, fresh intestinal anastomosis, vasopressor therapy, or ileus?</strong> </p>
+<p><strong>O4</strong>. The committee suggests enteral feeding for many patients in difficult postoperative situations such as prolonged ileus, intestinal anastomosis, OA, and need of vasopressors for hemodynamic support. Each case should be individualized based on perceived safety and clinical judgment.</p>
+<p><em>Quality of Evidence</em>: <strong>Low to Very Low</strong><br/>
+<em>Recommendation Strength</em>: <strong>Weak</strong></p>
+<p><strong>Question: When should PN be used in the postoperative ICU patient? </strong></p>
+<p><strong>O5</strong>. Based on expert consensus, the committee suggests that, for the patient who has undergone major upper GI surgery and EN is not feasible, PN should be initiated (only if the duration of therapy is anticipated to be &ge;7 days). Unless the patient is at high nutrition risk, PN should not be started in the immediate postoperative period but should be delayed for 5 to 7 days.</p>
+<p><strong>Question: Is advancing to a clear-liquid diet required as the first volitional intake in the postoperative ICU patient?</strong></p>
+<p><strong>O6</strong>. Based on expert consensus, the committee suggests that, upon advancing the diet postoperatively, patients be allowed solid food as tolerated and that clear liquids are not required as the first meal.</p>
+<p><strong><span style="text-decoration: underline;">P. Chronically Critically Ill</span></strong></p>
+<p><strong>Question: How should the chronically critically ill patient be managed with nutrition therapy?</strong></p>
+<p><strong>P1</strong>. Based on expert consensus, the committee suggests that chronically critically ill patients (defined as those with persistent organ dysfunction requiring ICU length of stay [LOS] &gt;21 days) be managed with aggressive high-protein EN therapy and, when feasible, that a resistance exercise program be used.</p>
+<p><strong><span style="text-decoration: underline;">Q. Obesity in Critical Illness</span></strong></p>
+<p><strong>Question: Do obese ICU patients benefit less from early EN in the first week of hospitalization, due to their nutrition reserves, than their lean counterparts? </strong></p>
+<p><strong>Q1</strong>. Based on expert consensus, the committee suggests that early EN start within 24 to 48 hours of admission to the ICU for obese patients who cannot sustain volitional intake. </p>
+<p><strong>Question: What additional parameters should be addressed with a nutrition assessment in critical illness when the patient is obese?</strong></p>
+<p><strong>Q2</strong>. Based on expert consensus, the committee suggests that nutrition assessment of the obese ICU patient focus on biomarkers of metabolic syndrome, an evaluation of comorbidities, and a determination of level of inflammation, in addition to those parameters described for all ICU patients. </p>
+<p><strong>Question: What factors on assessment identify obese patients in the ICU to be at high risk?</strong></p>
+<p><strong>Q3</strong>. Based on expert consensus, the committee suggests that nutrition assessment of the obese ICU patient focus on evidence of central adiposity, metabolic syndrome, sarcopenia, body mass index (BMI) &gt;40, systemic inflammatory response syndrome (SIRS), or other comorbidities that correlate with higher obesity-related risk for cardiovascular disease and mortality.</p>
+<p><strong>Question: In adult obese ICU patients, does use of high-protein hypocaloric feeding improve clinical outcomes compared with use of high-protein eucaloric feeding?</strong></p>
+<p><strong>Q4</strong>. Based on expert consensus, the committee suggests that high-protein hypocaloric feeding be implemented in the care of obese ICU patients to preserve lean body mass, mobilize adipose stores, and minimize the metabolic complications of overfeeding. </p>
+<p><strong>Question: In adult obese ICU patients, what are the appropriate targets for energy and protein intake to achieve nitrogen equilibrium and meet metabolic requirements? </strong></p>
+<p><strong>Q5</strong>. Based on expert consensus, the committee suggests that, for all classes of obesity, the goal of the EN regimen should not exceed 65% to 70% of target energy requirements as measured by IC. If IC is unavailable, the committee suggests using the weight-based equation 11&ndash;14 kcal/kg <em>actual body weight</em> per day for patients with BMI in the range of 30&ndash;50 and 22&ndash;25 kcal/kg <em>ideal body weight</em> per day for patients with BMI &gt;50. The committee suggests that protein should be provided in a range from 2.0 g/kg ideal body weight per day for patients with BMI of 30 to 40 up to 2.5 g/kg ideal body weight per day for patients with BMI &ge;40.</p>
+<p><strong>Question: What indications, if any, exist for use of specialty enteral formulations for adult obese ICU patients?</strong></p>
+<p><strong>Q6</strong>. Based on expert consensus, the committee suggests that, if available, an enteral formula with low caloric density and a reduced nonprotein calorie:nitrogen ratio (NPC:N) be used in the adult obese ICU patient. While an exaggerated immune response in obese patients implicates potential benefit from immune-modulating formulas, lack of outcome data precludes a recommendation at this time. </p>
+<p><strong>Question: What are appropriate monitors to follow for the obese critically ill patient receiving early EN?</strong></p>
+<p><strong>Q7</strong>. Based on expert consensus, the committee suggests additional monitoring to assess worsening of hyperglycemia, hyperlipidemia, hypercapnia, fluid overload, and hepatic fat accumulation in the obese critically ill patient receiving EN. </p>
+<p><strong>Question: Does the obese ICU patient with a history of bariatric surgery or other malabsorptive condition require any additional supplementation of micronutrients when starting nutrition therapy? </strong></p>
+<p><strong>Q8</strong>. Based on expert consensus, the committee suggests that the obese ICU patient with a history of bariatric surgery receive supplemental thiamine prior to initiating dextrose-containing IV fluids or nutrition therapy. In addition, evaluation for and treatment of micronutrient deficiencies such as calcium, thiamin, vitamin B<sub>12</sub>, fat-soluble vitamins (A, D, E, K), and folate, along with the trace minerals iron, selenium, zinc, and copper, should be considered.</p>
+<p><strong><span style="text-decoration: underline;">R. Nutrition Therapy End-of-Life Situations</span></strong></p>
+<p><strong>Question: What is the role of artificial nutrition and hydration (ANH) in end-of-life situations? </strong></p>
+<p><strong>R1</strong>. Based on expert consensus, the committee suggests that ANH is not obligatory in cases of futile care or end-of-life situations. The decision to provide ANH should be based on evidence, best practices, clinical experience and judgment; effective communication with the patient, family, and/or authorized surrogate decision maker; and respect for patient autonomy and dignity. </p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong></p>
+<p>Since release of the 2009 American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) and Society of Critical Care Medicine (SCCM) Clinical Guidelines, the concepts of the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) Working Group have been adopted.</p>
+<p><strong>Quality of Evidence</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Quality of Evidence">
+    <tbody>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">High</th>
+            <td valign="top">Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">Moderate</th>
+            <td valign="top">Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">Low</th>
+            <td valign="top">Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">Very low</th>
+            <td valign="top">Any estimate of effect is very uncertain.</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Strength of Recommendation</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Strength of Recommendation">
+    <tbody>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">Strong</th>
+            <td valign="top">Net benefits outweigh harms</td>
+        </tr>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">Weak</th>
+            <td valign="top">Tradeoffs for patient are important</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Critical illness for which nutritional support therapy may be required, including the following:</p>
+<ul style="list-style-type: disc;">
+    <li>Organ failure (pulmonary, renal, and liver) </li>
+    <li>Acute pancreatitis </li>
+    <li>Surgical subsets (trauma, traumatic brain injury [TBI], open abdomen [OA], and burns) </li>
+    <li>Sepsis </li>
+    <li>Critical illness following major surgery </li>
+    <li>Chronic critical illness </li>
+    <li>Obesity in critical illness </li>
+</ul></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Evaluation</p>
+                    <p>Management</p>
+                    <p>Risk Assessment</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Critical Care</p>
+                    <p>Gastroenterology</p>
+                    <p>Nutrition</p>
+                    <p>Pharmacology</p>
+                    <p>Surgery</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Dietitians</p>
+                    <p>Hospitals</p>
+                    <p>Nurses</p>
+                    <p>Pharmacists</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To update and expand guidelines published by American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) and Society of Critical Care Medicine (SCCM) in 2009 </p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Adult (&ge;18 years) critically ill patients expected to require a length of stay (LOS) greater than 2 or 3 days in a medical intensive care unit (MICU) or surgical ICU (SICU) </p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Nutrition assessment </li>
+    <li>Initiation of enteral nutrition (EN) </li>
+    <li>Dosing of EN </li>
+    <li>Monitoring tolerance and adequacy of EN </li>
+    <li>Selection of appropriate enteral formulations </li>
+    <li>Adjunctive therapy (e.g., fiber, probiotics, antioxidants and trace minerals) </li>
+    <li>When to initiate parenteral nutrition (PN) (risk assessment and timing) </li>
+    <li>Maximizing efficiency of PN </li>
+    <li>Nutrition support therapy in special populations
+    <ul style="list-style-type: disc;">
+        <li>Pulmonary failure </li>
+        <li>Renal failure </li>
+        <li>Hepatic failure </li>
+        <li>Acute pancreatitis </li>
+        <li>Surgical subsets (trauma, traumatic brain injury [TBI], open abdomen [OA], burns) </li>
+        <li>Sepsis </li>
+        <li>Postoperative major surgery (surgical intensive care unit [SICU] admission expected) </li>
+        <li>Chronic critical illness </li>
+        <li>Obesity in critical illness </li>
+        <li>Nutrition therapy in end-of-life situations </li>
+    </ul>
+    </li>
+</ol></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Mortality </li>
+    <li>Hospital length of stay (LOS) </li>
+    <li>Intensive care unit (ICU) LOS </li>
+    <li>Infectious complications, including pneumonia, ventilator-associated pneumonia (VAP), and catheter-related infections </li>
+    <li>Ventilator days/duration of ventilation </li>
+    <li>Nutritional efficiency </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p>The authors compiled clinical questions reflecting key management issues in nutrition therapy. A committee of multidisciplinary experts in clinical nutrition composed of physicians, nurses, pharmacists, and dietitians was jointly convened by the 2 societies. Literature searches were then performed using keywords (<em>critically ill, critical care, intensive care, nutrition, enteral, parenteral, tube feeding</em>, and those related to assigned topics, such as <em>pancreatitis, sepsis</em>, etc.) to evaluate the quality of evidence supporting a response to those questions, which were then used to derive a subsequent treatment recommendation. The literature search included MEDLINE, PubMed, Cochrane Database of Systemic Reviews, the National Guideline Clearinghouse, and an Internet search using the Google search engine for scholarly articles through an end date of December 31, 2013 (including ePub publications).</p>
+<p>While preference was given to randomized controlled trials (RCTs), other forms of resource material were used to support the response, including nonrandomized cohort trials, prospective observational studies, and retrospective case series. Use of publications was limited to full-text articles available in English on adult humans. </p>
+<p>The current American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) and Society of Critical Care Medicine (SCCM) guidelines included in the guideline were derived from data obtained via literature searches by the authors through December 31, 2013. Although the committee was aware of landmark studies published after this date, these data were not included in this manuscript. The process by which the literature was evaluated necessitated a common end date for the search review. Adding a last-minute landmark trial would have introduced bias unless a formalized literature search was reconducted for all sections of the manuscript. </p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>A total of 727 studies were identified for review. Of those, 368 met the inclusion criteria and were included in the guideline review.</p>
+<p>Please refer to the Supplemental Online Appendix (see the "Availability of Companion Documents" field) for information regarding included articles per Key Questions.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p>Since release of the 2009 American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) and Society of Critical Care Medicine (SCCM) Clinical Guidelines, the concepts of the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) Working Group have been adopted.</p>
+<p><strong><span style="text-decoration: underline;">Quality of Evidence</span></strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Quality of Evidence">
+    <tbody>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">High</th>
+            <td valign="top">Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">Moderate</th>
+            <td valign="top">Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">Low</th>
+            <td valign="top">Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">Very low</th>
+            <td valign="top">Any estimate of effect is very uncertain.</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Meta-Analysis</p>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p>For all included randomized controlled trials (RCTs), 2 readers completed data abstraction forms (DAFs) examining the data and assessing the quality of the research methodology to produce a shared evaluation achieved by consensus for each study (example of DAF is provided in online supplemental material [see the "Availability of Companion Documents" field]). DAFs were constructed only for RCTs. When the strongest available evidence was a published meta-analysis, the studies from the meta-analysis were used to determine the quality of the evidence and assessed by 2 evidence assessors. The data from included trials were entered into Review Manager 5.2 software to create forest plots aggregating the effect size for each intervention and outcome. The key forest plots supporting the recommendation are included throughout the text and in the online appendix. No new forest plots were created when a meta-analysis was evaluated.</p>
+<p>Since release of the 2009 American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) and Society of Critical Care Medicine (SCCM) Clinical Guidelines, the concepts of the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) Working Group have been adopted. A full description of the methodology has been previously published. The data from the Review Manager analysis were uploaded to GRADEPro software, where the body of evidence for a given intervention and outcome was evaluated for overall quality. One analyst created each GRADE table that was then independently confirmed by a second analyst. The GRADE tables are provided in the online appendix (see the "Availability of Companion Documents" field). Due to the inordinately large number of RCTs evaluated, observational studies were critically reviewed but not utilized to construct the GRADE tables. However, in the few cases where observational studies were the only available evidence in a population, their quality of evidence was reviewed using GRADE (see Table 1 in the original guideline document). When no RCT or observational study was available to answer a question directly, consensus of the author group on the best clinical practice approach was used, and the recommendation was designated "based on expert consensus."</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p>A recommendation for clinical practice was based on both the best available evidence and the risks and benefits to patients. While small author teams developed each recommendation and provided the supporting rationale, a full discussion by the entire author group followed, and every committee member was polled anonymously for his or her agreement with the recommendation. Achievement of consensus was arbitrarily set at 70% agreement of authors with a particular recommendation. Only 1 recommendation (H3a [see the "Major Recommendations" field]) did not meet this level of agreement, with a final consensus of 64%. All other consensus-based recommendations reached a level of agreement of 80% or higher.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p>Since release of the 2009 American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) and Society of Critical Care Medicine (SCCM) Clinical Guidelines, the concepts of the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) Working Group have been adopted.</p>
+<p><strong><span style="text-decoration: underline;">Strength of Recommendation</span></strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Strength of Recommendation">
+    <tbody>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">Strong</th>
+            <td valign="top">Net benefits outweigh harms</td>
+        </tr>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="row">Weak</th>
+            <td valign="top">Tradeoffs for patient are important</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>The guideline developers reviewed published cost analyses. </p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>Clinical Validation-Pilot Testing</p>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>As with all American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) and Society of Critical Care Medicine (SCCM) clinical guidelines, this manuscript was subjected to rigorous peer review by clinical content experts from all the practice disciplines that would use the guidelines, both internal and external to the organizations. In addition, a validation study and pilot test were performed (see the "Availability of Companion Documents" field). </p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence identified and graded for each recommendation (see the "Major Recommendations" field).</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>Improvement in the clinical course of critical illness may be achieved by early enteral nutrition (EN), appropriate macro- and micronutrient delivery, and meticulous glycemic control. Delivering early nutrition support therapy, primarily by the enteral route, is seen as a proactive therapeutic strategy that may reduce disease severity, diminish complications, decrease length of stay (LOS) in the intensive care unit (ICU), and favorably impact patient outcomes.</p>
+<p>Evidence of the benefits of specific recommendations is discussed in the "Rationale" sections following each recommendation in the original guideline document. </p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Aspiration is one of the most feared complications of enteral nutrition (EN). Patients at increased risk for aspiration may be identified by a number of factors, including inability to protect the airway, presence of a nasoenteric enteral access device, mechanical ventilation, age &gt;70 years, reduced level of consciousness, poor oral care, inadequate nurse:patient ratio, supine positioning, neurologic deficits, gastroesophageal reflux, transport out of the intensive care unit (ICU), and use of bolus intermittent EN. Pneumonia and bacterial colonization of the upper respiratory tree is more closely associated with aspiration of contaminated oropharyngeal secretions than regurgitation and aspiration of contaminated gastric contents. </li>
+    <li>Theoretically, use of arginine may pose a threat to the septic critically ill patient who is hemodynamically unstable by upregulating inducible nitric oxide synthase enzyme activity, increasing nitric oxide production, and causing greater hemodynamic instability and organ dysfunction. Several clinical trials in which arginine was supplied to septic patients reported no such adverse events. </li>
+    <li>At the height of critical illness, EN is being provided to patients who are prone to gastrointestinal (GI) dysmotility, sepsis, and hypotension and thus are at increased risk for subclinical ischemia/reperfusion injuries involving the intestinal microcirculation. Ischemic bowel is a very rare complication associated with EN. </li>
+    <li>Clinical trials of nutrition therapy in critically ill patients typically involve inclusion of patients with high severity of injury; thus, the duration of time that a lack of adequate volitional intake can elapse before nutrition status is compromised in low-risk subjects has not been determined. Placement and maintenance of enteral access devices in patients who cannot maintain volitional intake have potential complications. Provision of aggressive EN in the low-risk ICU patient population may provide little if any benefit early in the first week in ICU. </li>
+    <li>Erythromycin has been associated with undesirable effects, including cardiac toxicity, tachyphylaxis, and bacterial resistance, and should be used cautiously with monitoring. Metoclopramide also has associated adverse complications, including tardive dyskinesia, more frequently in the elderly. Both agents have been associated with QT prolongation, predisposing to cardiac arrhythmias. The incidence of watery diarrhea was statistically higher in patients receiving combination therapy (54% vs 26.3%; P = .01). </li>
+    <li>Long-term parenteral nutrition (PN) can be associated with hepatic complications, including worsening of existing cirrhosis and liver failure with the concomitant risks of sepsis, coagulopathy, and death. PN-associated liver disease usually occurs with prolonged use of PN; however, it can also be a significant problem in the acute ICU setting. </li>
+</ul>
+<p>Evidence of the potential harms of specific recommendations is discussed further in the "Rationale" sections following each recommendation in the original guideline document. </p></p>
+
+            </div>
+                <h2 id="430" class="accordion-title section-430 is-active" role="tab" aria-expanded="true"><a href="#">Contraindications</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Contraindications</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>While enteral nutrition (EN) may be provided with caution to patients on chronic, stable low doses of vasopressors, EN should be withheld in patients who are hypotensive (mean arterial blood pressure &lt;50 mm Hg), in patients for whom catecholamine agents (e.g., norepinephrine, phenylephrine, epinephrine, dopamine) are being initiated, or in patients for whom escalating doses are required to maintain hemodynamic stability. </li>
+    <li>Bowel in discontinuity is an absolute contraindication to the use of EN. </li>
+</ul></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>These American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.)-Society of Critical Care Medicine (SCCM) Clinical Guidelines are based on general conclusions of health professionals who, in developing such guidelines, have balanced potential benefits to be derived from a particular mode of medical therapy against certain risks inherent with such therapy. However, practice guidelines are not intended as absolute requirements. The use of these practice guidelines does not in any way project or guarantee any specific benefit in outcome or survival. </li>
+    <li>The judgment of the healthcare professional based on individual circumstances of the patient must always take precedence over the recommendations in these guidelines. </li>
+    <li>The guidelines offer basic recommendations that are supported by review and analysis of the current literature, other national and international guidelines, and a blend of expert opinion and clinical practicality. The population of critically ill patients in an intensive care unit (ICU) is not homogeneous. Many of the studies on which the guidelines are based are limited by sample size, patient heterogeneity, variability in disease severity, lack of baseline nutrition status, and insufficient statistical power for analysis. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>An implementation strategy was not provided.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Quick Reference Guides/Physician Guides</p>
+                    <p>Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>End of Life Care</p>
+                    <p>Getting Better</p>
+                    <p>Living with Illness</p>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Safety</p>
+                    <p>Timeliness </p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>McClave SA, Taylor BE, Martindale RG, Warren MM, Johnson DR, Braunschweig C, McCarthy MS, Davanos E, Rice TW, Cresci GA, Gervasio JM, Sacks GS, Roberts PR, Compher C, Society of Critical Care Medicine, American Society for Parenteral and Enteral Nutrition. Guidelines for the provision and assessment of nutrition support therapy in the adult critically ill patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.). JPEN J Parenter Enteral Nutr. 2016 Feb;40(2):159-211. [480 references] <a href="https://web.archive.org/web/20180712205650/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26773077" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712205650im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2016 Feb</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>American Society for Parenteral and Enteral Nutrition - Professional Association</p>
+                    <p>Society of Critical Care Medicine - Professional Association</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>There was no input or funding from industry, nor were any industry representatives present at any of the committee meetings.</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Guidelines Committee</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Guidelines Committee</em>: Stephen A. McClave, MD, Department of Medicine, University of Louisville, Louisville, Kentucky; Beth E. Taylor, RD, DCN, Nutrition Support Specialist, Barnes Jewish Hospital, St Louis, Missouri; Robert G. Martindale, MD, PhD, Chief Division of General Surgery, Oregon Health and Science University, Portland, Oregon; Malissa M. Warren, RD, Critical Care Dietitian, Portland VA Medical Center, Portland, Oregon; Debbie R. Johnson, RN, MS, Clinical Nurse Specialist: Wound, Skin, Ostomy, UW Health University of Wisconsin Hospital and Clinics, Madison, Wisconsin; Carol Braunschweig, RD, PhD, Professor, Department of Kinesiology and Nutrition and Division of Epidemiology and Biostatistics, University of Illinois at Chicago, Chicago, Illinois; Mary S. McCarthy, RN, PhD, Senior Nurse Scientist, Center for Nursing Science and Clinical Inquiry, Madigan Healthcare System, Tacoma, Washington; Evangelia Davanos, PharmD, Pharmacotherapy Specialist, Nutrition Support, The Brooklyn Hospital Center, Brooklyn, New York; Todd W. Rice, MD, MSc, Assistant Professor of Medicine, Division of Allergy, Pulmonary, and Critical Care Medicine, Vanderbilt University School of Medicine, Nashville, Tennessee; Gail A. Cresci, RD, PhD, Project Research Staff, Digestive Disease Institute, Gastroenterology and Pathobiology, Cleveland, Ohio; Jane M. Gervasio, PharmD, Chair and Professor of Pharmacy Practice, Butler University College of Pharmacy and Health Science, Indianapolis, Indiana; Gordon S. Sacks, PharmD, Professor and Head, Department of Pharmacy Practice, Harrison School of Pharmacy, Auburn University, Auburn, Alabama; Pamela R. Roberts, MD, Professor and Vice Chair, Division Chief of Critical Care Medicine, Director of Research John A. Moffitt Endowed Chair, Department of Anesthesiology, Oklahoma City, Oklahoma; Charlene Compher, RD, PhD, Professor of Nutrition Science, University of Pennsylvania School of Nursing, Philadelphia, Pennsylvania</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Conflict of Interest</span></strong></p>
+<p>All authors completed both an American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.) and Society of Critical Care Medicine (SCCM) conflict-of-interest form for copyright assignment and financial disclosure.</p>
+<p><strong><span style="text-decoration: underline;">Conflict of Interest Disclosures</span></strong></p>
+<p>Dr Taylor disclosed serving as an A.S.P.E.N. committee member and Dietitians in Nutrition Support past chair. Dr McClave disclosed other relationships with Nestle (consulting), Abbott (speaker), Metagenics (consulting), Covidien (consultant), and A.S.P.E.N. Dr Martindale disclosed other relationships with Davol, LifeCell, and Metagenics (consultant) and received funding from Metagenics (research grant recipient). Dr Warren disclosed serving as co-chair for the Veterans Health Administration Dietary Supplement Committee and as a chair for the Dietitians in Nutrition Support Webinar Planning Committee. Dr Johnson disclosed that she does not have any potential conflicts of interest. Dr Braunschweig disclosed serving as the A.S.P.E.N. editor for clinical guidelines. Dr McCarthy disclosed serving as an A.S.P.E.N. committee member for the Research Committee and the Abstract Review Committee, an A.S.P.E.N. Nursing Section member, and a SCCM Nursing Section member. Dr Davanos disclosed other relationships with Baxter Healthcare (medical science liaison and employee) and NY/LISPEN chapter (president-elect). Dr Rice disclosed other relationships with Avisa, LLC (consultant) and GSK (Data and Safety Monitoring Board) and served as an expert witness. Dr Cresci disclosed other relationships with Metagenics, Advocare, and Covidien; received funding from Metagenics (research grant, speaker); and served as a Research Committee member for A.S.P.E.N. and Dietitians in Nutrition Support (chair of the Symposium Planning Committee). Dr Gervasio disclosed serving as an A.S.P.E.N. committee member. Dr Sacks disclosed other relationships with Fresenius Kabi USA, LLC (research grant recipient) and A.S.P.E.N. (president and member of Board of Directors, A.S.P.E.N. Rhoads Research Foundation&ndash;Board of Advisors). Dr Roberts disclosed other relationships as an American Society of Anesthesiologists committee member (critical care) and as an A.S.P.E.N. committee member (abstract reviews). Dr Compher received funding from the March of Dimes Foundation (research grant recipient) and disclosed other relationships with A.S.P.E.N. (Board of Directors and president-elect).</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712205650/https://www.guideline.gov/Home/Disclaimer?id=50143&amp;contentType=summary&amp;redirect=http%3a%2f%2fpen.sagepub.com%2fcontent%2f40%2f2%2f159.full.pdf" title="Journal of Parenteral and Enteral Nutrition Web site">Journal of Parenteral and Enteral Nutrition Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205650im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Guidelines for the provision and assessment of nutrition support therapy in the adult critically ill patient. Online supplementary material (includes summary). Silver Spring (MD): American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.); 2016 Feb. 140 p. Available from the <a href="/web/20180712205650/https://www.guideline.gov/Home/Disclaimer?id=50143&amp;contentType=summary&amp;redirect=http%3a%2f%2fjournals.sagepub.com%2fdoi%2fsuppl%2f10.1177%2f0148607115621863" title="Journal of Parenteral and Enteral Nutrition Web site">Journal of Parenteral and Enteral Nutrition Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205650im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Guidelines for the provision and assessment of nutrition support therapy in the adult critically ill patient. Podcast. Silver Spring (MD): American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.), Society of Critical Care Medicine (SCCM); 2016. </li>
+    <li>Druyan ME, Compher C, Boullata JI, Braunschweig CL, George DE, Simpser E, Worthington PA, American Society for Parenteral and Enteral Nutrition Board of Directors. Clinical guidelines for the use of parenteral and enteral nutrition in adult and pediatric patients: applying the GRADE system to development of A.S.P.E.N. clinical guidelines. JPEN J Parenter Enteral Nutr. 2012 Jan;36(1):77-80. Available from the <a href="/web/20180712205650/https://www.guideline.gov/Home/Disclaimer?id=50143&amp;contentType=summary&amp;redirect=http%3a%2f%2fpen.sagepub.com%2fcontent%2f36%2f1%2f77.full" title="Journal of Parenteral and Enteral Nutrition Web site">Journal of Parenteral and Enteral Nutrition Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205650im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Mogensen KM, Andrew BY, Corona JC, Robinson MK. Validation of the Society of Critical Care Medicine and American Society for Parenteral and Enteral Nutrition recommendations for caloric provision to critically ill obese patients: a pilot study. JPEN J Parenter Enteral Nutr. 2016 Jul;40(5): 713-21. Available to subscribers from the <a href="/web/20180712205650/https://www.guideline.gov/Home/Disclaimer?id=50143&amp;contentType=summary&amp;redirect=http%3a%2f%2fpen.sagepub.com%2fcontent%2f40%2f5%2f713.long" title="Journal of Parenteral and Enteral Nutrition Web site">Journal of Parenteral and Enteral Nutrition Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205650im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on July 27, 2016. The information was verified by the guideline developer on August 3, 2016. </p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712205650/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712205650/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712205650/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712205650/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712205650/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712205650/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712205650/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205650/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205650/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205650/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205650/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205650/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712205650/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712205650/https://www.guideline.gov/disclaimer?id=50143&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712205650im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712205650im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712205650/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712205650/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712205650/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712205650/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712205650/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712205650/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712205650/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712205650/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712205650/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712205650/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712205650/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712205650/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712205650/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712205650/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712205650/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712205650/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712205650/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712205650/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712205650/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712205650im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712205650im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712205650/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712205650im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712205650im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712205650/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712205650js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712205650js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:56:50 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:48:50 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 484.152 (3)
+  esindex: 0.006
+  captures_list: 504.119
+  CDXLines.iter: 15.769 (3)
+  PetaboxLoader3.datanode: 219.825 (4)
+  exclusion.robots: 0.164
+  exclusion.robots.policy: 0.154
+  RedisCDXSource: 0.936
+  PetaboxLoader3.resolve: 270.374 (3)
+  load_resource: 24.186
+-->
