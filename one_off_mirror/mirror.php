@@ -11,3 +11,7 @@
 	$url = $argv[1];
 
 	$cmd = "wget --adjust-extension --span-hosts --convert-links --backup-converted  --timestamping --page-requisites $url";
+
+	system($cmd);
+
+

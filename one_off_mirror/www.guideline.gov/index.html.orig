@@ -1,0 +1,551 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Home | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js home">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class="is-active"><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="home-banner ngc">
+	<div class="column">	
+	<div class='fundingNotice'><h2>TAKE NOTICE: This Web site, AHRQ’s National Guideline Clearinghouse, <br/>will not be available after July 16, 2018.</h2> Federal funding through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.<br/> <br><b>We will continue to post summaries of new and updated evidence-based clinical practice guidelines until July 2, 2018.</b> For any questions, please contact Mary Nix, <a href='mailto:mary.nix@ahrq.hhs.gov'>mary.nix@ahrq.hhs.gov</a>.</div>
+		
+		
+		<div class="search-bar"> 
+			
+			
+<form action="/search" class="search-input" enctype="multipart/form-data" method="get" placeholder="Find guideline summaries and more...">                	<label for="home-search"><span class="screen-reader-text">Search</span>
+                		<input id="home-search" type="text" name="q" class="search-input" placeholder="Find Guideline Summaries and more&hellip;">
+            		</label>
+					<input id="home-submit" type="submit" class="submit-input search-submit" value="Search">
+</form>			<p class="recent-searches">
+
+			
+            
+			</p>
+		</div><!-- /.search-bar -->
+	</div><!-- /.column -->
+</div><!-- /.home-banner -->
+
+
+<div class="home-links">
+    <div class="column">
+        <div class="row">
+
+                            <div class="link-section col-7">
+                    <h2 class="prefix-icon large-icon guideline">Guideline Summaries</h2>
+                    <p>Guidelines are organized by clinical specialty.</p> 
+                        <ul class="ngc-links">
+                            <li><a href="/search?f_Clinical_Specialty=Cardiology&fLockTerm=Cardiology">Cardiology</a></li>
+                            <li><a href="/search?f_Clinical_Specialty=Critical+Care&fLockTerm=Critical+Care">Critical Care</a></li>
+                            <li><a href="/search?f_Clinical_Specialty=Emergency+Medicine&fLockTerm=Emergency+Medicine">Emergency Medicine</a></li>
+                            <li><a href="/search?f_Clinical_Specialty=Family+Practice&fLockTerm=Family+Practice">Family Practice</a></li>
+                            <li><a href="/search?f_Clinical_Specialty=Geriatrics&fLockTerm=Geriatrics">Geriatrics</a></li>
+                            <li><a href="/search?f_Clinical_Specialty=Infectious+Diseases&fLockTerm=Infectious+Diseases">Infectious Diseases</a></li>
+                            <li><a href="/search?f_Clinical_Specialty=Internal+Medicine&fLockTerm=Internal+Medicine">Internal Medicine</a></li>
+                            <li><a href="/search?f_Clinical_Specialty=Nursing&fLockTerm=Nursing">Nursing</a></li>
+                            <li><a href="/search?f_Clinical_Specialty=Obstetrics+and+Gynecology&fLockTerm=Obstetrics+and+Gynecology">Obstetrics and Gynecology</a></li> 
+                            <li><a href="/search?f_Clinical_Specialty=Oncology&fLockTerm=Oncology">Oncology</a></li>
+                            <li><a href="/search?f_Clinical_Specialty=Orthopedic+Surgery&fLockTerm=Orthopedic+Surgery">Orthopedic Surgery</a></li>
+                            <li><a href="/search?f_Clinical_Specialty=Pediatrics&fLockTerm=Pediatrics">Pediatrics</a></li>
+                            <li><a href="/search?f_Clinical_Specialty=Physical+Medicine+and+Rehabilitation&fLockTerm=Physical+Medicine+and+Rehabilitation">Physical Medicine and Rehabilitation</a></li>
+                            <li><a href="/search?f_Clinical_Specialty=Psychiatry&fLockTerm=Psychiatry">Psychiatry</a></li>
+                            <li><a href="/search?f_Clinical_Specialty=Surgery&fLockTerm=Surgery">Surgery</a></li>
+                        </ul> 
+                        <p class="link-section-cta">
+                            <a class="edit-button" href="/browse/clinical-specialty">Browse All Clinical Specialties</a>
+                            <a class="browse-org-button" href="/browse/organization">Browse by Organization</a>
+                        </p>
+
+
+                </div><!-- /.col -->
+                <div class="link-section col-5">
+                    <h2 class="prefix-icon large-icon synthesis">Guideline Syntheses</h2>
+                    <p>
+                        Systematic comparisons of areas of agreement and disagreement among selected guidelines addressing similar topics.
+                        <a class="more-link" href="/syntheses/index">View All</a>
+                    </p>
+
+                    <h2 class="prefix-icon large-icon commentary">Expert Commentaries</h2>
+                    <p>
+                        Expert insight on guidelines and other relevant issues.&nbsp;<a class="more-link" href="/expert">View All</a>
+                    </p>
+                </div><!-- /.col -->
+
+        </div><!-- /.row -->
+    </div><!-- /.column -->
+</div><!-- /.home-links -->
+
+<div class="column">
+
+<div class="row">
+	<div class="col-8">
+		
+		<div class="subscribe-header">
+			<h2>New This Week</h2>
+			<ul class="subscribe-links">
+				<li><a href="/subscribe" class="newsletter"><span class="link-label">Subscribe to Newsletter</span></a></li>
+				<li><a href="/rssFiles/ngc_newthisweek.xml" class="rss"><span class="link-label">RSS Feed</span></a></li>
+			</ul>
+		</div><!-- /.subscribe-header -->
+		<div class="self-serve-block">
+	        <h3 class="news-list-date-title" >  July 02, 2018</h3>
+			<div class="list-item-medium">
+	            <p><h4>Guideline Summaries</h4>
+<ul style="list-style-type: disc;">
+    <li>New <em>American Occupational Therapy Association, Inc.</em> Guidelines on:
+    <ul style="list-style-type: disc;">
+        <li>Adults with Arthritis and Other Rheumatic Conditions </li>
+        <li>Adults with Musculoskeletal Conditions </li>
+    </ul>
+    </li>
+    <li>Updated <em>American Society of Anesthesiologists</em> Guideline on Moderate Procedural Sedation and Analgesia </li>
+    <li>Updated <em>Centre of Perinatal Excellence</em> Guideline on Mental Health Care in the Perinatal Period </li>
+    <li>Updated <em>Clinical Pharmacogenetics Implementation Consortium</em> Guideline on Dihydropyrimidine Dehydrogenase Genotype and Fluoropyrimidine Dosing </li>
+    <li>New <em>Department of Veterans Affairs</em> Guideline on Management of Pregnancy </li>
+    <li>New <em>Evaluation Service of the Canary Is. Health Service</em> Guideline on Systemic Lupus Erythematosus </li>
+    <li>New <em>Neurocritical Care Society</em> Guideline on Implementation of Targeted Temperature Management </li>
+</ul></p>
+	        </div>
+        </div>   
+	    <a href="/new-this-week/index" class="go-button">View All New This Week</a>
+      
+          	        
+	        <div class="row announcements">
+		        <div class="col-12">
+		        	<div class="subscribe-header">
+			            <h2>Announcements</h2>
+			            <ul class="subscribe-links">
+			                <li><a href="/subscribe" class="newsletter"><span class="link-label">Subscribe to Newsletter</span></a></li>
+			                <li><a href="/rssFiles/ngc_announcements.xml" class="rss"><span class="link-label">RSS Feed</span></a></li>
+			            </ul>
+		        	</div><!-- /.subscribe-header -->
+	       			<h3 class="news-list-date-title">July 02, 2018</h3>
+		        </div>
+		        <div class="self-serve-block">
+                    <div class="col-6">
+<div class="image-and-text">
+<h4>Guideline Submission Notice</h4>
+<p><img style="height: 161px; width: 331px;" alt="NGC Web site" src="https://orbital-ecri.silverchair.com/ImageLibrary/Announcement%20Images/NGC_Website_Updates.JPG" /></p>
+<p>Funding to support AHRQ's NGC contract ends on July 16, 2018. To allow time for summaries and NEATS assessments to be posted to the NGC Web site by July 2018, <strong>guidelines are no longer being accepted for inclusion</strong>. Additional information will be posted when AHRQ can announce next steps for NGC. In the meantime, contact <a href="mailto:Mary.Nix@ahrq.hhs.gov">Mary.Nix@ahrq.hhs.gov</a>.</p>
+</div>
+</div>
+<div class="col-6">
+<div class="image-and-text">
+<h4>G-I-N Conference</h4>
+<p><img style="height: 161px; width: 331px;" alt="Conference News" src="https://orbital-ecri.silverchair.com/ImageLibrary/Announcement%20Images/AdobeStock_71402666_new.jpg" /></p>
+<p>The <strong>Guidelines International Network (G-I-N) 2018 Conference</strong> will take place from <strong>September 11-14, 2018</strong> in Manchester. The theme is "Why We Do What We Do: The Purpose and Impact of Guidelines." <a href="/Home/Disclaimer?id=2830&contentType=AnnouncementsHp&redirect=http%3a%2f%2fwww.ginconference.net%2fregistration" title="G-I-N Registration Web site">Registration is open</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. For more information, visit the <a href="/Home/Disclaimer?id=2830&contentType=AnnouncementsHp&redirect=http%3a%2f%2fwww.ginconference.net%2f" title="G-I-N Conference Web site">G-I-N Conference Web site</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />.</p>
+</div>
+</div>
+		        </div>
+	        	<a href="/home/announcements" class="go-button">View All Announcements</a>   
+	        </div>  
+	</div><!-- /.col-8 -->
+
+	<div class="col-4">
+		
+		<div class="info-block">
+			<h3 class="info prefix-icon large-icon">About NGC</h3>
+            
+    <p>NGC supports AHRQ&apos;s mission to produce evidence to make health care safer, higher quality, more accessible, equitable, and affordable by providing objective, detailed information on clinical practice guidelines, and to further their dissemination, implementation, and use in order to inform health care decisions.</p>
+    <ul class="info-block-links">        
+        <li><a href="/help-and-about#about-summaries" class="internal-link">About Guideline Summaries</a></li>
+        <li><a href="/help-and-about#search-browse" class="internal-link">How To Search</a></li>
+        <li><a href="/help-and-about#my-ngc" class="internal-link">My NGC</a></li>
+    </ul>        
+
+		</div><!-- /info-block -->
+
+	</div><!-- /.col -->
+
+    <div class="col-4">
+            <ul class="tabs">
+        <li class="is-active"><a href="#">Most Viewed</a></li>
+    </ul>
+    <ul class="tabs-content">
+        <li class="is-active">    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:010857</li>
+            <li>2015 Nov</li>
+        </ul>
+       
+             <p><a class="" target="" href="https://www.guideline.gov/summaries/summary/49933/American-Geriatrics-Society-2015-updated-Beers-Criteria-for-potentially-inappropriate-medication-use-in-older-adults">American Geriatrics Society 2015 updated Beers Criteria for potentially inappropriate medication use in older adults.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:010732</li>
+            <li>2004 (revised 2014 Sep)</li>
+        </ul>
+       
+             <p><a class="" target="" href="https://www.guideline.gov/summaries/summary/49320/Evidence-assessments-and-guideline-recommendations-in-Lyme-disease-the-clinical-management-of-known-tick-bites-erythema-migrans-rashes-and-persistent-disease">Evidence assessments and guideline recommendations in Lyme disease: the clinical management of known tick bites, erythema migrans rashes and persistent disease.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:010568</li>
+            <li>2014 Oct</li>
+        </ul>
+       
+             <p><a class="" target="" href="https://www.guideline.gov/summaries/summary/48752/Acute-heart-failure-diagnosing-and-managing-acute-heart-failure-in-adults">Acute heart failure: diagnosing and managing acute heart failure in adults.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011345</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+             <p><a class="" target="" href="https://www.guideline.gov/summaries/summary/51267/Treatment-of-seasonal-allergic-rhinitis-an-evidencebased-focused-2017-guideline-update">Treatment of seasonal allergic rhinitis: an evidence-based focused 2017 guideline update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:008093</li>
+            <li>1993 (revised 2010 Oct; reaffirmed 2015 Oct 31)</li>
+        </ul>
+       
+             <p><a class="" target="" href="https://www.guideline.gov/summaries/summary/24158/Practice-guideline-for-the-treatment-of-patients-with-major-depressive-disorder-third-edition">Practice guideline for the treatment of patients with major depressive disorder, third edition.</a></p>
+    </div>
+</li>
+    </ul>
+
+
+    </div>
+	</div><!-- /.row -->
+</div><!-- /.column -->
+
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

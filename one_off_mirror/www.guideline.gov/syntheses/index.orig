@@ -1,0 +1,540 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Guideline Syntheses | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+
+	<div class="content">
+
+    <h1 class="prefix-icon large-icon synthesis">Guideline Syntheses</h1>
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+<p>Syntheses are systematic comparisons of selected guidelines that address similar topic areas. Key elements of each synthesis include a discussion of areas of agreement and difference, the major recommendations, the corresponding strength of evidence and recommendation rating schemes, and a comparison of guideline methodologies. Also included are the benefits/harms of implementing the guideline recommendations and any associated contraindications. For definitions of synthesis attributes, see the <a href="/syntheses/template" title="Guideline Synthesis Template">Guideline Synthesis Template</a>.</p>
+<p class="Note"><strong>Note</strong>: Topics marked with an asterisk (*) appear under more than one clinical specialty.</p>
+<div class="article" id="article">
+<div class="filter-content">
+<div class="accordion-secondary">
+<h2 class="alpha-header">Cardiology</h2>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Jun 2017 </li>
+</ul>
+<p><a href="/syntheses/synthesis/51014" title="Pharmacological Management of Hypertension Synthesis">Pharmacological Management of Hypertension</a></p>
+</div>
+<h2 class="alpha-header">Endocrinology</h2>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Apr 2017 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50702" title="Diabetic Foot Ulcers: Prevention Synthesis">Diabetic Foot Ulcers: Prevention</a></p>
+</div>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>May 2017 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50983" title="Diabetic Foot Ulcers: Wound Management Synthesis">Diabetic Foot Ulcers: Wound Management</a></p>
+</div>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Jul 2016 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50302" title="Pharmacological Management of Obesity Synthesis">Pharmacological Management of Obesity</a></p>
+</div>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Nov 2014 </li>
+</ul>
+<p><a href="/syntheses/synthesis/48531" title="Screening and Diagnosis of Gestational Diabetes Mellitus Synthesis">Screening and Diagnosis of Gestational Diabetes Mellitus*</a></p>
+</div>
+<h2 class="alpha-header">Gastroenterology</h2>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Jan 2017 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50577" title="Management of Acute Uncomplicated Diverticulitis Synthesis">Management of Acute Uncomplicated Diverticulitis</a></p>
+</div>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Dec 2016 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50562" title="Screening for Colorectal Cancer">Screening for Colorectal Cancer*</a></p>
+</div>
+<h2 class="alpha-header">Neurology</h2>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Sept 2014 </li>
+</ul>
+<p><a href="/syntheses/synthesis/48511" title="Pharmacologic Interventions for Bell's Palsy Synthesis">Pharmacologic Interventions for Bell's Palsy</a></p>
+</div>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>May 2017 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50671" title="Screening for Cognitive Impairment in Older Adults Synthesis">Screening for Cognitive Impairment in Older Adults </a></p>
+</div>
+<h2 class="alpha-header">Obstetrics and Gynecology</h2>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Feb 2017 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50662" title="Cervical Cerclage Synthesis">Cervical Cerclage</a></p>
+</div>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Nov 2014 </li>
+</ul>
+<p><a href="/syntheses/synthesis/48531" title="Screening and Diagnosis of Gestational Diabetes Mellitus Synthesis">Screening and Diagnosis of Gestational Diabetes Mellitus*</a></p>
+</div>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>May 2017 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50782" title="Screening for Gynecologic Conditions with Pelvic Examination Synthesis">Screening for Gynecologic Conditions with Pelvic Examination </a></p>
+</div>
+<h2 class="alpha-header">Oncology</h2>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>May 2014 </li>
+</ul>
+<p><a href="/syntheses/synthesis/48012" title="Pharmacologic Interventions for Breast Cancer Risk Reduction in Women Synthesis">Pharmacologic Interventions for Breast Cancer Risk Reduction in Women</a></p>
+</div>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>May 2016 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50093" title="Screening for Breast Cancer in Women at Average Risk Synthesis">Screening for Breast Cancer in Women at Average Risk*</a></p>
+</div>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Dec 2016 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50562" title="Screening for Colorectal Cancer">Screening for Colorectal Cancer*</a></p>
+</div>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Dec 2016 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50489" title="Screening for Lung Cancer Synthesis">Screening for Lung Cancer*</a></p>
+</div>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Apr 2018 </li>
+</ul>
+<p><a href="/syntheses/synthesis/49682" title="Screening for Prostate Cancer Synthesis">Screening for Prostate Cancer*</a></p>
+</div>
+<h2 class="alpha-header">Preventive Medicine</h2>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>May 2016 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50093" title="Screening for Breast Cancer in Women at Average Risk Synthesis">Screening for Breast Cancer in Women at Average Risk*</a></p>
+</div>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Dec 2016 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50562" title="Screening for Colorectal Cancer">Screening for Colorectal Cancer*</a></p>
+</div>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Dec 2016 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50489" title="Screening for Lung Cancer Synthesis">Screening for Lung Cancer*</a></p>
+</div>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Apr 2018 </li>
+</ul>
+<p><a href="/syntheses/synthesis/49682" title="Screening for Prostate Cancer Synthesis">Screening for Prostate Cancer*</a></p>
+</div>
+<h2 class="alpha-header">Pulmonary Medicine</h2>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Dec 2016 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50489" title="Screening for Lung Cancer Synthesis">Screening for Lung Cancer*</a></p>
+</div>
+<h2 class="alpha-header">Rheumatology</h2>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Jun 2016 </li>
+</ul>
+<p><a href="/syntheses/synthesis/50210" title="Nonsurgical Management of Osteoarthritis of the Knee Synthesis">Nonsurgical Management of Osteoarthritis of the Knee</a></p>
+</div>
+<h2 class="alpha-header">Sleep Medicine</h2>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Jun 2017 </li>
+</ul>
+<p><a href="/syntheses/synthesis/51029" title="Screening and Diagnosis of Obstructive Sleep Apnea Synthesis">Screening and Diagnosis of Obstructive Sleep Apnea</a></p>
+</div>
+<h2 class="alpha-header">Urology</h2>
+<div class="list-item-medium">
+<ul class="item-meta">
+    <li>Jul 2015 </li>
+</ul>
+<p><a href="/syntheses/synthesis/49438" title="Prevention of Recurrent Kidney Stones Synthesis">Prevention of Recurrent Kidney Stones</a></p>
+</div>
+</div>
+</div>
+</div>
+<!-- /.article -->
+Page Last Reviewed or Updated: April 30, 2018
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
