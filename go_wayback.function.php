@@ -40,7 +40,7 @@ function go_wayback($file_url = null,$save_to_dir = null){
 		];
 
 	if(is_null($file_url) || is_null($save_to_dir)){ 
-		echo "Error: I really need a list of zip code urls and a place where to save the archives on the local disk";
+		echo "Error: I really need a list of  urls and a place where to save the archives on the local disk";
 		exit();
 
 	}
@@ -95,9 +95,8 @@ function go_wayback($file_url = null,$save_to_dir = null){
 
 
 	if(!isset($lastest_line)){
-		echo "Error: could not find latest_line from file...\n";
-		var_export($arrayOfLines);
-		exit();
+		$fail_results['error_message'] = "Could not find an latest_line probably returned a blank";
+		return($fail_results);
 	}
 
 	$string_array = explode(' ',$lastest_line);

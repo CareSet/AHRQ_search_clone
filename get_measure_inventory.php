@@ -13,8 +13,8 @@
 
 //	chdir("./$dir");
 
-	$start = 990;
-	$end = 1010;
+	$start = 800;
+	$end = 6010;
 
 	for($i = $start; $i < $end ; $i++){
 
@@ -40,5 +40,6 @@
 				echo "Already downloaded \n";
 			}
 		}
-		sleep(1); //be respectful
+	//too slow
+	//		sleep(1); //be respectful
 	}
