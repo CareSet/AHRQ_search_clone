@@ -1,0 +1,1023 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app58.us.archive.org';v.server_ms=258;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>American Gastroenterological Association Institute guideline on the diagnosis and management of asymptomatic neoplastic pancreatic cysts. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712202856im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712202856im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712202856im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712202856im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712202856/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712202856im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712202856cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712202856js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712202856if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712202856/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712202856if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712202856/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712202856/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712202856/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712202856/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712202856im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712202856im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712202856im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712202856/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712202856/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712202856/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712202856/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712202856/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712202856/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712202856/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712202856/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712202856/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712202856/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712202856/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712202856/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712202856/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712202856/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712202856/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712202856/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712202856/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712202856/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712202856/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712202856/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712202856/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010721</li>
+            <li>2015 Apr
+            </li>            
+                                </ul>
+        <div>
+                <h1>American Gastroenterological Association Institute guideline on the diagnosis and management of asymptomatic neoplastic pancreatic cysts.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712202856/https://www.guideline.gov/search?f_Guideline_Developer_String=American%20Gastroenterological%20Association%20Institute&amp;fLockTerm=American%2BGastroenterological%2BAssociation%2BInstitute">American Gastroenterological Association Institute</a></li>
+                        <li>   
+                                <a id="783" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Vege SS, Ziring B, Jain R, Moayyedi P, Clinical Guidelines Committee, American Gastroenterology Association (AGA). American Gastroenterological Association Institute guideline on the diagnosis and management of asymptomatic neoplastic pancreatic cysts. Gastroenterology. 2015 Apr;148(4):819-22; quiz 12-3. [3 references] <a href="https://web.archive.org/web/20180712202856/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25805375" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712202856im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712202856/https://www.guideline.gov/Home/Disclaimer?id=49255&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.gastrojournal.org%252farticle%252fS0016-5085(15)00100-6%252ffulltext">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712202856im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712202856/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712202856/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712202856/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712202856/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712202856/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712202856/https://www.guideline.gov/search?f_ICD9CM_CUI=C0346647&amp;fLockTerm=Malignant+neoplasm+of+pancreas%2c+part+unspecified">Malignant neoplasm of pancreas, part unspecified</a>
+ (157.9)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712202856/https://www.guideline.gov/search?f_MSH_CUI=C2936329&amp;fLockTerm=Asymptomatic+Diseases">Asymptomatic Diseases</a>
+, <a href="/web/20180712202856/https://www.guideline.gov/search?f_MSH_CUI=C0085846&amp;fLockTerm=Biopsy%2c+Fine-Needle">Biopsy, Fine-Needle</a>
+, <a href="/web/20180712202856/https://www.guideline.gov/search?f_MSH_CUI=C0038898&amp;fLockTerm=Digestive+System+Surgical+Procedures">Digestive System Surgical Procedures</a>
+, <a href="/web/20180712202856/https://www.guideline.gov/search?f_MSH_CUI=C0376444&amp;fLockTerm=Endosonography">Endosonography</a>
+, <a href="/web/20180712202856/https://www.guideline.gov/search?f_MSH_CUI=C0024485&amp;fLockTerm=Magnetic+Resonance+Imaging">Magnetic Resonance Imaging</a>
+, <a href="/web/20180712202856/https://www.guideline.gov/search?f_MSH_CUI=C0030283&amp;fLockTerm=Pancreatic+Cyst">Pancreatic Cyst</a>
+, <a href="/web/20180712202856/https://www.guideline.gov/search?f_MSH_CUI=C0030297&amp;fLockTerm=Pancreatic+Neoplasms">Pancreatic Neoplasms</a>
+, <a href="/web/20180712202856/https://www.guideline.gov/search?f_MSH_CUI=C0030688&amp;fLockTerm=Patient+Education+as+Topic">Patient Education as Topic</a>
+, <a href="/web/20180712202856/https://www.guideline.gov/search?f_MSH_CUI=C0032786&amp;fLockTerm=Postoperative+Care">Postoperative Care</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712202856/https://www.guideline.gov/search?f_MTH_CUI=C0376444&amp;fLockTerm=Echo+Endoscopy">Echo Endoscopy</a>
+, <a href="/web/20180712202856/https://www.guideline.gov/search?f_MTH_CUI=C0085846&amp;fLockTerm=Fine-needle+biopsy">Fine-needle biopsy</a>
+, <a href="/web/20180712202856/https://www.guideline.gov/search?f_MTH_CUI=C0024485&amp;fLockTerm=Magnetic+Resonance+Imaging">Magnetic Resonance Imaging</a>
+, <a href="/web/20180712202856/https://www.guideline.gov/search?f_MTH_CUI=C0346647&amp;fLockTerm=Malignant+neoplasm+of+pancreas">Malignant neoplasm of pancreas</a>
+, <a href="/web/20180712202856/https://www.guideline.gov/search?f_MTH_CUI=C0030297&amp;fLockTerm=Pancreatic+Neoplasm">Pancreatic Neoplasm</a>
+, <a href="/web/20180712202856/https://www.guideline.gov/search?f_MTH_CUI=C0030688&amp;fLockTerm=Patient+education+(procedure)">Patient education (procedure)</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712202856/https://www.guideline.gov/search?f_PDQ_CUI=C0024485&amp;fLockTerm=magnetic+resonance+imaging">magnetic resonance imaging</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712202856/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030283&amp;fLockTerm=Cyst+of+pancreas">Cyst of pancreas</a>
+ (31258000), <a href="/web/20180712202856/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0085846&amp;fLockTerm=Fine+needle+biopsy">Fine needle biopsy</a>
+ (48635004), <a href="/web/20180712202856/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0024485&amp;fLockTerm=Magnetic+resonance+imaging">Magnetic resonance imaging</a>
+ (113091000), <a href="/web/20180712202856/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0024485&amp;fLockTerm=Magnetic+resonance+imaging">Magnetic resonance imaging</a>
+ (312250003), <a href="/web/20180712202856/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0336660&amp;fLockTerm=Magnetic+resonance+imaging+unit">Magnetic resonance imaging unit</a>
+ (90003000), <a href="/web/20180712202856/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0346647&amp;fLockTerm=Malignant+tumor+of+pancreas">Malignant tumor of pancreas</a>
+ (363418001), <a href="/web/20180712202856/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030297&amp;fLockTerm=Neoplasm+of+pancreas">Neoplasm of pancreas</a>
+ (126859007), <a href="/web/20180712202856/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0038898&amp;fLockTerm=Operative+procedure+on+digestive+system">Operative procedure on digestive system</a>
+ (107907001), <a href="/web/20180712202856/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030688&amp;fLockTerm=Patient+education">Patient education</a>
+ (311401005), <a href="/web/20180712202856/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0032786&amp;fLockTerm=Postoperative+care">Postoperative care</a>
+ (133899007)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SPN</h5>
+                    <div class="field-content">
+<a href="/web/20180712202856/https://www.guideline.gov/search?f_SPN_CUI=C0302622&amp;fLockTerm=SYSTEM%2c+IMAGING%2c+PULSED+DOPPLER%2c+ULTRASONIC">SYSTEM, IMAGING, PULSED DOPPLER, ULTRASONIC</a>
+, <a href="/web/20180712202856/https://www.guideline.gov/search?f_SPN_CUI=C0336660&amp;fLockTerm=SYSTEM%2c+NUCLEAR+MAGNETIC+RESONANCE+IMAGING">SYSTEM, NUCLEAR MAGNETIC RESONANCE IMAGING</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712202856/https://www.guideline.gov/search?f_UMD_CUI=C0336660&amp;fLockTerm=Scanning+Systems%2c+Magnetic+Resonance+Imaging">Scanning Systems, Magnetic Resonance Imaging</a>
+ (16-260), <a href="/web/20180712202856/https://www.guideline.gov/search?f_UMD_CUI=C0302622&amp;fLockTerm=Scanning+Systems%2c+Ultrasonic">Scanning Systems, Ultrasonic</a>
+ (14-278)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712202856/https://www.guideline.gov/summaries/downloadcontent/ngc-10721?contentType=pdf" class="pdf">.PDF 105.9 kb</a></li>
+                            <li><a href="/web/20180712202856/https://www.guideline.gov/summaries/downloadcontent/ngc-10721?contentType=word" class="word">Word Document 299.1 kb</a></li>
+                            <li><a href="/web/20180712202856/https://www.guideline.gov/summaries/downloadcontent/ngc-10721?contentType=xml" class="xml">.XML 46.0 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712202856/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/49255/american-gastroenterological-association-institute-guideline-on-the-diagnosis-and-management-of-asymptomatic-neoplastic-pancreatic-cysts" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712202856/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/49255/american-gastroenterological-association-institute-guideline-on-the-diagnosis-and-management-of-asymptomatic-neoplastic-pancreatic-cysts" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712202856/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/49255/american-gastroenterological-association-institute-guideline-on-the-diagnosis-and-management-of-asymptomatic-neoplastic-pancreatic-cysts&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712202856/mailto:/?Subject=AHRQ: American Gastroenterological Association Institute guideline on the diagnosis and management of asymptomatic neoplastic pancreatic cysts.&amp;body=https://www.guideline.gov/summaries/summary/49255/american-gastroenterological-association-institute-guideline-on-the-diagnosis-and-management-of-asymptomatic-neoplastic-pancreatic-cysts" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: American Gastroenterological Association Institute guideline on the diagnosis and management of asymptomatic neoplastic pancreatic cysts. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Apr 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712202856/https://www.guideline.gov/summaries/citedownload/49255?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712202856/https://www.guideline.gov/summaries/citedownload/49255?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712202856/https://www.guideline.gov/summaries/citedownload/49255?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712202856/https://www.guideline.gov/summaries/citedownload/49255?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712202856/https://www.guideline.gov/summaries/citedownload/49255?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712202856/https://www.guideline.gov/summaries/citedownload/49255">RefWorks</a></li>
+                            <li><a href="/web/20180712202856/https://www.guideline.gov/summaries/citedownload/49255?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="49255" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>Definitions for the quality of evidence (<strong>high, moderate, low, very low</strong>) and strength of recommendation (<strong>strong, weak</strong>) are provided at the end of the "Major Recommendations" field.</p>
+<p><strong><span style="text-decoration: underline;">Issues Related to the Conduct of Surveillance</span></strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>The American Gastroenterological Association (AGA) recommends that before starting any pancreatic cyst surveillance program, patients should have a clear understanding of programmatic risks and benefits. <strong>Note</strong>: This is a "motherhood statement" that does not require application of the Grading of Recommendations Assessment, Development and Evaluation (GRADE) system. </li>
+    <li>The AGA suggests that patients with pancreatic cysts &lt;3 cm without a solid component or a dilated pancreatic duct undergo magnetic resonance imaging (MRI) for surveillance in 1 year and then every 2 years for a total of 5 years if there is no change in size or characteristics. (<strong>Conditional recommendation, Very low quality evidence</strong>) </li>
+    <li>The AGA suggests that pancreatic cysts with at least two high-risk features, such as size &ge;3 cm, a dilated main pancreatic duct, or the presence of an associated solid component, should be examined with endoscopic ultrasonography with fine-needle aspiration (EUS-FNA). (<strong>Conditional recommendation, Very low quality evidence</strong>) </li>
+    <li>The AGA suggests that patients without concerning EUS-FNA results should undergo MRI surveillance after 1 year and then every 2 years to ensure no change in risk of malignancy. (<strong>Conditional recommendation, Very low quality evidence</strong>) </li>
+    <li>The AGA suggests that significant changes in the characteristics of the cyst, including the development of a solid component, increasing size of the pancreatic duct, and/or diameter &ge;3 cm, are indications for EUS-FNA. (<strong>Conditional recommendation, Very low quality evidence</strong>) </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">When Can Pancreatic Cyst Surveillance Be Discontinued?</span> </strong></p>
+<ol style="list-style-type: decimal;" start="6">
+    <li>The AGA suggests against continued surveillance of pancreatic cysts if there has been no significant change in the characteristics of the cyst after 5 years of surveillance or if the patient is no longer a surgical candidate. (<strong>Conditional recommendation, Very low quality evidence</strong>) </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">When to Offer Surgery for Pancreatic Cysts</span></strong></p>
+<ol style="list-style-type: decimal;" start="7">
+    <li>The AGA suggests that patients with both a solid component and a dilated pancreatic duct and/or concerning features on EUS and FNA should undergo surgery to reduce the risk of mortality from carcinoma. (<strong>Conditional recommendation, Very low quality evidence</strong>) </li>
+    <li>The AGA recommends that if surgery is considered for a pancreatic cyst, patients are referred to a center with demonstrated expertise in pancreatic surgery. (<strong>Strong recommendation, Very low quality evidence</strong>) </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Surveillance After Surgery</span></strong></p>
+<ol style="list-style-type: decimal;" start="9">
+    <li>The AGA suggests that patients with invasive cancer or dysplasia in a cyst that has been surgically resected should undergo MRI surveillance of any remaining pancreas every 2 years. (<strong>Conditional recommendation, Very low quality evidence</strong>) </li>
+    <li>The AGA suggests against routine surveillance of pancreatic cysts without high-grade dysplasia or malignancy at surgical resection. (<strong>Conditional recommendation, Very low quality evidence</strong>) </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong></p>
+<p><strong>Grading of Recommendations Assessment, Development and Evaluation (GRADE) Quality of Evidence</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Grading of Recommendations Assessment, Development and Evaluation (GRADE) Methodology Levels for Rating the Quality of Evidence">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" scope="col">Quality Level</th>
+            <th class="Center" valign="top" scope="col">Definitions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign="top" scope="row">High</th>
+            <td valign="top">The Committee is very confident that the true effect lies close to that of the estimate of the effect supporting the recommendation. </td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Moderate</th>
+            <td valign="top">The Committee is moderately confident in the estimate of effect supporting the recommendation: the true effect is likely to be close to the estimate of effect, but there is a possibility it will be substantially different. </td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Low</th>
+            <td valign="top">The Committee's confidence in the effect supporting the recommendations is limited: the true effect may be substantially different from the estimate of the effect. </td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Very Low</th>
+            <td valign="top">The Committee has very little confidence in the effect estimate supporting the recommendation: the true effect is likely to be substantially different from the estimate of effect. </td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Grading of Recommendations Assessment, Development and Evaluation (GRADE) Strength of Recommendations</strong></p>
+<p>Implications of strong and conditional (weak) guideline recommendations</p>
+<ul style="list-style-type: disc;">
+    <li><strong>Strong recommendations</strong>
+    <ul style="list-style-type: disc;">
+        <li>Patients: Most people in this situation would want the recommended course of action, and only a small proportion would not. Formal decision aids are not likely to be needed to help patients make decisions consistent with their values and preferences. </li>
+        <li>Clinicians: Most patients should receive the recommended course of action. Adherence to this recommendation according to guidelines could be used as a quality criterion or a performance indicator. </li>
+        <li>Policy makers: The recommendation can be adapted as a policy in most situations. </li>
+    </ul>
+    </li>
+    <li><strong>Conditional (weak) recommendations</strong>
+    <ul style="list-style-type: disc;">
+        <li>Patients: The majority of people in this situation would want the suggested course of action, but many would not. Decision aids are useful in helping patients make decisions consistent with their values and preferences. </li>
+        <li>Clinicians: Examine a summary of the evidence to help patients make a decision that is consistent with their own values and preferences (shared decision making). </li>
+        <li>Policy makers: There is a need for substantial debate and involvement of stakeholders. </li>
+    </ul>
+    </li>
+</ul></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>An algorithm titled "Management of Asymptomatic Neoplastic Pancreatic Cysts: Clinical Decision Support Tool" is provided (see the "Availability of Companion Documents" field). </p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Asymptomatic neoplastic pancreatic cysts</p>
+<p class="Note"><strong>Note</strong>: The guideline developers did not evaluate the impact of symptoms on the management of cysts, and this guideline also does not consider some neoplastic lesions such as solid papillary neoplasms, cystic degeneration of adenocarcinomas, neuroendocrine tumors, and main duct intraductal papillary mucinous neoplasms (IPMNs) without side branch involvement, because identification of these neoplasms may be less challenging and the accepted approach is surgical resection if the patient is a suitable candidate.</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Diagnosis</p>
+                    <p>Evaluation</p>
+                    <p>Management</p>
+                    <p>Risk Assessment</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Gastroenterology</p>
+                    <p>Internal Medicine</p>
+                    <p>Oncology</p>
+                    <p>Radiology</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Physicians</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To present the official recommendations on the management of pancreatic cysts</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Adult patients who have asymptomatic pancreatic cysts identified by radiology</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Pancreatic cyst surveillance program
+    <ul style="list-style-type: disc;">
+        <li>Patient education on risks/benefits </li>
+        <li>Discontinuing surveillance if no significant changes after 5 years </li>
+    </ul>
+    </li>
+    <li>Magnetic resonance imaging (MRI) surveillance </li>
+    <li>Endoscopic ultrasonography with fine-needle aspiration (EUS-FNA) </li>
+    <li>Surgery if indicated
+    <ul style="list-style-type: disc;">
+        <li>Referral to center with expertise in pancreatic surgery </li>
+        <li>Postoperative MRI surveillance </li>
+    </ul>
+    </li>
+</ol></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Anxiety for both patients and clinicians </li>
+    <li>Invasive, expensive, and harmful immediate and surveillance evaluations and resulting interventions </li>
+    <li>Morbidity </li>
+    <li>Mortality </li>
+    <li>Detection of early invasive cancer or high-grade dysplasia </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Literature Search</span></strong></p>
+<p>The literature search is described in detail in Appendix 1 in the technical review (see the "Availability of Companion Documents" field). MEDLINE was searched from 1946 to July 2013, and reports evaluating pancreatic cystic neoplasms were identified by combining the exploded Medical Subject Heading (MeSH) term "pancreatic cyst" with text words that contained "pancreas" (e.g., pancreas or pancreatic) and "cyst" that were separated by &le;2 adjectives (e.g., such a search would detect "cyst of the pancreas" and "pancreatic cysts"). This was combined with the set operator "OR" and the exploded MeSH term "pancreatic neoplasm," with a similar text word approach as described in the preceding text to identify other pancreatic neoplasms. Case reports, letters, and non&ndash;English language reports were excluded.</p>
+<p>A second search was performed to identify diagnostic studies. This identified pancreatic cysts as described in the preceding section combined with MeSH terms and text words that described ultrasonography (including endoscopic ultrasonography [EUS]), computed tomography (CT), magnetic resonance imaging (MRI), and endoscopic retrograde pancreatography (ERCP). Furthermore, reports that identified tumor markers and cyst fluid analysis were also identified with exploded MeSH terms and text words (see Appendix 1 in the technical review for details).</p>
+<p>The first search identified more than 2,000 reports and the second search more than 1,500 reports, with duplicates excluded. These references were imported into EndNote version 7.0.1 (Thomson Reuters, Philadelphia, PA) and manually assessed for relevance by two reviewers. The same two reviewers also extracted data relevant for the guideline.</p>
+<p><strong><span style="text-decoration: underline;">Results</span></strong></p>
+<p>The literature search showed that reports are largely retrospective case series; there are no randomized controlled trials. A key limitation of the current literature is that management recommendations are based on knowledge of the specific cyst histology, which rarely can be determined using current imaging and cyst sampling techniques. This highlights the challenges of providing evidence based recommendations regarding the management of patients with pancreatic cysts. See the technical review for further information on the results of the literature search.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>The guideline developers identified 77 studies evaluating 5,790 patients that reported data on morbidity and/or mortality related to surgery performed for resection of pancreatic cysts. The characteristics of the studies are shown in Supplementary Table 1 in the technical review (see the "Availability of Companion Documents" field).</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Grading of Recommendations Assessment, Development and Evaluation (GRADE) Quality of Evidence</span></strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Grading of Recommendations Assessment, Development and Evaluation (GRADE) Methodology Levels for Rating the Quality of Evidence">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" scope="col">Quality Level</th>
+            <th class="Center" valign="top" scope="col">Definitions</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign="top" scope="row">High</th>
+            <td valign="top">The Committee is very confident that the true effect lies close to that of the estimate of the effect supporting the recommendation. </td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Moderate</th>
+            <td valign="top">The Committee is moderately confident in the estimate of effect supporting the recommendation: the true effect is likely to be close to the estimate of effect, but there is a possibility it will be substantially different. </td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Low</th>
+            <td valign="top">The Committee's confidence in the effect supporting the recommendations is limited: the true effect may be substantially different from the estimate of the effect. </td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Very Low</th>
+            <td valign="top">The Committee has very little confidence in the effect estimate supporting the recommendation: the true effect is likely to be substantially different from the estimate of effect. </td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p>The technical review (and the accompanying guideline) was based on the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework. In developing the technical review, the authors first formulated a series of specific questions that were to be answered by the guideline (see Appendix 1 in the technical review [see the "Availability of Companion Documents" field]). The authors then identified the outcomes that were significant to answering each question and rated them as critical or important. Next, the group systematically reviewed and summarized the evidence for each outcome across studies, assessed the quality of evidence for each outcome, and finally integrated the evidence across all the outcomes to answer each specific question. The quality of the evidence was classified into four categories: high, moderate, low, and very low. Assessment of the quality for each outcome took into account the study design, risk of bias, inconsistency (or heterogeneity), indirectness, imprecision, and potential publication bias. See the "Description of Methods Used to Formulate the Recommendations" field for details on the GRADE methodology and the population, intervention, comparison and outcome (PICO) questions.</p>
+<p>Initially, the reviewers outlined a total of seven PICO questions (see Table 1 in the technical review). The patient populations with pancreatic cysts were further analyzed for risk of malignancy based on imaging studies, analysis of cyst fluid, and pathological findings. In addition, an analysis of the prevalence of pancreatic cysts in the population was performed, followed by an estimation of the risk of malignant progression of all pancreatic cysts. The reviewers used a consensus decision-making process (<a href="/web/20180712202856/https://www.guideline.gov/Home/Disclaimer?id=49255&amp;contentType=summary&amp;redirect=http%3a%2f%2fseedsforchange.org.uk%2fconsensus.pdf" title="Seeds for Change Web site">http://seedsforchange.org.uk/consensus.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712202856im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>) to reach unanimous agreement among the three authors on all statements.</p>
+<p>Normally a guideline that uses the GRADE approach would provide a summary of findings table, but this was not possible due to the paucity of data available. The technical review therefore simply outlines the evidence from these surgical series in a narrative manner to provide the risk of invasive malignancy in this select group according to type of cyst. This will indirectly inform the type of pancreatic cyst that is likely to harbor dysplasia or malignancy. The guideline developers then evaluated the data according to which imaging modality best diagnosed the type of cyst and malignant risk and then conducted systematic reviews of the literature to address risk of malignant progression in pancreatic cysts that would not undergo initial surgery.</p>
+<p>For more information on study evaluation, refer to the technical review.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The guideline was developed by the American Gastroenterological Association's (AGA) Clinical Practice Guideline Committee and approved by the AGA Governing Board.</p>
+<p>This guideline uses the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework. This approach breaks down the management of patients with a specific disorder into a series of statements phrased in the PICO format that defines the population (P) under study, the intervention or investigation (I) under consideration, the comparator (C) against which that intervention or investigation is assessed, and the outcome (O) worthy of evaluation. It is important to emphasize that the outcomes in these statements should be focused on what is relevant to patients. In the case of pancreatic cysts, all statements refer to adult patients who have asymptomatic pancreatic cysts identified by radiology; if a comparator is not stated, then it is implied that the management strategy is being compared against "do nothing."</p>
+<p>Both the quality of the available evidence and the strength of the recommendation are provided for each PICO statement. The evidence for the management of pancreatic cysts is summarized in the technical review that accompanies this guideline.</p>
+<p>In addition to reviewing the quality of the evidence, a strength of recommendation for each statement is made that considers, as a whole, the quality of the evidence, the risks and benefits of the strategy, the values and preferences of patients, and the cost (financial and otherwise) of the approach being recommended. A "strong" recommendation supports a clinical decision that should apply to most patients most of the time, whereas a "conditional" (also called "weak" in some settings) recommendation implies that the decision is more nuanced and a significant number of patients could have a different approach.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Grading of Recommendations Assessment, Development and Evaluation (GRADE) Strength of Recommendations</span></strong></p>
+<p>Implications of strong and conditional (weak) guideline recommendations</p>
+<ul style="list-style-type: disc;">
+    <li><strong>Strong recommendations</strong>
+    <ul style="list-style-type: disc;">
+        <li>Patients: Most people in this situation would want the recommended course of action, and only a small proportion would not. Formal decision aids are not likely to be needed to help patients make decisions consistent with their values and preferences. </li>
+        <li>Clinicians: Most patients should receive the recommended course of action. Adherence to this recommendation according to guidelines could be used as a quality criterion or a performance indicator. </li>
+        <li>Policy makers: The recommendation can be adapted as a policy in most situations. </li>
+    </ul>
+    </li>
+    <li><strong>Conditional (weak) recommendations</strong>
+    <ul style="list-style-type: disc;">
+        <li>Patients: The majority of people in this situation would want the suggested course of action, but many would not. Decision aids are useful in helping patients make decisions consistent with their values and preferences. </li>
+        <li>Clinicians: Examine a summary of the evidence to help patients make a decision that is consistent with their own values and preferences (shared decision making). </li>
+        <li>Policy makers: There is a need for substantial debate and involvement of stakeholders. </li>
+    </ul>
+    </li>
+</ul></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>The document presents the official recommendations of the American Gastroenterological Association (AGA) on the management of pancreatic cysts. The guideline was developed by the AGA's Clinical Practice Guideline Committee and approved by the AGA Governing Board.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of evidence is identified and graded for each recommendation (see the "Major Recommendations" field).</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Appropriate diagnosis and management of asymptomatic neoplastic pancreatic cysts </li>
+    <li>Refer to Table 1 in the technical review (see the "Availability of Companion Documents" field) for more information on benefits of various interventions. </li>
+</ul></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Any benefit with surgery has to be taken in context with an overall postoperative mortality of 2% and major morbidity of 30% from the review of the literature. </li>
+    <li>Refer to Table 1 and Supplementary Table 1 in the technical review (see the "Availability of Companion Documents" field) for more information on harms and complications of various interventions. </li>
+</ul></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><div class="content_para"><p>Pancreatic cysts are common and increase with age, but the development of invasive adenocarcinoma in these cysts is extremely rare. The management strategy for pancreatic cysts aims to prevent the development of invasive cancer and/or to resect invasive malignancy early when present. Current clinical practice is based on minimal evidence and relies almost exclusively on case series of frequent cross-sectional imaging with or without endoscopic ultrasonography (EUS) and/or fine-needle aspiration (FNA) cytology and surgery for concerning features. The preceding guidelines for asymptomatic mucinous cysts are different from all previously published guidelines in the following areas: 2-year interval for cyst of any size undergoing surveillance, stopping surveillance after 5 years if no change, surgery only if more than one concerning feature on magnetic resonance imaging (MRI) confirmed on EUS and only in centers with high volumes of pancreatic surgery, and no surveillance after surgery if no invasive cancer or dysplasia. Although based on extensive literature review and synthesis, these recommendations may result in significant controversy because they advocate less frequent follow-up and a higher threshold before offering EUS and/or surgery. However, consistent utilization should decrease inadvertent harm to patients and reduce the costs of health care delivery.</p></div></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>An implementation strategy was not provided.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Clinical Algorithm</p>
+                    <p>Patient Resources</p>
+                    <p>Staff Training/Competency Material</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Vege SS, Ziring B, Jain R, Moayyedi P, Clinical Guidelines Committee, American Gastroenterology Association (AGA). American Gastroenterological Association Institute guideline on the diagnosis and management of asymptomatic neoplastic pancreatic cysts. Gastroenterology. 2015 Apr;148(4):819-22; quiz 12-3. [3 references] <a href="https://web.archive.org/web/20180712202856/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25805375" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712202856im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2015 Apr</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>American Gastroenterological Association Institute - Medical Specialty Society</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>American Gastroenterological Association Institute</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>American Gastroenterological Association Clinical Practice Guideline Committee</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Authors</em>: Santhi Swaroop Vege, Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, Minnesota; Barry Ziring, Division of Internal Medicine, Sidney Kimmel College of Medicine, Thomas Jefferson University, Philadelphia, Pennsylvania; Rajeev Jain, Texas Digestive Disease Consultants, Dallas, Texas; Paul Moayyedi, Division of Gastroenterology, Hamilton Health Sciences, McMaster University, Hamilton, Ontario, Canada</p>
+<p><em>American Gastroenterological Association Institute Clinical Guideline Committee Members</em>: Megan A. Adams, University of Michigan Medical Center, Ann Arbor, MI; Spencer D. Dorn, Division of Gastroenterology, University of North Carolina at Chapel Hill, Chapel Hill, NC; Sharon L. Dudley-Brown, Division of Gastroenterology and Hepatology, Johns Hopkins Medical Center, Lutherville-Timonium, MD; Steven L. Flamm, Northwestern Feinberg School of Medicine, Chicago, IL; Ziad F. Gellad, Division of Gastroenterology, VA Medical Center, Durham, VA; Claudia B. Gruss, ProHealth Physicians, Farmington, CT; Lawrence R. Kosinski, Illinois Gastroenterology Group, Algonquin, IL; Joseph K. Lim, Section of Digestive Diseases, Yale Medical Group, New Haven, CT; Yvonne Romero, Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN; Joel H. Rubenstein, Veterans Affairs Center for Clinical Management Research and Division of Gastroenterology, University of Michigan Medical School, Ann Arbor, MI; Walter E. Smalley, Vanderbilt University School of Medicine, Nashville, TN; Shahnaz Sultan, Minneapolis VA Health Care System, University of Minnesota, Minneapolis, MN; David S. Weinberg, Department of Medicine, Fox Chase Cancer Center, Philadelphia, PA; Yu-Xiao Yang, Division of Gastroenterology, Perelman School of Medicine at the University of Pennsylvania, Philadelphia, PA</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>All members were required to complete a disclosure statement. These statements are maintained at the American Gastroenterological Association Institute headquarters in Bethesda, Maryland, and pertinent disclosures are published with the report. The authors disclose no conflicts.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Electronic copies: Available from the <a href="/web/20180712202856/https://www.guideline.gov/Home/Disclaimer?id=49255&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gastrojournal.org%2farticle%2fS0016-5085(15)00100-6%2ffulltext" title="Gastroenterology Journal Web site">Gastroenterology Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712202856im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>Print copies: Chair, Clinical Guideline Committee, AGA National Office, 4930 Del Ray Avenue, Bethesda, Maryland 20814. E-mail: <a href="https://web.archive.org/web/20180712202856/mailto:msiedler@gastro.org">msiedler@gastro.org</a>; Telephone: (301) 941-2618.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>American Gastroenterological Association technical review on the diagnosis and management of asymptomatic neoplastic pancreatic cysts. Gastroenterology. 2015 Apr;148(4):824&ndash;48.e22. Electronic copies: Available from the <a href="/web/20180712202856/https://www.guideline.gov/Home/Disclaimer?id=49255&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gastrojournal.org%2farticle%2fS0016-5085(15)00099-2%2fabstract" title="Gastroenterology Journal Web site">Gastroenterology Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712202856im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Management of asymptomatic neoplastic pancreatic cysts: clinical decision support tool. Gastroenterology. 2015 Apr;148(4):823. Electronic copies: Available from the <a href="/web/20180712202856/https://www.guideline.gov/Home/Disclaimer?id=49255&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gastrojournal.org%2farticle%2fS0016-5085%252815%252900270-X%2fpdf" title="AGAI Web site">American Gastroenterological Association Institute (AGAI) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712202856im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>The AGA Institute process for developing clinical practice guidelines part one: grading the evidence. Clin Gastroenterol Hepatol. 2013 Apr;11(4):329-32. Electronic copies: Available to subscribers from the <a href="/web/20180712202856/https://www.guideline.gov/Home/Disclaimer?id=49255&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.sciencedirect.com%2fscience%2farticle%2fpii%2fS1542356513001778" title="Clinical Gastroenterology and Hepatology Web site">Clinical Gastroenterology and Hepatology Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712202856im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p>This guideline also has an accompanying continuing medical education activity available from the <a href="/web/20180712202856/https://www.guideline.gov/Home/Disclaimer?id=49255&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gastrojournal.org%2fcme%2fhome" title="Gastroenterology Journal Web site">Gastroenterology Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712202856im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>The following is available:</p>
+<ul style="list-style-type: disc;">
+    <li>Managing pancreatic cysts: a patient guide. Gastroenterology. 2015 Aug;149(2):498-99. Electronic copies: Available from the <a href="/web/20180712202856/https://www.guideline.gov/Home/Disclaimer?id=49255&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gastrojournal.org%2farticle%2fS0016-5085(15)00901-4%2fpdf">Gastroenterology Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712202856im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p class="Disclaimer">Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on July 20, 2015. The information was verified by the guideline developer on August 5, 2015.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712202856/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712202856/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712202856/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712202856/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712202856/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712202856/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712202856/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712202856/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712202856/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712202856/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712202856/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712202856/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712202856/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712202856/https://www.guideline.gov/disclaimer?id=49255&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712202856im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712202856im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712202856/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712202856/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712202856/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712202856/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712202856/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712202856/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712202856/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712202856/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712202856/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712202856/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712202856/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712202856/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712202856/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712202856/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712202856/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712202856/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712202856/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712202856/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712202856/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712202856im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712202856im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712202856/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712202856im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712202856im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712202856/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712202856js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712202856js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:28:56 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:21:02 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 79.287 (3)
+  esindex: 0.007
+  captures_list: 205.319
+  CDXLines.iter: 12.618 (3)
+  PetaboxLoader3.datanode: 73.919 (4)
+  exclusion.robots: 0.143
+  exclusion.robots.policy: 0.132
+  RedisCDXSource: 110.853
+  load_resource: 23.516
+-->

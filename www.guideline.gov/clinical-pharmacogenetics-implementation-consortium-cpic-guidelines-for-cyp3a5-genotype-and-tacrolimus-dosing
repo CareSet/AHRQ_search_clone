@@ -1,0 +1,944 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app40.us.archive.org';v.server_ms=742;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for &lt;em&gt;CYP3A5&lt;/em&gt; genotype and tacrolimus dosing. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712203137im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712203137im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712203137im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712203137im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712203137/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712203137im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712203137cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712203137js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712203137if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712203137/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712203137if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712203137/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712203137/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712203137/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712203137/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712203137im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712203137im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712203137im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712203137/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712203137/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712203137/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712203137/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712203137/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712203137/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712203137/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712203137/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712203137/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712203137/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712203137/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712203137/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712203137/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712203137/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712203137/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712203137/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712203137/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712203137/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712203137/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712203137/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712203137/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010769</li>
+            <li>2015 Jul
+            </li>            
+                                </ul>
+        <div>
+                <h1>Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for <em>CYP3A5</em> genotype and tacrolimus dosing.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712203137/https://www.guideline.gov/search?f_Guideline_Developer_String=Clinical%20Pharmacogenetics%20Implementation%20Consortium&amp;fLockTerm=Clinical%2BPharmacogenetics%2BImplementation%2BConsortium">Clinical Pharmacogenetics Implementation Consortium</a></li>
+                        <li>   
+                                <a id="2418" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Birdwell KA, Decker B, Barbarino JM, Peterson JF, Stein CM, Sadee W, Wang D, Vinks AA, He Y, Swen JJ, Leeder JS, van Schaik RHN, Thummel KE, Klein TE, Caudle KE, MacPhee IAM. Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for CYP3A5 genotype and tacrolimus dosing. Clin Pharmacol Ther. 2015 Jul;98(1):19-24. [40 references] <a href="https://web.archive.org/web/20180712203137/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25801146" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712203137im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712203137/https://www.guideline.gov/Home/Disclaimer?id=49492&amp;contentType=fulltextlink&amp;redirect=https%253a%252f%252fcpicpgx.org%252fguidelines%252fguideline-for-tacrolimus-and-cyp3a5%252f">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203137im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                            <h4>UMLS Concepts <a href="/web/20180712203137/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712203137/https://www.guideline.gov/search?f_MSH_CUI=C0059563&amp;fLockTerm=Cytochrome+P-450+CYP3A">Cytochrome P-450 CYP3A</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MSH_CUI=C0085421&amp;fLockTerm=Drug+Monitoring">Drug Monitoring</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MSH_CUI=C0017431&amp;fLockTerm=Genotype">Genotype</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MSH_CUI=C3178894&amp;fLockTerm=Genotyping+Techniques">Genotyping Techniques</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MSH_CUI=C0018129&amp;fLockTerm=Graft+Rejection">Graft Rejection</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MSH_CUI=C0472699&amp;fLockTerm=Hematopoietic+Stem+Cell+Transplantation">Hematopoietic Stem Cell Transplantation</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MSH_CUI=C0029216&amp;fLockTerm=Organ+Transplantation">Organ Transplantation</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MSH_CUI=C0031325&amp;fLockTerm=Pharmacogenetics">Pharmacogenetics</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MSH_CUI=C0031327&amp;fLockTerm=Pharmacokinetics">Pharmacokinetics</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MSH_CUI=C0085149&amp;fLockTerm=Tacrolimus">Tacrolimus</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712203137/https://www.guideline.gov/search?f_MTH_CUI=C0059563&amp;fLockTerm=cytochrome+P450+3A">cytochrome P450 3A</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MTH_CUI=C0031327&amp;fLockTerm=Drug+Kinetics">Drug Kinetics</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MTH_CUI=C0017431&amp;fLockTerm=Genotype">Genotype</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MTH_CUI=C0018129&amp;fLockTerm=Graft+Rejection">Graft Rejection</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MTH_CUI=C0472699&amp;fLockTerm=Hemopoietic+stem+cell+transplant">Hemopoietic stem cell transplant</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MTH_CUI=C0029216&amp;fLockTerm=Organ+Transplantation">Organ Transplantation</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MTH_CUI=C0031325&amp;fLockTerm=Pharmacogenetics">Pharmacogenetics</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MTH_CUI=C1138555&amp;fLockTerm=Pharmacogenomics">Pharmacogenomics</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_MTH_CUI=C0085149&amp;fLockTerm=Tacrolimus">Tacrolimus</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712203137/https://www.guideline.gov/search?f_PDQ_CUI=C0029216&amp;fLockTerm=organ+transplantation">organ transplantation</a>
+, <a href="/web/20180712203137/https://www.guideline.gov/search?f_PDQ_CUI=C0085149&amp;fLockTerm=tacrolimus">tacrolimus</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712203137/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0059563&amp;fLockTerm=Cytochrome+p450+CYP3A+enzyme">Cytochrome p450 CYP3A enzyme</a>
+ (424790003), <a href="/web/20180712203137/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0018129&amp;fLockTerm=Graft+rejection">Graft rejection</a>
+ (72627004), <a href="/web/20180712203137/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0472699&amp;fLockTerm=Hemopoietic+stem+cell+transplant">Hemopoietic stem cell transplant</a>
+ (234336002), <a href="/web/20180712203137/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0085421&amp;fLockTerm=Medication+monitoring">Medication monitoring</a>
+ (395170001), <a href="/web/20180712203137/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1138555&amp;fLockTerm=Pharmacogenomic+specialist">Pharmacogenomic specialist</a>
+ (720505003), <a href="/web/20180712203137/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0085149&amp;fLockTerm=Tacrolimus">Tacrolimus</a>
+ (109129008), <a href="/web/20180712203137/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0085149&amp;fLockTerm=Tacrolimus">Tacrolimus</a>
+ (386975001)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712203137/https://www.guideline.gov/summaries/downloadcontent/ngc-10769?contentType=pdf" class="pdf">.PDF 118.7 kb</a></li>
+                            <li><a href="/web/20180712203137/https://www.guideline.gov/summaries/downloadcontent/ngc-10769?contentType=word" class="word">Word Document 303.9 kb</a></li>
+                            <li><a href="/web/20180712203137/https://www.guideline.gov/summaries/downloadcontent/ngc-10769?contentType=xml" class="xml">.XML 49.6 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203137/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/49492/clinical-pharmacogenetics-implementation-consortium-cpic-guidelines-for-cyp3a5-genotype-and-tacrolimus-dosing" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203137/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/49492/clinical-pharmacogenetics-implementation-consortium-cpic-guidelines-for-cyp3a5-genotype-and-tacrolimus-dosing" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203137/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/49492/clinical-pharmacogenetics-implementation-consortium-cpic-guidelines-for-cyp3a5-genotype-and-tacrolimus-dosing&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712203137/mailto:/?Subject=AHRQ: Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for &amp;lt;em&amp;gt;CYP3A5&amp;lt;/em&amp;gt; genotype and tacrolimus dosing.&amp;body=https://www.guideline.gov/summaries/summary/49492/clinical-pharmacogenetics-implementation-consortium-cpic-guidelines-for-cyp3a5-genotype-and-tacrolimus-dosing" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for <em>CYP3A5</em> genotype and tacrolimus dosing. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Jul 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712203137/https://www.guideline.gov/summaries/citedownload/49492?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712203137/https://www.guideline.gov/summaries/citedownload/49492?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712203137/https://www.guideline.gov/summaries/citedownload/49492?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712203137/https://www.guideline.gov/summaries/citedownload/49492?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712203137/https://www.guideline.gov/summaries/citedownload/49492?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712203137/https://www.guideline.gov/summaries/citedownload/49492">RefWorks</a></li>
+                            <li><a href="/web/20180712203137/https://www.guideline.gov/summaries/citedownload/49492?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="49492" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>The strength of therapeutic recommendations (<strong>Strong</strong>, <strong>Moderate</strong>, <strong>Optional</strong>) is defined at the end of the "Major Recommendations" field.</p>
+<p><strong><span style="text-decoration: underline;">Genetic Test Interpretation</span></strong></p>
+<p>Each named * allele is defined by the genotype at one or more specific single-nucleotide polymorphisms (see Supplementary Table S1 [see the "Availability of Companion Documents" field]). The function associated with these allelic variants is summarized in Supplementary Table S2. The assignment of the likely cytochrome P450 (CYP)345 (<em>CYP3A5</em>) phenotype, based on * allele diplotypes, is summarized in Table 1 below. <em>CYP3A5</em> alleles have been extensively studied in groups with diverse geographic ancestries (see Supplementary Table S3). One of the limitations inherent in a genotype-only test is that rare or <em>de novo</em> variants may not be included in commercially available genotyping tests.</p>
+<p><strong>Table 1. Assignment of Likely Metabolism Phenotypes Based on <em>CYP3A5</em> Diplotypes</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Assignment of Likely Metabolism Phenotypes Based on CYP3A5 Diplotypes">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" scope="col">Likely Phenotype</th>
+            <th class="Center" valign="top" scope="col">Genotype</th>
+            <th class="Center" valign="top" scope="col">Examples of Diplotypes<sup>a</sup></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">Extensive metabolizer (CYP3A5 expresser)</td>
+            <td valign="top">An individual carrying two functional alleles</td>
+            <td valign="top"><em>*1/*1</em></td>
+        </tr>
+        <tr>
+            <td valign="top">Intermediate metabolizer (CYP3A5 expresser)</td>
+            <td valign="top">An individual carrying one functional allele and one nonfunctional allele</td>
+            <td valign="top"><em>*1/*3, *1/*6, *1/*7</em></td>
+        </tr>
+        <tr>
+            <td valign="top">Poor metabolizer (CYP3A5 nonexpresser)</td>
+            <td valign="top">An individual carrying two nonfunctional alleles</td>
+            <td valign="top"><em>*3/*3, *6/*6, *7/*7, *3/*6, *3/*7, *6/*7</em></td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note"><sup>a</sup>Additional rare variants, such as <em>CYP3A5*2, *8</em>, and <em>*9</em> may be found, which are of unknown functional significance. However, if a copy of <em>*1</em> is present, expected phenotype would be intermediate metabolizer.</p>
+<p><strong>Table 2. Dosing Recommendations for Tacrolimus Based on <em>CYP3A5</em> Phenotype</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Dosing Recommendations for Tacrolimus Based on CYP3A5 Phenotype">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" scope="col"><em>CYP3A5</em> Phenotype<sup>a</sup></th>
+            <th class="Center" valign="top" scope="col">Implications for Tacrolimus Pharmacologic Measures</th>
+            <th class="Center" valign="top" scope="col">Therapeutic Recommendations<sup>b</sup></th>
+            <th class="Center" valign="top" scope="col">Classification of Recommendations</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">Extensive metabolizer (CYP3A5 expresser)</td>
+            <td valign="top">Lower dose-adjusted trough concentrations of tacrolimus and decreased chance of achieving target tacrolimus concentrations</td>
+            <td valign="top">Increase starting dose 1.5 to 2 times recommended starting dose.<sup>c</sup> Total starting dose should not exceed 0.3 mg/kg/day. Use therapeutic drug monitoring to guide dose adjustments.</td>
+            <td valign="top">Strong</td>
+        </tr>
+        <tr>
+            <td valign="top">Intermediate metabolizer (CYP3A5 expresser)</td>
+            <td valign="top">Lower dose-adjusted trough concentrations of tacrolimus and decreased chance of achieving target tacrolimus concentrations</td>
+            <td valign="top">Increase starting dose 1.5 to 2 times recommended starting dose.<sup>a</sup> Total starting dose should not exceed 0.3 mg/kg/day. Use therapeutic drug monitoring to guide dose adjustments.</td>
+            <td valign="top">Strong</td>
+        </tr>
+        <tr>
+            <td valign="top">Poor metabolizer (CYP3A5 nonexpresser)</td>
+            <td valign="top">Higher ("normal") dose-adjusted trough concentrations of tacrolimus and increased chance of achieving target tacrolimus concentrations</td>
+            <td valign="top">Initiate therapy with standard recommended dose. Use therapeutic drug monitoring to guide dose adjustments.</td>
+            <td valign="top">Strong</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note"><sup>a</sup>Typically, with other CYP enzymes, an extensive metabolizer would be classified as a "normal" metabolizer, and, therefore, the drug dose would not change based on the patient's genotype. However, in the case of CYP3A5 and tacrolimus, a CYP3A5 expresser (i.e., CYP3A5 extensive metabolizer or intermediate metabolizer) would require a higher recommended starting dose and the CYP3A5 nonexpresser (i.e., poor metabolizer) would require the standard recommended starting dose.</p>
+<p class="Note"><sup>b</sup>This recommendation includes the use of tacrolimus in kidney, heart, lung, and hematopoietic stem cell transplant patients, and liver transplant patients in which the donor and recipient genotypes are identical.</p>
+<p class="Note"><sup>c</sup>Further dose adjustments or selection of alternative therapy may be necessary because of other clinical factors (e.g., medication interactions, or hepatic function).</p>
+<p><strong><span style="text-decoration: underline;">Therapeutic Recommendations</span></strong></p>
+<p>This guideline is not intended to recommend for or against <em>CYP3A5</em> genotype testing in transplants. The current evidence for utility of <em>CYP3A5</em> genotyping to guide tacrolimus dosing is limited to <em>CYP3A5's</em> effect on tacrolimus pharmacokinetic parameters, with no direct evidence for improved clinical immunosuppressant outcome. As a result, the authors are not recommending whether or not to test for the <em>CYP3A5</em> genotype in transplants, but they are providing recommendations on how to use <em>CYP3A5</em> genotype information if it is known. Since it is typical clinical practice to achieve target blood concentrations as quickly as possible, the authors do recommend if <em>CYP3A5</em> genotype is known, to individualize initial tacrolimus treatment using <em>CYP3A5</em> genotype to guide tacrolimus dosing, as outlined in Table 2 above. Transplant recipients with the poor metabolizer phenotype (Table 1 above) should receive the standard dosing of medication based on the tacrolimus package insert. Those recipients with an extensive or intermediate metabolizer phenotype will generally require an increased dose of tacrolimus to achieve therapeutic drug concentrations. The authors recommend a dose 1.5 to 2 times higher than standard dosing, but not to exceed 0.3 mg/kg/day, followed by therapeutic drug monitoring (TDM), given the risk of arterial vasoconstriction, hypertension, and nephrotoxicity that can occur with supratherapeutic tacrolimus concentrations. In addition, concomitant medications, abnormal liver function, or presence of clinical conditions, such as diarrhea, must be taken into consideration when dosing tacrolimus (see the section "Other Considerations" in the original guideline document".</p>
+<p>Given the availability of TDM, genetic testing is most helpful before initiation of the drug in order to more rapidly achieve therapeutic drug concentrations. This was illustrated in a randomized controlled trial in which target tacrolimus blood concentrations were achieved earlier in new kidney transplant recipients whose tacrolimus dose was chosen based on <em>CYP3A5</em> genotype versus a control group that started tacrolimus based on standard weight-based dosing. In this study, patients received induction therapy with either basiliximab or antithymocyte globulin. Extensive metabolizers in the genotyped-dosed group had an increase in tacrolimus dose to 0.3 mg/kg/day, whereas the poor metabolizers had a decrease to 0.15 mg/kg/day, and the control group received 0.2 mg/kg/day. TDM was used in both groups. At three days after starting treatment with tacrolimus, significantly more of the transplant recipients in the genotyping group compared with control recipients had achieved target range (43.2% vs. 29.1%, respectively). However, it should be noted that tacrolimus was not started until day seven while awaiting genotyping test results, which may differ from standard treatments with a start of tacrolimus at the time of transplantation. No differences were seen in patient survival, nephrotoxicity, or acute rejection between the groups over the three-month follow-up. With this study as the only published randomized control trial, more data are needed to understand if dosing tacrolimus by genotype will affect clinical outcomes. However, a recent meta-analysis including 21 studies evaluating the effect of <em>CYP3A5</em> polymorphism on kidney transplant recipients concluded that there is a significantly increased risk for transplant rejection for those with the <em>CYP3A5*1/*1</em> or <em>CYP3A5*1/*3</em> genotype (<em>P</em>=0.04; odds ratio=1.32). Furthermore, patients with the <em>CYP3A5*3/*3</em> (nonexpresser) genotype exhibited dose adjusted trough concentrations 1.8 to 2.5 times higher than <em>CYP3A5</em> expressers during the first year after transplantation.</p>
+<p>Thus, at present, there is no definitive evidence to indicate that genotype-guided dosing for tacrolimus affects long-term clinical outcomes. However, there is strong evidence to support its effect on achieving target trough whole blood concentrations, which is routine clinical practice for most centers (see Supplementary Table S4). Besides initial dose, genotype-guided dosing may also be useful in patients in whom achieving therapeutic blood concentrations has been difficult, where the genotype may provide some additional information to discern the reason.</p>
+<p>In liver transplant recipients, the <em>CYP3A5</em> genotype of the donor liver may not be the same as the <em>CYP3A5</em> genotype of the recipient intestine. In these cases, it may be necessary to account for both the donor and recipient genotypes when determining the dose. However, studies to date have been inconclusive as to the relative influence of the donor and recipient genotypes, and whether donor liver and recipient intestinal genotypes come into play at different points post-transplant. While some studies show that the donor genotype affects dose-adjusted trough concentrations from the first week post-transplant, others show that it does not begin to play a role until the second week or even the sixth month post-transplant. Evidence is also conflicting for recipient intestinal genotype: a few studies show that it never significantly affects tacrolimus concentrations, whereas others show its influence on concentrations is only significant up to the point at which the donor genotype becomes significant. Because of the small number of studies analyzing these cases, as well as inconsistent results, this guideline recommendation only includes kidney, heart, lung, and hematopoietic stem cell transplant patients, and liver transplant patients in which the donor and recipient genotypes are identical.</p>
+<p><strong><span style="text-decoration: underline;">Pediatrics</span></strong></p>
+<p>The effect of <em>CYP3A5</em> genotype on dose-corrected tacrolimus concentration in pediatric populations has been studied in several clinical settings, including heart and liver transplantation, but most extensively following kidney transplantation. Unfortunately, available data vary in terms of study duration following transplant and inclusion of additional factors that impact the dose-exposure relationship. In general, although the dose-exposure relationship changes over time regardless of genotype, dose-corrected tacrolimus trough concentrations are 1.5- to 2-fold higher in kidney transplant patients with <em>CYP3A5*3/*3</em> genotypes compared with patients with <em>CYP3A5*1/*1</em> or <em>*1/*3</em> genotypes over the first two to four weeks post-transplant, at six months, and throughout the first year post-transplant. However, patient age and concurrent drug therapy also contribute to variability in the tacrolimus dose-exposure relationship in children. For example, post-pubertal renal transplant patients (age &gt;12 years) have higher dose-corrected tacrolimus concentrations compared with younger children in the first two to three week posttransplantation period or over the first year post-transplant, indicative of a lower dose requirement to achieve a comparable target concentration. Thus, for children and adolescents with at least one <em>CYP3A5*1</em> allele, a 1.5- to 2-fold increase in dose followed by TDM as recommended for adults seems appropriate.</p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong></p>
+<p><strong>Strength of Therapeutic Recommendations</strong></p>
+<p><strong>Strong</strong>: The evidence is high quality and the desirable effects clearly outweigh the undesirable effects.</p>
+<p><strong>Moderate</strong>: There is a close or uncertain balance as to whether the evidence is high quality and the desirable clearly outweigh the undesirable effects.</p>
+<p><strong>Optional</strong>: The desirable effects are closely balanced with undesirable effects and there is room for differences of opinion as to the need for the recommended course of action.</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>The following algorithms are provided in the Supplemental Material (see the "Availability of Companion Documents" field):</p>
+<ul style="list-style-type: disc;">
+    <li><em>CYP3A5</em> Pharmacogenetic Test Result: Clinical Implementation Workflow for EHR </li>
+    <li><em>CYP3A5</em> Genotype and Tacrolimus: Point of Care Clinical Decision Support </li>
+</ul></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Acute rejection after solid organ and hematopoietic stem cell transplantation</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Prevention</p>
+                    <p>Risk Assessment</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Internal Medicine</p>
+                    <p>Medical Genetics</p>
+                    <p>Pathology</p>
+                    <p>Pediatrics</p>
+                    <p>Pharmacology</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Pharmacists</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To provide information relevant to the interpretation of cytochrome P450 (CYP)3A5 (<em>CYP3A5</em>) genotype results to guide dosing of tacrolimus</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Individuals undergoing solid organ or hematopoietic stem cell transplantation who are receiving tacrolimus treatment</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Use of cytochrome P450 (CYP)3A5 (<em>CYP3A5</em>) genotyping to guide tacrolimus dosing </li>
+    <li>Use of therapeutic drug monitoring (TDM) to guide tacrolimus dose adjustments </li>
+</ol></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li><em>In vivo</em> clinical outcome (e.g., nephrotoxicity, transplant rejection) for tacrolimus in individuals who vary by cytochrome P450 (CYP)3A5 (<em>CYP3A5</em>) rs776746 genotype/phenotype </li>
+    <li><em>In vivo</em> or <em>in vitro</em> pharmacokinetics (e.g., dose-adjusted trough concentrations, clearance) for tacrolimus in individuals who vary by <em>CYP3A5</em> rs776746 genotype/phenotype </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Literature Review</span></strong></p>
+<p>The authors searched the PubMed database (1966 to January 2015) and Ovid MEDLINE (1950 to January 2015) using several keyword strategies: tacrolimus AND CYP3A5 OR tacrolimus AND CYP3A4. Literature evidence for this guideline was annotated, organized, and assessed using Clinical Pharmacogenetics Implementation Consortium (CPIC) Web tools (<a href="/web/20180712203137/https://www.guideline.gov/Home/Disclaimer?id=49492&amp;contentType=summary&amp;redirect=https%3a%2f%2fcpicpgx.org%2fguidelines%2fguideline-for-tacrolimus-and-cyp3a5%2f" title="CPIC Web site">CPIC Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203137im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>). All papers used as literature evidence for this guideline can be found on the <a href="/web/20180712203137/https://www.guideline.gov/Home/Disclaimer?id=49492&amp;contentType=summary&amp;redirect=https%3a%2f%2fcpicpgx.org%2fguidelines%2fguideline-for-tacrolimus-and-cyp3a5%2f" title="CPIC Web site">CPIC Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203137im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </p>
+<p>Using the specified search criteria, 201 publications were identified after excluding non-English manuscripts or review articles. Inclusion criteria included publications discussing <em>in vivo</em> clinical outcome (e.g., nephrotoxicity, transplant rejection) for tacrolimus in individuals who vary by cytochrome P450 (CYP)3A5 (<em>CYP3A5</em>) rs776746 genotype/phenotype and <em>in vivo</em> or <em>in vitro</em> pharmacokinetic data (e.g., dose-adjusted trough concentrations, clearance) for tacrolimus in individuals who vary by <em>CYP3A5</em> rs776746 genotype/phenotype.</p>
+<p>To construct a <em>CYP3A5*1, *3, *6</em> and <em>*7</em> allele frequency table based on ethnicity, the PubMed database (1966 to July 2014) was searched using the criteria <em>CYP3A5</em> allele frequency AND CYP3A5 polymorphism frequency with filter limits set to retrieve "English" literature. Studies from the literature review were also used to construct the frequency table. Studies were considered for inclusion if (1) the ethnicity of the population was clearly indicated; (2) only one ethnicity was analyzed, or in cases where multiple ethnicities were studied, allele frequencies were given for each ethnicity separately; (3) either allele frequencies or alleles for <em>CYP3A5*1, *3, *6,</em> or<em>*7</em> genotypes were reported; (4) the method by which <em>CYP3A5</em> was genotyped was reliable; (5) the sample size was at least 15 subjects; and (6) the study represented publication of novel data (no reviews or meta-analyses). The combined analysis included 5,285 Africans, 8,226 Asians, 5,954 Caucasians, 2,144 Latin Americans, 1,401 Middle Easterners and 1,411 Southwest Asians.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>Following application of the inclusion criteria, 187 publications were reviewed and included in the evidence table.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Levels of Evidence</span></strong></p>
+<p><strong>High</strong>: Evidence includes consistent results from well-designed, well-conducted studies.</p>
+<p><strong>Moderate</strong>: Evidence is sufficient to determine effects, but the strength of the evidence is limited by the number, quality, or consistency of the individual studies; generalizability to routine practice; or indirect nature of the evidence.</p>
+<p><strong>Weak</strong>: Evidence is insufficient to assess the effects on health outcomes because of limited number or power of studies, important flaws in their design or conduct, gaps in the chain of evidence, or lack of information.</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p>The Clinical Pharmacogenetics Implementation Consortium's (CPIC's) dosing recommendations are based on weighting the evidence from a combination of preclinical functional and clinical data, as well as on some existing disease-specific consensus guidelines. Some of the factors that are taken into account include <em>in vivo</em> clinical outcome data for tacrolimus, <em>in vivo</em> pharmacokinetic data for tacrolimus, and <em>in vitro</em> pharmacokinetic data for tacrolimus.</p>
+<p>The evidence summarized in Supplemental Table S4 (see the "Availability of Companion Documents" field) is graded using a scaled modified slightly from Valdes et al. (see the "Rating Scheme for the Strength of the Evidence" field).</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p>Overall, the dosing recommendations are simplified to allow rapid interpretation by clinicians. The authors chose to use a slight modification of a transparent and simple system for just three categories for recommendations adopted from the rating scale for evidence-based recommendations on the use of retroviral agents (<a href="https://web.archive.org/web/20180712203137/https://aidsinfo.nih.gov/contentfiles/lvguidelines/adultandadolescentgl.pdf" target="_blank" title="AIDSinfo Web site">http://aidsinfo.nih.gov/contentfiles/AdultandAdolescentGL.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203137im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>) (see the "Rating Scheme for the Strength of the Recommendations" field).</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Strength of Therapeutic Recommendations</span></strong></p>
+<p><strong>Strong</strong>: The evidence is high quality and the desirable effects clearly outweigh the undesirable effects.</p>
+<p><strong>Moderate</strong>: There is a close or uncertain balance as to whether the evidence is high quality and the desirable clearly outweigh the undesirable effects.</p>
+<p><strong>Optional</strong>: The desirable effects are closely balanced with undesirable effects and there is room for differences of opinion as to the need for the recommended course of action.</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>Analyses of cost-effectiveness are not discussed.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified and graded for each recommendation (see the "Major Recommendations" field).</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>Tacrolimus dosing is routinely directed by therapeutic drug monitoring (TDM). Yet, for patients who have an existing cytochrome P450 (CYP)3A5 (<em>CYP3A5</em>) genotyping result, <em>CYP3A5</em> genotype-guided dosing can achieve initial target tacrolimus concentrations more quickly after transplantation even when TDM-based titration is used. Faster achievement of target concentrations could potentially reduce the risk of graft rejection because of underexposure and toxicity because of overexposure. However, prospective clinical trials are needed to assess if <em>CYP3A5</em> genotype-guided dosing improves these outcomes.</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Tacrolimus in clinical use is complicated by its high between-patient variability in pharmacokinetics as well as its narrow therapeutic index. This may lead to underexposure, potentially increasing the risk of rejection, or overexposure, with risk of toxicity, including nephrotoxicity, hypertension, neurotoxicity, and hyperglycemia. </li>
+    <li>Although therapeutic drug monitoring (TDM) is helpful for adjusting subsequent doses based on blood concentrations, it provides no information for the initial dose. Individual differences in first pass metabolism may delay reaching target blood concentrations with the initial selected dose. Furthermore, although achieving target blood concentrations does not always ensure efficacy or diminish adverse events, target blood concentrations specific for organ type and time post-transplant are available in the package insert and established by consensus guidelines. </li>
+    <li>Several drugs (drug-drug interactions) are important to consider, especially nondihydropyridine calcium channel blockers and azole antifungals that are commonly coadministered in the transplant population. The drug interaction with the azole antifungals has been reported to be less profound in cytochrome P450 (CYP)3A5 (<em>CYP3A5</em>) expressers. For additional information on tacrolimus drug interactions, see the review by van Gelder (2002). Specific patient factors, such as fasting or diarrhea, may cause altered absorption that can affect tacrolimus concentrations. This has been extensively reviewed in an article by Staatz et al(2004). </li>
+    <li>Additional genetic variants described in the literature but with unclear effects on tacrolimus metabolism due to either limited or conflicting studies include <em>CYP3A4*22</em>, <em>POR*28</em>, <em>PPAR alph</em>a, and<em> ABCB1</em>. A critical issue in predicting tacrolimus clearance <em>&nbsp;</em>is the relative contribution of <em>CYP3A4</em> compared to <em>CYP3A5</em> to its metabolism. Because of the complete loss of metabolic activity with the <em>CYP3A5*3</em> allele, the impact of variation in <em>CYP3A4</em> may be high in those with no <em>CYP3A5</em> expression. Of note, donor <em>CYP3A5</em> genotype may play a role in pharmacodynamics. In kidney transplant recipients, the <em>CYP3A5</em> genotype together with the donor <em>ABCB1</em> genotype may affect the susceptibility of the kidney for tacrolimus nephrotoxicity. While the current guideline refers to using the recipient <em>CYP3A5</em> genotype to guide selection of the optimal initial dose for tacrolimus, one can expect the potential for greater predictive value in polygenic algorithms. A further confounding factor is the influence of ethnicity. Although it was initially hypothesized that individuals of African origin require high doses of tacrolimus because of expression of <em>CYP3A5</em>, these individuals have a high dose requirement for tacrolimus, irrespective of <em>CYP3A5</em> genotype. This finding suggests other factors besides <em>CYP3A5</em> genotype are important in individuals of sub-Saharan African descent. </li>
+    <li><em>CYP3A5</em> genotyping cannot replace therapeutic drug monitoring, as other factors (i.e., demographic factors, drug&ndash;drug interactions, and genetic variation affecting tacrolimus pharmacodynamics) also influence tacrolimus dose requirements. As with any genetic test, a possible risk is the misreporting or misinterpretation of genotype test results. An error in genotyping could result in an increase in tacrolimus dose and subsequently overexposure. However, anticipated effects are limited because of stringent TDM. </li>
+</ul></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Disclaimer</span></strong></p>
+<p>Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines reflect expert consensus based on clinical evidence and peer-reviewed literature available at the time they are written, and are intended only to assist clinicians in decision-making, as well as to identify questions for further research. New evidence may have emerged since the time a guideline was submitted for publication. Guidelines are limited in scope and are not applicable to interventions or diseases not specifically identified. Guidelines do not account for all individual variations among patients and cannot be considered inclusive of all proper methods of care or exclusive of other treatments. It remains the responsibility of the health care provider to determine the best course of treatment for the patient. Adherence to any guideline is voluntary, with the ultimate determination regarding its application to be solely made by the clinician and the patient. CPIC assumes no responsibility for any injury to persons or damage to property related to any use of CPIC's guidelines, or for any errors or omissions.</p>
+<p><span style="text-decoration: underline;"><strong>Caveats: Appropriate Use and/or Potential Misuse of Genetic Tests</strong></span></p>
+<p>Dose alterations based on cytochrome P450 (CYP)3A5 (<em>CYP3A5</em>) genotype may result in faster achievement of target tacrolimus concentrations with fewer dose adjustments. In addition, several clinical caveats apply: (1) clinical factors (e.g., age, concomitant drugs) affect tacrolimus concentrations; (2) variants in genes other than <em>CYP3A5</em> may affect tacrolimus pharmacokinetics and therefore overall exposure; (3) the relationship between tacrolimus concentration and efficacy and toxicity varies among individuals (pharmacodynamic variability); (4) the genetic determinants of tacrolimus efficacy and toxicity (pharmacodynamics) are not defined; (5) altering initial tacrolimus dosing based on <em>CYP3A5</em> genotype has not been shown to improve efficacy or reduce toxicity; and (6) monitoring of tacrolimus blood concentration remains indicated during treatment. With the expansion of the knowledge base, further refinement of the genotype-based dosing recommendations may be required.</p></div></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>The Supplementary Material (see the "Availability of Companion Documents" field) contains example clinical decision support tools that can be used within electronic health records, which assist clinicians to use genetic information to optimize drug therapy. Clinical implementation resources include cross-references for drug and gene names to widely used terminologies and standardized nomenclature systems (see Supplementary Tables S5 and S6), workflow diagrams (see Supplementary Figures S1 and S2), and example text for documentation in the electronic health record and point-of care alerts (see Supplementary Tables S7 and S8).</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Clinical Algorithm</p>
+                    <p>Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Living with Illness</p>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Safety</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Birdwell KA, Decker B, Barbarino JM, Peterson JF, Stein CM, Sadee W, Wang D, Vinks AA, He Y, Swen JJ, Leeder JS, van Schaik RHN, Thummel KE, Klein TE, Caudle KE, MacPhee IAM. Clinical Pharmacogenetics Implementation Consortium (CPIC) guidelines for CYP3A5 genotype and tacrolimus dosing. Clin Pharmacol Ther. 2015 Jul;98(1):19-24. [40 references] <a href="https://web.archive.org/web/20180712203137/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25801146" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712203137im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2015 Jul</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>Clinical Pharmacogenetics Implementation Consortium - Independent Expert Panel</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>This work was funded by National Institutes of Health (NIH) grants, GM109145, U01 GM092655, K23 GM100183, UL1TR000445, and U01 GM092676.</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Authors</em>: KA Birdwell, Division of Nephrology Department of Medicine, Vanderbilt University, Nashville, Tennessee, USA; B Decker, Division of Nephrology and Division of Clinical Pharmacology, Indiana University School of Medicine, Indianapolis, Indiana, USA; JM Barbarino, Department of Genetics, Stanford University, Stanford, California, USA; JF Peterson, Department of Medicine, Department of Biomedical Informatics, Vanderbilt University, Nashville, Tennessee, USA; CM Stein, Department of Medicine, Department of Pharmacology, Vanderbilt University, Nashville, Tennessee, USA; W Sadee, Center for Pharmacogenomics, School of Medicine, The Ohio State University, Columbus, Ohio, USA; D Wang, Center for Pharmacogenomics, School of Medicine, The Ohio State University, Columbus, Ohio, USA; AA Vinks, Division of Clinical Pharmacology, Cincinnati Children's Hospital Medical Center, Department of Pediatrics, College of Medicine, University of Cincinnati, Cincinnati, Ohio, USA; Y He, Institute of Clinical Pharmacology, Central South University, Changsha, Hunan, Peoples Republic of China; JJ Swen, Department of Clinical Pharmacy and Toxicology, Leiden University Medical Center, Leiden, The Netherlands; JS Leeder, Division of Clinical Pharmacology and Therapeutic Innovation, Department of Pediatrics, Children's Mercy Hospitals and Clinics, Kansas City, Missouri, USA; RHN van Schaik, Department of Clinical Chemistry, Erasmus MC Rotterdam, The Netherlands; KE Thummel, Department of Pharmaceutics, University of Washington, Seattle, Washington, USA; TE Klein, Department of Genetics, Stanford University, Stanford, California, USA; KE Caudle, Department of Pharmaceutical Sciences, St. Jude Children's Research Hospital, Memphis, Tennessee, USA; IAM MacPhee, Institute of Medical and Biomedical Education, Renal Medicine, St. George's, University of London, London, UK</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>W.S. and D.W. have a patent pending for a combined cytochrome P450 (CYP)3A4/5 (<em>CYP3A4/5</em>) genotype panel. All other authors declare no conflicts.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712203137/https://www.guideline.gov/Home/Disclaimer?id=49492&amp;contentType=summary&amp;redirect=https%3a%2f%2fcpicpgx.org%2fguidelines%2fguideline-for-tacrolimus-and-cyp3a5%2f" title="Clinical Pharmacogenetics Implementation Consortium (CPIC) Web site">Clinical Pharmacogenetics Implementation Consortium (CPIC) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203137im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Supplementary material, including tables, methodological information, and implementation resources, is available from the <a href="/web/20180712203137/https://www.guideline.gov/Home/Disclaimer?id=49492&amp;contentType=summary&amp;redirect=https%3a%2f%2fcpicpgx.org%2fguidelines%2fguideline-for-tacrolimus-and-cyp3a5%2f" title="Clinical Pharmacogenetics Implementation Consortium (CPIC) Web site">Clinical Pharmacogenetics Implementation Consortium (CPIC) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203137im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>A tacrolimus translation table is available from the <a href="/web/20180712203137/https://www.guideline.gov/Home/Disclaimer?id=49492&amp;contentType=summary&amp;redirect=https%3a%2f%2fcpicpgx.org%2fguidelines%2fguideline-for-tacrolimus-and-cyp3a5%2f" title="CPIC Web site">CPIC Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203137im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>A cytochrome P450 (CYP)3A5 (<em>CYP3A5</em>) allele frequency table is also available from the <a href="/web/20180712203137/https://www.guideline.gov/Home/Disclaimer?id=49492&amp;contentType=summary&amp;redirect=https%3a%2f%2fcpicpgx.org%2fguidelines%2fguideline-for-tacrolimus-and-cyp3a5%2f" title="CPIC Web site">CPIC Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203137im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on October 20, 2015. The information was verified by the guideline developer on December 16, 2015.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p>
+<p>CPIC<sup>&reg;</sup> is a registered service mark of the <a href="https://web.archive.org/web/20180712203137/http://www.hhs.gov/" target="_blank" title="DHHS Web site">U.S. Department of Health &amp; Human Services (HHS)</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203137im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712203137/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712203137/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712203137/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712203137/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712203137/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712203137/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712203137/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203137/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203137/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203137/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203137/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203137/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712203137/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712203137/https://www.guideline.gov/disclaimer?id=49492&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712203137im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712203137im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712203137/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712203137/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712203137/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712203137/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712203137/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712203137/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712203137/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712203137/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712203137/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712203137/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712203137/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712203137/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712203137/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712203137/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712203137/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712203137/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712203137/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712203137/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712203137/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712203137im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712203137im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712203137/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712203137im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712203137im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712203137/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712203137js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712203137js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:31:37 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:13:27 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 433.591 (3)
+  esindex: 0.01
+  captures_list: 462.617
+  CDXLines.iter: 20.771 (3)
+  PetaboxLoader3.datanode: 125.408 (4)
+  exclusion.robots: 0.242
+  exclusion.robots.policy: 0.227
+  RedisCDXSource: 3.391
+  PetaboxLoader3.resolve: 496.984 (3)
+  load_resource: 228.253
+-->

@@ -1,0 +1,995 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app29.us.archive.org';v.server_ms=154;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Laboratory testing for the diagnosis of HIV infection: updated recommendations. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712182945im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712182945im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712182945im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712182945im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712182945/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712182945im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712182945cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712182945js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712182945if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712182945/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712182945if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712182945/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712182945/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712182945/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712182945/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712182945im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712182945im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712182945im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712182945/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712182945/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712182945/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712182945/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712182945/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712182945/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712182945/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712182945/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712182945/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712182945/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712182945/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712182945/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712182945/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712182945/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712182945/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712182945/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712182945/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712182945/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712182945/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712182945/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712182945/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010520</li>
+            <li>1989 (revised 2014 Jun 27)
+            </li>            
+                                </ul>
+        <div>
+                <h1>Laboratory testing for the diagnosis of HIV infection: updated recommendations.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712182945/https://www.guideline.gov/search?f_Guideline_Developer_String=Association%20of%20Public%20Health%20Laboratories&amp;fLockTerm=Association%2Bof%2BPublic%2BHealth%2BLaboratories">Association of Public Health Laboratories</a></li>
+                        <li>   
+                                <a id="2547" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+        <li><a href="/web/20180712182945/https://www.guideline.gov/search?f_Guideline_Developer_String=Centers%20for%20Disease%20Control%20and%20Prevention&amp;fLockTerm=Centers%2Bfor%2BDisease%2BControl%2Band%2BPrevention">Centers for Disease Control and Prevention</a></li>
+                        <li>   
+                                <a id="167" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Branson BM, Owen SM, Wesolowski LG, Bennett B, Werner BG, Wroblewski KE, Pentella MA. Laboratory testing for the diagnosis of HIV infection: updated recommendations. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2014 Jun 27. 66 p.  [175 references]</td></tr></table>                    <p><a href="/web/20180712182945/https://www.guideline.gov/Home/Disclaimer?id=48499&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fstacks.cdc.gov%252fview%252fcdc%252f23447%252f">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712182945im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: CDC. Interpretation and use of the Western blot assay for serodiagnosis of human immunodeficiency virus type 1 infections. MMWR Morb Mortal Wkly Rep. 1989;38(S-7):1-7.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712182945/https://www.guideline.gov/search?f_Age_of_Target_Population=Adolescent%20%2813%20to%2018%20years%29&amp;fLockTerm=Adolescent%2B%2813%2Bto%2B18%2Byears%29">Adolescent (13 to 18 years)</a></li>                      
+                        <li><a href="/web/20180712182945/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712182945/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712182945/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712182945/https://www.guideline.gov/search?f_Age_of_Target_Population=Child%20%282%20to%2012%20years%29&amp;fLockTerm=Child%2B%282%2Bto%2B12%2Byears%29">Child (2 to 12 years)</a></li>                      
+                        <li><a href="/web/20180712182945/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712182945/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712182945/https://www.guideline.gov/search?f_ICD9CM_CUI=C0019693&amp;fLockTerm=Human+immunodeficiency+virus+%5bHIV%5d+disease">Human immunodeficiency virus [HIV] disease</a>
+ (042)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712182945/https://www.guideline.gov/search?f_MSH_CUI=C0001852&amp;fLockTerm=AIDS+Serodiagnosis">AIDS Serodiagnosis</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MSH_CUI=C0005863&amp;fLockTerm=Blotting%2c+Western">Blotting, Western</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MSH_CUI=C0376583&amp;fLockTerm=Clinical+Laboratory+Techniques">Clinical Laboratory Techniques</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MSH_CUI=C0282647&amp;fLockTerm=Fluorescent+Antibody+Technique%2c+Indirect">Fluorescent Antibody Technique, Indirect</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MSH_CUI=C0019693&amp;fLockTerm=HIV+Infections">HIV Infections</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MSH_CUI=C0019704&amp;fLockTerm=HIV-1">HIV-1</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MSH_CUI=C0019707&amp;fLockTerm=HIV-2">HIV-2</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MSH_CUI=C0020980&amp;fLockTerm=Immunoassay">Immunoassay</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712182945/https://www.guideline.gov/search?f_MTH_CUI=C0001852&amp;fLockTerm=AIDS+Serodiagnosis+measurement">AIDS Serodiagnosis measurement</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MTH_CUI=C1275788&amp;fLockTerm=HIV+1+nucleic+acid+assay+(procedure)">HIV 1 nucleic acid assay (procedure)</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MTH_CUI=C0201385&amp;fLockTerm=HIV+antigen+test">HIV antigen test</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MTH_CUI=C0019693&amp;fLockTerm=HIV+Infections">HIV Infections</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MTH_CUI=C0523323&amp;fLockTerm=HIV+p24+antigen+test">HIV p24 antigen test</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MTH_CUI=C0459958&amp;fLockTerm=HIV+screen">HIV screen</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MTH_CUI=C0019704&amp;fLockTerm=HIV-1">HIV-1</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MTH_CUI=C0373917&amp;fLockTerm=HIV-2+Antibody+Measurement">HIV-2 Antibody Measurement</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MTH_CUI=C0019707&amp;fLockTerm=Human+immunodeficiency+virus+2+(HIV-2)">Human immunodeficiency virus 2 (HIV-2)</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MTH_CUI=C1321876&amp;fLockTerm=Human+immunodeficiency+virus+test">Human immunodeficiency virus test</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MTH_CUI=C0020980&amp;fLockTerm=Immunoassay+method">Immunoassay method</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MTH_CUI=C0200932&amp;fLockTerm=Nucleic+Acid+Amplification+Tests">Nucleic Acid Amplification Tests</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MTH_CUI=C0949466&amp;fLockTerm=Western+Blot">Western Blot</a>
+, <a href="/web/20180712182945/https://www.guideline.gov/search?f_MTH_CUI=C0005863&amp;fLockTerm=Western+Blotting">Western Blotting</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712182945/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1275788&amp;fLockTerm=HIV+1+nucleic+acid+assay">HIV 1 nucleic acid assay</a>
+ (398579006), <a href="/web/20180712182945/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1294891&amp;fLockTerm=HIV+1+p24+antigen+assay">HIV 1 p24 antigen assay</a>
+ (117750009), <a href="/web/20180712182945/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0201385&amp;fLockTerm=HIV+antigen+test">HIV antigen test</a>
+ (31676001), <a href="/web/20180712182945/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0523323&amp;fLockTerm=HIV+p24+antigen+test">HIV p24 antigen test</a>
+ (104332002), <a href="/web/20180712182945/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0459958&amp;fLockTerm=HIV+screening">HIV screening</a>
+ (171121004), <a href="/web/20180712182945/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0201390&amp;fLockTerm=HIV-1+indirect+immunofluorescence+assay">HIV-1 indirect immunofluorescence assay</a>
+ (76381007), <a href="/web/20180712182945/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0201392&amp;fLockTerm=HIV-1+Western+blot+assay">HIV-1 Western blot assay</a>
+ (39304009), <a href="/web/20180712182945/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019693&amp;fLockTerm=Human+immunodeficiency+virus+infection">Human immunodeficiency virus infection</a>
+ (86406008), <a href="/web/20180712182945/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1321876&amp;fLockTerm=Human+immunodeficiency+virus+test">Human immunodeficiency virus test</a>
+ (165813002), <a href="/web/20180712182945/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019707&amp;fLockTerm=Human+immunodeficiency+virus+type+2">Human immunodeficiency virus type 2</a>
+ (36115006), <a href="/web/20180712182945/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019704&amp;fLockTerm=Human+immunodeficiency+virus+type+I">Human immunodeficiency virus type I</a>
+ (89293008), <a href="/web/20180712182945/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0020980&amp;fLockTerm=Immunoassay+method">Immunoassay method</a>
+ (414464004), <a href="/web/20180712182945/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0200932&amp;fLockTerm=Nucleic+acid+amplification">Nucleic acid amplification</a>
+ (69363007), <a href="/web/20180712182945/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0949466&amp;fLockTerm=Western+blot+assay">Western blot assay</a>
+ (48745007)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SPN</h5>
+                    <div class="field-content">
+<a href="/web/20180712182945/https://www.guideline.gov/search?f_SPN_CUI=C1138809&amp;fLockTerm=TEST%2cHIV+DETECTION">TEST,HIV DETECTION</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712182945/https://www.guideline.gov/summaries/downloadcontent/ngc-10520?contentType=pdf" class="pdf">.PDF 109.4 kb</a></li>
+                            <li><a href="/web/20180712182945/https://www.guideline.gov/summaries/downloadcontent/ngc-10520?contentType=word" class="word">Word Document 309.7 kb</a></li>
+                            <li><a href="/web/20180712182945/https://www.guideline.gov/summaries/downloadcontent/ngc-10520?contentType=xml" class="xml">.XML 52.4 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712182945/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/48499/laboratory-testing-for-the-diagnosis-of-hiv-infection-updated-recommendations" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712182945/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/48499/laboratory-testing-for-the-diagnosis-of-hiv-infection-updated-recommendations" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712182945/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/48499/laboratory-testing-for-the-diagnosis-of-hiv-infection-updated-recommendations&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712182945/mailto:/?Subject=AHRQ: Laboratory testing for the diagnosis of HIV infection: updated recommendations.&amp;body=https://www.guideline.gov/summaries/summary/48499/laboratory-testing-for-the-diagnosis-of-hiv-infection-updated-recommendations" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Laboratory testing for the diagnosis of HIV infection: updated recommendations. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Jun 27. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712182945/https://www.guideline.gov/summaries/citedownload/48499?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712182945/https://www.guideline.gov/summaries/citedownload/48499?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712182945/https://www.guideline.gov/summaries/citedownload/48499?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712182945/https://www.guideline.gov/summaries/citedownload/48499?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712182945/https://www.guideline.gov/summaries/citedownload/48499?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712182945/https://www.guideline.gov/summaries/citedownload/48499">RefWorks</a></li>
+                            <li><a href="/web/20180712182945/https://www.guideline.gov/summaries/citedownload/48499?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="48499" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Recommendations for Laboratory Testing for the Diagnosis of Human Immunodeficiency Virus (HIV) Infection</span></strong></p>
+<p>The Centers for Disease Control and Prevention (CDC) and Association of Public Health Laboratories (APHL) recommend that laboratories conduct the following sequence of assays with serum or plasma specimens for the accurate diagnosis of HIV infection. Each recommendation lists the rationale for the recommendation and refers to additional evidence and limitations in the corresponding summary and tables of evidence in Appendix 2 in the original guideline document. These updated recommendations for testing of serum or plasma specimens supersede the 1989 recommendations for interpretation and use of the HIV-1 Western blot in the serologic diagnosis of HIV Type 1 infections, the 1992 recommendations for testing for antibodies to HIV Type 2 in the United States, and the 2004 recommended protocol for confirmation of rapid HIV tests. Because none of the assays in the recommended algorithm are U.S. Food and Drug Administration (FDA)-approved for use with oral fluid or dried blood spot specimens, these updated recommendations do not supersede previous recommendations for testing of dried blood spots or oral fluid for HIV-1 using the FDA-approved immunoassay and HIV-1 Western blot for these specimen types.</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Laboratories should conduct initial testing for HIV with an FDA-approved antigen/antibody combination (4th generation) immunoassay* that detects HIV-1 and HIV-2 antibodies and HIV-1 p24 antigen to screen for established infection with HIV-1 or HIV-2 and for acute HIV-1 infection. No further testing is required for specimens that are nonreactive on the initial immunoassay.
+    <ul style="list-style-type: disc;">
+        <li><strong>Rationale</strong>: Initial testing with a 4th generation antigen/antibody combination immunoassay detects more acute HIV-1 infections than initial testing with a 3rd generation antibody immunoassay and identifies comparable numbers of established HIV-1 and HIV-2 infections, with comparable specificity. </li>
+    </ul>
+    </li>
+    <li>Specimens with a reactive antigen/antibody combination immunoassay result (or repeatedly reactive, if repeat testing is recommended by the manufacturer or required by regulatory authorities) should be tested with an FDA-approved antibody immunoassay that differentiates HIV-1 antibodies from HIV-2 antibodies. Reactive results on the initial antigen/antibody combination immunoassay and the HIV-1/HIV-2 antibody differentiation immunoassay should be interpreted as positive for HIV-1 antibodies, HIV-2 antibodies, or HIV-1 and HIV-2 antibodies, undifferentiated.
+    <ul style="list-style-type: disc;">
+        <li><strong>Rationale</strong>: Use of the HIV-1/HIV-2 antibody differentiation assay after a reactive initial 4th generation HIV-1/HIV-2 antibody immunoassay detects HIV-1 antibodies earlier than the HIV-1 Western blot, reduces indeterminate results, and identifies HIV-2 infections. Turnaround time for test results is shorter and the cost is lower for the HIV-1/HIV-2 antibody differentiation assay compared with the HIV-1 Western blot. Available evidence is insufficient to recommend specific additional testing, without clinical follow-up, for specimens that are dually reactive for HIV-1 and HIV-2 antibodies on the differentiation immunoassay (see Section J, "Limitations of the Recommended Laboratory Testing Algorithm", in the original guideline document). </li>
+    </ul>
+    </li>
+    <li>Specimens that are reactive on the initial antigen/antibody combination immunoassay and nonreactive or indeterminate on the HIV-1/HIV-2 antibody differentiation immunoassay should be tested with an FDA-approved HIV-1 nucleic acid test (NAT).
+    <ul style="list-style-type: disc;">
+        <li>A reactive HIV-1 NAT result and nonreactive HIV-1/HIV-2 antibody differentiation immunoassay result indicates laboratory evidence for acute HIV-1 infection. </li>
+        <li>A reactive HIV-1 NAT result and indeterminate HIV-1/HIV-2 antibody differentiation immunoassay result indicates the presence of HIV-1 antibodies confirmed by HIV-1 NAT. </li>
+        <li>A negative HIV-1 NAT result and nonreactive or indeterminate HIV-1/HIV-2 antibody differentiation assay result indicates a false-positive result on the initial immunoassay (see Section M, "Additional Considerations," in the original guideline document, for a discussion of issues related to acute HIV-2 infection). </li>
+        <li><strong>Rationale</strong>: HIV-1 NAT results can distinguish acute HIV-1 infection from false-positive initial immunoassay results in specimens with a reactive antigen/antibody immunoassay and a nonreactive HIV-1/HIV-2 antibody differentiation assay result. HIV-1 NAT does not detect HIV-2, and no HIV-2 NAT is FDA-approved. Available evidence is insufficient to recommend testing for acute HIV-2 infection after a nonreactive HIV-1 NAT result (see Section K, "Limitations of the Evidence Supporting These Recommendations," in the original guideline document). </li>
+    </ul>
+    </li>
+    <li>Laboratories should use this same testing algorithm, beginning with a laboratory-based antigen/antibody combination immunoassay, with serum or plasma specimens submitted for testing after a reactive (preliminary positive) result from any rapid HIV test.
+    <ul style="list-style-type: disc;">
+        <li><strong>Rationale</strong>: Previously, supplemental testing (HIV-1 Western blot or HIV-1 indirect immunofluorescence assay [IFA]) was recommended after a reactive rapid HIV test result regardless of the result of the initial laboratory immunoassay. This was based on observations of some false-negative results from earlier generations of immunoassays (no longer commercially available in the United States) that became reactive later during seroconversion than rapid HIV antibody tests. With the recommended algorithm, the FDA-approved laboratory-based antigen/antibody combination immunoassays detect HIV infection earlier during seroconversion than any of the rapid HIV tests available in the United States as of May 2014, including the rapid HIV-1/HIV-2 antigen/antibody combination test. Therefore, no supplemental testing is required for specimens that are nonreactive on the initial immunoassay in the recommended algorithm. </li>
+    </ul>
+    </li>
+</ol>
+<p class="Note">*Exception: As of April 2014, data are insufficient to recommend use of the FDA-approved single-use rapid HIV-1/HIV-2 antigen/antibody combination immunoassay as the initial assay in the algorithm.</p>
+<p><strong><span style="text-decoration: underline;">Alternative Testing Sequences When Tests in the Recommended Algorithm Cannot Be Used</span></strong></p>
+<p>During their review and comment on these recommendations, stakeholders described circumstances that might delay or prevent implementation of some of the assays in the recommended algorithm. Based on the evidence review and expert opinion from stakeholders and the working group, CDC members of the writing group identified testing sequences that might be used to improve the laboratory diagnosis of HIV infection if an alternative FDA-approved assay is substituted for one of the classes of assays specified in the recommended algorithm. Replacing a recommended assay has limitations described below that may reduce the accuracy of the testing algorithm.</p>
+<ul style="list-style-type: disc;">
+    <li>Use of a 3rd generation HIV-1/2 antibody immunoassay instead of a 4th generation antigen/antibody combination immunoassay as the initial test: perform subsequent testing as specified in the recommended algorithm.
+    <ul style="list-style-type: disc;">
+        <li><strong>Limitations</strong>: This alternative will miss some acute HIV-1 infections in antibody-negative persons that would be detected by 4th generation antigen/antibody combination immunoassays. </li>
+    </ul>
+    </li>
+    <li>Use of the HIV-1 Western blot or HIV-1 IFA as the second test in the algorithm instead of an HIV-1/HIV-2 antibody differentiation immunoassay: if test results are negative or indeterminate, perform HIV-1 NAT; if HIV-1 NAT is negative, perform HIV-2 antibody immunoassay.
+    <ul style="list-style-type: disc;">
+        <li><strong>Limitations</strong>: This alternative might misclassify some HIV-2 infections as HIV-1, requires a larger number of tests, and increases turnaround time for test results. </li>
+    </ul>
+    </li>
+    <li>Use of HIV-1 NAT as the second test instead of an HIV-1/HIV-2 antibody differentiation immunoassay: If HIV-1 NAT result is negative, perform an HIV-1/HIV-2 antibody differentiation immunoassay or other FDA-approved HIV-1 supplemental antibody test. If result of an HIV-1 supplemental antibody test is nonreactive or indeterminate, perform an HIV-2 antibody test.
+    <ul style="list-style-type: disc;">
+        <li><strong>Limitations</strong>: This alternative fails to distinguish acute HIV-1 infection from established HIV-1 infection, increases turnaround time for test results and incurs additional costs. </li>
+    </ul>
+    </li>
+    <li>Use of HIV-1 NAT (or pooled HIV-1 NAT) after a nonreactive 3rd or 4th generation immunoassay result: a reactive NAT result provides evidence of acute HIV-1 infection, but false-positive results occur. Follow-up testing to document seroconversion should be conducted if a laboratory HIV diagnosis is based on the result of HIV-1 NAT only.
+    <ul style="list-style-type: disc;">
+        <li><strong>Limitations</strong>: No HIV-1 NAT is FDA-approved for pooled testing for HIV diagnosis. Individual or pooled HIV-1 NAT can detect acute infections not detected by a 4th generation immunoassay, but occasionally produces a false-positive result, requires more tests on each specimen, increases turnaround time for test results, and is more costly than the recommended algorithm. </li>
+    </ul>
+    </li>
+</ul></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>The following algorithms are provided in the original guideline document:</p>
+<ul style="list-style-type: disc;">
+    <li>Recommended Laboratory HIV Testing Algorithm for Serum or Plasma Specimens </li>
+    <li>Analytic Framework: Laboratory Testing for Accurate Diagnosis of HIV Infection </li>
+</ul></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Human immunodeficiency virus (HIV) infection</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Diagnosis</p>
+                    <p>Screening</p>
+                    <p>Technology Assessment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Infectious Diseases</p>
+                    <p>Pathology</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Clinical Laboratory Personnel</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>To provide recommendations to laboratory personnel on the use of U.S. Food and Drug Administration (FDA)-approved assays for the diagnosis of human immunodeficiency virus (HIV) infection in adults and children &gt;24 months of age </li>
+    <li>To describe the types and sequence of laboratory assays used to make the laboratory diagnosis of acute HIV-1 infection, established HIV-1 infection, and HIV-2 infection </li>
+</ul>
+<p class="Note"><strong>Note</strong>: These updated recommendations do not address methods or strategies for screening blood or organ donors for HIV infection; the FDA and U.S. Public Health Service (USPHS) have issued separate guidance and recommendations on this topic.</p></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Adults and children aged 2 years or older</p>
+<p class="Note"><strong>Note</strong>: Because maternal antibodies against HIV might be present in uninfected infants born to human immunodeficiency virus (HIV)-infected mothers, specific recommendations to establish the presence or absence of the diagnosis of HIV infection in infants are described elsewhere.</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Human immunodeficiency virus (HIV) antigen/antibody combination (4th generation) immunoassay (HIV-1 and HIV-2 antibodies and HIV-1 p24 antigen) </li>
+    <li>HIV-1/HIV-2 antibody differentiation immunoassay </li>
+    <li>HIV-1 nucleic acid test (NAT) </li>
+    <li>HIV-1/2 antibody immunoassay (3rd generation) </li>
+    <li>HIV-1 Western blot </li>
+    <li>HIV-1 indirect immunofluorescence assay (IFA) </li>
+    <li>HIV-1 supplemental antibody test </li>
+</ol></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Sensitivity and specificity of laboratory tests </li>
+    <li>Disease progression rates </li>
+    <li>Rate of viral mutation </li>
+    <li>Turnaround time for test results </li>
+    <li>Cost-effectiveness </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Hand-searches of Published Literature (Primary Sources)</p>
+                    <p>Hand-searches of Published Literature (Secondary Sources)</p>
+                    <p>Searches of Electronic Databases</p>
+                    <p>Searches of Unpublished Data</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Literature Reviews and Key Questions</strong></p>
+<p>The Centers for Disease Control and Prevention (CDC)/Association of Public Health Laboratories (APHL) working group members conducted a nonsystematic review of the literature, unpublished data, meeting abstracts and presentations, and manufacturers' package inserts in 2009 to assess the performance of U.S. Food and Drug Administration (FDA)-approved human immunodeficiency virus (HIV) diagnostic assays and their use in combination for the laboratory diagnosis of acute and established HIV-1 infection. Three CDC writing group members updated this with a systematic literature review in 2013 focused on 10 key questions:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>What is the sensitivity of individual assays in specimens from persons
+    <ol style="list-style-type: lower-alpha;">
+        <li>With established HIV-1 and established HIV-2 infection? </li>
+        <li>With acute HIV-1 infection? </li>
+    </ol>
+    </li>
+    <li>What is the specificity of individual assays in specimens from uninfected persons? </li>
+    <li>What is the accuracy of the previous and recommended algorithms based on combinations of assays in specimens from persons
+    <ol style="list-style-type: lower-alpha;">
+        <li>With established HIV-1 infection? </li>
+        <li>With acute HIV-1 infection? </li>
+        <li>With established HIV-2 infection? </li>
+        <li>Not infected with HIV-1 or HIV-2? </li>
+    </ol>
+    </li>
+    <li>What algorithm(s) requires the minimum number of assays to maximize the accuracy of the laboratory diagnosis of HIV-1 infection and HIV-2 infection and minimize the number of specimens with indeterminate or inconclusive test results? </li>
+    <li>Do the costs and cost-effectiveness of the proposed algorithm for the diagnosis of HIV infection differ from the costs and cost-effectiveness of the previous algorithm? </li>
+    <li>Do benefits and harms for patients associated with the proposed diagnostic algorithm differ from benefits and harms associated with the previous diagnostic algorithm? </li>
+</ol>
+<p>Three CDC writing group members who reviewed the evidence used the following definitions and reference criteria for evaluation of study outcomes:</p>
+<ul style="list-style-type: disc;">
+    <li>Established HIV-1 infection: repeatedly reactive immunoassay results and positive HIV-1 Western blot or HIV-1 immunofluorescence assay (IFA) result </li>
+    <li>Acute HIV-1 infection: reactive HIV-1 nucleic acid test (NAT) result and negative or indeterminate HIV-1 antibody immunoassay, HIV-1 Western blot, or HIV-1 IFA result </li>
+    <li>False-positive immunoassay result: repeatedly reactive immunoassay results, negative or indeterminate HIV-1 Western blot or HIV-1 IFA result, negative HIV-1 NAT result, and negative HIV-2 test results </li>
+    <li>False-negative immunoassay result: nonreactive immunoassay result and reactive HIV-1 NAT result </li>
+    <li>False-negative NAT result: repeatedly reactive immunoassay results, positive HIV-1 Western blot result and negative HIV-1 NAT result </li>
+    <li>Established HIV-2 infection: expert interpretation based on the results of tests described in each study (because no definitive diagnostic algorithm and no FDA-approved test for confirming the presence of HIV-2 infection existed as of May 2014) </li>
+    <li>Accuracy of algorithms: the number or percentage of all specimens from a given algorithm that, based on all available test results and follow-up information, yielded a correct laboratory diagnosis of HIV-1 infection, HIV-2 infection, or the absence of HIV infection. True-positive and true-negative results were classified as correct laboratory diagnoses. False-negative, false-positive, and indeterminate results, and HIV-2 infections misclassified as HIV-1 were classified as incorrect laboratory diagnoses. </li>
+</ul>
+<p><strong>Strategy for Searching Published Literature and Conference Abstracts</strong></p>
+<p>CDC writing group members conducted literature searches in PubMed, in abstracts and presentations from the Conferences on Retroviruses and Opportunistic Infections, and in abstracts and presentations from the 2007, 2010, and 2012 HIV Diagnostics Conferences (available at <a href="/web/20180712182945/https://www.guideline.gov/Home/Disclaimer?id=48499&amp;contentType=summary&amp;redirect=http%3a%2f%2fhivtestingconference.org" title="HIV Diagnostics Conference Web site">http://hivtestingconference.org</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712182945im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>). They also consulted data submitted to the FDA and published in the manufacturers' FDA-approved package inserts. The writing group evaluated only studies reported in English and conducted with specimens from U.S. populations, except for questions related to human immunodeficiency virus (HIV)-2. Studies that reported results for assays that were not approved or under consideration by the FDA were excluded.</p>
+<p>CDC writing group members conducted the literature search using the terms <em>HIV, HIV-1</em>, and <em>HIV-2</em> in combination with <em>antibody assay, antigen/antibody combination assay, acute HIV infection, testing, clinical diagnostics, serologic tests, third generation assay, fourth generation assay, p24 antigen, seroconversion, indeterminate, false-positive, false-negative, nucleic acid test, nucleic acid amplification test, RNA assay, Western blot, costs</em>, and <em>cost-effectiveness</em>. CDC writing group members identified additional published reports by examining references listed in the retrieved articles. Only studies published or accepted for publication from January 2000 through December 2013 that evaluated laboratory assays approved by the FDA as of December 2012 (see Table 2 in the original guideline document) were included in the evidence synthesis.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>The literature search identified 1,858 abstracts of potentially relevant articles. Of these, 1,778 were excluded because they were background articles, did not contain assay performance data, or evaluated assays that were not U.S. Food and Drug Administration (FDA)-approved. Of the remaining 80, 39 articles contained data relevant to the key questions for evaluating individual assays or diagnostic algorithms for human immunodeficiency virus (HIV); 4 studies related to costs or cost-effectiveness; 2 studies related to potential harms from indeterminate HIV test results; 14 studies described viral dynamics of HIV and generic laboratory markers without identifying specific assays; 6 studies described HIV-2 distribution and diagnosis with assays that are not FDA-approved; 3 studies evaluated HIV-1 diagnosis in infants; 7 studies modeled transmission attributable to acute HIV-1 infection; and 5 studies evaluated the potential benefits of antiretroviral therapy for acute HIV-1 infection.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p>Not applicable</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p>Each of the three Centers for Disease Control and Prevention (CDC) writing group members experienced with human immunodeficiency virus (HIV) diagnostic testing studies reviewed the studies independently. For each study, one member abstracted details about the study design, source of specimens, assays evaluated, and study results. Another one of the three CDC writing group members reviewed data abstraction for accuracy. Discrepancies regarding the applicability of the evidence or limitations of the studies were resolved by consensus.</p>
+<p><strong>Quality of Evidence</strong></p>
+<p>The quality of available studies comparing the performance of individual HIV tests or algorithms was inherently limited. No randomized controlled trials comparing individual assays or algorithms were conducted with specimens from populations with unknown infection status. Limitations affected many of the studies identified during the literature review and are identified for each study in the tables of evidence (see Appendix 2, Section E in the original guideline document).</p>
+<p>CDC writing group members did not conduct pooled data analyses because the studies were conducted with different assays of the same or different classes (that is, three 3rd generation and two 4th generation immunoassays) using specimen collections from different populations with different pre-test probabilities of infection, or enriched with pedigreed specimens with known laboratory diagnosis of HIV-1 or HIV-2 infection. The number of significant digits reported for values in the evidence summary and tables are those as published in the original studies. The writing group did not conduct recalculations or rounding.</p>
+<p>Inferring that an accurate test result improves outcomes important to patients requires availability of effective treatment, improved well-being through prognostic information, and, by excluding an ominous diagnosis, reduction of anxiety. The workgroup relied on other systematic reviews and recommendations for documentation of benefits and harms associated with screening and diagnostic testing for HIV in different populations, effectiveness of treatment for persons with HIV infection, and interventions for HIV-negative persons.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Process for Developing Updated Recommendations</strong></p>
+<p>These updated recommendations are the product of a lengthy, multistep process. In 2004, Centers for Disease Control and Prevention (CDC) and Association of Public Health Laboratories (APHL) established an HIV Steering Committee--composed of CDC and public health laboratory scientists with expertise in human immunodeficiency virus (HIV) diagnostics--to monitor HIV testing practices, investigate reports of problems with the performance or availability of HIV testing reagents, and assess potential implications of new assays as they received U.S. Food and Drug Administration (FDA) approval. When the shortcomings of previous HIV testing recommendations became evident, the HIV Steering Committee organized a working group in August 2006 with representatives from CDC, APHL, FDA, the National Alliance of State and Territorial AIDS Directors (NASTAD), HIV testing program managers, and scientists from academic, hospital, and commercial laboratories and blood donor screening programs who had expertise in HIV, immunology, laboratory medicine, and evaluation of diagnostic tests (see Appendix 1 in the original guideline document). The Steering Committee asked the working group to examine the evidence for the performance of HIV assays and the previous algorithm for laboratory HIV diagnosis and to propose new algorithms for HIV diagnosis that maximized accuracy, relied on FDA-approved tests, and considered testing costs and cost-effectiveness. A subset of this working group served as the writing group that drafted these recommendations (see Appendix 1 in the original guideline document).</p>
+<p>The working group sought assistance from CDC laboratory scientists, who evaluated the performance of available FDA-approved assays on panels of plasma specimens from HIV-infected and uninfected persons and on sequential specimens from persons early in seroconversion; analyzed test combinations in two-test and three-test algorithms; and compared these results to results of the 1989 algorithm for HIV-1 diagnosis. The working group conducted a nonsystematic literature review on the performance characteristics of HIV tests and their use in combinations for HIV-1 diagnosis and examined unpublished data generated by studies at CDC and other public health laboratories. Based on the information from the literature review, unpublished data, and expert opinion, the working group proposed several candidate HIV diagnostic algorithms, disseminated descriptions of the candidate algorithms, and solicited data evaluating the algorithms in the call for abstracts for the 2007 HIV Diagnostics Conference. New research findings were presented and discussed at the conference, and the working group obtained oral comments during the closing session of the conference about the feasibility, benefits, harms, and costs of new testing strategies from conference attendees, who included managers and staff members from public health department HIV testing programs and scientists from clinical, commercial, and public health laboratories, blood donation programs, and manufacturers of HIV tests and testing equipment.</p>
+<p>Based on the literature review, expert opinion, and new research findings presented at the 2007 HIV Diagnostics Conference, including CDC's analysis of the relative sensitivity during seroconversion of FDA-approved immunoassays compared with the HIV-1 Western blot, the working group developed a synopsis, <em>HIV Testing Algorithms: A Status Report</em>, issued in April 2009, that described the candidate algorithms and their limitations. The report outlined the key elements of each candidate algorithm, available performance data, potential benefits and drawbacks, and additional data needed to substantiate and refine the algorithm. In that report, the working group acknowledged that none of the candidate algorithms offered a distinct advantage over previous recommendations. For example, performing nucleic acid test (NAT) after all nonreactive antibody test results could detect acute HIV-1 infection, but its routine use would be impractical and costly. Additionally, most algorithms still included the HIV-1 Western blot and could not consistently detect acute HIV-1 infections or HIV-2 infections without the collection of demographic, behavioral, or clinical information that might suggest the need for additional testing. Moreover, new tests such as 4th generation assays were nearing commercialization, and their routine use could render the candidate algorithms obsolete.</p>
+<p>In July 2009, the HIV Steering Committee solicited additional data on the performance of candidate algorithms and 4th generation immunoassays in the call for abstracts for the 2010 HIV Diagnostics Conference. At the March 2010 conference, representatives from the American Society for Microbiology, the College of American Pathologists, the Department of Defense, FDA, NASTAD, the Pan American Society for Clinical Virology, public health department HIV testing programs, and scientists from clinical, commercial, and public health laboratories, blood donation programs, and the diagnostics industry reviewed and discussed the research findings and their implications for new testing algorithms. (Manuscripts from conference presentations were submitted for peer review and published in the December 2011 supplement to the Journal of Clinical Virology.) Based on expert opinion, new data presented at the conference (including evidence for misclassification of HIV-2 infections by the HIV-1 Western blot), and anticipation of commercialization of 4th generation immunoassays in the United States, CDC and APHL laboratory experts proposed a new diagnostic algorithm. The algorithm included 4th generation HIV-1/HIV-2 antigen/antibody combination immunoassays (approved by FDA in 2010 and 2011) and an HIV-1/HIV-2 antibody differentiation assay. The proposed algorithm was intended to improve the accurate diagnosis of acute HIV-1 infection and HIV-2 infection in the absence of clinical, behavioral, or demographic information that is not routinely available to laboratories.</p>
+<p>To validate the proposed algorithm for supplemental testing, CDC and public health laboratories retrospectively applied available existing test results in the sequence specified by the proposed algorithm and evaluated the 4th generation immunoassays and proposed algorithm on the same specimen collections that had been tested previously. The HIV Steering Committee then used the call for abstracts for the 2012 HIV Diagnostics Conference to solicit additional data on the performance of new tests and the proposed algorithm. Three CDC writing group members developed a figure and draft statements for consideration during the conference describing the proposed algorithm and possible variations if different assays were substituted for those in the proposed algorithm. CDC writing group members solicited oral comments on the proposed algorithm from stakeholders who attended the December 2012 HIV Diagnostics Conference, representing commercial and public health laboratories that conduct HIV testing, HIV testing programs, manufacturers of HIV tests and testing equipment, providers of HIV clinical and preventive services, and persons with HIV. Their input on the proposed algorithm was informed by conference presentations that compared the performance, cost, and cost-effectiveness of the proposed algorithm with the previous algorithm and alternatives. Manuscripts from conference presentations were submitted for peer review and published in the December 2013 supplement to the Journal of Clinical Virology. CDC writing group members also solicited oral comments on the proposed algorithm from other stakeholders at meetings of the CDC-Health Resources and Services Administration (HRSA) Advisory Committee, American Association of Clinical Chemistry, Association of Medical Laboratory Immunologists, College of American Pathologists, and the Pan American Society for Clinical Virology. After stakeholders expressed support for the proposed recommendations, the writing group finalized the recommendations.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p>Not applicable</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>Comparing laboratory costs for testing algorithms is difficult because assay costs vary over time, in different laboratories, and with different testing volumes. Testing costs also depend on the prevalence of established and acute human immunodeficiency virus (HIV) infections in tested specimens (and thus the number of supplemental tests required). Investigators collected cost information from 17 clinical and public health laboratories and used the median cost in a model to compare the cost of previous algorithm and the recommended algorithm. (The model did not include costs or effectiveness for the laboratory diagnosis of HIV-2 infection.) The recommended algorithm identified more specimens with HIV-1 infection. It was less costly than the previous algorithm for specimens positive for HIV antibody, but more costly for the subset of specimens that required HIV-1 nucleic acid test (NAT) to evaluate acute infection or false-positive initial immunoassay results. Estimates of both the number of HIV infections detected and overall laboratory testing costs were higher with the recommended algorithm than with the previous algorithm. In specimens with 1% prevalence of established HIV-1 infection and 0.1% prevalence of acute HIV-1 infection (characteristic of specimens from high-risk populations), the model estimated that, compared with the previous algorithm, the incremental cost per additional HIV-1 infection detected ranged from $5,027 to $14,400. In contrast, for specimens in which the prevalence of established and acute HIV-1 infections is very low (0.01% and 0.001%, respectively), incremental cost-effectiveness of the recommended algorithm exceeds $100,000 per additional infection detected compared with the previous algorithm. A different cost-effectiveness model that included as an outcome the costs of cases averted by early detection of HIV infection concluded that HIV testing remained cost saving until costs per new HIV diagnosis exceeded $22,903.</p>
+<p>Two other U.S. models evaluated the cost-effectiveness of alternative algorithms in which pooled HIV-1 NAT would directly follow an initial nonreactive 3rd generation immunoassay. Both used cost per quality adjusted life year as outcomes. One found that the incremental cost-effectiveness of pooled HIV-1 NAT exceeded $100,000 per quality-adjusted life year unless prevalence of acute HIV infection in tested specimens exceeded 0.4%. The second model found that screening with a 4th generation immunoassay was more economical than pooled NAT screening after a negative 3rd generation immunoassay. In both studies, the cost-effectiveness of each strategy varied considerably with the prevalence of undiagnosed HIV infection and the frequency of re-testing (which influences the proportion of specimens with acute HIV-1 infection).</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>The draft recommendations and their underlying evidence were reviewed by three independent human immunodeficiency virus (HIV) testing experts not involved in development of the recommendations (in accordance with Office of Management and Budget Regulations for peer review of influential scientific information from the federal government) and by officials at Centers for Disease Control and Prevention (CDC), the U.S. Food and Drug Administration (FDA), and the Department of Health and Human Services.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of evidence supporting the recommendations is not specifically stated.</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>The recommended algorithm is associated with additional benefits and fewer harms for patients than the previous algorithm. By reducing the number of false-negative and indeterminate results and misclassified human immunodeficiency (HIV)-2 infections, the recommended algorithm is more accurate. By reducing indeterminate test results, the recommended algorithm reduces delays in HIV diagnosis, anxiety for tested persons, and the inconvenience and cost of collecting additional specimens for more testing. The recommended algorithm only rarely requires additional specimens; for example, when an HIV-1 nucleic acid test (NAT) is required and the original specimen is unsuitable. </li>
+    <li>The recommended algorithm can also reduce turnaround time for test results compared with the previous algorithm. One public health laboratory using the recommended algorithm was able to report 96% of antibody-positive test results in 2 workdays or less, compared with 22% when specimens were tested with the previous algorithm. Another testing program that replaced the previous algorithm with the recommended algorithm was able to shorten the interval between specimen collection and routine notification of test results by 1 week. </li>
+</ul></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Indeterminate or inconclusive results </li>
+    <li>False-positive or false-negative results </li>
+    <li>Delayed diagnosis due to the need for additional specimens or follow-up testing </li>
+</ul></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><div class="content_para"><p>Trade names are used for identification purposes only. Their use does not imply endorsement by Centers for Disease Control and Prevention (CDC) or the U.S. Department of Health and Human Services.</p></div></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>An implementation strategy was not provided.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Clinical Algorithm</p>
+                    <p>Quick Reference Guides/Physician Guides</p>
+                    <p>Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Branson BM, Owen SM, Wesolowski LG, Bennett B, Werner BG, Wroblewski KE, Pentella MA. Laboratory testing for the diagnosis of HIV infection: updated recommendations. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2014 Jun 27. 66 p.  [175 references]</td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>1989 (revised 2014 Jun 27)</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>Association of Public Health Laboratories - Professional Association</p>
+                    <p>Centers for Disease Control and Prevention - Federal Government Agency [U.S.]</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>United States Government</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Working Group</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Project Leader</em>: Bernard M Branson, MD, Centers for Disease Control and Prevention (CDC)</p>
+<p><em>External Members</em>: Berry Bennett, MPH, Florida Bureau of Laboratories and Association of Public Health Laboratories (APHL); Barbara G. Werner, PhD, Massachusetts Department of Public Health Bureau of Infectious Disease and APHL; Kelly E. Wroblewski, MPH, APHL; Michael A Pentella, PhD, Massachusetts Bureau of Laboratories and APHL</p>
+<p><em>CDC Writing Group Members</em>: Bernard M. Branson, MD; S. Michele Owen, PhD; Laura G. Wesolowski, PhD; Kathleen Irwin, MD, MPH; Priya Jakhmola, MS, MBA</p>
+<p><em>Additional Contributors</em>: Pollyanna Chavez, PhD; Steven Ethridge, MT (ASCP); Kristen Mahle Gray, MPH, CDC; Monica Parker, Wadsworth Center, New York State Department of Health and APHL</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p><strong>Disclosure of Relationship</strong></p>
+<p>The Centers for Disease Control and Prevention (CDC) and their content experts wish to disclose that they have no financial interests or other relationships with the manufacturers of commercial products, suppliers of commercial services, or commercial supporters. External peer reviewers have reviewed content to ensure there is no bias.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: CDC. Interpretation and use of the Western blot assay for serodiagnosis of human immunodeficiency virus type 1 infections. MMWR Morb Mortal Wkly Rep. 1989;38(S-7):1-7.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Electronic copies: Available from the <a href="https://web.archive.org/web/20180712182945/http://stacks.cdc.gov/view/cdc/23447/" target="_blank" title="CDC Web site">Centers for Disease Control and Prevention (CDC) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712182945im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Quick reference guide - laboratory testing for the diagnosis of HIV infection: updated recommendations. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2014 Jun 27. 2 p. Electronic copies: Available from the <a href="https://web.archive.org/web/20180712182945/http://stacks.cdc.gov/view/cdc/23446" target="_blank" title="CDC Web site">Centers for Disease Control and Prevention (CDC) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712182945im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Suggested reporting language for the HIV laboratory diagnostic testing algorithm. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2013 Nov. 8 p. Electronic copies: Available from the <a href="https://web.archive.org/web/20180712182945/http://stacks.cdc.gov/view/cdc/23447/cdc_23447_DS3.pdf" target="_blank" title="CDC Web site">CDC Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712182945im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on October 21, 2014.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>No copyright restrictions apply.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712182945/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712182945/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712182945/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712182945/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712182945/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712182945/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712182945/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712182945/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712182945/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712182945/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712182945/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712182945/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712182945/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712182945/https://www.guideline.gov/disclaimer?id=48499&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712182945im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712182945im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712182945/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712182945/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712182945/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712182945/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712182945/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712182945/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712182945/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712182945/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712182945/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712182945/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712182945/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712182945/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712182945/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712182945/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712182945/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712182945/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712182945/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712182945/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712182945/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712182945im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712182945im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712182945/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712182945im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712182945im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712182945/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712182945js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712182945js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 18:29:45 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:18:11 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 60.928 (3)
+  esindex: 0.01
+  captures_list: 85.72
+  CDXLines.iter: 17.81 (3)
+  PetaboxLoader3.datanode: 43.343 (4)
+  exclusion.robots: 0.267
+  exclusion.robots.policy: 0.255
+  RedisCDXSource: 2.248
+  load_resource: 26.579
+-->

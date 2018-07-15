@@ -1,0 +1,1346 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app22.us.archive.org';v.server_ms=237;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Antithrombotic therapy for VTE disease: CHEST guideline and Expert Panel report. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712184250im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712184250im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712184250im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712184250im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712184250/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712184250im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712184250cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712184250js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712184250if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712184250/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712184250if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712184250/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712184250/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712184250/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712184250/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712184250im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712184250im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712184250im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712184250/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712184250/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712184250/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712184250/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712184250/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712184250/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712184250/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712184250/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712184250/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712184250/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712184250/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712184250/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712184250/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712184250/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712184250/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712184250/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712184250/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712184250/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712184250/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712184250/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712184250/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010951</li>
+            <li>2016 Feb
+            </li>            
+                                </ul>
+        <div>
+                <h1>Antithrombotic therapy for VTE disease: CHEST guideline and Expert Panel report.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712184250/https://www.guideline.gov/search?f_Guideline_Developer_String=American%20College%20of%20Chest%20Physicians&amp;fLockTerm=American%2BCollege%2Bof%2BChest%2BPhysicians">American College of Chest Physicians</a></li>
+                        <li>   
+                                <a id="363" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Kearon C, Akl EA, Ornelas J, Blaivas A, Jimenez D, Bounameaux H, Huisman M, King CS, Morris TA, Sood N, Stevens SM, Vintch JR, Wells P, Woller SC, Moores L. Antithrombotic therapy for VTE disease: CHEST guideline and expert panel report. Chest. 2016 Feb;149(2):315-52. [239 references] <a href="https://web.archive.org/web/20180712184250/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26867832" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712184250im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712184250/https://www.guideline.gov/Home/Disclaimer?id=50142&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fjournal.publications.chestnet.org%252farticle.aspx%253farticleid%253d2479255">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184250im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline is updates a previous version: Kearon C, Akl EA, Comerota AJ, Prandoni P, Bounameaux H, Goldhaber SZ, Nelson ME, Wells PS, Gould MK, Dentali F, Crowther M, Kahn SR. Antithrombotic therapy for VTE disease: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest. 2012 Feb;141(2 Suppl):e419S-94S. [453 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712184250/https://www.guideline.gov/search?f_Age_of_Target_Population=Adolescent%20%2813%20to%2018%20years%29&amp;fLockTerm=Adolescent%2B%2813%2Bto%2B18%2Byears%29">Adolescent (13 to 18 years)</a></li>                      
+                        <li><a href="/web/20180712184250/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712184250/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712184250/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712184250/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712184250/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">HCPCS</h5>
+                    <div class="field-content">
+<a href="/web/20180712184250/https://www.guideline.gov/search?f_HCPCS_CUI=C0080306&amp;fLockTerm=Vena+cava+filter">Vena cava filter</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712184250/https://www.guideline.gov/search?f_ICD9CM_CUI=C2712629&amp;fLockTerm=Acute+venous+embolism+and+thrombosis+of+unspecified+deep+vessels+of+lower+extremity">Acute venous embolism and thrombosis of unspecified deep vessels of lower extremity</a>
+ (453.40), <a href="/web/20180712184250/https://www.guideline.gov/search?f_ICD9CM_CUI=C1135228&amp;fLockTerm=Chronic+venous+hypertension+with+other+complication">Chronic venous hypertension with other complication</a>
+ (459.39), <a href="/web/20180712184250/https://www.guideline.gov/search?f_ICD9CM_CUI=C0040038&amp;fLockTerm=Other+venous+embolism+and+thrombosis+of+unspecified+site">Other venous embolism and thrombosis of unspecified site</a>
+ (453.9)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0001314&amp;fLockTerm=Acute+Disease">Acute Disease</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0002423&amp;fLockTerm=Ambulatory+Care">Ambulatory Care</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0003280&amp;fLockTerm=Anticoagulants">Anticoagulants</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0003304&amp;fLockTerm=Antifibrinolytic+Agents">Antifibrinolytic Agents</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0004057&amp;fLockTerm=Aspirin">Aspirin</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0000392&amp;fLockTerm=beta-Alanine">beta-Alanine</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C2348066&amp;fLockTerm=Dabigatran">Dabigatran</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0162575&amp;fLockTerm=Embolectomy">Embolectomy</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0014098&amp;fLockTerm=Endarterectomy">Endarterectomy</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C3669283&amp;fLockTerm=Factor+Xa+Inhibitors">Factor Xa Inhibitors</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0016018&amp;fLockTerm=Fibrinolytic+Agents">Fibrinolytic Agents</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0019134&amp;fLockTerm=Heparin">Heparin</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0019139&amp;fLockTerm=Heparin%2c+Low-Molecular-Weight">Heparin, Low-Molecular-Weight</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0020542&amp;fLockTerm=Hypertension%2c+Pulmonary">Hypertension, Pulmonary</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0277919&amp;fLockTerm=Postthrombotic+Syndrome">Postthrombotic Syndrome</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0034065&amp;fLockTerm=Pulmonary+Embolism">Pulmonary Embolism</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0034242&amp;fLockTerm=Pyrazoles">Pyrazoles</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0034255&amp;fLockTerm=Pyridines">Pyridines</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0034260&amp;fLockTerm=Pyridones">Pyridones</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C1739768&amp;fLockTerm=Rivaroxaban">Rivaroxaban</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0038348&amp;fLockTerm=Stockings%2c+Compression">Stockings, Compression</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0039859&amp;fLockTerm=Thiazoles">Thiazoles</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0039931&amp;fLockTerm=Thiophenes">Thiophenes</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0162578&amp;fLockTerm=Thrombectomy">Thrombectomy</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0040038&amp;fLockTerm=Thromboembolism">Thromboembolism</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0040044&amp;fLockTerm=Thrombolytic+Therapy">Thrombolytic Therapy</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0040053&amp;fLockTerm=Thrombosis">Thrombosis</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0041618&amp;fLockTerm=Ultrasonography">Ultrasonography</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C2717899&amp;fLockTerm=Upper+Extremity+Deep+Vein+Thrombosis">Upper Extremity Deep Vein Thrombosis</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0080306&amp;fLockTerm=Vena+Cava+Filters">Vena Cava Filters</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C1861172&amp;fLockTerm=Venous+Thromboembolism">Venous Thromboembolism</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0042487&amp;fLockTerm=Venous+Thrombosis">Venous Thrombosis</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MSH_CUI=C0043031&amp;fLockTerm=Warfarin">Warfarin</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0002423&amp;fLockTerm=ambulatory+care+services">ambulatory care services</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0003280&amp;fLockTerm=Anticoagulants">Anticoagulants</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0003304&amp;fLockTerm=Antifibrinolytic+Agents">Antifibrinolytic Agents</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0004057&amp;fLockTerm=Aspirin">Aspirin</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0038348&amp;fLockTerm=Compression+Stockings">Compression Stockings</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C2348066&amp;fLockTerm=dabigatran">dabigatran</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0149871&amp;fLockTerm=Deep+Vein+Thrombosis">Deep Vein Thrombosis</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0014098&amp;fLockTerm=Endarterectomy">Endarterectomy</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C3669283&amp;fLockTerm=Factor+Xa+inhibitors">Factor Xa inhibitors</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0016018&amp;fLockTerm=Fibrinolytic+Agents">Fibrinolytic Agents</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0019134&amp;fLockTerm=Heparin">Heparin</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0019139&amp;fLockTerm=Heparin%2c+Low-Molecular-Weight">Heparin, Low-Molecular-Weight</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0277919&amp;fLockTerm=Postthrombotic+Syndrome">Postthrombotic Syndrome</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0190587&amp;fLockTerm=Pulmonary+embolectomy">Pulmonary embolectomy</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0034065&amp;fLockTerm=Pulmonary+Embolism">Pulmonary Embolism</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0020542&amp;fLockTerm=Pulmonary+Hypertension">Pulmonary Hypertension</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0034255&amp;fLockTerm=Pyridines">Pyridines</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0034260&amp;fLockTerm=Pyridones">Pyridones</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C1739768&amp;fLockTerm=rivaroxaban">rivaroxaban</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0040038&amp;fLockTerm=Thromboembolism">Thromboembolism</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0162363&amp;fLockTerm=Thromboendarterectomy">Thromboendarterectomy</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0040053&amp;fLockTerm=Thrombosis">Thrombosis</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C1096489&amp;fLockTerm=Treatment+with+Vitamin+K+antagonist">Treatment with Vitamin K antagonist</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0041618&amp;fLockTerm=Ultrasonography">Ultrasonography</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0080306&amp;fLockTerm=Vena+Cava+Filters">Vena Cava Filters</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C1861172&amp;fLockTerm=Venous+Thromboembolism">Venous Thromboembolism</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0042487&amp;fLockTerm=Venous+Thrombosis">Venous Thrombosis</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_MTH_CUI=C0043031&amp;fLockTerm=Warfarin">Warfarin</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712184250/https://www.guideline.gov/search?f_PDQ_CUI=C0004057&amp;fLockTerm=acetylsalicyclic+acid">acetylsalicyclic acid</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_PDQ_CUI=C0019134&amp;fLockTerm=heparin">heparin</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_PDQ_CUI=C0040038&amp;fLockTerm=thromboembolism">thromboembolism</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_PDQ_CUI=C0040044&amp;fLockTerm=thrombolytic+therapy">thrombolytic therapy</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_PDQ_CUI=C0041618&amp;fLockTerm=ultrasonography">ultrasonography</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_PDQ_CUI=C0043031&amp;fLockTerm=warfarin">warfarin</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0001314&amp;fLockTerm=Acute+disease">Acute disease</a>
+ (2704003), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003280&amp;fLockTerm=Anticoagulant">Anticoagulant</a>
+ (372862008), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003280&amp;fLockTerm=Anticoagulant">Anticoagulant</a>
+ (81839001), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0004057&amp;fLockTerm=Aspirin">Aspirin</a>
+ (387458008), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0004057&amp;fLockTerm=Aspirin">Aspirin</a>
+ (7947003), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0000392&amp;fLockTerm=beta+Alanine">beta Alanine</a>
+ (70587000), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0038348&amp;fLockTerm=Compression+stocking">Compression stocking</a>
+ (348681001), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0038348&amp;fLockTerm=Compression+stocking">Compression stocking</a>
+ (467848007), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2348066&amp;fLockTerm=Dabigatran">Dabigatran</a>
+ (698871007), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2348066&amp;fLockTerm=Dabigatran">Dabigatran</a>
+ (714788005), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0149871&amp;fLockTerm=Deep+venous+thrombosis">Deep venous thrombosis</a>
+ (128053003), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2717899&amp;fLockTerm=Deep+venous+thrombosis+of+upper+extremity">Deep venous thrombosis of upper extremity</a>
+ (128054009), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0444917&amp;fLockTerm=Duration+of+therapy">Duration of therapy</a>
+ (261773006), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0014098&amp;fLockTerm=Endarterectomy">Endarterectomy</a>
+ (392031002), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1098510&amp;fLockTerm=Fondaparinux">Fondaparinux</a>
+ (708189008), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019134&amp;fLockTerm=Heparin">Heparin</a>
+ (372877000), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019134&amp;fLockTerm=Heparin">Heparin</a>
+ (84812008), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019134&amp;fLockTerm=Heparin">Heparin</a>
+ (96382006), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019139&amp;fLockTerm=Low+molecular+weight+heparin">Low molecular weight heparin</a>
+ (373294004), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019139&amp;fLockTerm=Low+molecular+weight+heparin">Low molecular weight heparin</a>
+ (87233003), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002423&amp;fLockTerm=Outpatient+service">Outpatient service</a>
+ (7271000175108), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0411292&amp;fLockTerm=Percutaneous+thrombolysis">Percutaneous thrombolysis</a>
+ (240929001), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0034065&amp;fLockTerm=Pulmonary+embolism">Pulmonary embolism</a>
+ (59282003), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0020542&amp;fLockTerm=Pulmonary+hypertension">Pulmonary hypertension</a>
+ (70995007), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1959997&amp;fLockTerm=Pulmonary+thromboendarterectomy">Pulmonary thromboendarterectomy</a>
+ (426900002), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0162575&amp;fLockTerm=Removal+of+embolus">Removal of embolus</a>
+ (274021001), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0162575&amp;fLockTerm=Removal+of+embolus">Removal of embolus</a>
+ (71815002), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0190587&amp;fLockTerm=Removal+of+pulmonary+embolus">Removal of pulmonary embolus</a>
+ (76480009), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0162578&amp;fLockTerm=Removal+of+thrombus">Removal of thrombus</a>
+ (43810009), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1739768&amp;fLockTerm=Rivaroxaban">Rivaroxaban</a>
+ (442031002), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1739768&amp;fLockTerm=Rivaroxaban">Rivaroxaban</a>
+ (442539005), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0039859&amp;fLockTerm=Thiazole">Thiazole</a>
+ (428162000), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040038&amp;fLockTerm=Thromboembolic+disorder">Thromboembolic disorder</a>
+ (13713005), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040038&amp;fLockTerm=Thromboembolic+disorder">Thromboembolic disorder</a>
+ (371039008), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0162363&amp;fLockTerm=Thromboendarterectomy">Thromboendarterectomy</a>
+ (74556005), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0398131&amp;fLockTerm=Thrombolysis+of+vein">Thrombolysis of vein</a>
+ (233428003), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0016018&amp;fLockTerm=Thrombolytic">Thrombolytic</a>
+ (303960004), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0016018&amp;fLockTerm=Thrombolytic">Thrombolytic</a>
+ (372742009), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040044&amp;fLockTerm=Thrombolytic+therapy">Thrombolytic therapy</a>
+ (426347000), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040053&amp;fLockTerm=Thrombosis">Thrombosis</a>
+ (118927008), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040053&amp;fLockTerm=Thrombosis">Thrombosis</a>
+ (264579008), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040053&amp;fLockTerm=Thrombosis">Thrombosis</a>
+ (439127006), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0041618&amp;fLockTerm=Ultrasonography">Ultrasonography</a>
+ (16310003), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0041618&amp;fLockTerm=Ultrasonography">Ultrasonography</a>
+ (278292003), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0441134&amp;fLockTerm=Vascular+catheter">Vascular catheter</a>
+ (258623008), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0183521&amp;fLockTerm=Vascular+stent">Vascular stent</a>
+ (360042007), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0080306&amp;fLockTerm=Vena+cava+filter">Vena cava filter</a>
+ (257409000), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0277919&amp;fLockTerm=Venous+stasis+syndrome">Venous stasis syndrome</a>
+ (238788004), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0277919&amp;fLockTerm=Venous+stasis+syndrome">Venous stasis syndrome</a>
+ (71897006), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0042487&amp;fLockTerm=Venous+thrombosis">Venous thrombosis</a>
+ (111293003), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0043031&amp;fLockTerm=Warfarin">Warfarin</a>
+ (372756006), <a href="/web/20180712184250/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0043031&amp;fLockTerm=Warfarin">Warfarin</a>
+ (48603004)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SPN</h5>
+                    <div class="field-content">
+<a href="/web/20180712184250/https://www.guideline.gov/search?f_SPN_CUI=C0179212&amp;fLockTerm=DRESSING%2c+COMPRESSION">DRESSING, COMPRESSION</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_SPN_CUI=C0080306&amp;fLockTerm=FILTER%2c+INTRAVASCULAR%2c+CARDIOVASCULAR">FILTER, INTRAVASCULAR, CARDIOVASCULAR</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_SPN_CUI=C0019134&amp;fLockTerm=HEPARIN">HEPARIN</a>
+, <a href="/web/20180712184250/https://www.guideline.gov/search?f_SPN_CUI=C0038348&amp;fLockTerm=STOCKING%2c+MEDICAL+SUPPORT+(FOR+GENERAL+MEDICAL+PURPOSES)">STOCKING, MEDICAL SUPPORT (FOR GENERAL MEDICAL PURPOSES)</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712184250/https://www.guideline.gov/search?f_UMD_CUI=C0179212&amp;fLockTerm=Bandages%2c+Compression%2fSupport">Bandages, Compression/Support</a>
+ (10-284), <a href="/web/20180712184250/https://www.guideline.gov/search?f_UMD_CUI=C0441134&amp;fLockTerm=Catheters%2c+Vascular">Catheters, Vascular</a>
+ (18-636), <a href="/web/20180712184250/https://www.guideline.gov/search?f_UMD_CUI=C0179794&amp;fLockTerm=Catheters%2c+Vascular%2c+Embolectomy%2fThrombectomy%2c+Balloon%2c+Venous">Catheters, Vascular, Embolectomy/Thrombectomy, Balloon, Venous</a>
+ (10-756), <a href="/web/20180712184250/https://www.guideline.gov/search?f_UMD_CUI=C0179925&amp;fLockTerm=Circulatory+Assist+Units%2c+Peripheral+Compression">Circulatory Assist Units, Peripheral Compression</a>
+ (10-849), <a href="/web/20180712184250/https://www.guideline.gov/search?f_UMD_CUI=C0080306&amp;fLockTerm=Filters%2c+Vena+Cava">Filters, Vena Cava</a>
+ (11-718), <a href="/web/20180712184250/https://www.guideline.gov/search?f_UMD_CUI=C0038348&amp;fLockTerm=Socks%2fStockings%2c+Elastic+Compression">Socks/Stockings, Elastic Compression</a>
+ (13-789), <a href="/web/20180712184250/https://www.guideline.gov/search?f_UMD_CUI=C0183521&amp;fLockTerm=Stents%2c+Vascular">Stents, Vascular</a>
+ (17-461)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#430" class="section-mark">Contraindications</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712184250/https://www.guideline.gov/summaries/downloadcontent/ngc-10951?contentType=pdf" class="pdf">.PDF 144.6 kb</a></li>
+                            <li><a href="/web/20180712184250/https://www.guideline.gov/summaries/downloadcontent/ngc-10951?contentType=word" class="word">Word Document 341.8 kb</a></li>
+                            <li><a href="/web/20180712184250/https://www.guideline.gov/summaries/downloadcontent/ngc-10951?contentType=xml" class="xml">.XML 82.3 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712184250/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/50142/antithrombotic-therapy-for-vte-disease-chest-guideline-and-expert-panel-report" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712184250/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/50142/antithrombotic-therapy-for-vte-disease-chest-guideline-and-expert-panel-report" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712184250/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/50142/antithrombotic-therapy-for-vte-disease-chest-guideline-and-expert-panel-report&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712184250/mailto:/?Subject=AHRQ: Antithrombotic therapy for VTE disease: CHEST guideline and Expert Panel report.&amp;body=https://www.guideline.gov/summaries/summary/50142/antithrombotic-therapy-for-vte-disease-chest-guideline-and-expert-panel-report" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Antithrombotic therapy for VTE disease: CHEST guideline and Expert Panel report. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2016 Feb 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712184250/https://www.guideline.gov/summaries/citedownload/50142?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712184250/https://www.guideline.gov/summaries/citedownload/50142?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712184250/https://www.guideline.gov/summaries/citedownload/50142?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712184250/https://www.guideline.gov/summaries/citedownload/50142?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712184250/https://www.guideline.gov/summaries/citedownload/50142?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712184250/https://www.guideline.gov/summaries/citedownload/50142">RefWorks</a></li>
+                            <li><a href="/web/20180712184250/https://www.guideline.gov/summaries/citedownload/50142?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="50142" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>The grades of recommendation (<strong>1A&ndash;2C, consensus-based [CB]</strong>) and the approach to rating the quality of evidence are defined at the end of the "Major Recommendations" field.</p>
+<p><span style="text-decoration: underline;"><strong>Choice of Long-Term (First 3 Months) and Extended (No Scheduled Stop Date) Anticoagulant</strong></span></p>
+<ol style="list-style-type: decimal;">
+    <li>In patients with proximal deep vein thrombosis (DVT) or pulmonary embolism (PE), the panel recommends long-term (3 months) anticoagulant therapy over no such therapy (<strong>Grade 1B</strong>). </li>
+    <li>In patients with DVT of the leg or PE and no cancer, as long-term (ﬁrst 3 months) anticoagulant therapy, the panel suggests dabigatran, rivaroxaban, apixaban, or edoxaban over vitamin K antagonist (VKA) therapy (<strong>all Grade 2B</strong>). For patients with DVT of the leg or PE and no cancer who are not treated with dabigatran, rivaroxaban, apixaban, or edoxaban, the panel suggests VKA therapy over low-molecular weight heparin (LMWH) (<strong>Grade 2C</strong>).
+    <p><em>Remarks</em>: Initial parenteral anticoagulation is given before dabigatran and edoxaban, is not given before rivaroxaban and apixaban, and is overlapped with VKA therapy. See text in the original guideline document for factors that inﬂuence choice of therapy.</p>
+    </li>
+    <li>In patients with DVT of the leg or PE and cancer ("cancer-associated thrombosis"), as long-term (ﬁrst 3 months) anticoagulant therapy, the panel suggests LMWH over VKA therapy (<strong>Grade 2C</strong>), dabigatran (<strong>Grade 2C</strong>), rivaroxaban (<strong>Grade 2C</strong>), apixaban (<strong>Grade 2C</strong>), or edoxaban (<strong>Grade 2C</strong>).
+    <p><em>Remarks</em>: Initial parenteral anticoagulation is given before dabigatran and edoxaban, is not given before rivaroxaban and apixaban, and is overlapped with VKA therapy. See text in the original guideline document for factors that inﬂuence choice of therapy.</p>
+    </li>
+    <li>In patients with DVT of the leg or PE who receive extended therapy, the panel suggests that there is no need to change the choice of anticoagulant after the ﬁrst 3 months (<strong>Grade 2C</strong>).
+    <p><em>Remarks</em>: It may be appropriate for the choice of anticoagulant to change in response to changes in the patient's circumstances or preferences during long-term or extended phases of treatment.</p>
+    </li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Duration of Anticoagulant Therapy</strong></span></p>
+<ol style="list-style-type: decimal;" start="5">
+    <li>In patients with a proximal DVT of the leg or PE provoked by surgery, the panel recommends treatment with anticoagulation for 3 months over (i) treatment of a shorter period (<strong>Grade 1B</strong>), (ii) treatment of a longer time-limited period (e.g., 6, 12, or 24 months) (<strong>Grade 1B</strong>), or (iii) extended therapy (no scheduled stop date) (<strong>Grade 1B</strong>). </li>
+    <li>In patients with a proximal DVT of the leg or PE provoked by a nonsurgical transient risk factor, the panel recommends treatment with anticoagulation for 3 months over (i) treatment of a shorter period (<strong>Grade 1B</strong>) and (ii) treatment of a longer time-limited period (e.g., 6, 12, or 24 months) (<strong>Grade 1B</strong>). The panel suggests treatment with anticoagulation for 3 months over extended therapy if there is a low or moderate bleeding risk (<strong>Grade 2B</strong>), and recommend treatment for 3 months over extended therapy if there is a high risk of bleeding (<strong>Grade 1B</strong>).
+    <p><em>Remarks</em>: In all patients who receive extended anticoagulant therapy, the continuing use of treatment should be reassessed at periodic intervals (e.g., annually).</p>
+    </li>
+    <li>In patients with an isolated distal DVT of the leg provoked by surgery or by a nonsurgical transient risk factor, the panel suggests treatment with anticoagulation for 3 months over treatment of a shorter period (<strong>Grade 2C</strong>), the panel recommends treatment with anticoagulation for 3 months over treatment of a longer time-limited period (e.g., 6, 12, or 24 months) (<strong>Grade 1B</strong>), and the panel recommends treatment with anticoagulation for 3 months over extended therapy (no scheduled stop date) (<strong>Grade 1B</strong>).
+    <p><em>Remarks</em>: Duration of treatment of patients with isolated distal DVT refers to patients in whom a decision has been made to treat with anticoagulant therapy; however, it is anticipated that not all patients who are diagnosed with isolated distal DVT will be prescribed anticoagulants.</p>
+    </li>
+    <li>In patients with an unprovoked DVT of the leg (isolated distal or proximal) or PE, the panel recommends treatment with anticoagulation for at least 3 months over treatment of a shorter duration (<strong>Grade 1B</strong>), and the panel recommends treatment with anticoagulation for 3 months over treatment of a longer time-limited period (e.g., 6, 12, or 24 months) (<strong>Grade 1B</strong>).
+    <p><em>Remarks</em>: After 3 months of treatment, patients with unprovoked DVT of the leg or PE should be evaluated for the risk-beneﬁt ratio of extended therapy. Duration of treatment of patients with isolated distal DVT refers to patients in whom a decision has been made to treat with anticoagulant therapy; however, it is anticipated that not all patients who are diagnosed with isolated distal DVT will be prescribed anticoagulants.</p>
+    </li>
+    <li>In patients with a ﬁrst VTE that is an unprovoked proximal DVT of the leg or PE and who have a (i) low or moderate bleeding risk (see text in the original guideline document), the panel suggests extended anticoagulant therapy (no scheduled stop date) over 3 months of therapy (<strong>Grade 2B</strong>), and (ii) high bleeding risk (see text in the original guideline document), the panel recommends 3 months of anticoagulant therapy over extended therapy (no scheduled stop date) (<strong>Grade 1B</strong>).
+    <p><em>Remarks</em>: Patient sex and D-dimer level measured a month after stopping anticoagulant therapy may inﬂuence the decision to stop or extend anticoagulant therapy (see text in the original guideline document). In all patients who receive extended anticoagulant therapy, the continuing use of treatment should be reassessed at periodic intervals (e.g., annually).</p>
+    </li>
+    <li>In patients with a second unprovoked VTE and who have a (i) low bleeding risk (see text in the original guideline document), the panel recommends extended anticoagulant therapy (no scheduled stop date) over 3 months (<strong>Grade 1B</strong>); (ii) moderate bleeding risk (see text in the original guideline document), the panel suggests extended anticoagulant therapy over 3 months of therapy (<strong>Grade 2B</strong>); or (iii) high bleeding risk (see text in the original guideline document), the panel suggests 3 months of anticoagulant therapy over extended therapy (no scheduled stop date) (<strong>Grade 2B</strong>).
+    <p><em>Remarks</em>: In all patients who receive extended anticoagulant therapy, the continuing use of treatment should be reassessed at periodic intervals (e.g., annually).</p>
+    </li>
+    <li>In patients with DVT of the leg or PE and active cancer ("cancer-associated thrombosis") and who (i) do not have a high bleeding risk, the panel recommends extended anticoagulant therapy (no scheduled stop date) over 3 months of therapy (<strong>Grade 1B</strong>), or (ii) have a high bleeding risk, the panel suggests extended anticoagulant therapy (no scheduled stop date) over 3 months of therapy (<strong>Grade 2B</strong>).
+    <p><em>Remarks</em>: In all patients who receive extended anticoagulant therapy, the continuing use of treatment should be reassessed at periodic intervals (e.g., annually). </p>
+    </li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Aspirin for Extended Treatment of VTE</strong></span></p>
+<ol style="list-style-type: decimal;" start="12">
+    <li>In patients with an unprovoked proximal DVT or PE who are stopping anticoagulant therapy and do not have a contraindication to aspirin, the panel suggests aspirin over no aspirin to prevent recurrent VTE (<strong>Grade 2B</strong>).
+    <p><em>Remarks</em>: Because aspirin is expected to be much less effective at preventing recurrent VTE than anticoagulants, the panel does not consider aspirin a reasonable alternative to anticoagulant therapy in patients who want extended therapy. However, if a patient has decided to stop anticoagulants, prevention of recurrent VTE is one of the beneﬁts of aspirin that needs to be balanced against aspirin's risk of bleeding and inconvenience. Use of aspirin should also be reevaluated when patients stop anticoagulant therapy because aspirin may have been stopped when anticoagulants were started.</p>
+    </li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Whether and How to Anticoagulate Isolated Distal DVT</strong></span></p>
+<ol style="list-style-type: decimal;" start="13">
+    <li>In patients with acute isolated distal DVT of the leg and (i) without severe symptoms or risk factors for extension (see text in original guideline document), the panel suggests serial imaging of the deep veins for 2 weeks over anticoagulation (<strong>Grade 2C</strong>) or (ii) with severe symptoms or risk factors for extension (see text in the original guideline document), the panel suggests anticoagulation over serial imaging of the deep veins (<strong>Grade 2C</strong>).
+    <p><em>Remarks</em>: Patients at high risk for bleeding are more likely to beneﬁt from serial imaging. Patients who place a high value on avoiding the inconvenience of repeat imaging and a low value on the inconvenience of treatment and on the potential for bleeding are likely to choose initial anticoagulation over serial imaging.</p>
+    </li>
+    <li>In patients with acute isolated distal DVT of the leg who are managed with anticoagulation, the panel recommends using the same anticoagulation as for patients with acute proximal DVT (<strong>Grade 1B</strong>). </li>
+    <li>In patients with acute isolated distal DVT of the leg who are managed with serial imaging, the panel (i) recommends no anticoagulation if the thrombus does not extend (<strong>Grade 1B</strong>), (ii) suggests anticoagulation if the thrombus extends but remains conﬁned to the distal veins (<strong>Grade 2C</strong>), and (iii) recommends anticoagulation if the thrombus extends into the proximal veins (<strong>Grade 1B</strong>). </li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Catheter-Directed Thrombolysis for Acute DVT of the Leg</strong></span></p>
+<ol style="list-style-type: decimal;" start="16">
+    <li>In patients with acute proximal DVT of the leg, the panel suggests anticoagulant therapy alone over catheter-directed thrombolysis (CDT) (<strong>Grade 2C</strong>).
+    <p><em>Remarks</em>: Patients who are most likely to beneﬁt from CDT (see text in the original guideline document), who attach a high value to prevention of postthrombotic syndrome (PTS), and a lower value to the initial complexity, cost, and risk of bleeding with CDT, are likely to choose CDT over anticoagulation alone.</p>
+    </li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Role of Inferior Vena Cava Filter in Addition to Anticoagulation for Acute DVT or PE</strong></span></p>
+<ol style="list-style-type: decimal;" start="17">
+    <li>In patients with acute DVT or PE who are treated with anticoagulants, the panel recommends against the use of an inferior vena cava ﬁlter (<strong>Grade 1B</strong>). </li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Compression Stocking to Prevent PTS</strong></span></p>
+<ol style="list-style-type: decimal;" start="18">
+    <li>In patients with acute DVT of the leg, the panel suggests not using compression stockings routinely to prevent PTS (<strong>Grade 2B</strong>).
+    <p><em>Remarks</em>: This recommendation focuses on prevention of the chronic complication of PTS and not on the treatment of symptoms. For patients with acute or chronic symptoms, a trial of graduated compression stockings is often justiﬁed.</p>
+    </li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Whether to Anticoagulate Subsegmental PE</strong></span></p>
+<ol style="list-style-type: decimal;" start="19">
+    <li>In patients with subsegmental PE (no involvement of more proximal pulmonary arteries) and no proximal DVT in the legs who have a (i) low risk for recurrent VTE (see text in the original guideline document), the panel suggests clinical surveillance over anticoagulation (<strong>Grade 2C</strong>) or (ii) high risk for recurrent VTE (see text in the original guideline document), the panel suggests anticoagulation over clinical surveillance (<strong>Grade 2C</strong>).
+    <p><em>Remarks</em>: Ultrasound imaging of the deep veins of both legs should be done to exclude proximal DVT. Clinical surveillance can be supplemented by serial ultrasound imaging of the proximal deep veins of both legs to detect evolving DVT (see text in the original guideline document). Patients and physicians are more likely to opt for clinical surveillance over anticoagulation if there is good cardiopulmonary reserve or a high risk of bleeding.</p>
+    </li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Treatment of Acute PE Out of the Hospital</strong></span></p>
+<ol style="list-style-type: decimal;" start="20">
+    <li>In patients with low-risk PE and whose home circumstances are adequate, the panel suggests treatment at home or early discharge over standard discharge (e.g., after the ﬁrst 5 days of treatment) (<strong>Grade 2B</strong>). </li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Systemic Thrombolytic Therapy for PE</strong></span></p>
+<ol style="list-style-type: decimal;" start="21">
+    <li>In patients with acute PE associated with hypotension (e.g., systolic blood pressure [BP] &lt;90 mm Hg) who do not have a high bleeding risk, the panel suggests systemically administered thrombolytic therapy over no such therapy (<strong>Grade 2B</strong>). </li>
+    <li>In most patients with acute PE not associated with hypotension, the panel recommends against systemically administered thrombolytic therapy (<strong>Grade 1B</strong>). </li>
+    <li>In selected patients with acute PE who deteriorate after starting anticoagulant therapy but have yet to develop hypotension and who have a low bleeding risk, the panel suggests systemically administered thrombolytic therapy over no such therapy (<strong>Grade 2C</strong>).
+    <p><em>Remarks</em>: Patients with PE and without hypotension who have severe symptoms or marked cardiopulmonary impairment should be monitored closely for deterioration. Development of hypotension suggests that thrombolytic therapy has become indicated. Cardiopulmonary deterioration (e.g., symptoms, vital signs, tissue perfusion, gas exchange, cardiac biomarkers) that has not progressed to hypotension may also alter the risk-beneﬁt assessment in favor of thrombolytic therapy in patients initially treated with anticoagulation alone. </p>
+    </li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Catheter-Based Thrombus Removal for the Initial Treatment of PE</strong></span></p>
+<ol style="list-style-type: decimal;" start="24">
+    <li>In patients with acute PE who are treated with a thrombolytic agent, the panel suggests systemic thrombolytic therapy using a peripheral vein over CDT (<strong>Grade 2C</strong>).
+    <p><em>Remarks</em>: Patients who have a higher risk of bleeding with systemic thrombolytic therapy and who have access to the expertise and resources required to do CDT are likely to choose CDT over systemic thrombolytic therapy.</p>
+    </li>
+    <li>In patients with acute PE associated with hypotension and who have (i) a high bleeding risk, (ii) failed systemic thrombolysis, or (iii) shock that is likely to cause death before systemic thrombolysis can take effect (e.g., within hours), if appropriate expertise and resources are available, the panel suggests catheter-assisted thrombus removal over no such intervention (<strong>Grade 2C</strong>).
+    <p><em>Remarks</em>: Catheter-assisted thrombus removal refers to mechanical interventions, with or without catheter directed thrombolysis.</p>
+    </li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Pulmonary Thromboendarterectomy for the Treatment of Chronic Thromboembolic Pulmonary Hypertension</strong></span></p>
+<ol style="list-style-type: decimal;" start="26">
+    <li>In selected patients with chronic thromboembolic pulmonary hypertension (CTEPH) who are identiﬁed by an experienced thromboendarterectomy team, the panel suggests pulmonary thromboendarterectomy over no pulmonary thromboendarterectomy (<strong>Grade 2C</strong>).
+    <p><em>Remarks</em>: Patients with CTEPH should be evaluated by a team with expertise in treatment of pulmonary hypertension. Pulmonary thromboendarterectomy is often lifesaving and life-transforming. Patients with CTEPH who are not candidates for pulmonary thromboendarterectomy may beneﬁt from other mechanical and pharmacological interventions designed to lower pulmonary arterial pressure. </p>
+    </li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Thrombolytic Therapy in Patients With Upper Extremity DVT </strong></span></p>
+<ol style="list-style-type: decimal;" start="27">
+    <li>In patients with acute upper extremity DVT (UEDVT) that involves the axillary or more proximal veins, the panel suggests anticoagulant therapy alone over thrombolysis (<strong>Grade 2C</strong>).
+    <p><em>Remarks</em>: Patients who (i) are most likely to beneﬁt from thrombolysis (see text in the original guideline document); (ii) have access to CDT; (iii) attach a high value to prevention of PTS; and (iv) attach a lower value to the initial complexity, cost, and risk of bleeding with thrombolytic therapy are likely to choose thrombolytic therapy over anticoagulation alone.</p>
+    </li>
+    <li>In patients with UEDVT who undergo thrombolysis, the panel recommends the same intensity and duration of anticoagulant therapy as in patients with UEDVT who do not undergo thrombolysis (<strong>Grade 1B</strong>). </li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Management of Recurrent VTE on Anticoagulant Therapy</strong></span></p>
+<ol style="list-style-type: decimal;" start="29">
+    <li>In patients who have recurrent VTE on VKA therapy (in the therapeutic range) or on dabigatran, rivaroxaban, apixaban, or edoxaban (and are believed to be compliant), the panel suggests switching to treatment with LMWH at least temporarily (<strong>Grade 2C</strong>).
+    <p><em>Remarks</em>: Recurrent VTE while on therapeutic-dose anticoagulant therapy is unusual and should prompt the following assessments: (1) reevaluation of whether there truly was a recurrent VTE; (2) evaluation of compliance with anticoagulant therapy; and (3) consideration of an underlying malignancy. A temporary switch to LMWH will usually be for at least 1 month.</p>
+    </li>
+    <li>In patients who have recurrent VTE on long-term LMWH (and are believed to be compliant), the panel suggests increasing the dose of LMWH by about one-quarter to one-third (<strong>Grade 2C</strong>).
+    <p><em>Remarks</em>: Recurrent VTE while on therapeutic-dose anticoagulant therapy is unusual and should prompt the following assessments: (1) reevaluation of whether there truly was a recurrent VTE; (2) evaluation of compliance with anticoagulant therapy; and (3) consideration of an underlying malignancy. </p>
+    </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong></p>
+<p><strong>American College of Chest Physicians (CHEST) Grading System</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: American College of Chest Physicians (CHEST) Grading System">
+    <thead>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="col">Grade of Recommendation</th>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="col">Balance of Benefit vs. Risk and Burdens (Strength of the Recommendation: Level 1 or 2)</th>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="col">Methodologic Strength of Supporting Evidence (Quality of Body of Evidence: A, B, C, or CB)</th>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="col">Implications</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" colspan="4" scope="row">Graded evidence-based guideline recommendations</th>
+        </tr>
+        <tr>
+            <td valign="top">Strong recommendation, high-quality evidence (1A)</td>
+            <td valign="top">Benefits clearly outweigh risk and burdens or vice versa</td>
+            <td valign="top">Consistent evidence from randomized controlled trials (RCTs) without important limitations or exceptionally strong evidence from observational studies</td>
+            <td valign="top">Recommendation can apply to most patients in most circumstances. Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <td valign="top">Strong recommendation, moderate-quality evidence (1B)</td>
+            <td valign="top">Benefits clearly outweigh risk and burdens or vice versa</td>
+            <td valign="top">Evidence from RCTs with important limitations (inconsistent results, methodologic flaws, indirect or imprecise), or very strong evidence from observational studies</td>
+            <td valign="top">Recommendation can apply to most patients in most circumstances. Higher-quality research may well have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <td valign="top">Strong recommendation, low- or very-low-quality evidence (1C)</td>
+            <td valign="top">Benefits clearly outweigh risk and burdens or vice versa</td>
+            <td valign="top">Evidence for at least one critical outcome from observational studies, case series, or from RCTs with serious flaws or indirect evidence</td>
+            <td valign="top">Recommendation can apply to most patients in many circumstances. Higher-quality research is likely to have an important impact on confidence in the estimate of effect and may well change the estimate.</td>
+        </tr>
+        <tr>
+            <td valign="top">Weak recommendation, high-quality evidence (2A)</td>
+            <td valign="top">Benefits closely balanced with risks and burden</td>
+            <td valign="top">Consistent evidence from RCTs without important limitations or exceptionally strong evidence from observational studies</td>
+            <td valign="top">The best action may differ depending on circumstances or patient's or societal values. Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <td valign="top">Weak recommendation, moderate-quality evidence (2B)</td>
+            <td valign="top">Benefits closely balanced with risks and burden</td>
+            <td valign="top">Evidence from RCTs with important limitations (inconsistent results, methodologic flaws, indirect or imprecise) or very strong evidence from observational studies</td>
+            <td valign="top">Best action may differ depending on circumstances or patient's or societal values. Higher-quality research may well have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <td valign="top">Weak recommendation, low- or very-low-quality evidence (2C)</td>
+            <td valign="top">Uncertainty in the estimates of benefits, risks, and burden; benefits, risk, and burden may be closely balanced</td>
+            <td valign="top">Evidence for at least one critical outcome from observational studies, case series, or RCTs, with serious flaws or indirect evidence </td>
+            <td valign="top">Other alternatives may be equally reasonable. Higher-quality research is likely to have an important impact on confidence in the estimate of effect and may well change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" colspan="4" scope="row">Nongraded consensus-based suggestions</th>
+        </tr>
+        <tr>
+            <td valign="top">Consensus-based (CB)</td>
+            <td valign="top">Uncertainty due to lack of evidence but expert opinion that benefits outweigh risk and burdens or vice versa</td>
+            <td valign="top">Insufficient evidence for a graded recommendation</td>
+            <td valign="top">Future research may well have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Venous thromboembolism (VTE) disease and complications, including: </p>
+<ul style="list-style-type: disc;">
+    <li>Deep vein thrombosis (DVT) </li>
+    <li>Pulmonary embolism (PE) </li>
+    <li>Cancer-associated thrombosis </li>
+    <li>Postthrombotic syndrome (PTS) </li>
+    <li>Chronic thromboembolic pulmonary hypertension (CTEPH) </li>
+</ul></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Management</p>
+                    <p>Prevention</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Cardiology</p>
+                    <p>Critical Care</p>
+                    <p>Family Practice</p>
+                    <p>Hematology</p>
+                    <p>Internal Medicine</p>
+                    <p>Pulmonary Medicine</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Health Care Providers</p>
+                    <p>Nurses</p>
+                    <p>Patients</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To update evidence-based recommendations for the use of antithrombotic therapy for the management of venous thromboembolism (VTE) disease</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Patients with venous thromboembolism (VTE) disease</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;">
+    <li>Choice of long-term (first 3 months) and extended (no scheduled stop date) anticoagulant
+    <ul style="list-style-type: disc;">
+        <li>Dabigatran </li>
+        <li>Rivaroxaban </li>
+        <li>Apixaban </li>
+        <li>Edoxaban </li>
+        <li>Vitamin K antagonist (VKA) </li>
+        <li>Low-molecular-weight heparin (LMWH) </li>
+    </ul>
+    </li>
+    <li>Duration of anticoagulant therapy </li>
+    <li>Aspirin for extended treatment of venous thromboembolism (VTE) </li>
+    <li>Consideration of whether and how to anticoagulate isolated distal deep vein thrombosis (DVT)
+    <ul style="list-style-type: disc;">
+        <li>Serial imaging of the deep veins for 2 weeks versus anticoagulation </li>
+        <li>Anticoagulation as for acute proximal DVT </li>
+    </ul>
+    </li>
+    <li>Catheter-directed thrombolysis (CDT) for acute DVT of the leg </li>
+    <li>Clinical surveillance supplemented by serial ultrasound imaging versus anticoagulation for subsegmental PE </li>
+    <li>Treatment of acute PE out of the hospital </li>
+    <li>Systemic thrombolytic therapy for PE </li>
+    <li>Catheter-based thrombus removal for the initial treatment of PE </li>
+    <li>Pulmonary thromboendarterectomy for the treatment of chronic thromboembolic pulmonary hypertension (CTEPH)</li>
+    <li>Thrombolytic therapy in patients with upper extremity DVT </li>
+    <li>Management of recurrent VTE on anticoagulant therapy
+    <ul style="list-style-type: disc;">
+        <li>Use of alternative anticoagulant such as LMWH </li>
+        <li>Use of higher dose therapy </li>
+    </ul>
+    </li>
+</ol>
+<p class="Note"><strong>Note</strong>: The following were considered but not recommended: use of inferior vena cava filter in addition to anticoagulation for acute DVT or pulmonary embolism (PE) and compression stockings to prevent postthrombotic syndrome (PTS).</p></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Recurrent venous thromboembolism (VTE) </li>
+    <li>Major bleeding </li>
+    <li>All-cause mortality/death </li>
+    <li>Postthrombotic syndrome (PTS)</li>
+    <li>Acute complications (leg pain, intracranial hemorrhage) </li>
+    <li>Patency </li>
+    <li>Quality of life </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Hand-searches of Published Literature (Primary Sources)</p>
+                    <p>Hand-searches of Published Literature (Secondary Sources)</p>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Selection of Topics and Key Questions</span></strong></p>
+<p>First, all of the topic areas from the 9th Edition of the Antithrombotic Guideline (AT9) were listed and potential new topics proposed by the panel members were added. Next, all panel members voted on whether each topic should be included in the update. Finally, the full panel reviewed the results of the vote and decided on the final list. The panel selected a total of 15 topics: 12 "update topics" from AT9 and 3 "new topics." For each topic, standardized questions in the Population, Intervention, Comparator, Outcome format were developed (see e-Table 2 in the Online Supplement [see the "Availability of Companion Documents" field]).</p>
+<p><strong><span style="text-decoration: underline;">Systematic Search</span></strong></p>
+<p>Systematic methods were used to search for evidence for each question. When available, the National Library of Medicine's medical subject headings keyword nomenclature was used. MEDLINE via PubMed was searched for original studies and the Cochrane Library for systematic reviews. For update topics, the literature from January 2005 to July 2014 was searched. For new topics, the literature from 1946 (MEDLINE inception) to July 2014 was searched. All searches were limited to English-language publications. Searches were augmented by checking reference lists of published articles and personal files, and with ongoing surveillance of the literature by panel members (see e-Figures 1-4 in the Online Supplement).</p>
+<p>When systematic reviews were identified, their quality was assessed according to the Assessment of Multiple Systematic Reviews tool. Those that were of highest quality and up to date were used as the source of evidence. In the absence of a satisfactory systematic review, the guideline panel did their own evidence synthesis using the primary studies identified in AT9 and in the updated search. If the panel judged that the identified randomized controlled trials (RCTs) were inadequate, the search was expanded to include prospective cohort studies.</p>
+<p><strong><span style="text-decoration: underline;">Study Selection</span></strong></p>
+<p>The criteria for selecting the evidence were based on the Population, Intervention, Comparator, Outcome elements of the standardized questions and the study design (see e-Table 2 in the Online Supplement). Standard processes (duplicate independent work with agreement checking and disagreement resolution) were followed for title and abstract screening, full text screening, data abstraction, and risk of bias assessment.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>Refer to the PRISMA flow diagrams in the online supplement (see the "Availability of Companion Documents" field) for details of the article selection process and numbers of studies identified and included.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p>Based on the Grades of Recommendations, Assessment, Development, and Evaluation (GRADE) approach, quality of evidence (also known as certainty of evidence) is defined as the extent to which confidence in the effect estimate is adequate to support a recommendation. The quality of evidence is categorized as high (A level), moderate (B level), or low (includes very low) (C level). The rating of the quality of evidence reflects the strengths and limitations of the body of evidence and was based on the study design, risk of bias, imprecision, inconsistency, indirectness of results, and likelihood of publication bias, in addition to factors specific to observational studies (see the "Rating Scheme for the Strength of the Recommendations" field).</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Meta-Analysis</p>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><span style="text-decoration: underline;"><strong>Data Abstraction and Data Analysis</strong></span></p>
+<p>Standard processes (duplicate independent work with agreement checking and disagreement resolution) were followed for title and abstract screening, full text screening, data abstraction, and risk of bias assessment. Data were abstracted on the characteristics of: study design, participants, intervention, control, outcomes, funding, and conflict of interest (COI). Risk of bias was assessed using the Cochrane Risk of Bias Tool in randomized trials and an adapted tool for observational studies (see e-Table 3 in the Online Supplement [see the "Availability of Companion Documents" field]).</p>
+<p>When existing systematic reviews were not available or were inadequate, meta-analyses were performed when appropriate. For each outcome of interest, the risk ratios of individual studies were calculated, then were pooled and statistical heterogeneity was assessed using the<em> I<sup>2</sup></em> statistic. A fixed-effects model was used when pooling data from two trials, or when one of the included trials was large relative to the others. Otherwise, a random-effects model was used. Review Manager software (version 5.2) was used to perform the meta-analyses and construct forest plots. Absolute effects were calculated by applying pooled relative risks to baseline risks, ideally estimated from valid prognostic observational data or, in the absence of the latter, from control group risks. When credible data from prognostic observational studies were not available, risk estimates from control groups of randomized controlled trials (RCTs) included in the meta-analyses were used (see e-Figures 5 and 6 in the Online Supplement).</p>
+<p><span style="text-decoration: underline;"><strong>Assessing Quality of Evidence</strong></span></p>
+<p>GRADEpro software (version 3.6) was used to generate tables to summarize the judgments of the quality of the evidence and the relative and absolute effects. The GRADE tables include Summary of Findings tables presented in the main text, and a more detailed version called Evidence Profiles presented in the Online Supplement. The evidence profiles also explicitly link recommendations to the supporting evidence.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus (Delphi)</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Composition and Selection of Topic Panel Members</span></strong></p>
+<p>The Guidelines Oversight Committee (GOC) at the American College of Chest Physicians (CHEST) appointed the editor for the guideline update. Then, the editor nominated the project executive committee, the chair, and the remaining panelists (see the Acknowledgments section in the original guideline document). The GOC approved all panelists after review of their qualifications and conflict of interest (COI) disclosures. The 15 panelists include general internists, thrombosis specialists, pulmonologists, hematologists, and methodologists.</p>
+<p>Throughout guideline development, panelists were required to disclose any potential financial or intellectual conflicts of interest (COI) by topic. Financial and intellectual conflicts of interest were classified as primary (more serious) or secondary (less serious) (see e-Table 1 in the Online Supplement [see the "Availability of Companion Documents" field]). Panelists with primary COIs were required to abstain from voting on related topic areas, but could participate in discussions provided they refrained from strong advocacy.</p>
+<p><strong><span style="text-decoration: underline;">Drafting of Recommendations</span></strong> </p>
+<p>Following the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach, the strength of a recommendation is defined as the extent to which the guideline panel can be confident that the desirable effects of an intervention outweigh its undesirable effects. The strength of recommendation was categorized as strong (grade 1) or weak/conditional (grade 2). In determining the strength of the recommendation, the panel considered the balance of desirable and undesirable consequences (typically tradeoff between recurrent venous thromboembolism [VTE] and bleeding events), quality of evidence, resource implications, and patients' average values and preferences for different outcomes and management options.</p>
+<p>The chair drafted the recommendations after the entire panel had reviewed the evidence and discussed the recommendation. Recommendations were then revised over a series of conference calls and through e-mail exchanges with the entire panel. A major aim was to ensure recommendations were specific and unambiguous.</p>
+<p><strong><span style="text-decoration: underline;">Methods for Achieving Consensus</span></strong> </p>
+<p>The panel used a modified Delphi technique to achieve consensus on each recommendation. This technique aims to minimize group interaction bias and to maintain anonymity among respondents. Using an online survey (<a href="/web/20180712184250/https://www.guideline.gov/Home/Disclaimer?id=50142&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.surveymonkey.com" title="SurveyMonkey Web site">www.surveymonkey.com</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184250im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>), panelists without a primary COI voted their level of agreement with each recommendation (including quality of evidence and strength of recommendation) based on a 5-point scale derived from the GRADE grid (strongly agree, weakly agree, neutral, weakly disagree, strongly disagree). Each panelist could also provide open-ended feedback on each recommendation with suggested wording edits or general remarks. To achieve consensus and be included in the final manuscript, each recommendation had to have at least 80% agreement (strong or weak) with a response rate of at least 75% of eligible panel members. All recommendations achieved consensus in the first round. The panel then used an iterative approach that involved review by, and approval from, all panel members for the writing of this manuscript. </p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">American College of Chest Physicians (CHEST) Grading System</span></strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: American College of Chest Physicians (CHEST) Grading System">
+    <thead>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="col">Grade of Recommendation</th>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="col">Balance of Benefit vs. Risk and Burdens (Strength of the Recommendation: Level 1 or 2)</th>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="col">Methodologic Strength of Supporting Evidence (Quality of Body of Evidence: A, B, C, or CB)</th>
+            <th valign="top" style="font-weight: bold; text-align: center;" scope="col">Implications</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" colspan="4" scope="row">Graded evidence-based guideline recommendations</th>
+        </tr>
+        <tr>
+            <td valign="top">Strong recommendation, high-quality evidence (1A)</td>
+            <td valign="top">Benefits clearly outweigh risk and burdens or vice versa</td>
+            <td valign="top">Consistent evidence from randomized controlled trials (RCTs) without important limitations or exceptionally strong evidence from observational studies</td>
+            <td valign="top">Recommendation can apply to most patients in most circumstances. Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <td valign="top">Strong recommendation, moderate-quality evidence (1B)</td>
+            <td valign="top">Benefits clearly outweigh risk and burdens or vice versa</td>
+            <td valign="top">Evidence from RCTs with important limitations (inconsistent results, methodologic flaws, indirect or imprecise), or very strong evidence from observational studies</td>
+            <td valign="top">Recommendation can apply to most patients in most circumstances. Higher-quality research may well have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <td valign="top">Strong recommendation, low- or very-low-quality evidence (1C)</td>
+            <td valign="top">Benefits clearly outweigh risk and burdens or vice versa</td>
+            <td valign="top">Evidence for at least one critical outcome from observational studies, case series, or from RCTs with serious flaws or indirect evidence</td>
+            <td valign="top">Recommendation can apply to most patients in many circumstances. Higher-quality research is likely to have an important impact on confidence in the estimate of effect and may well change the estimate.</td>
+        </tr>
+        <tr>
+            <td valign="top">Weak recommendation, high-quality evidence (2A)</td>
+            <td valign="top">Benefits closely balanced with risks and burden</td>
+            <td valign="top">Consistent evidence from RCTs without important limitations or exceptionally strong evidence from observational studies</td>
+            <td valign="top">The best action may differ depending on circumstances or patient's or societal values. Further research is very unlikely to change confidence in the estimate of effect.</td>
+        </tr>
+        <tr>
+            <td valign="top">Weak recommendation, moderate-quality evidence (2B)</td>
+            <td valign="top">Benefits closely balanced with risks and burden</td>
+            <td valign="top">Evidence from RCTs with important limitations (inconsistent results, methodologic flaws, indirect or imprecise) or very strong evidence from observational studies</td>
+            <td valign="top">Best action may differ depending on circumstances or patient's or societal values. Higher-quality research may well have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+        <tr>
+            <td valign="top">Weak recommendation, low- or very-low-quality evidence (2C)</td>
+            <td valign="top">Uncertainty in the estimates of benefits, risks, and burden; benefits, risk, and burden may be closely balanced</td>
+            <td valign="top">Evidence for at least one critical outcome from observational studies, case series, or RCTs, with serious flaws or indirect evidence </td>
+            <td valign="top">Other alternatives may be equally reasonable. Higher-quality research is likely to have an important impact on confidence in the estimate of effect and may well change the estimate.</td>
+        </tr>
+        <tr>
+            <th valign="top" style="font-weight: bold; text-align: center;" colspan="4" scope="row">Nongraded consensus-based suggestions</th>
+        </tr>
+        <tr>
+            <td valign="top">Consensus-based (CB)</td>
+            <td valign="top">Uncertainty due to lack of evidence but expert opinion that benefits outweigh risk and burdens or vice versa</td>
+            <td valign="top">Insufficient evidence for a graded recommendation</td>
+            <td valign="top">Future research may well have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>The CAVENT Study reported that catheter-directed thrombolysis (CDT) reduced postthrombotic syndrome (PTS), did not alter quality of life, and appears to be cost-effective.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>External reviewers who were not members of the expert panel reviewed the guideline before it was published. These reviewers included content experts, a methodological expert, and a practicing clinician. The final manuscript was reviewed and approved by the American College of Chest Physicians (CHEST) Guidelines Oversight Committee (GOC), the CHEST Board of Regents, and the <em>CHEST</em> journal.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified and graded for each recommendation (see the "Major Recommendations" field).</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Prevention of recurrent venous thromboembolism (VTE) </li>
+    <li>Prevention of postthrombotic syndrome (PTS) with catheter-directed thrombolysis (CDT) </li>
+    <li>Prevention of chronic complications of PTS </li>
+</ul>
+<p>See the "Summary of the Evidence" sections of the original guideline document for a discussion of the relative risks and benefits of each recommendation as well as the patient subgroups most and least likely to benefit from each recommendation.</p></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><div class="content_para"><p>Refer to Table 11 in the original guideline document for risk factors for bleeding with anticoagulant therapy and estimated risk of major bleeding in low-, moderate-, and high-risk categories.</p>
+<p>See the "Summary of the Evidence" sections of the original guideline
+document for a discussion of the relative risks and benefits of each
+recommendation as well as the patient subgroups most and least likely to
+benefit from each recommendation.</p></div></p>
+
+            </div>
+                <h2 id="430" class="accordion-title section-430 is-active" role="tab" aria-expanded="true"><a href="#">Contraindications</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Contraindications</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Non-vitamin K oral anticoagulant (NOACs) are contraindicated if international normalized ratio (INR) is raised because of liver disease. </li>
+    <li>NOACs and low-molecular-weight heparin (LMWH) are contraindicated with severe renal impairment. </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Contraindications to Use of Thrombolytic Therapy (Both Systemic and Locally Administered)</span></strong></p>
+<p><strong>Major Contraindications</strong><sup>a</sup> </p>
+<ul style="list-style-type: disc;">
+    <li>Structural intracranial disease </li>
+    <li>Previous intracranial hemorrhage </li>
+    <li>Ischemic stroke within 3 months </li>
+    <li>Active bleeding </li>
+    <li>Recent brain or spinal surgery </li>
+    <li>Recent head trauma with fracture or brain injury </li>
+    <li>Bleeding diathesis </li>
+</ul>
+<p><strong>Relative Contraindications</strong><sup>b</sup> </p>
+<ul style="list-style-type: disc;">
+    <li>Systolic blood pressure (BP) &gt;180 mmHg </li>
+    <li>Diastolic BP &gt;110 mmHg </li>
+    <li>Recent bleeding (nonintracranial) </li>
+    <li>Recent surgery </li>
+    <li>Recent invasive procedure </li>
+    <li>Ischemic stroke more than 3 months previously </li>
+    <li>Anticoagulated (e.g., vitamin K antagonist [VKA] therapy) </li>
+    <li>Traumatic cardiopulmonary resuscitation </li>
+    <li>Pericarditis or pericardial fluid </li>
+    <li>Diabetic retinopathy </li>
+    <li>Pregnancy </li>
+    <li>Age &gt;75 years </li>
+    <li>Low body weight (e.g., &lt;60 kg) </li>
+    <li>Female </li>
+    <li>Black race </li>
+</ul>
+<p class="Note"><sup>a</sup>The presence of major contraindications usually precludes use of thrombolytic therapy; consequently, these factors have not been well studied as risk factors for bleeding associated with thrombolytic therapy. Patients with 1 or more major contraindication are usually considered to be "high risk for bleeding with thrombolytic therapy." The factors listed in this list are consistent with other recommendations for the use of thrombolytic therapy in patients with pulmonary embolism (PE).</p>
+<p class="Note"><sup>b</sup>Risk factors for bleeding during anticoagulant therapy that are noted in Table 11 in the original guideline document that are not included in this table are also likely to be relative contraindications to thrombolytic therapy. The increase in bleeding associated with a risk factor will vary with: (1) severity of the risk factor (e.g., extent of trauma or recent surgery) and (2) temporal relationships (e.g., interval from surgery or a previous bleeding episode; believed to decrease markedly after approximately 2 weeks). Risk factors for bleeding at critical sites (e.g., intracranial, intraocular) or noncompressible sites are stronger contraindications for thrombolytic therapy. Depending on the nature, severity, temporality, and number of relative contraindications, patients may be considered "high risk of bleeding with thrombolytic therapy" or "non-high risk for thrombolytic therapy." Patients with no risk factors, 1-2 minor risk factors (e.g., female and black race) are usually considered "low risk of bleeding with thrombolytic therapy." Among 32,000 Medicare patients (&ge;65 years) with myocardial infarction who were treated with thrombolytic therapy, the following factors were independently associated with intracranial haemorrhage: age &ge;75 years (odds ratio [OR], 1.6); black (OR, 1.6); female (OR, 1.4); previous stroke (OR, 1.5); systolic BP &ge;160 mmHg (OR, 1.8); women &le;65 kg or men &le;80 kg (OR, 1.5); INR &gt;4 (OR, 2.2). The rate of intracranial hemorrhage increased from 0.7% with 0 or 1 of these risk factors, to 4.1% with &ge;5 risk factors. Among 32,000 patients with myocardial infraction who were treated with thrombolytic therapy in 5 clinical trials, the following factors were independently associated with moderate or severe bleeding: older age (OR, 1.04 per year); black (OR, 1.4); female (OR, 1.5); hypertension (OR, 1.2); lower weight (OR, 0.99 per kg). The guideline panel estimates that systemic thrombolytic therapy is associated with relative risk of major bleeding of 3.5 within 35 days (relative risk [RR], approximately 7 for intracranial bleeding); about three-quarters of the excess of major bleeds with thrombolytic therapy occur in the first 24 hours.</p></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><div class="content_para"><p>American College of Chest Physician (CHEST) guidelines are intended for general information only, are not medical advice, and do not replace professional medical care and physician advice, which always should be sought for any medical condition. The complete disclaimer for this guideline can be accessed at <a href="/web/20180712184250/https://www.guideline.gov/Home/Disclaimer?id=50142&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.chestnet.org%2fGuidelines-and-Resources" title="CHEST Journal Web site">http://www.chestnet.org/Guidelines-and-Resources</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184250im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>An implementation strategy was not provided.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Living with Illness</p>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Safety</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Kearon C, Akl EA, Ornelas J, Blaivas A, Jimenez D, Bounameaux H, Huisman M, King CS, Morris TA, Sood N, Stevens SM, Vintch JR, Wells P, Woller SC, Moores L. Antithrombotic therapy for VTE disease: CHEST guideline and expert panel report. Chest. 2016 Feb;149(2):315-52. [239 references] <a href="https://web.archive.org/web/20180712184250/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=26867832" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712184250im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2016 Feb</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>American College of Chest Physicians - Medical Specialty Society</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>This guideline was supported solely by internal funds from The American College of Chest Physicians (CHEST).</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Antithrombotic Therapy for VTE Disease Expert Panel</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Panel Members</em>: Clive Kearon, MD, PhD (<em>Panel Chair</em>); Elie A. Akl, MD, MPH, PhD; Joseph Ornelas, PhD; Allen Blaivas, DO, FCCP; David Jimenez, MD, PhD, FCCP; Henri Bounameaux, MD; Menno Huisman, MD, PhD; Christopher S. King, MD, FCCP; Timothy A. Morris, MD, FCCP; Namita Sood, MD, FCCP; Scott M. Stevens, MD; Janine R. E. Vintch, MD, FCCP; Philip Wells, MD; Scott C. Woller, MD; COL Lisa Moores, MD, FCCP</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Financial/Nonfinancial Disclosures</span></strong></p>
+<p>The authors have reported to <em>CHEST</em> the following conflicts of interest: In the past 3 years, E. A. A. was an author on a number of systematic reviews on anticoagulation in patients with cancer. H. B. has received compensation for participation on advisory committees with speaking engagements sponsored by Sanoﬁ-Aventis, Bayer Healthcare, and Daiichi-Sankyo. His institution has received grant funding (no salary support) from Daiichi-Sankyo for studying venous thromboembolism (VTE) treatment. He has also served as a coauthor of original studies using rivaroxaban (EINSTEIN, EINSTEIN Pulmonary Embolism [PE]) and edoxaban (Hokusai-VTE study). M. H. has received grant funding and has delivered talks related to long-term and extended anticoagulation and treatment of subsegmental PE. He has also authored several papers related to long-term and extended anticoagulation, treatment of subsegmental PE, and compression stocking in preventing postthrombotic syndrome (PTS). D. J.'s institution has received grant funding (no salary support) from Instituto de salud Carlos III, Sociedad Espa&ntilde;ola de Neumolog&iacute;a y Cirug&iacute;a Tor&aacute;cica, and NeumoMadrid for studying PE. He was a member of Steering Committee of the Pulmonary Embolism Thrombosis Study (PEITHO), a principal investigator of an original study related to the role of the inferior vena cava ﬁlter in addition to anticoagulation in patients with acute deep vein thrombosis (DVT) or PE and has participated in the derivation of scores for identiﬁcation of low-risk PE. He has delivered talks related to treatment of acute PE. C. K. has been compensated for speaking engagements sponsored by Boehringer Ingelheim and Bayer Healthcare related to VTE therapy. His institution has received grant funding (no salary support) from the National Institutes of Health related to the topic of catheter-assisted thrombus removal in patients with leg DVT. He has also published many studies related to long-term anticoagulation and compression stockings in preventing PTS. L. M. has frequently lectured on the duration of long-term anticoagulation and is a coauthor on several risk-stratiﬁcation papers. She has received honoraria from CHEST Enterprises for VTE talks. T. M. and C. S. K. have received honoraria from Chest Enterprises for VTE Prep Courses. T. M.'s institution has received grant funding (no salary support) from Portola Pharmaceuticals for the Acute Medically Ill VTE Prevention With Extended Duration Betrixaban Study (APEX) related to extended prophylaxis against VTE with betrixaban. T. M.'s institution received grant support from Bayer Pharmaceuticals for a research project concerning the etiology of chronic thromboembolic pulmonary hypertension (CTEPH). He has also authored textbook chapters related to thrombolytic interventions in patients with acute PE and pulmonary thromboendarterectomy in CTEPH. S. M. S.'s and S. C. W.'s institution has received grant funding (no salary support) from the Canadian Institutes of Health for the D-dimer Optimal Duration Study Phase II (DODS-Extension), from Washington University via the National Institutes of Health (Genetic Informatics Trial), Bayer related to VTE (EINSTEIN studies), and from Bristol-Myers Squibb related to apixaban for the Secondary Prevention of Thromboembolism (Apixaban for the Secondary prevention of Thromboembolism: A prospective Randomized Outcome pilot study among patients with the Antiphospholipid Syndrome). J. R. E. V.'s institution has received grant funding (no salary support) from Bristol-Myers Squibb for evaluating the role of apixaban for long-term treatment of VTE. P. W. is a coinvestigator on a grant regarding the treatment of subsegmental PE. He has authored several studies and grants related to the long term and extended anticoagulation (using vitamin K antagonists [VKAs] and the direct oral anticoagulants). P. W. has received grant funding from Bristol-Myers Squibb and has received honoraria for talks from Bayer. E. A. A., H. B., C. K., P. W., and S. C. W. participated in the last edition of the CHEST Antithrombotic Therapy for VTE Disease Guidelines (AT9). None declared (A. B., J. O., and N. S.).</p></div></p>
+                        <h3><a href="#">Guideline Endorser(s)</a></h3>
+                    <p>American Association for Clinical Chemistry, Inc. - Professional Association</p>
+                    <p>American College of Clinical Pharmacy - Medical Specialty Society</p>
+                    <p>American Society of Health-System Pharmacists - Professional Association</p>
+                    <p>International Society on Thrombosis and Haemostasis - Professional Association</p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline is updates a previous version: Kearon C, Akl EA, Comerota AJ, Prandoni P, Bounameaux H, Goldhaber SZ, Nelson ME, Wells PS, Gould MK, Dentali F, Crowther M, Kahn SR. Antithrombotic therapy for VTE disease: antithrombotic therapy and prevention of thrombosis, 9th ed: American College of Chest Physicians evidence-based clinical practice guidelines. Chest. 2012 Feb;141(2 Suppl):e419S-94S. [453 references]</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712184250/https://www.guideline.gov/Home/Disclaimer?id=50142&amp;contentType=summary&amp;redirect=http%3a%2f%2fjournal.publications.chestnet.org%2farticle.aspx%3farticleid%3d2479255" title="CHEST Journal Web site">CHEST Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184250im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. Also available to CHEST Journal subscribers through the <a href="/web/20180712184250/https://www.guideline.gov/Home/Disclaimer?id=50142&amp;contentType=summary&amp;redirect=http%3a%2f%2fjournal.publications.chestnet.org%2fpublic%2fmobile.aspx" title="CHEST Journal Web site">CHEST app</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184250im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> for iPhone, iPad, and iPod Touch.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Antithrombotic therapy for VTE disease: CHEST guideline and Expert Panel report. Online supplement. Glenview (IL): American College of Chest Physicians; 2016 Feb. 45 p. Available from the <a href="/web/20180712184250/https://www.guideline.gov/Home/Disclaimer?id=50142&amp;contentType=summary&amp;redirect=http%3a%2f%2fjournal.publications.chestnet.org%2fdata%2fJournals%2fCHEST%2f934919%2f11026_mmc1.pdf" title="CHEST Journal Web site">CHEST Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184250im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Antithrombotic therapy for VTE disease: CHEST guideline and Expert Panel report. Audio supplement. [internet]. Glenview (IL): American College of Chest Physicians; 2016 Feb. Available from the <a href="/web/20180712184250/https://www.guideline.gov/Home/Disclaimer?id=50142&amp;contentType=summary&amp;redirect=http%3a%2f%2fjournal.publications.chestnet.org%2fdata%2fJournals%2fCHEST%2f934919%2f11026_mmc2.mp3" title="CHEST Journal Web site">CHEST Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184250im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Lewis SZ, Diekemper RL, Ornelas J, Casey KR. Methodologies for the development of CHEST guidelines and Expert Panel reports. Chest. 2014 Jul;146(1):182-92. Available from the <a href="/web/20180712184250/https://www.guideline.gov/Home/Disclaimer?id=50142&amp;contentType=summary&amp;redirect=http%3a%2f%2fjournal.publications.chestnet.org%2farticle.aspx%3farticleid%3d1885092" title="CHEST Journal Web site">CHEST Journal Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184250im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This summary was completed by ECRI on July 30, 2001. The information was verified by the guideline developer on October 17, 2001. This NGC summary was updated by ECRI on December 8, 2004. The updated information was verified by the guideline developer on January 12, 2005. This summary was updated by ECRI on March 6, 2007 following the U.S. Food and Drug Administration (FDA) advisory on Coumadin (warfarin sodium). This summary was updated by ECRI Institute on June 22, 2007 following the U.S. Food and Drug Administration (FDA) advisory on heparin sodium injection. This summary was updated by ECRI Institute on September 7, 2007 following the revised U.S. Food and Drug Administration (FDA) advisory on Coumadin (warfarin). This summary was updated by ECRI Institute on March 14, 2008 following the updated FDA advisory on heparin sodium injection. This NGC summary was updated by ECRI Institute on November 25, 2008. The updated information was verified by the guideline developer on January 7, 2009. This summary was updated by ECRI Institute on January 15, 2010 following the U.S. Food and Drug Administration (FDA) advisory on Voltaren Gel. This summary was updated by ECRI Institute on July 27, 2010 following the FDA drug safety communication on Heparin. This NGC summary was updated by ECRI Institute on May 2, 2012. This summary was updated by ECRI Institute on January 23, 2013 following the U.S. Food and Drug Administration advisory on Pradaxa (dabigatran etexilate mesylate). This summary was updated by ECRI Institute on March 10, 2014 following the U.S. Food and Drug Administration advisory on Low Molecular Weight Heparins. This summary was updated by ECRI Institute on September 18, 2015 following the U.S. Food and Drug Administration advisory on non-aspirin nonsteroidal anti-inflammatory drugs (NSAIDs). This summary was updated by ECRI Institute on July 25, 2016.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712184250/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712184250/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712184250/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712184250/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712184250/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712184250/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712184250/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712184250/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712184250/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712184250/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712184250/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712184250/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712184250/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712184250/https://www.guideline.gov/disclaimer?id=50142&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712184250im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712184250im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712184250/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712184250/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712184250/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712184250/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712184250/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712184250/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712184250/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712184250/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712184250/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712184250/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712184250/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712184250/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712184250/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712184250/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712184250/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712184250/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712184250/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712184250/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712184250/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712184250im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712184250im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712184250/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712184250im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712184250im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712184250/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712184250js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712184250js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 18:42:50 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:20:13 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 137.259 (3)
+  esindex: 0.009
+  captures_list: 165.868
+  CDXLines.iter: 16.283 (3)
+  PetaboxLoader3.datanode: 72.965 (4)
+  exclusion.robots: 0.808
+  exclusion.robots.policy: 0.771
+  RedisCDXSource: 7.465
+  PetaboxLoader3.resolve: 60.461
+  load_resource: 36.442
+-->

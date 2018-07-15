@@ -1,0 +1,957 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app22.us.archive.org';v.server_ms=174;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>WHO position paper on mammography screening. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712200802im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712200802im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712200802im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712200802im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712200802/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712200802im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712200802cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712200802js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712200802if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712200802/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712200802if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712200802/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712200802/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712200802/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712200802/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712200802im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712200802im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712200802im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712200802/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712200802/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712200802/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712200802/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712200802/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712200802/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712200802/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712200802/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712200802/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712200802/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712200802/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712200802/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712200802/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712200802/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712200802/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712200802/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712200802/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712200802/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712200802/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712200802/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712200802/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010705</li>
+            <li>2014
+            </li>            
+                                </ul>
+        <div>
+                <h1>WHO position paper on mammography screening.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712200802/https://www.guideline.gov/search?f_Guideline_Developer_String=World%20Health%20Organization&amp;fLockTerm=World%2BHealth%2BOrganization">World Health Organization</a></li>
+                        <li>   
+                                <a id="297" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>World Health Organization (WHO). WHO position paper on mammography screening. Geneva (Switzerland): World Health Organization (WHO); 2014. 78 p.  [51 references]</td></tr></table>                    <p><a href="/web/20180712200802/https://www.guideline.gov/Home/Disclaimer?id=49209&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.who.int%252fcancer%252fpublications%252fmammography_screening%252fen%252f">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712200802im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712200802/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712200802/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712200802/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712200802/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712200802/https://www.guideline.gov/search?f_ICD9CM_CUI=C0235653&amp;fLockTerm=Malignant+neoplasm+of+breast+(female)%2c+unspecified">Malignant neoplasm of breast (female), unspecified</a>
+ (174.9)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712200802/https://www.guideline.gov/search?f_MSH_CUI=C1458155&amp;fLockTerm=Breast+Neoplasms">Breast Neoplasms</a>
+, <a href="/web/20180712200802/https://www.guideline.gov/search?f_MSH_CUI=C0024671&amp;fLockTerm=Mammography">Mammography</a>
+, <a href="/web/20180712200802/https://www.guideline.gov/search?f_MSH_CUI=C0024870&amp;fLockTerm=Mass+Screening">Mass Screening</a>
+, <a href="/web/20180712200802/https://www.guideline.gov/search?f_MSH_CUI=C0043237&amp;fLockTerm=World+Health+Organization">World Health Organization</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712200802/https://www.guideline.gov/search?f_MTH_CUI=C0235653&amp;fLockTerm=Malignant+neoplasm+of+female+breast">Malignant neoplasm of female breast</a>
+, <a href="/web/20180712200802/https://www.guideline.gov/search?f_MTH_CUI=C1458155&amp;fLockTerm=Mammary+Neoplasms">Mammary Neoplasms</a>
+, <a href="/web/20180712200802/https://www.guideline.gov/search?f_MTH_CUI=C0024671&amp;fLockTerm=Mammography">Mammography</a>
+, <a href="/web/20180712200802/https://www.guideline.gov/search?f_MTH_CUI=C0203028&amp;fLockTerm=Screening+mammography">Screening mammography</a>
+, <a href="/web/20180712200802/https://www.guideline.gov/search?f_MTH_CUI=C0043237&amp;fLockTerm=World+Health+Organization">World Health Organization</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712200802/https://www.guideline.gov/search?f_PDQ_CUI=C0024671&amp;fLockTerm=mammography">mammography</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712200802/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0235653&amp;fLockTerm=Malignant+neoplasm+of+female+breast">Malignant neoplasm of female breast</a>
+ (372064008), <a href="/web/20180712200802/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0024671&amp;fLockTerm=Mammography">Mammography</a>
+ (71651007), <a href="/web/20180712200802/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1458155&amp;fLockTerm=Neoplasm+of+breast">Neoplasm of breast</a>
+ (126926005), <a href="/web/20180712200802/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0203028&amp;fLockTerm=Screening+mammography">Screening mammography</a>
+ (24623002)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712200802/https://www.guideline.gov/summaries/downloadcontent/ngc-10705?contentType=pdf" class="pdf">.PDF 115.4 kb</a></li>
+                            <li><a href="/web/20180712200802/https://www.guideline.gov/summaries/downloadcontent/ngc-10705?contentType=word" class="word">Word Document 312.1 kb</a></li>
+                            <li><a href="/web/20180712200802/https://www.guideline.gov/summaries/downloadcontent/ngc-10705?contentType=xml" class="xml">.XML 54.8 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712200802/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/49209/who-position-paper-on-mammography-screening" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712200802/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/49209/who-position-paper-on-mammography-screening" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712200802/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/49209/who-position-paper-on-mammography-screening&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712200802/mailto:/?Subject=AHRQ: WHO position paper on mammography screening.&amp;body=https://www.guideline.gov/summaries/summary/49209/who-position-paper-on-mammography-screening" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: WHO position paper on mammography screening. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Jan 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712200802/https://www.guideline.gov/summaries/citedownload/49209?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712200802/https://www.guideline.gov/summaries/citedownload/49209?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712200802/https://www.guideline.gov/summaries/citedownload/49209?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712200802/https://www.guideline.gov/summaries/citedownload/49209?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712200802/https://www.guideline.gov/summaries/citedownload/49209?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712200802/https://www.guideline.gov/summaries/citedownload/49209">RefWorks</a></li>
+                            <li><a href="/web/20180712200802/https://www.guideline.gov/summaries/citedownload/49209?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="49209" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>The definitions for the strength of the recommendations (<strong>strong, conditional</strong>) and the quality of evidence (<strong>high, moderate, low, very low</strong>) are provided at the end of the "Major Recommendations" field.</p>
+<p><strong><span style="text-decoration: underline;">Women Aged 50-69 Years</span></strong></p>
+<p><strong>Well-resourced Settings</strong></p>
+<p>In well-resourced settings, the World Health Organization (WHO) recommends organized, population-based mammography screening programmes for women aged 50 to 69 years if the conditions for implementing an organized programme specified in this guide are met by the health-care system, and if shared decision-making strategies are implemented so that women's decisions are consistent with their values and preferences. (<strong>Strong recommendation based on moderate quality evidence</strong>)</p>
+<p>WHO suggests a screening interval of two years. (<strong>Conditional recommendation based on low quality evidence</strong>)</p>
+<p><strong>Justification</strong>: Where feasible and affordable, organized mammography screening programmes represent so far the only population-based strategy that can reduce breast cancer mortality in women aged 50 to 69 years in well-resourced settings. While the balance between benefits and harms appears to be in favour of benefits, there is uncertainty as to the magnitude of the harms &ndash; particularly overdiagnosis and overtreatment. Breast cancer mortality is apparently decreasing in higher-income countries that have implemented mammography screening programmes, with the reduction probably due to both early detection and effective diagnosis and treatment. In addition, an organized screening programme, as opposed to an opportunistic screening programme, is able to ensure more efficient use of resources and equitable access to screening and management services.</p>
+<p>Screening every two years seems to provide the best trade-off between benefits and harms. Further research is required to evaluate the effect of screening intervals.</p>
+<p><strong>Limited Resource Settings with Relatively Strong Health Systems</strong></p>
+<p>In limited resource settings with relatively strong health systems, WHO suggests considering an organized, population-based mammography screening programme for women aged 50 to 69 years only if the conditions for implementing an organized programme specified in this guide are met by the health-care system, and if shared decision-making strategies are implemented so that women's decisions are consistent with their values and preferences. (<strong>Conditional recommendation based on moderate quality evidence</strong>)</p>
+<p>WHO suggests a screening interval of two years. (<strong>Conditional recommendation based on low quality evidence</strong>)</p>
+<p><strong>Justification</strong>: There is no direct evidence that mammography screening programmes are effective in limited resource settings with weak or relatively strong health systems. However, in many such settings breast cancer has become an important public health problem (with high incidence and mortality rates) that justifies an early-detection programme being put in place. Organized mammography screening programmes for women aged 50 to 69 years could be a viable option in some limited resource settings with relatively strong health systems (e.g., various upper-middle-income countries), provided the WHO conditions for an organized, population-based programme are fulfilled. Taking into consideration the experience from higher-income countries described in many observational studies, only organized, population-based screening programmes with comprehensive quality control systems can provide the best balance between benefits and harms and can ensure equitable services.</p>
+<p>Screening every two years seems to provide the best trade-off between benefits and harms in higher-resource settings and this may also apply to limited resource settings with relatively strong health systems.</p>
+<p><strong>Limited Resource Settings with Weak Health Systems</strong></p>
+<p>In limited resource settings with weak health systems, where the majority of women with breast cancer are diagnosed in late stages and mammography screening is not cost-effective and feasible, early diagnosis of breast cancer through universal access of women with symptomatic lesions to prompt and effective diagnosis and treatment should be high on the public health agenda. Clinical breast examination, a low-cost screening method, seems to be a promising approach for these settings and could be implemented when the necessary evidence from ongoing studies becomes available.</p>
+<p><strong><span style="text-decoration: underline;">Women Aged 40-49 Years</span></strong></p>
+<p><strong>Well-resourced Settings</strong></p>
+<p>In well-resourced settings, WHO suggests an organized, population-based screening programme for women aged 40 to 49 years only if such programme is conducted in the context of rigorous research, and monitoring and evaluation, if the conditions for implementing an organized programme specified in this guide are met by the health-care system, and if shared decision-making strategies are implemented so that women's decisions are consistent with their values and preferences. (<strong>Conditional recommendation based on moderate quality evidence</strong>)</p>
+<p><strong>Justification</strong>: On the basis of the limited evidence available, there is uncertainty as to the balance between benefits and harms of mammography screening programmes in women aged 40 to 49 years. The reduction in breast cancer mortality is proven in randomized controlled trials (RCTs); however, due to the much lower incidence rate of breast cancer in this age group and the somewhat lower sensitivity of mammography, the absolute benefits are small. On the other hand, harms &ndash; particularly in terms of cumulative false-positive rates &ndash; seem to be high. There is also uncertainty about the optimal screening interval. Therefore, there is a need for research in this age group.</p>
+<p><strong>Limited Resource Settings with Weak or Relatively Strong Health Systems</strong></p>
+<p>In limited resource settings with weak or relatively strong health systems, WHO recommends against the implementation of population-based screening programmes for women aged 40 to 49 years. (<strong>Strong recommendation based on moderate quality evidence</strong>)</p>
+<p><strong>Justification</strong>: Because the limited evidence of mammography screening programmes for women aged 40 to 49 years comes only from higher-income countries, there is a greater level of uncertainty about the effects of these programmes in limited resource settings. Furthermore, although in such settings the proportion of women aged 40 to 49 years presenting with breast cancer may be relatively high (mainly due to demographic factors), the absolute risk of developing breast cancer in this age group is low compared to the risk in women over age 50. In limited resource settings, health investments should be made in interventions that promise a greater net benefit.</p>
+<p>In limited resource settings, where the majority of women with breast cancer are diagnosed in late stages, and mammography screening is not cost-effective and feasible, early diagnosis of breast cancer through universal access of women with symptomatic lesions to prompt and effective diagnosis and treatment should be high on the public health agenda. Clinical breast examination, a low-cost screening method, seems to be a promising approach for these settings and could be implemented when the necessary evidence from ongoing studies becomes available.</p>
+<p><strong><span style="text-decoration: underline;">Women Aged 70-75 Years</span></strong></p>
+<p><strong>Well-resourced Settings</strong></p>
+<p>In well-resourced settings, WHO suggests an organized, population-based screening programme for women aged 70 to 75 years only if the programme is conducted in the context of rigorous research, the conditions for implementing an organized programme specified in this guide are met by the health-care system, and if shared decision-making strategies are implemented so that women's decisions are consistent with their values and preferences. (<strong>Conditional recommendation based on low quality evidence</strong>)</p>
+<p><strong>Justification</strong>: There is uncertainty regarding the balance between benefits and harms of mammography screening programmes for women aged 70 to 75 years because of the limited and low level of evidence available. While existing data indicate an effect that is comparable to the effect in women aged 50 to 69 years, harms &ndash; particularly in terms of overdiagnosis and overtreatment &ndash; seem to be very high. Therefore, there is a great need for research in this area.</p>
+<p><strong>Limited Resource Settings with Weak or Relatively Strong Health Systems</strong></p>
+<p>In limited resource settings with weak or relatively strong health systems, WHO recommends against the implementation of population-based screening programmes for women aged 70 to 75 years. (<strong>Strong recommendation based on low quality evidence</strong>)</p>
+<p><strong>Justification</strong>: Because the scarce evidence available on mammography screening programmes for women aged 70 to 75 years comes only from higher-income countries, there is a greater level of uncertainty about the effects of these programmes in limited resource settings. Moreover, the Guideline Development Group expressed the view that resources should be allocated to interventions with a clear net benefit. In limited resource settings generally, there are many other competing problems and a significant proportion of premature deaths correspond to avoidable causes for which there are cost-effective and feasible interventions.</p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong>:</p>
+<p><strong>Grading of Recommendations Assessment, Development and Evaluation (GRADE) Categories of Quality of Evidence</strong></p>
+<p><strong>High</strong>: The Guidelines Development Group is very confident that the true effect lies close to that of the estimate of the effect.</p>
+<p><strong>Moderate</strong>: The Guidelines Development Group is moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</p>
+<p><strong>Low</strong>: Confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the true effect.</p>
+<p><strong>Very low</strong>: The group has very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of the effect</p>
+<p><strong>Strength of Recommendations</strong></p>
+<p><strong>Strong recommendations</strong>: With strong recommendations, the guideline communicates the message that the desirable effects of adherence to the recommendation outweigh the undesirable effects. This means that in most situations the recommendation can be adopted as policy. </p>
+<p><strong>Conditional recommendations</strong>: These are made when there is greater uncertainty about the four factors above or if local adaptation has to account for a greater variety in values and preferences, or when resource use makes the intervention suitable for some, but not for other locations. This means that there is a need for substantial debate and involvement of stakeholders before this recommendation can be adopted as policy.</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Breast cancer</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Prevention</p>
+                    <p>Screening</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Family Practice</p>
+                    <p>Obstetrics and Gynecology</p>
+                    <p>Oncology</p>
+                    <p>Preventive Medicine</p>
+                    <p>Radiology</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Health Care Providers</p>
+                    <p>Nurses</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                    <p>Public Health Departments</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>To provide policy-makers, health-care managers, and health-care providers with clear, objective and independent guidance on the balance between benefits and harms of mammography screening in women of different age groups </li>
+    <li>To disseminate the recommendations based on this guidance among policy-makers, health-care providers, health-care managers, women and the general public in order to promote informed decisions in this area </li>
+</ul></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Asymptomatic women at average risk for breast cancer in different age groups (40-49 years, 50-69 years, and 70 years and above)</p>
+<p class="Note"><strong>Note</strong>: The scope of the guideline does not include women with an elevated risk for breast cancer independent of age, or women with breast symptoms or a palpable mass.</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Mammography screening every two years (women aged 50-69 years) </li>
+    <li>Organized, population based mammography screening programme
+    <ul style="list-style-type: disc;">
+        <li>Women aged 40-49 years </li>
+        <li>Women aged 70-75 years </li>
+    </ul>
+    </li>
+</ol></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Breast cancer-specific mortality </li>
+    <li>Health-related quality of life </li>
+    <li>Disability-adjusted life years </li>
+    <li>All-cause mortality </li>
+    <li>Overtreatment </li>
+    <li>Reduction in mastectomies </li>
+    <li>Overdiagnosis </li>
+    <li>Cumulative false-positives </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Hand-searches of Published Literature (Primary Sources)</p>
+                    <p>Hand-searches of Published Literature (Secondary Sources)</p>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p>The systematic review followed an umbrella design (overview of reviews). Eligible studies were systematic reviews or evidence synthesis reports that evaluated mammography screening outcomes of interest in women at average risk, regardless of the study location or the language of the report. Databases were searched from the inception of each database up to December 2012 for relevant studies published in any language. The databases included EMBASE (1988 to 2013 Week 03), MEDLINE(R) In-process &amp; other non-indexed citations and Ovid MEDLINE(R) (1946 to present), EBM Reviews and Cochrane Database of Systematic Reviews (2005 to December 2012). The search strategy was designed and conducted by an experienced librarian with input from the World Health Organization (WHO) methodologist. Controlled vocabulary supplemented with keywords was used to search for systematic reviews of outcomes of mammography screening. Additional references were identified by contacting experts and reviewing bibliographies of identified studies. The strategy used is described in the "Search Strategy" section in the original guideline document.</p>
+<p>The most relevant reviews were chosen on the basis of: (1) the most comprehensive (summarizing the largest number of studies); (2) the most recent (published in the last 5 years for systematic reviews of randomized trials and observational studies and in the last 10 years for systematic reviews of psychological impact and quality of life); and (3) the highest quality, as measured by the AMSTAR tool for assessing the methodological quality of systematic reviews. If two systematic reviews summarized the same trials, the one with the higher AMSTAR score was chosen. In general, systematic reviews summarizing randomized trials had higher quality (score &gt;10) whereas those summarizing observational studies had moderate scores (5-6) or did not describe details sufficient for quality assessment. Systematic review selection, appraisal and data extraction were performed by a single methodologist considering the availability of multiple high-quality systematic reviews. Searches for newer individual studies were not performed because there haven't been new randomized trials of mammography since 1991 nor are they expected to be conducted, and because the systematic reviews of the observational studies are very recent. Outcomes of interest were determined a priori by a WHO Expert Panel on the basis of importance for decision-making through a voting and consensus process.</p>
+<p>The PICO (Population, Intervention, Comparison, Outcomes) question for this evidence review and the associated WHO statement are described in Table 1 of the original guideline document.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>The search yielded 229 citations of which 14 systematic reviews were selected (four summarized randomized trial data, eight summarized observational studies, and two summarized outcomes relevant to mammography- associated anxiety and quality of life). Reviews are described in Tables 3-5 in the original guideline document. Two additional systematic reviews were evaluated and their conclusions are presented in the results section of the original guideline but were not used in the evidence tables because their data, list of included studies, and conclusions greatly overlapped with other reviews.</p>
+<p>See the PRISMA flow diagram in the original guideline document for more information on the literature search results.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Grading of Recommendations Assessment, Development and Evaluation (GRADE) Categories of Quality of Evidence</span></strong></p>
+<p><strong>High</strong>: The Guidelines Development Group is very confident that the true effect lies close to that of the estimate of the effect.</p>
+<p><strong>Moderate</strong>: The Guidelines Development Group is moderately confident in the effect estimate: the true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</p>
+<p><strong>Low</strong>: Confidence in the effect estimate is limited: the true effect may be substantially different from the estimate of the true effect.</p>
+<p><strong>Very low</strong>: The group has very little confidence in the effect estimate: the true effect is likely to be substantially different from the estimate of the effect</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p>The quality of evidence was rated using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) framework. The quality of evidence is rated down for increased risk of bias, indirectness, imprecision, publication bias and inconsistency; and is rated up for a large effect size, dose-response effect, and when all plausible confounding is considered to strengthen the association. The small number of existing trials and the heterogeneity of the observational studies did not allow for a formal statistical evaluation of publication bias; hence, this is not used to rate down the evidence although it may have existed. When existing GRADE evidence profiles were found, these were reviewed across multiple sources and their data were verified before being adapted for this report. When GRADE profiles were unavailable, they were created <em>de novo</em>. Organized population-based cancer screening programmes were defined as those that target all the population at risk in a given geographical area with a high specific cancer burden and that offer the same level of screening, diagnosis and treatment services to all participants; and include quality control strategies that assure high quality of screening, assessment and therapy as well as adequate follow-up.</p>
+<p><strong><span style="text-decoration: underline;">Available Mammography Randomized Controlled Trials</span></strong></p>
+<p>The body of evidence used in the available systematic reviews and existing guidelines on mammography screening mainly included seven randomized controlled trials enrolling 600,000 women (see Table 6 in the original guideline document). The risk of bias in these trials remains a controversial topic among experts and is likely to be moderate overall. The trials suffer indirectness to contemporary practice since the care of breast cancer (particularly surgical practice and mastectomy) has significantly changed over the last 30 to 40 years. Furthermore, the trials provide indirect evidence to screening mammography in settings with high participation rates, a service-based approach, and quality control strategies that assure adequate follow-up.</p>
+<p>See Annex B in the original guideline document for additional information, including outcome data sources and evidence profiles.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Development Process</span></strong></p>
+<p><strong>Review Groups</strong></p>
+<p><em>World Health Organization (WHO) Steering Group</em></p>
+<p>Members of the Steering Group were WHO staff members working in areas related to this topic at WHO headquarters and regional offices. The Steering Group contributed to the planning and oversight of the process of guideline development, reviewed the research questions, advised on the establishment of the Guideline Development Group (GDG) and the External Review Group (ERG), ensured that the process was carried out with objectivity and independence, and will provide the necessary support to mobilize resources for the dissemination, country adaptation and implementation of the guideline.</p>
+<p><em>GDG</em></p>
+<p>Members of the GDG were invited in their individual capacities. They represented different disciplines and diverse socioeconomic and geographical settings. The GDG was involved in the development of the guideline and the central task of the members was to produce evidence-based recommendations, taking into account diverse values and preferences. Individuals with very strong and passionate views on the subject were excluded from the GDG. The methodologist of the group was selected from the list provided by the Guideline Review Committee (GRC) secretariat and has not worked or published on mammography screening.</p>
+<p><em>Chairs of the GDG</em></p>
+<p>In consultation with the GRC secretariat it was decided to have two co-chairs for the GDG: the methodologist to facilitate discussions on methodological issues, and a GDG member with experience in assessment and management of screening programmes to guide discussions on content issues during the decision-making process. Both co-chairs were selected on the basis of their expertise and capacity in leading group discussions in a professional and unbiased manner.</p>
+<p><em>External Review Group</em></p>
+<p>Members of this group represented different geographical regions. The members were invited to review the completed draft of the guideline and were advised that the recommendations already agreed by the GDG could not be changed. Members included experts and stakeholders who had an interest in the topic and were likely to appraise the output from different scientific or philosophical perspectives, but who would eventually support the implementation of the recommendations.</p>
+<p><strong>Decision-making</strong></p>
+<p>Members of the WHO Steering Group, with the support of the guideline methodologists, drafted the scope of the guideline, refined the PICO (patient, intervention, comparison, outcome) questions and identified possible outcomes. The GDG agreed on the scoping document, selected the critical and important outcomes, provided input on the Evidence Report, and decided on the direction and strength of the recommendations during the GDG consensus meeting. An evidence-to-recommendations decision tool, which was adapted from a template provided by the GRC secretariat, was used to guide the decision-making process (see the template in Annex A of the original guideline document). The recommendations were agreed by consensus. This means that recommendations were accepted when the majority of the group members agreed with them and there was no major objection to acceptance.</p>
+<p>After the meeting, the revised Evidence Report, the draft meeting report and the draft recommendations were circulated to the entire group. One GDG member who attended the consensus meeting did not agree later on with the recommendations and stated he/she could not co-author the document. Another member, who did not attend the consensus meeting, declared that the agreed recommendations were in conflict with the position of a regional patients' organization and, therefore, he/she could not endorse them. These two individuals had their names removed from the list of members of the GDG.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Strength of Recommendations</span></strong></p>
+<p><strong>Strong recommendations</strong>: With strong recommendations, the guideline communicates the message that the desirable effects of adherence to the recommendation outweigh the undesirable effects. This means that in most situations the recommendation can be adopted as policy.</p>
+<p><strong>Conditional recommendations</strong>: These are made when there is greater uncertainty about the four factors above or if local adaptation has to account for a greater variety in values and preferences, or when resource use makes the intervention suitable for some, but not for other locations. This means that there is a need for substantial debate and involvement of stakeholders before this recommendation can be adopted as policy.</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>Cost-effectiveness analysis carried out by the World Health Organization (WHO) and partners in various middle-income countries using the WHO CHOICE methodology showed that mammography screening was not cost-effective for a lower-middle income country. In contrast, it was cost-effective for various upper-middle income countries. However, regional differences within countries were not taken into account. Furthermore, organized mammography screening programmes may not be feasible for nationwide implementation in the short or medium term in these countries due to fragmented health systems with uneven or limited capacity, resulting in lack of universal access to adequate diagnosis and treatment of symptomatic breast disease. Regional programmes may be an option in populations with an appropriate burden of breast cancer if sufficient resources are provided to implement and sustain an organized population based screening programme.</p>
+<p>Limited resource settings, where the majority of women with breast cancer are diagnosed in late stages and mammography screening is not cost-effective or feasible, should focus available resources on early diagnosis by ensuring universal access of women with symptomatic lesions to prompt and effective diagnosis and treatment. Low-cost screening approaches such as clinical breast examination, which seems to be a promising approach for these settings, could be implemented when the necessary evidence from ongoing studies becomes available.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>The final draft guideline, including the recommendations, was sent to the seven External Review Group (ERG) members for review. Members of the ERG were advised that it was not possible to modify the recommendations already agreed by consensus by the Guideline Development Group (GDG). One reviewer decided at this stage to abstain from participating without providing a reason. Two reviewers agreed with some of the recommendations but disagreed with others. Four reviewers agreed, in general, with the format and content of the guidelines. All six
+reviewers provided further input on methodological and research issues, as well as on the justification for the recommendations. Modifications were incorporated into the final document as appropriate and so long as
+they did not imply changing the agreed recommendations.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified and graded for each recommendation (see the "Major Recommendations" field).</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>There is evidence across all age groups that organized, population-based mammography screening programmes can reduce breast cancer mortality by around 20% in the group of women invited to attend screening versus the uninvited group. In general, the expected benefit in women actually participating in screening is higher, but there appears to be a narrow balance between benefits and harms, particularly in younger and older women. </li>
+    <li>Results from modelling showed that screening every two years seems to provide the best trade-off between benefits and harms. Screening biennially from age 50 years to 69 years achieved a median 16% reduction in breast cancer deaths compared to no screening. Biennial screening at age 40 years versus 50 years reduced mortality by an additional 3%, but it consumed more resources and yielded more false-positive results. Biennial screening after the age of 69 years yielded some additional mortality reduction in all models, but overdiagnosis increased substantially at older ages. </li>
+</ul>
+<p>See the "Evidence of benefits and harms" section in the original guideline document for additional information.</p></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>False-positive rates of mammography screening are common to all age groups, although they tend to be higher in younger age groups. </li>
+    <li>Biennial screening at age 40 years versus 50 years reduced mortality by an additional 3%, but it consumed more resources and yielded more false-positive results. Biennial screening after the age of 69 years yielded some additional mortality reduction in all models, but overdiagnosis increased substantially at older ages. </li>
+    <li>Mammography is associated with short-term anxiety in women requiring further investigation. </li>
+    <li>There is uncertainty about the magnitude of the harms of mammography screening programmes &ndash; particularly overdiagnosis and overtreatment. </li>
+</ul>
+<p>See the "Evidence of benefits and harms" section in the original guideline document for additional information.</p></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>The designations employed and the presentation of the material in this publication do not imply the expression of any opinion whatsoever on the part of the World Health Organization (WHO) concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries. Dotted lines on maps represent approximate border lines for which there may not yet be full agreement. </li>
+    <li>The mention of specific companies or of certain manufacturers' products does not imply that they are endorsed or recommended by WHO in preference to others of a similar nature that are not mentioned. Errors and omissions excepted, the names of proprietary products are distinguished by initial capital letters. </li>
+    <li>All reasonable precautions have been taken by WHO to verify the information contained in this publication. However, the published material is being distributed without warranty of any kind, either expressed or implied. The responsibility for the interpretation and use of the material lies with the reader. In no event shall the WHO be liable for damages arising from its use.</li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Dissemination and Implementation</span></strong></p>
+<p>The World Health Organization (WHO) guideline document, as well as the Evidence Report, will be published online (<a href="/web/20180712200802/https://www.guideline.gov/Home/Disclaimer?id=49209&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.who.int%2fcancer%2fen%2f" title="WHO Web site">www.who.int/cancer</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712200802im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>). An official launch will be held and the recommendations will be widely disseminated to WHO regional and country offices, partners, governments, nongovernmental organizations, technical agencies and other stakeholders. A summary of the guideline will be published in a peer review journal. Clear and simple messages targeting women and the general public will be produced and posted on the Internet.</p>
+<p>Mammography screening is known to be cost-effective, feasible and affordable mainly in countries where there is good health infrastructure and all the components for an early-detection programme are in place &ndash; including quality assurance systems and adequate, accessible diagnostic and treatment facilities, and palliative care. Therefore, this guideline can be implemented mainly in higher-income and upper-middle-income countries.</p>
+<p>In collaboration with partners, WHO can support implementation activities by providing practical tools and direct technical assistance when needed. Multicountry demonstration projects of organized population- based screening programmes can be implemented, particularly in upper-middle-income countries that are planning to develop effective programmes.</p>
+<p>WHO and partners will work with Member States to evaluate the impact of the guideline by coordinating efforts and providing advice and practical support. In this regard, tools and information systems will be developed to assess the impact of the guide. This will initially include assessment of performance indicators such as dissemination of the guidelines and adoption of the guideline recommendations within broad health policies and programmes and in the context of national cancer control programmes. Countries that have fully established screening programmes or that are developing demonstration programmes will be advised to include process indicators (such as compliance with and timeliness of screening, diagnosis and treatment, and quality assurance schemes) and outcome indicators (including stage distribution at diagnosis, survival, breast cancer mortality, rates of interval cancer, changes in end-users' knowledge and understanding of the benefits and harms of mammography screening, and economic consequences).</p>
+<p>The implementation strategies for individual recommendations can be found in the original guideline document.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>World Health Organization (WHO). WHO position paper on mammography screening. Geneva (Switzerland): World Health Organization (WHO); 2014. 78 p.  [51 references]</td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2014</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>World Health Organization - International Agency</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>World Health Organization (WHO)</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Guideline Development Group</p>
+<p>World Health Organization (WHO) Steering Committee</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Guideline Development Group (GDG) Members</em>: Silvina Arrosi, Cancer Prevention Programme, Ministry of Health, Buenos Aires, Argentina; Bettina Borisch, Institute of Preventive and Social Medicine, University of Geneva, Geneva, Switzerland; Jean-Francois Delaloye, Department of Gynecology and Obstetrics, Vaud University Hospital, Lausanne, Switzerland; Merce Marzo, Primary Health Care Research Unit, Catalan Institute of Health, Barcelona, Spain; Gerald Gartlehner (<em>Co-chair</em>), Evidence-based Medicine and Clinical Epidemiology, Danube University, Krems, Austria; Carl Heneghan (<em>Co-chair</em>), Centre for Evidence-Based Medicine, Nuffield Department of Primary Care Health Sciences, University of Oxford, United Kingdom; Sylvia Heywang-K&ouml;brunner, National Reference Center Mammography, Munich, Germany; Julietta Patnick, NHS Cancer Screening Programmes, Directorate of Health and Wellbeing, Public Health England, United Kingdom; Rengaswamy Sankaranarayanan, Early Detection and Prevention Section, International Agency for Research on Cancer, Lyon, France; Nereo Segnan, Department of Cancer Screening, Reference Center for Cancer Epidemiology and Prevention, Piemonte, Italy; Mohamed Shaalan, Prevention and Early Detection Unit, National Cancer Institute, Cairo, Egypt; Surendra Shastri, WHO Collaborating Center for Cancer Prevention and Early Detection, Tata Memorial Hospital, Mumbai, India; Lawrence von Karsa, Quality Assurance Group, Early Detection and Prevention Section, International Agency for Research on Cancer, Lyon, France</p>
+<p><em>Members of the External Review Group</em>: Rajendra Badwe, Cancer Center, Tata Memorial Hospital, Mumbai, India; Ian Magrath, International Network for Cancer Treatment and Research, Brussels, Belgium; Raul Murillo, National Cancer Institute, Bogot&aacute;, Colombia; Kofi Nyarko, Noncommunicable Diseases Ministry of Health, Accra, Ghana; Yu Lin Qiao, Department of Cancer Epidemiology, Cancer Institute, Beijing, China; Cheng Har Yip, University Malaya Medical Center, Kuala Lumpur, Malaysia</p>
+<p><em>Evidence Report prepared by</em>: M. Hassan Murad, Knowledge and Evaluation Unit (KER), Center for the Science of Healthcare Delivery (CSHCD) and Center for Translational Services Science Activities (CTSA), Mayo Clinic Rochester, MN, USA</p>
+<p><em>Members of the WHO Steering Group</em>: Nathalie Broutet, World Health Organization, Geneva, Switzerland; Gauden Galea, World Health Organization, European Region, Copenhagen, Denmark; Silvana Luciani, Regional Offices for the Americas, Washington, DC, USA; Shanthi Mendis, World Health Organization, Geneva, Switzerland</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Management of Conflict of Interest</span></strong></p>
+<p>The "declaration of interests" form was collected for the methodologists and for all members of the Guideline Development Group (GDG) and External Review Group (ERG). Three experts declared some interest. The World Health Organization (WHO) legal office was consulted and no impediment was found for the full participation of these individuals in the GDG.</p>
+<p>It was not possible to avoid having some panel members with an "intellectual" conflict of interest because of the critical need to include certain areas of expertise (such as radiology and experience in the management of breast cancer screening programmes). Consequently, there was careful management of intellectual interest in order to ensure the development of valid guidelines. This included the following:</p>
+<ul style="list-style-type: disc;">
+    <li>Appointment of co-chairs with independent views on the topic, who had not published or conducted research on mammography screening and who were not in charge of managing mammography screening programmes or any of their components </li>
+    <li>Limiting members with relevant intellectual conflict interest to a distinct minority of the panel </li>
+    <li>Publicly disclosing the relevant conflicts of interest of panel members during the GDG consensus meeting </li>
+    <li>Asking panel members to vote independently and anonymously on the recommendations at the GDG consensus meeting </li>
+    <li>Requesting input on the draft recommendations on an individual basis </li>
+    <li>Considering all guideline documents as strictly confidential during the development process </li>
+    <li>Initial drafting and subsequent editing of the recommendations by a core group composed of the co-chairs and WHO secretariat with objective and independent views on the topic and without intellectual conflicts of interest. </li>
+</ul></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Electronic copies: Available from the <a href="/web/20180712200802/https://www.guideline.gov/Home/Disclaimer?id=49209&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.who.int%2fcancer%2fpublications%2fmammography_screening%2fen%2f" title="WHO Web site">World Health Organization (WHO) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712200802im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>Print copies: Available from the WHO Press, World Health Organization, 20 Avenue Appia, 1211 Geneva 27, Switzerland; Phone: +41 22 791 3264; Fax: +41 22 791 4857; E-mail: <a href="https://web.archive.org/web/20180712200802/mailto:bookorders@who.int">bookorders@who.int</a></p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Breast cancer: prevention and control. Web page. Geneva (Switzerland): World Health Organization (WHO); 2015. Available from the <a href="/web/20180712200802/https://www.guideline.gov/Home/Disclaimer?id=49209&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.who.int%2fcancer%2fdetection%2fbreastcancer%2fen%2f" title="WHO Web site">World Health Organization (WHO) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712200802im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>WHO handbook for guideline development. Geneva (Switzerland): World Health Organization (WHO); 2012. 56 p. Electronic copies: Available from the <a href="/web/20180712200802/https://www.guideline.gov/Home/Disclaimer?id=49209&amp;contentType=summary&amp;redirect=http%3a%2f%2fapps.who.int%2firis%2fbitstream%2f10665%2f75146%2f1%2f9789241548441_eng.pdf%3fua%3d1" title="WHO Web site">WHO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712200802im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on June 10, 2015.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which may be subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712200802/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712200802/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712200802/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712200802/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712200802/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712200802/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712200802/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712200802/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712200802/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712200802/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712200802/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712200802/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712200802/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712200802/https://www.guideline.gov/disclaimer?id=49209&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712200802im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712200802im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712200802/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712200802/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712200802/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712200802/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712200802/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712200802/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712200802/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712200802/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712200802/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712200802/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712200802/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712200802/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712200802/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712200802/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712200802/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712200802/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712200802/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712200802/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712200802/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712200802im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712200802im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712200802/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712200802im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712200802im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712200802/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712200802js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712200802js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:08:02 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:18:14 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 72.217 (3)
+  esindex: 0.007
+  captures_list: 98.756
+  CDXLines.iter: 16.424 (3)
+  PetaboxLoader3.datanode: 63.665 (4)
+  exclusion.robots: 0.258
+  exclusion.robots.policy: 0.241
+  RedisCDXSource: 5.827
+  load_resource: 33.687
+-->

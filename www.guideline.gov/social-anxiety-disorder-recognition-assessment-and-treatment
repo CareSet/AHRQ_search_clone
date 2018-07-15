@@ -1,0 +1,1693 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app58.us.archive.org';v.server_ms=508;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Social anxiety disorder: recognition, assessment and treatment. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180713025317im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180713025317im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180713025317im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180713025317im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180713025317/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180713025317im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180713025317cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180713025317js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180713025317if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180713025317/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180713025317if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180713025317/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180713025317/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180713025317/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180713025317/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180713025317im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180713025317im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180713025317im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180713025317/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180713025317/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180713025317/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180713025317/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180713025317/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180713025317/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180713025317/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180713025317/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180713025317/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180713025317/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180713025317/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180713025317/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180713025317/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180713025317/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180713025317/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180713025317/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180713025317/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180713025317/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180713025317/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180713025317/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180713025317/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:009892</li>
+            <li>2013 May
+            </li>            
+                                </ul>
+        <div>
+                <h1>Social anxiety disorder: recognition, assessment and treatment.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180713025317/https://www.guideline.gov/search?f_Guideline_Developer_String=National%20Guideline%20Alliance&amp;fLockTerm=National%2BGuideline%2BAlliance">National Guideline Alliance</a></li>
+                        <li>   
+                                <a id="1459" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>National Collaborating Centre for Mental Health. Social anxiety disorder: recognition, assessment and treatment. London (UK): National Institute for Health and Care Excellence (NICE); 2013 May. 44 p.&nbsp;(Clinical guideline; no. 159).&nbsp;</td></tr></table>                    <p><a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fguidance.nice.org.uk%252fCG159">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180713025317/https://www.guideline.gov/search?f_Age_of_Target_Population=Adolescent%20%2813%20to%2018%20years%29&amp;fLockTerm=Adolescent%2B%2813%2Bto%2B18%2Byears%29">Adolescent (13 to 18 years)</a></li>                      
+                        <li><a href="/web/20180713025317/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180713025317/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180713025317/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180713025317/https://www.guideline.gov/search?f_Age_of_Target_Population=Child%20%282%20to%2012%20years%29&amp;fLockTerm=Child%2B%282%2Bto%2B12%2Byears%29">Child (2 to 12 years)</a></li>                      
+                        <li><a href="/web/20180713025317/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180713025317/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">HCPCS</h5>
+                    <div class="field-content">
+<a href="/web/20180713025317/https://www.guideline.gov/search?f_HCPCS_CUI=C0025355&amp;fLockTerm=Mental+health+services%2c+not+otherwise+specified">Mental health services, not otherwise specified</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180713025317/https://www.guideline.gov/search?f_ICD9CM_CUI=C0004933&amp;fLockTerm=Behavior+therapy">Behavior therapy</a>
+ (94.33), <a href="/web/20180713025317/https://www.guideline.gov/search?f_ICD9CM_CUI=C0031572&amp;fLockTerm=Social+phobia">Social phobia</a>
+ (300.23)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0085100&amp;fLockTerm=Adolescent+Health+Services">Adolescent Health Services</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0003286&amp;fLockTerm=Anticonvulsants">Anticonvulsants</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0242905&amp;fLockTerm=Antidepressive+Agents%2c+Second-Generation">Antidepressive Agents, Second-Generation</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0003290&amp;fLockTerm=Antidepressive+Agents%2c+Tricyclic">Antidepressive Agents, Tricyclic</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0040615&amp;fLockTerm=Antipsychotic+Agents">Antipsychotic Agents</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0003467&amp;fLockTerm=Anxiety">Anxiety</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0003469&amp;fLockTerm=Anxiety+Disorders">Anxiety Disorders</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0004933&amp;fLockTerm=Behavior+Therapy">Behavior Therapy</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0005064&amp;fLockTerm=Benzodiazepines">Benzodiazepines</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0085537&amp;fLockTerm=Caregivers">Caregivers</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0008079&amp;fLockTerm=Child+Health+Services">Child Health Services</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0008845&amp;fLockTerm=Citalopram">Citalopram</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0008956&amp;fLockTerm=Clinical+Competence">Clinical Competence</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0009244&amp;fLockTerm=Cognitive+Therapy">Cognitive Therapy</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0009429&amp;fLockTerm=Combined+Modality+Therapy">Combined Modality Therapy</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0009452&amp;fLockTerm=Communication">Communication</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0009669&amp;fLockTerm=Confidentiality">Confidentiality</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0010570&amp;fLockTerm=Cyclohexanols">Cyclohexanols</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0085228&amp;fLockTerm=Fluvoxamine">Fluvoxamine</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0018748&amp;fLockTerm=Health+Services+Accessibility">Health Services Accessibility</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0021430&amp;fLockTerm=Informed+Consent">Informed Consent</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C1611232&amp;fLockTerm=Medication+Therapy+Management">Medication Therapy Management</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0025355&amp;fLockTerm=Mental+Health+Services">Mental Health Services</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0030551&amp;fLockTerm=Parents">Parents</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0070122&amp;fLockTerm=Paroxetine">Paroxetine</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0031572&amp;fLockTerm=Phobia%2c+Social">Phobia, Social</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0033871&amp;fLockTerm=Psychiatric+Status+Rating+Scales">Psychiatric Status Rating Scales</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0033968&amp;fLockTerm=Psychotherapy">Psychotherapy</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0033971&amp;fLockTerm=Psychotherapy%2c+Group">Psychotherapy, Group</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C1261382&amp;fLockTerm=Psychotherapy%2c+Psychodynamic">Psychotherapy, Psychodynamic</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0036592&amp;fLockTerm=Self+Care">Self Care</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C1579361&amp;fLockTerm=Serotonin+and+Noradrenaline+Reuptake+Inhibitors">Serotonin and Noradrenaline Reuptake Inhibitors</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0162758&amp;fLockTerm=Serotonin+Uptake+Inhibitors">Serotonin Uptake Inhibitors</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0074393&amp;fLockTerm=Sertraline">Sertraline</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MSH_CUI=C0037398&amp;fLockTerm=Social+Behavior+Disorders">Social Behavior Disorders</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0003286&amp;fLockTerm=Anticonvulsants">Anticonvulsants</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0003467&amp;fLockTerm=Anxiety">Anxiety</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0003469&amp;fLockTerm=Anxiety+Disorders">Anxiety Disorders</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0005064&amp;fLockTerm=Benzodiazepines">Benzodiazepines</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0085537&amp;fLockTerm=Caregiver">Caregiver</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0008079&amp;fLockTerm=Child+Health+Services">Child Health Services</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0009244&amp;fLockTerm=Cognitive+Therapy">Cognitive Therapy</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0009429&amp;fLockTerm=Combined+Modality+Therapy">Combined Modality Therapy</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0009452&amp;fLockTerm=Communication">Communication</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0009669&amp;fLockTerm=confidentiality">confidentiality</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0033971&amp;fLockTerm=Group+Psychotherapy">Group Psychotherapy</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0018748&amp;fLockTerm=Health+Services+Accessibility">Health Services Accessibility</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0021430&amp;fLockTerm=Informed+Consent">Informed Consent</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0030551&amp;fLockTerm=Parents">Parents</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0030695&amp;fLockTerm=Patient+Monitoring">Patient Monitoring</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0033968&amp;fLockTerm=Psychotherapy">Psychotherapy</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0036592&amp;fLockTerm=Self-care+interventions">Self-care interventions</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C1579361&amp;fLockTerm=Serotonin+and+Norepinephrine+Reuptake+Inhibitors+(SNRIs)">Serotonin and Norepinephrine Reuptake Inhibitors (SNRIs)</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0162758&amp;fLockTerm=Serotonin+Uptake+Inhibitors">Serotonin Uptake Inhibitors</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0344211&amp;fLockTerm=Supportive+care">Supportive care</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0003290&amp;fLockTerm=Tricyclic+Antidepressive+Agents">Tricyclic Antidepressive Agents</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_MTH_CUI=C0078569&amp;fLockTerm=venlafaxine">venlafaxine</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180713025317/https://www.guideline.gov/search?f_PDQ_CUI=C0003469&amp;fLockTerm=anxiety+disorder">anxiety disorder</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_PDQ_CUI=C0074393&amp;fLockTerm=sertraline">sertraline</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_PDQ_CUI=C0344211&amp;fLockTerm=supportive+care%2ftherapy">supportive care/therapy</a>
+, <a href="/web/20180713025317/https://www.guideline.gov/search?f_PDQ_CUI=C0078569&amp;fLockTerm=venlafaxine">venlafaxine</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040615&amp;fLockTerm=Anti-psychotic+agent">Anti-psychotic agent</a>
+ (10784006), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040615&amp;fLockTerm=Anti-psychotic+agent">Anti-psychotic agent</a>
+ (372482001), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003286&amp;fLockTerm=Anticonvulsant">Anticonvulsant</a>
+ (255632006), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003286&amp;fLockTerm=Anticonvulsant">Anticonvulsant</a>
+ (63094006), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003467&amp;fLockTerm=Anxiety">Anxiety</a>
+ (48694002), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0474385&amp;fLockTerm=Anxiety+about+behavior+or+performance">Anxiety about behavior or performance</a>
+ (247825008), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003469&amp;fLockTerm=Anxiety+disorder">Anxiety disorder</a>
+ (197480006), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2959686&amp;fLockTerm=Assessment+using+short+health+anxiety+inventory">Assessment using short health anxiety inventory</a>
+ (446757006), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2919627&amp;fLockTerm=Assessment+using+social+phobia+inventory">Assessment using social phobia inventory</a>
+ (445415008), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0270305&amp;fLockTerm=Avoidant+disorder+of+childhood">Avoidant disorder of childhood</a>
+ (64165008), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0004933&amp;fLockTerm=Behavioral+therapy">Behavioral therapy</a>
+ (166001), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0085537&amp;fLockTerm=Caregiver">Caregiver</a>
+ (133932002), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0008845&amp;fLockTerm=Citalopram">Citalopram</a>
+ (321986007), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0008845&amp;fLockTerm=Citalopram">Citalopram</a>
+ (372596005), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0451073&amp;fLockTerm=Clinical+anxiety+scale">Clinical anxiety scale</a>
+ (273366006), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0009244&amp;fLockTerm=Cognitive+therapy">Cognitive therapy</a>
+ (183383008), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0009244&amp;fLockTerm=Cognitive+therapy">Cognitive therapy</a>
+ (228553007), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0009244&amp;fLockTerm=Cognitive+therapy">Cognitive therapy</a>
+ (228557008), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0009244&amp;fLockTerm=Cognitive+therapy">Cognitive therapy</a>
+ (304891004), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0009452&amp;fLockTerm=Communication">Communication</a>
+ (263536004), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1099456&amp;fLockTerm=Escitalopram">Escitalopram</a>
+ (395246009), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1099456&amp;fLockTerm=Escitalopram">Escitalopram</a>
+ (400447003), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0085228&amp;fLockTerm=Fluvoxamine">Fluvoxamine</a>
+ (372905008), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0085228&amp;fLockTerm=Fluvoxamine">Fluvoxamine</a>
+ (96213009), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0033971&amp;fLockTerm=Group+psychotherapy">Group psychotherapy</a>
+ (76168009), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0025355&amp;fLockTerm=Mental+health+service">Mental health service</a>
+ (708168004), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030695&amp;fLockTerm=Monitoring+of+patient">Monitoring of patient</a>
+ (182777000), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030551&amp;fLockTerm=Parent+of">Parent of</a>
+ (160503002), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030551&amp;fLockTerm=Parent+of">Parent of</a>
+ (40683002), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0070122&amp;fLockTerm=Paroxetine">Paroxetine</a>
+ (321963000), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0070122&amp;fLockTerm=Paroxetine">Paroxetine</a>
+ (372595009), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1261382&amp;fLockTerm=Psychodynamic+psychotherapy">Psychodynamic psychotherapy</a>
+ (314034001), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0204452&amp;fLockTerm=Psychological+assessment">Psychological assessment</a>
+ (405783006), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0204452&amp;fLockTerm=Psychological+assessment">Psychological assessment</a>
+ (45392008), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0033968&amp;fLockTerm=Psychotherapy">Psychotherapy</a>
+ (75516001), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0036592&amp;fLockTerm=Self-care+interventions">Self-care interventions</a>
+ (384758001), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0074393&amp;fLockTerm=Sertraline">Sertraline</a>
+ (321958004), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0074393&amp;fLockTerm=Sertraline">Sertraline</a>
+ (372594008), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2959402&amp;fLockTerm=Short+health+anxiety+inventory">Short health anxiety inventory</a>
+ (447278000), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0031572&amp;fLockTerm=Social+phobia">Social phobia</a>
+ (25501002), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2919658&amp;fLockTerm=Social+phobia+inventory">Social phobia inventory</a>
+ (445049009), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C3472494&amp;fLockTerm=Strengths+and+difficulties+questionnaire">Strengths and difficulties questionnaire</a>
+ (450739009), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0344211&amp;fLockTerm=Support">Support</a>
+ (243114000), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003290&amp;fLockTerm=Tricyclic+antidepressant">Tricyclic antidepressant</a>
+ (33219003), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003290&amp;fLockTerm=Tricyclic+antidepressant">Tricyclic antidepressant</a>
+ (373253007), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0078569&amp;fLockTerm=Venlafaxine">Venlafaxine</a>
+ (108432009), <a href="/web/20180713025317/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0078569&amp;fLockTerm=Venlafaxine">Venlafaxine</a>
+ (372490001)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#394" class="section-mark">Regulatory Alert</a></li>
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180713025317/https://www.guideline.gov/summaries/downloadcontent/ngc-9892?contentType=pdf" class="pdf">.PDF 198.6 kb</a></li>
+                            <li><a href="/web/20180713025317/https://www.guideline.gov/summaries/downloadcontent/ngc-9892?contentType=word" class="word">Word Document 414.4 kb</a></li>
+                            <li><a href="/web/20180713025317/https://www.guideline.gov/summaries/downloadcontent/ngc-9892?contentType=xml" class="xml">.XML 138.9 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180713025317/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/46234/social-anxiety-disorder-recognition-assessment-and-treatment" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180713025317/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/46234/social-anxiety-disorder-recognition-assessment-and-treatment" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180713025317/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/46234/social-anxiety-disorder-recognition-assessment-and-treatment&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180713025317/mailto:/?Subject=AHRQ: Social anxiety disorder: recognition, assessment and treatment.&amp;body=https://www.guideline.gov/summaries/summary/46234/social-anxiety-disorder-recognition-assessment-and-treatment" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Social anxiety disorder: recognition, assessment and treatment. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2013 May 01. [cited 2018 Jul 13]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180713025317/https://www.guideline.gov/summaries/citedownload/46234?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180713025317/https://www.guideline.gov/summaries/citedownload/46234?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180713025317/https://www.guideline.gov/summaries/citedownload/46234?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180713025317/https://www.guideline.gov/summaries/citedownload/46234?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180713025317/https://www.guideline.gov/summaries/citedownload/46234?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180713025317/https://www.guideline.gov/summaries/citedownload/46234">RefWorks</a></li>
+                            <li><a href="/web/20180713025317/https://www.guideline.gov/summaries/citedownload/46234?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="46234" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="394" class="accordion-title section-394 is-active" role="tab" aria-expanded="true"><a href="#">Regulatory Alert</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">FDA Warning/Regulatory Alert</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse</strong>: This guideline references a drug(s) for which important revised regulatory and/or warning information has been released.</p>
+<ul style="list-style-type: disc;">
+    <li><a href="https://web.archive.org/web/20180713025317/http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm518710.htm" target="_blank" title="FDA Web site">August 31, 2016 &ndash; Opioid pain and cough medicines combined with benzodiazepines</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>: A U.S. Food and Drug Administration (FDA) review has found that the growing combined used of opioid medicines with benzodiazepines or other drugs that depress the central nervous system (CNS) has resulted in serious side effects, including slowed or difficult breathing and deaths. FDA is adding Boxed Warnings to the drug labeling of prescription opioid pain and prescription opioid cough medicines and benzodiazepines. </li>
+</ul></div></p>
+
+            </div>
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Mental Health on behalf of the National Institute for Health and Care Excellence (NICE). See the "Availability of Companion Documents" field for the full version of this guidance.</p>
+<p>The wording used in the recommendations in this guideline denotes the certainty with which the recommendation is made (the strength of the recommendation). Refer to the original guideline document for examples of the types of wording used in making recommendations.</p>
+<p><strong><span style="text-decoration: underline;">General Principles of Care in Mental Health and General Medical Settings</span></strong></p>
+<p><strong>Improving Access to Services</strong></p>
+<p>Be aware that people with social anxiety disorder may:</p>
+<ul style="list-style-type: disc;">
+    <li>Not know that social anxiety disorder is a recognised condition and can be effectively treated </li>
+    <li>Perceive their social anxiety as a personal flaw or failing </li>
+    <li>Be vulnerable to stigma and embarrassment </li>
+    <li>Avoid contact with and find it difficult or distressing to interact with healthcare professionals, staff and other service users </li>
+    <li>Avoid disclosing information, asking and answering questions and making complaints </li>
+    <li>Have difficulty concentrating when information is explained to them </li>
+</ul>
+<p>Primary and secondary care clinicians, managers and commissioners should consider arranging services flexibly to promote access and avoid exacerbating social anxiety disorder symptoms by offering:</p>
+<ul style="list-style-type: disc;">
+    <li>Appointments at times when the service is least crowded or busy </li>
+    <li>Appointments before or after normal hours, or at home initially </li>
+    <li>Self-check-in and other ways to reduce distress on arrival </li>
+    <li>Opportunities to complete forms or paperwork before or after an appointment in a private space </li>
+    <li>Support with concerns related to social anxiety (for example, using public transport) </li>
+    <li>A choice of professional if possible </li>
+</ul>
+<p>When a person with social anxiety disorder is first offered an appointment, in particular in specialist services, provide clear information in a letter about:</p>
+<ul style="list-style-type: disc;">
+    <li>Where to go on arrival and where they can wait (offer the use of a private waiting area or the option to wait elsewhere, for example outside the service's premises) </li>
+    <li>Location of facilities available at the service (for example, the car park and toilets) </li>
+    <li>What will happen and what will not happen during assessment and treatment </li>
+</ul>
+<p>When the person arrives for the appointment, offer to meet or alert them (for example, by text message) when their appointment is about to begin.</p>
+<p>Be aware that changing healthcare professionals or services may be particularly stressful for people with social anxiety disorder. Minimise such disruptions, discuss concerns beforehand and provide detailed information about any changes, especially those that were not requested by the service user.</p>
+<p>For people with social anxiety disorder using inpatient mental health or medical services, arrange meals, activities and accommodation by:</p>
+<ul style="list-style-type: disc;">
+    <li>Regularly discussing how such provisions fit into their treatment plan and their preferences </li>
+    <li>Providing the opportunity for them to eat on their own if they find eating with others too distressing </li>
+    <li>Providing a choice of activities they can do on their own or with others </li>
+</ul>
+<p>Offer to provide treatment in settings where children and young people with social anxiety disorder and their parents or carers feel most comfortable, for example, at home or in schools or community centres.</p>
+<p>Consider providing childcare (for example, for siblings) to support parent and carer involvement.</p>
+<p>If possible, organise appointments in a way that does not interfere with school or other peer and social activities.</p>
+<p><strong>Communication</strong></p>
+<p>When assessing a person with social anxiety disorder:</p>
+<ul style="list-style-type: disc;">
+    <li>Suggest that they communicate with you in the manner they find most comfortable, including writing (for example, in a letter or questionnaire) </li>
+    <li>Offer to communicate with them by phone call, text and email </li>
+    <li>Make sure they have opportunities to ask any questions and encourage them to do so </li>
+    <li>Provide opportunities for them to make and change appointments by various means, including text, email or phone </li>
+</ul>
+<p>When communicating with children and young people and their parents or carers:</p>
+<ul style="list-style-type: disc;">
+    <li>Take into account the child or young person's developmental level, emotional maturity and cognitive capacity, including any learning disabilities, sight or hearing problems and delays in language development </li>
+    <li>Be aware that children who are socially anxious may be reluctant to speak to an unfamiliar person, and that children with a potential diagnosis of selective mutism may be unable to speak at all during assessment or treatment; accept information from parents or carers, but ensure that the child or young person is given the opportunity to answer for themselves, through writing, drawing or speaking through a parent or carer if necessary </li>
+    <li>Use plain language if possible and clearly explain any clinical terms </li>
+    <li>Check that the child or young person and their parents or carers understand what is being said </li>
+    <li>Use communication aids (such as pictures, symbols, large print, braille, different languages or sign language) if needed </li>
+</ul>
+<p><strong>Competence</strong></p>
+<p>Healthcare, social care and educational professionals working with children and young people should be trained and skilled in:</p>
+<ul style="list-style-type: disc;">
+    <li>Negotiating and working with parents and carers, including helping parents with relationship difficulties find support </li>
+    <li>Managing issues related to information sharing and confidentiality as these apply to children and young people </li>
+    <li>Referring children with possible social anxiety disorder to appropriate services </li>
+</ul>
+<p><strong>Consent and Confidentiality</strong></p>
+<p>If the young person is 'Gillick competent' seek their consent before speaking to their parents or carers.</p>
+<p>When working with children and young people and their parents or carers:</p>
+<ul style="list-style-type: disc;">
+    <li>Make sure that discussions take place in settings in which confidentiality, privacy and dignity are respected </li>
+    <li>Be clear with the child or young person and their parents or carers about limits of confidentiality (that is, which health and social care professionals have access to information about their diagnosis and its treatment and in what circumstances this may be shared with others). This recommendation is adapted from the NICE guideline <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=http%3a%2f%2fguidance.nice.org.uk%2fCG136" title="NICE Web site">Service user experience in adult mental health</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (NICE clinical guidance 136). </li>
+</ul>
+<p>Ensure that children and young people and their parents or carers understand the purpose of any meetings and the reasons for sharing information. Respect their rights to confidentiality throughout the process and adapt the content and duration of meetings to take into account the impact of the social anxiety disorder on the child or young person's participation.</p>
+<p><strong>Working with Parents and Carers</strong></p>
+<p>If a parent or carer cannot attend meetings for assessment or treatment, ensure that written information is provided and shared with them.</p>
+<p>If parents or carers are involved in the assessment or treatment of a young person with social anxiety disorder, discuss with the young person (taking into account their developmental level, emotional maturity and cognitive capacity) what form they would like this involvement to take. Such discussions should take place at intervals to take account of any changes in circumstances, including developmental level, and should not happen only once. As the involvement of parents and carers can be quite complex, staff should receive training in the skills needed to negotiate and work with parents and carers, and also in managing issues relating to information sharing and confidentiality. This recommendation is adapted from the NICE guideline <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=http%3a%2f%2fguidance.nice.org.uk%2fCG136" title="NICE Web site">Service user experience in adult mental health</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (NICE clinical guidance 136).</p>
+<p>Offer parents and carers an assessment of their own needs including:</p>
+<ul style="list-style-type: disc;">
+    <li>Personal, social and emotional support </li>
+    <li>Support in their caring role, including emergency plans </li>
+    <li>Advice on and help with obtaining practical support </li>
+</ul>
+<p>Maintain links with adult mental health services so that referrals for any mental health needs of parents or carers can be made quickly and smoothly.</p>
+<p><strong><span style="text-decoration: underline;">Identification and Assessment of Adults</span></strong></p>
+<p><strong>Identification of Adults with Possible Social Anxiety Disorder</strong></p>
+<p>Ask the identification questions for anxiety disorders in line with recommendation 1.3.1.2 in the NICE guideline <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fCG123" title="NICE Web site">Common mental health disorders. Identification and pathways to care</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (NICE clinical guideline 123), and if social anxiety disorder is suspected:</p>
+<ul style="list-style-type: disc;">
+    <li>Use the 3-item Mini-Social Phobia Inventory (Mini-SPIN) <strong>or</strong> </li>
+    <li>Consider asking the following 2 questions:
+    <ul style="list-style-type: disc;">
+        <li>Do you find yourself avoiding social situations or activities? </li>
+        <li>Are you fearful or embarrassed in social situations? </li>
+    </ul>
+    </li>
+    <li>If the person scores 6 or more on the Mini-SPIN, or answers yes to either of the 2 questions above, refer for or conduct a comprehensive assessment for social anxiety disorder (see recommendations below under the section "Assessment of adults with possible social anxiety disorder") </li>
+</ul>
+<p>If the identification questions indicate possible social anxiety disorder (see recommendation above), but the practitioner is not competent to perform a mental health assessment, refer the person to an appropriate healthcare professional. If this professional is not the person's general practitioner (GP), inform the GP of the referral.</p>
+<p>If the identification questions indicate possible social anxiety disorder, a practitioner who is competent to perform a mental health assessment should review the person's mental state and associated functional, interpersonal and social difficulties.</p>
+<p><strong>Assessment of Adults With Possible Social Anxiety Disorder</strong></p>
+<p>If an adult with possible social anxiety disorder finds it difficult or distressing to attend an initial appointment in person, consider making the first contact by phone or internet, but aim to see the person face to face for subsequent assessments and treatment.</p>
+<p>When assessing an adult with possible social anxiety disorder:</p>
+<ul style="list-style-type: disc;">
+    <li>Conduct an assessment that considers fear, avoidance, distress and functional impairment </li>
+    <li>Be aware of comorbid disorders, including avoidant personality disorder, alcohol and substance misuse, mood disorders, other anxiety disorders, psychosis and autism </li>
+</ul>
+<p>Follow the recommendations in the NICE guideline <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fCG123" title="NICE Web site">Common mental health disorders. Identification and pathways to care</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (NICE clinical guideline 123) for the structure and content of the assessment and adjust them to take into account the need to obtain a more detailed description of the social anxiety disorder.</p>
+<p>Consider using the following to inform the assessment and support the evaluation of any intervention:</p>
+<ul style="list-style-type: disc;">
+    <li>A diagnostic or problem identification tool as recommended in recommendation 1.3.2.3 in the NICE guideline <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fCG123" title="NICE Web site">Common mental health disorders. Identification and pathways to care</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (NICE clinical guideline 123). </li>
+    <li>A validated measure for social anxiety, for example, the Social Phobia Inventory (SPIN) or the Liebowitz Social Anxiety Scale (LSAS). </li>
+</ul>
+<p>Obtain a detailed description of the person's current social anxiety and associated problems and circumstances including:</p>
+<ul style="list-style-type: disc;">
+    <li>Feared and avoided social situations </li>
+    <li>What they are afraid might happen in social situations (for example, looking anxious, blushing, sweating, trembling or appearing boring) </li>
+    <li>Anxiety symptoms </li>
+    <li>View of self </li>
+    <li>Content of self-image </li>
+    <li>Safety-seeking behaviours </li>
+    <li>Focus of attention in social situations </li>
+    <li>Anticipatory and post-event processing </li>
+    <li>Occupational, educational, financial and social circumstances </li>
+    <li>Medication, alcohol and recreational drug use </li>
+</ul>
+<p>If a person with possible social anxiety disorder does not return after an initial assessment, contact them (using their preferred method of communication) to discuss the reason for not returning. Remove any obstacles to further assessment or treatment that the person identifies.</p>
+<p><strong>Planning Treatment for Adults Diagnosed With Social Anxiety Disorder</strong></p>
+<p>After diagnosis of social anxiety disorder in an adult, identify the goals for treatment and provide information about the disorder and its treatment including:</p>
+<ul style="list-style-type: disc;">
+    <li>The nature and course of the disorder and commonly occurring comorbidities </li>
+    <li>The impact on social and personal functioning </li>
+    <li>Commonly held beliefs about the cause of the disorder </li>
+    <li>Beliefs about what can be changed or treated </li>
+    <li>Choice and nature of evidence-based treatments </li>
+</ul>
+<p>If the person also has symptoms of depression, assess their nature and extent and determine their functional link with the social anxiety disorder by asking them which existed first.</p>
+<ul style="list-style-type: disc;">
+    <li>If the person has only experienced significant social anxiety since the start of a depressive episode, treat the depression in line with the NICE guideline <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk%2fguidance%2fCG90" title="NICE Web site">Depression. The treatment and management of depression in adults</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (NICE clinical guideline 90) </li>
+    <li>If the social anxiety disorder preceded the onset of depression, ask: "If I gave you a treatment that ensured you were no longer anxious in social situations, would you still be depressed?"
+    <ul style="list-style-type: disc;">
+        <li>If the person answers 'no', treat the social anxiety (unless the severity of the depression prevents this, then offer initial treatment for the depression) </li>
+        <li>If the person answers 'yes', consider treating both the social anxiety disorder and the depression, taking into account their preference when deciding which to treat first </li>
+    </ul>
+    </li>
+    <li>If the depression is treated first, treat the social anxiety disorder when improvement in the depression allows </li>
+</ul>
+<p>For people (including young people) with social anxiety disorder who misuse substances, be aware that alcohol or drug misuse is often an attempt to reduce anxiety in social situations and should not preclude treatment for social anxiety disorder. Assess the nature of the substance misuse to determine if it is primarily a consequence of social anxiety disorder and:</p>
+<ul style="list-style-type: disc;">
+    <li>Offer a brief intervention for hazardous alcohol or drug misuse (see the NICE clinical guidelines <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=http%3a%2f%2fguidance.nice.org.uk%2fCG115" title="NICE Web site">Alcohol-use disorders. Diagnosis, assessment and management of harmful drinking and alcohol dependence</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> [NICE clinical guideline 115] and <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=http%3a%2f%2fguidance.nice.org.uk%2fCG51" title="NICE Web site">Drug misuse: psychosocial interventions</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> [NICE clinical guideline 51]) </li>
+    <li>For harmful or dependent alcohol or drug misuse consider referral to a specialist alcohol or drug misuse service. </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Interventions for Adults With Social Anxiety Disorder</span></strong></p>
+<p><strong>Treatment Principles</strong></p>
+<p>All interventions for adults with social anxiety disorder should be delivered by competent practitioners. Psychological interventions should be based on the relevant treatment manual(s), which should guide the structure and duration of the intervention. Practitioners should consider using competence frameworks developed from the relevant treatment manual(s) and for all interventions should:</p>
+<ul style="list-style-type: disc;">
+    <li>Receive regular, high-quality outcome-informed supervision </li>
+    <li>Use routine sessional outcome measures (for example, the SPIN or LSAS) and ensure that the person with social anxiety is involved in reviewing the efficacy of the treatment </li>
+    <li>Engage in monitoring and evaluation of treatment adherence and practitioner competence &ndash; for example, by using video and audio tapes, and external audit and scrutiny if appropriate. </li>
+</ul>
+<p><strong>Initial Treatment Options for Adults With Social Anxiety Disorder</strong></p>
+<p>Offer adults with social anxiety disorder individual cognitive behavioural therapy (CBT) that has been specifically developed to treat social anxiety disorder (based on the Clark and Wells model or the Heimberg model; see recommendations below under "Delivering Psychological Interventions for Adults").</p>
+<p>Do not routinely offer group CBT in preference to individual CBT. Although there is evidence that group CBT is more effective than most other interventions, it is less clinically and cost effective than individual CBT.</p>
+<p>For adults who decline CBT and wish to consider another psychological intervention, offer CBT-based supported self-help (see recommendation below under "Delivering Psychological Interventions for Adults").</p>
+<p>For adults who decline cognitive behavioural interventions and express a preference for a pharmacological intervention, discuss their reasons for declining cognitive behavioural interventions and address any concerns.</p>
+<p>If the person wishes to proceed with a pharmacological intervention, offer a selective serotonin reuptake inhibitor (SSRI) (escitalopram or sertraline). Monitor the person carefully for adverse reactions (see recommendations below under "Prescribing and Monitoring Pharmacological Interventions in Adults").</p>
+<p>For adults who decline cognitive behavioural and pharmacological interventions, consider short-term psychodynamic psychotherapy that has been specifically developed to treat social anxiety disorder (see recommendation below under "Delivering Psychological Interventions for Adults"). Be aware of the more limited clinical effectiveness and lower cost effectiveness of this intervention compared with CBT, self-help and pharmacological interventions.</p>
+<p><strong>Options for Adults With No or a Partial Response to Initial Treatment</strong></p>
+<p>For adults whose symptoms of social anxiety disorder have only partially responded to individual CBT after an adequate course of treatment, consider a pharmacological intervention (see recommendation above under "Initial treatment options for adults with social anxiety disorder") in combination with individual CBT.</p>
+<p>For adults whose symptoms have only partially responded to an SSRI (escitalopram or sertraline) after 10 to 12 weeks of treatment, offer individual CBT in addition to the SSRI.</p>
+<p>For adults whose symptoms have not responded to an SSRI (escitalopram or sertraline) or who cannot tolerate the side effects, offer an alternative SSRI (fluvoxamine<sup>1</sup> or paroxetine) or a serotonin noradrenaline reuptake inhibitor (SNRI) (venlafaxine), taking into account:</p>
+<ul style="list-style-type: disc;">
+    <li>The tendency of paroxetine and venlafaxine to produce a discontinuation syndrome (which may be reduced by extended-release preparations) </li>
+    <li>The risk of suicide and likelihood of toxicity in overdose </li>
+</ul>
+<p>For adults whose symptoms have not responded to an alternative SSRI or an SNRI, offer a monoamine oxidase inhibitor (phenelzine<sup>2</sup> or moclobemide).</p>
+<p>Discuss the option of individual CBT with adults whose symptoms have not responded to pharmacological interventions. </p>
+<p class="Note"><sup>1</sup> At the time of publication (May 2013) fluvoxamine did not have a UK marketing authorisation for use in adults with social anxiety disorder. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gmc-uk.org%2fguidance%2fethical_guidance%2f14316.asp" title="GMC Web site">General Medical Council's Good practice in prescribing and managing medicines and devices</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> for further information.</p>
+<p class="Note"><sup>2</sup> At the time of publication (May 2013) phenelzine did not have a UK marketing authorisation for use in adults with social anxiety disorder. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. Informed consent should be obtained and documented. See the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.gmc-uk.org%2fguidance%2fethical_guidance%2f14316.asp" title="GMC Web site">General Medical Council's Good practice in prescribing and managing medicines and devices</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> for further information.</p>
+<p><strong>Delivering Psychological Interventions for Adults</strong></p>
+<p>Individual CBT (the Clark and Wells model) for social anxiety disorder should consist of up to 14 sessions of 90 minutes' duration over approximately 4 months and include the following:</p>
+<ul style="list-style-type: disc;">
+    <li>Education about social anxiety </li>
+    <li>Experiential exercises to demonstrate the adverse effects of self-focused attention and safety-seeking behaviours </li>
+    <li>Video feedback to correct distorted negative self-imagery </li>
+    <li>Systematic training in externally focused attention </li>
+    <li>Within-session behavioural experiments to test negative beliefs with linked homework assignments </li>
+    <li>Discrimination training or rescripting to deal with problematic memories of social trauma </li>
+    <li>Examination and modification of core beliefs </li>
+    <li>Modification of problematic pre- and post-event processing </li>
+    <li>Relapse prevention </li>
+</ul>
+<p>Individual CBT (the Heimberg model) for social anxiety disorder should consist of 15 sessions of 60 minutes' duration, and 1 session of 90 minutes for exposure, over approximately 4 months, and include the following:</p>
+<ul style="list-style-type: disc;">
+    <li>Education about social anxiety </li>
+    <li>Cognitive restructuring </li>
+    <li>Graduated exposure to feared social situations, both within treatment sessions and as homework </li>
+    <li>Examination and modification of core beliefs </li>
+    <li>Relapse prevention </li>
+</ul>
+<p>Supported self-help for social anxiety disorder should consist of:</p>
+<ul style="list-style-type: disc;">
+    <li>Typically up to 9 sessions of supported use of a CBT-based self-help book over 3&ndash;4 months </li>
+    <li>Support to use the materials, either face to face or by telephone, for a total of 3 hours over the course of the treatment </li>
+</ul>
+<p>Short-term psychodynamic psychotherapy for social anxiety disorder should consist of typically up to 25&ndash;30 sessions of 50 minutes' duration over 6&ndash;8 months and include the following:</p>
+<ul style="list-style-type: disc;">
+    <li>Education about social anxiety disorder </li>
+    <li>Establishing a secure positive therapeutic alliance to modify insecure attachments </li>
+    <li>A focus on a core conflictual relationship theme associated with social anxiety symptoms </li>
+    <li>A focus on shame </li>
+    <li>Encouraging exposure to feared social situations outside therapy sessions </li>
+    <li>Support to establish a self-affirming inner dialogue </li>
+    <li>Help to improve social skills </li>
+</ul>
+<p><strong>Prescribing and Monitoring Pharmacological Interventions in Adults</strong></p>
+<p>Before prescribing a pharmacological intervention for social anxiety disorder, discuss the treatment options and any concerns the person has about taking medication. Explain fully the reasons for prescribing and provide written and verbal information on:</p>
+<ul style="list-style-type: disc;">
+    <li>The likely benefits of different drugs </li>
+    <li>The different propensities of each drug for side effects, discontinuation syndromes and drug interactions </li>
+    <li>The risk of early activation symptoms with SSRIs and SNRIs, such as increased anxiety, agitation, jitteriness and problems sleeping </li>
+    <li>The gradual development, over 2 weeks or more, of the full anxiolytic effect </li>
+    <li>The importance of taking medication as prescribed, reporting side effects and discussing any concerns about stopping medication with the prescriber, and the need to continue treatment after remission to avoid relapse </li>
+</ul>
+<p>Arrange to see people aged 30 years and older who are not assessed to be at risk of suicide within 1&ndash;2 weeks of first prescribing SSRIs or SNRIs to:</p>
+<ul style="list-style-type: disc;">
+    <li>Discuss any possible side effects and potential interaction with symptoms of social anxiety disorder (for example, increased restlessness or agitation) </li>
+    <li>Advise and support them to engage in graduated exposure to feared or avoided social situations. </li>
+</ul>
+<p>After the initial meeting (see recommendation above), arrange to see the person every 2&ndash;4 weeks during the first 3 months of treatment and every month thereafter. Continue to support them to engage in graduated exposure to feared or avoided social situations.</p>
+<p>For people aged under 30 years who are offered an SSRI or SNRI:</p>
+<ul style="list-style-type: disc;">
+    <li>Warn them that these drugs are associated with an increased risk of suicidal thinking and self-harm in a minority of people under 30 <strong>and</strong> </li>
+    <li>See them within 1 week of first prescribing <strong>and</strong> </li>
+    <li>Monitor the risk of suicidal thinking and self-harm weekly for the first month (this recommendation is from the NICE clinical guideline <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fCG113" title="NICE Web site">Generalised anxiety disorder and panic disorder [with or without agoraphobia] in adults. Management in primary, secondary and community care</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (NICE clinical guideline 113). </li>
+</ul>
+<p>Arrange to see people who are assessed to be at risk of suicide weekly until there is no indication of increased suicide risk, then every 2&ndash;4 weeks during the first 3 months of treatment and every month thereafter. Continue to support them to engage in graduated exposure to feared or avoided social situations.</p>
+<p>Advise people taking a monoamine oxidase inhibitor of the dietary and pharmacological restrictions concerning the use of these drugs as set out in the British national formulary.</p>
+<p>For people who develop side effects soon after starting a pharmacological intervention, provide information and consider 1 of the following strategies:</p>
+<ul style="list-style-type: disc;">
+    <li>Monitoring the person's symptoms closely (if the side effects are mild and acceptable to the person) </li>
+    <li>Reducing the dose of the drug </li>
+    <li>Stopping the drug and offering either an alternative drug or individual CBT, according to the person's preference </li>
+</ul>
+<p>This recommendation is adapted from the NICE clinical guideline <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fCG113" title="NICE Web site">Generalised anxiety disorder and panic disorder (with or without agoraphobia) in adults. Management in primary, secondary and community care</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (NICE clinical guideline 113).</p>
+<p>If the person's symptoms of social anxiety disorder have responded well to a pharmacological intervention in the first 3 months, continue it for at least a further 6 months.</p>
+<p>When stopping a pharmacological intervention, reduce the dose of the drug gradually. If symptoms reappear after the dose is lowered or the drug is stopped, consider increasing the dose, reintroducing the drug or offering individual CBT.</p>
+<p><strong><span style="text-decoration: underline;">Identification and Assessment of Children and Young People</span></strong></p>
+<p><strong>Identification of Children and Young People With Possible Social Anxiety Disorder</strong></p>
+<p>Health and social care professionals in primary care and education and community settings should be alert to possible anxiety disorders in children and young people, particularly those who avoid school, social or group activities or talking in social situations, or are irritable, excessively shy or overly reliant on parents or carers. Consider asking the child or young person about their feelings of anxiety, fear, avoidance, distress and associated behaviours (or a parent or carer) to help establish if social anxiety disorder is present, using these questions:</p>
+<ul style="list-style-type: disc;">
+    <li>"Sometimes people get very scared when they have to do things with other people, especially people they don't know. They might worry about doing things with other people watching. They might get scared that they will do something silly or that people will make fun of them. They might not want to do these things or, if they have to do them, they might get very upset or cross."
+    <ul style="list-style-type: disc;">
+        <li>"Do you/does your child get scared about doing things with other people, like talking, eating, going to parties, or other things at school or with friends?" </li>
+        <li>"Do you/does your child find it difficult to do things when other people are watching, like playing sport, being in plays or concerts, asking or answering questions, reading aloud, or giving talks in class?" </li>
+        <li>"Do you/does your child ever feel that you/your child can't do these things or try to get out of them?" </li>
+    </ul>
+    </li>
+</ul>
+<p>If the child or young person (or a parent or carer) answers 'yes' to one or more of the questions above, consider a comprehensive assessment for social anxiety disorder (see recommendations below under "Assessment of Children and Young People With Possible Social Anxiety Disorder").</p>
+<p>If the identification questions (see first recommendation in this section) indicate possible social anxiety disorder, but the practitioner is not competent to perform a mental health assessment, refer the child or young person to an appropriate healthcare professional. If this professional is not the child or young person's GP, inform the GP of the referral.</p>
+<p>If the identification questions (see first recommendation in this section) indicate possible social anxiety disorder, a practitioner who is competent to perform a mental health assessment should review the child or young person's mental state and associated functional, interpersonal and social difficulties.</p>
+<p><strong>Assessment of Children and Young People With Possible Social Anxiety Disorder</strong></p>
+<p>A comprehensive assessment of a child or young person with possible social anxiety disorder should:</p>
+<ul style="list-style-type: disc;">
+    <li>Provide an opportunity for the child or young person to be interviewed alone at some point during the assessment </li>
+    <li>If possible involve a parent, carer or other adult known to the child or young person who can provide information about current and past behaviour </li>
+    <li>If necessary involve more than one professional to ensure a comprehensive assessment can be undertaken </li>
+</ul>
+<p>When assessing a child or young person obtain a detailed description of their current social anxiety and associated problems including:</p>
+<ul style="list-style-type: disc;">
+    <li>Feared and avoided social situations </li>
+    <li>What they are afraid might happen in social situations (for example, looking anxious, blushing, sweating, trembling or appearing boring) </li>
+    <li>Anxiety symptoms </li>
+    <li>View of self </li>
+    <li>Content of self-image </li>
+    <li>Safety-seeking behaviours </li>
+    <li>Focus of attention in social situations </li>
+    <li>Anticipatory and post-event processing, particularly for older children </li>
+    <li>Family circumstances and support </li>
+    <li>Friendships and peer groups, educational and social circumstances </li>
+    <li>Medication, alcohol and recreational drug use </li>
+</ul>
+<p>As part of a comprehensive assessment, assess for causal and maintaining factors for social anxiety disorder in the child or young person's home, school and social environment, in particular:</p>
+<ul style="list-style-type: disc;">
+    <li>Parenting behaviours that promote and support anxious behaviours or do not support positive behaviours </li>
+    <li>Peer victimisation in school or other settings </li>
+</ul>
+<p>As part of a comprehensive assessment, assess for possible coexisting conditions such as:</p>
+<ul style="list-style-type: disc;">
+    <li>Other mental health problems (for example, other anxiety disorders and depression) </li>
+    <li>Neurodevelopmental conditions such as attention deficit hyperactivity disorder, autism and learning disabilities </li>
+    <li>Drug and alcohol misuse (see the last recommendation under the section "Planning treatment for adults diagnosed with social anxiety disorder") </li>
+    <li>Speech and language problems </li>
+</ul>
+<p>To aid the assessment of social anxiety disorder and other common mental health problems consider using formal instruments (both the child and parent versions if available and indicated), such as:</p>
+<ul style="list-style-type: disc;">
+    <li>The LSAS&ndash;child version or the Social Phobia and Anxiety Inventory for Children (SPAI-C) for children, or the SPIN or the LSAS for young people </li>
+    <li>The Multidimensional Anxiety Scale for Children (MASC), the Revised Child Anxiety and Depression Scale (RCADS) for children and young people who may have comorbid depression or other anxiety disorders, the Spence Children's Anxiety Scale (SCAS) or the Screen for Child Anxiety Related Emotional Disorders (SCARED) for children </li>
+</ul>
+<p>Use formal assessment instruments to aid the diagnosis of other problems, such as:</p>
+<ul style="list-style-type: disc;">
+    <li>A validated measure of cognitive ability for a child or young person with a suspected learning disability </li>
+    <li>The Strengths and Difficulties Questionnaire for all children and young people </li>
+</ul>
+<p>Assess the risks and harm faced by the child or young person and if needed develop a risk management plan for risk of self-neglect, familial abuse or neglect, exploitation by others, self-harm or harm to others.</p>
+<p>Develop a profile of the child or young person to identify their needs and any further assessments that may be needed, including the extent and nature of:</p>
+<ul style="list-style-type: disc;">
+    <li>The social anxiety disorder and any associated difficulties (for example, selective mutism) </li>
+    <li>Any coexisting mental health problems </li>
+    <li>Neurodevelopmental conditions such as attention deficit hyperactivity disorder, autism and learning disabilities </li>
+    <li>Experience of bullying or social ostracism </li>
+    <li>Friendships with peers </li>
+    <li>Speech, language and communication skills </li>
+    <li>Physical health problems </li>
+    <li>Personal and social functioning to indicate any needs (personal, social, housing, educational and occupational) </li>
+    <li>Educational and occupational goals </li>
+    <li>Parent or carer needs, including mental health needs </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Interventions for Children and Young People With Social Anxiety Disorder</span></strong></p>
+<p><strong>Treatment Principles</strong></p>
+<p>All interventions for children and young people with social anxiety disorder should be delivered by competent practitioners. Psychological interventions should be based on the relevant treatment manual(s), which should guide the structure and duration of the intervention. Practitioners should consider using competence frameworks developed from the relevant treatment manual(s) and for all interventions should:</p>
+<ul style="list-style-type: disc;">
+    <li>Receive regular high-quality supervision </li>
+    <li>Use routine sessional outcome measures, for example:
+    <ul style="list-style-type: disc;">
+        <li>The LSAS&ndash;child version or the SPAI-C, and the SPIN or LSAS for young people </li>
+        <li>The MASC, RCADS, SCAS or SCARED for children </li>
+    </ul>
+    </li>
+    <li>Engage in monitoring and evaluation of treatment adherence and practitioner competence&nbsp;&ndash; for example, by using video and audio tapes, and external audit and scrutiny if appropriate </li>
+</ul>
+<p>Be aware of the impact of the home, school and wider social environments on the maintenance and treatment of social anxiety disorder. Maintain a focus on the child or young person's emotional, educational and social needs and work with parents, teachers, other adults and the child or young person's peers to create an environment that supports the achievement of the agreed goals of treatment.</p>
+<p><strong>Treatment for Children and Young People With Social Anxiety Disorder</strong></p>
+<p>Offer individual or group CBT focused on social anxiety (see recommendation below under the section "Delivering psychological interventions for children and young people")&nbsp;to children and young people with social anxiety disorder. Consider involving parents or carers to ensure the effective delivery of the intervention, particularly in young children.</p>
+<p><strong>Delivering Psychological Interventions for Children and Young People</strong></p>
+<p>Individual CBT should consist of the following, taking into account the child or young person's cognitive and emotional maturity:</p>
+<ul style="list-style-type: disc;">
+    <li>8&ndash;12 sessions of 45 minutes' duration </li>
+    <li>Psychoeducation, exposure to feared or avoided social situations, training in social skills and opportunities to rehearse skills in social situations </li>
+    <li>Psychoeducation and skills training for parents, particularly of young children, to promote and reinforce the child's exposure to feared or avoided social situations and development of skills </li>
+</ul>
+<p>Group CBT should consist of the following, taking into account the child or young person's cognitive and emotional maturity:</p>
+<ul style="list-style-type: disc;">
+    <li>8&ndash;12 sessions of 90 minutes' duration with groups of children or young people of the same age range </li>
+    <li>Psychoeducation, exposure to feared or avoided social situations, training in social skills and opportunities to rehearse skills in social situations </li>
+    <li>Psychoeducation and skills training for parents, particularly of young children, to promote and reinforce the child's exposure to feared or avoided social situations and development of skills </li>
+</ul>
+<p>Consider psychological interventions that were developed for adults (see "Interventions for Adults with Social Anxiety Disorder", above) for young people (typically aged 15 years and older) who have the cognitive and emotional capacity to undertake a treatment developed for adults.</p>
+<p><strong><span style="text-decoration: underline;">Interventions That Are Not Recommended to Treat Social Anxiety Disorder</span></strong></p>
+<p>Do not routinely offer pharmacological interventions to treat social anxiety disorder in children and young people.</p>
+<p>Do not routinely offer anticonvulsants, tricyclic antidepressants, benzodiazepines or antipsychotic medication to treat social anxiety disorder in adults.</p>
+<p>Do not routinely offer mindfulness-based interventions or supportive therapy to treat social anxiety disorder (including mindfulness-based stress reduction and mindfulness-based cognitive therapy).</p>
+<p>Do not offer St John's wort or other over-the-counter medications and preparations for anxiety to treat social anxiety disorder. Explain the potential interactions with other prescribed and over-the-counter medications and the lack of evidence to support their safe use.</p>
+<p>Do not offer botulinum toxin to treat hyperhidrosis (excessive sweating) in people with social anxiety disorder. This is because there is no good-quality evidence showing benefit from botulinum toxin in the treatment of social anxiety disorder and it may be harmful.</p>
+<p>Do not offer endoscopic thoracic sympathectomy to treat hyperhidrosis or facial blushing in people with social anxiety disorder. This is because there is no good-quality evidence showing benefit from endoscopic thoracic sympathectomy in the treatment of social anxiety disorder and it may be harmful.</p>
+<p><strong><span style="text-decoration: underline;">Specific Phobias</span></strong></p>
+<p><strong>Interventions That Are Not Recommended</strong></p>
+<p>Do not routinely offer computerised CBT to treat specific phobias in adults.</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>The recommendations from this guideline have been incorporated into a <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=http%3a%2f%2fpathways.nice.org.uk%2fpathways%2fsocial-anxiety-disorder" title="NICE Web site">NICE Pathway</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Social anxiety disorder</p>
+<p class="Note"><strong>Note</strong>: For the purposes of this guideline, social anxiety disorder is defined as "persistent fear of or anxiety about one or more social or performance situations that is out of proportion to the actual threat posed by the situation".</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Counseling</p>
+                    <p>Diagnosis</p>
+                    <p>Management</p>
+                    <p>Risk Assessment</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Family Practice</p>
+                    <p>Internal Medicine</p>
+                    <p>Pediatrics</p>
+                    <p>Psychiatry</p>
+                    <p>Psychology</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Health Care Providers</p>
+                    <p>Nurses</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                    <p>Psychologists/Non-physician Behavioral Health Clinicians</p>
+                    <p>Social Workers</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>To make recommendations for the recognition, assessment and treatment of social anxiety disorder </li>
+    <li>To improve access and engagement with treatment and services for people with social anxiety disorder </li>
+    <li>To evaluate the role of specific psychological and psychosocial interventions in the treatment of social anxiety disorder </li>
+    <li>To evaluate the role of specific pharmacological interventions in the treatment of social anxiety disorder </li>
+    <li>To integrate the above to provide best-practice advice on the care of people throughout the course of their social anxiety disorder </li>
+    <li>To promote the implementation of best clinical practice through the development of recommendations tailored to the requirements of the National Health Service (NHS) in England and Wales </li>
+</ul></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Adults (aged 18 and older) with social anxiety disorder </li>
+    <li>Children and young people (from school age to 17 years) with social anxiety disorder </li>
+</ul></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>General principles of care in mental health and general medical settings
+    <ul style="list-style-type: disc;">
+        <li>Improving access to services </li>
+        <li>Communication with patients </li>
+        <li>Ensuring competence of care </li>
+        <li>Ensuring patient consent and confidentiality </li>
+        <li>Working with parents and carers </li>
+    </ul>
+    </li>
+    <li>Identification and assessment of possible social anxiety disorder in adults
+    <ul style="list-style-type: disc;">
+        <li>Identification questions (e.g., Mini-Social Phobia Inventory [Mini-SPIN]) </li>
+        <li>Diagnostic assessment </li>
+        <li>Use of validated measures for social anxiety (e.g., SPIN or Liebowitz Social Anxiety Scale [LSAS]) </li>
+    </ul>
+    </li>
+    <li>Planning treatment for adults with social anxiety disorder </li>
+    <li>Interventions for adults with social anxiety disorder
+    <ul style="list-style-type: disc;">
+        <li>General treatment principles </li>
+        <li>Individual cognitive behavioural therapy (CBT) </li>
+        <li>CBT-based supported self-help </li>
+        <li>Pharmacological interventions: serotonin reuptake inhibitor (SSRI) (escitalopram, sertraline, fluvoxamine, paroxetine) or serotonin noradrenaline reuptake inhibitor (SNRI) (venlafaxine) </li>
+        <li>Psychodynamic psychotherapy </li>
+        <li>Combination of pharmacotherapy with individual CBT </li>
+        <li>Monitoring pharmacological interventions for response and adverse effects </li>
+    </ul>
+    </li>
+    <li>Identification and assessment of children and young people with possible social anxiety disorder
+    <ul style="list-style-type: disc;">
+        <li>Being alert to behaviours that may indicate a possible anxiety disorder </li>
+        <li>Comprehensive assessment, including assessment for coexisting conditions </li>
+        <li>Use of formal assessment instruments: LSAS, SPIN, Social Phobia and Anxiety Inventory for Children (SPAI-C), Multidimensional Anxiety Scale for Children (MASC), Revised Child Anxiety and Depression Scale (RCADS), the Spence Children's Anxiety Scale (SCAS), or the Screen for Child Anxiety Related Emotional Disorders (SCARED), Strengths and Difficulties Questionnaire </li>
+    </ul>
+    </li>
+    <li>Interventions for children and young people with social anxiety disorder
+    <ul style="list-style-type: disc;">
+        <li>General treatment principles </li>
+        <li>Individual or group CBT </li>
+    </ul>
+    </li>
+    <li>Interventions specifically not recommended or not recommended routinely
+    <ul style="list-style-type: disc;">
+        <li>Pharmacological interventions to treat social anxiety disorder in children and young people (not recommended routinely) </li>
+        <li>Anticonvulsants, tricyclic antidepressants, benzodiazepines or antipsychotic medication to treat social anxiety disorder in adults (not recommended routinely) </li>
+        <li>Mindfulness-based interventions or supportive therapy to treat social anxiety disorder (not recommended routinely) </li>
+        <li>St. John's wort or other over-the-counter medications and preparations for anxiety to treat social anxiety disorder (not recommended) </li>
+        <li>Botulinum toxin to treat hyperhidrosis (not recommended) </li>
+        <li>Endoscopic thoracic sympathectomy to treat hyperhidrosis or facial blushing (not recommended) </li>
+        <li>Computerized CBT to treat specific phobias in adults (not recommended) </li>
+    </ul>
+    </li>
+</ol></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Accuracy of recognition tools (considering sensitivity, specificity, positive predictive value, negative predictive value and area under the curve) </li>
+    <li>Percentage of people receiving appropriate treatment </li>
+    <li>Symptom improvement (short and long term) </li>
+    <li>Educational, occupational and social performance/functioning </li>
+    <li>Health economic outcomes (for example, quality-adjusted life year [QALY]) </li>
+    <li>Health-related quality of life </li>
+    <li>Treatment acceptability </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Hand-searches of Published Literature (Primary Sources)</p>
+                    <p>Hand-searches of Published Literature (Secondary Sources)</p>
+                    <p>Searches of Electronic Databases</p>
+                    <p>Searches of Unpublished Data</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Mental Health on behalf of the National Institute for Health and Care Excellence (NICE). See the "Availability of Companion Documents" field for the full version of this guidance.</p>
+<p><span style="text-decoration: underline;"><strong>Search Strategy for Clinical Evidence </strong></span></p>
+<p><strong>Scoping Searches</strong></p>
+<p>A broad preliminary search of the literature was undertaken in December 2010 to obtain an overview of the issues likely to be covered by the scope, and to help define key areas. Searches were restricted to clinical guidelines, Health Technology Assessment (HTA) reports, key systematic reviews and randomised controlled trials (RCTs) and conducted in the following databases and websites:</p>
+<ul style="list-style-type: disc;">
+    <li>BMJ Clinical Evidence </li>
+    <li>Canadian Medical Association (CMA) Infobase (Canadian guidelines) </li>
+    <li>Clinical Policy and Practice Program of the New South Wales Department of Health (Australia) </li>
+    <li>Clinical Practice Guidelines (Australian Guidelines) </li>
+    <li>Cochrane Central Register of Controlled Trials (CENTRAL) </li>
+    <li>Cochrane Database of Abstracts of Reviews of Effects (DARE) </li>
+    <li>Cochrane Database of Systematic Reviews (CDSR) </li>
+    <li>Excerpta Medica Database (EMBASE) </li>
+    <li>Guidelines International Network (G-I-N) </li>
+    <li>Health Evidence Bulletin Wales </li>
+    <li>Health Management Information Consortium (HMIC) </li>
+    <li>HTA database (technology assessments) </li>
+    <li>Medical Literature Analysis and Retrieval System Online (MEDLINE/MEDLINE in Process) </li>
+    <li>National Health and Medical Research Council (NHMRC) </li>
+    <li>National Library for Health (NLH) Guidelines Finder </li>
+    <li>New Zealand Guidelines Group </li>
+    <li>NHS Centre for Reviews and Dissemination (CRD) </li>
+    <li>Organizing Medical Networked Information (OMNI) Medical Search </li>
+    <li>SIGN </li>
+    <li>Turning Research Into Practice (TRIP) </li>
+    <li>United States AHRQ </li>
+    <li>Websites of NICE &ndash; including NHS Evidence - and the National Institute for Health Research (NIHR) HTA Programme for guidelines and HTAs in development </li>
+</ul>
+<p>Further information about this process can be found in The National Institute for Health and Care Excellence (NICE) <em>Guidelines Manual</em> (see the "Availability of Companion Documents" field).</p>
+<p><strong>Systematic Literature Searches</strong></p>
+<p>After the scope was finalised, a systematic search strategy was developed to locate as much relevant evidence as possible. The balance between sensitivity (the power to identify all studies on a particular topic) and specificity (the ability to exclude irrelevant studies from the results) was carefully considered, and a decision made to utilise a broad approach to searching to maximise retrieval of evidence to all parts of the guideline. The broad search was restricted to systematic reviews and randomized controlled trials. Additional question specific searching was conducted for other literature where necessary, and restricted to observational studies, qualitative studies/surveys. The following databases were utilised for the searches:</p>
+<ul style="list-style-type: disc;">
+    <li>Allied and Complementary Medicine Database (AMED) </li>
+    <li>Applied Social Services Index and Abstracts (ASSIA) </li>
+    <li>Australian Education Index (AEI) </li>
+    <li>British Education Index (BEI) </li>
+    <li>Cumulative Index to Nursing and Allied Health Literature (CINAHL) </li>
+    <li>Cochrane Database of Abstracts of Reviews of Effects (DARE) </li>
+    <li>Cochrane Database of Systematic Reviews (CDSR) </li>
+    <li>CENTRAL (COCHRANE database of RCTs and other controlled trials) </li>
+    <li>Education Resources in Curriculum (ERIC) </li>
+    <li>EMBASE </li>
+    <li>Health Management Information Consortium (HMIC) </li>
+    <li>HTA database (technology assessments) </li>
+    <li>International Bibliography of Social Science (IBSS) </li>
+    <li>MEDLINE / MEDLINE In-Process </li>
+    <li>PsycBOOKS </li>
+    <li>PsycEXTRA </li>
+    <li>Psychological Information Database (PsycINFO) </li>
+    <li>Social Services Abstracts (SSA) </li>
+    <li>Social Sciences Citation Index &ndash; Web of Science (SSCI) </li>
+</ul>
+<p>The search strategies were initially developed for MEDLINE before being translated for use in other databases/interfaces. Strategies were built up through a number of trial searches and discussions of the results of the searches with the review team and the Guideline Development Group (GDG) to ensure that all possible relevant search terms were covered. In order to assure comprehensive coverage, search terms for social anxiety disorder were kept purposely broad to help counter dissimilarities in database indexing practices and thesaurus terms, and imprecise reporting of study populations by authors in the titles and abstracts of records. The search terms for each search are set out in full in Appendix 6 in the full version of the original guideline document.</p>
+<p><strong>EndNote</strong></p>
+<p>Citations from each search were downloaded into EndNote, the reference management software, and duplicates removed. Records were then screened against the eligibility criteria of the reviews before being quality appraised. The unfiltered search results were saved and retained for future potential re-analysis to help keep the process both replicable and transparent.</p>
+<p><strong>Study Design Filters</strong></p>
+<p>To aid retrieval of relevant and sound studies, study design filters were used to limit the searches to systematic reviews, randomized controlled trials, observational studies and qualitative studies. The study design filters for systematic reviews and randomized controlled trials are adaptations of filters designed by the Centre for Reviews and Dissemination (CRD) and the Health Information Research Unit of McMaster University, Ontario. The study design filters for observational studies and qualitative studies were developed in-house. Each filter comprises index terms relating to the study type(s) and associated textwords for the methodological description of the design(s).</p>
+<p><strong>Date and Language Restrictions</strong></p>
+<p>Systematic database searches were initially conducted in August 2011 up to the most recent searchable date. Search updates were generated on a 6-monthly basis, with the final re-runs carried out in October 2012 ahead of the guideline consultation. After this point, studies were only included if they were judged by the GDG to be exceptional (for example, if the evidence was likely to change a recommendation).</p>
+<p>Although no language restrictions were applied at the searching stage, foreign language papers were not requested or reviewed, unless they were of particular importance to a review question.</p>
+<p>Date restrictions were only applied for searches that updated existing reviews. In addition, searches for systematic reviews were limited to research published from 1997 as older reviews were thought to be less useful.</p>
+<p><strong>Other Search Methods</strong></p>
+<p>Other search methods involved: (a) scanning the reference lists of all eligible publications (systematic reviews, stakeholder evidence and included studies) for more published reports and citations of unpublished research; (b) sending lists of studies meeting the inclusion criteria to subject experts (identified through searches and the GDG) and asking them to check the lists for completeness, and to provide information of any published or unpublished research for consideration (see Appendix 6 in the full version of the original guideline document); (c) checking the tables of contents of key journals for studies that might have been missed by the database and reference list searches; (d) tracking key papers in the Science Citation Index (prospectively) over time for further useful references; (e) conducting searches in <a href="https://web.archive.org/web/20180713025317/http://clinicaltrials.gov/" title="ClinicalTrials.gov Web site" target="_blank">ClinicalTrials.gov</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> for unpublished trial reports; (f) contacting included study authors for unpublished or incomplete data sets. Searches conducted for existing NICE guidelines were updated where necessary. Other relevant guidelines were assessed for quality using the&nbsp;Appraisal of Guidelines for Research and Evaluation (AGREE) instrument. The evidence base underlying high-quality existing guidelines was utilised and updated as appropriate.</p>
+<p>Full details of the search strategies and filters used for the systematic review of clinical evidence are provided in Appendix 6 in the full version of the original guideline document.</p>
+<p><strong>Study Selection and Quality Assessment</strong></p>
+<p>All primary-level studies included after the first scan of citations were acquired in full and re-evaluated for eligibility at the time they were being entered into the study information database. More specific eligibility criteria were developed for each review question and are described in the relevant clinical evidence chapters. Eligible studies were critically appraised for methodological quality (see Appendices 8, 10, 11 and 21 in the full version of the original guideline document). The eligibility of each study was confirmed by at least one member of the appropriate topic group.</p>
+<p>For some review questions, it was necessary to prioritise the evidence with respect to the UK context (that is, external validity). To make this process explicit, the topic groups took into account the following factors when assessing the evidence:</p>
+<ul style="list-style-type: disc;">
+    <li>Participant factors (for example, gender, age and ethnicity) </li>
+    <li>Provider factors (for example, model fidelity, the conditions under which the intervention was performed and the availability of experienced staff to undertake the procedure) </li>
+    <li>Cultural factors (for example, differences in standard care and differences in the welfare system) </li>
+</ul>
+<p>It was the responsibility of each topic group to decide which prioritisation factors were relevant to each review question in light of the UK context and then decide how they should modify their recommendations.</p>
+<p><strong>Unpublished Evidence</strong></p>
+<p>Authors and principle investigators were approached for unpublished evidence (see Appendix 5 in the full version of the original guideline document). The GDG used a number of criteria when deciding whether or not to accept unpublished data. First, the evidence must have been accompanied by a trial report containing sufficient detail to properly assess the quality of the data. Second, the evidence must have been submitted with the understanding that data from the study and a summary of the study's characteristics would be published in the full guideline. Therefore, the GDG did not accept evidence submitted as commercial in confidence. However, the GDG recognised that unpublished evidence submitted by investigators might later be retracted by those investigators if the inclusion of such data would jeopardise publication of their research.</p>
+<p><span style="text-decoration: underline;"><strong>Search Strategy for Economic Evidence</strong></span></p>
+<p><strong>Scoping Searches</strong></p>
+<p>A broad preliminary search of the literature was undertaken in December 2010 to obtain an overview of the issues likely to be covered by the scope, and help define key areas. Searches were restricted to economic studies and HTA reports, and conducted in the following databases:</p>
+<ul style="list-style-type: disc;">
+    <li>EMBASE </li>
+    <li>MEDLINE/MEDLINE In-Process </li>
+    <li>HTA database (technology assessments) </li>
+    <li>NHS Economic Evaluation Database (NHS EED) </li>
+</ul>
+<p>Any relevant economic evidence arising from the clinical scoping searches was also made available to the health economist during the same period.</p>
+<p><strong>Systematic Literature Searches</strong></p>
+<p>After the scope was finalised, a systematic search strategy was developed to locate all the relevant evidence. The balance between sensitivity (the power to identify all studies on a particular topic) and specificity (the ability to exclude irrelevant studies from the results) was carefully considered, and a decision made to utilise a broad approach to searching to maximise retrieval of evidence to all parts of the guideline.</p>
+<p>Searches were restricted to economic studies and health technology assessment reports, and conducted in the following databases:</p>
+<ul style="list-style-type: disc;">
+    <li>EMBASE </li>
+    <li>HTA database (technology assessments) </li>
+    <li>MEDLINE/MEDLINE In-Process </li>
+    <li>NHS EED </li>
+    <li>PsycINFO </li>
+</ul>
+<p>Any relevant economic evidence arising from the clinical searches was also made available to the health economist during the same period.</p>
+<p>The search strategies were initially developed for MEDLINE before being translated for use in other databases/interfaces. Strategies were built up through a number of trial searches, and discussions of the results of the searches with the review team and GDG to ensure that all possible relevant search terms were covered. In order to assure comprehensive coverage, search terms for social anxiety disorder were kept purposely broad to help counter dissimilarities in database indexing practices and thesaurus terms, and imprecise reporting of study populations by authors in the titles and abstracts of records.</p>
+<p>For standard mainstream bibliographic databases (EMBASE, MEDLINE and PsycINFO) search terms for social anxiety disorder were combined with a search filter for health economic studies. For searches generated in topic-specific databases (HTA, NHS EED) search terms for social anxiety disorder were used without a filter. The sensitivity of this approach was aimed at minimising the risk of overlooking relevant publications, due to potential weaknesses resulting from more focused search strategies. The search terms are set out in full in Appendix 7 of the original guideline document.</p>
+<p><strong>Inclusion Criteria for Economic Studies</strong></p>
+<p>The following inclusion criteria were applied to select studies identified by the economic searches for further consideration:</p>
+<ul style="list-style-type: disc;">
+    <li>Only studies from Organisation for Economic Co-operation and Development countries were included, as the aim of the review was to identify economic information transferable to the UK context. </li>
+    <li>Selection criteria based on types of clinical conditions and study populations as well as interventions assessed were identical to the clinical literature review. </li>
+    <li>Studies were included provided that sufficient details regarding methods and results were available to enable the methodological quality of the study to be assessed, and provided that the study's data and results were extractable. Poster presentations of abstracts were excluded. </li>
+    <li>Full economic evaluations that compared two or more relevant options and considered both costs and consequences as well as costing analyses that compared only costs between two or more interventions were included in the review. </li>
+    <li>Economic studies were included if they used clinical effectiveness data from an RCT, a cohort study, or a systematic review and meta-analysis of clinical studies. </li>
+</ul></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development, and Evaluation (GRADE)</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Overall Quality of Outcome Evidence in Grading of Recommendations Assessment, Development and Evaluation (GRADE)">
+    <thead>
+        <tr>
+            <th valign="top">Level</th>
+            <th valign="top">Description</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th valign="top">High</th>
+            <td valign="top">Further research is very unlikely to change confidence in the estimate of effect</td>
+        </tr>
+        <tr>
+            <th valign="top">Moderate</th>
+            <td valign="top">Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate</td>
+        </tr>
+        <tr>
+            <th valign="top">Low</th>
+            <td valign="top">Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate</td>
+        </tr>
+        <tr>
+            <th valign="top">Very low</th>
+            <td valign="top">Any estimate of effect is very uncertain</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Meta-Analysis</p>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse (NGC)</strong>: This guideline was developed by the National Collaborating Centre for Mental Health on behalf of the National Institute for Health and Care Excellence (NICE). See the "Availability of Companion Documents" field for the full version of this guidance.</p>
+<p><strong>Data Extraction</strong></p>
+<p><em>Quantitative Analysis</em></p>
+<p>Study characteristics, methodological quality, and outcome data were extracted from all eligible studies that met the minimum quality criteria using Excel based forms (see Appendices in the full version of the original guideline document).</p>
+<p>Where possible, outcome data from an intention-to-treat analysis (ITT) (that is, a 'once-randomised-always-analyse' basis) were used. When making the calculations if there was good evidence that those participants who ceased to engage in the study were likely to have an unfavourable outcome, early withdrawals were included in both the numerator and denominator. Adverse effects were entered into Review Manager as reported by the study authors because it is usually not possible to determine whether early withdrawals had an unfavourable outcome.</p>
+<p>Masked assessment (that is, blind to the journal from which the article comes, the authors, the institution and the magnitude of the effect) was not used since it is unclear that doing so reduces bias.</p>
+<p><strong>Evaluating Psychometric Data</strong></p>
+<p>The psychometric properties of instruments that met inclusion criteria were evaluated according to the following criteria:</p>
+<p><em>Reliability</em></p>
+<ul style="list-style-type: disc;">
+    <li>&le;0.60 = unreliable; &gt;0.60 = marginally reliable; &ge;0.70 = relatively reliable </li>
+    <li>Inter-rater reliability (<em>r</em> &ge;0.70) = relatively reliable </li>
+    <li>Test-retest reliability (<em>r</em> &ge;0.70) = relatively reliable. </li>
+</ul>
+<p><em>Validity</em></p>
+<ul style="list-style-type: disc;">
+    <li>Content validity:
+    <ul style="list-style-type: disc;">
+        <li>Content Validity Index (CVI) &ndash; where available &ndash; of: &ge;0.78 for three or more experts </li>
+        <li>Does a self-report scale have items that capture the components of the disorder? This is judged by evaluating evidence by referring to (a) established criteria for a particular construct; (b) other published rating scales; (c) characteristic behaviours reported in the literature </li>
+    </ul>
+    </li>
+    <li>Criterion validity: minimum 0.50 (or some suggest 0.30&ndash;0.40 is more reasonable) </li>
+    <li>Construct validity: &ge;0.50 </li>
+    <li>Sensitivity/specificity (as previously used): &ge;0.80 </li>
+</ul>
+<p><em>Clinical Utility</em></p>
+<p>The assessment instrument should be feasible and implementable in routine clinical care across a variety of assessment settings. The time and skills required to administer, score and interpret the instrument was also considered, as well as the cost and any copyright issues.</p>
+<p><strong>Synthesising the Evidence from Comparative Effectiveness Studies</strong></p>
+<p><em>Pairwise Meta-analysis</em></p>
+<p>Where possible, meta-analysis was used to synthesise evidence from comparative effectiveness studies using Review Manager. If necessary, re-analyses of the data or sub-analyses were used to answer review questions not addressed in the original studies or reviews.</p>
+<p>Dichotomous outcomes were analysed as relative risks (RR) with the associated 95% confidence interval (CI) (see Figure 1, in the full version of the original guideline document, for an example of a forest plot displaying dichotomous data).</p>
+<p>Continuous outcomes were analysed using the standardised mean difference (SMD) to estimate the same underlying effect (see Figure 2, in the full version of the original guideline document, for an example of a forest plot displaying continuous data). If reported by study authors, intention-to-treat data, using a valid method for imputation of missing data, were preferred over data only from people who completed the study.</p>
+<p>To check for consistency of effects among studies, both the <em>I</em><sup>2</sup> statistic and the chi-squared test of heterogeneity, as well as a visual inspection of the forest plots were used. The <em>I</em><sup>2</sup> statistic describes the proportion of total variation in study estimates that is due to heterogeneity. For a meta-analysis of comparative effectiveness studies, the <em>I</em><sup>2</sup> statistic was interpreted in the follow way:</p>
+<ul style="list-style-type: disc;">
+    <li>0%&ndash;25%: might not be important </li>
+    <li>25%&ndash;50%: may represent moderate heterogeneity </li>
+    <li>50%&ndash;75%: may represent substantial heterogeneity </li>
+    <li>75%&ndash;100%: considerable heterogeneity </li>
+</ul>
+<p>Two factors were used to make a judgement about the importance of the observed value of <em>I</em><sup>2</sup>: (1) the magnitude and direction of effects, and (2) the strength of evidence for heterogeneity (for example, p value from the chi-squared test, or a confidence interval for <em>I</em><sup>2</sup>).</p>
+<p>Where necessary, an estimate of the proportion of eligible data that were missing (because some studies did not include all relevant outcomes) was calculated for each analysis.</p>
+<p><em>Network Meta-analysis Model</em></p>
+<p>In order to take all trial information into consideration, without ignoring part of the evidence and without introducing bias by breaking the rules of randomisation (for example, by making "na&iuml;ve" addition of data across relevant treatment arms from all RCTs), Mixed Treatment Comparison meta-analytic techniques, also termed Network meta-analysis (NMA), were employed. NMA is a generalization of standard pairwise meta-analysis for A versus B trials, to data structures that include, for example, A versus B, B versus C, and A versus C trials. A basic assumption of NMA methods is that direct and indirect evidence estimate the same parameter, that is, the relative effect between A and B measured directly from an A versus B trial, is the same with the relative effect between A and B estimated indirectly from A versus C and B versus C trials. NMA techniques strengthen inference concerning the relative effect of two treatments by including both direct and indirect comparisons between treatments, and, at the same time, allow simultaneous inference on all treatments examined in the pair-wise trial comparisons while respecting randomisation. Simultaneous inference on the relative effect a number of treatments is possible provided that treatments participate in a single "network of evidence", that is, every treatment is linked to at least one of the other treatments under assessment through direct or indirect comparisons.&nbsp; Refer to the full version of the original guideline document for additional information on NMA.</p>
+<p><strong>Synthesising the Evidence from Test Accuracy Studies</strong></p>
+<p><em>Meta-analysis</em></p>
+<p>Review Manager was used to summarise test accuracy data from each study using forest plots and summary receiver operator characteristic (ROC) plots. Where more than two studies reported appropriate data, a bivariate test accuracy meta-analysis was conducted using Meta-DiSc in order to obtain pooled estimates of sensitivity, specificity, and positive and negative likelihood ratios. Refer to the full version of the original guideline document for additional information.</p>
+<p><strong>Grading the Quality of Evidence</strong></p>
+<p>For questions about interventions, the Grading Recommendations Assessment, Development, and Evaluation (GRADE) approach was used to grade the quality of evidence for critical outcomes assessed in pairwise analyses. The technical team produced GRADE evidence profiles (see below) using GRADEprofiler (GRADEpro) software (Version 3.6), following advice set out in the GRADE handbook.</p>
+<p><em>Evidence Profiles</em></p>
+<p>A GRADE evidence profile was used to summarise both the quality of the evidence and the results of the evidence synthesis for each 'critical' and 'important' outcome. The GRADE approach is based on a sequential assessment of the quality of evidence, followed by judgment about the balance between desirable and undesirable effects, and subsequent decision about the strength of a recommendation.</p>
+<p>Within the GRADE approach to grading the quality of evidence, the following is used as a starting point:</p>
+<ul style="list-style-type: disc;">
+    <li>Randomised trials without important limitations provide high quality evidence </li>
+    <li>Observational studies without special strengths or important limitations provide low quality evidence. </li>
+</ul>
+<p>For each outcome, quality may be reduced depending on five factors: limitations, inconsistency, indirectness, imprecision and publication bias. For the purposes of the guideline, each factor was evaluated using criteria provided in Table 3 of the full version of original guideline document.</p>
+<p>For observational studies without any reasons for down-grading, the quality may be up-graded if there is a large effect, all plausible confounding would reduce the demonstrated effect (or increase the effect if no effect was observed), or there is evidence of a dose-response gradient (details would be provided under the 'other' column).</p>
+<p>Each evidence profile also included a summary of the findings: number of participants included in each group, an estimate of the magnitude of the effect, and the overall quality of the evidence for each outcome.</p>
+<p><strong>Extrapolation</strong></p>
+<p>When answering review questions, it may be necessary to consider extrapolating from another data set where direct evidence from a primary data set is not available. Refer to the full version of the original guideline for the principles used in extrapolation.</p>
+<p><span style="text-decoration: underline;"><strong>Health Economics Methods</strong></span></p>
+<p>The aim of the health economics was to contribute to the guideline's development by providing evidence on the cost effectiveness of interventions for people with social anxiety disorder covered in the guideline. This was achieved by:</p>
+<ul style="list-style-type: disc;">
+    <li>Systematic literature review of existing economic evidence </li>
+    <li>Decision-analytic economic modelling. </li>
+</ul>
+<p>Systematic reviews of economic literature were conducted in all areas covered in the guideline. Development of a decision-analytic economic model was considered in areas with likely major resource implications, where the current extent of uncertainty over cost effectiveness was significant and economic analysis was expected to reduce this uncertainty, in accordance with <em>The Guidelines Manual</em> (see the "Availability of Companion Documents" field). Prioritisation of areas for economic modelling was a joint decision between the guideline health economists and the GDG. The rationale for prioritising review questions for economic modelling was set out in an economic plan agreed between NICE, the GDG, the health economists and the other members of the technical team. The economic question that was identified as a key issue and was subsequently addressed by economic modelling in this guideline was the cost effectiveness of pharmacological and psychological interventions for adults with social anxiety.</p>
+<p>In addition, literature on the health-related quality of life of people with social anxiety was systematically searched to identify studies reporting appropriate utility scores that could be utilised in a cost-utility analysis. Methods employed in economic modelling are described in the respective section of the guideline (Chapter 6, section 6.10, of the full version of the original guideline document).</p>
+<p><strong>Applicability and Quality Criteria for Economic Studies</strong></p>
+<p>All economic papers eligible for inclusion were appraised for their applicability and quality using the methodology checklist for economic evaluations recommended by NICE, which is shown in Appendix 8 of the full version of the original guideline. The methodology checklist for economic evaluations was also applied to the economic model developed specifically for this guideline. All studies that fully or partially met the applicability and quality criteria described in the methodology checklist were considered during the guideline development process, along with the results of the economic modelling conducted specifically for this guideline. The completed methodology checklists for all economic evaluations considered in the guideline are provided in Appendix 21 of the original guideline document.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                    <p>Informal Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Guideline Development Group (GDG)</span></strong></p>
+<p>During the consultation phase, members of the GDG were appointed by an open recruitment process. GDG membership consisted of: professionals in psychiatry, clinical psychology, nursing, and general practice; academic experts in psychiatry and psychology; and people with experience of social anxiety disorder. The guideline development process was supported by staff from the National Collaborating Centre for Mental Health (NCCMH), who undertook the clinical and health economic literature searches, reviewed and presented the evidence to the GDG, managed the process, and contributed to drafting the guideline.</p>
+<p><strong>Guideline Development Group Meetings</strong></p>
+<p>Thirteen GDG meetings were held between July 2011 and February 2013. During each day-long GDG meeting, in a plenary session, review questions and clinical and economic evidence were reviewed and assessed, and recommendations formulated. At each meeting, all GDG members declared any potential conflicts of interest, and service user and carer concerns were routinely discussed as a standing agenda item.</p>
+<p><strong>Topic Groups</strong></p>
+<p>The GDG divided its workload along clinically relevant lines to simplify the guideline development process, and GDG members formed smaller topic groups&nbsp;to undertake guideline work in that area of clinical practice. Topic Group 1 covered questions relating to pharmacology, Topic Group 2 covered children and young people, Topic Group 3 covered psychological interventions and Topic Group 4 covered experience of care. These groups were designed to efficiently manage the large volume of evidence appraisal prior to presenting it to the GDG as a whole. Each topic group was chaired by a GDG member with expert knowledge of the topic area (one of the healthcare professionals). Topic groups refined the review questions and the clinical definitions of treatment interventions, reviewed and prepared the evidence with the systematic reviewer before presenting it to the GDG as a whole, and helped the GDG to identify further expertise in the topic. Topic group leaders reported the status of the group's work as part of the standing agenda. They also introduced and led the GDG discussion of the evidence review for that topic and assisted the GDG Chair in drafting the section of the guideline relevant to the work of each topic group. Topic groups did not write recommendations&mdash;these were all produced by the full GDG.</p>
+<p><strong>Service Users and Carers</strong></p>
+<p>Individuals with direct experience of services for social anxiety disorder gave an integral service-user focus to the GDG and the guideline. The GDG included two people with experience of social anxiety disorder. As full GDG members they contributed to writing the review questions, providing advice on outcomes most relevant to service users and carers, helping to ensure that the evidence addressed their views and preferences, highlighting sensitive issues and terminology relevant to the guideline, and bringing research to the attention of the GDG. In drafting the guideline, they met with the NCCMH team on several occasions to develop the chapter on experience of care and they contributed to writing the guideline's introduction and identified recommendations from the service user and carer perspective.</p>
+<p><strong>National and International Experts</strong></p>
+<p>National and international experts in the area under review were identified through the literature search and through the experience of the GDG members. These experts were contacted to identify unpublished or soon-to-be published studies, to ensure that up-to-date evidence was included in the development of the guideline. They informed the group about completed trials at the prepublication stage, systematic reviews in the process of being published, studies relating to the cost effectiveness of treatment and trial data if the GDG could be provided with full access to the complete trial report. Appendix 5 lists researchers who were contacted.</p>
+<p><strong><span style="text-decoration: underline;">Review Questions</span></strong></p>
+<p>Review (clinical) questions were used to guide the identification and interrogation of the evidence base relevant to the topic of the guideline. Before the first GDG meeting, review protocols were prepared by NCCMH staff based on the scope (and an overview of existing guidelines), and discussed with the guideline Chair. The draft review questions were then discussed by the GDG at the first few meetings and amended as necessary. Where appropriate, the questions were refined once the evidence had been searched and, where necessary, sub-questions were generated. The review questions can be found in the relevant evidence chapters.</p>
+<p>For questions about interventions, the PICO (Population, Intervention, Comparison and Outcome) framework was used (see Table 1 in the full version of the original guideline document).</p>
+<p><strong><span style="text-decoration: underline;">From Evidence to Recommendations</span></strong></p>
+<p>Once the clinical and health economic evidence was summarised, the GDG drafted the recommendations. In making recommendations, the GDG took into account the trade-off between the benefits and harms of the intervention/instrument, as well as other important factors, such as economic considerations, values of the development group and society, the requirements to prevent discrimination and to promote equality, and the GDG's awareness of practical issues.</p>
+<p>Finally, to show clearly how the GDG moved from the evidence to the recommendations, each chapter has a section called 'from evidence to recommendations'. Underpinning this section is the concept of the 'strength' of a recommendation This takes into account the quality of the evidence but is conceptually different. Some recommendations are 'strong' in that the GDG believes that the vast majority of healthcare professionals and service users would choose a particular intervention if they considered the evidence in the same way that the GDG has. This is generally the case if the benefits clearly outweigh the harms for most people and the intervention is likely to be cost effective. However, there is often a closer balance between benefits and harms, and some service users would not choose an intervention whereas others would. This may happen, for example, if some service users are particularly averse to some side effect and others are not. In these circumstances the recommendation is generally weaker, although it may be possible to make stronger recommendations about specific groups of service users. The strength of each recommendation is reflected in the wording of the recommendation, rather than by using ratings, labels or symbols.</p>
+<p>Where the GDG identified areas in which there are uncertainties or where robust evidence was lacking, they developed research recommendations. Those that were identified as 'high priority' were developed further in the National Institute for Health and Care Excellence (NICE) version of the guideline, and presented in Appendix 9 in the full version of the original guideline document.</p>
+<p><strong>Method Used to Answer a Review Question in the Absence of Appropriately Designed, High-Quality Research</strong></p>
+<p>In the absence of appropriately designed, high-quality research, or where the GDG were of the opinion (on the basis of previous searches or their knowledge of the literature) that there were unlikely to be such evidence, an informal consensus process was adopted. The process involved a group discussion of what is known about the issues. The views of GDG were synthesised narratively, and circulated after the meeting. Feedback was used to revise the text, which was then included in the appropriate evidence review chapter.</p>
+<p><em>Informal Consensus</em></p>
+<p>The starting point for the process of informal consensus was that a member of the GDG identified, with help from the systematic reviewer, a narrative review that most directly addressed the review question. Where this was not possible, a brief review of the recent literature was initiated.</p>
+<p>This existing narrative review or new review was used as a basis for beginning an iterative process to identify lower levels of evidence relevant to the review question and to lead to written statements for the guideline. The process involved a number of steps:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>A description of what is known about the issues concerning the clinical question was written by one of the group members. </li>
+    <li>Evidence from the existing review or new review was then presented in narrative form to the GDG and further comments were sought about the evidence and its perceived relevance to the review question. </li>
+    <li>Based on the feedback from the GDG, additional information was sought and added to the information collected. This may include studies that did not directly address the review question but were thought to contain relevant data. </li>
+    <li>If, during the course of preparing the report, a significant body of primary-level studies (of appropriate design to answer the question) were identified, a full systematic review was done. </li>
+    <li>At this time, subject possibly to further reviews of the evidence, a series of statements that directly addressed the review question were developed. </li>
+    <li>Following this, on occasions and as deemed appropriate by the development group, the report was then sent to appointed experts outside of the GDG for peer review and comment. The information from this process was then fed back to the GDG for further discussion of the statements. </li>
+    <li>Recommendations were then developed and could also be sent for further external peer review. </li>
+    <li>After this final stage of comment, the statements and recommendations were again reviewed and agreed upon by the GDG. </li>
+</ol>
+<p><strong>Incorporating or Adapting Existing Guideline Recommendations</strong></p>
+<p>In deciding whether to incorporate or adapt existing guideline recommendations, the GDG considered that if direct evidence obtained from the current guideline dataset was of sufficient quality to allow development of recommendations. It was only where (a) such evidence was not available or insufficient to draw robust conclusions and (b) where methods used in previous guidelines were appropriate for the current question that the 'incorporate and adapt' method should be used. Recommendations were only incorporated or adapted after the GDG had reviewed evidence supporting previous recommendations and confirmed that they agreed with the original recommendations.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p>Not applicable</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p><strong>Presentation of Economic Evidence</strong></p>
+<p>The existing economic evidence considered in the guideline is provided in the evidence chapters, following presentation of the relevant clinical evidence, in the full version of the original guideline document. The respective evidence tables that provide an overview of the study characteristics and results are presented in Appendix 22 of the full version of the guideline. Methods and results of the economic modelling undertaken alongside the guideline development process are described in detail in Chapter 6 and summarised in an economic evidence profile provided in Appendix 24 of the full version of the original guideline.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>Registered stakeholders had an opportunity to comment on the draft guideline, which was posted on the National Institute for Health and Care Excellence (NICE) website during the consultation period. Following the consultation, all comments from stakeholders and experts (see Appendix 4 in the full version of the original guideline document) were responded to, and the guideline updated as appropriate. NICE also reviewed the guideline and checked that stakeholders' comments had been addressed.</p>
+<p>Following the consultation period, the Guideline Development Group (GDG) finalised the recommendations and the National Collaborating Centre for Mental Health (NCCMH) produced the final documents. These were then submitted to NICE for a quality assurance check. Any errors were corrected by the NCCMH, then the guideline was formally approved by NICE and issued as guidance to the National Health Service (NHS) in England and Wales.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of evidence supporting the recommendations is not specifically stated.</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>Appropriate recognition, assessment and treatment of social anxiety disorder</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Side effects, discontinuation syndromes and drug interactions of pharmacological therapy </li>
+    <li>Risk of early activation symptoms with selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs), such as increased anxiety, agitation, jitteriness and problems sleeping </li>
+    <li>SSRIs and SNRIs are associated with an increased risk of suicidal thinking and self-harm in a minority of people under age 30 </li>
+</ul></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>This guidance represents the view of the National Institute for Health and Care Excellence (NICE), which was arrived at after careful consideration of the evidence available. Healthcare professionals are expected to take it fully into account when exercising their clinical judgement. However, the guidance does not override the individual responsibility of healthcare professionals to make decisions appropriate to the circumstances of the individual patient, in consultation with the patient and/or guardian or carer, and informed by the summaries of product characteristics of any drugs. </li>
+    <li>Implementation of this guidance is the responsibility of local commissioners and/or providers. Commissioners and providers are reminded that it is their responsibility to implement the guidance, in their local context, in light of their duties to have due regard to the need to eliminate unlawful discrimination, advance equality of opportunity and foster good relations. Nothing in this guidance should be interpreted in a way that would be inconsistent with compliance with those duties. </li>
+    <li>Treatment and care should take into account individual needs and preferences. People should have the opportunity to make informed decisions about their care and treatment, in partnership with their healthcare professionals. If someone does not have the capacity to make decisions, healthcare professionals should follow the Department of Health's advice on consent and the code of practice that accompanies the Mental Capacity Act and the supplementary code of practice on deprivation of liberty safeguards. In Wales, healthcare professionals should follow advice on consent from the Welsh Government. </li>
+    <li>The guideline will assume that prescribers will use a drug's summary of product characteristics to inform decisions made with individual service users. </li>
+    <li>This guideline recommends some drugs for indications for which they do not have a UK marketing authorisation at the date of publication, if there is good evidence to support that use. The prescriber should follow relevant professional guidance, taking full responsibility for the decision. </li>
+    <li>If the person is under 16, healthcare professionals should follow the guidelines in the Department of Health's Seeking consent: working with children. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>The National Institute for Health and Care Excellence (NICE) has developed tools to help organisations implement this guidance (listed below). These are available on the NICE website (<a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=http%3a%2f%2fguidance.nice.org.uk%2fCG159" title="NICE Web site">http://guidance.nice.org.uk/CG159</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>).</p>
+<p><strong><span style="text-decoration: underline;">Key Priorities for Implementation</span></strong></p>
+<p>The following recommendations have been identified as priorities for implementation.</p>
+<p><strong>General Principles of Care in Mental Health and General Medical Settings</strong></p>
+<p><em>Improving Access to Services</em></p>
+<p>When a person with social anxiety disorder is first offered an appointment, in particular in specialist services, provide clear information in a letter about:</p>
+<ul style="list-style-type: disc;">
+    <li>Where to go on arrival and where they can wait (offer the use of a private waiting area or the option to wait elsewhere, for example outside the service's premises) </li>
+    <li>Location of facilities available at the service (for example, the car park and toilets) </li>
+    <li>What will happen and what will not happen during assessment and treatment </li>
+</ul>
+<p>When the person arrives for the appointment, offer to meet or alert them (for example, by text message) when their appointment is about to begin.</p>
+<p><strong>Identification and Assessment of Adults</strong></p>
+<p><em>Identification of Adults with Possible Social Anxiety Disorder</em></p>
+<p>Ask the identification questions for anxiety disorders in line with recommendation 1.3.1.2 in the NICE guideline <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fCG123" title="NICE Web site">Common mental health disorders. Identification and pathways to care</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (NICE clinical guideline 123), and if social anxiety disorder is suspected:</p>
+<ul style="list-style-type: disc;">
+    <li>Use the 3-item Mini-Social Phobia Inventory (Mini-SPIN) <strong>or</strong> </li>
+    <li>Consider asking the following 2 questions:
+    <ul style="list-style-type: disc;">
+        <li>Do you find yourself avoiding social situations or activities? </li>
+        <li>Are you fearful or embarrassed in social situations? </li>
+    </ul>
+    </li>
+</ul>
+<p>If the person scores 6 or more on the Mini-SPIN, or answers yes to either of the 2 questions above, refer for or conduct a comprehensive assessment for social anxiety disorder.</p>
+<p><strong>Interventions for Adults with Social Anxiety Disorder</strong></p>
+<p><em>Treatment Principles</em></p>
+<p>All interventions for adults with social anxiety disorder should be delivered by competent practitioners. Psychological interventions should be based on the relevant treatment manual(s), which should guide the structure and duration of the intervention. Practitioners should consider using competence frameworks developed from the relevant treatment manual(s) and for all interventions should:</p>
+<ul style="list-style-type: disc;">
+    <li>Receive regular, high-quality outcome-informed supervision </li>
+    <li>Use routine sessional outcome measures (for example, the Social Phobia Inventory or the Liebowitz Social Anxiety Scale) and ensure that the person with social anxiety is involved in reviewing the efficacy of the treatment </li>
+    <li>Engage in monitoring and evaluation of treatment adherence and practitioner competence &ndash; for example, by using video and audio tapes, and external audit and scrutiny if appropriate </li>
+</ul>
+<p><em>Initial Treatment Options for Adults with Social Anxiety Disorder</em></p>
+<p>Offer adults with social anxiety disorder individual cognitive behavioural therapy (CBT) that has been specifically developed to treat social anxiety disorder (based on the Clark and Wells model or the Heimberg model).</p>
+<p>For adults who decline CBT and wish to consider another psychological intervention, offer CBT-based supported self-help.</p>
+For adults who decline cognitive behavioural interventions and express a preference for a pharmacological intervention, discuss their reasons for declining cognitive behavioural interventions and address any concerns.
+<p>&nbsp;</p>
+<p>If the person wishes to proceed with a pharmacological intervention, offer a selective serotonin reuptake inhibitor (SSRI) (escitalopram or sertraline). Monitor the person carefully for adverse reactions.</p>
+<p><strong>Interventions for Children and Young People with Social Anxiety Disorder</strong></p>
+<p><em>Treatment for Children and Young People with Social Anxiety Disorder</em></p>
+<p>Offer individual or group CBT focused on social anxiety to children and young people with social anxiety disorder. Consider involving parents or carers to ensure the effective delivery of the intervention, particularly in young children.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Audit Criteria/Indicators</p>
+                    <p>Clinical Algorithm</p>
+                    <p>Patient Resources</p>
+                    <p>Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>National Collaborating Centre for Mental Health. Social anxiety disorder: recognition, assessment and treatment. London (UK): National Institute for Health and Care Excellence (NICE); 2013 May. 44 p.&nbsp;(Clinical guideline; no. 159).&nbsp;</td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Some recommendations in this guideline have been adapted from recommendations in other National Institute for Health and Care Excellence (NICE) clinical guidance. In these cases the Guideline Development Group was careful to preserve the meaning and intent of the original recommendations. Changes to wording or structure were made to fit the recommendations into this guideline. The original sources of the adapted recommendations are shown in the recommendations (see the "Major Recommendations" field).</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2013 May</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>National Guideline Alliance - National Government Agency [Non-U.S.]</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>National Institute for Health and Care Excellence (NICE)</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Guideline Development Group</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Guideline Development Group Members</em>: David Clark <em>(Chair)</em>, Professor of Experimental Psychology, University of Oxford; Stephen Pilling, Director, National Collaborating Centre for Mental Health, Professor of Clinical Psychology and Clinical Effectiveness, Director, Centre for Outcomes Research and Effectiveness, University College London; Safi Afghan, Consultant Psychiatrist, Dorothy Pattison Hospital, Dudley &amp; Walsall Mental Health Partnership NHS Trust, Walsall; Peter Armstrong, Director of Training, Newcastle Cognitive and Behavioural Therapies Centre, Northumberland, Tyne and Wear NHS Foundation Trust; Madeleine Bennett, GP and NSPCR Fellow, University College London; Sam Cartwright-Hatton, Clinical Psychologist, NIHR Career Development Fellow, University of Sussex; Cathy Creswell, Principal Research Fellow, School of Psychology and Clinical Language Sciences, University of Reading, Honorary Consultant Clinical Psychologist, Berkshire Child Anxiety Clinic, Berkshire Healthcare NHS Foundation Trust;&nbsp; Melanie Dix, Consultant Child and Adolescent Psychiatrist, Cumbria Partnership Foundation Trust; Nick Hanlon, Service User Representative and Chairman, Social Anxiety West, Bristol; Andrea Malizia, Consultant Psychiatrist and Clinical Psychopharmacologist, Clinical Partners and North Bristol NHS Trust; Jane Roberts, Clinical Senior Lecturer and General Practitioner, University of Sunderland and GP; Gareth Stephens, Service User Representative; Lusia Stopa, Director of CBT programmes and Senior Lecturer, Psychology Academic Unit, University of Southampton and Honorary Consultant Clinical Psychologist, Southern Health NHS Foundation Trust</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>With a range of practical experience relevant to social anxiety disorder in the Guideline Development Group (GDG), members were appointed because of their understanding and expertise in healthcare for people with social anxiety disorder and support for their families/carers, including: scientific issues; health research; the delivery and receipt of healthcare, along with the work of the healthcare industry; and the role of professional organisations and organisations for people with social anxiety disorder and their families/carers.</p>
+<p>To minimise and manage any potential conflicts of interest, and to avoid any public concern that commercial or other financial interests have affected the work of the GDG and influenced guidance, members of the GDG must declare as a matter of public record any interests held by themselves or their families which fall under specified categories (see Appendix 2 of the full version of the original guideline document; see the "Availability of Companion Documents" field). These categories include any relationships they have with the healthcare industries, professional organisations and organisations for people with social anxiety disorder and their families/carers.</p>
+Individuals invited to join the GDG were asked to declare their interests before being appointed. To allow the management of any potential conflicts of interest that might arise during the development of the guideline, GDG members were also asked to declare their interests at each GDG meeting throughout the guideline development process. The interests of all the members of the GDG are listed in Appendix 2, including interests declared prior to appointment and during the guideline development process.</div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Electronic copies: Available from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fCG159" title="NICE Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. Also available for download in ePub and eBook formats from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fCG159" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Social anxiety disorder: recognition, assessment and treatment. Full guideline. London (UK): National Institute for Health and Care Excellence (NICE); 2013 May. 292 p. (Clinical guideline; no. 159). Electronic copies: Available from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg159%2fevidence%2ffull-guideline-189895069" title="NICE Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Social anxiety disorder: recognition, assessment and treatment. Appendices. London (UK): National Institute for Health and Care Excellence (NICE); 2013 May. (Clinical guideline; no. 159). Electronic copies: Available from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg159%2fevidence%2fappendices-189895070" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Social anxiety disorder: recognition, assessment and treatment. Baseline assessment tools. London (UK): National Institute for Health and Care Excellence (NICE); 2013 May. (Clinical guideline; no. 159). Electronic copies: Available from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg159%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Social anxiety disorder: recognition, assessment and treatment. Clinical audit tool. London (UK): National Institute for Health and Care Excellence (NICE); 2013 May. (Clinical guideline; no. 159). Electronic copies: Available from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg159%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Social anxiety disorder: recognition, assessment and treatment. Costing report. London (UK): National Institute for Health and Care Excellence (NICE); 2013 May. 26 p. (Clinical guideline; no. 159). Electronic copies: Available from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg159%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Social anxiety disorder: recognition, assessment and treatment. Costing template. London (UK): National Institute for Health and Care Excellence (NICE); 2013 May. (Clinical guideline; no. 159). Electronic copies: Available from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg159%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Social anxiety disorder: recognition, assessment and treatment. Podcast (with a service user representative from the guideline development group). London (UK): National Institute for Health and Care Excellence (NICE); 2013 May. (Clinical guideline; no. 159). Available from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg159%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Social anxiety disorder: recognition, assessment and treatment. Podcast (with a service user). London (UK): National Institute for Health and Care Excellence (NICE); 2013 May. (Clinical guideline; no. 159). Available from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg159%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Cognitive behavioural therapy (CBT) competence framework and list of treatment manuals for CBT. Available from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg159%2fresources" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Social anxiety disorder: overview. NICE pathway. (UK): National Institute for Health and Care Excellence (NICE); 2013 May. (Clinical guideline; no. 159). Electronic copies: Available from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=http%3a%2f%2fpathways.nice.org.uk%2fpathways%2fsocial-anxiety-disorder">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>The following is available:</p>
+<ul style="list-style-type: disc;">
+    <li>Social anxiety disorder. Information for the public. London (UK): National Institute for Health and Care Excellence (NICE); 2013 May. Electronic copies: Available from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fCG159%2fifp%2fchapter%2fAbout-this-information" title="NICE Web site">National Institute for Health and Care Excellence (NICE) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. Also available for download in ePub and eBook formats from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fCG159%2fifp%2fchapter%2fAbout-this-information" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. Also available in Welsh from the <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.nice.org.uk%2fguidance%2fcg159%2fresources%2fgwybodaeth-ir-cyhoedd-189893773" title="NICE Web site">NICE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</li>
+</ul>
+<p class="Disclaimer">Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This summary was completed by ECRI Institute on July 19, 2013. This summary was updated by ECRI Institute on October 21, 2016 following the U.S. Food and Drug Administration advisory on opioid pain and cough medicines combined with benzodiazepines.</p>
+<p>The National Institute for Health and Care Excellence (NICE) has granted the National Guideline Clearinghouse (NGC) permission to include summaries of their clinical guidelines with the intention of disseminating and facilitating the implementation of that guidance. NICE has not yet verified this content to confirm that it accurately reflects that original NICE guidance and therefore no guarantees are given by NICE in this regard. All NICE clinical guidelines are prepared in relation to the National Health Service in England and Wales. NICE has not been involved in the development or adaptation of NICE guidance for use in any other country. The full versions of all NICE guidance can be found at <a href="/web/20180713025317/https://www.guideline.gov/Home/Disclaimer?id=46234&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.nice.org.uk" title="NICE Web site">www.nice.org.uk</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180713025317im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180713025317/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180713025317/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180713025317/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180713025317/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180713025317/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180713025317/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180713025317/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180713025317/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180713025317/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180713025317/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180713025317/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180713025317/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180713025317/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180713025317/https://www.guideline.gov/disclaimer?id=46234&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180713025317im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180713025317im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180713025317/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180713025317/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180713025317/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180713025317/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180713025317/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180713025317/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180713025317/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180713025317/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180713025317/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180713025317/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180713025317/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180713025317/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180713025317/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180713025317/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180713025317/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180713025317/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180713025317/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180713025317/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180713025317/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180713025317im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180713025317im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180713025317/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180713025317im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180713025317im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180713025317/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180713025317js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180713025317js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 02:53:17 Jul 13, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:10:06 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 431.179 (3)
+  esindex: 0.009
+  captures_list: 447.283
+  CDXLines.iter: 12.434 (3)
+  PetaboxLoader3.datanode: 116.076 (4)
+  exclusion.robots: 0.212
+  exclusion.robots.policy: 0.196
+  RedisCDXSource: 0.551
+  PetaboxLoader3.resolve: 175.91
+  load_resource: 40.942
+-->

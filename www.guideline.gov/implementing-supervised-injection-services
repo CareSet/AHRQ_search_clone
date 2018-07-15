@@ -1,0 +1,1224 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app17.us.archive.org';v.server_ms=168;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Implementing supervised injection services. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712204133im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712204133im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712204133im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712204133im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712204133/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712204133im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712204133cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712204133js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712204133if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712204133/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712204133if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712204133/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712204133/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712204133/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712204133/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712204133im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712204133im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712204133/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712204133/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712204133/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712204133/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712204133/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712204133/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712204133/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712204133/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712204133/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712204133/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712204133/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712204133/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712204133/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712204133/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712204133/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712204133/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712204133/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712204133/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712204133/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712204133/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712204133/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:011371</li>
+            <li>2018 Feb
+            </li>            
+                                        <li>
+                    <div class="flag-box"><span class="neats"></span> NEATS Assessment</div>    
+                    <a class="icon-info" href="/web/20180712204133/https://www.guideline.gov/help-and-about/summaries/determining-extent-adherence-to-the-iom-standards-in-ngc"><span class="screen-reader-text">Learn More About NEATS Assessment</span></a>                
+                </li>
+        </ul>
+        <div>
+                <h1>Implementing supervised injection services.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+<li><a href="#neats-tab" class="NEATS"><span class="label">NEATS Assessment</span></a></li>        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712204133/https://www.guideline.gov/search?f_Guideline_Developer_String=Registered%20Nurses%27%20Association%20of%20Ontario&amp;fLockTerm=Registered%2BNurses%2527%2BAssociation%2Bof%2BOntario">Registered Nurses&#39; Association of Ontario</a></li>
+                        <li>   
+                                <a id="1240" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Registered Nurses Association of Ontario (RNAO). Implementing supervised injection services. Toronto (ON): Registered Nurses Association of Ontario (RNAO); 2018 Feb. 104 p.  [134 references]</td></tr></table>                    <p><a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252frnao.ca%252fsites%252frnao-ca%252ffiles%252fbpg%252fImplementing_supervised_injection_services.pdf">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                            <h4>UMLS Concepts <a href="/web/20180712204133/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">HCPCS</h5>
+                    <div class="field-content">
+<a href="/web/20180712204133/https://www.guideline.gov/search?f_HCPCS_CUI=C3871344&amp;fLockTerm=History+of+injection+drug+use">History of injection drug use</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712204133/https://www.guideline.gov/search?f_MSH_CUI=C0013636&amp;fLockTerm=Education%2c+Nursing">Education, Nursing</a>
+, <a href="/web/20180712204133/https://www.guideline.gov/search?f_MSH_CUI=C0015474&amp;fLockTerm=Facility+Design+and+Construction">Facility Design and Construction</a>
+, <a href="/web/20180712204133/https://www.guideline.gov/search?f_MSH_CUI=C0679771&amp;fLockTerm=Harm+Reduction">Harm Reduction</a>
+, <a href="/web/20180712204133/https://www.guideline.gov/search?f_MSH_CUI=C0242883&amp;fLockTerm=Needle-Exchange+Programs">Needle-Exchange Programs</a>
+, <a href="/web/20180712204133/https://www.guideline.gov/search?f_MSH_CUI=C0028658&amp;fLockTerm=Nurse-Patient+Relations">Nurse-Patient Relations</a>
+, <a href="/web/20180712204133/https://www.guideline.gov/search?f_MSH_CUI=C0028682&amp;fLockTerm=Nursing+Care">Nursing Care</a>
+, <a href="/web/20180712204133/https://www.guideline.gov/search?f_MSH_CUI=C0030674&amp;fLockTerm=Patient+Advocacy">Patient Advocacy</a>
+, <a href="/web/20180712204133/https://www.guideline.gov/search?f_MSH_CUI=C0030767&amp;fLockTerm=Peer+Group">Peer Group</a>
+, <a href="/web/20180712204133/https://www.guideline.gov/search?f_MSH_CUI=C0236969&amp;fLockTerm=Substance-Related+Disorders">Substance-Related Disorders</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712204133/https://www.guideline.gov/search?f_MTH_CUI=C0028682&amp;fLockTerm=Care+given+by+nurses">Care given by nurses</a>
+, <a href="/web/20180712204133/https://www.guideline.gov/search?f_MTH_CUI=C0030674&amp;fLockTerm=Patient+advocacy">Patient advocacy</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712204133/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030674&amp;fLockTerm=Acting+as+individual+patient+advocate">Acting as individual patient advocate</a>
+ (370770001), <a href="/web/20180712204133/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C4039864&amp;fLockTerm=Establishment+of+trust">Establishment of trust</a>
+ (711122003), <a href="/web/20180712204133/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0419206&amp;fLockTerm=Nursing+supervision">Nursing supervision</a>
+ (182999000)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+            <div id="neats-tab" class="content-tab-panel">
+                <p id="NeatsDescription">
+                    National Guideline Clearinghouse (NGC) has assessed this guideline's adherence to standards of trustworthiness, derived from the Institute of Medicine's report
+                    <a href="/web/20180712204133/https://www.guideline.gov/disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3A%2F%2Fnationalacademies.org%2Fhmd%2FReports%2F2011%2FClinical-Practice-Guidelines-We-Can-Trust.aspx"><i>Clinical Practice Guidelines We Can Trust</i></a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif">.
+                </p>
+                <div class="ratings" aria-hidden="true">
+                    <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-1.png" alt="Poor"/> = Poor</span>
+                    <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-2.png" alt="Fair"/> = Fair</span>
+                    <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-3.png" alt="Good"/> = Good</span>
+                    <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-4.png" alt="Very Good"/> = Very Good</span>
+                    <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/> = Excellent</span>
+                </div>
+                    <table aria-describedby="NeatsDescription">
+                        <thead>
+                        <tr>
+                            <th id="section">NEATS Assessment <a class="icon-info" href="/web/20180712204133/https://www.guideline.gov/help-and-about/summaries/determining-extent-adherence-to-the-iom-standards-in-ngc"><span class="screen-reader-text">More about NGC's appraisal</span></a></th>
+                            <th id="standard">Standard of Trustworthiness</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                        <tr>
+                    <td class="topborderme" headers="section">Yes</td>
+                    <td class="greenboldme topborderme" headers="standard">Disclosure of Guideline Funding Source</td>
+                </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-4.png" alt="Very Good"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">Disclosure and Management of Financial Conflict of Interests</td>
+                </tr>
+                    <tr>
+                        <td class="topborderme" id="blank"></td>
+                        <th class="greenboldme topborderme" id="185" headers="standard">Guideline Development Group Composition</th>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                            Yes
+                        </td>
+                        <td class="leftpadme" headers="185">Multidisciplinary Group</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                            Unknown
+                        </td>
+                        <td class="leftpadme" headers="186">Methodologist Involvement</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="187">Patient and Public Perspectives</td>
+                    </tr>
+                    <tr>
+                        <td class="topborderme" id="blank"></td>
+                        <th class="greenboldme topborderme" id="188" headers="standard">Use of a Systematic Review of Evidence</th>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-4.png" alt="Very Good"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="188">Search Strategy</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="189">Study Selection</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="190">Synthesis of Evidence</td>
+                    </tr>
+                    <tr>
+                        <td class="topborderme" id="blank"></td>
+                        <th class="greenboldme topborderme" id="191" headers="standard">Evidence Foundations for and Rating Strength of Recommendations</th>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-3.png" alt="Good"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="191">Grading the Quality or Strength of Evidence</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="192">Benefits and Harms of Recommendations</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="193">Evidence Summary Supporting Recommendations</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-1.png" alt="Poor"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="194">Rating the Strength of Recommendations</td>
+                    </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">Specific and Unambiguous Articulation of Recommendations</td>
+                </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">External Review</td>
+                </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">Updating</td>
+                </tr>
+
+                        </tbody>
+                    </table>
+            </div>
+    <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712204133/https://www.guideline.gov/summaries/downloadcontent/ngc-11371?contentType=pdf" class="pdf">.PDF 123.1 kb</a></li>
+                            <li><a href="/web/20180712204133/https://www.guideline.gov/summaries/downloadcontent/ngc-11371?contentType=word" class="word">Word Document 314.0 kb</a></li>
+                            <li><a href="/web/20180712204133/https://www.guideline.gov/summaries/downloadcontent/ngc-11371?contentType=xml" class="xml">.XML 56.2 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712204133/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/51293/implementing-supervised-injection-services" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712204133/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/51293/implementing-supervised-injection-services" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712204133/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/51293/implementing-supervised-injection-services&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712204133/mailto:/?Subject=AHRQ: Implementing supervised injection services.&amp;body=https://www.guideline.gov/summaries/summary/51293/implementing-supervised-injection-services" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Implementing supervised injection services. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2018 Feb 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712204133/https://www.guideline.gov/summaries/citedownload/51293?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712204133/https://www.guideline.gov/summaries/citedownload/51293?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712204133/https://www.guideline.gov/summaries/citedownload/51293?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712204133/https://www.guideline.gov/summaries/citedownload/51293?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712204133/https://www.guideline.gov/summaries/citedownload/51293?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712204133/https://www.guideline.gov/summaries/citedownload/51293">RefWorks</a></li>
+                            <li><a href="/web/20180712204133/https://www.guideline.gov/summaries/citedownload/51293?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="51293" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>Definitions for the levels of evidence (Ia, Ib, IIa, IIb, III, IV, V) are provided at the end of the "Major Recommendations" field.</p>
+<p><strong><span style="text-decoration: underline;">Practice Recommendations</span></strong></p>
+<p><strong>Recommendation 1.1</strong></p>
+<p>Develop trusting relationships based on respect and a non-judgmental approach at every encounter with people who inject drugs to support continued engagement.</p>
+<p><em>(Level of Evidence = IV)</em></p>
+<p><strong>Recommendation 1.2</strong></p>
+<p>Use reflective practice to recognize and acknowledge health inequities that result from past and ongoing experiences of trauma, marginalization, and stigma experienced by people who inject drugs.</p>
+<p><em>(Level of Evidence = IV)</em></p>
+<p><strong>Recommendation 1.3</strong></p>
+<p>Promote and engage in shared decision-making with people who inject drugs at every encounter and intervention to minimize discrimination and stigma.</p>
+<p><em>(Level of Evidence = IV)</em></p>
+<p><strong><span style="text-decoration: underline;">Education Recommendations</span></strong></p>
+<p><strong>Recommendation 2.1</strong></p>
+<p>Design educational programs that incorporate multiple teaching methods and strategies (in-person or technology-enabled) for health workers and students to increase knowledge, skill, confidence, and improve attitudes required to provide high quality care to people who use drugs.</p>
+<p><em>(Levels of Evidence = Ib, IIb, and IV)</em></p>
+<p><strong>Recommendation 2.2</strong></p>
+<p>Incorporate people with lived experience and practice experts in the delivery of educational programs for health workers and students to increase knowledge and confidence, and improve attitudes required to provide high-quality care to people who use drugs.</p>
+<p><em>(Levels of Evidence = IIb and IV)</em></p>
+<p><strong>Recommendation 2.3</strong></p>
+<p>Modify the format and structure of educational programs for health workers to support effective learning by focusing on: </p>
+<ul style="list-style-type: disc;">
+    <li>Location of training </li>
+    <li>Resources required for training </li>
+    <li>Frequency and longevity of training </li>
+    <li>Method of delivery </li>
+</ul>
+<p><em>(Levels of Evidence = Ib, IIb, and IV)</em></p>
+<p><strong><span style="text-decoration: underline;">Organization and System Policy Recommendations</span></strong></p>
+<p><strong>Recommendation 3.1</strong></p>
+<p>Integrate peer workers into the programming of supervised injection services by:</p>
+<ul style="list-style-type: disc;">
+    <li>Increasing access to peer workers as a vital resource for people who inject drugs </li>
+    <li>Including peer workers in organizational decision-making processes </li>
+</ul>
+<p><em>(Level of Evidence = IV)</em></p>
+<p><strong>Recommendation 3.2</strong></p>
+<p>Integrate comprehensive services into the programming of supervised injection services to ensure that people who inject drugs have access to:</p>
+<ul style="list-style-type: disc;">
+    <li>Testing and counselling for blood-borne infections </li>
+    <li>Primary care providers </li>
+    <li>Mental health clinicians </li>
+    <li>Housing and social services </li>
+</ul>
+<p><em>(Levels of Evidence = Ib and IV)</em></p>
+<p><strong>Recommendation 3.3</strong></p>
+<p>Embed harm reduction programs that include supervised injection services into existing health and social settings to improve retention in care and reduce adverse health outcomes among people who inject drugs.</p>
+<p><em>(Level of Evidence = IV)</em></p>
+<p><strong>Recommendation 3.4</strong></p>
+<p>Align the location, physical space, and operating hours of facilities to the needs of the local population, and make operational improvements and structural redesign (as needed) to decrease barriers for access to supervised injections services for people who inject drugs.</p>
+<p><em>(Level of Evidence = IV)</em></p>
+<p><strong>Recommendation 3.5</strong></p>
+<p>Advocate for legislation and regulations to support ethical policies and procedures that increase access to and utilization of supervised injection services for:</p>
+<ul style="list-style-type: disc;">
+    <li>People who require assisted injection support </li>
+    <li>Youth who inject drugs </li>
+</ul>
+<p><em>(Level of Evidence = IV)</em></p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong></p>
+<p><strong>Levels of Evidence</strong></p>
+<p><strong>Ia</strong> Evidence obtained from meta-analysis or systematic reviews of randomized controlled trials, and/or synthesis of multiple studies primarily of quantitative research.</p>
+<p><strong>Ib</strong> Evidence obtained from at least one randomized controlled trial.</p>
+<p><strong>IIa</strong> Evidence obtained from at least one well-designed controlled study without randomization.</p>
+<p><strong>IIb</strong> Evidence obtained from at least one other type of well-designed quasi-experimental study without randomization.</p>
+<p><strong>III</strong> Synthesis of multiple studies, primarily of qualitative research.</p>
+<p><strong>IV</strong> Evidence obtained from well-designed non-experimental observational studies, such as analytical studies, descriptive studies, and/or qualitative studies.</p>
+<p><strong>V</strong> Evidence obtained from expert opinion, committee reports, or clinical experiences of respected authorities.</p>
+<p class="Note">Adapted by the RNAO Best Practice Guideline Development Team from: Scottish Intercollegiate Guidelines Network. SIGN 50: a guideline developer's handbook. Edinburgh: Scottish Intercollegiate Guidelines Network; 2011; and Pati D. A framework for evaluating evidence in evidence-based design. Health Environments Research and Design Journal. 2011;21(3):105-12.</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Substance abuse</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Counseling</p>
+                    <p>Evaluation</p>
+                    <p>Management</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Family Practice</p>
+                    <p>Internal Medicine</p>
+                    <p>Nursing</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Nurses</p>
+                    <p>Patients</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                    <p>Substance Use Disorders Treatment Providers</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>To provide an overview of principles, resources, and structures for delivering evidence-based supervised injection services (SIS) </li>
+    <li>To support best practices and decision making for nurses, health workers, and health systems leaders </li>
+    <li>To develop a guideline for nurses, health workers, and decision-makers on the most effective approaches for SIS delivery to people who inject drugs </li>
+</ul></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>All people who inject drugs</p>
+<p class="Note"><strong>Note</strong>: Unless specified, the recommendations in this Guideline generally apply to all people who inject drugs. The Registered Nurses' Association of Ontario (RNAO) expert panel, however, identified sub-populations of people who inject drugs who have unique circumstances, experiences, and health inequities that need to be considered when providing support and services. These groups include: </p>
+<ul class="Note" style="list-style-type: disc;">
+    <li>Indigenous people </li>
+    <li>Lesbian, gay, bisexual, transgendered, queer, two-spirit, and intersex (LGBTQ2I) people </li>
+    <li>Women </li>
+    <li>Pregnant persons </li>
+</ul></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Developing trusting relationships with people who inject drugs </li>
+    <li>Use of reflective practice to recognize and acknowledge health inequities </li>
+    <li>Promoting and engaging in shared decision making </li>
+    <li>Designing educational programs that incorporate multiple methods and strategies for health workers and students </li>
+    <li>Incorporating people with lived experience and practice experts in the delivery of education programs </li>
+    <li>Modifying format and structure of educational programs </li>
+    <li>Integrating peer workers into the programming of supervised injection services </li>
+    <li>Integrating comprehensive services into the programming of supervised injection services </li>
+    <li>Embedding harm reduction programs that including supervised injection services into existing health and social settings </li>
+    <li>Aligning the location, physical space, and operating hours to the needs of the local population and making operational improvements and structural redesign </li>
+    <li>Advocating for legislation and regulations to support ethical policies and procedures </li>
+</ol></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Engagement </li>
+    <li>Participation in care </li>
+    <li>Respect </li>
+    <li>Inclusion </li>
+    <li>Trust </li>
+    <li>Well-being and self-esteem </li>
+    <li>Safety </li>
+    <li>Increased knowledge, skill, and confidence </li>
+    <li>Improved attitudes </li>
+    <li>Experience with people who use drugs and harm reduction </li>
+    <li>Access to services </li>
+    <li>Comprehensive programming </li>
+    <li>Health equity </li>
+    <li>Appropriate resources </li>
+    <li>Staffing </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Hand-searches of Published Literature (Primary Sources)</p>
+                    <p>Hand-searches of Published Literature (Secondary Sources)</p>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><span style="text-decoration: underline;"><strong>Guideline Review</strong></span></p>
+<p>The Registered Nurses' Association of Ontario (RNAO) Best Practice Guideline Development Team searched an established list of websites for guidelines and other relevant content published between January 2011 and August 2016. The resulting list was compiled based on knowledge of evidence-based practice Web sites and recommendations from the literature. RNAO expert panel members also were asked to suggest additional guidelines (see Figure 3 in the original guideline document). Detailed information about the search strategy for existing guidelines, including the list of Web sites searched and the inclusion criteria used, is available in the search strategy document (see the "Availability of Companion Documents" field). </p>
+<p><strong><span style="text-decoration: underline;">Systematic Review</span></strong></p>
+<p>A comprehensive search strategy was developed by RNAO's research team and a health sciences librarian based on inclusion and exclusion criteria created with the RNAO expert panel. A search for relevant research studies only published in English between January 2011 and April 2017 was applied to the following databases: Cumulative Index to Nursing and Allied Health (CINAHL), MEDLINE, PsycINFO, and EMBASE. Expert panel members were asked to review their personal libraries for key studies not found through the above search strategies (see Figures 4, 5, and 6 in the original guideline document).</p>
+<p>Detailed information on the search strategy for the systematic review, including the inclusion and exclusion criteria and search terms, is available in the search strategy document (see the "Availability of Companion Documents" field). </p>
+<p>Studies were independently assessed for relevance and eligibility by the Guideline Development Lead and a nursing research associate based on the inclusion and exclusion criteria. Any disagreements were resolved through tiebreaking by a second nursing research associate.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>Six guidelines and 88 studies were included. See the Guidelines Review Process Flow Diagram and the Article Review Process Flow Diagrams in Appendix D in the original guideline document for more information on the review process.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Levels of Evidence</span></strong></p>
+<p><strong>Ia</strong> Evidence obtained from meta-analysis or systematic reviews of randomized controlled trials, and/or synthesis of multiple studies primarily of quantitative research.</p>
+<p><strong>Ib</strong> Evidence obtained from at least one randomized controlled trial.</p>
+<p><strong>IIa</strong> Evidence obtained from at least one well-designed controlled study without randomization.</p>
+<p><strong>IIb</strong> Evidence obtained from at least one other type of well-designed quasi-experimental study without randomization.</p>
+<p><strong>III</strong> Synthesis of multiple studies, primarily of qualitative research.</p>
+<p><strong>IV</strong> Evidence obtained from well-designed non-experimental observational studies, such as analytical studies, descriptive studies, and/or qualitative studies.</p>
+<p><strong>V</strong> Evidence obtained from expert opinion, committee reports, or clinical experiences of respected authorities.</p>
+<p class="Note">Adapted by the RNAO Best Practice Guideline Development Team from: Scottish Intercollegiate Guidelines Network. SIGN 50: a guideline developer's handbook. Edinburgh: Scottish Intercollegiate Guidelines Network; 2011; and Pati D. A framework for evaluating evidence in evidence-based design. Health Environments Research and Design Journal. 2011;21(3):105-12. </p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><span style="text-decoration: underline;"><strong>Guideline Review</strong></span></p>
+<p>The Guideline Development Lead and a nursing research associate appraised seven international guidelines using the Appraisal of Guidelines for Research and Evaluation Instrument II (AGREE II). Guidelines with an overall score of four or below were considered low and were excluded. Guidelines with a score of five were considered moderate, and guidelines with a score of six or seven were considered high. </p>
+<p>Refer to the original guideline document for a list of the selected guidelines. </p>
+<p><strong><span style="text-decoration: underline;">Systematic Review</span></strong></p>
+<p>Quality appraisal scores for 25 studies (a random sample of 20 percent of the total studies eligible for data extraction and quality appraisal) were independently assessed by the Guideline Development Lead and a nursing research associate. Quality appraisal was assessed using the Critical Appraisal Skills Programme (CASP) for primary studies, Assessment of Multiple Systematic Reviews (AMSTAR) for systematic reviews, and the Registered Nurses' Association of Ontario's (RNAO's) scoring system that rates studies as low, moderate, or high (see Table 2 in the original guideline document).</p>
+<p>An acceptable inter-rater agreement (kappa statistic, K=0.86) was reached, which justified proceeding with quality appraisal and data extraction for the remaining studies. The remaining studies were divided equally for quality appraisal and data extraction. Research summaries of literature findings were completed and used to describe the results in narrative form. The comprehensive data tables and research summaries were provided to all expert panel members for review and discussion.</p>
+<p>A complete bibliography of all full text reviews screened for inclusion is available (see the "Availability of Companion Documents" field).</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus (Delphi)</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Guideline Development Process</span></strong></p>
+<p>For this guideline, the Registered Nurses' Association of Ontario (RNAO) assembled a panel of experts who represent a range of sectors and practice areas. A systematic review of the evidence&mdash;based on the purpose and scope of this guideline, and supported by the three research questions listed below&mdash;was conducted to capture relevant peer-reviewed literature published between January 2011 and April 2017. The following research questions were established to guide the systematic review: </p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>How do health workers provide trauma-informed and culturally safe harm reduction care to people who are injecting drugs or accessing services in supervised injection services (SIS) facilities? </li>
+    <li>What are effective educational strategies to increase the knowledge, attitudes, and skill that health workers need to work with people who inject drugs or access services in SIS facilities? </li>
+    <li>What organizational and health system policies are required to support health workers in providing high-quality care in SIS facilities? </li>
+</ol>
+<p>The RNAO Best Practice Guideline Development Team and expert panel work to integrate the most current and best evidence, and to ensure the validity, appropriateness, and safety of the guideline recommendations with supporting evidence and expert panel consensus. </p>
+<p>A modified Delphi technique was employed to obtain expert panel consensus on the recommendations in this Guideline.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p>Not applicable</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>A formal cost analysis was not performed and published cost analyses were not reviewed. </p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>As a component of the guideline development process, feedback was obtained from participants across a wide range of health-care organizations, practice areas, and sectors. Participants include nurses, health workers, people with lived experience, knowledgeable administrators and funders of health-care services. Stakeholders representing diverse perspectives also were solicited for their feedback. </p>
+<p>Stakeholder reviewers for the Registered Nurses' Association of Ontario (RNAO) best practice guidelines (BPGs) are identified in two ways. First, stakeholders are recruited through a public call issued on the <a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3a%2f%2fRNAO.ca%2fbpg%2fget-involved%2fstakeholder" title="RNAO Web site">RNAO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. Second, individuals and organizations with expertise in the guideline topic area are identified by the RNAO guideline development team and the expert panel, and are directly invited to participate in the review.</p>
+<p>Stakeholder reviewers are individuals with subject matter expertise in the guideline topic or those who may be affected by the implementation of the guideline. Reviewers may be nurses, health workers, administrators, researchers, educators, nursing students, or persons and family. RNAO aims to solicit stakeholder expertise and perspectives representing diverse health-care sectors, roles within nursing and other professions (e.g., clinical practice, research, education, or policy), and geographic locations.</p>
+<p>Reviewers are asked to read a full draft of the guideline and to participate in the review prior to its publication. Stakeholder feedback is submitted online by completing a survey questionnaire. The stakeholders are asked the following questions about each recommendation:</p>
+<ul style="list-style-type: disc;">
+    <li>Is this recommendation clear? </li>
+    <li>Do you agree with this recommendation? </li>
+    <li>Is the discussion of evidence thorough and does the evidence support the recommendation? </li>
+</ul>
+<p>Public Advisors are reviewers who have lived experience. They participate in focus groups and interviews facilitated by RNAO expert panel members to provide feedback on the guideline. Public Advisors are asked the following questions about each recommendation:</p>
+<ul style="list-style-type: disc;">
+    <li>Do you agree with this recommendation? </li>
+    <li>Will this recommendation meet your needs? </li>
+</ul>
+<p>All reviewers have the opportunity to include comments and feedback for each section of the guideline. Reviewer submissions are compiled and feedback is summarized by the RNAO Best Practice Guideline Development Team. Together with the expert panel, RNAO reviews and considers all feedback and, if necessary, modifies the guideline content and recommendations prior to publication to address the feedback received. </p>
+<p>Stakeholder reviewers have given consent to the publication of their names and relevant information in this Guideline. Public Advisors review and sign a consent form prior to participating in focus groups or interviews, indicating whether they want to be acknowledged as an individual or group (such as a patient advisory council) or if they wish to remain anonymous.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified and graded for each recommendation (see the "Major Recommendations" field). </p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>Appropriate implementation of supervised injection services (SIS)</p>
+<p>Refer to the "Benefits and Harms" sections in the original guideline document for benefits of specific information.</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>People who inject drugs are at risk for stigmatization, disrespect and judgments during training sessions when engaging with learners that may be inexperienced at applying the principles of harm reduction, cultural safety, and trauma-informed practices. The unique needs of priority populations (such as Indigenous people) need to be considered in the context of including them in educational programs in order to prevent any potential harm associated with interacting with learners. </li>
+    <li>Peer workers are at risk for harm (e.g., psychological distress) if requisite supports are not provided to manage any issues associated with their involvement in supervised injection services (SIS). </li>
+    <li>There is a risk of harm to priority populations of people who inject drugs if the services offered are not relevant or effective for their specific health and social requirements (see Appendix F in the original guideline document). For example, services offered to Indigenous peoples should be provided by an individual or organization that understands the needs of this population. </li>
+    <li>There is potential harm for people who inject drugs if there has not been a considerable assessment of the diverse needs of people who inject drugs in the region (such as rural Indigenous people) and the resources available in a region (including access to nurses with specialized knowledge and skills), or if there had not been careful planning around the implementation of a new SIS or the expansion of an existing one. </li>
+    <li>There is a potential for harm if the unique needs of youth are not considered in the programming of services and supports. It also is important to recognize and consider the complex ethical issues that nurses and health workers may face when they are expected to participate in assisted injection; doing so will help to mitigate those issues prior to implementing a new policy. </li>
+</ul></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>These guidelines are not binding on nurses, other health-care providers, or the organizations that employ them. The use of these guidelines should be flexible and based on individual needs and local circumstances. They constitute neither a liability nor discharge from liability. While every effort has been made to ensure the accuracy of the contents at the time of publication, neither the authors nor the Registered Nurses' Association of Ontario (RNAO) gives any guarantee as to the accuracy of the information contained in them or accepts any liability with respect to loss, damage, injury, or expense arising from any such errors or omission in the contents of this work. </li>
+    <li>This nursing best practice guideline (BPG) is a comprehensive document that provides an overview of principles, resources, and structures for delivering evidence-based supervised injection services (SIS). It is not intended to be a manual or "how-to" guide; rather, it supports best practices and decision making for nurses, health workers, and health system leaders. This Guideline should be reviewed and applied in accordance with individual SIS facilities and the needs and preferences of persons accessing SIS. This document provides evidence-based recommendation statements and descriptions of (a) pragmatic practice, education, and policy considerations, (b) benefits and harms, and (c) values and preferences. This Guideline predominantly focuses on policy issues related to SIS and highlights relevant supporting documents that directly address clinical practices. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Implementation Strategies</span></strong></p>
+<p>Implementing guidelines at the point of care is multi-faceted and challenging. It takes more than awareness and distribution of guidelines for practice to change: guidelines must be adapted for each practice setting in a systematic and participatory way to ensure that recommendations fit the local context. The 2012 Registered Nurses' Association of Ontario's (RNAO's) <em>Toolkit: Implementation of Best Practice Guidelines</em> provides an evidence-informed process for doing this. It can be downloaded at the <a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3a%2f%2frnao.ca%2fbpg%2fresources%2ftoolkit-implementation-best-practice-guidelines-second-edition" title="RNAO Web site">RNAO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>The <em>Toolkit</em> is based on emerging evidence that successful uptake of best practices in health care is more likely when the following occur: </p>
+<ul style="list-style-type: disc;">
+    <li>Leaders at all levels are committed to supporting guideline implementation </li>
+    <li>Guidelines are selected for implementation through a systematic, participatory process </li>
+    <li>Stakeholders for whom the guidelines are relevant are identified and engaged in the implementation </li>
+    <li>Environmental readiness for implementing guidelines is assessed </li>
+    <li>The guideline is tailored to the local context </li>
+    <li>Barriers and facilitators to using the guideline are assessed and addressed </li>
+    <li>Interventions to promote use of the guideline are selected </li>
+    <li>Use of the guideline is systematically monitored and sustained </li>
+    <li>Evaluation of the guideline's impact is embedded in the process </li>
+    <li>There are adequate resources to complete all aspects of the implementation. </li>
+</ul>
+<p>The <em>Toolkit</em> uses the "Knowledge-to-Action" framework to demonstrate the process steps required for knowledge inquiry and synthesis. It also guides the adaptation of the new knowledge to the local context and implementation. This framework suggests identifying and using knowledge tools, such as guidelines, to identify gaps and begin the process of tailoring the new knowledge to local settings.</p>
+<p>RNAO is committed to widespread deployment and implementation of its best practice guidelines (BPGs). RNAO uses a coordinated approach to dissemination, incorporating a variety of strategies, including the following:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>The Nursing Best Practice Champion Network&reg;, which develops the capacity of individual nurses to foster awareness, engagement, and adoption of BPGs. </li>
+    <li>Nursing order sets, which provide clear, concise, and actionable intervention statements derived from the practice recommendations of clinical BPGs that can be readily embedded within electronic medical records, but which may also be used in paper-based or hybrid environments. </li>
+    <li>The Best Practice Spotlight Organization&reg; (BPSO&reg;) designation, which supports implementation at the organization and system levels. BPSOs focus on developing evidence-based cultures with the specific mandate to implement, evaluate, and sustain multiple RNAO BPGs. </li>
+</ol>
+<p>In addition, RNAO offers annual capacity-building learning institutes on specific BPGs and their implementation. Information about our implementation strategies can be found at:</p>
+<ul style="list-style-type: disc;">
+    <li>RNAO Best Practice Champions Network&reg;: <a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3a%2f%2frnao.ca%2fbpg%2fget-involved%2fchampions" title="RNAO Web site">https://RNAO.ca/bpg/get-involved/champions</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li>RNAO Nursing Order Sets: <a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3a%2f%2frnao.ca%2fehealth%2fnursingordersets" title="RNAO Web site">http://rnao.ca/ehealth/nursingordersets</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li>RNAO BPSO&reg;: <a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3a%2f%2frnao.ca%2fbpg%2fbpso" title="RNAO Web site">https://RNAO.ca/bpg/bpso</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+    <li>RNAO capacity-building learning institutes and other professional development opportunities: <a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3a%2f%2frnao.ca%2fevents" title="RNAO Web site">https://RNAO.ca/events</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> </li>
+</ul></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Foreign Language Translations</p>
+                    <p>Resources</p>
+                    <p>Tool Kits</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Registered Nurses Association of Ontario (RNAO). Implementing supervised injection services. Toronto (ON): Registered Nurses Association of Ontario (RNAO); 2018 Feb. 104 p.  [134 references]</td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source. </p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2018 Feb</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>Registered Nurses' Association of Ontario - Professional Association</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>This work is funded by the Ontario Ministry of Health and Long-Term Care. All work produced by the Registered Nurses' Association of Ontario (RNAO) is editorially independent from its funding source.</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Registered Nurses' Association of Ontario (RNAO) Expert Panel</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Expert Panel Members</span></strong></p>
+<p>David McKeown, MDCM, MHSc, FRCPC <br/>
+<em>Panel Co-Chair</em> <br/>
+Public Health Physician <br/>
+Toronto, ON </p>
+<p>Marjory Ditmars, RN, BScN <br/>
+<em>Panel Co-Chair</em> <br/>
+Registered Nurse <br/>
+Insite Supervised Injection Site and Outreach Mental <br/>
+Health and Addictions <br/>
+Vancouver, BC </p>
+<p>Jason Altenberg, BSc, MSW <br/>
+Director of Programs and Services <br/>
+South Riverdale Community Health Centre <br/>
+Toronto, ON </p>
+<p>Raffi Balian (see Dedication in the original guideline document) <br/>
+Project Coordinator <br/>
+South Riverdale Community Health Centre <br/>
+Toronto, ON </p>
+<p>Rosalind Baltzer Turje, RN, BScN, MA <br/>
+Director of Clinical Programs, Research and Evaluation <br/>
+Dr. Peter Centre <br/>
+Vancouver, BC </p>
+<p>Petrina Barbas, BHSc, BScN <br/>
+Nursing Student <br/>
+Ryerson University <br/>
+Toronto, ON </p>
+<p>Alexander Caudarella, MDCM, CCFP <br/>
+ABAM (Dipl) <br/>
+Addiction Medicine and Family Physician <br/>
+St. Michael's Hospital <br/>
+Toronto, ON </p>
+<p>Cori Chapman, BA, MHSc <br/>
+Family Advocate and Retired Registered Nurse <br/>
+Mississauga, ON </p>
+<p>Luc Cormier, RN, MScN <br/>
+Nursing Team Leader, Supervised Injection Services <br/>
+Sandy Hill Community Health Centre <br/>
+Ottawa, ON </p>
+<p>Anne-Marie DiCenso, MSW, RSW <br/>
+Director of Urban Health Services <br/>
+Parkdale Queen West Community Health Centre <br/>
+Toronto, ON </p>
+<p>Marilou Gagnon, RN, PhD <br/>
+Associate Professor, Faculty of Health Sciences <br/>
+University of Ottawa <br/>
+Ottawa, ON </p>
+<p>Shaun Hopkins, BSW <br/>
+Manager, Needle Exchange Program <br/>
+The Works, Toronto Public Health <br/>
+Toronto, ON </p>
+<p>Cathryn Hoy, RN <br/>
+Vice-President, Region 2 <br/>
+Ontario Nurses' Association <br/>
+Toronto, ON </p>
+<p>Bernadette Pauly, RN, PhD <br/>
+Associate Professor, School of Nursing <br/>
+University of Victoria; Scientist <br/>
+Canadian Institute for Substance Use <br/>
+Victoria, BC</p>
+<p>Juanita Rickard, RN, BScN <br/>
+Vice President <br/>
+Canadian Indigenous Nurses Association <br/>
+Ottawa, ON </p>
+<p>Amy Wright, BSW (student) <br/>
+Harm Reduction Worker/SIS Peer <br/>
+The Works, Toronto Public Health <br/>
+Toronto, ON</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>Declarations of competing interests that might be construed as constituting an actual, potential, or apparent conflict were made by all members of the Registered Nurses' Association of Ontario (RNAO) expert panel, and members were asked to update their disclosures throughout the guideline development process. Information was requested about financial, intellectual, personal, and other interests and documented for future reference. No limiting conflicts were identified. Details regarding disclosures are available from the <a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3a%2f%2frnao.ca%2fbpg%2fguidelines%2fimplementing-supervised-injection-services" title="RNAO Web site">RNAO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Guideline Endorser(s)</a></h3>
+                    <p>Canadian Indigenous Nurses Association (CINA) - Nonprofit Organization</p>
+                    <p>Canadian Nurses Association - Professional Association</p>
+                    <p>Canadian Public Health Association - Nonprofit Organization</p>
+                    <p>Sigma Theta Tau International Honor Society of Nursing - Nonprofit Research Organization</p>
+                    <p>The Canadian Harm Reduction Network - Nonprofit Organization</p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3a%2f%2frnao.ca%2fsites%2frnao-ca%2ffiles%2fbpg%2fImplementing_supervised_injection_services.pdf" title="Registered Nurses' Association of Ontario (RNAO) Web site">Registered Nurses' Association of Ontario (RNAO) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Registered Nurses' Association of Ontario &ndash; Clinical Best Practice Guidelines Program: Implementing supervised injection services. Systematic review search strategy. Toronto (ON): Registered Nurses Association of Ontario (RNAO); 2018 Feb. 3 p. Available from the <a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3a%2f%2frnao.ca%2fsites%2frnao-ca%2ffiles%2fSIS_Search_Strategy.pdf" title="Registered Nurses' Association of Ontario (RNAO) Web site">Registered Nurses' Association of Ontario (RNAO) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Registered Nurses' Association of Ontario &ndash; Clinical Best Practice Guidelines Program: Implementing supervised injection services. Bibliography and quality appraisal scores. Toronto (ON): Registered Nurses Association of Ontario (RNAO); 2018 Feb. 8 p. Available from the <a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3a%2f%2frnao.ca%2fsites%2frnao-ca%2ffiles%2fBibliography_and_QA_Scores_2.pdf" title="RNAO Web siteite">RNAO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Insite 2010 cookbook. Toronto (ON): Registered Nurses Association of Ontario (RNAO); 2010. 16 p. Available from the <a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3a%2f%2frnao.ca%2fsites%2frnao-ca%2ffiles%2fInsite_2010_2018_Cookbook.pdf" title="RNAO Web site">RNAO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Declarations of competing interests. Toronto (ON): Registered Nurses Association of Ontario (RNAO); 2018 Feb. 2 p. Available from the <a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3a%2f%2frnao.ca%2fsites%2frnao-ca%2ffiles%2fSIS_Web_COI.pdf" title="RNAO Web site">RNAO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Toolkit: implementation of best practice guidelines, second edition. Toronto (ON): Registered Nurses Association of Ontario (RNAO); 2012 Sept. 154 p. Available in English and French from the <a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3a%2f%2frnao.ca%2fbpg%2fresources%2ftoolkit-implementation-best-practice-guidelines-second-edition" title="RNAO Web site">RNAO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p>Mobile versions of RNAO guidelines are available from the <a href="/web/20180712204133/https://www.guideline.gov/Home/Disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3a%2f%2frnao.ca%2fbpg%2fapp" title="RNAO Web site">RNAO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712204133im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on April 5, 2018. The information was verified by the guideline developer on May 15, 2018. </p>
+<p>This NEATS assessment was completed by ECRI Institute on April 12, 2018. The information was verified by the guideline developer on May 15, 2018. </p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>With the exception of those portions of this document for which a specific prohibition or limitation against copying appears, the balance of this document may be produced, reproduced, and published in its entirety only, in any form, including in electronic form, for educational or non-commercial purposes, without requiring the consent or permission of the Registered Nurses' Association of Ontario, provided that an appropriate credit or citation appears in the copied work as follows:</p>
+<p>Registered Nurses' Association of Ontario (2018). <em>Implementing supervised injection services</em>. Toronto (ON): Registered Nurses' Association of Ontario.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712204133/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712204133/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712204133/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712204133/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712204133/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712204133/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712204133/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712204133/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712204133/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712204133/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712204133/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712204133/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712204133/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712204133/https://www.guideline.gov/disclaimer?id=51293&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712204133im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712204133/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712204133/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712204133/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712204133/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712204133/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712204133/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712204133/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712204133/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712204133/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712204133/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712204133/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712204133/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712204133/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712204133/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712204133/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712204133/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712204133/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712204133/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712204133/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712204133im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712204133/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712204133im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712204133im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712204133/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712204133js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712204133js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:41:33 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:29:44 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 73.499 (3)
+  esindex: 0.008
+  captures_list: 92.877
+  CDXLines.iter: 15.127 (3)
+  PetaboxLoader3.datanode: 64.379 (4)
+  exclusion.robots: 0.199
+  exclusion.robots.policy: 0.188
+  RedisCDXSource: 0.627
+  load_resource: 41.554
+-->

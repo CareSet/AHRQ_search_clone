@@ -1,0 +1,1339 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app58.us.archive.org';v.server_ms=638;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Guidelines for family-centered care in the neonatal, pediatric, and adult ICU. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712205719im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712205719im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712205719im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712205719im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712205719/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712205719im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712205719cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712205719js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712205719if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712205719/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712205719if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712205719/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712205719/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712205719/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712205719/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712205719im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712205719im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712205719/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712205719/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712205719/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712205719/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712205719/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712205719/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712205719/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712205719/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712205719/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712205719/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712205719/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712205719/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712205719/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712205719/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712205719/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712205719/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712205719/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712205719/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712205719/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712205719/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712205719/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:011218</li>
+            <li>2017 Jan
+            </li>            
+                                        <li>
+                    <div class="flag-box"><span class="neats"></span> NEATS Assessment</div>    
+                    <a class="icon-info" href="/web/20180712205719/https://www.guideline.gov/help-and-about/summaries/determining-extent-adherence-to-the-iom-standards-in-ngc"><span class="screen-reader-text">Learn More About NEATS Assessment</span></a>                
+                </li>
+        </ul>
+        <div>
+                <h1>Guidelines for family-centered care in the neonatal, pediatric, and adult ICU.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+<li><a href="#neats-tab" class="NEATS"><span class="label">NEATS Assessment</span></a></li>        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712205719/https://www.guideline.gov/search?f_Guideline_Developer_String=Society%20of%20Critical%20Care%20Medicine&amp;fLockTerm=Society%2Bof%2BCritical%2BCare%2BMedicine">Society of Critical Care Medicine</a></li>
+                        <li>   
+                                <a id="335" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Davidson JE, Aslakson RA, Long AC, Puntillo KA, Kross EK, Hart J, Cox CE, Wunsch H, Wickline MA, Nunnally ME, Netzer G, Kentish-Barnes N, Sprung CL, Hartog CS, Coombs M, Gerritsen RT, Hopkins RO, Franck LS, Skrobik Y, Kon AA, Scruth EA, Harvey MA, Lewis-Newby M, White DB, Swoboda SM, Cooke CR, Levy MM, Azoulay E, Curtis JR. Guidelines for family-centered care in the neonatal, pediatric, and adult ICU. Crit Care Med. 2017 Jan;45(1):103-28. [275 references] <a href="https://web.archive.org/web/20180712205719/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27984278" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712205719im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712205719/https://www.guideline.gov/Home/Disclaimer?id=51023&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.learnicu.org%252fSiteCollectionDocuments%252fGuidelines-Family-Centered-Care-Neonatal-Pediatric-Adult-ICU.pdf">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205719im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712205719/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712205719/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712205719/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+                        <li><a href="/web/20180712205719/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712205719/https://www.guideline.gov/search?f_Age_of_Target_Population=Adolescent%20%2813%20to%2018%20years%29&amp;fLockTerm=Adolescent%2B%2813%2Bto%2B18%2Byears%29">Adolescent (13 to 18 years)</a></li>                      
+                        <li><a href="/web/20180712205719/https://www.guideline.gov/search?f_Age_of_Target_Population=Child%20%282%20to%2012%20years%29&amp;fLockTerm=Child%2B%282%2Bto%2B12%2Byears%29">Child (2 to 12 years)</a></li>                      
+                        <li><a href="/web/20180712205719/https://www.guideline.gov/search?f_Age_of_Target_Population=Infant%20%281%20to%2023%20months%29&amp;fLockTerm=Infant%2B%281%2Bto%2B23%2Bmonths%29">Infant (1 to 23 months)</a></li>                      
+                        <li><a href="/web/20180712205719/https://www.guideline.gov/search?f_Age_of_Target_Population=Infant%2C%20Newborn%20%28to%201%20month%29&amp;fLockTerm=Infant%252c%2BNewborn%2B%28to%2B1%2Bmonth%29">Infant, Newborn (to 1 month)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712205719/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712205719/https://www.guideline.gov/search?f_MSH_CUI=C0008971&amp;fLockTerm=Clinical+Protocols">Clinical Protocols</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MSH_CUI=C0009452&amp;fLockTerm=Communication">Communication</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MSH_CUI=C0010337&amp;fLockTerm=Critical+Care">Critical Care</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MSH_CUI=C0010340&amp;fLockTerm=Critical+Illness">Critical Illness</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MSH_CUI=C0011113&amp;fLockTerm=Decision+Support+Techniques">Decision Support Techniques</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MSH_CUI=C0021708&amp;fLockTerm=Intensive+Care+Units">Intensive Care Units</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MSH_CUI=C0021709&amp;fLockTerm=Intensive+Care+Units%2c+Neonatal">Intensive Care Units, Neonatal</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MSH_CUI=C0021710&amp;fLockTerm=Intensive+Care+Units%2c+Pediatric">Intensive Care Units, Pediatric</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MSH_CUI=C0023677&amp;fLockTerm=Life+Support+Care">Life Support Care</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MSH_CUI=C0030679&amp;fLockTerm=Patient+Care+Team">Patient Care Team</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MSH_CUI=C0030767&amp;fLockTerm=Peer+Group">Peer Group</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MSH_CUI=C0034928&amp;fLockTerm=Referral+and+Consultation">Referral and Consultation</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712205719/https://www.guideline.gov/search?f_MTH_CUI=C0010337&amp;fLockTerm=Care+of+intensive+care+unit+patient">Care of intensive care unit patient</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MTH_CUI=C0009452&amp;fLockTerm=Communication">Communication</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MTH_CUI=C1510665&amp;fLockTerm=Hospital+environment">Hospital environment</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MTH_CUI=C0021708&amp;fLockTerm=intensive+care+unit">intensive care unit</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MTH_CUI=C0021710&amp;fLockTerm=Pediatric+intensive+care+unit">Pediatric intensive care unit</a>
+, <a href="/web/20180712205719/https://www.guideline.gov/search?f_MTH_CUI=C0033175&amp;fLockTerm=Private+Room">Private Room</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0150122&amp;fLockTerm=Active+listening">Active listening</a>
+ (386507003), <a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0010337&amp;fLockTerm=Care+of+intensive+care+unit+patient">Care of intensive care unit patient</a>
+ (133903000), <a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0009452&amp;fLockTerm=Communication">Communication</a>
+ (263536004), <a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0588407&amp;fLockTerm=Communication+skills+training">Communication skills training</a>
+ (310829009), <a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0150577&amp;fLockTerm=Education+of+family">Education of family</a>
+ (460616007), <a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1319180&amp;fLockTerm=Family+involvement+behavior%3a+health+care">Family involvement behavior: health care</a>
+ (405204003), <a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0150232&amp;fLockTerm=Family+support">Family support</a>
+ (243115004), <a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1510665&amp;fLockTerm=Hospital+environment">Hospital environment</a>
+ (22232009), <a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1510665&amp;fLockTerm=Hospital+environment">Hospital environment</a>
+ (285201006), <a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0021708&amp;fLockTerm=Intensive+care+unit">Intensive care unit</a>
+ (309904001), <a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0021709&amp;fLockTerm=Neonatal+intensive+care+unit">Neonatal intensive care unit</a>
+ (405269005), <a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0021710&amp;fLockTerm=Pediatric+intensive+care+unit">Pediatric intensive care unit</a>
+ (309910001), <a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2919937&amp;fLockTerm=Provision+of+educational+material">Provision of educational material</a>
+ (445283009), <a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1319406&amp;fLockTerm=Specialist+multidisciplinary+team">Specialist multidisciplinary team</a>
+ (408458006), <a href="/web/20180712205719/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2712299&amp;fLockTerm=Support+for+family+decision+making+process">Support for family decision making process</a>
+ (710867002)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+            <div id="neats-tab" class="content-tab-panel">
+                <p id="NeatsDescription">
+                    National Guideline Clearinghouse (NGC) has assessed this guideline's adherence to standards of trustworthiness, derived from the Institute of Medicine's report
+                    <a href="/web/20180712205719/https://www.guideline.gov/disclaimer?id=51023&amp;contentType=summary&amp;redirect=http%3A%2F%2Fnationalacademies.org%2Fhmd%2FReports%2F2011%2FClinical-Practice-Guidelines-We-Can-Trust.aspx"><i>Clinical Practice Guidelines We Can Trust</i></a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205719im_/https://www.guideline.gov/UI/images/icon_externallink.gif">.
+                </p>
+                <div class="ratings" aria-hidden="true">
+                    <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-1.png" alt="Poor"/> = Poor</span>
+                    <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-2.png" alt="Fair"/> = Fair</span>
+                    <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-3.png" alt="Good"/> = Good</span>
+                    <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-4.png" alt="Very Good"/> = Very Good</span>
+                    <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/> = Excellent</span>
+                </div>
+                    <table aria-describedby="NeatsDescription">
+                        <thead>
+                        <tr>
+                            <th id="section">NEATS Assessment <a class="icon-info" href="/web/20180712205719/https://www.guideline.gov/help-and-about/summaries/determining-extent-adherence-to-the-iom-standards-in-ngc"><span class="screen-reader-text">More about NGC's appraisal</span></a></th>
+                            <th id="standard">Standard of Trustworthiness</th>
+                        </tr>
+                        </thead>
+                        <tbody>
+                                        <tr>
+                    <td class="topborderme" headers="section">Yes</td>
+                    <td class="greenboldme topborderme" headers="standard">Disclosure of Guideline Funding Source</td>
+                </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">Disclosure and Management of Financial Conflict of Interests</td>
+                </tr>
+                    <tr>
+                        <td class="topborderme" id="blank"></td>
+                        <th class="greenboldme topborderme" id="185" headers="standard">Guideline Development Group Composition</th>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                            Yes
+                        </td>
+                        <td class="leftpadme" headers="185">Multidisciplinary Group</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                            Yes
+                        </td>
+                        <td class="leftpadme" headers="186">Methodologist Involvement</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="187">Patient and Public Perspectives</td>
+                    </tr>
+                    <tr>
+                        <td class="topborderme" id="blank"></td>
+                        <th class="greenboldme topborderme" id="188" headers="standard">Use of a Systematic Review of Evidence</th>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="188">Search Strategy</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="189">Study Selection</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="190">Synthesis of Evidence</td>
+                    </tr>
+                    <tr>
+                        <td class="topborderme" id="blank"></td>
+                        <th class="greenboldme topborderme" id="191" headers="standard">Evidence Foundations for and Rating Strength of Recommendations</th>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="191">Grading the Quality or Strength of Evidence</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="192">Benefits and Harms of Recommendations</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="193">Evidence Summary Supporting Recommendations</td>
+                    </tr>
+                    <tr>
+                        <td headers="section">
+                                            <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-4.png" alt="Very Good"/></span>
+
+                        </td>
+                        <td class="leftpadme" headers="194">Rating the Strength of Recommendations</td>
+                    </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">Specific and Unambiguous Articulation of Recommendations</td>
+                </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-5.png" alt="Excellent"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">External Review</td>
+                </tr>
+                <tr>
+                    <td class="topborderme" headers="section">                <span class="rating"><img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/rating-1.png" alt="Poor"/></span>
+</td>
+                    <td class="greenboldme topborderme" headers="standard">Updating</td>
+                </tr>
+
+                        </tbody>
+                    </table>
+            </div>
+    <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712205719/https://www.guideline.gov/summaries/downloadcontent/ngc-11218?contentType=pdf" class="pdf">.PDF 149.2 kb</a></li>
+                            <li><a href="/web/20180712205719/https://www.guideline.gov/summaries/downloadcontent/ngc-11218?contentType=word" class="word">Word Document 344.3 kb</a></li>
+                            <li><a href="/web/20180712205719/https://www.guideline.gov/summaries/downloadcontent/ngc-11218?contentType=xml" class="xml">.XML 82.9 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205719/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/51023/guidelines-for-familycentered-care-in-the-neonatal-pediatric-and-adult-icu" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205719/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/51023/guidelines-for-familycentered-care-in-the-neonatal-pediatric-and-adult-icu" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205719/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/51023/guidelines-for-familycentered-care-in-the-neonatal-pediatric-and-adult-icu&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712205719/mailto:/?Subject=AHRQ: Guidelines for family-centered care in the neonatal, pediatric, and adult ICU.&amp;body=https://www.guideline.gov/summaries/summary/51023/guidelines-for-familycentered-care-in-the-neonatal-pediatric-and-adult-icu" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Guidelines for family-centered care in the neonatal, pediatric, and adult ICU. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2017 Jan 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712205719/https://www.guideline.gov/summaries/citedownload/51023?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712205719/https://www.guideline.gov/summaries/citedownload/51023?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712205719/https://www.guideline.gov/summaries/citedownload/51023?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712205719/https://www.guideline.gov/summaries/citedownload/51023?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712205719/https://www.guideline.gov/summaries/citedownload/51023?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712205719/https://www.guideline.gov/summaries/citedownload/51023">RefWorks</a></li>
+                            <li><a href="/web/20180712205719/https://www.guideline.gov/summaries/citedownload/51023?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="51023" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>The strength of recommendations (<strong>Strong [1]</strong>, <strong>Weak [2]</strong>) and quality of evidence levels (<strong>A</strong>, <strong>B</strong>, <strong>C</strong>) are defined at the end of the "Major Recommendations" field.</p>
+<p><strong><span style="text-decoration: underline;">Family Presence with Patients in the Intensive Care Unit (ICU)</span></strong></p>
+<p><strong>PICO (Patient, Intervention, Comparator, Outcome) Question 1.1</strong></p>
+<p>In the critical care environment, does open family presence at the bedside (also called "open visiting") affect family satisfaction?</p>
+<p><em>Recommendation</em></p>
+<p>Given the value family members place on family presence, their dissatisfaction associated with restricted presence, and the benefit of engagement associated with presence, the guideline authors suggest that family members of critically ill patients be offered open or flexible family presence at the bedside that meets their needs while providing support for staff and positive reinforcement to work in partnership with families. (<strong>2D</strong>)</p>
+<p><strong>PICO Question 1.2</strong></p>
+<p>Does family presence during interdisciplinary team rounds improve family psychological symptoms, family trust in clinicians, family satisfaction with and preferences for care or communication, family or clinician conflict, degree of shared decision making (as a direct result of family participation), and family knowledge?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest that family members of critically ill patients be offered the option of participating in interdisciplinary team rounds to improve satisfaction with communication and increase family engagement. (<strong>2C</strong>)</p>
+<p><strong>PICO Question 1.3</strong></p>
+<p>Does family presence during resuscitation affect family psychological symptoms, caregiver burden, family trust in clinicians, family satisfaction with care, family satisfaction with communication, family or clinician conflict?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest family members of critically ill patients be offered the option of being present during resuscitation efforts, with a staff member assigned to support the family. (<strong>2C</strong>)</p>
+<p><strong><span style="text-decoration: underline;">Family Support</span></strong></p>
+<p><strong>PICO Question 2.1</strong></p>
+<p>Among families of ICU patients, does teaching family members to participate in patient care affect family satisfaction with care, family self-efficacy, or time to do not resuscitate (DNR) order?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest that family members of critically ill neonates be offered the option to be taught how to assist with the care of their critically ill neonate to improve parental confidence and competence in their caregiving role and improve parental psychological health during and after the ICU stay. (<strong>2B</strong>)</p>
+<p><strong>PICO Question 2.2</strong></p>
+<p>Among family members of ICU patients, do training/education programs for family members affect family psychological symptoms, family stress, family satisfaction, family self-efficacy, and hospital length of stay (LOS) and costs?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest that family education programs be included as part of clinical care as these programs have demonstrated beneficial effects for family members in the ICU by reducing anxiety, depression, post-traumatic stress, and generalized stress, while improving family satisfaction with care. (<strong>2C</strong>)</p>
+<p><strong>PICO Question 2.3</strong></p>
+<p>Among family members of ICU patients, does provision of family support such as family peer-to-peer support, "night," or family respite affect family psychological symptoms like post-traumatic stress disorder (PTSD) and family satisfaction with care?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest that peer-to-peer support be implemented in neonatal intensive care units (NICUs) to improve family satisfaction, reduce parental stress, and reduce depression. (<strong>2D</strong>)</p>
+<p>There is no evidence to evaluate date-night or respite, and therefore no recommendation can be made about those topics at this time.</p>
+<p><strong>PICO Question 2.4</strong></p>
+<p>Do written materials such as pamphlets, education materials, and bereavement materials targeting ICU family members improve psychological distress or communication compared with usual care?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest that ICUs provide family with leaflets that give information about the ICU setting to reduce family member anxiety and stress. (<strong>2B</strong>)</p>
+<p><strong>PICO Question 2.5</strong></p>
+<p>Among family members of ICU patients does an ICU diary program improve/affect psychological symptoms (PTSD, anxiety, or depression)?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest that ICU diaries be implemented in the ICU to reduce family member anxiety, depression, and post-traumatic stress. (<strong>2C</strong>)</p>
+<p><strong>PICO Question 2.6</strong></p>
+<p>In the ICU environment, do decision support tools for families or shared decision making itself improve/affect communication, cost or LOS?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest that validated decision support tools for family members be implemented in the ICU setting when relevant validated tools exist to optimize quality of communication, medical comprehension, and reduce family decisional conflict. (<strong>2D</strong>)</p>
+<p><strong>PICO Question 2.7</strong></p>
+<p>In the ICU environment, do clinician support tools targeting family support or primary palliative care such as checklists, worksheets, and mnemonics improve family satisfaction, communication, or psychological distress compared with usual care?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest that among surrogates of ICU patients who are deemed by a clinician to have a poor prognosis, clinicians use a communication approach, such as the mnemonic "VALUE" (Value family statements, Acknowledge emotions, Listen, Understand the patient as a person, Elicit questions), during family conferences to facilitate clinician-family communication. (<strong>2C</strong>)</p>
+<p><strong><span style="text-decoration: underline;">Evaluation of Interventions Focused on Improving Communication</span></strong></p>
+<p><strong>PICO Question 3.1</strong></p>
+<p>In the ICU setting, do routine interdisciplinary family conferences improve patient or family outcomes, including increasing family satisfaction with communication and trust in clinicians, and reducing conflict between clinicians and family members?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest routine interdisciplinary family conferences be used in the ICU to improve family satisfaction with communication and trust in clinicians and to reduce conflict between clinicians and family members. (<strong>2C</strong>)</p>
+<p><strong>PICO Question 3.2</strong></p>
+<p>Among healthcare clinicians in the ICU, do specific communication techniques such as active listening, empathy and empathic statements, provision of supportive comments, language translation, or cultural mediation affect family psychological symptoms, family satisfaction with care, communication or decision making, physician-family conflict, or ICU utilization (LOS)?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest healthcare clinicians in the ICU use structured approaches to communication such as that included in the "VALUE" mnemonic when engaging in communication with family members, specifically including active listening, expressions of empathy, and making supportive statements around non-abandonment and decision making. In addition, the guideline authors suggest that family members of critically ill patients undergoing withdrawal of life support be offered a written bereavement brochure to reduce family anxiety, depression and post-traumatic stress and improve family satisfaction with communication. (<strong>2C</strong>)</p>
+<p><strong>PICO Question 3.3</strong></p>
+<p>In the ICU environment, do communication-training programs for clinicians, such as education or simulation, improve family psychological symptoms, family-rating of quality of dying, patient- or family-rated quality of communication, family satisfaction with communication, clinician self-efficacy, or clinician psychological symptoms?</p>
+<p><em>Recommendation</em></p>
+<p>Based on the existing evidence of patient and family burdens associated with poor communication, as well as improved clinician-reported skills and comfort following communication training, the guideline authors suggest that ICU clinicians receive family-centered communication training as one element of critical care training. However, no recommendation can be made to suggest the use of any of the specific communication training programs that have been evaluated based on the existing evidence. (<strong>2D</strong>)</p>
+<p><strong><span style="text-decoration: underline;">Evaluations of the Use of Specific Consultations and Team Members</span></strong></p>
+<p><strong>PICO Question 4.1</strong></p>
+<p>Among family members of ICU patients does a palliative care consultation impact ICU and hospital utilization?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest proactive palliative care consultation be provided to decrease ICU and hospital LOS among selected critically ill patients (e.g., advanced dementia, global cerebral ischemia after cardiac arrest, patients with prolonged ICU stay, and patients with subarachnoid hemorrhage [SAH] requiring mechanical ventilation). (<strong>2C</strong>)</p>
+<p><strong>PICO Question 4.2</strong></p>
+<p>Among family members of ICU patients does ethics consultation impact family satisfaction or ICU or hospital LOS?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest that ethics consultation be provided to decrease ICU and hospital LOS among critically ill patients for whom there is a value-related conflict between clinicians and family. (<strong>2C</strong>)</p>
+<p><strong>PICO Question 4.3</strong></p>
+<p>Among family members of ICU patients does a psychologist consult improve/affect family outcomes?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest a psychologist's intervention be provided to specifically incorporate a multimodal cognitive behavioral therapy (CBT)-based approach to improve outcomes in mothers of preterm babies admitted to the NICU. Furthermore, the guideline authors suggest that targeted video and reading materials be provided in the context of psychological support to mothers of preterm babies admitted to the ICU. (<strong>2D</strong>)</p>
+<p><strong>PICO Question 4.4</strong></p>
+<p>Among family members of ICU patients does a social work consultation impact family satisfaction?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest social workers be included within an interdisciplinary team to participate in family meetings in order to improve family satisfaction. (<strong>2D</strong>)</p>
+<p><strong>PICO Question 4.5</strong></p>
+<p>Among family members of ICU patients does a navigator (care coordinator or communication facilitator) improve family anxiety, depression, post-traumatic stress, family satisfaction, family, or clinician conflict or resource utilization?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest that family navigators (care coordinator or communication facilitator) be assigned to families throughout the ICU stay to improve family satisfaction with physician communication, decrease psychological symptoms, and reduce costs of care and length of ICU and hospital stay. (<strong>2C</strong>)</p>
+<p><strong>PICO Question 4.6</strong></p>
+<p>Among families of ICU patients, does routine consultation of a spiritual care provider improve outcomes?</p>
+<p><em>Recommendation</em></p>
+<p>Given the consistency of expression of family values for availability of spiritual care, the accreditation standard requirements, and the association with increased satisfaction, the guideline authors suggest that families be offered spiritual support from a spiritual advisor or chaplain. (<strong>2D</strong>)</p>
+<p><strong><span style="text-decoration: underline;">Operational and Environmental Issues</span></strong></p>
+<p><strong>PICO Question 5.1</strong></p>
+<p>In the ICU environment, do protocols for withdrawing life support improve outcomes?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest that protocols be implemented to ensure adequate and standardized use of sedation and analgesia during withdrawal of life support. (<strong>2C</strong>)</p>
+<p><strong>PICO Question 5.2</strong></p>
+<p>Does the inclusion of nurses in ICU communication about decision making about the goals of care improves family-centered outcomes?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest that nurses be involved in decision making about goals of care and trained to provide support for family members of critically ill patients as part of an overall program to decrease ICU and hospital LOS and to improve quality of communication in the ICU. (<strong>2D</strong>) No recommendation can be made about how to accomplish this goal due to lack of supporting evidence.</p>
+<p><strong>PICO Question 5.3</strong></p>
+<p>Does a comprehensive "family-centered care" approach to ICU care improve family-centered outcomes during critical illness?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest hospitals implement policies to promote family-centered care in the ICU to improve family experience. (<strong>2C</strong>)</p>
+<p>Further research is needed to examine the effect of hospital and ICU policies designed to promote family-centered care. Additionally, future research should identify specific program components that drive improvements in family-centered outcomes.</p>
+<p><strong>PICO Question 5.4</strong></p>
+<p>In the ICU do noise reduction strategies, private rooms, or space for family members (beyond single rooms for patients) affect patient/family satisfaction, staff stress, or noise?</p>
+<p><em>Recommendation</em></p>
+<p>Given evidence of harm related to noise, although in the absence of evidence for specific strategies, the guideline authors suggest ICUs implement noise reduction and environmental hygiene practices and use private rooms to improve patient and family satisfaction. (<strong>2D</strong>) No recommendation can be made for family space. However, it is noted that the Society of Critical Care Medicine (SCCM) guidelines for ICU design recommend designing new ICUs with family space based upon consensus statement.</p>
+<p>Further research is needed evaluating the effect on family-centered outcomes of interventions to reduce noise or improve the ICU environment in the ICU. Further research is also needed regarding the impact on outcomes of private rooms and family space and the effect of private rooms on family-centered outcomes.</p>
+<p><strong>PICO Question 5.5</strong></p>
+<p>Do executive (hospital leadership) walk rounds improve family-centered outcomes in the ICU?</p>
+<p>No recommendation can be made due to lack of supporting evidence.</p>
+<p>Further research testing executive walk rounds on family-reported outcomes is needed.</p>
+<p><strong>PICO Question 5.6</strong></p>
+<p>Does consistency in staffing improve family-centered outcomes during critical illness?</p>
+<p>No recommendation can be made due to lack of supporting evidence.</p>
+<p>Further research is needed to examine the effect of nurse and physician staffing consistency on family-centered outcomes.</p>
+<p><strong>PICO Question 5.7</strong></p>
+<p>Among family members of ICU patients, does providing a surface for sleep improve family psychological symptoms, quality of life, satisfaction with care, caregiver burden, family or clinician conflict, satisfaction with communication, self-efficacy, trust in clinicians, conferences, quality of communication, or time to DNR?</p>
+<p><em>Recommendation</em></p>
+<p>The guideline authors suggest that family sleep be considered and families are provided a sleep surface to reduce the effects of sleep deprivation. (<strong>2D</strong>)</p>
+<p>Further research is indicated to determine outcomes related to provision of a family sleep surface, sleep space, napping, and/or light therapy and sleep in the ICU environment.</p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong></p>
+<p><strong>Levels of Quality of Evidence</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Levels of Quality of Evidence">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" scope="col">Level</th>
+            <th class="Center" valign="top" scope="col">Points<sup>a</sup></th>
+            <th class="Center" valign="top" scope="col">Quality</th>
+            <th class="Center" valign="top" scope="col">Interpretation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="Center" valign="top">A</td>
+            <td class="Center" valign="top">&ge;4</td>
+            <td class="Center" valign="top">High</td>
+            <td valign="top">Further research is very unlikely to change confidence in the estimate of effect or accuracy</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">&gt;B</td>
+            <td class="Center" valign="top">=3</td>
+            <td class="Center" valign="top">Moderate</td>
+            <td valign="top">Further research is likely to have an important impact on confidence in the estimate of effect or accuracy and may change the estimate</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">C</td>
+            <td class="Center" valign="top">&le;2</td>
+            <td class="Center" valign="top">Low<sup>b</sup></td>
+            <td valign="top">Further research is very likely to have an important impact on confidence in the estimate of effect or accuracy and is likely to change the estimate or any estimate of effect or accuracy is very uncertain (very low)</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note"><sup>a</sup>Points are calculated based on the nine Grading of Recommendations Assessment, Development and Evaluation (GRADE) quality factors.</p>
+<p class="Note"><sup>b</sup>Level C = can be divided into low (points = 2) and very low (points = 1).</p>
+<p><strong>Implications of the Strong and Weak Recommendations in the Grading of Recommendations Assessment, Development and Evaluation Method</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Implications of the Strong and Weak Recommendations in the Grading of Recommendations Assessment, Development and Evaluation Method">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" scope="col">User</th>
+            <th class="Center" valign="top" scope="col">Strong Recommendations</th>
+            <th class="Center" valign="top" scope="col">Weak (Conditional) Recommendations</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">Clinicians</td>
+            <td valign="top">Most patients should be offered to receive the recommendation as the most appropriate option</td>
+            <td valign="top">Recognize that different options should be offered as all will be appropriate options for different patients</td>
+        </tr>
+        <tr>
+            <td valign="top">Policy makers</td>
+            <td valign="top">The recommendation can be adopted as a policy in most situations</td>
+            <td valign="top">Should not be considered as a standard of care</td>
+        </tr>
+        <tr>
+            <td valign="top">Patient</td>
+            <td valign="top">Most patients in similar condition would accept the recommendation and only a few would not</td>
+            <td valign="top">Expected variability among different patients with your condition to choose or reject the recommendations</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Critical illness (any disease or condition that requires care in the intensive care unit [ICU]) </li>
+    <li>Psychological symptoms, including acute stress, post-traumatic stress, generalized anxiety, and depression both during and after the critical illness of a loved one ("Post-Intensive Care Syndrome-Family") </li>
+</ul></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Counseling</p>
+                    <p>Management</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Critical Care</p>
+                    <p>Nursing</p>
+                    <p>Pediatrics</p>
+                    <p>Psychiatry</p>
+                    <p>Psychology</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Allied Health Personnel</p>
+                    <p>Health Care Providers</p>
+                    <p>Hospitals</p>
+                    <p>Nurses</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                    <p>Psychologists/Non-physician Behavioral Health Clinicians</p>
+                    <p>Social Workers</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To provide clinicians with evidence-based strategies to optimize the support of the family of critically ill patients in the intensive care unit (ICU)</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Neonatal, pediatric, and adult intensive care unit (ICU) patients and their family members</p>
+<p class="Note"><strong>Note</strong>: <em>Family</em> is defined by the patient or, in the case of minors or those without decision-making capacity, by their surrogates. In this context, the family may be related or unrelated to the patient. They are individuals who provide support and with whom the patient has a significant relationship.</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Offering open and flexible family presence within the intensive care unit (ICU), including presence during resuscitation efforts </li>
+    <li>Providing family education and support, including education in patient care, other types of educational/training programs, peer-to-peer support, written materials such as pamphlets and brochures, ICU diary programs, and decision-support tools </li>
+    <li>Interventions focused on improving communication, including interdisciplinary family conferences, specific communication techniques such as active listening, structured approaches to communication such as that included in the "VALUE" mnemonic (Value family statements, Acknowledge emotions, Listen, Understand the patient as a person, Elicit Questions), and communication training programs for clinicians </li>
+    <li>Use of specific consultations and team members, including palliative care consultation, ethics consultation, psychologists, social workers, family navigators, and spiritual care providers </li>
+    <li>Operational and environmental issues, including protocols for withdrawing life support, inclusion of nurses in ICU communication about decision making, comprehensive "family-centered care" approach to ICU care, noise reduction strategies, private rooms, space for family members, and family sleep surfaces </li>
+</ol>
+<p class="Note"><strong>Note</strong>: The following interventions/practices were considered but no recommendation could be made: executive (hospital leadership) walk rounds and consistency in staffing.</p></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Family psychological symptoms (depression, anxiety, post-traumatic stress disorder [PTSD], prolonged/complicated grief, fatigue, post-intensive care syndrome [PICS]) </li>
+    <li>Family quality of life </li>
+    <li>Family quality of dying/ratings of dying </li>
+    <li>Caregiver (family) burden </li>
+    <li>Family decisional regret </li>
+    <li>Quality of communication or family conference </li>
+    <li>Family trust in clinicians </li>
+    <li>Family conferences (#/% receiving conferences, time to family conferences) </li>
+    <li>Family impact - integrity (divorce rates, bonding) </li>
+    <li>Family satisfaction with care </li>
+    <li>Family satisfaction with communication </li>
+    <li>Family self-efficacy </li>
+    <li>Family or clinician conflict </li>
+    <li>Clinician quality of dying/rating of dying </li>
+    <li>Intensive care unit (ICU) and hospital utilization (ICU length of stay [LOS], ICU costs, hospital LOS, hospital costs, intensity of care, Therapeutic Intervention Scoring System [TISS]) </li>
+    <li>Clinician self-efficacy </li>
+    <li>Clinician psychological symptoms (depression, anxiety, PTSD, burnout, compassion fatigue, moral distress) </li>
+    <li>Time to do not resuscitate (DNR) order </li>
+    <li>Clinician job satisfaction </li>
+    <li>Quality of teaching </li>
+    <li>Clinician retention or intent to leave job </li>
+    <li>Clinician time </li>
+    <li>Adherence to policy/protocols </li>
+    <li>Clinician fear of litigation </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Hand-searches of Published Literature (Secondary Sources)</p>
+                    <p>Searches of Electronic Databases</p>
+                    <p>Searches of Unpublished Data</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Incorporation of Patient and Family Perspectives</span></strong></p>
+<p>The perspectives of patients and family members were incorporated in guideline development in two ways: through initial qualitative literature review and through direct consultation. The guideline authors conducted a scoping review of the qualitative literature relevant to neonatal, pediatric, and adult patient and family perspectives using PubMed, CINAHL, Web of Science, and PsycINFO. The purpose of this review was to identify issues of importance to patients and families to generate "Patient, Intervention, Comparator, Outcome" (PICO) questions. A citation report showed that the number of publications exceeded 100 per year beginning in 1994 (see Electronic Figure 1, Supplemental Digital Content 3 [see the "Availability of Companion Documents" field]). The guideline authors used this as a basis to determine the year to begin their literature search in 1994 (for qualitative literature search strategy and results, see Electronic Appendix C, Supplemental Digital Content 4 [see the "Availability of Companion Documents" field]).</p>
+<p><strong><span style="text-decoration: underline;">Defining the Relevant Outcomes and Prioritizing the Outcomes</span></strong></p>
+<p>The guidelines writing group developed a list of domains for family-centered care outcomes through a review of the qualitative literature identifying domains important to patients and family members. The guideline authors then had group members rate the relative importance of each outcome on a scale of extremely important (10) to not at all important (0). In addition, a sample of survivors and family members also rated the importance of these outcomes on the same scale producing similar results and supporting the rating results. These outcomes and their importance scores are shown in Electronic Table 2 (see Supplemental Digital Content 2 [see the "Availability of Companion Documents" field]).</p>
+<p><strong><span style="text-decoration: underline;">Search Strategy for Systematic Review</span></strong></p>
+<p>In accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, the systematic review protocol was registered with the International Prospective Register of Systematic Reviews on June 14, 2015, and was last updated on December 8, 2015 (registration number CRD42015023445). PubMed, CINAHL, and EMBASE databases were searched for quantitative studies in the area of family-centered care in critical care. The authors narrowed literature to English language studies with a publication date during or after 1994. The PubMed search strategy and results are shown in the electronic supplement.</p>
+<p>The searches were performed in December 2014. After searches in all databases, records were de-duplicated using "near match" in RefWorks&reg;. Investigators examined reference lists from previous systematic reviews for studies on family-centered care interventions. Investigators searched the RefWorks&reg; account for intervention terms using "All References" and the "Anywhere" field and sorted records into folders for each PICO question. Alerts were created and monitored by the librarian, and records uploaded when applicable until June 8, 2015. The Cochrane Central Register of Controlled Trials (CENTRAL) was searched for relevant registered trials; 154 records of trials were retrieved, of which 11 were in an ICU setting. An analysis of the predominant source titles was performed by the librarian using Web of Science for a date range of January 1994 through June 2015. Known experts were contacted to inquire about unpublished studies that should be noted. <a href="/web/20180712205719/https://www.guideline.gov/Home/Disclaimer?id=51023&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.opengrey.eu%2f" title="Open Grey Web site">Open Grey</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205719im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> and the New York Academy of Medicine's <a href="/web/20180712205719/https://www.guideline.gov/Home/Disclaimer?id=51023&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.greylit.org%2f" title="Grey Literature Report Web site">GreyLit.org</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205719im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> were also searched for grey literature.</p>
+<p>Eligible studies for this systematic review included randomized trials and observational studies. For interventions lacking experimental or observational studies, qualitative literature that helped to answer the PICO question was accepted but considered to be very low quality of evidence. They excluded studies where outcomes were not focused on the family or that were not conducted in an intensive care unit (ICU) environment (exception made a priori: family presence at resuscitation in the emergency and prehospital setting).</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>The December 2014 searches identified 4,158 reports after deduplication. Seventy-six additional studies were subsequently included from alerts and hand searches, and 236 studies were included in the final analyses.</p>
+<p>Electronic Supplement Figure 2 (see Supplemental Digital Content 3 [see the "Availability of Companion Documents" field]) describes the PRISMA [Preferred Reporting Items for Systematic Reviews and Meta- Analyses] flow diagram of study identification and inclusion.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Levels of Quality of Evidence</span></strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Levels of Quality of Evidence">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" scope="col">Level</th>
+            <th class="Center" valign="top" scope="col">Points<sup>a</sup></th>
+            <th class="Center" valign="top" scope="col">Quality</th>
+            <th class="Center" valign="top" scope="col">Interpretation</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="Center" valign="top">A</td>
+            <td class="Center" valign="top">&ge;4</td>
+            <td class="Center" valign="top">High</td>
+            <td valign="top">Further research is very unlikely to change confidence in the estimate of effect or accuracy</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">&gt;B</td>
+            <td class="Center" valign="top">=3</td>
+            <td class="Center" valign="top">Moderate</td>
+            <td valign="top">Further research is likely to have an important impact on confidence in the estimate of effect or accuracy and may change the estimate</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">C</td>
+            <td class="Center" valign="top">&le;2</td>
+            <td class="Center" valign="top">Low<sup>b</sup></td>
+            <td valign="top">Further research is very likely to have an important impact on confidence in the estimate of effect or accuracy and is likely to change the estimate or any estimate of effect or accuracy is very uncertain (very low)</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note"><sup>a</sup>Points are calculated based on the nine Grading of Recommendations Assessment, Development and Evaluation (GRADE) quality factors.</p>
+<p class="Note"><sup>b</sup>Level C = can be divided into low (points = 2) and very low (points = 1).</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Grading of Recommendations Assessment, Development and Evaluation (GRADE) Process for Grading the Evidence</span></strong></p>
+<p>The guideline authors used the GRADE tool to assess the level of evidence from included studies. Two or three investigators examined and summarized the literature relevant to each Population, Intervention, Comparison, Outcome (PICO) question. To avoid intellectual conflict, guidelines writing group members who had authored a study of interest did not perform the GRADE analysis of their own scientific work.</p>
+<p><strong><span style="text-decoration: underline;">PICO Questions and Recommendations</span></strong></p>
+<p>The evidence summary and recommendations for each PICO question are presented in the original guideline document. GRADE worksheets and voting summaries are archived with the Society of Critical Care Medicine (SCCM). For all of the PICO questions, evidence varied significantly in study design and outcome measures, such that it was difficult to combine results statistically. For this reason, the nature of the individual studies is described in the narrative after each question.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p>These guidelines were developed using the Council of Medical Specialty Societies Principles for the Development of Specialty Society Clinical Guidelines framework. The guideline writing group was composed of international experts in the fields of neonatal, pediatric, and adult critical and intensive care medicine and family-centered care. The goal was to create a document to optimize family-centered care for the global community of intensive care unit (ICU) clinicians who care for patients and family members of all age groups. Full methods are provided in Electronic Supplement 1 (Supplemental Digital Content 1 [see the "Availability of Companion Documents" field]).</p>
+<p><strong><span style="text-decoration: underline;">Grading of Recommendations Assessment, Development and Evaluation (GRADE) Process for Grading the Evidence</span></strong></p>
+<p>GRADE methodology was used as described in Guyatt GH, Oxman AD, Kunz R, Vist GE, Falck-Ytter Y, Sch&uuml;nemann HJ; GRADE Working Group. Rating quality of evidence and strength of recommendations: What is "quality of evidence" and why is it important to clinicians? BMJ. 2008 May 3;336(7651):995-8. </p>
+<p>Writing members received training in the GRADE process. Adherence to this process was monitored by a GRADE methodologist. </p>
+<p>Recommendations were written to population-specific evidence. For example, if the intervention was only tested in family members of neonates, the recommendation specifies recommendation for use in family members of neonates. </p>
+<p>Quality of Evidence = Baseline evidence in the study [High (H) , Moderate (M) , Low (L), Very Low (VL)] </p>
+<ul style="list-style-type: disc;">
+    <li>High quality (H): Further research is very unlikely to change our confidence in the estimate of effect. </li>
+    <li>Moderate quality (M): Further research is likely to have an important impact on our confidence in the estimate of effect and may change the estimate. </li>
+    <li>Low quality (L): Further research is very likely to have an important impact on our confidence in the estimate of effect and is likely to change the estimate. </li>
+    <li>Very low quality (VL): We are very uncertain about the estimate of effect. Score very low if based upon performance improvement data </li>
+</ul>
+<p class="Note"><strong>Note</strong>: The quality of evidence reflects the extent to which the confidence in an estimate of the effect is adequate to support recommendations for a particular intervention (i.e., the quality of evidence must be assessed relative to the specific context in which the evidence is used). Quality of evidence is first and foremost based upon study design (i.e., randomized controlled trials (RCTs) generally provide stronger evidence than other research). But the strength of evidence of studies can be decreased or increased by several factors. </p>
+<p><strong>Quality of Evidence Modifiers</strong></p>
+<p>Increase Evidence Quality Level = Strong association of effect (+1); Very strong association of effect (+2); Evidence of dose-response gradient (+1); Observed effect reduced by plausible confounders (+1)</p>
+<p>Factors that can increase the quality of evidence: (especially for observational studies) </p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Magnitude of effect: large to very large and consistent estimates of the magnitude of the treatment effect (i.e., large relative risk [RR] increase or decrease with narrow confidence interval [CI]). </li>
+    <li>Dose-response relationship to effect: the longer/bigger the treatment, the more pronounced the effect. </li>
+    <li>Influence of biases: all plausible biases would decrease the magnitude of effect. </li>
+</ol>
+<p>Decrease Evidence Quality Level = Serious limitations to study quality (-1 to -2); Important inconsistencies (-1); Uncertainty about directness (-1 to -2); Few outcome events, observations, or wide CI (-1), High probability of reporting bias (-1) </p>
+<p>Factors that can decrease the quality of evidence: </p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Study design limitations: lack of allocation concealment; lack of blinding (particularly if outcomes are subjective and their assessment is highly susceptible to bias); large losses to follow-up; failure to adhere to an intention to treat analysis; stopping early for benefit; failure to report outcomes for which no effect was observed </li>
+    <li>Inconsistency of results: Widely differing estimates of the treatment effect (i.e., heterogeneity or variability in results) across studies suggest true difference in underlying treatment effect. Variability may arise from differences in populations (i.e., drugs with more profound effect in sicker patients), interventions (i.e., larger effects with higher drug doses), or outcomes (i.e., diminishing treatment effect with time). When heterogeneity exists but investigators fail to identify a plausible explanation, the quality of evidence decreases. </li>
+    <li>Indirectness of evidence: treatments were not directly compared to one another in the same study (i.e., separate studies comparing each treatment to a placebo results in only indirect comparisons of the effects of treatments to each other), or significant differences exists between patient populations, intervention, comparator to the intervention, and outcome of interest, and those included in the relevant studies. </li>
+    <li>Imprecision: Study includes few patients, or few events or outcomes with wide CI, CI implies that intervention not significant, may cause harm &ndash; CI crosses 0 (numbers reported on both side of 0), or that potential benefits are small compared to risks. As an example, think about a toxic chemotherapeutic. If the 1 year survival 95% confidence interval doesn&rsquo;t cross zero, but comes close enough that patients might decline therapy given the side effects, this would be imprecision.&nbsp; </li>
+    <li>Publication bias: reporting bias of results (selective reporting of events). Suspicion that negative findings have not been published. </li>
+</ol>
+<p>Importance of Outcome: Each outcome for PICO question is graded on a scale of 1&ndash;10, based upon their importance to clinicians and patients in terms of their effect on clinical decision making:</p>
+<ul style="list-style-type: disc;">
+    <li>Rank of 1 &ndash; 3: Not important to clinical decision making/less important to patients </li>
+    <li>Rank of 4 &ndash; 6: Important to clinical decision making </li>
+    <li>Rank of 7 &ndash; 10: Critical to decision making </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Incorporation of Patient and Family Perspectives</span></strong></p>
+<p>The perspectives of patients and family members were incorporated in guideline development in two ways: through initial qualitative literature review and through direct consultation.</p>
+<p>Former ICU patients and family members were recruited from the University of Maryland (UOM) School of Medicine and the University of California San Diego Health System (UCSD), as well as through patient advocacy organizations, including the Acute Respiratory Distress Syndrome Foundation, Survivors of Sepsis, and Project Help. This recruitment was done in parallel with an ongoing research study at the UOM (Institutional Review Board [IRB] HP-0058018) and UCSD (IRB 140458).</p>
+<p>Patient and family participants (n = 27) were consulted at three time points during the guidelines preparation: 1) development of the definition of family and family-centered care; 2) creation of the domains for development of PICO questions; and 3) ranking of the importance of outcomes. At each time point, interviews were done by telephone or email at the preference of the participant.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Implications of the Strong and Weak Recommendations in the Grading of Recommendations Assessment, Development and Evaluation (GRADE) Method</span></strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Implications of the Strong and Weak Recommendations in the Grading of Recommendations Assessment, Development and Evaluation Method">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" scope="col">User</th>
+            <th class="Center" valign="top" scope="col">Strong Recommendations</th>
+            <th class="Center" valign="top" scope="col">Weak (Conditional) Recommendations</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">Clinicians</td>
+            <td valign="top">Most patients should be offered to receive the recommendation as the most appropriate option</td>
+            <td valign="top">Recognize that different options should be offered as all will be appropriate options for different patients</td>
+        </tr>
+        <tr>
+            <td valign="top">Policy makers</td>
+            <td valign="top">The recommendation can be adopted as a policy in most situations</td>
+            <td valign="top">Should not be considered as a standard of care</td>
+        </tr>
+        <tr>
+            <td valign="top">Patient</td>
+            <td valign="top">Most patients in similar condition would accept the recommendation and only a few would not</td>
+            <td valign="top">Expected variability among different patients with your condition to choose or reject the recommendations</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>The entire document was reviewed by the Board of Regents for the American College of Critical Care Medicine and the Council of the Society of Critical Care Medicine. Following these reviews and revisions, the document was sent to 4 professional organizations for line by line review: American Association of Critical Care Nurses, Institute of Patient and Family Centered Care, American Thoracic Society, and American College of Chest Physicians. Following feedback and revisions, the final document was sent to these nine agencies, and endorsement was received: </p>
+<ul style="list-style-type: disc;">
+    <li>American Association of Critical-Care Nurses </li>
+    <li>American College of Chest Physicians </li>
+    <li>American Thoracic Society </li>
+    <li>British Association of Critical Care Nurses </li>
+    <li>European Society of Intensive Care Medicine </li>
+    <li>Institute for Patient- and Family-Centered Care </li>
+    <li>Pediatric Cardiac Intensive Care Society </li>
+    <li>Society of Critical Care Anesthesiologists </li>
+    <li>World Federation of Societies of Intensive and Critical Care Medicine </li>
+</ul></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified and graded for each recommendation (see the "Major Recommendations" field).</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>There is increasing awareness of the importance of improving outcomes for family caregivers and that support for family caregivers can also improve patient outcomes. Structured interventions and approaches to support family members of critically ill patients are needed both to mitigate the impact of the crisis of critical illness and to prepare family members for decision-making and caregiving demands. Family-centered care recognizes the central importance of the family to a patient's recovery and describes the responsibilities of the healthcare team to provide support for families of seriously ill patients.</p>
+<p>Refer to the evidence summary sections following each recommendation in the original guideline document for additional discussion of benefits of specific interventions.</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>The authors note also note that adverse effects have not been described for most of the interventions, but are possible. </li>
+    <li>Open family presence policies can be challenging to intensive care unit (ICU) staff and may be perceived to increase workload and staff stress. </li>
+    <li>Providers with limited experience with family presence during resuscitation are less supportive of family presence among clinicians than those who have participated in resuscitation efforts that included family members. Concerns about family presence include the possibility of family interference with procedures, impaired staff performance, psychological trauma for family members, and litigation that may arise following a resuscitation attempt. In a study assessing family-witnessed resuscitation in 162 UK emergency departments, 57 departments reported adverse events associated with family member presence. Adverse events included family member distress, interference with resuscitation, distracting the team, and making inappropriate demands on the team. </li>
+</ul>
+<p>Refer to the evidence summary sections following each recommendation in the original guideline document for additional discussion of potential harms of specific interventions.</p></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Limitations</span></strong></p>
+<p>These guidelines have important limitations that should be acknowledged. First, all 23 recommendations in these guidelines were weak recommendations, reflecting the relatively low quality of evidence regarding interventions to improve family-centered care. The fact that all recommendations were weak highlights the newness of this field of research and the importance of future research to identify the most effective interventions to improve this important aspect of intensive care unit (ICU) care. Future research is needed that examines the benefits and risks of family presence and participation in ICU settings for patients, families, staff, and clinicians. Quantifying the benefits of partnership with families and the impact on patient outcomes is also needed. Furthermore, research in this area will require additional work to develop, validate, and disseminate rigorous family-centered outcome measures incorporating diverse domains such as satisfaction with care, quality of communication, and quality of decision-making. Second, although the guideline authors used the qualitative literature to support the generation of topics important to patients and families, and validated topics and importance of outcomes through survivors and families, the pool of patient and family informants was small. Future guidelines writing teams should consider recruiting patients or family members as coauthors. Furthermore, guidelines writing teams should consider implementing focus groups or key informant interviews serially to validate the progress of the writing team over time. Fourth, although the guideline authors identify 23 recommendations that they suggest ICUs consider implementing, they found no comparative effectiveness studies that can help identify the most effective interventions and it would be impractical to try to implement all 23 recommendations in a single ICU. Therefore, it will be important that the clinicians and administrators in individual ICUs identify a strategy for staging implementation of selected interventions according to priorities and available resources. Finally, because of the low level of evidence, it is premature to create accreditation or reimbursement standards from these recommendations. However, the guideline authors offer the suggested recommendations as best known practice given the evidence available today.</p></div></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>An implementation strategy was not provided.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Mobile Device Resources</p>
+                    <p>Resources</p>
+                    <p>Slide Presentation</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>End of Life Care</p>
+                    <p>Getting Better</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Davidson JE, Aslakson RA, Long AC, Puntillo KA, Kross EK, Hart J, Cox CE, Wunsch H, Wickline MA, Nunnally ME, Netzer G, Kentish-Barnes N, Sprung CL, Hartog CS, Coombs M, Gerritsen RT, Hopkins RO, Franck LS, Skrobik Y, Kon AA, Scruth EA, Harvey MA, Lewis-Newby M, White DB, Swoboda SM, Cooke CR, Levy MM, Azoulay E, Curtis JR. Guidelines for family-centered care in the neonatal, pediatric, and adult ICU. Crit Care Med. 2017 Jan;45(1):103-28. [275 references] <a href="https://web.archive.org/web/20180712205719/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=27984278" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712205719im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2017 Jan</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>Society of Critical Care Medicine - Professional Association</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>No industry funding was associated with the guideline development.</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Guidelines Writing Group</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Guidelines Writing Group Members</em>: Judy E. Davidson, DNP, RN, FCCM, FAAN, Department of Education, Development and Research, University of California, San Diego Health, San Diego, CA; Rebecca A. Aslakson, MD, PhD, FAAHPM, Department of Anesthesiology and Critical Care Medicine, Department of Oncology and the Palliative Care Program in the Sidney Kimmel Comprehensive Cancer Center at Johns Hopkins, Baltimore, MD, and Department of Health, Behavior, and Society in the Johns Hopkins Bloomberg School of Public Health, The Johns Hopkins Hospital, Baltimore, MD; Ann C. Long, MD, MS, Cambia Palliative Care Center of Excellence, Division of Pulmonary and Critical Care Medicine, Harborview Medical Center, University of Washington, Seattle, WA; Kathleen A. Puntillo, PhD, RN, FAAN, FCCM, Department of Physiological Nursing, University of California, San Francisco, San Francisco, CA; Erin K. Kross, MD, Cambia Palliative Care Center of Excellence, Division of Pulmonary and Critical Care Medicine, Harborview Medical Center, University of Washington, Seattle, WA; Joanna Hart, MD, MS, Division of Pulmonary, Allergy, and Critical Care Medicine, Fostering Improvement in End-of-Life Decision Science Program, Center for Clinical Epidemiology and Biostatistics, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania; Christopher E. Cox, MD, MPH, Division of Pulmonary and Critical Care Medicine, Program to Support People and Enhance Recovery, Duke University, Durham, NC; Hannah Wunsch, MD, MSc, Department of Critical Care Medicine Sunnybrook Health Sciences Centre, Department of Anesthesia and Interdepartmental Division of Critical Care Medicine, University of Toronto, Toronto, ON, Canada; Mary A. Wickline, MLIS, MEd, The Library, University of California, San Diego, CA; Mark E. Nunnally, MD, FCCM, Departments of Anesthesiology, Perioperative Care and Pain Medicine; Neurology; Surgery and Medicine, University of Chicago, Chicago, IL, and New York University, New York, NY; Giora Netzer, MD, MSCE, Division of Pulmonary and Critical Care Medicine, Department of Epidemiology and Public Health, University of Maryland School of Medicine, Baltimore, MD; Nancy Kentish-Barnes, PhD, Famir&eacute;a Research Group, Medical Intensive Care, H&ocirc;pital Saint Louis, Paris, France; Charles L. Sprung, MD, MCCM, JD, Department of Anesthesiology and Critical Care Medicine, Hadassah Hebrew University Medical Center, Jerusalem, Israel; Christiane S. Hartog, MD, Department of Anaesthesiology and Intensive Care Medicine, Center for Sepsis Control and Care, Jena University Hospital, Jena, Germany; Maureen Coombs, PhD, RN, Graduate School of Nursing Midwifery and Health, Victoria University of Wellington; Capital and Coast District Health Board, Wellington, New Zealand; Rik T. Gerritsen, MD, FCCM, Center of Intensive Care, Medisch Centrum, Leeuwarden, The Netherlands; Ramona O. Hopkins, PhD Psychology Department and Neuroscience Center, Brigham Young University, Provo, UT, and Department of Medicine, Pulmonary and Critical Care Division, Intermountain Medical Center, Murray, UT; Linda S. Franck, PhD, RN, FRCPCH, FAAN, Department of Family Health Care Nursing, University of California, San Francisco, San Francisco, CA; Yoanna Skrobik, MD, FRCP(c), Department of Medicine, MSc McGill University, Montreal, QC, Canada; Alexander A. Kon, MD, FCCM, Naval Medical Center San Diego and University of California San Diego, San Diego, CA; Elizabeth A. Scruth, PhD, MPH, RN, CCRN, CCNS, FCCM, Quality and Regulatory Services, Kaiser Permanente, Oakland, CA; Maurene A. Harvey, MPH, MCCM, Critical Care Educator and Consultant, Lake Tahoe, Nevada; Mithya Lewis-Newby, MD, MPH, Divisions of Pediatric Cardiac Critical Care Medicine and Pediatric Bioethics, Department of Pediatrics, University of Washington, Seattle Childrens Hospital, Seattle, WA; Douglas B. White, MD, MAS, Program on Ethics and Decision Making in Critical Illness, Department of Critical Care Medicine, University of Pittsburgh Medical Center, Pittsburgh, PA; Sandra M. Swoboda, MS, RN, FCCM, Johns Hopkins University Schools of Medicine and Nursing, Baltimore, MD; Colin R. Cooke, MD, MS, University of Michigan Hospitals, North Campus Research Complex, Ann Arbor, MI; Mitchell M. Levy, MD, MCCM, FCCM, The Warren Alpert School at Brown University, Providence, RI; Elie Azoulay, MD, PhD, Division of Pulmonary and Critical Care Medicine, Department of Epidemiology and Public Health, University of Maryland School of Medicine, Baltimore, MD; J. Randall Curtis, MD, MPH, Cambia Palliative Care Center of Excellence, Division of Pulmonary and Critical Care Medicine, Harborview Medical Center, University of Washington, Seattle, WA</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>A strict conflict of interest process was followed according to Society of Critical Care Medicine (SCCM) procedures. A conflict of interest form was completed at the start of the process and yearly. Members were asked to report new conflicts at each meeting. Of the writing members, 19 out of 21 were chosen for their expertise on the topic of family-centered care. This was considered essential to product development and not considered a conflict. Authors did not review their own papers during evidence analysis and Grading of Recommendations Assessment, Development and Evaluations (GRADE) scoring or write summaries of their own work. Authors with conflicts were asked to abstain from voting. By group consensus, authors were permitted to vote on the recommendations made partially as a result of their scientific contributions. In no circumstance did these votes make a difference in whether or not the recommendation was accepted (Electronic Table 3 [Voting Results], Supplemental Digital Content 2 [see the "Availability of Companion Documents" field]). No authors had influence over the acceptance of the document. None reported the potential for financial gain that could cause bias. There was no industry involvement in the development of these Guidelines.</p>
+<p>The authors have disclosed that they do not have any potential conflicts of interest.</p></div></p>
+                        <h3><a href="#">Guideline Endorser(s)</a></h3>
+                    <p>American Association of Critical-Care Nurses - Professional Association</p>
+                    <p>American College of Chest Physicians - Medical Specialty Society</p>
+                    <p>American Thoracic Society - Medical Specialty Society</p>
+                    <p>British Association of Critical Care Nurses - Nonprofit Organization</p>
+                    <p>European Society of Intensive Care Medicine - Professional Association</p>
+                    <p>Pediatric Cardiac Intensive Care Society - Medical Specialty Society</p>
+                    <p>Society of Critical Care Anesthesiologists - Medical Specialty Society</p>
+                    <p>World Federation of Societies of Intensive and Critical Care Medicine - Medical Specialty Society</p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712205719/https://www.guideline.gov/Home/Disclaimer?id=51023&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.learnicu.org%2fSiteCollectionDocuments%2fGuidelines-Family-Centered-Care-Neonatal-Pediatric-Adult-ICU.pdf" title="Critical Care Medicine Web site">Critical Care Medicine Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205719im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>Supplemental digital content and a podcast for this guideline are available from the <a href="/web/20180712205719/https://www.guideline.gov/Home/Disclaimer?id=51023&amp;contentType=summary&amp;redirect=http%3a%2f%2fjournals.lww.com%2fccmjournal%2fFulltext%2f2017%2f01000%2fGuidelines_for_Family_Centered_Care_in_the.12.aspx" title="Critical Care Medicine Web site">Critical Care Medicine Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205719im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>The following implementation resources are available on the <a href="/web/20180712205719/https://www.guideline.gov/Home/Disclaimer?id=51023&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.iculiberation.org%2fBundles%2fPages%2fFamily-Engagement.aspx" title="SCCM Web site">Society of Critical Care Medicine (SCCM) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205719im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>: </p>
+<ul style="list-style-type: disc;">
+    <li>Gap Analysis Tool - Identification of Your ICU's Practice Differences </li>
+    <li>Family-Centered Care Guidelines - Gap Analysis Tool Instructional Video </li>
+    <li>Family-Centered Care Guidelines - Implementation Tools </li>
+    <li>Implementing the F component of the ABCDEF bundle </li>
+    <li>Family-Centered Care Guidelines - Teaching Slides </li>
+</ul>
+<p>A guidelines mobile app is also available from the <a href="/web/20180712205719/https://www.guideline.gov/Home/Disclaimer?id=51023&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.sccm.org%2fResearch%2fGuidelines%2fPages%2fGuidelines-App.aspx" title="SCCM Web site">SCCM Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205719im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on June 13, 2017. The information was verified by the guideline developer on August 18, 2017.</p>
+<p>This NEATS assessment was completed by ECRI Institute on June 22, 2017. The information was verified by the guideline developer on July 25, 2017.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712205719/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712205719/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712205719/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712205719/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712205719/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712205719/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712205719/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205719/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205719/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205719/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205719/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205719/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712205719/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712205719/https://www.guideline.gov/disclaimer?id=51023&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712205719im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712205719/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712205719/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712205719/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712205719/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712205719/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712205719/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712205719/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712205719/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712205719/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712205719/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712205719/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712205719/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712205719/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712205719/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712205719/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712205719/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712205719/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712205719/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712205719/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712205719im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712205719/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712205719im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712205719im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712205719/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712205719js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712205719js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:57:19 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:08:26 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 575.645 (3)
+  esindex: 0.006
+  captures_list: 592.44
+  CDXLines.iter: 13.622 (3)
+  PetaboxLoader3.datanode: 69.72 (4)
+  exclusion.robots: 0.14
+  exclusion.robots.policy: 0.121
+  RedisCDXSource: 0.398
+  PetaboxLoader3.resolve: 514.592 (2)
+  load_resource: 27.29
+-->

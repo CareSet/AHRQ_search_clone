@@ -1,0 +1,972 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app19.us.archive.org';v.server_ms=413;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Management of obstructive sleep apnea in adults: a clinical practice guideline from the American College of Physicians. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712203923im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712203923im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712203923im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712203923im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712203923/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712203923im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712203923cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712203923js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712203923if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712203923/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712203923if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712203923/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712203923/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712203923/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712203923/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712203923im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712203923im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712203923im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712203923/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712203923/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712203923/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712203923/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712203923/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712203923/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712203923/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712203923/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712203923/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712203923/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712203923/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712203923/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712203923/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712203923/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712203923/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712203923/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712203923/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712203923/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712203923/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712203923/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712203923/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010028</li>
+            <li>2013 Sep 24
+            </li>            
+                                </ul>
+        <div>
+                <h1>Management of obstructive sleep apnea in adults: a clinical practice guideline from the American College of Physicians.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712203923/https://www.guideline.gov/search?f_Guideline_Developer_String=American%20College%20of%20Physicians&amp;fLockTerm=American%2BCollege%2Bof%2BPhysicians">American College of Physicians</a></li>
+                        <li>   
+                                <a id="140" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Qaseem A, Holty JE, Owens DK, Dallas P, Starkey M, Shekelle P, for the Clinical Guidelines Committee of the American College of Physicians. Management of obstructive sleep apnea in adults: a clinical practice guideline from the American College of Physicians. Ann Intern Med. 2013 Oct 1;159(7):471-83. [198 references] <a href="https://web.archive.org/web/20180712203923/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24061345" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712203923im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712203923/https://www.guideline.gov/Home/Disclaimer?id=47136&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fannals.org%252farticle.aspx%253farticleid%253d1742606">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203923im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712203923/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712203923/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712203923/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712203923/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712203923/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">HCPCS</h5>
+                    <div class="field-content">
+<a href="/web/20180712203923/https://www.guideline.gov/search?f_HCPCS_CUI=C0180105&amp;fLockTerm=Continuous+positive+airway+pressure+(cpap)+device">Continuous positive airway pressure (cpap) device</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712203923/https://www.guideline.gov/search?f_ICD9CM_CUI=C0520679&amp;fLockTerm=Obstructive+sleep+apnea+(adult)(pediatric)">Obstructive sleep apnea (adult)(pediatric)</a>
+ (327.23)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712203923/https://www.guideline.gov/search?f_MSH_CUI=C0199451&amp;fLockTerm=Continuous+Positive+Airway+Pressure">Continuous Positive Airway Pressure</a>
+, <a href="/web/20180712203923/https://www.guideline.gov/search?f_MSH_CUI=C0376461&amp;fLockTerm=Mandibular+Advancement">Mandibular Advancement</a>
+, <a href="/web/20180712203923/https://www.guideline.gov/search?f_MSH_CUI=C0520679&amp;fLockTerm=Sleep+Apnea%2c+Obstructive">Sleep Apnea, Obstructive</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712203923/https://www.guideline.gov/search?f_MTH_CUI=C0199451&amp;fLockTerm=Continuous+Positive+Airway+Pressure">Continuous Positive Airway Pressure</a>
+, <a href="/web/20180712203923/https://www.guideline.gov/search?f_MTH_CUI=C0520679&amp;fLockTerm=Sleep+Apnea%2c+Obstructive">Sleep Apnea, Obstructive</a>
+, <a href="/web/20180712203923/https://www.guideline.gov/search?f_MTH_CUI=C2091299&amp;fLockTerm=Treatment+with+mandibular+advancement+device">Treatment with mandibular advancement device</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712203923/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0180105&amp;fLockTerm=Continuing+positive+airway+pressure+unit">Continuing positive airway pressure unit</a>
+ (37874008), <a href="/web/20180712203923/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0199451&amp;fLockTerm=Continuous+positive+airway+pressure+ventilation+treatment">Continuous positive airway pressure ventilation treatment</a>
+ (47545007), <a href="/web/20180712203923/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C3472696&amp;fLockTerm=Obstructive+sleep+apnea+of+adult">Obstructive sleep apnea of adult</a>
+ (1101000119103), <a href="/web/20180712203923/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0520679&amp;fLockTerm=Obstructive+sleep+apnea+syndrome">Obstructive sleep apnea syndrome</a>
+ (78275009)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712203923/https://www.guideline.gov/search?f_UMD_CUI=C0180105&amp;fLockTerm=Positive+Airway+Pressure+Units%2c+Continuous">Positive Airway Pressure Units, Continuous</a>
+ (11-001)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712203923/https://www.guideline.gov/summaries/downloadcontent/ngc-10028?contentType=pdf" class="pdf">.PDF 99.5 kb</a></li>
+                            <li><a href="/web/20180712203923/https://www.guideline.gov/summaries/downloadcontent/ngc-10028?contentType=word" class="word">Word Document 284.5 kb</a></li>
+                            <li><a href="/web/20180712203923/https://www.guideline.gov/summaries/downloadcontent/ngc-10028?contentType=xml" class="xml">.XML 34.6 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203923/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/47136/management-of-obstructive-sleep-apnea-in-adults-a-clinical-practice-guideline-from-the-american-college-of-physicians" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203923/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/47136/management-of-obstructive-sleep-apnea-in-adults-a-clinical-practice-guideline-from-the-american-college-of-physicians" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203923/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/47136/management-of-obstructive-sleep-apnea-in-adults-a-clinical-practice-guideline-from-the-american-college-of-physicians&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712203923/mailto:/?Subject=AHRQ: Management of obstructive sleep apnea in adults: a clinical practice guideline from the American College of Physicians.&amp;body=https://www.guideline.gov/summaries/summary/47136/management-of-obstructive-sleep-apnea-in-adults-a-clinical-practice-guideline-from-the-american-college-of-physicians" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Management of obstructive sleep apnea in adults: a clinical practice guideline from the American College of Physicians. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2013 Oct 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712203923/https://www.guideline.gov/summaries/citedownload/47136?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712203923/https://www.guideline.gov/summaries/citedownload/47136?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712203923/https://www.guideline.gov/summaries/citedownload/47136?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712203923/https://www.guideline.gov/summaries/citedownload/47136?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712203923/https://www.guideline.gov/summaries/citedownload/47136?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712203923/https://www.guideline.gov/summaries/citedownload/47136">RefWorks</a></li>
+                            <li><a href="/web/20180712203923/https://www.guideline.gov/summaries/citedownload/47136?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="47136" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>The strength of the evidence (<strong>high, moderate, low,</strong> or <strong>insufficient evidence to determine benefits or risks</strong>) and strength of recommendations (<strong>strong, weak</strong>) are defined at the end of the "Major Recommendations" field.</p>
+<p><strong>Recommendation 1</strong>: <em>The American College of Physicians (ACP) recommends that all overweight and obese patients diagnosed with obstructive sleep apnea (OSA) should be encouraged to lose weight.</em> (<strong>Grade: strong recommendation; low-quality evidence</strong>)</p>
+<p>Obesity is a risk factor for OSA, and evidence showed that intensive weight-loss interventions help reduce Apnea&ndash;Hypopnea Index (AHI) scores and improve OSA symptoms. Weight loss is also associated with many other health benefits other than for OSA. Other factors, such as alcohol and opioid use, may be associated with adverse outcomes in patients with sleep apnea, but these factors were not addressed in the evidence review.</p>
+<p><strong>Recommendation 2</strong>: <em>ACP recommends continuous positive airway pressure (CPAP) treatment as initial therapy for patients diagnosed with OSA.</em> (<strong>Grade: strong recommendation; moderate-quality evidence</strong>)</p>
+<p>In patients with excessive daytime sleepiness who have been diagnosed with OSA, CPAP is the most extensively studied therapy. This treatment has been shown to improve Epworth Sleepiness Scale (ESS) scores, reduce AHI and arousal index scores, and increase oxygen saturation. However, CPAP has not been shown to increase quality of life. Evidence on the effect of CPAP on cardiovascular disease, hypertension, and type 2 diabetes was insufficient. Studies have evaluated various alternative CPAP modifications. Fixed and auto-CPAP, as well as C-Flex, have similar adherence and efficacy. Data were insufficient to determine the comparative efficacy of other CPAP modifications. Greater AHI and ESS scores were generally associated with better adherence to CPAP.</p>
+<p><strong>Recommendation 3</strong>: <em>ACP recommends mandibular advancement devices (MADs) as an alternative therapy to CPAP treatment for patients diagnosed with OSA who prefer MADs or for those with adverse effects associated with CPAP treatment.</em> (<strong>Grade: weak recommendation; low-quality evidence</strong>)</p>
+<p>Evidence showed that MADs have been used as an alternative to CPAP for treatment of OSA. Patients had AHI scores between 18 and 40 events per hour. Evidence to suggest which patients would benefit most from MADs was insufficient. However, MADs can be considered in patients with adverse effects or for those who do not tolerate or adhere to CPAP.</p>
+<p><span style="text-decoration: underline;"><strong>Definitions</strong></span>:</p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: The American College of Physicians' Guideline Grading System">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" colspan="3">The American College of Physicians' Guideline Grading System*</th>
+        </tr>
+        <tr>
+            <th valign="top">Quality of Evidence</th>
+            <th class="Center" valign="top" colspan="2">Strength of Recommendation</th>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">&nbsp; </th>
+            <th class="Center" valign="top">Benefits Clearly Outweigh Risks and Burden or Risks and Burden Clearly Outweigh Benefits</th>
+            <th class="Center" valign="top">Benefits Finely Balanced with Risks and Burden</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">High</td>
+            <td class="Center" valign="top">Strong</td>
+            <td class="Center" valign="top">Weak</td>
+        </tr>
+        <tr>
+            <td valign="top">Moderate</td>
+            <td class="Center" valign="top">Strong</td>
+            <td class="Center" valign="top">Weak</td>
+        </tr>
+        <tr>
+            <td valign="top">Low</td>
+            <td class="Center" valign="top">Strong</td>
+            <td class="Center" valign="top">Weak</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top" colspan="3">Insufficient evidence to determine net benefits or risks</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note">*Adopted from the classification developed by the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) workgroup.</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Obstructive sleep apnea (OSA)</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Management</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Family Practice</p>
+                    <p>Internal Medicine</p>
+                    <p>Nursing</p>
+                    <p>Otolaryngology</p>
+                    <p>Pulmonary Medicine</p>
+                    <p>Sleep Medicine</p>
+                    <p>Surgery</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                    <p>Respiratory Care Practitioners</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To present the evidence and provide clinical recommendations on the management of obstructive sleep apnea (OSA) in adults</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Adults with obstructive sleep apnea (OSA)</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Weight loss through intensive weight loss interventions </li>
+    <li>Continuous positive airway pressure (CPAP)
+    <ul style="list-style-type: disc;">
+        <li>Fixed CPAP </li>
+        <li>Auto-CPAP </li>
+        <li>C-Flex </li>
+    </ul>
+    </li>
+    <li>Mandibular advancement devices (MADs) </li>
+</ol>
+<p class="Note"><strong>Note</strong>: Other obstructive sleep apnea (OSA) treatments, including positional therapy, oropharyngeal exercise, palatal implants, surgical interventions, pharmacologic therapy, and atrial overdrive pacing, were considered but no recommendations were made because of insufficient evidence.</p></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Cardiovascular disease (such as heart failure, hypertension, stroke, and myocardial infarction) </li>
+    <li>Type 2 diabetes </li>
+    <li>Death </li>
+    <li>Sleep study measures (such as the Apnea&ndash;Hypopnea Index [AHI]) </li>
+    <li>Measures of cardiovascular status (such as blood pressure) </li>
+    <li>Measures of diabetes status (such as hemoglobin A1c levels) </li>
+    <li>Quality of life </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Hand-searches of Published Literature (Primary Sources)</p>
+                    <p>Hand-searches of Published Literature (Secondary Sources)</p>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p>The Tufts Evidence-based Practice Center conducted the systematic evidence review. The literature search included studies identified using MEDLINE (1966 to September 2010), the Cochrane Central Register of Controlled Trials, and the Cochrane Database of Systematic Reviews and included peer-reviewed studies on adult human patients published in English. Further details about the methods and inclusion and exclusion criteria applied in the evidence review are available in the full Agency for Healthcare Research and Quality (AHRQ) report (see the "Availability of Companion Documents" field). No randomized, controlled trial (RCT) on obstructive sleep apnea (OSA) treatment with regard to mortality outcomes was identified.</p>
+<p>The American College of Physicians (ACP) supplemented the AHRQ review (MEDLINE search, 1946 to October 2012) to identify English-language observational studies in humans reporting death or cardiovascular or cerebrovascular illness associated with OSA treatment strategies (that is, continuous positive airway pressure [CPAP], surgery, or mandibular advancement devices [MADs]), as well as more recent relevant RCTs.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p>This guideline rates the evidence and recommendations by using the American College of Physicians (ACP) guideline grading system, which is based on the system developed by the Grading of Recommendations Assessment, Development and Evaluation (GRADE) workgroup (see the "Rating Scheme for the Strength of the Recommendations" field).</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Meta-Analysis of Randomized Controlled Trials</p>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p>To guide the recommendations, outcomes were prioritized on the basis of clinical importance, starting with death and including cardiovascular outcomes. In the absence of statistically significant effects on clinical outcomes, symptoms were considered (such as Epworth Sleepiness Scale [ESS] scores) and other physiologic measures (such as the Apnea&ndash;Hypopnea Index [AHI]).</p>
+<p>The Tufts Evidence-based Practice Center conducted the systematic evidence review. Evidence on the comparative effectiveness of OSA treatments is summarized in the Appendix Table in the original guideline document. Further details on data extraction, quality assessment, and data synthesis are available in the systemic evidence review (see the "Availability of Companion Documents" field).</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p>This guideline is based on a systematic evidence review sponsored by the Agency for Healthcare Research and Quality (AHRQ) (see the "Availability of Companion Documents" field) that addressed the following key questions related to obstructive sleep apnea (OSA) management:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>What is the comparative effect of different treatments for OSA in adults?
+    <ol style="list-style-type: lower-alpha;">
+        <li>Does the comparative effectiveness of treatments vary based on presenting patient characteristics, OSA severity, or other pretreatment factors? Are any of these characteristics or factors predictive of treatment success?
+        <ol style="list-style-type: lower-roman;">
+            <li>Characteristics: Age, sex, race, weight, bed partner, airway, other physical characteristics, and specific comorbid conditions. </li>
+            <li>Obstructive sleep apnea severity or characteristics: Baseline questionnaire (and similar tools) results, formal testing results (including hypoxemia levels), baseline quality of life, positional dependency. </li>
+            <li>Other: Specific symptoms. </li>
+        </ol>
+        </li>
+    </ol>
+    </li>
+    <li>In patients with OSA who are prescribed nonsurgical treatments, what are the associations of pretreatment, patient-level characteristics with treatment adherence? </li>
+    <li>What is the effect of interventions to improve adherence to device use (positive airway pressure, oral appliances, and positional therapy) on clinical and intermediate outcomes? </li>
+</ol></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><table border="1" cellspacing="1" cellpadding="3" summary="Table: The American College of Physicians' Guideline Grading System">
+    <thead>
+        <tr>
+            <th class="Center" valign="top" colspan="3">The American College of Physicians' Guideline Grading System*</th>
+        </tr>
+        <tr>
+            <th valign="top">Quality of Evidence</th>
+            <th class="Center" valign="top" colspan="2">Strength of Recommendation</th>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">&nbsp; </th>
+            <th class="Center" valign="top">Benefits Clearly Outweigh Risks and Burden or Risks and Burden Clearly Outweigh Benefits</th>
+            <th class="Center" valign="top">Benefits Finely Balanced with Risks and Burden</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">High</td>
+            <td class="Center" valign="top">Strong</td>
+            <td class="Center" valign="top">Weak</td>
+        </tr>
+        <tr>
+            <td valign="top">Moderate</td>
+            <td class="Center" valign="top">Strong</td>
+            <td class="Center" valign="top">Weak</td>
+        </tr>
+        <tr>
+            <td valign="top">Low</td>
+            <td class="Center" valign="top">Strong</td>
+            <td class="Center" valign="top">Weak</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top" colspan="3">Insufficient evidence to determine net benefits or risks</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note">*Adopted from the classification developed by the Grading of Recommendations, Assessment, Development and Evaluation (GRADE) workgroup.</p></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>Published cost analyses were reviewed.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>This guideline was approved by the American College of Physicians (ACP) Board of Regents on November 17, 2012.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified and graded for each recommendation (see the "Major Recommendations" field).</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>Appropriate interventions for obstructive sleep apnea (OSA), taking into account the relative benefits and risks associated with each intervention</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><div class="content_para"><p>Evidence on adverse effects related to various management strategies for obstructive sleep apnea (OSA) was sparse, especially from randomized control trials (RCTs). The Appendix Table in the original guideline document summarizes adverse effects associated with each treatment. Tooth loosening, dental crown damage, and temporomandibular joint pain were the most commonly reported adverse effects with mandibular advancement devices (MADs); however, long-term consequences were not reported. Overall, approximately 5% to 15% of patients treated with continuous positive airway pressure (CPAP) reported adverse effects that they considered to be substantial, but these symptoms were potentially transient. In general, adverse effects in patients treated with CPAP could be alleviated with termination or modification of the treatment. No long-term adverse effects were reported for weight-loss interventions.</p></div></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Clinical practice guidelines are "guides" only and may not apply to all patients and clinical situations. Thus, they are not intended to override clinicians' judgment. All American College of Physicians (ACP) clinical practice guidelines are considered automatically withdrawn or invalid 5 years after publication, or once an update has been issued. </li>
+    <li>The authors of this article are responsible for its contents, including any clinical or treatment recommendations. No statement in this article should be construed as an official position of the Department of Veterans Affairs. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>An implementation strategy was not provided.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Mobile Device Resources</p>
+                    <p>Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Qaseem A, Holty JE, Owens DK, Dallas P, Starkey M, Shekelle P, for the Clinical Guidelines Committee of the American College of Physicians. Management of obstructive sleep apnea in adults: a clinical practice guideline from the American College of Physicians. Ann Intern Med. 2013 Oct 1;159(7):471-83. [198 references] <a href="https://web.archive.org/web/20180712203923/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24061345" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712203923im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2013 Sep 24</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>American College of Physicians - Medical Specialty Society</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>Financial support for the development of this guideline comes exclusively from the American College of Physicians (ACP) operating budget.</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Clinical Guidelines Committee of the American College of Physicians</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Primary Authors</em>: Amir Qaseem, MD, PhD, MHA; Jon-Erik C. Holty, MD, MS; Douglas K. Owens, MD, MS; Paul Dallas, MD; Melissa Starkey, PhD; and Paul Shekelle, MD, PhD</p>
+<p><em>Clinical Guidelines Committee of the American College of Physicians</em>: Paul Shekelle, MD, PhD (<em>Chair</em>); Roger Chou, MD; Molly Cooke, MD; Paul Dallas, MD; Thomas D. Denberg, MD, PhD; Nick Fitterman, MD; Mary Ann Forciea, MD; Robert H. Hopkins Jr., MD; Linda L. Humphrey, MD, MPH; Tanveer P. Mir, MD; Douglas K. Owens, MD, MS; Holger J. Sch&uuml;nemann, MD, PhD; Donna E. Sweet, MD; David S. Weinberg, MD, MSc; and Timothy Wilt, MD, MPH</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p><strong>Potential Conflicts of Interest</strong></p>
+<p>Dr. Shekelle: <em>Personal fees</em>: ECRI Institute, Veterans Affairs; <em>Grants</em>: Agency for Healthcare Research and Quality, Veterans Affairs, Centers for Medicare &amp; Medicaid Services, National Institute of Nursing Research, Office of the National Coordinator for Health Information Technology. All other authors have no disclosures.</p>
+<p>Disclosures are available on the <a href="/web/20180712203923/https://www.guideline.gov/Home/Disclaimer?id=47136&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.acponline.org%2fauthors%2ficmje%2fConflictOfInterestForms.do%3fmsNum%3dM12-3188" title="American College of Physicians Web site">American College of Physicians Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203923im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. A record of conflicts of interest is kept for each Clinical Guidelines Committee meeting and conference call and is also available from the <a href="/web/20180712203923/https://www.guideline.gov/Home/Disclaimer?id=47136&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.acponline.org%2fclinical_information%2fguidelines%2fguidelines%2fconflicts_cgc.htm" title="American College of Physicians Web site">American College of Physicians Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203923im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712203923/https://www.guideline.gov/Home/Disclaimer?id=47136&amp;contentType=summary&amp;redirect=http%3a%2f%2fannals.org%2farticle.aspx%3farticleid%3d1742606" title="of Internal Medicine Web site">Annals of Internal Medicine Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203923im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>Print copies: Available from the American College of Physicians (ACP), 190 N. Independence Mall West, Philadelphia PA 19106-1572.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>Qaseem A, Snow V, Owens DK, Shekelle P. The development of clinical practice guidelines and guidance statements of the American College of Physicians: summary of methods. Ann Intern Med. 2010 Aug 3;153(3):194-199. Available from the <a href="/web/20180712203923/https://www.guideline.gov/Home/Disclaimer?id=47136&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.annals.org%2fcontent%2f153%2f3%2f194.full" title="Annals of Internal Medicine Web site">Annals of Internal Medicine Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203923im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Balk EM, Moorthy D, Obadan NO, Patel K, Ip S, Chung M, Bannuru RR, Kitsios GD, Sen S, Iovin RC, Gaylor JM, D'Ambrosio C, Lau J. Diagnosis and treatment of obstructive sleep apnea in adults. Comparative effectiveness review No. 32. (Prepared by Tufts Evidence-based Practice Center under Contract No. 290-2007-10055-1). AHRQ Publication No. 11-EHC052-EF. Rockville, MD: Agency for Healthcare Research and Quality (AHRQ). July 2011. Available from the <a href="https://web.archive.org/web/20180712203923/http://www.effectivehealthcare.ahrq.gov/ehc/products/117/683/CER32_SleepApnea_FinalReview_201108.pdf" target="_blank" title="AHRQ Web site">AHRQ Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203923im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p>Print copies: Available from the American College of Physicians (ACP), 190 N. Independence Mall West, Philadelphia PA 19106-1572.</p>
+<p>A collection of Recommendation Summaries for all current American College of Physicians Clinical Guidelines is now available for Personal Digital Assistant (PDA) download from the <a href="/web/20180712203923/https://www.guideline.gov/Home/Disclaimer?id=47136&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.acponline.org%2fclinical_information%2fguidelines%2fmobile.htm" title="ACP Web site">ACP Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203923im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on December 12, 2013.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712203923/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712203923/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712203923/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712203923/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712203923/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712203923/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712203923/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203923/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203923/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203923/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203923/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203923/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712203923/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712203923/https://www.guideline.gov/disclaimer?id=47136&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712203923im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712203923im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712203923/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712203923/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712203923/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712203923/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712203923/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712203923/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712203923/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712203923/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712203923/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712203923/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712203923/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712203923/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712203923/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712203923/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712203923/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712203923/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712203923/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712203923/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712203923/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712203923im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712203923im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712203923/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712203923im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712203923im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712203923/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712203923js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712203923js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:39:23 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:08:48 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 157.224 (3)
+  esindex: 0.007
+  captures_list: 179.272
+  CDXLines.iter: 13.915 (3)
+  PetaboxLoader3.datanode: 183.222 (4)
+  exclusion.robots: 0.179
+  exclusion.robots.policy: 0.166
+  RedisCDXSource: 4.768
+  PetaboxLoader3.resolve: 128.907
+  load_resource: 189.032
+-->

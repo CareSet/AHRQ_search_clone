@@ -1,0 +1,1190 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app18.us.archive.org';v.server_ms=591;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>KDIGO clinical practice guideline for lipid management in chronic kidney disease. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712205519im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712205519im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712205519im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712205519im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712205519/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712205519im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712205519cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712205519js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712205519if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712205519/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712205519if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712205519/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712205519/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712205519/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712205519/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712205519im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712205519im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712205519im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712205519/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712205519/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712205519/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712205519/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712205519/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712205519/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712205519/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712205519/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712205519/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712205519/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712205519/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712205519/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712205519/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712205519/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712205519/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712205519/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712205519/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712205519/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712205519/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712205519/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712205519/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010184</li>
+            <li>2013 Nov
+            </li>            
+                                </ul>
+        <div>
+                <h1>KDIGO clinical practice guideline for lipid management in chronic kidney disease.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712205519/https://www.guideline.gov/search?f_Guideline_Developer_String=Kidney%20Disease%3A%20Improving%20Global%20Outcomes&amp;fLockTerm=Kidney%2BDisease%253a%2BImproving%2BGlobal%2BOutcomes">Kidney Disease: Improving Global Outcomes</a></li>
+                        <li>   
+                                <a id="2349" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>KDIGO clinical practice guideline for lipid management in chronic kidney disease. Kidney Int Suppl. 2013 Nov;3(3):259-305. [114 references]</td></tr></table>                    <p><a href="/web/20180712205519/https://www.guideline.gov/Home/Disclaimer?id=47699&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fkdigo.org%252fguidelines%252flipids-in-ckd%252f">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205519im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712205519/https://www.guideline.gov/search?f_Age_of_Target_Population=Adolescent%20%2813%20to%2018%20years%29&amp;fLockTerm=Adolescent%2B%2813%2Bto%2B18%2Byears%29">Adolescent (13 to 18 years)</a></li>                      
+                        <li><a href="/web/20180712205519/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712205519/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712205519/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712205519/https://www.guideline.gov/search?f_Age_of_Target_Population=Child%20%282%20to%2012%20years%29&amp;fLockTerm=Child%2B%282%2Bto%2B12%2Byears%29">Child (2 to 12 years)</a></li>                      
+                        <li><a href="/web/20180712205519/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712205519/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712205519/https://www.guideline.gov/search?f_ICD9CM_CUI=C1561643&amp;fLockTerm=Chronic+kidney+disease%2c+unspecified">Chronic kidney disease, unspecified</a>
+ (585.9), <a href="/web/20180712205519/https://www.guideline.gov/search?f_ICD9CM_CUI=C0022661&amp;fLockTerm=End+stage+renal+disease">End stage renal disease</a>
+ (585.6), <a href="/web/20180712205519/https://www.guideline.gov/search?f_ICD9CM_CUI=C0154251&amp;fLockTerm=Unspecified+disorder+of+lipoid+metabolism">Unspecified disorder of lipoid metabolism</a>
+ (272.9)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712205519/https://www.guideline.gov/search?f_MSH_CUI=C0004490&amp;fLockTerm=Azetidines">Azetidines</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MSH_CUI=C0013218&amp;fLockTerm=Drug+Therapy%2c+Combination">Drug Therapy, Combination</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MSH_CUI=C0242339&amp;fLockTerm=Dyslipidemias">Dyslipidemias</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MSH_CUI=C1142985&amp;fLockTerm=Ezetimibe">Ezetimibe</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MSH_CUI=C0360714&amp;fLockTerm=Hydroxymethylglutaryl-CoA+Reductase+Inhibitors">Hydroxymethylglutaryl-CoA Reductase Inhibitors</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MSH_CUI=C0022661&amp;fLockTerm=Kidney+Failure%2c+Chronic">Kidney Failure, Chronic</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MSH_CUI=C0023676&amp;fLockTerm=Life+Style">Life Style</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MSH_CUI=C0154251&amp;fLockTerm=Lipid+Metabolism+Disorders">Lipid Metabolism Disorders</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712205519/https://www.guideline.gov/search?f_MTH_CUI=C0004490&amp;fLockTerm=Azetidines">Azetidines</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MTH_CUI=C1561643&amp;fLockTerm=Chronic+Kidney+Diseases">Chronic Kidney Diseases</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MTH_CUI=C0013218&amp;fLockTerm=Combination+Drug+Therapy">Combination Drug Therapy</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MTH_CUI=C1142985&amp;fLockTerm=ezetimibe">ezetimibe</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MTH_CUI=C0360714&amp;fLockTerm=Hydroxymethylglutaryl-CoA+Reductase+Inhibitors">Hydroxymethylglutaryl-CoA Reductase Inhibitors</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MTH_CUI=C0022661&amp;fLockTerm=Kidney+Failure%2c+Chronic">Kidney Failure, Chronic</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MTH_CUI=C0023676&amp;fLockTerm=Life+Style">Life Style</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MTH_CUI=C2960841&amp;fLockTerm=Lifestyle+change+therapy">Lifestyle change therapy</a>
+, <a href="/web/20180712205519/https://www.guideline.gov/search?f_MTH_CUI=C0154251&amp;fLockTerm=Lipid+Metabolism+Disorders">Lipid Metabolism Disorders</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712205519/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1561643&amp;fLockTerm=Chronic+kidney+disease">Chronic kidney disease</a>
+ (709044004), <a href="/web/20180712205519/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0154251&amp;fLockTerm=Disorder+of+lipid+metabolism">Disorder of lipid metabolism</a>
+ (267431006), <a href="/web/20180712205519/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0242339&amp;fLockTerm=Dyslipidemia">Dyslipidemia</a>
+ (370992007), <a href="/web/20180712205519/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0022661&amp;fLockTerm=End-stage+renal+disease">End-stage renal disease</a>
+ (46177005), <a href="/web/20180712205519/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0022661&amp;fLockTerm=End-stage+renal+disease">End-stage renal disease</a>
+ (90688005), <a href="/web/20180712205519/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1142985&amp;fLockTerm=Ezetimibe">Ezetimibe</a>
+ (408041006), <a href="/web/20180712205519/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1142985&amp;fLockTerm=Ezetimibe">Ezetimibe</a>
+ (409149001), <a href="/web/20180712205519/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0430044&amp;fLockTerm=Fasting+lipid+profile">Fasting lipid profile</a>
+ (252150008), <a href="/web/20180712205519/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0360714&amp;fLockTerm=HMG-CoA+reductase+inhibitor">HMG-CoA reductase inhibitor</a>
+ (372912004), <a href="/web/20180712205519/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0360714&amp;fLockTerm=HMG-CoA+reductase+inhibitor">HMG-CoA reductase inhibitor</a>
+ (96302009), <a href="/web/20180712205519/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0023676&amp;fLockTerm=Life+style">Life style</a>
+ (134436002), <a href="/web/20180712205519/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0023676&amp;fLockTerm=Life+style">Life style</a>
+ (60134006)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#430" class="section-mark">Contraindications</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712205519/https://www.guideline.gov/summaries/downloadcontent/ngc-10184?contentType=pdf" class="pdf">.PDF 123.8 kb</a></li>
+                            <li><a href="/web/20180712205519/https://www.guideline.gov/summaries/downloadcontent/ngc-10184?contentType=word" class="word">Word Document 319.4 kb</a></li>
+                            <li><a href="/web/20180712205519/https://www.guideline.gov/summaries/downloadcontent/ngc-10184?contentType=xml" class="xml">.XML 65.0 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205519/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/47699/kdigo-clinical-practice-guideline-for-lipid-management-in-chronic-kidney-disease" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205519/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/47699/kdigo-clinical-practice-guideline-for-lipid-management-in-chronic-kidney-disease" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205519/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/47699/kdigo-clinical-practice-guideline-for-lipid-management-in-chronic-kidney-disease&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712205519/mailto:/?Subject=AHRQ: KDIGO clinical practice guideline for lipid management in chronic kidney disease.&amp;body=https://www.guideline.gov/summaries/summary/47699/kdigo-clinical-practice-guideline-for-lipid-management-in-chronic-kidney-disease" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: KDIGO clinical practice guideline for lipid management in chronic kidney disease. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2013 Nov 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712205519/https://www.guideline.gov/summaries/citedownload/47699?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712205519/https://www.guideline.gov/summaries/citedownload/47699?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712205519/https://www.guideline.gov/summaries/citedownload/47699?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712205519/https://www.guideline.gov/summaries/citedownload/47699?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712205519/https://www.guideline.gov/summaries/citedownload/47699?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712205519/https://www.guideline.gov/summaries/citedownload/47699">RefWorks</a></li>
+                            <li><a href="/web/20180712205519/https://www.guideline.gov/summaries/citedownload/47699?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="47699" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>Definitions of the strength of recommendation (<strong>Level 1, Level 2, or Not Graded</strong>), and the quality of the supporting evidence (<strong>A-D</strong>) are provided at the end of the 'Major Recommendations' field.</p>
+<p><strong>Assessment of Lipid Status in Adults with Chronic Kidney Disease (CKD)</strong></p>
+<ul style="list-style-type: disc;">
+    <li>In adults with newly identified CKD (including those treated with chronic dialysis or kidney transplantation), the Work Group recommends evaluation with a lipid profile (total cholesterol, low-density lipoprotein [LDL] cholesterol, high-density lipoprotein [HDL] cholesterol, triglycerides). (<strong>1C</strong>) </li>
+    <li>In adults with CKD (including those treated with chronic dialysis or kidney transplantation), follow-up measurement of lipid levels is not required for the majority of patients. (<strong>Not Graded</strong>) </li>
+</ul>
+<p><strong>Pharmacological Cholesterol-lowering Treatment in Adults</strong></p>
+<ul style="list-style-type: disc;">
+    <li>In adults aged &ge;50 years with estimated glomerular filtration rate (eGFR) &lt;60 ml/min/1.73 m<sup>2</sup> but not treated with chronic dialysis or kidney transplantation (GFR categories G3a-G5), the Work Group recommends treatment with a statin or statin/ezetimibe combination. (<strong>1A</strong>) </li>
+    <li>In adults aged &ge;50 years with CKD and eGFR &ge;60 ml/min/1.73m<sup>2</sup> (GFR categories G1-G2) the Work Group recommends treatment with a statin. (<strong>1B</strong>) </li>
+    <li>In adults aged 18&ndash;49 years with CKD but not treated with chronic dialysis or kidney transplantation, the Work Group suggests statin treatment in people with one or more of the following (<strong>2A</strong>):
+    <ul style="list-style-type: disc;">
+        <li>Known coronary disease (myocardial infarction or coronary revascularization) </li>
+        <li>Diabetes mellitus </li>
+        <li>Prior ischemic stroke </li>
+        <li>Estimated 10-year incidence of coronary death or non-fatal myocardial infarction &gt;10% </li>
+    </ul>
+    </li>
+    <li>In adults with dialysis-dependent CKD, the Work Group suggests that statins or statin/ezetimibe combination not be initiated. (<strong>2A</strong>) </li>
+    <li>In patients already receiving statins or statin/ezetimibe combination at the time of dialysis initiation, the Work Group suggests that these agents be continued. (<strong>2C</strong>) </li>
+    <li>In adult kidney transplant recipients, the Work Group suggests treatment with a statin. (<strong>2B</strong>) </li>
+</ul>
+<p><strong>Assessment of Lipid Status in Children with CKD</strong></p>
+<ul style="list-style-type: disc;">
+    <li>In children with newly identified CKD (including those treated with chronic dialysis or kidney transplantation), the Work Group recommends evaluation with a lipid profile (total cholesterol, LDL cholesterol, HDL cholesterol, triglycerides). (<strong>1C</strong>) </li>
+    <li>In children with CKD (including those treated with chronic dialysis or kidney transplantation), the Work Group suggests annual follow-up measurement of fasting lipid levels. (<strong>Not Graded</strong>) </li>
+</ul>
+<p><strong>Pharmacological Cholesterol-lowering Treatment in Children</strong></p>
+<p>In children less than 18 years of age with CKD (including those treated with chronic dialysis or kidney transplantation), the Work Group suggests that statins or statin/ezetimibe combination not be initiated. (<strong>2C</strong>)</p>
+<p><strong>Triglyceride-lowering Treatment in Adults</strong></p>
+<p>In adults with CKD (including those treated with chronic dialysis or kidney transplantation) and hypertriglyceridemia, the Work Group suggests that therapeutic lifestyle changes be advised. (<strong>2D</strong>)</p>
+<p><strong>Triglyceride-lowering Treatment in Children</strong></p>
+<p>In children with CKD (including those treated with chronic dialysis or kidney transplantation) and hypertriglyceridemia, the Work Group suggests that therapeutic lifestyle changes be advised. (<strong>2D</strong>)</p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong>:</p>
+<p><strong>Strength of Recommendation</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Strength of Recommendation">
+    <thead>
+        <tr>
+            <th valign="top" rowspan="2">Grade*</th>
+            <th class="Center" valign="top" colspan="3">Implications</th>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Patients</th>
+            <th class="Center" valign="top">Clinicians</th>
+            <th class="Center" valign="top">Policy-makers</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top"><strong>Level 1</strong><br/>
+            "The Work Group recommends"</td>
+            <td valign="top">Most people in your situation would want the recommended course of action and only a small proportion would not.</td>
+            <td valign="top">Most patients should receive the recommended course of action.</td>
+            <td valign="top">The recommendation can be evaluated as a candidate for developing a policy or a performance measure.</td>
+        </tr>
+        <tr>
+            <td valign="top"><strong>Level 2</strong><br/>
+            "The Work Group suggests"</td>
+            <td valign="top">The majority of people in your situation would want the recommended course of action, but many would not.</td>
+            <td valign="top">Different choices will be appropriate for different patients. Each patient needs help to arrive at a management decision consistent with her or his values and preferences.</td>
+            <td valign="top">The recommendation is likely to require substantial debate and involvement of stakeholders before policy can be determined.</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note">*The additional category "Not Graded" was used, typically, to provide guidance based on common sense or where the topic does not allow adequate application of evidence. The most common examples include recommendations regarding monitoring intervals, counseling, and referral to other clinical specialists. The ungraded recommendations are generally written as simple declarative statements, but are not meant to be interpreted as being stronger recommendations than Level 1 or 2 recommendations.</p>
+<p><strong>Final Grade for Overall Quality of Evidence</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Final Grade for Overall Quality of Evidence">
+    <thead>
+        <tr>
+            <th class="Center" valign="top">Grade</th>
+            <th class="Center" valign="top">Quality of Evidence</th>
+            <th class="Center" valign="top">Meaning</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="Center" valign="top">A</td>
+            <td class="Center" valign="top">High</td>
+            <td valign="top">The Work Group is confident that the true effect lies close to that of the estimate of the effect.</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">B</td>
+            <td class="Center" valign="top">Moderate</td>
+            <td valign="top">The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">C</td>
+            <td class="Center" valign="top">Low</td>
+            <td valign="top">The true effect may be substantially different from the estimate of the effect.</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">D</td>
+            <td class="Center" valign="top">Very Low</td>
+            <td valign="top">The estimate of effect is very uncertain, and often will be far from the truth.</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Chronic kidney disease (CKD) </li>
+    <li>Dyslipidemia </li>
+</ul></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Counseling</p>
+                    <p>Evaluation</p>
+                    <p>Management</p>
+                    <p>Prevention</p>
+                    <p>Screening</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Cardiology</p>
+                    <p>Critical Care</p>
+                    <p>Family Practice</p>
+                    <p>Internal Medicine</p>
+                    <p>Nephrology</p>
+                    <p>Pediatrics</p>
+                    <p>Preventive Medicine</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Health Care Providers</p>
+                    <p>Nurses</p>
+                    <p>Pharmacists</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>To develop an evidence based clinical practice guideline (CPG) for the management of dyslipidemia and chronic kidney disease (CKD) </li>
+    <li>To assist the practitioner caring for patients with CKD and dyslipidemia and to prevent deaths, cardiovascular disease (CVD) events, and progression to kidney failure while optimizing patients' quality of life </li>
+</ul></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Adults and children with chronic kidney disease (CKD) and dyslipidemia</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Evaluation with a lipid profile, including follow-up measurement in children </li>
+    <li>Initiation of statin treatment for adults, as indicated
+    <ul style="list-style-type: disc;">
+        <li>Statins </li>
+        <li>Statin/ezetimibe combination </li>
+    </ul>
+    </li>
+    <li>Therapeutic lifestyle changes </li>
+</ol>
+<p class="Note"><strong>Note</strong>: Statin treatment is considered but not recommended in children.</p></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Mortality, including cardiovascular mortality </li>
+    <li>Cardiovascular and cerebrovascular events </li>
+    <li>End-stage renal disease </li>
+    <li>Graft failure </li>
+    <li>Changes in serum creatinine and glomerular filtration rate </li>
+    <li>Changes in total cholesterol, low-density lipoprotein cholesterol, and high-density lipoprotein cholesterol </li>
+    <li>Adverse events </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p>Systematic search strategies were developed by the evidence review team (ERT) with input from the Work Group Co-Chairs. Modules were created for randomized controlled trials (RCTs), kidney disease, dyslipidemia, and lipid lowering agents. For the primary search, search terms were limited to the year 2000 and later to capture trials that would affect current clinical practice and because the Kidney Disease: Improving Global Outcomes (KDOQI) dyslipidemia guideline covered through 2000. Five new topics were added to the KDOQI systematic review for studies in the general population: effect of diet or lifestyle modification; an update of drug interactions with statins and fibrates; changes in low-density lipoprotein cholesterol (LDL-C) levels associated with various statins; adverse events from statin and fibrate use; and frequency of lipid-level testing. These searches were not restricted to 2000 and later. The text words or medical subject headings (MeSH) that were included are provided in the Supplemental Appendix 1 in the original guideline document. In addition, the ERT searched for existing relevant systematic reviews. The final searches were conducted in August 2011. The ERT searched MEDLINE, Cochrane Central Register of Controlled Trials, and Cochrane Database of Systematic Reviews. The ERT also relied on Work Group members to identify large, general population RCTs reporting on chronic kidney disease (CKD) subgroups. The search yield was also supplemented by articles provided by Work Group members through June 2013.</p>
+<p>For selection of studies, all members of ERT independently and manually screened the abstracts using the computerized screening program Abstrackr. To establish relevance and consensus among reviewers, the entire team screened and achieved consensus on an initial batch of 500 abstracts. A total of 11,337 citations were initially screened. Journal articles reporting original data, meta-analyses, and systematic reviews were selected for evidence review, based on <em>a priori</em> criteria for eligible evidence. Editorials, letters, abstracts, unpublished reports, and articles published in non&ndash;peer-reviewed journals were not included. The Work Group also decided to exclude publications from journal supplements because of potential differences in the process of how they are solicited, selected, reviewed, and edited compared to peer-reviewed publications. The overall search yield along with the number of abstracts identified and articles reviewed for each topic are presented in Table 8 in the original guideline document.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Grading of Recommendations Assessment, Development and Evaluation (GRADE) System for Grading Quality of Evidence for an Outcome</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Grading of Recommendations Assessment, Development and Evaluation (GRADE) System for Grading Quality of Evidence for an Outcome">
+    <tbody>
+        <tr>
+            <th valign="top" colspan="2">Step 1: Starting Grade for Quality of Evidence Based on Study Design</th>
+        </tr>
+        <tr>
+            <td valign="top">Randomized trials</td>
+            <td valign="top">High</td>
+        </tr>
+        <tr>
+            <td valign="top">Observational study</td>
+            <td valign="top">Low</td>
+        </tr>
+        <tr>
+            <td valign="top">Any other evidence</td>
+            <td valign="top">Very low</td>
+        </tr>
+        <tr>
+            <th valign="top" colspan="2">Step 2: Reduce Grade</th>
+        </tr>
+        <tr>
+            <td valign="top">Study quality</td>
+            <td valign="top">-1 level if serious limitations<br/>
+            -2 levels if very serious limitations</td>
+        </tr>
+        <tr>
+            <td valign="top">Consistency</td>
+            <td valign="top">-1 level if important inconsistency</td>
+        </tr>
+        <tr>
+            <td valign="top">Directness</td>
+            <td valign="top">-1 level if some uncertainty<br/>
+            -2 levels if major uncertainty</td>
+        </tr>
+        <tr>
+            <td valign="top">Other</td>
+            <td valign="top">-1 level if sparse or imprecise data<sup>c</sup><br/>
+            -1 level if high probability of reporting bias</td>
+        </tr>
+        <tr>
+            <th valign="top" colspan="2">Step 3: Raise Grade</th>
+        </tr>
+        <tr>
+            <td valign="top">Strength of association</td>
+            <td valign="top">+1 level if strong,<sup>a</sup> no plausible confounders<br/>
+            +2 levels if very strong,<sup>b</sup> no major threats to validity</td>
+        </tr>
+        <tr>
+            <td valign="top">Other</td>
+            <td valign="top">+1 level if evidence of a dose&ndash;response gradient<br/>
+            +1 level if all residual plausible confounders would have reduced the observed effect</td>
+        </tr>
+        <tr>
+            <th valign="top" colspan="2">Final Grade for Quality of Evidence and Definition</th>
+        </tr>
+        <tr>
+            <td valign="top">High</td>
+            <td valign="top">Further research is unlikely to change confidence in the estimate of the effect.</td>
+        </tr>
+        <tr>
+            <td valign="top">Moderate</td>
+            <td valign="top">Further research is likely to have an important impact on confidence in the estimate of effect, and may change the estimate.</td>
+        </tr>
+        <tr>
+            <td valign="top">Low</td>
+            <td valign="top">Further research is very likely to have an important impact on confidence in the estimate, and may change the estimate.</td>
+        </tr>
+        <tr>
+            <td valign="top">Very low</td>
+            <td valign="top">Any estimate of effect is very uncertain.</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note"><sup>a</sup>Strong evidence of association is defined as 'significant relative risk (RR) of &gt;2 (&lt;0.5)' based on consistent evidence from two or more observational studies, with no plausible confounders.<br/>
+<sup>b</sup>Very strong evidence of association is defined as 'significant RR of &gt;5 (&lt;0.2)' based on direct evidence with no major threats to validity.<br/>
+<sup>c</sup>Sparse if there is only one study or if total N &lt;100. Imprecise if there is a low event rate (0 or 1 event) in either arm or confidence interval spanning a range &lt;0.5 to &gt;2.0.</p>
+<p class="Note">Adapted by permission from Macmillan Publishers Ltd, <em>Kidney International</em>. Uhlig et al. Grading evidence and recommendations for clinical practice guidelines in nephrology. A position statement from Kidney Disease: Improving Global Outcomes (KDIGO). Kidney Int 2006; 70: 2058&ndash;2065.</p>
+<p><strong>Final Grade for Overall Quality of Evidence</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Final Grade for Overall Quality of Evidence">
+    <thead>
+        <tr>
+            <th class="Center" valign="top">Grade</th>
+            <th class="Center" valign="top">Quality of Evidence</th>
+            <th class="Center" valign="top">Meaning</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="Center" valign="top">A</td>
+            <td class="Center" valign="top">High</td>
+            <td valign="top">The Work Group is confident that the true effect lies close to that of the estimate of the effect.</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">B</td>
+            <td class="Center" valign="top">Moderate</td>
+            <td valign="top">The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">C</td>
+            <td class="Center" valign="top">Low</td>
+            <td valign="top">The true effect may be substantially different from the estimate of the effect.</td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">D</td>
+            <td class="Center" valign="top">Very Low</td>
+            <td valign="top">The estimate of effect is very uncertain, and often will be far from the truth.</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Data Extraction</span></strong></p>
+<p>Data extraction was done by an evidence review team (ERT) member. Although no duplicate extraction was independently performed, data from each study was examined by another reviewer to confirm accuracy. The ERT, in consultation with the Work Group Co-Chairs, designed forms to capture data on design, methodology, sample characteristics, interventions, comparators, outcomes, results, and limitations of individual studies. Methodology and outcomes were also systematically graded (see the section on grading below) and recorded during the data extraction process.</p>
+<p><strong><span style="text-decoration: underline;">Summary Tables</span></strong></p>
+<p>Summary tables were developed for each comparison of interest. Summary tables contain outcomes of interest, relevant population characteristics, description of intervention and comparator, results, and quality grading for each outcome. Categorical outcomes and continuous lipid outcomes were tabulated separately. For studies not exclusively examining chronic kidney disease (CKD) populations, only those reporting analysis by CKD subgroups were tabulated. Work Group members proofed all summary table data and quality assessments. Summary tables are available at <a href="/web/20180712205519/https://www.guideline.gov/Home/Disclaimer?id=47699&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.kdigo.org%2fhome%2fguidelines%2flipids" title="KDIGO Web site">http://www.kdigo.org/home/guidelines/lipids</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205519im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p><strong><span style="text-decoration: underline;">Evidence Profiles</span></strong></p>
+<p>Evidence profiles were constructed to assess the quality and record quality grades and descriptions of effect for each outcome across studies, as well as the quality of overall evidence and description of net benefits or harms of the intervention or comparator across all outcomes. These profiles aim to make the evidence synthesis process transparent. Decisions in the evidence profiles were based on data from the primary studies listed in corresponding summary tables and on judgments of the ERT and Work Group. When the body of evidence for a particular comparison of interest consisted of only one study, the summary table provided the final level of synthesis and an evidence profile was not generated. Each evidence profile was initially constructed by the ERT and then reviewed, edited, and approved by the Work Group. The work products created by the ERT for summarizing the evidence base are listed in Table 9 in the original guideline document.</p>
+<p><strong><span style="text-decoration: underline;">Grading of Quality of Evidence for Outcomes of Individual Studies</span></strong></p>
+<p>Methodological quality (internal validity) refers to the design, conduct, and reporting of outcomes of a clinical study. A previously devised three-level classification system for quality assessment was used to grade the overall study quality and quality of all relevant outcomes in the study (see Table 10 in the original guideline document). Grading of individual studies was done by one of the reviewers, then confirmed by another, and finalized in a group meeting. Variations of this system have been used in most Kidney Disease Outcomes Quality Initiative (KDOQI) and all Kidney Disease: Improving Global Outcomes (KDIGO) guidelines and have been recommended by the US Agency for Healthcare Research and Quality Evidence-based Practice Center program.</p>
+<p>Each study was given an overall quality grade based on its design, methodology (randomization, allocation, blinding, definition of outcomes, appropriate use of statistical methods, etc.), conduct (dropout percentage, outcome assessment methodologies, etc.) and reporting (internal consistency, clarity, thoroughness and precision, etc.). Each reported outcome was then evaluated and given an individual grade depending on the quality of reporting and methodological issues specific to that outcome. However, the quality grade of an individual outcome could not exceed the quality grade for the overall study.</p>
+<p><strong><span style="text-decoration: underline;">Grading the Quality of Evidence and the Strength of a Guideline Recommendation</span></strong></p>
+<p>A structured approach, based on Grading of Recommendations Assessment, Development, and Evaluation (GRADE) and facilitated by the use of evidence profiles, was used to grade the quality of the overall evidence and the strength of recommendations. For each topic, the discussion on grading of the quality of the evidence was led by the ERT, and the discussion regarding the strength of the recommendations was led by the Work Group Co-Chairs. The "quality of a body of evidence" refers to the extent to which our confidence in an estimate of effect is sufficient to support a particular recommendation.</p>
+<p><strong>Grading the Quality of Evidence for Each Outcome Across Studies</strong></p>
+<p>Following GRADE, the quality of a body of evidence pertaining to a particular outcome of interest was initially categorized on the basis of study design. For questions of interventions, the initial quality grade was 'High' if the body of evidence consisted of RCTs, 'Low' if it consisted of observational studies, and 'Very Low' if it consisted of studies of other study designs. For questions of interventions, the Work Group decided to use only RCTs. The grade for the quality of evidence for each intervention&ndash;outcome pair was then lowered if there were serious limitations to the methodological quality of the aggregate of studies, if there were important inconsistencies in the results across studies, if there was uncertainty about the directness of evidence including limited applicability of the findings to the population of interest, if the data were imprecise (a low event rate [0 or 1 event] in either arm or a confidence interval [CI] spanning a range &gt;1) or sparse (only 1 study or total N &lt;500), or if there was thought to be a high likelihood of bias. Once consensus is reached in a group meeting, the final grade for the quality of the evidence for an intervention&ndash;outcome pair could be one of the following four grades: 'High', 'Moderate', 'Low' or 'Very Low' (see Table 11 in the original guideline document).</p>
+<p><strong>Grading the Overall Quality of Evidence</strong></p>
+<p>The quality of the overall body of evidence was then determined on the basis of the quality grades for all outcomes of interest, taking into account explicit judgments about the relative importance of each outcome. The resulting four final categories for the quality of overall evidence were: 'A', 'B', 'C' or 'D' (see Table 12 in the original guideline document).</p>
+<p>See the original guideline document for CKD subgroup analyses and assessment of net health benefit across all important clinical outcomes.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Overview of Process</span></strong></p>
+<p>The development process for the <em>Kidney Disease: Improving Global Outcomes (KDIGO) Clinical Practice Guideline for Lipid Management in Chronic Kidney Disease (CKD)</em> included the following steps:</p>
+<ul style="list-style-type: disc;">
+    <li>Appointing Work Group members and the evidence review team (ERT) </li>
+    <li>Discussing process, methods, and results </li>
+    <li>Developing and refining topics </li>
+    <li>Identifying populations, interventions or predictors, and outcomes of interest </li>
+    <li>Selecting topics for systematic evidence review </li>
+    <li>Standardizing quality assessment methodology </li>
+    <li>Developing and implementing literature search strategies </li>
+    <li>Screening abstracts and retrieving full-text articles on the basis of pre-defined eligibility criteria </li>
+    <li>Creating data extraction forms </li>
+    <li>Extracting data and performing critical appraisal of the literature </li>
+    <li>Grading the methodology and outcomes in individual studies </li>
+    <li>Tabulating data from individual studies into summary tables </li>
+    <li>Grading quality of evidence for each outcome across studies, and assessing the overall quality of evidence across outcomes with the aid of evidence profiles </li>
+    <li>Grading the strength of recommendations on the basis of the quality of evidence and other considerations </li>
+    <li>Finalizing guideline recommendations and supporting rationales </li>
+    <li>Sending the guideline draft for peer review to the KDIGO Board of Directors in August 2012 and for public review in November 2012 </li>
+    <li>Editing the guideline </li>
+    <li>Publishing the final version of the guideline </li>
+</ul>
+<p>The Work Group Co-Chairs, KDIGO Co-Chairs and ERT met for a two-day meeting to go over the guideline development process, evidence review topics, and systematic review findings. Following this, the Work Group, KDIGO Co-Chairs and KDIGO support staff met held a two-day meeting to revisit the available evidence, formulate recommendation statements, deliberate on rationale for recommendations, and to develop consensus.</p>
+<p><strong><span style="text-decoration: underline;">Commissioning of Work Group and ERT</span></strong></p>
+<p>The KDIGO Co-Chairs appointed the Work Group Co- Chairs, who then assembled the Work Group of domain experts, including individuals with expertise in internal medicine, adult and pediatric nephrology, cardiology, hypertension, pharmacology, epidemiology, and endocrinology. The Tufts Center for Kidney Disease Guideline Development and Implementation at Tufts Medical Center in Boston, Massachusetts, USA, was contracted to conduct systematic evidence review and provide expertise in guideline development methodology. The ERT consisted of physicians&ndash;methodologists with expertise in nephrology and evidence based clinical practice guideline development, a project coordinator, a research assistant, and a project manager/medical writer.</p>
+<p><strong><span style="text-decoration: underline;">Defining Scope and Topics</span></strong></p>
+<p>The Work Group Co-Chairs and the ERT defined the overall scope and goals of the guideline (including a list of critical and important outcomes) and then drafted a preliminary list of topics and key clinical questions. They also reviewed the topics in the Kidney Disease Outcomes Quality Initiative (KDOQI) guideline, which the ERT also had helped to develop. The Work Group and ERT further developed and refined each topic and specified screening criteria, literature search strategies, and data extraction forms (see Table 6 in the original guideline document).</p>
+<p><strong><span style="text-decoration: underline;">Establishing the Process for Guideline Development</span></strong></p>
+<p>The ERT performed systematic literature searches and organized abstract and article screening. The ERT also coordinated the methodological and analytical processes, and defined and standardized the methodology for performing literature searches, data extraction, and summarizing the evidence. The Work Group took the primary role of writing the recommendation statements and rationales and retained final responsibility for their content. The Work Group Co-Chairs and the ERT prepared the first draft of the scope of work document as a series of open-ended questions to be considered by Work Group members.</p>
+<p><strong><span style="text-decoration: underline;">Formulating Questions of Interest</span></strong></p>
+<p>Questions of interest were formulated according to the PICODD (Population, Intervention, Comparator, Outcome, study Design and Duration of follow-up) criteria. Details of the PICODD criteria are presented in Table 6 in the original guideline document.</p>
+<p><strong><span style="text-decoration: underline;">Ranking of Outcomes</span></strong></p>
+<p>The Work Group ranked outcomes of interest on the basis of their importance for informing clinical decision making (see Table 7 in the original guideline document). Mortality, cardiovascular mortality, cardiovascular or cerebrovascular events, end-stage renal disease (ESRD), and graft failure were considered to be of critical importance; doubling of serum creatinine (SCr) and halving of glomerular filtration rate (GFR), high importance; and change in total cholesterol (TC), low-density lipoprotein cholesterol (LDL-C), or high-density lipoprotein cholesterol (HDL-C) or triglyceride (TG), moderate importance. The importance of adverse events was considered to depend on the event severity.</p>
+<p><strong><span style="text-decoration: underline;">Grading the Quality of Evidence and the Strength of a Guideline Recommendation</span></strong></p>
+<p>A structured approach, based on Grading of Recommendations Assessment, Development, and Evaluation (GRADE) and facilitated by the use of evidence profiles, was used to grade the quality of the overall evidence and the strength of recommendations. For each topic, the discussion on grading of the quality of the evidence was led by the ERT, and the discussion regarding the strength of the recommendations was led by the Work Group Co-Chairs. The "strength of a recommendation" indicates the extent to which one can be confident that adherence to the recommendation will do more good than harm.</p>
+<p><strong>Developing the Recommendations</strong></p>
+<p>Draft recommendation statements were developed by the Work Group Co-Chairs and Work Group members with input from all Work Group members. The health benefits, side effects, and risks associated with each recommendation were considered when formulating the guideline, as well as information on patient preferences when available. Recommendation statements were revised in a multi-step process during teleconferences and a face-to-face meeting, as well as in subsequent drafts by email. All Work Group members provided feedback on initial and final drafts of the recommendation. The final draft was sent for internal and external peer review, and was further revised by the Work Group Co-Chairs and members. All Work Group members approved the final version of the guideline.</p>
+<p><strong>Grading the Strength of the Recommendations</strong></p>
+<p>The strength of a recommendation is graded as level 1 or level 2. Table 14 in the original guideline document shows the KDIGO nomenclature for grading the strength of a recommendation and the implications of each level for patients, clinicians, and policy-makers. Recommendations can be for or against doing something. Each recommendation includes an explicit link between the quality of the available evidence and the strength of that recommendation. However, Table 15 in the original guideline document shows that the strength of a recommendation is determined not only by the quality of the evidence but also by other, often complex judgments regarding the size of the net medical benefit (potential risks versus benefit), values, and preferences, and costs. Formal decision analyses including cost analysis were not conducted.</p>
+<p>See the original guideline document for information about ungraded statements and the format for guideline recommendations.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Strength of Recommendation</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Strength of Recommendation">
+    <thead>
+        <tr>
+            <th valign="top" rowspan="2">Grade*</th>
+            <th class="Center" valign="top" colspan="3">Implications</th>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">Patients</th>
+            <th class="Center" valign="top">Clinicians</th>
+            <th class="Center" valign="top">Policy-makers</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top"><strong>Level 1</strong><br/>
+            "The Work Group recommends"</td>
+            <td valign="top">Most people in your situation would want the recommended course of action and only a small proportion would not.</td>
+            <td valign="top">Most patients should receive the recommended course of action.</td>
+            <td valign="top">The recommendation can be evaluated as a candidate for developing a policy or a performance measure.</td>
+        </tr>
+        <tr>
+            <td valign="top"><strong>Level 2</strong><br/>
+            "The Work Group suggests"</td>
+            <td valign="top">The majority of people in your situation would want the recommended course of action, but many would not.</td>
+            <td valign="top">Different choices will be appropriate for different patients. Each patient needs help to arrive at a management decision consistent with her or his values and preferences.</td>
+            <td valign="top">The recommendation is likely to require substantial debate and involvement of stakeholders before policy can be determined.</td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note">*The additional category "Not Graded" was used, typically, to provide guidance based on common sense or where the topic does not allow adequate application of evidence. The most common examples include recommendations regarding monitoring intervals, counseling, and referral to other clinical specialists. The ungraded recommendations are generally written as simple declarative statements, but are not meant to be interpreted as being stronger recommendations than Level 1 or 2 recommendations.</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>A formal cost analysis was not performed and published cost analyses were not reviewed.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>Guidelines underwent internal review by the Kidney Disease: Improving Global Outcomes (KDIGO) Board in August 2012 and external public review in November 2012. Public review comments were compiled and fed back to the Work Group, which considered comments in its revision of the guideline.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified and graded for each recommendation (see the "Major Recommendations" field).</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>Appropriate lipid management in patients with chronic kidney disease (CKD)</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><div class="content_para"><p>The harms for each comparison of interventions are provided in summary tables and summarized in evidence profiles (see the "Availability of Companion Documents" field for supplementary materials).</p></div></p>
+
+            </div>
+                <h2 id="430" class="accordion-title section-430 is-active" role="tab" aria-expanded="true"><a href="#">Contraindications</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Contraindications</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Statins are contraindicated in pregnant or breast-feeding females; in people with active liver disease; and in people with transaminase levels that are three times or more the upper limit of normal. </li>
+    <li>Patients with chronic kidney disease (CKD) appear to be at increased risk of adverse events when statins and fibrates are used in combination (see Supplemental Tables 21&ndash;28 [see the "Availability of Companion Documents" field]). For this reason, the Work Group recommends that fibrates not be used concomitantly with statins in patients with CKD. </li>
+</ul></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><div class="content_para"><p><strong>Use of the Clinical Practice Guideline</strong></p>
+<p>This Clinical Practice Guideline document is based upon systematic literature searches last conducted in August 2011, supplemented with additional evidence through June 2013. It is designed to provide information and assist decision making. It is not intended to define a standard of care, and should not be construed as one, nor should it be interpreted as prescribing an exclusive course of management. Variations in practice will inevitably and appropriately occur when clinicians take into account the needs of individual patients, available resources, and limitations unique to an institution or type of practice. Every health-care professional making use of these recommendations is responsible for evaluating the appropriateness of applying them in any particular clinical situation. The recommendations for research contained within this document are general and do not imply a specific protocol.</p>
+<p><strong>Limitations of Approach</strong></p>
+<p>Although the literature searches were intended to be comprehensive, they were not exhaustive. MEDLINE was the only database searched. Hand searches of journals were not performed, and review articles and textbook chapters were not systematically searched. However, any important studies known to domain experts that were missed by the electronic literature searches were added to retrieved articles and reviewed by the Work Group.</p></div></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>An implementation strategy was not provided.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Audit Criteria/Indicators</p>
+                    <p>Foreign Language Translations</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Living with Illness</p>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>KDIGO clinical practice guideline for lipid management in chronic kidney disease. Kidney Int Suppl. 2013 Nov;3(3):259-305. [114 references]</td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2013 Nov</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>Kidney Disease: Improving Global Outcomes - Nonprofit Organization</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>Kidney Disease: Improving Global Outcomes (KDIGO) gratefully acknowledges the founding sponsor, National Kidney Foundation, and the following consortium of sponsors that make our initiatives possible: Abbott, Amgen, Bayer Schering Pharma, Belo Foundation, Bristol-Myers Squibb, Chugai Pharmaceutical, Coca-Cola Company, Dole Food Company, Fresenius Medical Care, Genzyme, Hoffmann-LaRoche, International Society of Nephrology, JC Penney, Kyowa Hakko Kirin, NATCO&mdash;The Organization for Transplant Professionals, National Kidney Foundation (NKF)-Board of Directors, Novartis, Pharmacosmos, PUMC Pharmaceutical, Robert and Jane Cizik Foundation, Shire, Takeda Pharmaceutical, Transwestern Commercial Services, Vifor Pharma, and Wyeth.</p>
+<p>Sponsorship Statement: KDIGO is supported by a consortium of sponsors and no funding is accepted for the development of specific guidelines.</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Kidney Disease: Improving Global Outcomes (KDIGO) Lipid Management Work Group</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Work Group Co-Chairs</em>: Marcello A Tonelli, MD, SM, FRCPC, University of Alberta, Edmonton, Canada; Christoph Wanner, MD, University of W&uuml;rzburg, W&uuml;rzburg, Germany</p>
+<p><em>Work Group Members</em>: Alan Cass, MBBS, FRACP, PhD, Menzies School of Health Research, Darwin, Australia; Florian Kronenberg, MD, Innsbruck Medical University, Innsbruck, Austria; Amit X Garg, MD, FRCPC, FACP, PhD, London Health Sciences Centre, London, Canada; Rulan S Parekh, MD, MS, FRCPC, FASN, Hospital for Sick Children, Toronto, Canada; Hallvard Holdaas, MD, PhD, Hospital Rikshospitalet, Oslo, Norway; Tetsuo Shoji, MD, PhD, Osaka City University, Osaka, Japan; Alan G Jardine, MBChB, MD, FRCP, BHF Cardiovascular Research Centre, Glasgow, United Kingdom; Robert J Walker, MBChB, MD (Otago), FRACP, FASN, FAHA, University of Otago, Dunedin, New Zealand; Lixin Jiang, MD, PhD, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China</p>
+<p><em>Evidence Review Team</em>: Tufts Center for Kidney Disease Guideline Development and Implementation, Tufts Medical Center, Boston, MA, USA: Ashish Upadhyay, MD, Project Director; Ethan M Balk, MD, MPH, Program Director, Evidence Based Medicine; Amy Earley, BS, Project Coordinator; Shana Haynes, MS, DHSc, Research Assistant; Jenny Lamont, MS, Project Manager</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>Kidney Disease: Improving Global Outcomes (KDIGO) makes every effort to avoid any actual or reasonably perceived conflicts of interest that may arise as a result of an outside relationship or a personal, professional, or business interest of a member of the Work Group. All members of the Work Group are required to complete, sign, and submit a disclosure and attestation form showing all such relationships that might be perceived as or are actual conflicts of interest. This document is updated annually and information is adjusted accordingly. All reported information is published in its entirely at the end of this document in the Work Group members' Biographic and Disclosure Section, and is kept on file at KDIGO.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712205519/https://www.guideline.gov/Home/Disclaimer?id=47699&amp;contentType=summary&amp;redirect=http%3a%2f%2fkdigo.org%2fguidelines%2flipids-in-ckd%2f" title="Kidney Disease: Improving Global Outcomes Web site">Kidney Disease: Improving Global Outcomes Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205519im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>KDIGO clinical practice guideline for lipid management in chronic kidney disease. Appendices 1 &amp; 2. Brussels (Belgium): Kidney Disease: Improving Global Outcomes; 2013 Nov. 8 p. Available from the <a href="/web/20180712205519/https://www.guideline.gov/Home/Disclaimer?id=47699&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.kdigo.org%2fclinical_practice_guidelines%2fLipids%2fKDIGO%2520Lipid%2520GL%2520Appendices%25201%2520%26%25202.pdf" title="Kidney Disease: Improving Global Outcomes (KDIGO) Web site">Kidney Disease: Improving Global Outcomes (KDIGO) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205519im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>KDIGO clinical practice guideline for lipid management in chronic kidney disease. Supplemental tables. Brussels (Belgium): Kidney Disease: Improving Global Outcomes; 2013 Nov. 83 p. Available from the <a href="/web/20180712205519/https://www.guideline.gov/Home/Disclaimer?id=47699&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.kdigo.org%2fclinical_practice_guidelines%2fLipids%2fKDIGO%2520Lipid%2520GL%2520Suppl%2520Tables%2520Nov%25202013.pdf" title="Kidney Disease: Improving Global Outcomes (KDIGO) Web site">KDIGO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205519im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Methods for development of KDIGO clinical practice guidelines. Brussels (Belgium): Kidney Disease: Improving Global Outcomes. </li>
+</ul>
+<p>In addition, audit criteria are available in each chapter of the original guideline document. Translations of the guideline executive summary are available in Mandarin, German, and Russian from the <a href="/web/20180712205519/https://www.guideline.gov/Home/Disclaimer?id=47699&amp;contentType=summary&amp;redirect=http%3a%2f%2fkdigo.org%2fguidelines%2flipids-in-ckd%2f" title="KDIGO) Web site">KDIGO Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205519im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on April 11, 2014.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>Copyright &copy; 2013 by KDIGO. All rights reserved.</p>
+<p>Single photocopies may be made for personal use as allowed by national copyright laws. Special rates are available for educational institutions that wish to make photocopies for non-profit educational use. No part of this publication may be reproduced, amended, or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording, or any information storage and retrieval system, without explicit permission in writing from KDIGO. Details on how to seek permission for reproduction or translation, and further information about KDIGO's permissions policies can be obtained by contacting Danielle Green, Managing Director, at <a href="https://web.archive.org/web/20180712205519/mailto:danielle.green@kdigo.org">danielle.green@kdigo.org</a>.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712205519/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712205519/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712205519/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712205519/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712205519/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712205519/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712205519/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205519/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205519/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205519/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205519/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205519/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712205519/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712205519/https://www.guideline.gov/disclaimer?id=47699&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712205519im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712205519im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712205519/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712205519/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712205519/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712205519/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712205519/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712205519/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712205519/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712205519/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712205519/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712205519/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712205519/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712205519/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712205519/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712205519/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712205519/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712205519/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712205519/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712205519/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712205519/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712205519im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712205519im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712205519/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712205519im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712205519im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712205519/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712205519js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712205519js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:55:19 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:59:35 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 484.876 (3)
+  esindex: 0.012
+  captures_list: 513.017
+  CDXLines.iter: 14.746 (3)
+  PetaboxLoader3.datanode: 484.169 (4)
+  exclusion.robots: 0.268
+  exclusion.robots.policy: 0.252
+  RedisCDXSource: 8.819
+  load_resource: 44.199
+-->

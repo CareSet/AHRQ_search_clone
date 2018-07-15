@@ -1,0 +1,1487 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app57.us.archive.org';v.server_ms=240;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>British HIV Association guidelines for the management of hepatitis viruses in adults infected with HIV 2013. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712184631im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712184631im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712184631im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712184631im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712184631/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712184631im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712184631cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712184631js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712184631if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712184631/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712184631if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712184631/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712184631/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712184631/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712184631/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712184631im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712184631im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712184631im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712184631/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712184631/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712184631/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712184631/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712184631/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712184631/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712184631/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712184631/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712184631/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712184631/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712184631/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712184631/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712184631/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712184631/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712184631/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712184631/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712184631/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712184631/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712184631/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712184631/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712184631/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010199</li>
+            <li>2010 (revised 2013 Nov)
+            </li>            
+                            <li>
+                    <div class="flag-box">Multiple Chronic Conditions<span class="mcc"></span></div>
+                    <a class="icon-info" href="/web/20180712184631/https://www.guideline.gov/help-and-about/summaries/about-multiple-chronic-condition-mcc-guidelines"><span class="screen-reader-text">Learn More About Multiple Chronic Conditions</span></a>
+                </li>    
+                    </ul>
+        <div>
+                <h1>British HIV Association guidelines for the management of hepatitis viruses in adults infected with HIV 2013.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712184631/https://www.guideline.gov/search?f_Guideline_Developer_String=British%20HIV%20Association&amp;fLockTerm=British%2BHIV%2BAssociation">British HIV Association</a></li>
+                        <li>   
+                                <a id="2170" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Wilkins E, Nelson M, Agarwal K, Awoyemi D, Barnes E, Bhagani S, Brook G, Brown A, Castelino S, Cooke G, Fisher M, Geretti AM, James R, Kulasegaram R, Leen C, Mutimer D, Orkin C, Page E, Palfreeman A, Papineni P, Rodger A, Tong CY. British HIV Association guidelines for the management of hepatitis viruses in adults infected with HIV 2013. HIV Med. 2013 Nov;14(Suppl 4):1-71. [413 references] <a href="https://web.archive.org/web/20180712184631/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24581304" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712184631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712184631/https://www.guideline.gov/Home/Disclaimer?id=47758&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.bhiva.org%252fdocuments%252fGuidelines%252fHepatitis%252f2013%252fHepatitisGuidelines2013.pdf">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Brook G, Main J, Nelson M et al. for the BHIVA Viral Hepatitis Working Group. British HIV Association guidelines for the management of coinfection with HIV-1 and hepatitis B or C virus 2010. HIV Med 2010;11:1&ndash;30.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712184631/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712184631/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712184631/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712184631/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712184631/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">HCPCS</h5>
+                    <div class="field-content">
+<a href="/web/20180712184631/https://www.guideline.gov/search?f_HCPCS_CUI=C0025355&amp;fLockTerm=Mental+health+services%2c+not+otherwise+specified">Mental health services, not otherwise specified</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712184631/https://www.guideline.gov/search?f_ICD9CM_CUI=C0004933&amp;fLockTerm=Behavior+therapy">Behavior therapy</a>
+ (94.33), <a href="/web/20180712184631/https://www.guideline.gov/search?f_ICD9CM_CUI=C0019693&amp;fLockTerm=Human+immunodeficiency+virus+%5bHIV%5d+disease">Human immunodeficiency virus [HIV] disease</a>
+ (042), <a href="/web/20180712184631/https://www.guideline.gov/search?f_ICD9CM_CUI=C0023895&amp;fLockTerm=Unspecified+disorder+of+liver">Unspecified disorder of liver</a>
+ (573.9), <a href="/web/20180712184631/https://www.guideline.gov/search?f_ICD9CM_CUI=C1456263&amp;fLockTerm=Unspecified+viral+hepatitis+C+without+hepatic+coma">Unspecified viral hepatitis C without hepatic coma</a>
+ (070.70), <a href="/web/20180712184631/https://www.guideline.gov/search?f_ICD9CM_CUI=C1290810&amp;fLockTerm=Viral+hepatitis+A+without+mention+of+hepatic+coma">Viral hepatitis A without mention of hepatic coma</a>
+ (070.1), <a href="/web/20180712184631/https://www.guideline.gov/search?f_ICD9CM_CUI=C0375004&amp;fLockTerm=Viral+hepatitis+B+without+mention+of+hepatic+coma%2c+acute+or+unspecified%2c+without+mention+of+hepatitis+delta">Viral hepatitis B without mention of hepatic coma, acute or unspecified, without mention of hepatitis delta</a>
+ (070.30)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0001407&amp;fLockTerm=Adenine">Adenine</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0376565&amp;fLockTerm=Anti-HIV+Agents">Anti-HIV Agents</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0599685&amp;fLockTerm=Anti-Retroviral+Agents">Anti-Retroviral Agents</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0887947&amp;fLockTerm=Antiretroviral+Therapy%2c+Highly+Active">Antiretroviral Therapy, Highly Active</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0003451&amp;fLockTerm=Antiviral+Agents">Antiviral Agents</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0004933&amp;fLockTerm=Behavior+Therapy">Behavior Therapy</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0275524&amp;fLockTerm=Coinfection">Coinfection</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0009475&amp;fLockTerm=Community+Mental+Health+Services">Community Mental Health Services</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0010210&amp;fLockTerm=Counseling">Counseling</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0010568&amp;fLockTerm=Cyclohexanes">Cyclohexanes</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0011485&amp;fLockTerm=Deoxycytidine">Deoxycytidine</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0012136&amp;fLockTerm=Dideoxynucleosides">Dideoxynucleosides</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C1955928&amp;fLockTerm=Elasticity+Imaging+Techniques">Elasticity Imaging Techniques</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0909839&amp;fLockTerm=Emtricitabine">Emtricitabine</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0016059&amp;fLockTerm=Fibrosis">Fibrosis</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0019159&amp;fLockTerm=Hepatitis+A">Hepatitis A</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0170300&amp;fLockTerm=Hepatitis+A+Vaccines">Hepatitis A Vaccines</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0019163&amp;fLockTerm=Hepatitis+B">Hepatitis B</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C2240392&amp;fLockTerm=Hepatitis+B+Vaccines">Hepatitis B Vaccines</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0019196&amp;fLockTerm=Hepatitis+C">Hepatitis C</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0019693&amp;fLockTerm=HIV+Infections">HIV Infections</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0021747&amp;fLockTerm=Interferons">Interferons</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0209738&amp;fLockTerm=Lamivudine">Lamivudine</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0023895&amp;fLockTerm=Liver+Diseases">Liver Diseases</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0025355&amp;fLockTerm=Mental+Health+Services">Mental Health Services</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0028131&amp;fLockTerm=Nitriles">Nitriles</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C2599894&amp;fLockTerm=Organophosphonates">Organophosphonates</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0030699&amp;fLockTerm=Patient+Participation">Patient Participation</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0033382&amp;fLockTerm=Proline">Proline</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0034250&amp;fLockTerm=Pyridazines">Pyridazines</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0034289&amp;fLockTerm=Pyrimidines">Pyrimidines</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0034328&amp;fLockTerm=Pyrrolidinones">Pyrrolidinones</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0034928&amp;fLockTerm=Referral+and+Consultation">Referral and Consultation</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0035525&amp;fLockTerm=Ribavirin">Ribavirin</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0040880&amp;fLockTerm=Triazoles">Triazoles</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MSH_CUI=C0042723&amp;fLockTerm=Viral+Hepatitis+Vaccines">Viral Hepatitis Vaccines</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0663655&amp;fLockTerm=abacavir">abacavir</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0001407&amp;fLockTerm=Adenine">Adenine</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0003451&amp;fLockTerm=Antiviral+Agents">Antiviral Agents</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C1738934&amp;fLockTerm=boceprevir">boceprevir</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0275524&amp;fLockTerm=Coinfection">Coinfection</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0010210&amp;fLockTerm=Counseling">Counseling</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0010568&amp;fLockTerm=Cyclohexanes">Cyclohexanes</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0011485&amp;fLockTerm=Deoxycytidine">Deoxycytidine</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0909839&amp;fLockTerm=emtricitabine">emtricitabine</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C1456409&amp;fLockTerm=etravirine">etravirine</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0016059&amp;fLockTerm=Fibrosis">Fibrosis</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0019159&amp;fLockTerm=Hepatitis+A">Hepatitis A</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0170300&amp;fLockTerm=Hepatitis+A+Vaccines">Hepatitis A Vaccines</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0019163&amp;fLockTerm=Hepatitis+B">Hepatitis B</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C2240392&amp;fLockTerm=Hepatitis+B+Vaccines">Hepatitis B Vaccines</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0019196&amp;fLockTerm=Hepatitis+C">Hepatitis C</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0019693&amp;fLockTerm=HIV+Infections">HIV Infections</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0021747&amp;fLockTerm=Interferons">Interferons</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0209738&amp;fLockTerm=Lamivudine">Lamivudine</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0023895&amp;fLockTerm=Liver+diseases">Liver diseases</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0030695&amp;fLockTerm=Patient+Monitoring">Patient Monitoring</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0033382&amp;fLockTerm=Proline">Proline</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0034289&amp;fLockTerm=Pyrimidines">Pyrimidines</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0034328&amp;fLockTerm=Pyrrolidinones">Pyrrolidinones</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C1871526&amp;fLockTerm=raltegravir">raltegravir</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C0035525&amp;fLockTerm=Ribavirin">Ribavirin</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_MTH_CUI=C1099776&amp;fLockTerm=Tenofovir+disoproxil+fumarate">Tenofovir disoproxil fumarate</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712184631/https://www.guideline.gov/search?f_PDQ_CUI=C0011485&amp;fLockTerm=deoxycytidine">deoxycytidine</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_PDQ_CUI=C0209738&amp;fLockTerm=lamivudine">lamivudine</a>
+, <a href="/web/20180712184631/https://www.guideline.gov/search?f_PDQ_CUI=C0035525&amp;fLockTerm=ribavirin">ribavirin</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0663655&amp;fLockTerm=Abacavir">Abacavir</a>
+ (116084008), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0663655&amp;fLockTerm=Abacavir">Abacavir</a>
+ (387005008), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0001407&amp;fLockTerm=Adenine">Adenine</a>
+ (70203000), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0599685&amp;fLockTerm=Antiretroviral+agent">Antiretroviral agent</a>
+ (713540004), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003451&amp;fLockTerm=Antiviral+agent">Antiviral agent</a>
+ (32249005), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003451&amp;fLockTerm=Antiviral+agent">Antiviral agent</a>
+ (372701006), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0004933&amp;fLockTerm=Behavioral+therapy">Behavioral therapy</a>
+ (166001), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1738934&amp;fLockTerm=Boceprevir">Boceprevir</a>
+ (698183007), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1738934&amp;fLockTerm=Boceprevir">Boceprevir</a>
+ (703961009), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030699&amp;fLockTerm=Client+participation">Client participation</a>
+ (225330006), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0010210&amp;fLockTerm=Counseling">Counseling</a>
+ (129441002), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0010210&amp;fLockTerm=Counseling">Counseling</a>
+ (409063005), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0023895&amp;fLockTerm=Disease+of+liver">Disease of liver</a>
+ (235856003), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0909839&amp;fLockTerm=Emtricitabine">Emtricitabine</a>
+ (404855005), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0909839&amp;fLockTerm=Emtricitabine">Emtricitabine</a>
+ (404856006), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1456409&amp;fLockTerm=Etravirine">Etravirine</a>
+ (432121008), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1456409&amp;fLockTerm=Etravirine">Etravirine</a>
+ (432221004), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0016059&amp;fLockTerm=Fibrosis">Fibrosis</a>
+ (112674009), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0016059&amp;fLockTerm=Fibrosis">Fibrosis</a>
+ (263756000), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0239946&amp;fLockTerm=Hepatic+fibrosis">Hepatic fibrosis</a>
+ (62484002), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0430421&amp;fLockTerm=Hepatitis+A+antigen+screening">Hepatitis A antigen screening</a>
+ (252404004), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1278302&amp;fLockTerm=Hepatitis+B+screening+test">Hepatitis B screening test</a>
+ (171122006), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1278302&amp;fLockTerm=Hepatitis+B+screening+test">Hepatitis B screening test</a>
+ (314099008), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0948769&amp;fLockTerm=Hepatitis+C+screening">Hepatitis C screening</a>
+ (413107006), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1273308&amp;fLockTerm=Hepatitis+immunity+test">Hepatitis immunity test</a>
+ (395160003), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019196&amp;fLockTerm=Hepatitis+non-A+non-B">Hepatitis non-A non-B</a>
+ (186634008), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019196&amp;fLockTerm=Hepatitis+non-A+non-B">Hepatitis non-A non-B</a>
+ (50711007), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0887947&amp;fLockTerm=Highly+active+anti-retroviral+therapy">Highly active anti-retroviral therapy</a>
+ (416234007), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019693&amp;fLockTerm=Human+immunodeficiency+virus+infection">Human immunodeficiency virus infection</a>
+ (86406008), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0021747&amp;fLockTerm=Interferon">Interferon</a>
+ (49327004), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0209738&amp;fLockTerm=Lamivudine">Lamivudine</a>
+ (108698001), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0209738&amp;fLockTerm=Lamivudine">Lamivudine</a>
+ (386897000), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1667052&amp;fLockTerm=Maraviroc">Maraviroc</a>
+ (427805000), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1667052&amp;fLockTerm=Maraviroc">Maraviroc</a>
+ (429603001), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0025355&amp;fLockTerm=Mental+health+service">Mental health service</a>
+ (708168004), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0275524&amp;fLockTerm=Mixed+infectious+disease">Mixed infectious disease</a>
+ (4559000), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030695&amp;fLockTerm=Monitoring+of+patient">Monitoring of patient</a>
+ (182777000), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0028131&amp;fLockTerm=Nitrile">Nitrile</a>
+ (300066007), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0033382&amp;fLockTerm=Proline">Proline</a>
+ (52541003), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0034289&amp;fLockTerm=Pyrimidine">Pyrimidine</a>
+ (7321000), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1871526&amp;fLockTerm=Raltegravir">Raltegravir</a>
+ (429368003), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1871526&amp;fLockTerm=Raltegravir">Raltegravir</a>
+ (429707008), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0035525&amp;fLockTerm=Ribavirin">Ribavirin</a>
+ (35063004), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0035525&amp;fLockTerm=Ribavirin">Ribavirin</a>
+ (387188005), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1099776&amp;fLockTerm=Tenofovir+disoproxil+fumarate">Tenofovir disoproxil fumarate</a>
+ (385556006), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040880&amp;fLockTerm=Triazole">Triazole</a>
+ (426233002), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019163&amp;fLockTerm=Type+B+viral+hepatitis">Type B viral hepatitis</a>
+ (66071002), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1290810&amp;fLockTerm=Viral+hepatitis+A+without+hepatic+coma">Viral hepatitis A without hepatic coma</a>
+ (111879004), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1445958&amp;fLockTerm=Viral+hepatitis+screening+test">Viral hepatitis screening test</a>
+ (412809002), <a href="/web/20180712184631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0019159&amp;fLockTerm=Viral+hepatitis%2c+type+A">Viral hepatitis, type A</a>
+ (40468003)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#430" class="section-mark">Contraindications</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712184631/https://www.guideline.gov/summaries/downloadcontent/ngc-10199?contentType=pdf" class="pdf">.PDF 143.8 kb</a></li>
+                            <li><a href="/web/20180712184631/https://www.guideline.gov/summaries/downloadcontent/ngc-10199?contentType=word" class="word">Word Document 355.1 kb</a></li>
+                            <li><a href="/web/20180712184631/https://www.guideline.gov/summaries/downloadcontent/ngc-10199?contentType=xml" class="xml">.XML 95.3 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712184631/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/47758/british-hiv-association-guidelines-for-the-management-of-hepatitis-viruses-in-adults-infected-with-hiv-2013" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712184631/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/47758/british-hiv-association-guidelines-for-the-management-of-hepatitis-viruses-in-adults-infected-with-hiv-2013" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712184631/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/47758/british-hiv-association-guidelines-for-the-management-of-hepatitis-viruses-in-adults-infected-with-hiv-2013&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712184631/mailto:/?Subject=AHRQ: British HIV Association guidelines for the management of hepatitis viruses in adults infected with HIV 2013.&amp;body=https://www.guideline.gov/summaries/summary/47758/british-hiv-association-guidelines-for-the-management-of-hepatitis-viruses-in-adults-infected-with-hiv-2013" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: British HIV Association guidelines for the management of hepatitis viruses in adults infected with HIV 2013. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2013 Jan 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712184631/https://www.guideline.gov/summaries/citedownload/47758?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712184631/https://www.guideline.gov/summaries/citedownload/47758?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712184631/https://www.guideline.gov/summaries/citedownload/47758?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712184631/https://www.guideline.gov/summaries/citedownload/47758?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712184631/https://www.guideline.gov/summaries/citedownload/47758?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712184631/https://www.guideline.gov/summaries/citedownload/47758">RefWorks</a></li>
+                            <li><a href="/web/20180712184631/https://www.guideline.gov/summaries/citedownload/47758?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="47758" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>The quality of evidence (<strong>A&ndash;D</strong>) and grades of recommendation (<strong>1, 2, good practice point [GPP]</strong>) are defined at the end of the "Major Recommendations" field.</p>
+<p><strong><span style="text-decoration: underline;">Patient Involvement in Care</span></strong></p>
+<p><strong>Good Practice Points</strong></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends all adults with viral hepatitis and human immunodeficiency virus (HIV) infection are given the opportunity to be actively involved in making decisions about their treatment. </li>
+    <li>The Writing Group recommends all adults with viral hepatitis and HIV infection should have access to psychosocial support at all times. </li>
+    <li>The Writing Group recommends provision of treatment-support resources should include in-house, independent and community information providers and peer-support resources. </li>
+    <li>The Writing Group recommends that all adults with viral hepatitis and HIV infection are offered a copy of the clinic letters and are encouraged to discuss their diagnosis and care with their primary care physician. </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Screening, Prevention and Immunisation</span></strong></p>
+<p><strong>Screening Investigations at Diagnosis</strong></p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends patients with HIV infection should be screened at diagnosis for immunity against hepatitis A (<strong>1A</strong>). </li>
+    <li>The Writing Group recommends patients with HIV infection should be screened at diagnosis for hepatitis B using hepatitis B surface antigen (HBsAg) and hepatitis B core antibody (anti-HBc) (<strong>1B</strong>) and for hepatitis B virus (HBV) immunity using anti-HBs. </li>
+    <li>The Writing Group recommends individuals who are HBsAg negative or have no evidence of protective vaccine-induced immunity should have an annual HBsAg test or more frequent testing if there are known and ongoing risk factors for HBV acquisition (<strong>1B</strong>). </li>
+    <li>The Writing Group suggests patients with isolated anti-HBc (negative HBsAg and anti-HBs) and unexplained elevated transaminases should have HBV deoxyribonucleic acid (DNA) performed to exclude the presence of occult HBV infection (<strong>2C</strong>). </li>
+    <li>The Writing Group suggests testing patients for HBV DNA when transaminases are persistently raised and all other tests (including HBsAg, hepatitis C virus [HCV] ribonucleic acid [RNA] and anti-hepatitis E virus [anti-HEV]) are negative to exclude occult HBV infection (<strong>2C</strong>). </li>
+    <li>The Writing Group recommends hepatitis D virus (HDV) antibody (with HDV RNA if positive) should be performed on all HBsAg-positive individuals (<strong>1B</strong>). </li>
+    <li>The Writing Group recommends patients have an HCV antibody test when first tested HIV antibody-positive and at least annually if they do not fall into one of the risk groups that require increased frequency of testing (<strong>1C</strong>) (see Section 8 in the original guideline document). </li>
+    <li>The Writing Group recommends patients with HIV infection who have elevated transaminases of unknown cause have an HCV-polymerase chain reaction (PCR) test (<strong>1A</strong>). </li>
+    <li>The Writing Group recommends all patients who are anti-HCV positive are tested for HCV-PCR and, if positive, genotype (<strong>1B</strong>). </li>
+    <li>The Writing Group suggests that interleukin 28B (<em>IL28B</em>) genotyping need not be performed routinely when considering anti-HCV therapy in HCV/HIV infection (<strong>2C</strong>). </li>
+    <li>The Writing Group recommends individuals who achieved sustained virological response (SVR) following treatment or who have spontaneously cleared HCV infection should be offered annual HCV-PCR and more frequent testing should they have an unexplained rise in transaminase levels (<strong>1C</strong>) (see Section 8 in the original guideline document). </li>
+    <li>The Writing Group recommends HEV is excluded in patients with HIV infection and elevated liver transaminases and/or liver cirrhosis when other common causes of elevated transaminases have been excluded (<strong>1D</strong>). </li>
+</ul>
+<p><em>Good Practice Points</em></p>
+<p><span style="text-decoration: underline;">Counselling on Behaviour Modification</span></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends all patients should be counselled about using condoms for penetrative sex. </li>
+    <li>The Writing Group recommends information should be given on factors associated with HCV transmission to patients at HIV diagnosis and on an ongoing basis dependent on risk. </li>
+    <li>The Writing Group recommends risk reduction advice and education be given to patients diagnosed with HBV and HCV, and should incorporate information about potential risk factors for transmission. For HCV, this should include mucosally traumatic sexual practices (e.g., fisting, use of sex toys), group sex activities, recreational including intravenous drug use, and condomless anal intercourse, as well as advice to those sharing injecting drug equipment. </li>
+</ul>
+<p><strong>Assessment of Liver Disease</strong></p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends staging of liver disease should be performed in those with chronic HCV/HIV and HBV/HIV infections (<strong>1B</strong>). </li>
+    <li>The Writing Group suggests in patients with chronic hepatitis/HIV infection a non-invasive test as the staging investigation of choice (<strong>2B</strong>). </li>
+    <li>The Writing Group suggests hepatic transient elastography (TE) (FibroScan&trade; or Acoustic Radiation Force Impulse [ARFI]) as the non-invasive investigation of choice (<strong>2B</strong>) but if unavailable, or when reliable TE readings are not obtained, a blood panel test (aspartate transaminase to platelet ratio index [APRI], FIB-4, enhanced liver fibrosis [ELF], Fibrometer&trade;, Forns Index, FibroTest&trade;) as an alternative (<strong>2C</strong>). </li>
+    <li>The Writing Group recommends in chronically infected viral hepatitis/HIV patients, TE readings suggestive of cirrhosis (Metavir &gt;F4) using recommended disease-specific cut-offs (using FibroScan&trade; these are &gt;11.0 kPa for HBV, &gt;14.5 kPa for HCV), should lead to appropriate monitoring for complications of portal hypertension and hepatocellular carcinoma (HCC) screening (<strong>1B</strong>). </li>
+    <li>The Writing Group recommends in HCV/HIV viraemic patients, repeated fibrosis assessments using TE, or if unavailable an alternative non-invasive blood panel test, should be performed at least annually (<strong>1D</strong>). </li>
+</ul>
+<p><em>Good Practice Point</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends when the aetiology of underlying liver disease is in doubt, or where factors other than viral hepatitis are likely to have influenced liver disease progression and may be important to address, or there is discordance between non-invasive markers or uncertainty as to their interpretation, liver biopsy is the investigation of choice for assessment. </li>
+</ul>
+<p><strong>Immunisation</strong></p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends all non-immune HIV-infected individuals are immunised against hepatitis A virus (HAV) and HBV (<strong>1A</strong>). </li>
+    <li>The Writing Group recommends the 40 &mu;g (double dose) strength of HBV vaccine should be used in HIV-infected patients (<strong>1A</strong>) and given at months 0, 1, 2 and 6 (<strong>1B</strong>). </li>
+    <li>The Writing Group suggests an accelerated vaccination schedule (3 single [20 &mu;g] doses given over 3 weeks at 0, 7&ndash;10 and 21 days) be considered only in selected patients with cluster of differentiation 4 (CD4) counts &gt;500 cells/&mu;L where there is an imperative need to ensure rapid completion of vaccination and/or where compliance with a full course is doubtful (<strong>2B</strong>). </li>
+    <li>The Writing Group recommends anti-HBs levels should be measured 4 to 8 weeks after the last vaccine dose (<strong>1B</strong>). Vaccine recipients with anti-HBs &lt;10 IU/L should be offered three further 40 &mu;g doses of vaccine, given at monthly intervals with retesting of anti-HBs recommended 4 to 8 weeks after the final vaccine dose (<strong>2B</strong>). </li>
+    <li>The Writing Group suggests vaccine recipients with an anti-HBs response &gt;10 but &lt;100 IU/L should be offered 1 additional 40 &mu;g dose of vaccine and the response checked 4 to 8 weeks later (<strong>2B</strong>). </li>
+    <li>The Writing Group recommends a booster (40 &mu;g) dose of vaccine should be offered to those whose anti-HBs levels have declined to &lt;10 IU/L (<strong>1C</strong>). </li>
+</ul>
+<p><em>Good Practice Points</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends patients who are unable to develop an antibody response to vaccine or in whom anti-HBs levels have fallen &lt;10 IU/L continue to be screened for HBsAg as there remains a risk of infection. </li>
+    <li>The Writing Group recommends following successful immunisation, the anti-HBs level should be measured regularly. The frequency of screening for anti-HBs should be guided by the anti-HBs level measured after vaccination: every year for levels between 10 IU/L and 100 IU/L and every 2 years for higher levels. </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Antiretroviral Therapy</span></strong></p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends antiretroviral (ARV) choice should take into consideration pre-existing liver disease but antiretroviral therapy (ART) should not be delayed because of a risk of drug-induced liver injury (<strong>1B</strong>). </li>
+    <li>The Writing Group suggests ART should be used with close monitoring in patients with end-stage liver disease (ESLD) (Child-Pugh B/C) and consideration given to performing plasma level monitoring of ART agents (<strong>2C</strong>), particularly for the case where ritonavir-boosted protease inhibitors (PIs) and non-nucleoside reverse transcriptase inhibitors (NNRTIs) are used. </li>
+    <li>The Writing Group suggests when abacavir is prescribed with ribavirin, the ribavirin should be weight-based dose-adjusted (<strong>2C</strong>). </li>
+</ul>
+<p><em>Good Practice Points</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends initiation of ART be considered in all viral hepatitis co-infected patients irrespective of CD4 cell count. </li>
+    <li>The Writing Group recommends patients should have baseline transaminases checked before initiating a new ARV and that this is followed by routine monitoring after 1 month, and then every 3 to 6 months. </li>
+    <li>The Writing Group recommends where directly acting antivirals (DAAs) are used for the treatment of HCV, careful consideration be given to potential drug&ndash;drug interactions (DDIs). </li>
+    <li>The Writing Group recommends ART should be discontinued if grade 4 hepatotoxicity (transaminases &gt;10 times upper limit of normal) develops, even if the patient is asymptomatic. </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Hepatitis B (HBV)</span></strong></p>
+<p><strong>HBV Resistance, Genotype Testing and Treatment Response</strong></p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends against HBV resistance testing at baseline in those previously unexposed to antivirals (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends, where feasible, HBV resistance testing at baseline in those with detectable HBV DNA and previously exposed to antiviral drugs with anti-HBV activity if not on treatment, where there is primary non-response or partial response to HBV-active antivirals, or where there is virological breakthrough (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends against a change in HBV-specific therapy in those whose viraemia continues to show improving response to treatment after 48 weeks (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends against testing for HBV genotype as an investigation to determine initial treatment (<strong>1C</strong>). </li>
+</ul>
+<p><em>Good Practice Point</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends adherence is discussed with all patients with HBV viraemia receiving antivirals. </li>
+</ul>
+<p><strong>Thresholds for ART Treatment</strong></p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends all those with an HBV DNA &ge;2000 IU/mL should be treated, regardless of fibrosis score (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends all those with more than minimal fibrosis on liver biopsy (Metavir &ge;F2 or Ishak &ge;S2) or indicative of &ge;F2 by TE (FibroScan &ge;9.0 kPa) should be treated, regardless of HBV-DNA level (<strong>1C</strong>) (see Section 4 in the original guideline document). </li>
+    <li>The Writing Group suggests those with a CD4 &ge;500 cells/&mu;L, an HBV DNA of &lt;2000 IU/mL, minimal or no evidence of fibrosis (Metavir &le;F1 or Ishak &le;S1 or FibroScan &lt;6.0 kPa) and a repeatedly normal alanine transaminase (ALT) should be given the option to commence treatment or to be monitored not less than 6-monthly with HBV DNA and ALT and at least yearly for evidence of fibrosis (<strong>2C</strong>). </li>
+    <li>The Writing Group recommends all patients with a CD4 &lt;500 cells/&mu;L are treated with fully suppressive ART inclusive of anti-HBV-active antivirals (<strong>1B</strong>). </li>
+</ul>
+<p><em>Good Practice Points</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends at least 2 baseline HBV DNA measurements are obtained 3 to 6 months apart to guide initiation of therapy. </li>
+    <li>The Writing Group recommends 6-monthly HBV DNA measurements for routine monitoring of therapy. </li>
+    <li>The Writing Group recommends that an ALT level below the upper limit of normal should not be used to exclude fibrosis or as a reason to defer HBV therapy. Normal levels of ALT should be considered as 30 IU/L for men and 19 IU/L for women. </li>
+</ul>
+<p><strong>Antiviral Treatment: CD4 Count &ge;500 cells/&mu;L</strong> (see Algorithm 1 in the original guideline document)</p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends tenofovir disoproxil fumarate/emtricitabine (TDF/FTC) as part of a fully suppressive ART combination should be given to all patients where HBV treatment is deemed necessary (<strong>1C</strong>). </li>
+    <li>The Writing Group suggests adefovir or 48 weeks of pegylated interferon (PEG-IFN) are alternative options in patients unwilling or unable to receive TDF/FTC as part of a fully suppressive ART combination but requiring HBV therapy (<strong>2C</strong>). </li>
+    <li>The Writing Group suggests PEG-IFN is only used in HBsAg-positive patients with a repeatedly raised ALT, low HBV DNA (&lt;2 &times; 10<sup>6</sup> IU/mL), and minimal fibrosis, irrespective of HBeAg antigen status (<strong>2D</strong>). Lack of HBV DNA response (reduction to &lt;2000 IU/mL at 12 weeks) should prompt discontinuation. Repeat testing should be performed 3-monthly to observe the presence of seroconversion (<strong>2C</strong>). </li>
+</ul>
+<p><strong>Antiviral Treatment: CD4 Count &lt;500 cells/&mu;L</strong> (see Algorithm 2 in the original guideline document)</p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends TDF/FTC or tenofovir disoproxil fumarate/lamivudine (2', 3'-dideoxy-3'-thiacytidine) (TDF/3TC) as part of a fully suppressive combination ART regimen be used in those with confirmed or presumed sensitive HBV (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends where TDF is not currently being given as a component of ART it should be added or substituted for another agent within the regimen if there is no contraindication (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends neither 3TC nor FTC be used as the sole active drug against HBV in ART due to the rapid emergence of HBV resistant to these agents (<strong>1B</strong>). </li>
+    <li>The Writing Group recommends 3TC/FTC may be omitted from the ARV regimen and TDF be given as the sole anti-HBV active agent if there is clinical or genotypic evidence of 3TC/FTC-resistant HBV or HIV (<strong>1D</strong>). </li>
+    <li>The Writing Group recommends that in the presence of wild-type HBV, either FTC or 3TC can be given to patients requiring ART in combination with TDF (<strong>1B</strong>). </li>
+</ul>
+<p><em>Good Practice Points</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends if patients on suppressive anti-HBV therapy require a switch in their ARVs due to HIV resistance to TDF and/or 3TC/FTC, their active anti-HBV therapy (TDF with or without 3TC/FTC) should be continued and suitable anti-HIV agents added. </li>
+    <li>The Writing Group recommends if tenofovir is contraindicated, entecavir should be used if retaining activity. Entecavir should only be used in addition to a fully suppressive combination ART regimen. </li>
+</ul>
+<p><strong>Antiviral Treatment: Acute HBV</strong></p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends individuals with severe/fulminant acute HBV in the context of HIV should be treated with nucleosides active against hepatitis B (<strong>1D</strong>). </li>
+    <li>The Writing Group recommends patients with severe/fulminant acute HBV receive ART inclusive of TDF and 3TC or FTC, or entecavir given with ART (<strong>1D</strong>). </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Hepatitis Delta (HDV)</span></strong></p>
+<p><strong>Recommendations</strong></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends all HBsAg-positive patients are tested for HDV antibody (<strong>1B</strong>). </li>
+    <li>The Writing Group suggests repeat testing for HDV-seronegative HBsAg-positive patients is required only if the patient has persistent risk factors (<strong>2D</strong>). </li>
+    <li>The Writing Group recommends all HDV-seropositive individuals should be tested for HDV RNA (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends all HIV/HBV/HDV-infected patients with detectable HBV DNA be treated with TDF as part of, or in addition to, ART (<strong>1D</strong>). </li>
+</ul>
+<p><em>Good Practice Point</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends all those with HDV RNA be considered for early treatment by a physician with experience in this condition. </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Hepatitis C (HCV)</span></strong></p>
+<p><strong>Diagnosis of HCV After High-risk Exposure</strong></p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends patients who have raised transaminases or had recent high-risk exposure to an individual known to be HCV-positive are tested for anti-HCV and HCV-PCR (<strong>1D</strong>). When past spontaneous clearance or successful treatment has occurred HCV-PCR should be performed. </li>
+    <li>The Writing Group recommends the HCV-PCR should be repeated after 1 month if initially negative and if any potential exposure was &lt;1 month before the first test, or the transaminases remain abnormal with no known cause (<strong>1D</strong>). </li>
+</ul>
+<p><em>Good Practice Points</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends patients who have experienced a recent high-risk exposure (e.g., unprotected sex between men [especially in the context of concurrent sexually transmitted infection (STI), high-risk sexual practices, and recreational drug use] or shared injection drug equipment) but have normal transaminases are tested for anti-HCV, and this is repeated 3 months later. </li>
+    <li>The Writing Group recommends patients who have repeated high-risk exposures but persistently normal transaminases are screened with anti-HCV and HCV-PCR, or HCV-PCR alone if previously successfully treated for or spontaneously have cleared infection and are HCV antibody positive, at 3 to 6-monthly intervals. </li>
+</ul>
+<p><strong>Thresholds and Timing of Treatment</strong></p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends commencing ART when the CD4 count is &lt;500 cells/&mu;L in all patients who are not to commence anti-HCV treatment immediately (<strong>1B</strong>). </li>
+    <li>The Writing Group suggests commencing ART when the CD4 count is &gt;500 cells/&mu;L in all patients who are not to commence anti-HCV treatment immediately (<strong>2D</strong>). </li>
+</ul>
+<p><em>Good Practice Points</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends commencing ART to allow immune recovery before anti-HCV therapy is initiated when the CD4 count is less than 350 cells/&mu;L. </li>
+    <li>The Writing Group recommends commencing ART to optimise immune status before anti-HCV therapy is initiated when the CD4 count is 350&ndash;500 cells/&mu;L unless there is an urgent indication for anti-HCV treatment when ART should be commenced as soon as the patient has been stabilised on HCV therapy. </li>
+</ul>
+<p><strong>Choice of ART</strong></p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group suggests that if abacavir is to be used with ribavirin, the ribavirin should be weight-based dose-adjusted (<strong>2C</strong>). </li>
+    <li>The Writing Group recommends when DAAs are to be used there is careful consideration of possible DDIs (<strong>1C</strong>) and current or archived HIV resistance. All drug interactions should be checked with an expert source (e.g., <a href="/web/20180712184631/https://www.guideline.gov/Home/Disclaimer?id=47758&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.hiv-druginteractions.org" title="HIV Drug Interactions Web site">www.hiv-druginteractions.org</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>). </li>
+    <li>The Writing Group recommends if boceprevir is to be used, raltegravir (RAL) with TDF plus emtricitabine (FTC) should be the treatment of choice for those with wild-type HIV (<strong>1C</strong>): pharmacokinetic data would support etravirine, rilpivirine and maraviroc as alternatives. </li>
+    <li>The Writing Group recommends if telaprevir is to be used either RAL or standard-dose ritonavir-boosted atazanavir should be used (<strong>1C</strong>): pharmacokinetic data would support etravirine, rilpivirine and maraviroc as alternatives. Efavirenz may be used but the telaprevir dose needs to be increased to 1125 mg tds. </li>
+    <li>The Writing Group recommends that didanosine (ddI), stavudine (d4T) and zidovudine (ZDV) are avoided (<strong>1B</strong>). </li>
+</ul>
+<p><em>Good Practice Point</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends if patients are commencing ART and DAAs are not being considered, standard first-line ART should be commenced (see the National Guideline Clearinghouse [NGC] summary the British HIV Association [BHIVA] guideline <a href="/web/20180712184631/https://www.guideline.gov/content.aspx?id=50503" title="Guideline #11088" target="_blank">British HIV Association guidelines for the treatment of HIV-1-positive adults with antiretroviral therapy 2015 [2016 interim update]</a>). </li>
+</ul>
+<p><strong>Assessment and Investigation</strong></p>
+<p><em>Good Practice Points</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends all patients have a baseline fibrosis stage assessment. </li>
+    <li>The Writing Group recommends all patients should be managed by a clinician experienced in the management of both HIV and hepatitis C or should be jointly managed by clinicians from HIV and hepatitis backgrounds. </li>
+    <li>The Writing Group recommends all patients with HCV/HIV infection should be assessed for suitability for treatment of hepatitis C. </li>
+    <li>The Writing Group recommends consideration for referral to liaison psychiatry services for patients with pre-existing mental health problems prior to initiation of therapy and for patients with treatment-emergent psychiatric problems. </li>
+    <li>The Writing Group recommends individuals with dependency on alcohol and/or injection drug use are referred to the respective community services before initiation of therapy to minimise non-adherence with treatment. </li>
+    <li>The Writing Group recommends patients with advanced cirrhosis, low platelet counts and low albumin should be treated in centres experienced in managing patients with advanced disease and potential complications. </li>
+</ul>
+<p><strong>Antiviral Treatment: Genotype 1</strong></p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends where there is a current clinical need for treatment (i.e., Metavir F4/cirrhosis), or if the patient wishes to be treated, the standard of care should be with triple therapy consisting of PEG-IFN, ribavirin, and either telaprevir or boceprevir (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends 48 weeks of total treatment with a telaprevir- or boceprevir-based regimen for patients who do not have cirrhosis (<strong>1C</strong>). </li>
+</ul>
+<p><em>Good Practice Points</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends all patients should have the option of treatment, and have the pros and cons of opting for initiation of treatment and of deferring treatment discussed with them. </li>
+    <li>The Writing Group recommends a total of 48 weeks of treatment in patients with cirrhosis and for those who do not achieve a rapid virological response (RVR). </li>
+    <li>The Writing Group suggests non-cirrhotic patients who were previously null responders, partial responders or who experienced breakthrough should, wherever possible, wait for the availability of interferon-sparing regimens or interferon-based regimens including at least 2 new agents. </li>
+    <li>The Writing Group recommends that all patients with advanced or decompensated cirrhosis being treated with triple therapy are managed in a tertiary centre. </li>
+    <li>The Writing Group suggests for patients with genotype 1 infection and non-cirrhotic disease, there is the option to defer treatment until newer funded therapies or a suitable clinical trial become available. Where deferred, close monitoring should take place with hepatic elastography or alternative non-invasive testing at least annually. Where there is confirmed progression of fibrosis, treatment initiation should be reconsidered. </li>
+</ul>
+<p><strong>Antiviral Treatment: Genotypes 2 and 3</strong></p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends where there is a current clinical need for treatment (i.e., Metavir F4/cirrhosis), or if the patient wishes to be treated, the standard of care should be with PEG-IFN and ribavirin (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends where patients receive PEG-IFN and ribavirin, the duration of treatment should be 48 weeks unless RVR is achieved, when treatment should be shortened to 24 weeks if the individual is non-cirrhotic (<strong>1C</strong>). </li>
+</ul>
+<p><em>Good Practice Points</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends all patients should have the option of treatment, and have the pros and cons of opting for initiation of treatment and of deferring treatment discussed with them. </li>
+    <li>The Writing Group suggests for patients with non-cirrhotic disease there is the option to defer treatment until newer therapies or a suitable trial become available. </li>
+    <li>The Writing Group recommends those deferring treatment are monitored by non-invasive tests at least annually and if they have confirmed progression of fibrosis are reconsidered for initiation of therapy. </li>
+</ul>
+<p><strong>Antiviral Treatment: Other Genotypes</strong></p>
+<p><em>Good Practice Points</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group suggests for patients with genotype 4 infection without cirrhosis, there is the option to defer treatment until newer therapies or a suitable clinical trial become available. </li>
+    <li>The Writing Group recommends if treatment is given now, this should be with PEG-IFN and ribavirin. The duration of therapy should be 48 weeks if RVR is achieved. If the RNA is still detectable at 12 weeks, consideration should be given to discontinuing treatment. </li>
+    <li>For those with previous treatment failure, the Writing Group recommends waiting for the availability of interferon-sparing regimens with active DAAs. </li>
+    <li>The Writing Group recommends individuals coinfected with non-genotype 1&ndash;4 should be seen at a tertiary referral centre to determine treatment suitability, nature and duration and a treatment plan made in consultation with the referring hospital. </li>
+</ul>
+<p><strong>Acute Hepatitis C</strong></p>
+<p><em>Recommendations</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends patients without a decrease of 2 log<sub>10</sub> in HCV RNA at week 4 post diagnosis of acute infection (<strong>1D</strong>) or with a positive HCV RNA week 12 post diagnosis of acute infection (<strong>1C</strong>) are offered therapy. </li>
+    <li>The Writing Group recommends therapy be commenced prior to an estimated duration of infection of 24 weeks (<strong>1D</strong>). Patients who have not commenced treatment by this time should be managed as for chronic hepatitis C. </li>
+    <li>The Writing Group recommends all patients be offered combination therapy with PEG-IFN and weight-based ribavirin (<strong>1C</strong>). The Writing Group recommends against treatment with PEG-IFN monotherapy (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends treatment is discontinued if patients do not achieve an early virological response (EVR) (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends patients with re-emergent virus after spontaneous or therapeutic clearance are assessed for relapse or re-infection (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends patients with acute hepatitis C (AHC) who relapse are managed as for chronic hepatitis C (<strong>1D</strong>). </li>
+    <li>The Writing Group recommends patients who have been re-infected are managed as for AHC (<strong>1D</strong>). </li>
+</ul>
+<p><em>Good Practice Points</em></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends patients are treated for 24 weeks if RVR is achieved and for 48 weeks if RVR is not achieved. </li>
+    <li>The Writing Group recommends patients are managed as for chronic hepatitis C where treatment fails. </li>
+    <li>The Writing Group recommends patients who achieve an undetectable HCV RNA without therapy undergo HCV RNA measurements at 4, 12, 24 and 48 weeks to ensure spontaneous clearance. </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Hepatitis E</span></strong></p>
+<p><strong>Recommendations</strong></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends against routine screening for HEV in HIV-infected patients (<strong>1C</strong>). </li>
+    <li>The Writing Group recommends HEV infection is excluded in patients with HIV infection with elevated liver transaminases and/or liver cirrhosis when other causes have been excluded (<strong>1D</strong>). </li>
+    <li>The Writing Group suggests the detection of HEV in HIV infection should not rely on the presence of anti-HEV when the CD4 count is &lt;200 cells/&mu;L since this may be undetectable and exclusion of HEV should rely on the absence of HEV RNA in the serum as measured by PCR (<strong>2C</strong>). </li>
+    <li>The Writing Group suggests acute HEV in the context of HIV does not require treatment (<strong>2C</strong>). </li>
+    <li>The Writing Group suggests that patients with confirmed chronic HEV coinfection (RNA-positive for &gt;6 months) receive optimised ART to restore natural HEV antiviral immunity and suggest if HEV-PCR remains positive this is followed by oral ribavirin (<strong>2C</strong>). </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">End-stage Liver Disease</span></strong></p>
+<p><strong>Recommendations</strong></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends screening for and subsequent management of complications of cirrhosis and portal hypertension in accordance with national guidelines on the management of liver disease (<strong>1A</strong>). </li>
+    <li>The Writing Group recommends HCC screening with 6-monthly ultrasound (<strong>1A</strong>) and suggest 6-monthly serum alpha-fetoprotein (AFP) (<strong>2C</strong>) should be offered to all cirrhotic patients with HBV/HIV and HCV/HIV infection. </li>
+</ul>
+<p><strong>Good Practice Points</strong></p>
+<ul style="list-style-type: disc;">
+    <li>The Writing Group recommends cirrhotic patients with chronic viral hepatitis and HIV infection should be managed jointly with hepatologists or gastroenterologists with knowledge of ESLD, preferably within a specialist co-infection clinic. </li>
+    <li>The Writing Group suggests all non-cirrhotic patients with HBV/HIV infection should be screened for HCC 6-monthly. </li>
+    <li>The Writing Group recommends all patients with hepatitis virus/HIV infection with cirrhosis should be referred early, and no later than after first decompensation, to be assessed for liver transplantation. </li>
+    <li>The Writing Group recommends eligibility for transplantation should be assessed at a transplant centre and in accordance with published guidelines for transplantation of HIV-infected individuals. </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong>:</p>
+<p><strong>Quality of Evidence</strong></p>
+<p><strong>Grade A evidence</strong> means high-quality evidence that comes from consistent results from well- performed randomised controlled trials (RCTs), or overwhelming evidence from another source (such as well-executed observational studies with consistent strong effects and exclusion of all potential sources of bias). Grade A implies confidence that the true effect lies close to the estimate of the effect.</p>
+<p><strong>Grade B evidence</strong> means moderate-quality evidence from randomised trials that suffers from serious flaws in conduct, inconsistency, indirectness, imprecise estimates, reporting bias, or some combination of these limitations, or from other study designs with specific strengths such as observational studies with consistent effects and exclusion of the majority of the potential sources of bias.</p>
+<p><strong>Grade C evidence</strong> is low-quality evidence from controlled trials with several serious limitations, or observational studies with limited evidence on effects and exclusion of most potential sources of bias.</p>
+<p><strong>Grade D evidence</strong> is based only on case studies, expert judgement or observational studies with inconsistent effects and a potential for substantial bias, such that there can be little confidence in the effect estimate.</p>
+<p><strong>Summary of the Modified Grading of Recommendations Assessment, Development and Evaluation (GRADE) System</strong></p>
+<p><strong>1A</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Strong recommendation. </li>
+    <li>High-quality evidence. </li>
+    <li>Benefits clearly outweigh risk and burdens, or vice versa. </li>
+    <li>Consistent evidence from well performed randomised, controlled trials or overwhelming evidence of some other form. Further research is unlikely to change confidence in the estimate of benefit and risk. </li>
+    <li>Strong recommendations can apply to most patients in most circumstances without reservation. </li>
+    <li>Clinicians should follow a strong recommendation unless there is a clear rationale for an alternative approach. </li>
+</ul>
+<p><strong>1B</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Strong recommendation. </li>
+    <li>Moderate-quality evidence. </li>
+    <li>Benefits clearly outweigh risk and burdens, or vice versa </li>
+    <li>Evidence from randomised, controlled trials with important limitations (inconsistent results, methods flaws, indirect or imprecise), or very strong evidence of some other research design. Further research may impact on confidence in the estimate of benefit and risk. </li>
+    <li>Strong recommendation and applies to most patients. </li>
+    <li>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present. </li>
+</ul>
+<p><strong>1C</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Strong recommendation. </li>
+    <li>Low-quality evidence. </li>
+    <li>Benefits appear to outweigh risk and burdens, or vice versa </li>
+    <li>Evidence from observational studies, unsystematic clinical experience, or from randomised, controlled trials with serious flaws. Any estimate of effect is uncertain. </li>
+    <li>Strong recommendation, and applies to most patients. Some of the evidence base supporting the recommendation is, however, of low quality. </li>
+</ul>
+<p><strong>1D</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Strong recommendation. </li>
+    <li>Very low-quality evidence. </li>
+    <li>Benefits appear to outweigh risk and burdens, or vice versa. </li>
+    <li>Evidence limited to case studies. Strong recommendation based mainly on case studies and expert judgment. </li>
+</ul>
+<p><strong>2A</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Weak recommendation. </li>
+    <li>High-quality evidence. </li>
+    <li>Benefits closely balanced with risks and burdens </li>
+    <li>Consistent evidence from well performed randomised, controlled trials or overwhelming evidence of some other form. Further research is unlikely to change confidence in the estimate of benefit and risk. </li>
+    <li>Weak recommendation, best action may differ depending on circumstances or patients' or societal values. </li>
+</ul>
+<p><strong>2B</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Weak recommendation. </li>
+    <li>Moderate-quality evidence. </li>
+    <li>Benefits closely balanced with risks and burdens, some uncertainty in the estimates of benefits, risks and burdens. </li>
+    <li>Evidence from randomised, controlled trials with important limitations (inconsistent results, methods flaws, indirect or imprecise). Further research may change the estimate of benefit and risk. </li>
+    <li>Weak recommendation, alternative approaches likely to be better for some patients under some circumstances. </li>
+</ul>
+<p><strong>2C</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Weak recommendation. </li>
+    <li>Low-quality evidence. </li>
+    <li>Uncertainty in the estimates of benefits, risks, and burdens; benefits may be closely balanced with risks and burdens. </li>
+    <li>Evidence from observational studies, unsystematic clinical experience, or from randomised, controlled trials with serious flaws. Any estimate of effect is uncertain. </li>
+    <li>Weak recommendation; other alternatives may be reasonable. </li>
+</ul>
+<p><strong>2D</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Weak recommendation. </li>
+    <li>Very low-quality evidence. </li>
+    <li>Uncertainty in the estimates of benefits, risks, and burdens; benefits may be closely balanced with risks and burdens. </li>
+    <li>Evidence limited to case studies and expert judgment. </li>
+    <li>Very weak recommendation; other alternatives may be equally reasonable. </li>
+</ul>
+<p><strong>Good Practice Points (GPP)</strong> are recommendations based on the clinical judgment and experience of the working group. GPPs emphasise an area of important clinical practice for which there is not, nor is there likely to be, any significant research evidence. They address an aspect of treatment and care that is regarded as such sound clinical practice that health care professionals are unlikely to question it and where the alternative recommendation is deemed unacceptable. It must be emphasised that GPPs are not an alternative to evidence-based recommendations.</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>The following treatment algorithms are provided in the original guideline document:</p>
+<ul style="list-style-type: disc;">
+    <li>Antiviral treatment: CD4 count &ge;500 cells/&mu;L </li>
+    <li>Antiviral treatment: CD4 count &lt;500 cells/&mu;L </li>
+</ul></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Hepatitis viruses</p></div></p>
+                        <h3><a href="#">Other Disease/Condition(s) Addressed</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Human immunodeficiency virus (HIV) </li>
+    <li>Liver disease </li>
+</ul></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Counseling</p>
+                    <p>Diagnosis</p>
+                    <p>Management</p>
+                    <p>Prevention</p>
+                    <p>Screening</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Family Practice</p>
+                    <p>Infectious Diseases</p>
+                    <p>Internal Medicine</p>
+                    <p>Psychiatry</p>
+                    <p>Psychology</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Nurses</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                    <p>Psychologists/Non-physician Behavioral Health Clinicians</p>
+                    <p>Public Health Departments</p>
+                    <p>Social Workers</p>
+                    <p>Substance Use Disorders Treatment Providers</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To provide guidance on best clinical practice in the treatment and management of adults with human immunodeficiency virus (HIV) and viral hepatitis coinfection</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Adults with hepatitis viruses infected with human immunodeficiency virus (HIV)</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><div class="content_para"><p><strong>Diagnosis/Screening</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Screening for hepatitis (all types) or immunity </li>
+    <li>Assessment of liver disease (staging, hepatic transient elastography [TE]), including baseline fibrosis assessment for hepatitis C </li>
+</ol>
+<p><strong>Treatment/Management/Prevention</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Patient involvement in care, including treatment support resources </li>
+    <li>Counselling on behavior modification </li>
+    <li>Immunisation against hepatitis A virus (HAV) and hepatitis B virus (HBV) </li>
+    <li>Antiretroviral therapy (ART) based on cell count or disease genotype
+    <ul style="list-style-type: disc;">
+        <li>Abacavir </li>
+        <li>Ribavirin </li>
+        <li>Tenofovir disoproxil fumarate (TDF) </li>
+        <li>Emtricitabine (FTC) </li>
+        <li>Lamivudine (2', 3'-dideoxy-3'-thiacytidine) (3TC) </li>
+        <li>Pegylated interferon (PEG-IFN) </li>
+        <li>Raltegravir (RAL) </li>
+        <li>Boceprevir </li>
+        <li>Telaprevir </li>
+        <li>Etravirine, rilpivirine and maraviroc (alternatives) </li>
+    </ul>
+    </li>
+    <li>Routine monitoring of therapy </li>
+    <li>Management by clinicians experienced in both hepatitis and human immunodeficiency virus (HIV) care </li>
+    <li>Referral to psychiatric services or community services for substance use </li>
+    <li>Management of complications </li>
+</ol></div></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Cost </li>
+    <li>Transmission rates </li>
+    <li>Adverse events of treatment </li>
+    <li>Effectiveness of diagnostic testing </li>
+    <li>Effectiveness of treatment </li>
+    <li>Patient satisfaction </li>
+    <li>Disease progression </li>
+    <li>Mortality </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p>For the 2013 guidelines the literature search dates were 1 January 2009 to 30 October 2012, and included Medline, EMBASE and the Cochrane library. Abstracts from selected conferences were searched between 1 January 2009 and 30 October 2012.</p>
+<p><strong>Systematic Literature Search</strong></p>
+<p>Databases: Medline, EMBASE, Cochrane Library</p>
+<p>Conference Abstracts:</p>
+<ul style="list-style-type: disc;">
+    <li>IAS Conference on HIV Pathogenesis and Treatment </li>
+    <li>International AIDS conference </li>
+    <li>Conference on Retroviruses and Opportunistic Infections </li>
+    <li>European Conference on Clinical Aspects and Treatment of HIV Infection </li>
+    <li>Interscience Conference on Antimicrobial Agents and Chemotherapy </li>
+    <li>International Congress on Drug Therapy in HIV Infection </li>
+    <li>British HIV Association and HIV/hepatitis Conference </li>
+    <li>European Association for the Study of Liver Diseases </li>
+    <li>American Association for the Study of Liver Diseases </li>
+    <li>British Association for the Study of Liver Diseases </li>
+    <li>International Co-infection Workshop </li>
+</ul>
+<p>Date parameters:</p>
+<ul style="list-style-type: disc;">
+    <li>Databases: January 2009&ndash;November 2012 </li>
+    <li>Conference abstracts: January 2009&ndash;November 2012 </li>
+</ul>
+<p class="Note"><strong>Note</strong>: See Appendix 2 in the original guideline document (see the "Availability of Companion Documents" field) for review questions, PICO framework and search protocols.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Quality of Evidence</strong></p>
+<p><strong>Grade A evidence</strong> means high-quality evidence that comes from consistent results from well-performed randomised controlled trials (RCTs), or overwhelming evidence from another source (such as well-executed observational studies with consistent strong effects and exclusion of all potential sources of bias). Grade A implies confidence that the true effect lies close to the estimate of the effect.</p>
+<p><strong>Grade B evidence</strong> means moderate-quality evidence from randomised trials that suffers from serious flaws in conduct, inconsistency, indirectness, imprecise estimates, reporting bias, or some combination of these limitations, or from other study designs with specific strengths such as observational studies with consistent effects and exclusion of the majority of the potential sources of bias.</p>
+<p><strong>Grade C evidence</strong> is low-quality evidence from controlled trials with several serious limitations, or observational studies with limited evidence on effects and exclusion of most potential sources of bias.</p>
+<p><strong>Grade D evidence</strong> is based only on case studies, expert judgement or observational studies with inconsistent effects and a potential for substantial bias, such that there can be little confidence in the effect estimate.</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p>For each topic and health care question, evidence was identified and evaluated by Guideline Writing Group members with expertise in that field. Using the modified Grading of Recommendations Assessment, Development and Evaluation (GRADE) system, panel members were responsible for assessing and grading the quality of evidence for predefined outcomes across studies and developing and grading the strength of recommendations. An important aspect of evaluating evidence is an understanding of the design and analysis of clinical trials including the use of surrogate marker data. For a number of questions, GRADE evidence profile and summary of findings tables were constructed using predefined and rated treatment outcomes to achieve consensus for key recommendations and aid transparency of process.</p>
+<p>Because of a lack of comparative data for any of the priority questions in hepatitis/human immunodeficiency virus (HIV) coinfection, no separate meta-analyses were conducted.</p>
+<p class="Note"><strong>Note</strong>: See Appendices 1 and 2 in the original guideline document (see the "Availability of Companion Documents" field) for additional details.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Guideline Development Process</strong></p>
+<p>The British HIV Association (BHIVA) revised and updated the Association's guideline development manual in 2011. BHIVA has adopted the modified Grading of Recommendations Assessment, Development and Evaluation (GRADE) system for the assessment, evaluation and grading of evidence and the development of recommendations. The guideline was developed by a Writing Group comprising professional group members and an elected community representative. The scope, purpose and guideline topics were agreed by the Committee and key questions concerning each guideline topic were drafted (see Table 1.1 in the original guideline document) and a systematic literature review undertaken by an information scientist.</p>
+<p>Review questions were developed in a PICO (patient, intervention, comparison and outcome) framework. This framework guided the literature-searching process, critical appraisal and synthesis of evidence, and facilitated the development of recommendations by the Guideline Writing Group. Eleven review questions were identified. Full literature searches and critical appraisals were completed for all specified questions.</p>
+<p><strong>Patient Involvement</strong></p>
+<p>BHIVA views the involvement of patient and community representatives in the guideline development process as essential. The Writing Group included one patient representative who was involved in all aspects of the guideline development process and was responsible for liaising with all interested patient groups.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Summary of the Modified Grading of Recommendations Assessment, Development and Evaluation (GRADE) System</strong></p>
+<p><strong>1A</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Strong recommendation. </li>
+    <li>High-quality evidence. </li>
+    <li>Benefits clearly outweigh risk and burdens, or vice versa. </li>
+    <li>Consistent evidence from well performed randomised, controlled trials or overwhelming evidence of some other form. Further research is unlikely to change confidence in the estimate of benefit and risk. </li>
+    <li>Strong recommendations can apply to most patients in most circumstances without reservation. </li>
+    <li>Clinicians should follow a strong recommendation unless there is a clear rationale for an alternative approach. </li>
+</ul>
+<p><strong>1B</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Strong recommendation. </li>
+    <li>Moderate-quality evidence. </li>
+    <li>Benefits clearly outweigh risk and burdens, or vice versa </li>
+    <li>Evidence from randomised, controlled trials with important limitations (inconsistent results, methods flaws, indirect or imprecise), or very strong evidence of some other research design. Further research may impact on confidence in the estimate of benefit and risk. </li>
+    <li>Strong recommendation and applies to most patients. </li>
+    <li>Clinicians should follow a strong recommendation unless a clear and compelling rationale for an alternative approach is present. </li>
+</ul>
+<p><strong>1C</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Strong recommendation. </li>
+    <li>Low-quality evidence. </li>
+    <li>Benefits appear to outweigh risk and burdens, or vice versa </li>
+    <li>Evidence from observational studies, unsystematic clinical experience, or from randomised, controlled trials with serious flaws. Any estimate of effect is uncertain. </li>
+    <li>Strong recommendation, and applies to most patients. Some of the evidence base supporting the recommendation is, however, of low quality. </li>
+</ul>
+<p><strong>1D</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Strong recommendation. </li>
+    <li>Very low-quality evidence. </li>
+    <li>Benefits appear to outweigh risk and burdens, or vice versa. </li>
+    <li>Evidence limited to case studies. Strong recommendation based mainly on case studies and expert judgment. </li>
+</ul>
+<p><strong>2A</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Weak recommendation. </li>
+    <li>High-quality evidence. </li>
+    <li>Benefits closely balanced with risks and burdens </li>
+    <li>Consistent evidence from well performed randomised, controlled trials or overwhelming evidence of some other form. Further research is unlikely to change confidence in the estimate of benefit and risk. </li>
+    <li>Weak recommendation, best action may differ depending on circumstances or patients' or societal values. </li>
+</ul>
+<p><strong>2B</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Weak recommendation. </li>
+    <li>Moderate-quality evidence. </li>
+    <li>Benefits closely balanced with risks and burdens, some uncertainty in the estimates of benefits, risks and burdens. </li>
+    <li>Evidence from randomised, controlled trials with important limitations (inconsistent results, methods flaws, indirect or imprecise). Further research may change the estimate of benefit and risk. </li>
+    <li>Weak recommendation, alternative approaches likely to be better for some patients under some circumstances. </li>
+</ul>
+<p><strong>2C</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Weak recommendation. </li>
+    <li>Low-quality evidence. </li>
+    <li>Uncertainty in the estimates of benefits, risks, and burdens; benefits may be closely balanced with risks and burdens. </li>
+    <li>Evidence from observational studies, unsystematic clinical experience, or from randomised, controlled trials with serious flaws. Any estimate of effect is uncertain. </li>
+    <li>Weak recommendation; other alternatives may be reasonable. </li>
+</ul>
+<p><strong>2D</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Weak recommendation. </li>
+    <li>Very low-quality evidence. </li>
+    <li>Uncertainty in the estimates of benefits, risks, and burdens; benefits may be closely balanced with risks and burdens. </li>
+    <li>Evidence limited to case studies and expert judgment. </li>
+    <li>Very weak recommendation; other alternatives may be equally reasonable. </li>
+</ul>
+<p><strong>Good Practice Points (GPP)</strong> are recommendations based on the clinical judgment and experience of the working group. GPPs emphasise an area of important clinical practice for which there is not, nor is there likely to be, any significant research evidence. They address an aspect of treatment and care that is regarded as such sound clinical practice that health care professionals are unlikely to question it and where the alternative recommendation is deemed unacceptable. It must be emphasised that GPPs are not an alternative to evidence-based recommendations.</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>The British HIV Association (BHIVA) Writing Group recognises that cost-effectiveness data are important in the formulation of guidelines and it was agreed as a critical outcome for certain priority questions (see Table 1.1 in the original guideline document). There are limited cost-effectiveness data in the United Kingdom comparing different antiretroviral drugs in human immunodeficiency virus (HIV) mono-infection and none examining different antiretroviral drugs or anti-hepatitis B virus (HBV) or anti-hepatitis C virus (HCV) therapies in adults with HBV/HIV or HCV/HIV infection or different screening strategies for hepatitis viruses in HIV infection. Hence, the intervention was deemed cost-effective if it was both less costly in terms of likely resource use and more clinically effective compared with other relevant alternative strategies within the data available to the expert(s) writing the specific guideline. However, the Writing Group believes that reducing management costs should not be at the cost of increased risk of poorer outcomes and quality of care.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>Prior to final approval by the Writing Group the guidelines were published online for public consultation and external peer review commissioned.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified and graded for each recommendation (see the "Major Recommendations" field).</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>Appropriate management of hepatitis viruses in adults infected with human immunodeficiency virus (HIV)</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>All antiretrovirals (ARVs) have the potential to cause acute and long-term drug-related liver injury, which is a common cause of morbidity and treatment discontinuation in persons with human immunodeficiency virus (HIV) infection. The greatest risk of ARV-induced hepatotoxicity is observed in those with advanced liver disease. Nevirapine should be used with caution. </li>
+    <li>In several large randomized controlled trials (RCTs) for hepatitis C virus (HCV) coinfection, pegylated interferon (PEG-IFN) has been associated with lower rates of treatment success and relatively high toxicity. </li>
+    <li>Ongoing injecting drug use has previously been considered a relative contraindication for anti-HCV therapy, but there is now a growing body of experience of treatment in this group. Those continuing to inject should be warned about the potential for re-infection and receive education to prevent this. </li>
+    <li>False-positive results of screening tests </li>
+</ul>
+<p>See also Table 8.1, "Interactions Between Antiretrovirals (ARVs) and Drugs Used to Treat Hepatitis C," and Table 8.2, "Adverse Event and Pharmacokinetic Profiles of Hepatitis Therapy," in the original guideline document.</p></p>
+
+            </div>
+                <h2 id="430" class="accordion-title section-430 is-active" role="tab" aria-expanded="true"><a href="#">Contraindications</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Contraindications</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>For medicine contraindications, see Table 8.1, "Interactions Between Antiretrovirals (ARVs) and Drugs Used to Treat Hepatitis C," and Table 8.2, "Adverse Event and Pharmacokinetic Profiles of Hepatitis Therapy," in the original guideline document. </li>
+    <li>Transplantation of patients with a predictable poor outcome should be avoided if possible. Recent publications have identified such characteristics and associated these with outcome after transplantation in hepatitis C virus (HCV)/human immunodeficiency virus (HIV) coinfected patients. Appropriate selection and matching of recipients and donors may improve the outcome of HCV/HIV-transplanted patients and permit more appropriate use of donor livers for the competing HIV-negative population. </li>
+    <li>ARV regimens should be selected or modified to suit the planned hepatitis C treatment. If directly acting antivirals (DAA) are not being considered, standard first-line antiretroviral therapy (ART) can be used: efavirenz, ritonavir-boosted atazanavir, ritonavir-boosted darunavir, or raltegravir with tenofovir disoproxil fumarate/emtricitabine (TDF/FTC). Didanosine (increased intracellular didanosine levels and risk of toxicity with ribavirin), stavudine (d4T) (increase in risk of mitochondrial toxicity with ribavirin), and zidovudine (ZDV) (overlapping toxicity with pegylated interferon [PEG-IFN] and ribavirin) are contraindicated. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>The following measures have, or will be undertaken, to disseminate and aid implementation of the guideline:</p>
+<ol style="list-style-type: lower-roman;">
+    <li>E-publication on the British HIV Association (BHIVA) Web site and the journal <em>HIV Medicine </em></li>
+    <li>Publication in the journal <em>HIV Medicine</em> </li>
+    <li>E-learning module accredited for continuing medical education (CME) </li>
+    <li>An educational slide set to support local and regional educational meetings </li>
+    <li>National BHIVA Audit Programme </li>
+</ol></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Audit Criteria/Indicators</p>
+                    <p>Clinical Algorithm</p>
+                    <p>Mobile Device Resources</p>
+                    <p>Slide Presentation</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+                    <p>Safety</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Wilkins E, Nelson M, Agarwal K, Awoyemi D, Barnes E, Bhagani S, Brook G, Brown A, Castelino S, Cooke G, Fisher M, Geretti AM, James R, Kulasegaram R, Leen C, Mutimer D, Orkin C, Page E, Palfreeman A, Papineni P, Rodger A, Tong CY. British HIV Association guidelines for the management of hepatitis viruses in adults infected with HIV 2013. HIV Med. 2013 Nov;14(Suppl 4):1-71. [413 references] <a href="https://web.archive.org/web/20180712184631/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24581304" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712184631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2010 (revised 2013 Nov)</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>British HIV Association - Disease Specific Society</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>British HIV Association</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>Writing Group</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Writing Group Members</em>: Dr Ed Wilkins (<em>Chair</em>), Consultant Physician in Infectious Diseases and Clinical Lead of the HIV Research Unit, North Manchester General Hospital; Dr Mark Nelson (<em>Vice Chair</em>), Consultant Physician, Chelsea and Westminster Hospital NHS Foundation Trust, London, and Adjunct Professor and Reader in Human Immunodeficiency Virology, Imperial College London; Dr Kosh Agarwal, Consultant Hepatologist/Transplant Physician, King's College Hospital NHS Foundation Trust, London; Ms Dola Awoyemi, HIV Specialist Pharmacist, Kingston Hospital NHS Foundation Trust; Dr Eleanor Barnes, MRC Senior Clinical Fellow and Honorary Consultant in Hepatology, John Radcliffe Hospital, Oxford; Dr Sanjay Bhagani, Consultant Physician in Infectious Diseases/HIV Medicine, Royal Free Hampstead NHS Trust, London; Dr Gary Brook, Consultant Physician in GUM/HIV, North West London Hospitals NHS Trust; Dr Ashley Brown, Consultant Hepatologist, Imperial College Healthcare NHS Trust, London; Ms Sheena Castelino, Principal HIV Pharmacist, Guy's &amp; St Thomas' NHS Foundation Trust, London; Dr Graham Cooke, Senior Lecturer, Imperial College London, and Honorary Consultant, Imperial College Healthcare NHS Trust, London; Prof Martin Fisher, Consultant Physician in HIV and Genitourinary Medicine, Brighton and Sussex University Hospitals NHS Trust; Prof Anna Maria Geretti, Professor of Virology and Infectious Diseases, Institute of Infection and Global Health, University of Liverpool; Mr Robert James, Sessional Lecturer in Law, Birkbeck College, University of London, UKCAB; Dr Ranjababu Kulasegaram, Consultant Physician in HIV and Genitourinary Medicine, Guy's &amp; St Thomas' NHS Foundation Trust, London; Prof Clifford Leen, Consultant Physician in Infectious Diseases, Western General Hospital, Edinburgh and Professor in Infectious Diseases, Edinburgh University; Prof David Mutimer, Professor of Clinical Hepatology, Birmingham University and Honorary Consultant Physician, Queen Elizabeth Hospital, Birmingham; Dr Chloe Orkin, Consultant Physician and Lead for HIV Research, Barts Health NHS Trust, London; Dr Emma Page, Specialist Registrar, Chelsea and Westminster Hospital NHS Foundation Trust, London; Dr Adrian Palfreeman, Consultant in Genitourinary Medicine, University Hospitals of Leicester NHS Trust; Dr Padmasayee Papineni, Specialist Registrar Infectious Diseases/GUM, North West London Hospitals NHS Trust; Dr Alison Rodger, Senior Lecturer and Honorary Consultant in Infectious Diseases, University College London; Dr CY William Tong, Consultant Virologist, Barts Health NHS Trust, London</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>Members of the Guideline Writing Group declared their conflicts of interests prior to the commencement of the writing process, and if a vote was necessary any member whose declared interests made this inappropriate did not participate.</p>
+<p><strong>Conflict of Interest Statements</strong></p>
+<p>Dr Ed Wilkins has received advisory board honoraria, speaker fees, and travel/registration reimbursement from Gilead, Merck Sharp and Dohme, Bristol-Myers Squibb, Abbott, Janssen, Boehringer Ingelheim and ViiV.</p>
+<p>Dr Mark Nelson has received fees from Gilead, Merck Sharp and Dohme, Bristol-Myers Squibb, Abbott, Janssen and ViiV. He has received research funding from Gilead, Merck Sharp and Dohme, ViiV, Janssen, Boehringer Ingelheim and Bristol-Myers Squibb.</p>
+<p>Dr Kosh Agarwal has received lecture honoraria, speaker fees, and travel/registration reimbursement from Gilead, Merck Sharp and Dohme, Bristol-Myers Squibb, Janssen and Boehringer Ingelheim, and research grants from Roche and Gilead.</p>
+<p>Ms Dola Awoyemi has no conflicts of interest to declare.</p>
+<p>Dr Ellie Barnes has no conflicts of interest to declare.</p>
+<p>Dr Sanjay Bhagani has received advisory board honoraria, speaker fees, and travel/registration reimbursement from AbbVie, Bristol-Myers Squibb, Gilead, Janssen and Roche, and research grants from Gilead and Roche.</p>
+<p>Dr Gary Brook has no conflicts of interest to declare.</p>
+<p>Dr Ashley Brown has received advisory board honoraria, speaker fees, and travel/registration reimbursement from Janssen, Merck Sharpe and Dohme, Gilead, Bristol-Myers Squibb, Roche, AbbVie and Novartis. He is also a trials investigator for Janssen, Merck Sharpe and Dohme, Gilead, Bristol-Myers Squibb, Roche, AbbVie, Novartis, Vertex and Presidio.</p>
+<p>Ms Sheena Castelino has no conflicts of interest to declare.</p>
+<p>Dr Graham Cooke has no conflicts of interest to declare.</p>
+<p>Prof Martin Fisher has received lecture honoraria, speaker fees, and travel/registration reimbursement from AbbVie, Bristol-Myers Squibb, Gilead, Merck Sharp and Dohme, Janssen, and Viiv, and has received research grants from Gilead.</p>
+<p>Prof Anna Maria Geretti has received fees from Janssen, Gilead, Merck Sharp and Dohme, ViiV and Qiagen. She has received research funding from Janssen, Merck Sharp and Dohme and ViiV. She has received travel sponsorship from Janssen and Merck Sharp and Dohme.</p>
+<p>Mr Rob James has no conflicts of interest to declare.</p>
+<p>Dr Ranjababu Kulasegaram has received speaker and advisory fees from Merck Sharp and Dohme, Abbott, ViiV and Janssen. He has received research funding from Boehringer Ingelheim, Pfizer, ViiV and Gilead.</p>
+<p>Prof Clifford Leen has received lecture/consultancy fees, or unrestricted travel grants, from Abbott, Boehringer Ingelheim, Gilead, Janssen, Merck and ViiV. His department has received research awards from Abbott, Boehringer Ingelheim, Bristol-Myers Squibb, Gilead, Janssen and ViiV.</p>
+<p>Prof David Mutimer has received honoraria from and/or acted as scientific adviser to Janssen, Vertex, Bristol-Myers Squibb, Boehringer Ingelheim, Merck Sharp and Dohme, Gilead, AbbVie and Roche.</p>
+<p>Dr Chloe Orkin has received fees from Gilead, Janssen, Bristol-Myers Squibb, Abbott, ViiV, and Merck Sharp and Dohme. She has received research funding from Gilead, ViiV, Boehringer Ingelheim and Janssen. She has received travel sponsorship from Gilead, Bristol-Myers Squibb, Abbott and Janssen. She has also received grants from Gilead and Bristol-Myers Squibb.</p>
+<p>Dr Emma Page has no conflicts of interest to declare.</p>
+<p>Dr Adrian Palfreeman has no conflicts of interest to declare.</p>
+<p>Dr Padmasayee Papineni has no conflicts of interest to declare.</p>
+<p>Dr Alison Rodger has no conflicts of interest to declare.</p>
+<p>Dr CY William Tong has no conflicts of interest to declare.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline updates a previous version: Brook G, Main J, Nelson M et al. for the BHIVA Viral Hepatitis Working Group. British HIV Association guidelines for the management of coinfection with HIV-1 and hepatitis B or C virus 2010. HIV Med 2010;11:1&ndash;30.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712184631/https://www.guideline.gov/Home/Disclaimer?id=47758&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.bhiva.org%2fdocuments%2fGuidelines%2fHepatitis%2f2013%2fHepatitisGuidelines2013.pdf" title="British HIV Association (BHIVA) Web site">British HIV Association (BHIVA) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>British HIV Association guidelines for the management of hepatitis viruses in adults infected with HIV 2013. Appendix 1. London (UK): British HIV Association (BHIVA); 2013. 3 p. Available from the <a href="/web/20180712184631/https://www.guideline.gov/Home/Disclaimer?id=47758&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.bhiva.org%2fdocuments%2fGuidelines%2fHepatitis%2f2013%2fAppendix1.pdf" title="British HIV Association (BHIVA) Web site">British HIV Association (BHIVA) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>British HIV Association guidelines for the management of hepatitis viruses in adults infected with HIV 2013. Appendix 2. London (UK): British HIV Association (BHIVA); 2013. 16 p. Available from the <a href="/web/20180712184631/https://www.guideline.gov/Home/Disclaimer?id=47758&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.bhiva.org%2fdocuments%2fGuidelines%2fHepatitis%2f2013%2fAppendix2.pdf" title="British HIV Association (BHIVA) Web site">BHIVA Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>British HIV Association guidelines for the management of hepatitis viruses in adults infected with HIV 2013. Slide presentation. London (UK): British HIV Association (BHIVA); 2013. 31 p. Available in <a href="/web/20180712184631/https://www.guideline.gov/Home/Disclaimer?id=47758&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.bhiva.org%2fdocuments%2fGuidelines%2fHepatitis%2f2013%2fHepatitis-guidelines-slideset.pdf" title="British HIV Association (BHIVA) Web site">PDF</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> and <a href="/web/20180712184631/https://www.guideline.gov/Home/Disclaimer?id=47758&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.bhiva.org%2fdocuments%2fGuidelines%2fHepatitis%2f2013%2fHepatitis-guidelines-slideset.ppt" title="British HIV Association (BHIVA) Web site">Power Point</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> from the BHIVA Web site. </li>
+    <li>British HIV Association (BHIVA) guideline development manual. London (UK): British HIV Association (BHIVA); 2014 Jan 28. 44 p. Available from the <a href="/web/20180712184631/https://www.guideline.gov/Home/Disclaimer?id=47758&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.bhiva.org%2fdocuments%2fGuidelines%2fDevtManual%2fGuidelineDevelopmentManual.pdf" title="British HIV Association (BHIVA) Web site">BHIVA Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p>Auditable outcomes are available in Section 2 of the <a href="/web/20180712184631/https://www.guideline.gov/Home/Disclaimer?id=47758&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.bhiva.org%2fdocuments%2fGuidelines%2fHepatitis%2f2013%2fHepatitisGuidelines2013.pdf" title="British HIV Association (BHIVA) Web site">original guideline document</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>Smartphone apps are available from the <a href="/web/20180712184631/https://www.guideline.gov/Home/Disclaimer?id=47758&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.bhiva.org%2fApps.aspx" title="British HIV Association (BHIVA) Web site">BHIVA Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712184631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>None available</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on May 9, 2014. The information was verified by the guideline developer on June 30, 2014. This summary was updated by ECRI Institute on October 20, 2016 following the U.S. Food and Drug Administration advisory on Direct-acting Antivirals.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712184631/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712184631/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712184631/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712184631/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712184631/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712184631/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712184631/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712184631/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712184631/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712184631/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712184631/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712184631/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712184631/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712184631/https://www.guideline.gov/disclaimer?id=47758&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712184631im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712184631im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712184631/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712184631/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712184631/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712184631/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712184631/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712184631/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712184631/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712184631/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712184631/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712184631/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712184631/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712184631/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712184631/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712184631/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712184631/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712184631/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712184631/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712184631/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712184631/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712184631im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712184631im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712184631/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712184631im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712184631im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712184631/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712184631js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712184631js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 18:46:31 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 17:23:54 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 153.663 (3)
+  esindex: 0.019
+  captures_list: 177.927
+  CDXLines.iter: 19.015 (3)
+  PetaboxLoader3.datanode: 59.232 (4)
+  exclusion.robots: 0.162
+  exclusion.robots.policy: 0.14
+  RedisCDXSource: 1.557
+  PetaboxLoader3.resolve: 82.026
+  load_resource: 28.027
+-->
