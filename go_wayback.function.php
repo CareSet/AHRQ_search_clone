@@ -109,6 +109,7 @@ function go_wayback($file_url = null,$save_to_dir = null){
       	$path = parse_url($file_url, PHP_URL_PATH);
       	$path_parts = pathinfo($path);
        	$file_name = $path_parts['basename'];
+	$file_name = substr($file_name,0,254); //file names can be too long..
 	$save_to_file = $save_to_dir . '/' . $file_name;
 
 		
