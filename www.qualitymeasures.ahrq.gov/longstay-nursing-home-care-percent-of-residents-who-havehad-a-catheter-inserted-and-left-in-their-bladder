@@ -1,0 +1,972 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app19.us.archive.org';v.server_ms=492;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+    <!-- ForeSee Code -->
+    <script type="text/javascript">
+
+        // Foresee survey call
+        // Answers Cloud Services Embed Script v1.02
+        // DO NOT MODIFY BELOW THIS LINE *****************************************
+        ; (function (g) {
+            var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
+                aex = {
+                    "src": "//web.archive.org/web/20170704105443/https://gateway.answerscloud.com/qualitymeasures-ahrq-gov/production/gateway.min.js",
+                    "type": "text/javascript",
+                    "async": "true",
+                    "data-vendor": "acs",
+                    "data-role": "gateway"
+                };
+            for (var attr in aex) { am.setAttribute(attr, aex[attr]); }
+            h.appendChild(am);
+            g['acsReady'] = function () { var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0), k = setInterval(function () { if (typeof g[aT] === 'function') { clearInterval(k); for (i = 0; i < args.length; i++) { g[aT].call(g, function (fn) { return function () { setTimeout(fn, 1) }; }(args[i])); } } }, 50); };
+        })(window);
+        // DO NOT MODIFY ABOVE THIS LINE *****************************************
+    </script>
+    <!-- End ForeSee Code -->
+
+
+        <title>Long-stay nursing home care: percent of residents who have/had a catheter inserted and left in their bladder. | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20170704105443/https://qualitymeasures.ahrq.gov/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20170704105443cs_/https://qualitymeasures.ahrq.gov/cassette.axd/stylesheet/3a1406960f01c082e8cd734e7c19b87ae6d17b1b/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type ="text javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­Federated­Analytics­Min.js?agency=AHRQ&amp;pua=UA-61009437-1"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20170704105443if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20170704105443/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20170704105443if_/https://www.googletagmanager.com/ns.html?id=GTM-KXQCDQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20170704105443/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20170704105443/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20170704105443/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/" class="header-logo NQMC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png">
+				        <source srcset="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header_m.png">
+				        <img src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png" alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20170704105443/https://qualitymeasures.ahrq.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20170704105443/https://qualitymeasures.ahrq.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20170704105443/https://qualitymeasures.ahrq.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/">Home</a></li>
+		        <li class=""><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+	</div><!-- /.header -->
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Measure Summary</li>
+            <li>NQMC:010731</li>
+            <li>Oct 2015
+            </li>            
+                <li>
+                    <span class="nqf">NQF-Endorsed Measure</span>
+                </li>    
+                    </ul>
+        <div>
+                <h1>Long-stay nursing home care: percent of residents who have/had a catheter inserted and left in their bladder.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_Developer_String=Centers%20for%20Medicare%20%26%20Medicaid%20Services&amp;fLockTerm=Centers%2Bfor%2BMedicare%2B%2526%2BMedicaid%2BServices">Centers for Medicare &amp; Medicaid Services</a></li>
+                        <li>   
+                                <a id="11" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+        <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_Developer_String=RTI%20International&amp;fLockTerm=RTI%2BInternational">RTI International</a></li>
+                        <li>   
+                                <a id="2498" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. </td></tr></table><fieldvalue value="<table><tr><td>RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. </td></tr></table>"/>                    <p><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/Home/Disclaimer?id=50058&amp;contentType=fulltextlink&amp;redirect=https%253a%252f%252fwww.cms.gov%252fMedicare%252fQuality-Initiatives-Patient-Assessment-Instruments%252fNursingHomeQualityInits%252fDownloads%252fMDS-30-QM-Users-Manual-V90.pdf">View the original measure documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: RTI International. MDS 3.0 quality measures user's manual. v8.0. Baltimore (MD): Center for Medicare &amp; Medicaid Services (CMS); 2013 Apr 15. 80 p. </p></div><fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: RTI International. MDS 3.0 quality measures user's manual. v8.0. Baltimore (MD): Center for Medicare &amp;amp; Medicaid Services (CMS); 2013 Apr 15. 80 p. </p></div>"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+            <h4>Measure Hierarchy</h4>
+<a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_Collection_Hierarchy=objid25809&amp;fLockTerm=Nursing%2BHome%2BQuality%2BInitiative%2BMeasures">Nursing Home Quality Initiative Measures</a> &gt; <a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_Collection_Hierarchy=objid25809%3Bobjid26088&amp;fLockTerm=Long-stay%2BQuality%2BMeasures">Long-stay Quality Measures</a>                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Unspecified&amp;fLockTerm=Unspecified">Unspecified</a></li>                                              
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0023303&amp;fLockTerm=Length+of+Stay">Length of Stay</a>
+, <a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0023977&amp;fLockTerm=Long-Term+Care">Long-Term Care</a>
+, <a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0028688&amp;fLockTerm=Nursing+Homes">Nursing Homes</a>
+, <a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0042019&amp;fLockTerm=Urinary+Catheterization">Urinary Catheterization</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0023977&amp;fLockTerm=long-term+care">long-term care</a>
+, <a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0028688&amp;fLockTerm=Nursing+Homes">Nursing Homes</a>
+, <a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0042019&amp;fLockTerm=Urinary+Catheterization">Urinary Catheterization</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0521197&amp;fLockTerm=Indwelling+urinary+catheter">Indwelling urinary catheter</a>
+ (23973005), <a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0028688&amp;fLockTerm=Long+term+care+facility">Long term care facility</a>
+ (42665001), <a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0179800&amp;fLockTerm=Urethral+catheter">Urethral catheter</a>
+ (34759008)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SPN</h5>
+                    <div class="field-content">
+<a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_SPN_CUI=C0179800&amp;fLockTerm=CATHETER%2c+URETHRAL">CATHETER, URETHRAL</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/search?f_UMD_CUI=C0179800&amp;fLockTerm=Catheters%2c+Urinary%2c+Urethral">Catheters, Urinary, Urethral</a>
+ (10-762)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+    <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#563" class="section-mark">Measure Domain</a></li>
+                                    <li><a href="#566" class="section-mark">Brief Abstract</a></li>
+                                    <li><a href="#573" class="section-mark">Evidence Supporting the Measure</a></li>
+                                    <li><a href="#580" class="section-mark">State of Use of the Measure</a></li>
+                                    <li><a href="#583" class="section-mark">Application of the Measure in its Current Use</a></li>
+                                    <li><a href="#660" class="section-mark">National Strategy for Quality Improvement in Health Care</a></li>
+                                    <li><a href="#590" class="section-mark">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></li>
+                                    <li><a href="#593" class="section-mark">Data Collection for the Measure</a></li>
+                                    <li><a href="#605" class="section-mark">Computation of the Measure</a></li>
+                                    <li><a href="#615" class="section-mark">Identifying Information</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10731?contentType=pdf" class="pdf">.PDF 114.3 kb</a></li>
+                            <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10731?contentType=word" class="word">Word Document 52.6 kb</a></li>
+                            <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10731?contentType=xml" class="xml">.XML 37.9 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20170704105443/https://www.facebook.com/sharer/sharer.php?u=https://qualitymeasures.ahrq.gov/summaries/summary/50058/longstay-nursing-home-care-percent-of-residents-who-havehad-a-catheter-inserted-and-left-in-their-bladder" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20170704105443/https://twitter.com/share?text=&amp;url=https://qualitymeasures.ahrq.gov/summaries/summary/50058/longstay-nursing-home-care-percent-of-residents-who-havehad-a-catheter-inserted-and-left-in-their-bladder" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20170704105443/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://qualitymeasures.ahrq.gov/summaries/summary/50058/longstay-nursing-home-care-percent-of-residents-who-havehad-a-catheter-inserted-and-left-in-their-bladder&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20170704105443/mailto:/?Subject=AHRQ: Long-stay nursing home care: percent of residents who have/had a catheter inserted and left in their bladder.&amp;body=https://qualitymeasures.ahrq.gov/summaries/summary/50058/longstay-nursing-home-care-percent-of-residents-who-havehad-a-catheter-inserted-and-left-in-their-bladder" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Quality Measures Clearinghouse (NQMC). Measure summary: Long-stay nursing home care: percent of residents who have/had a catheter inserted and left in their bladder. In: National Quality Measures Clearinghouse (NQMC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Oct 01. [cited 2017 Jul 04]. Available: https://www.qualitymeasures.ahrq.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/citedownload/50058?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/citedownload/50058?format=enw">EndNote</a></li>
+                            <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/citedownload/50058?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/citedownload/50058?format=txt">Medlars</a></li>
+                            <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/citedownload/50058?format=ris">ProCite</a></li>
+                            <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/citedownload/50058">RefWorks</a></li>
+                            <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/citedownload/50058?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="50058" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="563" class="accordion-title section-563 is-active" role="tab" aria-expanded="true"><a href="#">Measure Domain</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Primary Measure Domain</a></h3>
+                    <p>Clinical Quality Measures: Process</p>
+                        <h3><a href="#">Secondary Measure Domain</a></h3>
+                    <p>Does not apply to this measure</p>
+
+            </div>
+                <h2 id="566" class="accordion-title section-566 is-active" role="tab" aria-expanded="true"><a href="#">Brief Abstract</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description</a></h3>
+                    <p><div class="content_para"><p>This measure is used to assess the percent of long-stay residents who have/had an indwelling catheter in the last 7 days.</p></div></p>
+                        <h3><a href="#">Rationale</a></h3>
+                    <p><div class="content_para"><p>At any given time, more than 100,000 residents in American nursing facilities have urethral catheters in place (Nursing Home Quality Initiative, 2004). Catheters are commonly used for urinary retention, wound management, and in some circumstances, patient comfort. When not properly maintained and monitored, indwelling catheters can cause chronic pain or infections leading to a greater functional decline and decreased quality of life for the resident (Centers for Medicare and Medicaid Services [CMS], 2002) A thorough assessment of the resident and evaluation of the medical need for the catheter can sometimes decrease or prevent the use of catheters.</p>
+<p>The indwelling catheter quality measure can potentially serve as a reminder to facilities of the importance of limiting catheter use (Brega et al., 2007). Overuse of catheters to manage incontinence, other than for short-term periods, is a potential sign of suboptimal care and an indication that further assessment and alternative treatment could be offered (Georgiou et al., 2001). Among nursing facility residents, there is evidence that institutional policies and educational programs strongly impact care provider practices. </p>
+<p>There are clear benefits to nursing homes conducting a thorough evaluation of the medical need for the catheterization of their residents. A determination regarding continued use or removal should be completed as soon as possible following admission. Nursing facilities need to assess the frequency of urinary catheterization practices to ensure that policies reflect current practice standards, and increase compliance with Centers for Disease Control guidelines for prevention of infection related to catheter use (Nursing Home Quality Initiative, 2004). </p>
+<p>Using Minimum Data Set (MDS) 2.0 data for April to June 2008, the national prevalence of indwelling catheters in nursing facilities was 7.7%, with a range from an average of 5.2% in Rhode Island to a high of an average of 11.3% in North Dakota (CMS, n.d.) National measure results have been stable over time, ranging from 5.7% in 2003 to 5.8% in 2008 (American Health Care Association [AHCA], 2009). The current indwelling catheter quality measure is currently one of the 19 publicly reported quality measures for nursing facilities on the CMS Nursing Home Compare Web site. </p>
+<p>Facilities can use information from this measure to determine whether they may be overusing catheters for their long stay residents. Reduced use of urinary catheters, and associated problems with catheter use including pain, infections and functional decline, are the expected benefits envisioned by use of this measure.</p></div></p>
+                        <h3><a href="#">Evidence for Rationale</a></h3>
+                    <p><table><tr><td>American Health Care Association (AHCA). Trends in publicly reported nursing facility quality measures. Washington (DC): American Health Care Association (AHCA); 2009 Jul. </td></tr></table></p>
+                    <p><table><tr><td>Brega A, Hittle D, Goodrich G, Kramer A, Conway K, Levy C. Empirical review of publicly reported nursing home quality measures. Denver (CO): Division of Health Care Policy and Research University of Colorado at Denver; Abt Associates, Inc.; 2007. </td></tr></table></p>
+                    <p><table><tr><td>Centers for Medicare &amp; Medicaid Services (CMS). Quality Measures Management Information System (QMIS). Measure details: measure 10176. [internet]. Iowa Foundation for Medical Care; 2002&nbsp;</td></tr></table></p>
+                    <p><table><tr><td>Centers for Medicare and Medicaid Services (CMS). CMS MDS quality measure/indicator report. [internet]. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); </td></tr></table></p>
+                    <p><table><tr><td>Georgiou A, Potter J, Brocklehurst JC, Lowe D, Pearson M. Measuring the quality of urinary continence care in long-term care facilities: an analysis of outcome indicators. Age Ageing. 2001 Jan;30(1):63-6. <a href="https://web.archive.org/web/20170704105443/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11322675" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>National Quality Forum measure information: percent of residents who have/had a catheter inserted and left in their bladder (long stay). Washington (DC): National Quality Forum (NQF); 2016 Jan 13. 13 p. </td></tr></table></p>
+                    <p><table><tr><td>Nursing home quality initiative. Fast facts: urinary catheters overview. Baltimore (MD): U.S. Department of Health and Human Services, Centers for Medicare &amp; Medicaid Services (CMS); 2004 Jan. </td></tr></table></p>
+                        <h3><a href="#">Primary Health Components</a></h3>
+                    <p><div class="content_para"><p>Nursing home; long-stay; bladder control; indwelling catheter</p></div></p>
+                        <h3><a href="#">Denominator Description</a></h3>
+                    <p><div class="content_para"><p>All long-stay residents with a selected target assessment, except those with exclusions (see the related "Denominator Inclusions/Exclusions" field)</p></div></p>
+                        <h3><a href="#">Numerator Description</a></h3>
+                    <p><div class="content_para"><p>Long-stay residents with a selected target assessment that indicates the use of indwelling catheters (see the related "Numerator Inclusions/Exclusions" field)</p></div></p>
+
+            </div>
+                <h2 id="573" class="accordion-title section-573 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Criterion of Quality for the Measure</a></h3>
+                    <p><ul><li>A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence</li><li>A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences</li><li>One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal</li></ul></p>
+                        <h3><a href="#">Additional Information Supporting Need for the Measure</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Indwelling urinary catheterization can frequently cause bacteremia, or in many cases, urinary tract infections, in the elderly. Catheterization causes bacteremia to occur at a rate of 3 to 10 percent of patients per day; a single in and out catheterization may cause bacteremia in as many as 20 percent of patients (Kamel, 2004). At least 40% of all infections seen in the nursing homes are in the urinary tract system; of those infections, 80% are due to urinary tract catheterization and instrumentation (Newman, Fader, &amp; Bliss, 2004). </li>
+    <li>In a study to measure the quality of urinary continence care in long-term care facilities, catheterization rates were approximately 10% in nursing facilities, ranging from 0% to 44% among fourteen nursing homes where data was collected on the outcome measure (Georgiou et al., 2001). Thus, there was great variability in this quality measure within settings. The authors were cautious to note that interpretation of the outcome results required more precise details on case-mix and the definition of outcome measures. In another study looking at state variation in indicators of quality of care in nursing facilities, limited variation among states was observed for urinary catheterization. However, among the risk-adjusted quality scores, the authors observed the most variation for urinary catheterization (an approximately twofold difference) (Castle, Degenholtz, &amp; Engberg, 2005). </li>
+    <li>Racial segregation between nursing facilities has been shown to be a major factor in racial disparities in the nursing facility population, primarily for African Americans. In 2000, a study drawing on national Minimum Data Set (MDS) and Online Survey, Certification, and Reporting (OSCAR) data found that two-thirds of all black residents were living in just 10% of all facilities (Smith et al., 2007). A 2002 survey of a stratified sample of 39 nursing facilities and 181 residential care/assisted living facilities in four states had similar findings (Howard et al, 2002). Facilities serving African Americans have demonstrated a lower level of quality care than those serving whites with lower staff to resident ratios and higher deficiency ratings (Grabowski, 2004). Minority groups in general and African Americans in particular have also had more limited access to nursing facility care than whites (National Center for Health Statistics [NCHS], Centers for Disease Control and Prevention [CDC], 1997) </li>
+</ul></p>
+                        <h3><a href="#">Evidence for Additional Information Supporting Need for the Measure</a></h3>
+                    <p><table><tr><td>Castle NG, Degenholtz H, Engberg J. State variability in indicators of quality of care in nursing facilities. J Gerontol A Biol Sci Med Sci. 2005 Sep;60(9):1173-9. <a href="https://web.archive.org/web/20170704105443/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16183959" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Georgiou A, Potter J, Brocklehurst JC, Lowe D, Pearson M. Measuring the quality of urinary continence care in long-term care facilities: an analysis of outcome indicators. Age Ageing. 2001 Jan;30(1):63-6. <a href="https://web.archive.org/web/20170704105443/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11322675" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Grabowski DC. The admission of blacks to high-deficiency nursing homes. Med Care. 2004 May;42(5):456-64. <a href="https://web.archive.org/web/20170704105443/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15083106" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Howard DL, Sloane PD, Zimmerman S, Eckert JK, Walsh JF, Buie VC, Taylor PJ, Koch GG. Distribution of African Americans in residential care/assisted living and nursing homes: more evidence of racial disparity. Am J Public Health. 2002 Aug;92(8):1272-7. <a href="https://web.archive.org/web/20170704105443/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12144983" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Kamel HK. Managing urinary tract infections in the nursing home: myths, mysteries and realities. Int J Geriatr Gerontol. 2004;1(2)</td></tr></table></p>
+                    <p><table><tr><td>National Center for Health Statistics (NCHS), Centers for Disease Control and Prevention (CDC). Health, United States 1996-97 and injury chartbook. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 1997. 341 p. </td></tr></table></p>
+                    <p><table><tr><td>National Quality Forum measure information: percent of residents who have/had a catheter inserted and left in their bladder (long stay). Washington (DC): National Quality Forum (NQF); 2016 Jan 13. 13 p. </td></tr></table></p>
+                    <p><table><tr><td>Newman DK, Fader M, Bliss DZ. Managing incontinence using technology, devices, and products: directions for research. Nurs Res. 2004 Nov-Dec;53(6 Suppl):S42-8. [51 references] <a href="https://web.archive.org/web/20170704105443/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15586147" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Smith DB, Feng Z, Fennell ML, Zinn JS, Mor V. Separate and unequal: racial segregation and disparities in quality across U.S. nursing homes. Health Aff (Millwood). 2007 Sep-Oct;26(5):1448-58. <a href="https://web.archive.org/web/20170704105443/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17848457" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Extent of Measure Testing</a></h3>
+                    <p><div class="content_para"><p>A joint RAND/Harvard team engaged in a deliberate iterative process to incorporate provider and consumer input, expert consultation, scientific advances in clinical knowledge about screening and assessment, Centers for Medicare &amp; Medicaid Services (CMS) experience, and intensive item development and testing by a national Veteran's Health Administration (VHA) consortium. This process allowed the final national testing of Minimum Data Set (MDS) 3.0 to include well-developed and tested items.</p>
+<p>The national validation and evaluation of the MDS 3.0 included 71 community nursing homes (NHs) (3,822 residents) and 19 VHA NHs (764 residents), regionally distributed throughout the United States. The evaluation was designed to test and analyze inter-rater agreement (reliability) between gold-standard (research) nurses and between facility and gold-standard nurses, validity of key sections, response rates for interview items, anonymous feedback on changes from participating nurses, and time to complete the MDS assessment.</p>
+<p>Analysis of the test results showed that MDS 3.0 items had either excellent or very good reliability even when comparing research nurse to facility-nurse assessment. In most instances these were higher than those seen in the past with MDS 2.0. In addition, for the cognitive, mood and behavior items, national testing included collection of independent criterion or gold-standard measures. These MDS 3.0 sections were more highly matched to criterion measures than were MDS 2.0 items.</p>
+<p>Improvements incorporated in MDS 3.0 produced a more efficient assessment: better quality information was obtained in less time. Such gains should improve identification of resident needs and enhance resident-focused care planning. In addition, including items recognized in other care settings is likely to enhance communication among providers. These significant gains reflect the cumulative effect of changes across the tool, including use of more valid items, direct inclusion of resident reports, improved clarity of retained items, deletion of poorly performing items, form redesign, and briefer assessment periods for clinical items.</p>
+<p>Refer to <em>Development &amp; Validation of a Revised Nursing Home Assessment Tool: MDS 3.0.</em> for additional information.</p></div></p>
+                        <h3><a href="#">Evidence for Extent of Measure Testing</a></h3>
+                    <p><table><tr><td>Saliba D, Buchanan J. Development &amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp; Medicaid Services; 2008 Apr. 263 p. </td></tr></table></p>
+
+            </div>
+                <h2 id="580" class="accordion-title section-580 is-active" role="tab" aria-expanded="true"><a href="#">State of Use of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">State of Use</a></h3>
+                    <p>Current routine use</p>
+                        <h3><a href="#">Current Use</a></h3>
+                    <p>Decision-making by consumers about health plan/provider choice</p>
+                    <p>Internal quality improvement</p>
+                    <p>National reporting</p>
+                    <p>Public reporting</p>
+
+            </div>
+                <h2 id="583" class="accordion-title section-583 is-active" role="tab" aria-expanded="true"><a href="#">Application of the Measure in its Current Use</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measurement Setting</a></h3>
+                    <p>Skilled Nursing Facilities/Nursing Homes</p>
+                        <h3><a href="#">Professionals Involved in Delivery of Health Services</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Nurses</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Least Aggregated Level of Services Delivery Addressed</a></h3>
+                    <p>Single Health Care Delivery or Public Health Organizations</p>
+                        <h3><a href="#">Statement of Acceptable Minimum Sample Size</a></h3>
+                    <p>Specified</p>
+                        <h3><a href="#">Target Population Age</a></h3>
+                    <p><div class="content_para"><p>All ages</p></div></p>
+                        <h3><a href="#">Target Population Gender</a></h3>
+                    <p>Either male or female</p>
+
+            </div>
+                <h2 id="660" class="accordion-title section-660 is-active" role="tab" aria-expanded="true"><a href="#">National Strategy for Quality Improvement in Health Care</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">National Quality Strategy Aim</a></h3>
+                    <p>Better Care</p>
+                        <h3><a href="#">National Quality Strategy Priority</a></h3>
+                    <p>Prevention and Treatment of Leading Causes of Mortality</p>
+
+            </div>
+                <h2 id="590" class="accordion-title section-590 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+
+            </div>
+                <h2 id="593" class="accordion-title section-593 is-active" role="tab" aria-expanded="true"><a href="#">Data Collection for the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Case Finding Period</a></h3>
+                    <p><div class="content_para"><p>Quarterly</p></div></p>
+                        <h3><a href="#">Denominator Sampling Frame</a></h3>
+                    <p>Patients associated with provider</p>
+                        <h3><a href="#">Denominator (Index) Event or Characteristic</a></h3>
+                    <p>Diagnostic Evaluation</p>
+                    <p>Institutionalization</p>
+                        <h3><a href="#">Denominator Time Window</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Denominator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+All long-stay* residents with a selected target assessment, except those with exclusions</p>
+<p class="Note">*<strong>Long-stay</strong>: An episode with cumulative days in facility (CDIF) greater than or equal to 101 days as of the end of the target period.</p>
+<p><strong>Exclusions</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Target assessment is an admission assessment <em><strong>or</strong></em> a prospective payment system (PPS) 5-day or readmission/return assessment </li>
+    <li>Target assessment indicates that indwelling catheter status is missing </li>
+    <li>Target assessment indicates neurogenic bladder <em><strong>or</strong></em> neurogenic bladder status is missing </li>
+    <li>Target assessment indicates obstructive uropathy <em><strong>or</strong></em> obstructive uropathy status is missing </li>
+</ol>
+<p class="Note"><strong>Note</strong>: Refer to the original measure documentation for details.</p></div></p>
+                        <h3><a href="#">Exclusions/Exceptions</a></h3>
+                    <p>Unspecified</p>
+                        <h3><a href="#">Numerator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+Long-stay residents with a selected target assessment that indicates the use of indwelling catheters</p>
+<p class="Note"><strong>Note</strong>: Refer to the original measure documentation for details.</p>
+<p><strong>Exclusions</strong><br/>
+Unspecified</p></div></p>
+                        <h3><a href="#">Numerator Search Strategy</a></h3>
+                    <p>Institutionalization</p>
+                        <h3><a href="#">Data Source</a></h3>
+                    <p>Administrative clinical data</p>
+                        <h3><a href="#">Type of Health State</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Instruments Used and/or Associated with the Measure</a></h3>
+                    <p><div class="content_para"><p>Center for Medicare &amp; Medicaid Services (CMS) Minimum Data Set (MDS) - Resident Assessment Instrument (Version 3.0)</p></div></p>
+
+            </div>
+                <h2 id="605" class="accordion-title section-605 is-active" role="tab" aria-expanded="true"><a href="#">Computation of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measure Specifies Disaggregation</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Scoring</a></h3>
+                    <p>Rate/Proportion</p>
+                        <h3><a href="#">Interpretation of Score</a></h3>
+                    <p>Desired value is a lower score</p>
+                        <h3><a href="#">Allowance for Patient or Population Factors</a></h3>
+                    <p>Risk adjustment devised specifically for this measure/condition</p>
+                        <h3><a href="#">Description of Allowance for Patient or Population Factors</a></h3>
+                    <p><div class="content_para"><p>Risk adjustment refines raw quality measures (QM) scores to better reflect the prevalence of problems that facilities should be able to address. Two complementary approaches to risk adjustment are applied to the QMs.</p>
+<p>One approach involves exclusion of residents whose outcomes are not under nursing facility control (e.g., outcome is evidenced on admission to the facility) or the outcome may be unavoidable (e.g., the resident has end-stage disease or is comatose). All of the QMs, except the vaccination QMs, are shaped by one or more exclusions. For each QM, the prevalence of the outcome across all residents in a nursing facility, after exclusions, is the <em>facility-level observed QM score</em>.</p>
+<p>A second approach involves adjusting QM scores directly, using logistic regression. This method of adjustment employs<em> resident-level covariates</em> that are found to increase the risks of an outcome. Detailed specifications for resident-level covariates are presented in the Quality Measure Logical Specifications section of the <em>MDS 3.0 Quality Measures User's Manual</em>.</p>
+<p>Resident-level limited covariate risk adjustment for residents who have:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Frequent bowel incontinence on prior assessment (H0400 = [2 or 3])
+    <ul style="list-style-type: disc;">
+        <li>Covariate = [1] if H0400 = [2, 3] </li>
+        <li>Covariate = [0] if H0400 = [0, 1, 9, -] </li>
+    </ul>
+    </li>
+    <li>Pressure ulcers at stages I, II, III, or IV on prior assessment:
+    <ul style="list-style-type: disc;">
+        <li>Covariate = [1] if any of the following are true:
+        <ul style="list-style-type: disc;">
+            <li>M0300B1 = [1, 2, 3, 5, 6, 7, 8, 9], <em><strong>or</strong></em> </li>
+            <li>M0300C1 = [1, 2, 3, 5, 6, 7, 8, 9], <em><strong>or</strong></em> </li>
+            <li>M0300D1 = [1, 2, 3, 5, 6, 7, 8, 9], <em><strong>or</strong></em> </li>
+        </ul>
+        </li>
+        <li>Covariate = [0] if the following is true:
+        <ul style="list-style-type: disc;">
+            <li>M0300B1 = [0, -, ^] <strong><em>and</em></strong> </li>
+            <li>M0300C1 = [0, -, ^] <strong><em>and</em></strong> </li>
+            <li>M0300D1 = [0, -, ^] </li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+    <li>All covariates are missing if no prior assessment is available </li>
+</ol></div></p>
+                        <h3><a href="#">Standard of Comparison</a></h3>
+                    <p>External comparison at a point in, or interval of, time</p>
+                    <p>Internal time comparison</p>
+
+            </div>
+                <h2 id="615" class="accordion-title section-615 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Original Title</a></h3>
+                    <p><div class="content_para"><p>Percent of residents who have/had a catheter inserted and left in their bladder (long-stay).</p></div></p>
+                        <h3><a href="#">Measure Collection Name</a></h3>
+                    <p>Nursing Home Quality Initiative Measures</p>
+                        <h3><a href="#">Measure Set Name</a></h3>
+                    <p>Long-stay Quality Measures</p>
+                        <h3><a href="#">Submitter</a></h3>
+                    <p>Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]</p>
+                        <h3><a href="#">Developer</a></h3>
+                    <p>Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]</p>
+                    <p>RTI International - Nonprofit Research Organization</p>
+                        <h3><a href="#">Funding Source(s)</a></h3>
+                    <p><div class="content_para"><p>United States (U.S.) Government</p></div></p>
+                        <h3><a href="#">Composition of the Group that Developed the Measure</a></h3>
+                    <p><div class="content_para"><p>United States (U.S.) Government Staff, Clinical Experts, Researchers, and Statisticians</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Other Potential Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>No conflicts of interest exist.</p></div></p>
+                        <h3><a href="#">Endorser</a></h3>
+                    <p>National Quality Forum</p>
+                        <h3><a href="#">NQF Number</a></h3>
+                    <p>0686</p>
+                        <h3><a href="#">Date of Endorsement</a></h3>
+                    <p><div class="content_para"><p>2016 Apr 4</p></div></p>
+                        <h3><a href="#">Measure Initiative(s)</a></h3>
+                    <p>Nursing Home Compare</p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>This measure was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date of Most Current Version in NQMC</a></h3>
+                    <p>2015 Oct</p>
+                        <h3><a href="#">Measure Maintenance</a></h3>
+                    <p><div class="content_para"><p>Annual and (every three years) endorsement</p></div></p>
+                        <h3><a href="#">Date of Next Anticipated Revision</a></h3>
+                    <p><div class="content_para"><p>Quarter 4 2016</p></div></p>
+                        <h3><a href="#">Measure Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: RTI International. MDS 3.0 quality measures user's manual. v8.0. Baltimore (MD): Center for Medicare &amp; Medicaid Services (CMS); 2013 Apr 15. 80 p. </p></div></p>
+                        <h3><a href="#">Source(s)</a></h3>
+                    <p><table><tr><td>RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. </td></tr></table></p>
+                        <h3><a href="#">Measure Availability</a></h3>
+                    <p><div class="content_para"><p>Source available from the <a href="https://web.archive.org/web/20170704105443/https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/Downloads/MDS-30-QM-Users-Manual-V90.pdf" target="_blank" title="CMS Web site">Centers for Medicare &amp; Medicaid Services (CMS) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>For more information, refer to the CMS Web site at <a href="https://web.archive.org/web/20170704105443/http://www.cms.gov/" target="_blank" title="CMS Web site">www.cms.gov</a>&nbsp;<img alt="External Web Site Policy" src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available: </p>
+<ul style="list-style-type: disc;">
+    <li>Saliba D, Buchanan J. Development &amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp; Medicaid Services; 2008 Apr. 263 p. Available from the <a href="https://web.archive.org/web/20170704105443/http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/downloads/MDS30FinalReport.pdf" title="Centers for Medicare &amp; Medicaid Services (CMS) Web site" target="_blank">Centers for Medicare &amp; Medicaid Services (CMS) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Nursing Home Compare. [internet]. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS). 2000- [updated 2012 Nov 15]; [cited 2012 Nov 27]. This tool is available from the <a href="https://web.archive.org/web/20170704105443/http://www.medicare.gov/nursinghomecompare/search.html" target="_blank" title="Nursing Home Compare">Medicare Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">NQMC Status</a></h3>
+                    <p><div class="content_para"><p>The NQMC summary was completed by ECRI on July 22, 2004. The information was verified by the measure developer on August 30, 2004. </p>
+<p>This NQMC summary was updated by ECRI on November 28, 2005. The information was verified by the measure developer on February 8, 2006 and again on October 17, 2007. </p>
+<p>This NQMC summary was retrofitted into the new template on June 28, 2011. </p>
+<p>This NQMC summary was updated by ECRI Institute on August 15, 2013. The information was verified by the measure developer on December 3, 2013.</p>
+<p>This NQMC summary was updated again by ECRI Institute on May 31, 2016. The information was not verified by the measure developer. </p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>No copyright restrictions apply.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NQMC Disclaimer</a></h3>
+                    <p><p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria">NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NQMC Measure Summaries</h3>
+            <ul>
+                <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about/summaries/varieties-of-measures-in-nqmc" class="internal-link">Varieties of Measures</a></li>
+                <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about/quality-measure-tutorials/uses-of-quality-measures" class="internal-link">Uses of Measures</a></li>
+                <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about/quality-measure-tutorials/selecting-quality-measures" class="internal-link">Selecting Measures</a></li>
+            </ul>
+            <p><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about/summaries/faq" class="help-button">Measure Summary FAQ</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NQMC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011051</li>
+            <li>May 2017</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/summary/50740/oncology-percentage-of-female-patients-aged-18-years-and-older-with-stage-i-t1b-through-iiic-estrogen-receptor-er-or-progesterone-receptor-pr-positive-breast-cancer-who-were-prescribed-tamoxifen-or-aromatase-inhibitor-ai-during-the-12month-reporting-period">Oncology: percentage of female patients aged 18 years and older with Stage I (T1b) through IIIC, estrogen receptor (ER) or progesterone receptor (PR) positive breast cancer who were prescribed tamoxifen or aromatase inhibitor (AI) during the 12-month reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011054</li>
+            <li>Jun 2017</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/summary/50743/prostate-cancer-percentage-of-patients-regardless-of-age-with-a-diagnosis-of-prostate-cancer-at-low-or-very-low-risk-of-recurrence-receiving-interstitial-prostate-brachytherapy-or-external-beam-radiotherapy-to-the-prostate-or-radical-prostatectomy-or-cryothera">Prostate cancer: percentage of patients, regardless of age, with a diagnosis of prostate cancer at low (or very low) risk of recurrence receiving interstitial prostate brachytherapy, OR external beam radiotherapy to the prostate, OR radical prostatectomy, OR cryotherapy who did not have a bone scan performed at any time since diagnosis of prostate cancer.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011053</li>
+            <li>Jun 2017</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/summary/50742/oncology-percentage-of-patient-visits-regardless-of-patient-age-with-a-diagnosis-of-cancer-currently-receiving-chemotherapy-or-radiation-therapy-in-which-pain-intensity-is-quantified">Oncology: percentage of patient visits, regardless of patient age, with a diagnosis of cancer currently receiving chemotherapy or radiation therapy in which pain intensity is quantified.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011052</li>
+            <li>May 2017</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/summary/50741/oncology-percentage-of-patients-aged-18-through-80-years-with-american-joint-committee-on-cancer-ajcc-stage-iii-colon-cancer-who-are-referred-for-adjuvant-chemotherapy-prescribed-adjuvant-chemotherapy-or-have-previously-received-adjuvant-chemotherapy-within-th">Oncology: percentage of patients aged 18 through 80 years with American Joint Committee on Cancer (AJCC) Stage III colon cancer who are referred for adjuvant chemotherapy, prescribed adjuvant chemotherapy, or have previously received adjuvant chemotherapy within the 12-month reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011226</li>
+            <li>Jul 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/summary/50943/breast-cancer-proportion-of-patients-with-breast-cancer-who-are-enrolled-in-an-interventional-clinical-trial-or-translational-research">Breast cancer: proportion of patients with breast cancer who are enrolled in an interventional clinical trial or translational research.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20170704105443/https://qualitymeasures.ahrq.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/disclaimer?id=50058&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.svg">
+					  	<img src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.png" alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/">Home</a></li>
+		                <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a></li>
+						<li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/rss">RSS</a></li>
+					    <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20170704105443/https://qualitymeasures.ahrq.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://web.archive.org/web/20170704105443/https://www.guideline.gov/" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.svg">
+									<img src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20170704105443/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20170704105443im_/https://qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20170704105443/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20170704105443js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20170704105443js_/https://qualitymeasures.ahrq.gov/cassette.axd/script/21385f83c5bf538e76ab38fa354f052b707282c0/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 10:54:43 Jul 04, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:04:20 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 97.545 (3)
+  esindex: 0.006
+  captures_list: 121.846
+  CDXLines.iter: 19.665 (3)
+  PetaboxLoader3.datanode: 93.155 (4)
+  exclusion.robots: 0.174
+  exclusion.robots.policy: 0.164
+  RedisCDXSource: 0.537
+  PetaboxLoader3.resolve: 247.54
+  load_resource: 273.059
+-->

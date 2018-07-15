@@ -1,0 +1,940 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=654;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+    <!-- ForeSee Code -->
+    <script type="text/javascript">
+
+        // Foresee survey call
+        // Answers Cloud Services Embed Script v1.02
+        // DO NOT MODIFY BELOW THIS LINE *****************************************
+        ; (function (g) {
+            var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
+                aex = {
+                    "src": "//web.archive.org/web/20170702182344/https://gateway.answerscloud.com/qualitymeasures-ahrq-gov/production/gateway.min.js",
+                    "type": "text/javascript",
+                    "async": "true",
+                    "data-vendor": "acs",
+                    "data-role": "gateway"
+                };
+            for (var attr in aex) { am.setAttribute(attr, aex[attr]); }
+            h.appendChild(am);
+            g['acsReady'] = function () { var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0), k = setInterval(function () { if (typeof g[aT] === 'function') { clearInterval(k); for (i = 0; i < args.length; i++) { g[aT].call(g, function (fn) { return function () { setTimeout(fn, 1) }; }(args[i])); } } }, 50); };
+        })(window);
+        // DO NOT MODIFY ABOVE THIS LINE *****************************************
+    </script>
+    <!-- End ForeSee Code -->
+
+
+        <title>Substance use: percent of patients who are identified with alcohol or drug disorder who received a prescription for FDA-approved medication for alcohol or drug use disorder or a referral for addictions treatment. | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20170702182344/https://qualitymeasures.ahrq.gov/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20170702182344cs_/https://qualitymeasures.ahrq.gov/cassette.axd/stylesheet/3a1406960f01c082e8cd734e7c19b87ae6d17b1b/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type ="text javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­Federated­Analytics­Min.js?agency=AHRQ&amp;pua=UA-61009437-1"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20170702182344if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20170702182344/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20170702182344if_/https://www.googletagmanager.com/ns.html?id=GTM-KXQCDQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20170702182344/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20170702182344/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20170702182344/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/" class="header-logo NQMC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png">
+				        <source srcset="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header_m.png">
+				        <img src="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png" alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20170702182344/https://qualitymeasures.ahrq.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20170702182344/https://qualitymeasures.ahrq.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20170702182344/https://qualitymeasures.ahrq.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/">Home</a></li>
+		        <li class=""><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+	</div><!-- /.header -->
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Measure Summary</li>
+            <li>NQMC:010149</li>
+            <li>Oct 2015
+            </li>            
+                <li>
+                    <span class="nqf">NQF-Endorsed Measure</span>
+                </li>    
+                    </ul>
+        <div>
+                <h1>Substance use: percent of patients who are identified with alcohol or drug disorder who received a prescription for FDA-approved medication for alcohol or drug use disorder or a referral for addictions treatment.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_Developer_String=The%20Joint%20Commission&amp;fLockTerm=The%2BJoint%2BCommission">The Joint Commission</a></li>
+                        <li>   
+                                <a id="10" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Specifications manual for national hospital inpatient quality measures, version 5.0b. Centers for Medicare &amp; Medicaid Services (CMS), The Joint Commission; Effective 2015 Oct 1. various p. </td></tr></table><fieldvalue value="<table><tr><td>Specifications manual for national hospital inpatient quality measures, version 5.0b. Centers for Medicare &amp; Medicaid Services (CMS), The Joint Commission; Effective 2015 Oct 1. various p. </td></tr></table>"/>                    <p><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/Home/Disclaimer?id=49185&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.jointcommission.org%252fspecifications_manual_for_national_hospital_inpatient_quality_measures.aspx">View the original measure documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: Specifications manual for national hospital inpatient quality measures, version 4.3b. Centers for Medicare &amp; Medicaid Services (CMS), The Joint Commission; 2014 Apr. various p.</p></div><fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: Specifications manual for national hospital inpatient quality measures, version 4.3b. Centers for Medicare &amp;amp; Medicaid Services (CMS), The Joint Commission; 2014 Apr. various p.</p></div>"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+            <h4>Measure Hierarchy</h4>
+<a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_Collection_Hierarchy=objid25813&amp;fLockTerm=National%2BHospital%2BInpatient%2BQuality%2BMeasures">National Hospital Inpatient Quality Measures</a> &gt; <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_Collection_Hierarchy=objid25813%3Bobjid35561&amp;fLockTerm=Substance%2BUse">Substance Use</a>                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adult%3A%2080%20years%20old%20and%20older&amp;fLockTerm=Adult%253a%2B80%2Byears%2Bold%2Band%2Bolder">Adult: 80 years old and older</a></li>                                              
+                        <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adult%3A%2065-79%20years%20old&amp;fLockTerm=Adult%253a%2B65-79%2Byears%2Bold">Adult: 65-79 years old</a></li>                                              
+                        <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adult%3A%2045-64%20years%20old&amp;fLockTerm=Adult%253a%2B45-64%2Byears%2Bold">Adult: 45-64 years old</a></li>                                              
+                        <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adult%3A%2019-44%20years%20old&amp;fLockTerm=Adult%253a%2B19-44%2Byears%2Bold">Adult: 19-44 years old</a></li>                                              
+                        <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adolescent%3A%2013-18%20years%20old&amp;fLockTerm=Adolescent%253a%2B13-18%2Byears%2Bold">Adolescent: 13-18 years old</a></li>                                              
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_ICD9CM_CUI=C0085762&amp;fLockTerm=Alcohol+abuse%2c+unspecified">Alcohol abuse, unspecified</a>
+ (305.00)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0001948&amp;fLockTerm=Alcohol+Drinking">Alcohol Drinking</a>
+, <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0236664&amp;fLockTerm=Alcohol-Related+Disorders">Alcohol-Related Disorders</a>
+, <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0033081&amp;fLockTerm=Drug+Prescriptions">Drug Prescriptions</a>
+, <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0013216&amp;fLockTerm=Drug+Therapy">Drug Therapy</a>
+, <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0304227&amp;fLockTerm=Prescription+Drugs">Prescription Drugs</a>
+, <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0034928&amp;fLockTerm=Referral+and+Consultation">Referral and Consultation</a>
+, <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0236969&amp;fLockTerm=Substance-Related+Disorders">Substance-Related Disorders</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0085762&amp;fLockTerm=Alcohol+abuse">Alcohol abuse</a>
+, <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0001948&amp;fLockTerm=Alcohol+consumption">Alcohol consumption</a>
+, <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0013146&amp;fLockTerm=Drug+abuse">Drug abuse</a>
+, <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0033081&amp;fLockTerm=Drug+Prescriptions">Drug Prescriptions</a>
+, <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0013216&amp;fLockTerm=Pharmacotherapy">Pharmacotherapy</a>
+, <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_MTH_CUI=C2239117&amp;fLockTerm=Prescription+of+drug+(procedure)">Prescription of drug (procedure)</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0085762&amp;fLockTerm=Alcohol+abuse">Alcohol abuse</a>
+ (15167005), <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0001948&amp;fLockTerm=Alcohol+intake">Alcohol intake</a>
+ (160573003), <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0236664&amp;fLockTerm=Alcohol-induced+organic+mental+disorder">Alcohol-induced organic mental disorder</a>
+ (29212009), <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0013146&amp;fLockTerm=Drug+abuse">Drug abuse</a>
+ (26416006), <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0700570&amp;fLockTerm=Drug+addiction+therapy">Drug addiction therapy</a>
+ (266707007), <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0033081&amp;fLockTerm=Drug+prescription">Drug prescription</a>
+ (182817000), <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0013216&amp;fLockTerm=Drug+therapy">Drug therapy</a>
+ (416608005), <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0184741&amp;fLockTerm=Patient+referral+for+consultation">Patient referral for consultation</a>
+ (44383000), <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0304227&amp;fLockTerm=Prescription+drug">Prescription drug</a>
+ (73639000), <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C2239117&amp;fLockTerm=Prescription+of+drug">Prescription of drug</a>
+ (33633005)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+    <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#563" class="section-mark">Measure Domain</a></li>
+                                    <li><a href="#566" class="section-mark">Brief Abstract</a></li>
+                                    <li><a href="#573" class="section-mark">Evidence Supporting the Measure</a></li>
+                                    <li><a href="#580" class="section-mark">State of Use of the Measure</a></li>
+                                    <li><a href="#583" class="section-mark">Application of the Measure in its Current Use</a></li>
+                                    <li><a href="#660" class="section-mark">National Strategy for Quality Improvement in Health Care</a></li>
+                                    <li><a href="#590" class="section-mark">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></li>
+                                    <li><a href="#593" class="section-mark">Data Collection for the Measure</a></li>
+                                    <li><a href="#605" class="section-mark">Computation of the Measure</a></li>
+                                    <li><a href="#615" class="section-mark">Identifying Information</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10149?contentType=pdf" class="pdf">.PDF 104.2 kb</a></li>
+                            <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10149?contentType=word" class="word">Word Document 50.8 kb</a></li>
+                            <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10149?contentType=xml" class="xml">.XML 29.3 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20170702182344/https://www.facebook.com/sharer/sharer.php?u=https://qualitymeasures.ahrq.gov/summaries/summary/49185/substance-use-percent-of-patients-who-are-identified-with-alcohol-or-drug-disorder-who-received-a-prescription-for-fdaapproved-medication-for-alcohol-or-drug-use-disorder-or-a-referral-for-addictions-treatment" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20170702182344/https://twitter.com/share?text=&amp;url=https://qualitymeasures.ahrq.gov/summaries/summary/49185/substance-use-percent-of-patients-who-are-identified-with-alcohol-or-drug-disorder-who-received-a-prescription-for-fdaapproved-medication-for-alcohol-or-drug-use-disorder-or-a-referral-for-addictions-treatment" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20170702182344/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://qualitymeasures.ahrq.gov/summaries/summary/49185/substance-use-percent-of-patients-who-are-identified-with-alcohol-or-drug-disorder-who-received-a-prescription-for-fdaapproved-medication-for-alcohol-or-drug-use-disorder-or-a-referral-for-addictions-treatment&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20170702182344/mailto:/?Subject=AHRQ: Substance use: percent of patients who are identified with alcohol or drug disorder who received a prescription for FDA-approved medication for alcohol or drug use disorder or a referral for addictions treatment.&amp;body=https://qualitymeasures.ahrq.gov/summaries/summary/49185/substance-use-percent-of-patients-who-are-identified-with-alcohol-or-drug-disorder-who-received-a-prescription-for-fdaapproved-medication-for-alcohol-or-drug-use-disorder-or-a-referral-for-addictions-treatment" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Quality Measures Clearinghouse (NQMC). Measure summary: Substance use: percent of patients who are identified with alcohol or drug disorder who received a prescription for FDA-approved medication for alcohol or drug use disorder or a referral for addictions treatment. In: National Quality Measures Clearinghouse (NQMC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Oct 01. [cited 2017 Jul 02]. Available: https://www.qualitymeasures.ahrq.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/citedownload/49185?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/citedownload/49185?format=enw">EndNote</a></li>
+                            <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/citedownload/49185?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/citedownload/49185?format=txt">Medlars</a></li>
+                            <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/citedownload/49185?format=ris">ProCite</a></li>
+                            <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/citedownload/49185">RefWorks</a></li>
+                            <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/citedownload/49185?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="49185" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="563" class="accordion-title section-563 is-active" role="tab" aria-expanded="true"><a href="#">Measure Domain</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Primary Measure Domain</a></h3>
+                    <p>Clinical Quality Measures: Process</p>
+                        <h3><a href="#">Secondary Measure Domain</a></h3>
+                    <p>Does not apply to this measure</p>
+
+            </div>
+                <h2 id="566" class="accordion-title section-566 is-active" role="tab" aria-expanded="true"><a href="#">Brief Abstract</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description</a></h3>
+                    <p><div class="content_para"><p>This measure is used to assess the percent of hospitalized patients 18 years of age and older who are identified with an alcohol or drug use disorder who received a prescription at discharge for Food and Drug Administration (FDA)-approved medications for alcohol or drug use disorder OR a referral for addictions treatment.</p></div></p>
+                        <h3><a href="#">Rationale</a></h3>
+                    <p><div class="content_para"><p>Excessive use of alcohol and drugs has a substantial harmful impact on health and society in the United States. It is a drain on the economy and a source of enormous personal tragedy (National Quality Forum, 2007). In 1998 the economic costs to society were 185 billion dollars for alcohol misuse, and 143 billion dollars for drug misuse (Harwood, 2000). Health care spending was 19 billion dollars for alcohol problems, and 14 billion dollars was spent treating drug problems. </p>
+<p>Nearly a quarter of a trillion dollars per year in lost productivity is attributable to substance use. More than 537,000 die each year as a consequence of alcohol, drug, and tobacco use making use of these substances the cause of one out of four deaths in the United States (Mokdad et al., 2004).</p>
+<p>An estimated 22.6 million adolescents and adults meet criteria for a substance use disorder. In a multi-state study that screened 459,599 patients in general hospital and medical settings, 23% of patients screened positive (Madras et al., 2009).</p>
+<p>Clinical trials have demonstrated that brief interventions, especially prior to the onset of addiction, significantly improve health and reduce costs, and that similar benefits occur in those with addictive disorders who are referred to treatment (Fleming et al., 2002). </p>
+<p>In a study on the provision of evidence-based care and preventive services provided in hospitals for 30 different medical conditions, quality varied substantially according to diagnosis. Adherence to recommended practices for treatment of substance use ranked last, with only 10% of patients receiving proper care (Gentilello et al., 2005). Currently, less than one in twenty patients with an addiction are referred for treatment (Gentilello et al., 1999).</p>
+<p>Hospitalization provides a prime opportunity to address the entire spectrum of substance use problems within the health care system (Gentilello et al., 2005; Gentilello et al., 1999). Approximately 8% of general hospital inpatients and 40 to 60 percent of traumatically-injured inpatients and psychiatric inpatients have substance use disorders (Gentilello et al., 1999).</p></div></p>
+                        <h3><a href="#">Evidence for Rationale</a></h3>
+                    <p><table><tr><td>Fleming MF, Mundt MP, French MT, Manwell LB, Stauffacher EA, Barry KL. Brief physician advice for problem drinkers: long-term efficacy and benefit-cost analysis. Alcohol Clin Exp Res. 2002 Jan;26(1):36-43. <a href="https://web.archive.org/web/20170702182344/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11821652" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Gentilello LM, Ebel BE, Wickizer TM, Salkever DS, Rivara FP. Alcohol interventions for trauma patients treated in emergency departments and hospitals: a cost benefit analysis. Ann Surg. 2005 Apr;241(4):541-50. <a href="https://web.archive.org/web/20170702182344/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15798453" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Gentilello LM, Villaveces A, Ries RR, Nason KS, Daranciang E, Donovan DM, Copass M, Jurkovich GJ, Rivara FP. Detection of acute alcohol intoxication and chronic alcohol dependence by trauma  center staff. J Trauma. 1999 Dec;47(6):1131-5; discussion 1135-9. <a href="https://web.archive.org/web/20170702182344/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10608546" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Harwood H. Updating estimates of the economic costs of alcohol abuse in the United States: estimates, update methods and data. [internet]. Falls Church (VA): The Lewin Group for the National Institute on Alcohol Abuse and Alcoholism; 2000&nbsp;[accessed 2003 Mar 01]. </td></tr></table></p>
+                    <p><table><tr><td>Madras BK, Compton WM, Avula D, Stegbauer T, Stein JB, Clark HW. Screening, brief interventions, referral to treatment (SBIRT) for illicit drug and alcohol use at multiple healthcare sites: comparison at intake and 6 months later. Drug Alcohol Depend. 2009 Jan 1;99(1-3):280-95. <a href="https://web.archive.org/web/20170702182344/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18929451" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Mokdad AH, Marks JS, Stroup DF, Gerberding JL. Actual causes of death in the United States, 2000. JAMA. 2004 Mar 10;291(10):1238-45. [97 references] <a href="https://web.archive.org/web/20170702182344/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15010446" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>National Quality Forum. National voluntary consensus standards for the treatment of substance use conditions: evidence-based treatment practices; a consensus report. Washington (DC): National Quality Forum; 2007. </td></tr></table></p>
+                    <p><table><tr><td>Specifications manual for national hospital inpatient quality measures, version 5.0b. Centers for Medicare &amp; Medicaid Services (CMS), The Joint Commission; Effective 2015 Oct 1. various p. </td></tr></table></p>
+                        <h3><a href="#">Primary Health Components</a></h3>
+                    <p><div class="content_para"><p>Substance use; alcohol or drug use disorder; medication; addictions treatment referral</p></div></p>
+                        <h3><a href="#">Denominator Description</a></h3>
+                    <p><div class="content_para"><p>Number of hospitalized inpatients 18 years of age and older identified with an alcohol or drug use disorder (see the related "Denominator Inclusions/Exclusions" field)</p></div></p>
+                        <h3><a href="#">Numerator Description</a></h3>
+                    <p><div class="content_para"><p>Number of patients who received a prescription at discharge for medication for treatment of alcohol or drug use disorder OR a referral for addictions treatment</p></div></p>
+
+            </div>
+                <h2 id="573" class="accordion-title section-573 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Criterion of Quality for the Measure</a></h3>
+                    <p><ul><li>A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence</li><li>One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal</li></ul></p>
+                        <h3><a href="#">Additional Information Supporting Need for the Measure</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Extent of Measure Testing</a></h3>
+                    <p><div class="content_para"><p>Twenty-four hospitals from nineteen states volunteered to participate in a six month pilot test of the draft measures, commencing with discharges beginning March 1, 2010 and concluding on July 31, 2010. There were three tests conducted during the development phase for this measure; public comment, survey of the pilot sites, and a Technical Advisory Panel (TAP) assessment. The purpose was threefold: to gather information regarding face validity, to determine feasibility of data collection, and to gather information about each data element regarding clarity and suggested enhancement that could be made. 2,177 persons responded to the public comment. A total of eleven hospitals and eight TAP members completed the evaluation. </p>
+<p>The final phase of testing consisted of site visits to a sample of participating pilot hospitals to assess the reliability of data abstracted and reported by those hospitals. Reliability test site visits were conducted at nine randomly selected pilot hospitals. Selection of the test sites was based on multiple characteristics; including hospital demographics, populations served, bed size and type of facility. </p>
+<p>All of the substance use (SUB) measures have undergone a rigorous process of public comment, alpha testing and broad-scale pilot testing and are recognized by the field as important indicators of substance abuse treatment. </p></div></p>
+                        <h3><a href="#">Evidence for Extent of Measure Testing</a></h3>
+                    <p><table><tr><td>Domzalski K. (Associate Project Director, Division of Healthcare Quality Evaluation, Department of Quality Measurement, The Joint Commission. Oakbrook Terrace, IL). Personal communication. 2013 Aug 28. &nbsp;1 p. </td></tr></table></p>
+
+            </div>
+                <h2 id="580" class="accordion-title section-580 is-active" role="tab" aria-expanded="true"><a href="#">State of Use of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">State of Use</a></h3>
+                    <p>Current routine use</p>
+                        <h3><a href="#">Current Use</a></h3>
+                    <p>Accreditation </p>
+                    <p>Collaborative inter-organizational quality improvement</p>
+                    <p>Internal quality improvement</p>
+
+            </div>
+                <h2 id="583" class="accordion-title section-583 is-active" role="tab" aria-expanded="true"><a href="#">Application of the Measure in its Current Use</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measurement Setting</a></h3>
+                    <p>Hospital Inpatient</p>
+                        <h3><a href="#">Professionals Involved in Delivery of Health Services</a></h3>
+                    <p>Does not apply to this measure (e.g., measure is not provider specific)</p>
+                        <h3><a href="#">Least Aggregated Level of Services Delivery Addressed</a></h3>
+                    <p>Single Health Care Delivery or Public Health Organizations</p>
+                        <h3><a href="#">Statement of Acceptable Minimum Sample Size</a></h3>
+                    <p>Specified</p>
+                        <h3><a href="#">Target Population Age</a></h3>
+                    <p><div class="content_para"><p>Age greater than or equal to 18 years</p></div></p>
+                        <h3><a href="#">Target Population Gender</a></h3>
+                    <p>Either male or female</p>
+
+            </div>
+                <h2 id="660" class="accordion-title section-660 is-active" role="tab" aria-expanded="true"><a href="#">National Strategy for Quality Improvement in Health Care</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">National Quality Strategy Aim</a></h3>
+                    <p>Better Care</p>
+                        <h3><a href="#">National Quality Strategy Priority</a></h3>
+                    <p>Health and Well-being of Communities<br/>Person- and Family-centered Care<br/>Prevention and Treatment of Leading Causes of Mortality</p>
+
+            </div>
+                <h2 id="590" class="accordion-title section-590 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="593" class="accordion-title section-593 is-active" role="tab" aria-expanded="true"><a href="#">Data Collection for the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Case Finding Period</a></h3>
+                    <p><div class="content_para"><p>Discharges October 1 through June 30</p></div></p>
+                        <h3><a href="#">Denominator Sampling Frame</a></h3>
+                    <p>Patients associated with provider</p>
+                        <h3><a href="#">Denominator (Index) Event or Characteristic</a></h3>
+                    <p>Clinical Condition</p>
+                    <p>Diagnostic Evaluation</p>
+                    <p>Institutionalization</p>
+                    <p>Patient/Individual (Consumer) Characteristic</p>
+                        <h3><a href="#">Denominator Time Window</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Denominator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong> </p>
+<ul style="list-style-type: disc;">
+    <li>Patients with <em>International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) Principal or Other Diagnosis Code</em> for alcohol or drug use disorder (as defined in the appendices of the original measure documentation) </li>
+    <li>Patients with a <em>Principal or Other International Classification of Diseases, Tenth Revision, Principal Coding System (ICD-10-PCS) Procedure Code</em> for alcohol and drug treatment (as defined in the appendices of the original measure documentation) </li>
+</ul>
+<p><strong>Exclusions</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Patients less than 18 years of age </li>
+    <li>Patient drinking at unhealthy levels who do not meet criteria for an alcohol use disorder </li>
+    <li>Patients who are cognitively impaired </li>
+    <li>Patients who expire </li>
+    <li>Patients discharged to another hospital </li>
+    <li>Patients who left against medical advice </li>
+    <li>Patients discharged to another healthcare facility </li>
+    <li>Patients discharged to home for hospice care </li>
+    <li>Patients who have a duration of stay less than or equal to three days or greater than 120 days </li>
+    <li>Patients who do not reside in the United States </li>
+    <li>Patients receiving <em>Comfort Measures Only</em> (as defined in the Data Dictionary) documented </li>
+</ul></div></p>
+                        <h3><a href="#">Exclusions/Exceptions</a></h3>
+                    <p>Medical factors addressed</p>
+                    <p>Patient factors addressed</p>
+                    <p>System factors addressed</p>
+                        <h3><a href="#">Numerator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+Number of patients who received a prescription at discharge for medication for treatment of alcohol or drug use disorder OR a referral for addictions treatment </p>
+<p><strong>Exclusions</strong><br/>
+None</p></div></p>
+                        <h3><a href="#">Numerator Search Strategy</a></h3>
+                    <p>Institutionalization</p>
+                        <h3><a href="#">Data Source</a></h3>
+                    <p>Administrative clinical data</p>
+                    <p>Paper medical record</p>
+                        <h3><a href="#">Type of Health State</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Instruments Used and/or Associated with the Measure</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Global Initial Patient Population Algorithm Flowchart </li>
+    <li>SUB-3a: Alcohol and Other Drug Use Disorder Treatment at Discharge Flowchart </li>
+</ul></p>
+
+            </div>
+                <h2 id="605" class="accordion-title section-605 is-active" role="tab" aria-expanded="true"><a href="#">Computation of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measure Specifies Disaggregation</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Scoring</a></h3>
+                    <p>Rate/Proportion</p>
+                        <h3><a href="#">Interpretation of Score</a></h3>
+                    <p>Desired value is a higher score</p>
+                        <h3><a href="#">Allowance for Patient or Population Factors</a></h3>
+                    <p>Unspecified</p>
+                        <h3><a href="#">Standard of Comparison</a></h3>
+                    <p>Unspecified</p>
+
+            </div>
+                <h2 id="615" class="accordion-title section-615 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Original Title</a></h3>
+                    <p><div class="content_para"><p>SUB-3a: alcohol and other drug use disorder treatment at discharge.</p></div></p>
+                        <h3><a href="#">Measure Collection Name</a></h3>
+                    <p>National Hospital Inpatient Quality Measures</p>
+                        <h3><a href="#">Measure Set Name</a></h3>
+                    <p>Substance Use</p>
+                        <h3><a href="#">Submitter</a></h3>
+                    <p>The Joint Commission - Health Care Accreditation Organization</p>
+                        <h3><a href="#">Developer</a></h3>
+                    <p>The Joint Commission - Health Care Accreditation Organization</p>
+                        <h3><a href="#">Funding Source(s)</a></h3>
+                    <p><div class="content_para"><p>All external funding for measure development has been received and used in full compliance with The Joint Commission's Corporate Sponsorship policies, which are available upon written request to The Joint Commission.</p></div></p>
+                        <h3><a href="#">Composition of the Group that Developed the Measure</a></h3>
+                    <p><div class="content_para"><p>Technical advisory panel of stakeholders. Panel membership may be viewed at: <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/Home/Disclaimer?id=49185&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.jointcommission.org%2fassets%2f1%2f6%2fSubstance_Use_Measure_Advisory_Panel.pdf" title="The Joint Commission Web site">http://www.jointcommission.org/assets/1/6/Substance_Use_Measure_Advisory_Panel.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></p></div></p>
+                        <h3><a href="#">Financial Disclosures/Other Potential Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>Expert panel members have made full disclosure of relevant financial and conflict of interest information in accordance with the Conflict of Interest policies, copies of which are available upon written request to The Joint Commission.</p></div></p>
+                        <h3><a href="#">Endorser</a></h3>
+                    <p>National Quality Forum</p>
+                        <h3><a href="#">NQF Number</a></h3>
+                    <p>1664</p>
+                        <h3><a href="#">Date of Endorsement</a></h3>
+                    <p><div class="content_para"><p>2015 Apr 29</p></div></p>
+                        <h3><a href="#">Measure Initiative(s)</a></h3>
+                    <p>Quality Check®</p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>This measure was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date of Most Current Version in NQMC</a></h3>
+                    <p>2015 Oct</p>
+                        <h3><a href="#">Measure Maintenance</a></h3>
+                    <p><div class="content_para"><p>This measure is reviewed and updated every 6 months.</p></div></p>
+                        <h3><a href="#">Date of Next Anticipated Revision</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Measure Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: Specifications manual for national hospital inpatient quality measures, version 4.3b. Centers for Medicare &amp; Medicaid Services (CMS), The Joint Commission; 2014 Apr. various p.</p></div></p>
+                        <h3><a href="#">Source(s)</a></h3>
+                    <p><table><tr><td>Specifications manual for national hospital inpatient quality measures, version 5.0b. Centers for Medicare &amp; Medicaid Services (CMS), The Joint Commission; Effective 2015 Oct 1. various p. </td></tr></table></p>
+                        <h3><a href="#">Measure Availability</a></h3>
+                    <p><div class="content_para"><p>Source available from <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/Home/Disclaimer?id=49185&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.jointcommission.org%2fspecifications_manual_for_national_hospital_inpatient_quality_measures.aspx" title="The Joint Commission Web site">The Joint Commission Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>. Information is also available from the <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/Home/Disclaimer?id=49185&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.qualitynet.org%2fdcs%2fContentServer%3fc%3dPage%26pagename%3dQnetPublic%2fPage%2fQnetTier2%26cid%3d1141662756099" title="QualityNet Web site">QualityNet Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>. Check The Joint Commission Web site and QualityNet Web site regularly for the most recent version of the specifications manual and for the applicable dates of discharge.</p></div></p>
+                        <h3><a href="#">NQMC Status</a></h3>
+                    <p><div class="content_para"><p>The Joint Commission originally submitted this NQMC measure summary to ECRI Institute on March 28, 2012. This NQMC summary was reviewed accordingly by ECRI Institute on November 27, 2012.</p>
+<p>The Joint Commission informed NQMC that this measure was updated on July 16, 2013 and provided an updated version of the NQMC summary. This NQMC summary was updated accordingly by ECRI Institute on December 6, 2013.</p>
+<p>The Joint Commission informed NQMC that this measure was updated on April 16, 2014 and provided an updated version of the NQMC summary. This NQMC summary was updated accordingly by ECRI Institute on June 23, 2014.</p>
+<p>The Joint Commission informed NQMC that this measure was updated on April 14, 2015 and provided an updated version of the NQMC summary. This NQMC summary was updated accordingly by ECRI Institute on July 10, 2015.</p>
+<p>This NQMC summary was edited by ECRI Institute on November 16, 2015.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>The Specifications Manual for National Hospital Inpatient Quality Measures [Version 5.0b, October, 2015] is the collaborative work of the Centers for Medicare &amp; Medicaid Services and The Joint Commission. The Specifications Manual is periodically updated by the Centers for Medicare &amp; Medicaid Services and The Joint Commission. Users of the Specifications Manual for National Hospital Inpatient Quality Measures must update their software and associated documentation based on the published manual production timelines.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NQMC Disclaimer</a></h3>
+                    <p><p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria">NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NQMC Measure Summaries</h3>
+            <ul>
+                <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about/summaries/varieties-of-measures-in-nqmc" class="internal-link">Varieties of Measures</a></li>
+                <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about/quality-measure-tutorials/uses-of-quality-measures" class="internal-link">Uses of Measures</a></li>
+                <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about/quality-measure-tutorials/selecting-quality-measures" class="internal-link">Selecting Measures</a></li>
+            </ul>
+            <p><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about/summaries/faq" class="help-button">Measure Summary FAQ</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+        <div class="hhs-block">
+            <h3 class="hhs-header">Related HHS Measure</h3>
+            <p>From the HHS Measure Inventory</p>
+                <p><a target="_blank" class="external-link" href="/web/20170702182344/https://qualitymeasures.ahrq.gov/hhs/content.aspx?id=4042">Alcohol &amp; Other Drug Use Disorder Treatment at Discharge: This rate describes only those who receive a prescription for FDA-approved medications for alcohol or drug use disorder OR a referral for addictions treatment.</a></p>   
+        </div>
+        <!-- /.HSS Block -->    
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NQMC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011278</li>
+            <li>Dec 2013</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/summary/51001/cancer-patient-experience-percentage-of-patients-who-reported-whether-they-have-been-enabled-by-healthcare-professionals-to-share-decisions-about-their-care-and-treatment-on-the-cancer-quality-performance-indicator-qpi-shared-decision-making-measurement-tool">Cancer patient experience: percentage of patients who reported whether they have been enabled by healthcare professionals to share decisions about their care and treatment on the Cancer Quality Performance Indicator (QPI) Shared Decision Making Measurement Tool.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011277</li>
+            <li>Dec 2013</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/summary/51000/cancer-patient-experience-percentage-of-patients-who-reported-whether-they-experienced-excellent-information-provision-from-healthcare-professionals-throughout-their-cancer-care-on-the-cancer-quality-performance-indicator-qpi-information-measurement-tool">Cancer patient experience: percentage of patients who reported whether they experienced excellent information provision from healthcare professionals throughout their cancer care on the Cancer Quality Performance Indicator (QPI) Information Measurement Tool.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011276</li>
+            <li>Dec 2013</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/summary/50999/cancer-patient-experience-percentage-of-patients-who-reported-whether-they-experienced-excellent-communication-from-healthcare-professionals-throughout-their-cancer-care-on-the-cancer-quality-performance-indicator-qpi-communication-measurement-tool">Cancer patient experience: percentage of patients who reported whether they experienced excellent communication from healthcare professionals throughout their cancer care on the Cancer Quality Performance Indicator (QPI) Communication Measurement Tool.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011181</li>
+            <li>Aug 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/summary/50895/cervical-cancer-proportion-of-patients-with-cervical-cancer-undergoing-radical-radiotherapy-who-receive-concurrent-chemotherapy">Cervical cancer: proportion of patients with cervical cancer undergoing radical radiotherapy who receive concurrent chemotherapy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011180</li>
+            <li>Aug 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/summary/50894/cervical-cancer-proportion-of-patients-with-cervical-cancer-undergoing-radical-radiotherapy-external-beam-or-brachytherapy-whose-overall-treatment-time-from-start-to-the-end-of-treatment-is-not-more-than-56-days">Cervical cancer: proportion of patients with cervical cancer undergoing radical radiotherapy (external beam or brachytherapy) whose overall treatment time, from start to the end of treatment, is not more than 56 days.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20170702182344/https://qualitymeasures.ahrq.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/disclaimer?id=49185&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.svg">
+					  	<img src="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.png" alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/">Home</a></li>
+		                <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a></li>
+						<li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/rss">RSS</a></li>
+					    <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20170702182344/https://qualitymeasures.ahrq.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://web.archive.org/web/20170702182344/https://www.guideline.gov/" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.svg">
+									<img src="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20170702182344/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20170702182344im_/https://qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20170702182344/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20170702182344js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20170702182344js_/https://qualitymeasures.ahrq.gov/cassette.axd/script/21385f83c5bf538e76ab38fa354f052b707282c0/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 18:23:44 Jul 02, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:57:06 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 251.919 (3)
+  esindex: 0.007
+  captures_list: 269.205
+  CDXLines.iter: 14.284 (3)
+  PetaboxLoader3.datanode: 39.52 (4)
+  exclusion.robots: 0.162
+  exclusion.robots.policy: 0.137
+  RedisCDXSource: 0.51
+  PetaboxLoader3.resolve: 451.231 (2)
+  load_resource: 366.947
+-->

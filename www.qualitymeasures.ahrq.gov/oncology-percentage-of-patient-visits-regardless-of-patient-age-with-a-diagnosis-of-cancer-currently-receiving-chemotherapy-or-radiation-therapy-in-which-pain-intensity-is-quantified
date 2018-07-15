@@ -1,0 +1,914 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app57.us.archive.org';v.server_ms=649;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Oncology: percentage of patient visits, regardless of patient age, with a diagnosis of cancer currently receiving chemotherapy or radiation therapy in which pain intensity is quantified. | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180625143721cs_/https://www.qualitymeasures.ahrq.gov/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180625143721js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180625143721if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180625143721/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180625143721if_/https://www.googletagmanager.com/ns.html?id=GTM-KXQCDQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180625143721/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180625143721/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180625143721/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/" class="header-logo NQMC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png">
+				        <source srcset="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header_m.png">
+				        <img src="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png" alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Measure Summary</li>
+            <li>NQMC:011053</li>
+            <li>Jun 2017
+            </li>            
+                <li>
+                    <span class="nqf">NQF-Endorsed Measure</span>
+                </li>    
+                                </ul>
+        <div>
+                <h1>Oncology: percentage of patient visits, regardless of patient age, with a diagnosis of cancer currently receiving chemotherapy or radiation therapy in which pain intensity is quantified.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_Developer_String=American%20Medical%20Association&amp;fLockTerm=American%2BMedical%2BAssociation">American Medical Association</a></li>
+                        <li>   
+                                <a id="2324" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_Developer_String=American%20Society%20for%20Radiation%20Oncology&amp;fLockTerm=American%2BSociety%2Bfor%2BRadiation%2BOncology">American Society for Radiation Oncology</a></li>
+                        <li>   
+                                <a id="2484" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_Developer_String=American%20Society%20of%20Clinical%20Oncology&amp;fLockTerm=American%2BSociety%2Bof%2BClinical%2BOncology">American Society of Clinical Oncology</a></li>
+                        <li>   
+                                <a id="1894" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>eCQI Resource Center. Oncology: medical and radiation - pain intensity quantified. [internet]. Washington (DC): U.S. Department of Health and Human Services; 2017 Jun 9&nbsp;[4]. </td></tr></table>                    <p><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=50742&amp;contentType=fulltextlink&amp;redirect=https%253a%252f%252fecqi.healthit.gov%252fep%252fecqms-2017-performance-period%252foncology-medical-and-radiation-pain-intensity-quantified">View the original measure documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: American Medical Association-convened Physician Consortium for Performance Improvement&reg; (PCPI&reg;), American Society for Therapeutic Radiology and Oncology (ASTRO), American Society of Clinical Oncology (ASCO). Oncology performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Sep. 36 p. [5 references]. </p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+            <h4>Measure Hierarchy</h4>
+<a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_Collection_Hierarchy=objid49891&amp;fLockTerm=AMA%252fPCPI%2BOncology%2BPerformance%2BMeasurement%2BSet">AMA/PCPI Oncology Performance Measurement Set</a>                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Infant%3A%20Newborn&amp;fLockTerm=Infant%253a%2BNewborn">Infant: Newborn</a></li>                                              
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Infant%3A%2001-23%20months%20old&amp;fLockTerm=Infant%253a%2B01-23%2Bmonths%2Bold">Infant: 01-23 months old</a></li>                                              
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Child%3A%20Pre-school%3A%202-5%20years%20old&amp;fLockTerm=Child%253a%2BPre-school%253a%2B2-5%2Byears%2Bold">Child: Pre-school: 2-5 years old</a></li>                                              
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Child%3A%206-12%20years%20old&amp;fLockTerm=Child%253a%2B6-12%2Byears%2Bold">Child: 6-12 years old</a></li>                                              
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adolescent%3A%2013-18%20years%20old&amp;fLockTerm=Adolescent%253a%2B13-18%2Byears%2Bold">Adolescent: 13-18 years old</a></li>                                              
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adult%3A%2019-44%20years%20old&amp;fLockTerm=Adult%253a%2B19-44%2Byears%2Bold">Adult: 19-44 years old</a></li>                                              
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adult%3A%2045-64%20years%20old&amp;fLockTerm=Adult%253a%2B45-64%2Byears%2Bold">Adult: 45-64 years old</a></li>                                              
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adult%3A%2065-79%20years%20old&amp;fLockTerm=Adult%253a%2B65-79%2Byears%2Bold">Adult: 65-79 years old</a></li>                                              
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adult%3A%2080%20years%20old%20and%20older&amp;fLockTerm=Adult%253a%2B80%2Byears%2Bold%2Band%2Bolder">Adult: 80 years old and older</a></li>                                              
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_ICD9CM_CUI=C0375111&amp;fLockTerm=Neoplasm+of+unspecified+nature%2c+site+unspecified">Neoplasm of unspecified nature, site unspecified</a>
+ (239.9)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0013216&amp;fLockTerm=Drug+Therapy">Drug Therapy</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0025098&amp;fLockTerm=Medical+Oncology">Medical Oncology</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0027651&amp;fLockTerm=Neoplasms">Neoplasms</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0030193&amp;fLockTerm=Pain">Pain</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0030198&amp;fLockTerm=Pain+Measurement">Pain Measurement</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C1522449&amp;fLockTerm=Radiotherapy">Radiotherapy</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C3665472&amp;fLockTerm=Chemotherapy">Chemotherapy</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0392920&amp;fLockTerm=Chemotherapy+Regimen">Chemotherapy Regimen</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0006826&amp;fLockTerm=Malignant+Neoplasms">Malignant Neoplasms</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0025098&amp;fLockTerm=Medical+oncology+specialty">Medical oncology specialty</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0375111&amp;fLockTerm=Neoplasm+of+unspecified+nature%2c+site+unspecified">Neoplasm of unspecified nature, site unspecified</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0027651&amp;fLockTerm=Neoplasms">Neoplasms</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0030193&amp;fLockTerm=Pain">Pain</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0013216&amp;fLockTerm=Pharmacotherapy">Pharmacotherapy</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C1522449&amp;fLockTerm=Therapeutic+radiology+procedure">Therapeutic radiology procedure</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_PDQ_CUI=C0006826&amp;fLockTerm=cancer">cancer</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_PDQ_CUI=C3665472&amp;fLockTerm=chemotherapy">chemotherapy</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_PDQ_CUI=C0030193&amp;fLockTerm=pain">pain</a>
+, <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_PDQ_CUI=C1522449&amp;fLockTerm=radiation+therapy">radiation therapy</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0392920&amp;fLockTerm=Antineoplastic+chemotherapy+regimen">Antineoplastic chemotherapy regimen</a>
+ (716872004), <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C3665472&amp;fLockTerm=Chemotherapy">Chemotherapy</a>
+ (363688001), <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C3665472&amp;fLockTerm=Chemotherapy">Chemotherapy</a>
+ (367336001), <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0184613&amp;fLockTerm=Chemotherapy+care">Chemotherapy care</a>
+ (385786002), <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0013216&amp;fLockTerm=Drug+therapy">Drug therapy</a>
+ (416608005), <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0578068&amp;fLockTerm=Finding+of+present+pain+intensity">Finding of present pain intensity</a>
+ (301378009), <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0006826&amp;fLockTerm=Malignant+neoplastic+disease">Malignant neoplastic disease</a>
+ (363346000), <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0025098&amp;fLockTerm=Medical+oncology">Medical oncology</a>
+ (394593009), <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0027651&amp;fLockTerm=Neoplasm">Neoplasm</a>
+ (108369006), <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0030193&amp;fLockTerm=Pain">Pain</a>
+ (22253000), <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0030198&amp;fLockTerm=Pain+assessment">Pain assessment</a>
+ (225399009), <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C1522449&amp;fLockTerm=Radiation+oncology+AND%2fOR+radiotherapy">Radiation oncology AND/OR radiotherapy</a>
+ (108290001), <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C1522449&amp;fLockTerm=Radiation+oncology+AND%2fOR+radiotherapy">Radiation oncology AND/OR radiotherapy</a>
+ (53438000)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#563" class="section-mark">Measure Domain</a></li>
+                                    <li><a href="#566" class="section-mark">Brief Abstract</a></li>
+                                    <li><a href="#573" class="section-mark">Evidence Supporting the Measure</a></li>
+                                    <li><a href="#580" class="section-mark">State of Use of the Measure</a></li>
+                                    <li><a href="#583" class="section-mark">Application of the Measure in its Current Use</a></li>
+                                    <li><a href="#660" class="section-mark">National Strategy for Quality Improvement in Health Care</a></li>
+                                    <li><a href="#590" class="section-mark">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></li>
+                                    <li><a href="#593" class="section-mark">Data Collection for the Measure</a></li>
+                                    <li><a href="#605" class="section-mark">Computation of the Measure</a></li>
+                                    <li><a href="#615" class="section-mark">Identifying Information</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-11053?contentType=pdf" class="pdf">.PDF 91.9 kb</a></li>
+                            <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-11053?contentType=word" class="word">Word Document 274.3 kb</a></li>
+                            <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-11053?contentType=xml" class="xml">.XML 25.8 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180625143721/https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/summaries/summary/50742/oncology-percentage-of-patient-visits-regardless-of-patient-age-with-a-diagnosis-of-cancer-currently-receiving-chemotherapy-or-radiation-therapy-in-which-pain-intensity-is-quantified" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180625143721/https://twitter.com/share?text=&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/50742/oncology-percentage-of-patient-visits-regardless-of-patient-age-with-a-diagnosis-of-cancer-currently-receiving-chemotherapy-or-radiation-therapy-in-which-pain-intensity-is-quantified" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180625143721/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/50742/oncology-percentage-of-patient-visits-regardless-of-patient-age-with-a-diagnosis-of-cancer-currently-receiving-chemotherapy-or-radiation-therapy-in-which-pain-intensity-is-quantified&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180625143721/mailto:/?Subject=AHRQ: Oncology: percentage of patient visits, regardless of patient age, with a diagnosis of cancer currently receiving chemotherapy or radiation therapy in which pain intensity is quantified.&amp;body=https://www.qualitymeasures.ahrq.gov/summaries/summary/50742/oncology-percentage-of-patient-visits-regardless-of-patient-age-with-a-diagnosis-of-cancer-currently-receiving-chemotherapy-or-radiation-therapy-in-which-pain-intensity-is-quantified" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Quality Measures Clearinghouse (NQMC). Measure summary: Oncology: percentage of patient visits, regardless of patient age, with a diagnosis of cancer currently receiving chemotherapy or radiation therapy in which pain intensity is quantified. In: National Quality Measures Clearinghouse (NQMC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2017 Jun 09. [cited 2018 Jun 25]. Available: https://www.qualitymeasures.ahrq.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50742?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50742?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50742?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50742?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50742?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50742">RefWorks</a></li>
+                            <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50742?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="50742" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="563" class="accordion-title section-563 is-active" role="tab" aria-expanded="true"><a href="#">Measure Domain</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Primary Measure Domain</a></h3>
+                    <p>Clinical Quality Measures: Process</p>
+                        <h3><a href="#">Secondary Measure Domain</a></h3>
+                    <p>Does not apply to this measure</p>
+
+            </div>
+                <h2 id="566" class="accordion-title section-566 is-active" role="tab" aria-expanded="true"><a href="#">Brief Abstract</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description</a></h3>
+                    <p><div class="content_para"><p>This measure is used to assess the percentage of patient visits, regardless of patient age, with a diagnosis of cancer currently receiving chemotherapy or radiation therapy in which pain intensity is quantified.</p></div></p>
+                        <h3><a href="#">Rationale</a></h3>
+                    <p><div class="content_para"><p>Inadequate cancer pain management is widely prevalent, harmful to the patient and costly. </p>
+<p><strong>Clinical Recommendation Statement</strong></p>
+<ul style="list-style-type: disc;">
+    <li>All patients must be screened for pain at each contact. </li>
+    <li>Pain intensity must be quantified and quality must be characterized by the patient (whenever possible based on patient communication capacity). </li>
+    <li>Comprehensive pain assessment must be performed if new or worsening pain is present and regularly performed for persisting pain. </li>
+    <li>If necessary, get additional information for family/ caregiver regarding pain and impact of function (National Comprehensive Cancer Network [NCCN], 2015). </li>
+</ul>
+<p>Various methods and tools exist to assess pain severity. Intensity of pain should be quantified using a numerical rating scale (i.e., 0 to 10), visual analog scale, categorical scale, or pictorial scale (e.g., The Faces Pain Rating Scale) (NCCN, 2015).</p></div></p>
+                        <h3><a href="#">Evidence for Rationale</a></h3>
+                    <p><table><tr><td>eCQI Resource Center. Oncology: medical and radiation - pain intensity quantified. [internet]. Washington (DC): U.S. Department of Health and Human Services; 2017 Jun 9&nbsp;[4]. </td></tr></table></p>
+                    <p><table><tr><td>National Comprehensive Cancer Network (NCCN). Clinical practice guidelines in oncology: adult cancer pain. Version 2. Fort Washington (PA): National Comprehensive Cancer Network (NCCN); 2015. </td></tr></table></p>
+                        <h3><a href="#">Primary Health Components</a></h3>
+                    <p><div class="content_para"><p>Cancer; chemotherapy; radiation therapy; pain intensity</p>
+</div></p>
+                        <h3><a href="#">Denominator Description</a></h3>
+                    <p><div class="content_para"><p>All patient visits, regardless of age, with a diagnosis of cancer currently receiving chemotherapy or radiation therapy (see the related "Denominator Inclusions/Exclusions" field)</p></div></p>
+                        <h3><a href="#">Numerator Description</a></h3>
+                    <p><div class="content_para"><p>Patient visits in which pain intensity is quantified (see the related "Numerator Inclusions/Exclusions" field)</p></div></p>
+
+            </div>
+                <h2 id="573" class="accordion-title section-573 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Criterion of Quality for the Measure</a></h3>
+                    <p><ul><li>A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence</li></ul></p>
+                        <h3><a href="#">Additional Information Supporting Need for the Measure</a></h3>
+                    <p><div class="content_para"><p>Unspecified </p></div></p>
+                        <h3><a href="#">Extent of Measure Testing</a></h3>
+                    <p><div class="content_para"><p>The American Medical Association (AMA)-convened Physician Consortium for Performance Improvement (PCPI) collaborated on a measure testing project in 2011 with American Society of Clinical Oncology (ASCO) and American Society for Radiation Oncology (ASTRO), to ensure the <em>Oncology: Medical and Radiation &ndash; Pain Intensity Quantified</em> measure was reliable and evaluated for accuracy of the measure numerator, denominator and exception case identification. The testing project was conducted utilizing chart data. Inter-rater reliability was tested. Five sites participated in the testing of the measures. Two sites were in urban settings, two sites were in suburban settings, and one had multiple practice sites in urban, rural and suburban settings. Site A was a hospital-based practice with 21 physicians. Site B was a physician-owned private practice with four physicians. Site C was a physician-owned private practice with 41 physicians. Site D was an academic practice with nine physicians. Site E was an academic practice with 14 physicians. </p>
+<p><strong>Reliability Testing</strong></p>
+<p>The purpose of reliability testing was to evaluate whether the measure definitions and specifications, as prepared by the PCPI, yield stable, consistent measures. Data abstracted from chart records were used to calculate inter-rater reliability for the measures. </p>
+<p><strong>Reliability Testing Results</strong></p>
+<p><em>Oncology: Medical and Radiation &ndash; Pain Intensity Quantified</em></p>
+<p>There were 862 observations from five sites used for the denominator analysis. The kappa statistic value was found to be non-calculable resulting from the inability to divide-by-zero in the statistic formula when only one response was used. </p>
+<p>Of the 862 observations that were initially selected, 862 observations met the criteria for inclusion in the numerator analysis. The kappa statistic value of 0.990 demonstrates almost perfect agreement between reviewers. </p>
+<p><span style="text-decoration: underline;">Reliability: N, % Agreement, Kappa (95% Confidence Interval)</span><br/>
+Denominator: 862, 100.00%, (0.990 (0.970-1.000))<br/>
+Numerator: 862, 99.99%, Non-Calculable (Non-Calculable, Non-Calculable)*<br/>
+Exceptions: Not applicable, Not applicable, Not applicable</p>
+<p>This measure demonstrates perfect reliability, as shown in results from the above analysis. </p>
+<p class="Note">*Cannot calculate kappa statistics when only one response (Yes/Yes) was used, as this causes a divide-by-zero error in the statistic formula.</p></div></p>
+                        <h3><a href="#">Evidence for Extent of Measure Testing</a></h3>
+                    <p><table><tr><td>American Medical Association-convened Physician Consortium for Performance Improvement® (PCPI®), American Society for Therapeutic Radiology and Oncology (ASTRO), American Society of Clinical Oncology (ASCO). Oncology performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Sep. 36 p.  [5 references]</td></tr></table></p>
+
+            </div>
+                <h2 id="580" class="accordion-title section-580 is-active" role="tab" aria-expanded="true"><a href="#">State of Use of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">State of Use</a></h3>
+                    <p>Current routine use</p>
+                        <h3><a href="#">Current Use</a></h3>
+                    <p>Internal quality improvement</p>
+                    <p>Pay-for-reporting</p>
+                    <p>Professional certification</p>
+                    <p>Public reporting</p>
+
+            </div>
+                <h2 id="583" class="accordion-title section-583 is-active" role="tab" aria-expanded="true"><a href="#">Application of the Measure in its Current Use</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measurement Setting</a></h3>
+                    <p>Ambulatory/Office-based Care</p>
+                    <p>Ambulatory Procedure/Imaging Center</p>
+                    <p>Hospital Outpatient</p>
+                        <h3><a href="#">Professionals Involved in Delivery of Health Services</a></h3>
+                    <p>Physicians</p>
+                        <h3><a href="#">Least Aggregated Level of Services Delivery Addressed</a></h3>
+                    <p>Individual Clinicians or Public Health Professionals</p>
+                        <h3><a href="#">Statement of Acceptable Minimum Sample Size</a></h3>
+                    <p>Unspecified</p>
+                        <h3><a href="#">Target Population Age</a></h3>
+                    <p><div class="content_para"><p>All patients, regardless of age</p></div></p>
+                        <h3><a href="#">Target Population Gender</a></h3>
+                    <p>Either male or female</p>
+
+            </div>
+                <h2 id="660" class="accordion-title section-660 is-active" role="tab" aria-expanded="true"><a href="#">National Strategy for Quality Improvement in Health Care</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">National Quality Strategy Aim</a></h3>
+                    <p>Better Care</p>
+                        <h3><a href="#">National Quality Strategy Priority</a></h3>
+                    <p>Prevention and Treatment of Leading Causes of Mortality</p>
+
+            </div>
+                <h2 id="590" class="accordion-title section-590 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+
+            </div>
+                <h2 id="593" class="accordion-title section-593 is-active" role="tab" aria-expanded="true"><a href="#">Data Collection for the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Case Finding Period</a></h3>
+                    <p><div class="content_para"><p>The 12-month reporting period (January 1 through December 31)</p></div></p>
+                        <h3><a href="#">Denominator Sampling Frame</a></h3>
+                    <p>Patients associated with provider</p>
+                        <h3><a href="#">Denominator (Index) Event or Characteristic</a></h3>
+                    <p>Clinical Condition</p>
+                    <p>Encounter</p>
+                    <p>Therapeutic Intervention</p>
+                        <h3><a href="#">Denominator Time Window</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Denominator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+All patient visits, regardless of age, with a diagnosis of cancer currently receiving chemotherapy or radiation therapy</p>
+<p class="Note"><strong>Note</strong>: Refer to the original measure documentation for data criteria and associated value sets. </p>
+<p><strong>Exclusions</strong><br/>
+None</p></div></p>
+                        <h3><a href="#">Exclusions/Exceptions</a></h3>
+                    <p>None</p>
+                        <h3><a href="#">Numerator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+Patient visits in which pain intensity is quantified</p>
+<p class="Note"><strong>Note</strong>: </p>
+<ul class="Note" style="list-style-type: disc;">
+    <li>This measure is an episode-of-care measure; the level of analysis for this measure is every visit for patients with a diagnosis of cancer who are also receiving chemotherapy or radiation therapy during the measurement period. For patients receiving radiation therapy, pain intensity should be quantified at each radiation treatment management encounter. For patients receiving chemotherapy, pain intensity should be quantified at each face-to-face encounter with the physician while the patient is receiving treatment. For purposes of calculating this measure, eligible encounters for patients receiving chemotherapy will include those encounters where the patient has been administered chemotherapy within 30 days prior to the encounter and also been administered chemotherapy within 30 days after the date of the encounter. For example, at every visit for patients with a diagnosis of cancer who are also receiving chemotherapy or radiation therapy, the patient should have pain intensity quantified. </li>
+    <li>Pain intensity should be quantified using a standard instrument, such as a 0 to 10 numeric rating scale, visual analog scale, a categorical scale, or the pictorial scale. Examples include the Faces Pain Rating Scale and the Brief Pain Inventory (BPI). </li>
+    <li>Refer to the original measure documentation for data criteria and associated value sets. </li>
+</ul>
+<p><strong>Exclusions</strong><br/>
+None</p></div></p>
+                        <h3><a href="#">Numerator Search Strategy</a></h3>
+                    <p>Fixed time period or point in time</p>
+                        <h3><a href="#">Data Source</a></h3>
+                    <p>Electronic health/medical record</p>
+                        <h3><a href="#">Type of Health State</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Instruments Used and/or Associated with the Measure</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+
+            </div>
+                <h2 id="605" class="accordion-title section-605 is-active" role="tab" aria-expanded="true"><a href="#">Computation of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measure Specifies Disaggregation</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Scoring</a></h3>
+                    <p>Rate/Proportion</p>
+                        <h3><a href="#">Interpretation of Score</a></h3>
+                    <p>Desired value is a higher score</p>
+                        <h3><a href="#">Allowance for Patient or Population Factors</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Standard of Comparison</a></h3>
+                    <p>Internal time comparison</p>
+
+            </div>
+                <h2 id="615" class="accordion-title section-615 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Original Title</a></h3>
+                    <p><div class="content_para"><p>Oncology: medical and radiation &ndash; pain intensity quantified.</p></div></p>
+                        <h3><a href="#">Measure Collection Name</a></h3>
+                    <p>AMA/PCPI Oncology Performance Measurement Set</p>
+                        <h3><a href="#">Submitter</a></h3>
+                    <p>PCPI Foundation - Clinical Specialty Collaboration</p>
+                        <h3><a href="#">Developer</a></h3>
+                    <p>American Medical Association - Medical Specialty Society</p>
+                    <p>American Society for Radiation Oncology - Medical Specialty Society</p>
+                    <p>American Society of Clinical Oncology - Medical Specialty Society</p>
+                        <h3><a href="#">Funding Source(s)</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Composition of the Group that Developed the Measure</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Other Potential Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>Conflicts, if any, are disclosed in accordance with the Physician Consortium for Performance Improvement&reg; conflict of interest policy.</p></div></p>
+                        <h3><a href="#">Endorser</a></h3>
+                    <p>National Quality Forum</p>
+                        <h3><a href="#">NQF Number</a></h3>
+                    <p>0384</p>
+                        <h3><a href="#">Date of Endorsement</a></h3>
+                    <p><div class="content_para"><p>2017 Mar 28</p></div></p>
+                        <h3><a href="#">Core Quality Measures</a></h3>
+                    <p>Medical Oncology</p>
+                        <h3><a href="#">Measure Initiative(s)</a></h3>
+                    <p>Physician Quality Reporting System</p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>This measure was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date of Most Current Version in NQMC</a></h3>
+                    <p>2017 Jun</p>
+                        <h3><a href="#">Measure Maintenance</a></h3>
+                    <p><div class="content_para"><p>Annual</p></div></p>
+                        <h3><a href="#">Date of Next Anticipated Revision</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Measure Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: American Medical Association-convened Physician Consortium for Performance Improvement&reg; (PCPI&reg;), American Society for Therapeutic Radiology and Oncology (ASTRO), American Society of Clinical Oncology (ASCO). Oncology performance measurement sets. Chicago (IL): American Medical Association (AMA); 2015 Sep. 36 p. [5 references]. </p></div></p>
+                        <h3><a href="#">Source(s)</a></h3>
+                    <p><table><tr><td>eCQI Resource Center. Oncology: medical and radiation - pain intensity quantified. [internet]. Washington (DC): U.S. Department of Health and Human Services; 2017 Jun 9&nbsp;[4]. </td></tr></table></p>
+                        <h3><a href="#">Measure Availability</a></h3>
+                    <p><div class="content_para"><p>Source available from the <a href="https://web.archive.org/web/20180625143721/https://ecqi.healthit.gov/ep/ecqms-2017-performance-period/oncology-medical-and-radiation-pain-intensity-quantified" title="eCQI Resource Center Web site" target="_blank'">eCQI Resource Center Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>. Additional information available from the <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=50742&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.thepcpi.org%2fprograms-initiatives%2fmeasurement-science%2fmeasure-directory%2fpcpi-stewarded-measures%2f" title="PCPI Web site">PCPI Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>For more information, contact the PCPI at 330 N. Wabash Avenue Suite 39300, Chicago, IL 60611; Phone: 312-757-7274; E-mail: <a href="https://web.archive.org/web/20180625143721/mailto:PCPImeasures@thepcpi.org">PCPImeasures@thepcpi.org</a>.</p></div></p>
+                        <h3><a href="#">NQMC Status</a></h3>
+                    <p><div class="content_para"><p>This NQMC summary was completed by ECRI Institute on September 8, 2008. The information was verified by the measure developer on October 16, 2008. </p>
+<p>This NQMC summary was edited by ECRI Institute on September 28, 2009. </p>
+<p>This NQMC summary was retrofitted into the new template on June 7, 2011. </p>
+<p>This NQMC summary was edited again by ECRI Institute on April 27, 2012. </p>
+<p>This NQMC summary was updated by ECRI Institute on January 20, 2016. The information was verified by the measure developer on February 10, 2016. </p>
+<p>This NQMC summary was updated again by ECRI Institute on May 11, 2017. The information was not verified by the measure developer.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.</p>
+<p>For more information, contact the PCPI at 330 N. Wabash Avenue Suite 39300, Chicago, IL 60611; Phone: 312-757-7274; E-mail: <a href="https://web.archive.org/web/20180625143721/mailto:PCPImeasures@thepcpi.org">PCPImeasures@thepcpi.org</a>.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NQMC Disclaimer</a></h3>
+                    <p><p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria">NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NQMC Measure Summaries</h3>
+            <p>NQMC provides structured summaries containing information about measures and their development.</p>
+            <ul>
+                <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/domain-framework" class="internal-link">Domain Framework</a></li>
+                <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/template-of-measure-attributes" class="internal-link">Template of Measure Attributes</a></li>
+                <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/faqs" class="help-button">Measure Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+        <div class="hhs-block">
+            <h3 class="hhs-header">Related HHS Measure</h3>
+            <p>From the HHS Measure Inventory</p>
+                <p><a target="_blank" class="external-link" href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/hhs/content.aspx?id=3532">Oncology: Medical and Radiation - Pain Intensity Quantified: Percentage of patient visits, regardless of patient age, with a diagnosis of cancer currently receiving chemotherapy or radiation therapy in which pain intensity is quantified</a></p>   
+                <p><a target="_blank" class="external-link" href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/hhs/content.aspx?id=5398">Oncology: Medical and Radiation Pain Intensity Quantified (eCQM): Percentage of patient visits, regardless of patient age, with a diagnosis of cancer currently receiving chemotherapy or radiation therapy in which pain intensity is quantified</a></p>   
+                <p><a target="_blank" class="external-link" href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/hhs/content.aspx?id=5399">Oncology: Medical and Radiation Pain Intensity Quantified (eCQM): Percentage of patient visits, regardless of patient age, with a diagnosis of cancer currently receiving chemotherapy or radiation therapy in which pain intensity is quantified</a></p>   
+        </div>
+        <!-- /.HSS Block -->    
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NQMC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+    
+    <a class="block-link" href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/disclaimer?id=50742&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.svg">
+					  	<img src="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.png" alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		                <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a></li>
+						<li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180625143721/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://web.archive.org/web/20180625143721/https://www.guideline.gov/" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.svg">
+									<img src="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180625143721/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180625143721im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180625143721/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180625143721js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180625143721js_/https://www.qualitymeasures.ahrq.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 14:37:21 Jun 25, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:02:45 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 101.836 (3)
+  esindex: 0.009
+  captures_list: 121.006
+  CDXLines.iter: 14.357 (3)
+  PetaboxLoader3.datanode: 91.437 (4)
+  exclusion.robots: 0.18
+  exclusion.robots.policy: 0.169
+  RedisCDXSource: 1.745
+  PetaboxLoader3.resolve: 468.1
+  load_resource: 500.939
+-->

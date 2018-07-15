@@ -1,0 +1,902 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app58.us.archive.org';v.server_ms=273;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Uncontrolled diabetes admission: percentage of admissions for a principal diagnosis of diabetes without mention of short-term or long-term complications per 100,000 population, ages 18 years and older. | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180625155554cs_/https://www.qualitymeasures.ahrq.gov/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180625155554js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180625155554if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180625155554/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180625155554if_/https://www.googletagmanager.com/ns.html?id=GTM-KXQCDQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180625155554/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180625155554/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180625155554/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/" class="header-logo NQMC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png">
+				        <source srcset="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header_m.png">
+				        <img src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png" alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Measure Summary</li>
+            <li>NQMC:010375</li>
+            <li>Mar 2015
+            </li>            
+                <li>
+                    <span class="nqf">NQF-Endorsed Measure</span>
+                </li>    
+                                </ul>
+        <div>
+                <h1>Uncontrolled diabetes admission: percentage of admissions for a principal diagnosis of diabetes without mention of short-term or long-term complications per 100,000 population, ages 18 years and older.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_Developer_String=Agency%20for%20Healthcare%20Research%20and%20Quality&amp;fLockTerm=Agency%2Bfor%2BHealthcare%2BResearch%2Band%2BQuality">Agency for Healthcare Research and Quality</a></li>
+                        <li>   
+                                <a id="9" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>AHRQ QI research version 5.0. Prevention quality indicator 14 technical specifications: uncontrolled diabetes admission rate. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 2 p. </td></tr></table><table><tr><td>National Quality Forum measure information: uncontrolled diabetes admission rate (PQI 14). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 17 p. </td></tr></table>                    <p><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=49503&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.qualityindicators.ahrq.gov%252fDownloads%252fModules%252fPQI%252fV50%252fTechSpecs%252fPQI_14_Uncontrolled_Diabetes_Admission_Rate.pdf">View the original measure documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the measure.</p>
+<p>This measure updates previous versions: </p>
+<ul style="list-style-type: disc;">
+    <li>AHRQ QI. Prevention quality indicators #14: technical specifications. Uncontrolled diabetes admission rate [version 4.4]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Mar. 2 p. </li>
+    <li>AHRQ quality indicators. Prevention quality indicators: technical specifications [version 4.4]. Appendices. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Mar. 6 p. </li>
+</ul></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+            <h4>Measure Hierarchy</h4>
+<a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_Collection_Hierarchy=objid25774&amp;fLockTerm=Agency%2Bfor%2BHealthcare%2BResearch%2Band%2BQuality%2B%28AHRQ%29%2BQuality%2BIndicators">Agency for Healthcare Research and Quality (AHRQ) Quality Indicators</a> &gt; <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_Collection_Hierarchy=objid25774%3Bobjid25963&amp;fLockTerm=Prevention%2BQuality%2BIndicators">Prevention Quality Indicators</a>                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adult%3A%2080%20years%20old%20and%20older&amp;fLockTerm=Adult%253a%2B80%2Byears%2Bold%2Band%2Bolder">Adult: 80 years old and older</a></li>                                              
+                        <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adult%3A%2065-79%20years%20old&amp;fLockTerm=Adult%253a%2B65-79%2Byears%2Bold">Adult: 65-79 years old</a></li>                                              
+                        <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adult%3A%2045-64%20years%20old&amp;fLockTerm=Adult%253a%2B45-64%2Byears%2Bold">Adult: 45-64 years old</a></li>                                              
+                        <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adult%3A%2019-44%20years%20old&amp;fLockTerm=Adult%253a%2B19-44%2Byears%2Bold">Adult: 19-44 years old</a></li>                                              
+                        <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adolescent%3A%2013-18%20years%20old&amp;fLockTerm=Adolescent%253a%2B13-18%2Byears%2Bold">Adolescent: 13-18 years old</a></li>                                              
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_ICD9CM_CUI=C0009421&amp;fLockTerm=Coma">Coma</a>
+ (780.01)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0009421&amp;fLockTerm=Coma">Coma</a>
+, <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0342257&amp;fLockTerm=Diabetes+Complications">Diabetes Complications</a>
+, <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0011849&amp;fLockTerm=Diabetes+Mellitus">Diabetes Mellitus</a>
+, <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C1263960&amp;fLockTerm=Diabetic+Coma">Diabetic Coma</a>
+, <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0011881&amp;fLockTerm=Diabetic+Nephropathies">Diabetic Nephropathies</a>
+, <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0011882&amp;fLockTerm=Diabetic+Neuropathies">Diabetic Neuropathies</a>
+, <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0022638&amp;fLockTerm=Ketosis">Ketosis</a>
+, <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0030673&amp;fLockTerm=Patient+Admission">Patient Admission</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0009421&amp;fLockTerm=Comatose">Comatose</a>
+, <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0342257&amp;fLockTerm=Complications+of+Diabetes+Mellitus">Complications of Diabetes Mellitus</a>
+, <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0011849&amp;fLockTerm=Diabetes+Mellitus">Diabetes Mellitus</a>
+, <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C1263960&amp;fLockTerm=Diabetes+with+coma+(disorder)">Diabetes with coma (disorder)</a>
+, <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0011881&amp;fLockTerm=Diabetic+Nephropathy">Diabetic Nephropathy</a>
+, <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0011882&amp;fLockTerm=Diabetic+Neuropathies">Diabetic Neuropathies</a>
+, <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0220982&amp;fLockTerm=Ketoacidosis">Ketoacidosis</a>
+, <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0022638&amp;fLockTerm=Ketosis">Ketosis</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0009421&amp;fLockTerm=Coma">Coma</a>
+ (371632003), <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0011849&amp;fLockTerm=Diabetes+mellitus">Diabetes mellitus</a>
+ (73211009), <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0342257&amp;fLockTerm=Diabetic+complication">Diabetic complication</a>
+ (74627003), <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0011882&amp;fLockTerm=Diabetic+neuropathy">Diabetic neuropathy</a>
+ (230572002), <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0011881&amp;fLockTerm=Diabetic+renal+disease">Diabetic renal disease</a>
+ (127013003), <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0259752&amp;fLockTerm=Hyperosmolarity">Hyperosmolarity</a>
+ (14735008), <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0220982&amp;fLockTerm=Ketoacidosis">Ketoacidosis</a>
+ (56051008), <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0022638&amp;fLockTerm=Ketosis">Ketosis</a>
+ (2538008)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#563" class="section-mark">Measure Domain</a></li>
+                                    <li><a href="#566" class="section-mark">Brief Abstract</a></li>
+                                    <li><a href="#573" class="section-mark">Evidence Supporting the Measure</a></li>
+                                    <li><a href="#580" class="section-mark">State of Use of the Measure</a></li>
+                                    <li><a href="#583" class="section-mark">Application of the Measure in its Current Use</a></li>
+                                    <li><a href="#590" class="section-mark">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></li>
+                                    <li><a href="#593" class="section-mark">Data Collection for the Measure</a></li>
+                                    <li><a href="#605" class="section-mark">Computation of the Measure</a></li>
+                                    <li><a href="#615" class="section-mark">Identifying Information</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10375?contentType=pdf" class="pdf">.PDF 112.9 kb</a></li>
+                            <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10375?contentType=word" class="word">Word Document 296.1 kb</a></li>
+                            <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10375?contentType=xml" class="xml">.XML 43.1 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180625155554/https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/summaries/summary/49503/uncontrolled-diabetes-admission-percentage-of-admissions-for-a-principal-diagnosis-of-diabetes-without-mention-of-shortterm-or-longterm-complications-per-100000-population-ages-18-years-and-older" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180625155554/https://twitter.com/share?text=&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/49503/uncontrolled-diabetes-admission-percentage-of-admissions-for-a-principal-diagnosis-of-diabetes-without-mention-of-shortterm-or-longterm-complications-per-100000-population-ages-18-years-and-older" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180625155554/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/49503/uncontrolled-diabetes-admission-percentage-of-admissions-for-a-principal-diagnosis-of-diabetes-without-mention-of-shortterm-or-longterm-complications-per-100000-population-ages-18-years-and-older&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180625155554/mailto:/?Subject=AHRQ: Uncontrolled diabetes admission: percentage of admissions for a principal diagnosis of diabetes without mention of short-term or long-term complications per 100,000 population, ages 18 years and older.&amp;body=https://www.qualitymeasures.ahrq.gov/summaries/summary/49503/uncontrolled-diabetes-admission-percentage-of-admissions-for-a-principal-diagnosis-of-diabetes-without-mention-of-shortterm-or-longterm-complications-per-100000-population-ages-18-years-and-older" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Quality Measures Clearinghouse (NQMC). Measure summary: Uncontrolled diabetes admission: percentage of admissions for a principal diagnosis of diabetes without mention of short-term or long-term complications per 100,000 population, ages 18 years and older. In: National Quality Measures Clearinghouse (NQMC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar 01. [cited 2018 Jun 25]. Available: https://www.qualitymeasures.ahrq.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49503?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49503?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49503?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49503?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49503?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49503">RefWorks</a></li>
+                            <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49503?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="49503" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="563" class="accordion-title section-563 is-active" role="tab" aria-expanded="true"><a href="#">Measure Domain</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Primary Measure Domain</a></h3>
+                    <p>Related Population Health Measures: Population Use of Services</p>
+                        <h3><a href="#">Secondary Measure Domain</a></h3>
+                    <p>Does not apply to this measure</p>
+
+            </div>
+                <h2 id="566" class="accordion-title section-566 is-active" role="tab" aria-expanded="true"><a href="#">Brief Abstract</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description</a></h3>
+                    <p><div class="content_para"><p>This measure is used to assess the percentage of admissions for a principal diagnosis of diabetes without mention of short-term (ketoacidosis, hyperosmolarity, or coma) or long-term (renal, eye, neurological, circulatory, or other unspecified) complications per 100,000 population, ages 18 years and older.</p></div></p>
+                        <h3><a href="#">Rationale</a></h3>
+                    <p><div class="content_para"><p>Uncontrolled diabetes is more likely to occur in the elderly and those with other types of multimorbidity and physiological complexity. Despite medical advances and increased awareness of diabetes in both the lay and medical communities, few patients with diabetes broadly achieve targets for glucose management and other preventative care interventions, as outlined in nationally accepted clinical guidelines. Better glycemic control can be achieved through: higher access to medical care in the ambulatory setting; appropriate medication and home glucose monitoring; better care coordination among providers; proper nutrition; patient education; and management of comorbid mental illness and/or cognitive decline. Special attention to the elderly and those with complex medical histories is needed, as they may be less likely to have classic symptoms of hyperglycemia and are more likely to demonstrate a slow decline. Symptom expression may also be masked by autonomic dysfunction and metabolic hormonal dysregulation associated with long-standing hyperglycemia as well as polypharmacy and other competing co-morbid conditions.</p>
+<p>Diabetes is best treated in the outpatient setting. Hospitalizations due to uncontrolled diabetes may be decreased by improved outpatient diabetes management aimed at improving glycemic control. Reasons for admission may be directly related to physiologic causes or due to the cessation of treatment, lack of access to quality care, medication costs, and or other adherence related issues.</p>
+<p>This measure is an avoidable hospitalization/ambulatory care sensitive condition (ACSC) type indicator. ACSC type indicators are not measures of hospital quality, but rather measures of potentially avoidable hospitalization if appropriate outpatient care, other healthcare services or community services were accessed and obtained (i.e., measures of the health care system broadly defined). These measures are designed to assess population access to timely, high quality outpatient and public health services in a particular geographic area, for the purpose of managing chronic disease or diagnosing acute illnesses before progressing to inpatient treatment. These measures are of most interest to comprehensive health care delivery systems, such as some health maintenance organizations (HMOs), accountable care organizations (ACOs) or public health agencies. ACSC indicators correlate with each other and they may be used in conjunction as an overall examination of outpatient care and access to care at a national, regional or county level.</p></div></p>
+                        <h3><a href="#">Evidence for Rationale</a></h3>
+                    <p><table><tr><td>National Quality Forum measure information: uncontrolled diabetes admission rate (PQI 14). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 17 p. </td></tr></table></p>
+                        <h3><a href="#">Primary Health Components</a></h3>
+                    <p><div class="content_para"><p>Uncontrolled diabetes without mention of complication; ambulatory care sensitive condition (ACSC)</p></div></p>
+                        <h3><a href="#">Denominator Description</a></h3>
+                    <p><div class="content_para"><p>Population ages 18 years and older in metropolitan area or county (see the related "Denominator Inclusions/Exclusions" field)</p></div></p>
+                        <h3><a href="#">Numerator Description</a></h3>
+                    <p><div class="content_para"><p>Discharges, for patients ages 18 years and older, with a principal International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis code for uncontrolled diabetes without mention of a short-term or long-term complication (see the related "Numerator Inclusions/Exclusions" field)</p></div></p>
+
+            </div>
+                <h2 id="573" class="accordion-title section-573 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Criterion of Quality for the Measure</a></h3>
+                    <p><ul><li>A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence</li><li>A systematic review of the clinical research literature (e.g., Cochrane Review)</li><li>One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal</li></ul></p>
+                        <h3><a href="#">Additional Information Supporting Need for the Measure</a></h3>
+                    <p><div class="content_para"><p>A study using Healthcare Cost and Utilization Project (HCUP) data reported that the combination of uncontrolled diabetes (Prevention Quality Indicator [PQI] #14) and short-term diabetes complications (PQI #1) accounted for 36% of all diabetic related hospitalizations in 2004 at a cost of 1.3 billion dollars (Ahern &amp; Hendryx, 2007). Once admitted, minorities have been shown to have longer average lengths of stays and incur higher costs (Kim et al., 2010; Shen &amp; Washington, 2008). With the continuing rise in diabetes, along with the aging of the population, admissions for complications related to diabetes are expected to climb. Besides hospitalizations, acute diabetic complications are the seventh leading cause of death in the U.S. (2007) and are considerable source morbidity. Approximately 40% of elderly patients being admitted life-threatening hyperglycemia do not have a known history of diabetes (Wachtel, Silliman, &amp; Lamberton, 1987; Gale, Dornan, &amp; Tattersall, 1981).</p>
+<p>Decreased admissions for diabetic complication over time have been reported for patients managed in systems with higher continuity of care (Menzin et al., 2010; Lin et al., 2008; Robbins, Valdmanis, &amp; Webb, 2008), when endocrinologists provide routine care, and in those with organizations with pay-for-performance incentives (Chen et al., 2010). Innovative types of outpatient case management programs shown to effective in decreasing diabetic hospitalizations include: cluster or group visits (Ward, 2009; Steinsbekk et al., 2012), Care Coordination Home Telehealth for Veterans (Jia et al., 2009), and enhanced patient education (Steinsbekk et al., 2012; Robbins et al., 2008; Worswick et al., 2013).</p>
+<p>Hospitalization rates for complications associated with diabetes vary substantially by race. Socioeconomic factors account for some but not all of these disparities (Kim et al., 2010; Shen &amp; Washington, 2008). Disadvantaged patients are more likely to be admitted for acute complications of their diabetes (which are more easily preventable), as opposed to chronic complications and to be admitted through the emergency department (Kim et al., 2010; Shen &amp; Washington, 2008). Once admitted, minorities have been shown to have longer average lengths of stays and incur higher costs. Blacks and Hispanics have been shown to less likely have coverage of Part B services (physician services) compared to whites. Additionally, Medicare patients without private insurance coverage of Part B services are less likely to self-monitor their blood glucose, have regular checkups, or receive treatment for hypertension or dyslipidemia (Harris, 1999). Persons with intellectual disabilities and mental health disorders have been shown to have an increased risk for hospitalization for diabetic related complications (Becker &amp; Hux, 2011; Druss et al., 2012); however, not all studies are consistent (Leung et al., 2011). Older adults admitted with diabetic complications are more likely to have more comorbid conditions and more insidious symptom presentation. Approximately 40% of older patients presenting with severe hyperglycemia do not have a known history of diabetes.</p></div></p>
+                        <h3><a href="#">Evidence for Additional Information Supporting Need for the Measure</a></h3>
+                    <p><table><tr><td>Ahern MM, Hendryx M. Avoidable hospitalizations for diabetes: comorbidity risks. Dis Manage. 2007 Dec;10(6):347-55. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18163863" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Becker T, Hux J. Risk of acute complications of diabetes among people with schizophrenia in Ontario, Canada. Diabetes Care. 2011 Feb;34(2):398-402. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20978096" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Chen JY, Tian H, Taira Juarez D, Hodges KA, Brand JC, Chung RS, Legorreta AP. The effect of a PPO pay-for-performance program on patients with diabetes. Am J Manag Care. 2010 Jan;16(1):e11-9. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20059287" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Druss BG, Zhao L, Cummings JR, Shim RS, Rust GS, Marcus SC. Mental comorbidity and quality of diabetes care under Medicaid: a 50-state analysis. Med Care. 2012 May;50(5):428-33. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22228248" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Gale EA, Dornan TL, Tattersall RB. Severely uncontrolled diabetes in the over-fifties. Diabetologia. 1981 Jul;21(1):25-8. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=6791979" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Harris MI. Racial and ethnic differences in health insurance coverage for adults with diabetes. Diabetes Care. 1999 Oct;22(10):1679-82. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10526734" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Jia H, Chuang HC, Wu SS, Wang X, Chumbler NR. Long-term effect of home telehealth services on preventable hospitalization use. J Rehabil Res Dev. 2009;46(5):557-66. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19882490" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Kim H, Ross JS, Melkus GD, Zhao Z, Boockvar K. Scheduled and unscheduled hospital readmissions among patients with diabetes. Am J Manag Care. 2010 Oct;16(10):760-7. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20964472" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Leung G, Zhang J, Lin WC, Clark RE. Behavioral disorders and diabetes-related outcomes among Massachusetts Medicare and Medicaid beneficiaries. Psychiatr Serv. 2011 Jun;62(6):659-65. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21632736" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Lin W, Huang IC, Wang SL, Yang MC, Yaung CL. Continuity of diabetes care is associated with avoidable hospitalizations: evidence from Taiwan's National Health Insurance scheme. Int J Qual Health Care. 2010 Feb;22(1):3-8. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20007170" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Menzin J, Korn JR, Cohen J, Lobo F, Zhang B, Friedman M, Neumann PJ. Relationship between glycemic control and diabetes-related hospital costs in patients with type 1 or type 2 diabetes mellitus. J Manag Care Pharm. 2010 May;16(4):264-75. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20433217" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>National Quality Forum measure information: uncontrolled diabetes admission rate (PQI 14). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 17 p. </td></tr></table></p>
+                    <p><table><tr><td>Robbins JM, Thatcher GE, Webb DA, Valdmanis VG. Nutritionist visits, diabetes classes, and hospitalization rates and charges: the Urban Diabetes Study. Diabetes Care. 2008 Apr;31(4):655-60. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18184894" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Robbins JM, Valdmanis VG, Webb DA. Do public health clinics reduce rehospitalizations?: the urban diabetes study. J Health Care Poor Underserved. 2008 May;19(2):562-73. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18469426" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Shen JJ, Washington EL. Identification of diabetic complications among minority populations. Ethn Dis. 2008;18(2):136-40. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18507263" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Steinsbekk A, Rygg LØ, Lisulo M, Rise MB, Fretheim A. Group based diabetes self-management education compared to routine treatment for people with type 2 diabetes mellitus. A systematic review with meta-analysis. BMC Health Serv Res. 2012;12:213. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22824531" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Wachtel TJ, Silliman RA, Lamberton P. Predisposing factors for the diabetic hyperosmolar state. Arch Intern Med. 1987 Mar;147(3):499-501. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=3827427" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Ward MM. Access to care and the incidence of end-stage renal disease due to diabetes. Diabetes Care. 2009 Jun;32(6):1032-6. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19460914" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Worswick J, Wayne SC, Bennett R, Fiander M, Mayhew A, Weir MC, Sullivan KJ, Grimshaw JM. Improving quality of care for persons with diabetes: an overview of systematic reviews - what does the evidence tell us?. Syst Rev. 2013;2:26. <a href="https://web.archive.org/web/20180625155554/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23647654" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Extent of Measure Testing</a></h3>
+                    <p><div class="content_para"><p><strong>Reliability Testing</strong><br/>
+The developer's metric of reliability is the signal to noise ratio, which is the ratio of the between county (area) variance (signal) to the within county (area) variance (noise). The formula is signal / (signal + noise). There is a county (area)-specific signal to noise ratio, which is used as an empirical Bayes univariate shrinkage estimator. The overall signal to noise ratio is a weighted average of the county (area)-specific signal-to-noise ratio, where the weight is [1 / (signal + noise)^2]. The signal is calculated using an iterative method. The analysis reports the reliability of the risk-adjusted rate (before applying the empirical Bayes univirate shrinkage estimator).</p>
+<p>Overall the risk-adjusted rate is moderately reliable. Based on a norm of a signal-to-noise ratio of 0.80, 60% of counties (areas) exceed the norm. Reliability is less than the norm in counties with population less than approximately 15,000 persons, meaning that the performance score is reliability adjusted closer to the shrinkage target in those counties.</p>
+<p><strong>Validity Testing</strong><br/>
+The developer conducted construct validity testing to examine the association between the risk-adjusted rate and area structural characteristics potentially associated with quality of care, including prior performance, using regression analysis.</p>
+<p>Given the stated rationale, the expectation for the regression analysis given the expected relationship between the "Less Access to High Quality Outpatient Care" construct validity measure (F1) and the county (area) risk-adjusted rate is a positive, statistically significant coefficient. The expectation for the regression analysis given the expected relationship between the "More Market Competition" construct validity measure (F2) and the county (area) risk-adjusted rate is a positive, statistically significant coefficient. The results are consistent with expectations. Also, past performance is a moderate predictor of current performance with a coefficient of 0.73.</p>
+<p>Refer to the original measure documentation for additional measure testing information.</p></div></p>
+                        <h3><a href="#">Evidence for Extent of Measure Testing</a></h3>
+                    <p><table><tr><td>National Quality Forum measure information: uncontrolled diabetes admission rate (PQI 14). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 17 p. </td></tr></table></p>
+
+            </div>
+                <h2 id="580" class="accordion-title section-580 is-active" role="tab" aria-expanded="true"><a href="#">State of Use of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">State of Use</a></h3>
+                    <p>Current routine use</p>
+                        <h3><a href="#">Current Use</a></h3>
+                    <p>Monitoring and planning</p>
+                    <p>Monitoring health state(s)</p>
+                    <p>Pay-for-performance</p>
+                    <p>Public reporting</p>
+
+            </div>
+                <h2 id="583" class="accordion-title section-583 is-active" role="tab" aria-expanded="true"><a href="#">Application of the Measure in its Current Use</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measurement Setting</a></h3>
+                    <p>Ambulatory/Office-based Care</p>
+                    <p>Hospital Inpatient</p>
+                        <h3><a href="#">Professionals Involved in Delivery of Health Services</a></h3>
+                    <p>Physicians</p>
+                        <h3><a href="#">Least Aggregated Level of Services Delivery Addressed</a></h3>
+                    <p>Regional, County or City</p>
+                        <h3><a href="#">Statement of Acceptable Minimum Sample Size</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Target Population Age</a></h3>
+                    <p><div class="content_para"><p>Age greater than or equal to 18 years</p></div></p>
+                        <h3><a href="#">Target Population Gender</a></h3>
+                    <p>Either male or female</p>
+
+            </div>
+                <h2 id="590" class="accordion-title section-590 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Not within an IOM Care Need</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Not within an IOM Domain</p>
+
+            </div>
+                <h2 id="593" class="accordion-title section-593 is-active" role="tab" aria-expanded="true"><a href="#">Data Collection for the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Case Finding Period</a></h3>
+                    <p><div class="content_para"><p>The time period is one year. </p>
+<p class="Note"><strong>Note</strong>: The reference population rates and signal variance parameters assume a one-year time period.</p></div></p>
+                        <h3><a href="#">Denominator Sampling Frame</a></h3>
+                    <p>Geographically defined</p>
+                        <h3><a href="#">Denominator (Index) Event or Characteristic</a></h3>
+                    <p>Geographic Location</p>
+                    <p>Patient/Individual (Consumer) Characteristic</p>
+                        <h3><a href="#">Denominator Time Window</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Denominator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+Population ages 18 years and older in metropolitan area (MA) or county. Discharges in the numerator are assigned to the denominator based on the MA or county of the patient residence, not the MA or county of the hospital where the discharge occurred.</p>
+<p class="Note"><strong>Note</strong>:</p>
+<ul class="Note" style="list-style-type: disc;">
+    <li>May be combined with diabetes short-term complications as a single indicator as a simple sum of the rates to form the <em>Healthy People 2010</em> indicator (note that the Agency for Healthcare Research and Quality [AHRQ] Quality Indicator [QI<sup>TM</sup>] excludes transfers to avoid double-counting cases). </li>
+    <li>The term MA was adopted by the United States (U.S.) Census in 1990 and referred collectively to metropolitan statistical areas (MSAs), consolidated metropolitan statistical areas (CMSAs), and primary metropolitan statistical areas (PMSAs). In addition, "area" could refer to either 1) Federal Information Processing Standard (FIPS) county, 2) modified FIPS county, 3) 1999 Office of Management and Budget (OMB) Metropolitan Statistical Area, or 4) 2003 OMB Metropolitan Statistical Area. Micropolitan Statistical Areas are not used in the QI software. </li>
+    <li>The denominator can be specified with the diabetic population only and calculated with the SAS QI software through the condition-specific denominator at the state-level feature. </li>
+</ul>
+<p><strong>Exclusions</strong><br/>
+Unspecified</p></div></p>
+                        <h3><a href="#">Exclusions/Exceptions</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Numerator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+Discharges, for patients ages 18 years and older, with a principal International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis code for uncontrolled diabetes without mention of a short-term or long-term complication</p>
+<p class="Note"><strong>Note</strong>: </p>
+<ul class="Note" style="list-style-type: disc;">
+    <li>By definition, discharges with a principal diagnosis of uncontrolled diabetes without mention of short-term or long-term complications are precluded from an assignment of Major Diagnostic Categories (MDC) 14 by grouper software. Thus, obstetric discharges should not be considered in the Prevention Quality Indicator (PQI) rate, though the Agency for Healthcare Research and Quality (AHRQ) Quality Indicator (QI<sup>TM</sup>) software does not explicitly exclude obstetric cases. </li>
+    <li>Refer to the original measure documentation for ICD-9-CM codes. See also the <em>Prevention Quality Indicators Appendices</em>. </li>
+</ul>
+<p><strong>Exclusions</strong><br/>
+Exclude cases: </p>
+<ul style="list-style-type: disc;">
+    <li>Transfer from a hospital (different facility) </li>
+    <li>Transfer from a Skilled Nursing Facility (SNF) or Intermediate Care Facility (ICF) </li>
+    <li>Transfer from another health care facility </li>
+    <li>With missing gender (SEX=missing), age (AGE=missing), quarter (DQTR=missing), year (YEAR=missing), principal diagnosis (DX1=missing), or county (PSTCO=missing) </li>
+</ul></div></p>
+                        <h3><a href="#">Numerator Search Strategy</a></h3>
+                    <p>Institutionalization</p>
+                        <h3><a href="#">Data Source</a></h3>
+                    <p>Administrative clinical data</p>
+                        <h3><a href="#">Type of Health State</a></h3>
+                    <p>Proxy for Health State</p>
+                        <h3><a href="#">Instruments Used and/or Associated with the Measure</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+
+            </div>
+                <h2 id="605" class="accordion-title section-605 is-active" role="tab" aria-expanded="true"><a href="#">Computation of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measure Specifies Disaggregation</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Scoring</a></h3>
+                    <p>Rate/Proportion</p>
+                        <h3><a href="#">Interpretation of Score</a></h3>
+                    <p>Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)</p>
+                        <h3><a href="#">Allowance for Patient or Population Factors</a></h3>
+                    <p>Risk adjustment devised specifically for this measure/condition</p>
+                        <h3><a href="#">Description of Allowance for Patient or Population Factors</a></h3>
+                    <p><div class="content_para"><p>The predicted value for each case is computed using a hierarchical model (logistic regression with area random effect) and covariates for gender and age (in 5-year age groups). The reference population used in the regression is the universe of discharges for states that participate in the Healthcare Cost and Utilization Project (HCUP) State Inpatient Data (SID) for the year 2010 (combined), a database consisting of 46 states and approximately 38 million adult discharges, and the United States (U.S.) Census data by county. The expected rate is computed as the sum of the predicted value for each case divided by the number of cases for the unit of analysis of interest (i.e., area). The risk adjusted rate is computed using indirect standardization as the observed rate divided by the expected rate, multiplied by the reference population rate.</p>
+<p>Refer to the original measure documentation for the specific covariates for this measure.</p></div></p>
+                        <h3><a href="#">Standard of Comparison</a></h3>
+                    <p>External comparison at a point in, or interval of, time</p>
+                    <p>External comparison of time trends</p>
+                    <p>Internal time comparison</p>
+
+            </div>
+                <h2 id="615" class="accordion-title section-615 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Original Title</a></h3>
+                    <p><div class="content_para"><p>PQI 14: uncontrolled diabetes admission rate.</p></div></p>
+                        <h3><a href="#">Measure Collection Name</a></h3>
+                    <p>Agency for Healthcare Research and Quality (AHRQ) Quality Indicators</p>
+                        <h3><a href="#">Measure Set Name</a></h3>
+                    <p>Prevention Quality Indicators</p>
+                        <h3><a href="#">Submitter</a></h3>
+                    <p>Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]</p>
+                        <h3><a href="#">Developer</a></h3>
+                    <p>Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]</p>
+                        <h3><a href="#">Funding Source(s)</a></h3>
+                    <p><div class="content_para"><p>Agency for Healthcare Research and Quality (AHRQ)</p></div></p>
+                        <h3><a href="#">Composition of the Group that Developed the Measure</a></h3>
+                    <p><div class="content_para"><p>The Agency for Healthcare Research and Quality (AHRQ) Quality Indicator (QI) measures are developed by a team of clinical and measurement experts in collaboration with AHRQ. The AHRQ QIs are continually updated as a result of new research evidence and validation efforts, user feedback, guidance from the National Quality Forum (NQF), and general advances in the science of quality measurement. </p></div></p>
+                        <h3><a href="#">Financial Disclosures/Other Potential Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>None</p></div></p>
+                        <h3><a href="#">Endorser</a></h3>
+                    <p>National Quality Forum</p>
+                        <h3><a href="#">NQF Number</a></h3>
+                    <p>0638</p>
+                        <h3><a href="#">Date of Endorsement</a></h3>
+                    <p><div class="content_para"><p>2014 Sep 18</p></div></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>This measure was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date of Most Current Version in NQMC</a></h3>
+                    <p>2015 Mar</p>
+                        <h3><a href="#">Measure Maintenance</a></h3>
+                    <p><div class="content_para"><p>Measure is reviewed and updated on a yearly basis</p></div></p>
+                        <h3><a href="#">Date of Next Anticipated Revision</a></h3>
+                    <p><div class="content_para"><p>Spring 2016 (version 6.0, including International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] and International Classification of Diseases, Tenth Revision, Procedure Coding System [ICD-10-PCS] compatible software)</p></div></p>
+                        <h3><a href="#">Measure Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the measure.</p>
+<p>This measure updates previous versions: </p>
+<ul style="list-style-type: disc;">
+    <li>AHRQ QI. Prevention quality indicators #14: technical specifications. Uncontrolled diabetes admission rate [version 4.4]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Mar. 2 p. </li>
+    <li>AHRQ quality indicators. Prevention quality indicators: technical specifications [version 4.4]. Appendices. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Mar. 6 p. </li>
+</ul></div></p>
+                        <h3><a href="#">Source(s)</a></h3>
+                    <p><table><tr><td>AHRQ QI research version 5.0. Prevention quality indicator 14 technical specifications: uncontrolled diabetes admission rate. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 2 p. </td></tr></table></p>
+                    <p><table><tr><td>National Quality Forum measure information: uncontrolled diabetes admission rate (PQI 14). Washington (DC): National Quality Forum (NQF); 2014 Sep 18. 17 p. </td></tr></table></p>
+                        <h3><a href="#">Measure Availability</a></h3>
+                    <p><div class="content_para"><p>Source available from the <a href="https://web.archive.org/web/20180625155554/http://www.qualityindicators.ahrq.gov/Downloads/Modules/PQI/V50/TechSpecs/PQI_14_Uncontrolled_Diabetes_Admission_Rate.pdf" target="_blank" title="AHRQ QI Web site">Agency for Healthcare Research and Quality (AHRQ) Quality Indicators (QI) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>For more information, contact the AHRQ QI Support Team at E-mail: <a href="https://web.archive.org/web/20180625155554/mailto:QIsupport@ahrq.hhs.gov">QIsupport@ahrq.hhs.gov</a>; Phone: 301-427-1949.</p></div></p>
+                        <h3><a href="#">Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>AHRQ quality indicators. Prevention quality indicators (PQI) parameter estimates [version 5.0]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 21 p. This document is available from the <a href="https://web.archive.org/web/20180625155554/http://www.qualityindicators.ahrq.gov/Downloads/Modules/PQI/V50/Parameter_Estimates_PQI_50.pdf" target="_blank" title="AHRQ QI Web site">AHRQ Quality Indicators Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>AHRQ quality indicators. Prevention quality indicators benchmark data tables [version 5.0]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Mar. 9 p. This document is available from the <a href="https://web.archive.org/web/20180625155554/http://www.qualityindicators.ahrq.gov/Downloads/Modules/PQI/V50/Version_50_Benchmark_Tables_PQI.pdf" target="_blank" title="AHRQ QI Web site">AHRQ Quality Indicators Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>AHRQ quality indicators. Prevention quality indicators (PQI) composite measure workgroup. Final report. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2006 Apr 7. various p. This document is available from the <a href="https://web.archive.org/web/20180625155554/http://www.qualityindicators.ahrq.gov/Downloads/Modules/PQI/PQI_Composite_Development.pdf" target="_blank" title="AHRQ QI Web site">AHRQ Quality Indicators Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>HCUPnet: a tool for identifying, tracking, and analyzing national hospital statistics. [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); [accessed 2015 Sep 10]. HCUPnet is available from the <a href="https://web.archive.org/web/20180625155554/http://hcupnet.ahrq.gov/" target="_blank" title="AHRQ Web site">AHRQ Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">NQMC Status</a></h3>
+                    <p><div class="content_para"><p>This NQMC summary was completed by ECRI on December 19, 2002. The information was verified by the Agency for Healthcare Research and Quality on January 9, 2003. </p>
+<p>This NQMC summary was updated by ECRI Institute on April 6, 2004, February 18, 2005, February 27, 2006, June 15, 2007, November 26, 2008 and May 22, 2010. </p>
+<p>This NQMC summary was reviewed and edited by ECRI Institute on May 16, 2011. </p>
+<p>This NQMC summary was retrofitted into the new template on July 13, 2011. </p>
+<p>This NQMC summary was updated by ECRI Institute on February 22, 2013 and again on December 1, 2015. The information was verified by the measure developer on January 19, 2016. </p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>No copyright restrictions apply.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NQMC Disclaimer</a></h3>
+                    <p><p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria">NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NQMC Measure Summaries</h3>
+            <p>NQMC provides structured summaries containing information about measures and their development.</p>
+            <ul>
+                <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/domain-framework" class="internal-link">Domain Framework</a></li>
+                <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/template-of-measure-attributes" class="internal-link">Template of Measure Attributes</a></li>
+                <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/faqs" class="help-button">Measure Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NQMC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+    
+    <a class="block-link" href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/disclaimer?id=49503&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.svg">
+					  	<img src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.png" alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		                <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a></li>
+						<li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180625155554/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://web.archive.org/web/20180625155554/https://www.guideline.gov/" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.svg">
+									<img src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180625155554/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180625155554im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180625155554/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180625155554js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180625155554js_/https://www.qualitymeasures.ahrq.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 15:55:54 Jun 25, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:09:31 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 39.559 (3)
+  esindex: 0.005
+  captures_list: 62.67
+  CDXLines.iter: 15.049 (3)
+  PetaboxLoader3.datanode: 44.936 (4)
+  exclusion.robots: 0.138
+  exclusion.robots.policy: 0.128
+  RedisCDXSource: 5.29
+  PetaboxLoader3.resolve: 144.371
+  load_resource: 183.778
+-->

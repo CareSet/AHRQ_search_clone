@@ -1,0 +1,920 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=758;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Pediatric readmissions: percentage of admissions followed by one or more readmissions within 30 days, for patients less than 18 years old. | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180621174906cs_/https://www.qualitymeasures.ahrq.gov/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180621174906js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180621174906if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180621174906/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180621174906if_/https://www.googletagmanager.com/ns.html?id=GTM-KXQCDQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180621174906/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180621174906/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180621174906/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/" class="header-logo NQMC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png">
+				        <source srcset="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header_m.png">
+				        <img src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png" alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Measure Summary</li>
+            <li>NQMC:010750</li>
+            <li>Mar 2014
+            </li>            
+                                </ul>
+        <div>
+                <h1>Pediatric readmissions: percentage of admissions followed by one or more readmissions within 30 days, for patients less than 18 years old.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_Developer_String=Center%20of%20Excellence%20for%20Pediatric%20Quality%20Measurement%2C%20Boston%20Children%27s%20Hospital&amp;fLockTerm=Center%2Bof%2BExcellence%2Bfor%2BPediatric%2BQuality%2BMeasurement%252c%2BBoston%2BChildren%2527s%2BHospital">Center of Excellence for Pediatric Quality Measurement, Boston Children&#39;s Hospital</a></li>
+                        <li>   
+                                <a id="2606" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Center of Excellence for Pediatric Quality Measurement (CEPQM). Basic measure information: pediatric all-condition readmission measure. Boston (MA): Center of Excellence for Pediatric Quality Measurement (CEPQM), Boston Children’s Hospital; 13 p. </td></tr></table><table><tr><td>Center of Excellence for Pediatric Quality Measurement (CEPQM). Pediatric all-condition readmission measure: detailed specifications. Boston (MA): Center of Excellence for Pediatric Quality Measurement (CEPQM), Boston Children’s Hospital; 2014 Feb. 31 p.  [2 references]</td></tr></table>            </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the measure.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+            <h4>Measure Hierarchy</h4>
+<a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_Collection_Hierarchy=objid50126&amp;fLockTerm=Readmission%2BMeasures">Readmission Measures</a>                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Adolescent%3A%2013-18%20years%20old&amp;fLockTerm=Adolescent%253a%2B13-18%2Byears%2Bold">Adolescent: 13-18 years old</a></li>                                              
+                        <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Child%3A%206-12%20years%20old&amp;fLockTerm=Child%253a%2B6-12%2Byears%2Bold">Child: 6-12 years old</a></li>                                              
+                        <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Child%3A%20Pre-school%3A%202-5%20years%20old&amp;fLockTerm=Child%253a%2BPre-school%253a%2B2-5%2Byears%2Bold">Child: Pre-school: 2-5 years old</a></li>                                              
+                        <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Infant%3A%2001-23%20months%20old&amp;fLockTerm=Infant%253a%2B01-23%2Bmonths%2Bold">Infant: 01-23 months old</a></li>                                              
+                        <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Infant%3A%20Newborn&amp;fLockTerm=Infant%253a%2BNewborn">Infant: Newborn</a></li>                                              
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0019993&amp;fLockTerm=Hospitalization">Hospitalization</a>
+, <a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0030700&amp;fLockTerm=Patient+Readmission">Patient Readmission</a>
+, <a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0030755&amp;fLockTerm=Pediatrics">Pediatrics</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0019993&amp;fLockTerm=Hospitalization">Hospitalization</a>
+, <a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0030755&amp;fLockTerm=Pediatrics">Pediatrics</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0019993&amp;fLockTerm=Inpatient+care">Inpatient care</a>
+ (394656005), <a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0030755&amp;fLockTerm=Pediatric+specialty">Pediatric specialty</a>
+ (394537008)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#563" class="section-mark">Measure Domain</a></li>
+                                    <li><a href="#566" class="section-mark">Brief Abstract</a></li>
+                                    <li><a href="#573" class="section-mark">Evidence Supporting the Measure</a></li>
+                                    <li><a href="#580" class="section-mark">State of Use of the Measure</a></li>
+                                    <li><a href="#583" class="section-mark">Application of the Measure in its Current Use</a></li>
+                                    <li><a href="#590" class="section-mark">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></li>
+                                    <li><a href="#593" class="section-mark">Data Collection for the Measure</a></li>
+                                    <li><a href="#605" class="section-mark">Computation of the Measure</a></li>
+                                    <li><a href="#615" class="section-mark">Identifying Information</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10750?contentType=pdf" class="pdf">.PDF 140.2 kb</a></li>
+                            <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10750?contentType=word" class="word">Word Document 327.4 kb</a></li>
+                            <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10750?contentType=xml" class="xml">.XML 68.6 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180621174906/https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/summaries/summary/50127/pediatric-readmissions-percentage-of-admissions-followed-by-one-or-more-readmissions-within-30-days-for-patients-less-than-18-years-old" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180621174906/https://twitter.com/share?text=&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/50127/pediatric-readmissions-percentage-of-admissions-followed-by-one-or-more-readmissions-within-30-days-for-patients-less-than-18-years-old" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180621174906/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/50127/pediatric-readmissions-percentage-of-admissions-followed-by-one-or-more-readmissions-within-30-days-for-patients-less-than-18-years-old&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180621174906/mailto:/?Subject=AHRQ: Pediatric readmissions: percentage of admissions followed by one or more readmissions within 30 days, for patients less than 18 years old.&amp;body=https://www.qualitymeasures.ahrq.gov/summaries/summary/50127/pediatric-readmissions-percentage-of-admissions-followed-by-one-or-more-readmissions-within-30-days-for-patients-less-than-18-years-old" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Quality Measures Clearinghouse (NQMC). Measure summary: Pediatric readmissions: percentage of admissions followed by one or more readmissions within 30 days, for patients less than 18 years old. In: National Quality Measures Clearinghouse (NQMC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Mar 26. [cited 2018 Jun 21]. Available: https://www.qualitymeasures.ahrq.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50127?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50127?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50127?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50127?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50127?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50127">RefWorks</a></li>
+                            <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/50127?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="50127" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="563" class="accordion-title section-563 is-active" role="tab" aria-expanded="true"><a href="#">Measure Domain</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Primary Measure Domain</a></h3>
+                    <p>Related Health Care Delivery Measures: Use of Services</p>
+                        <h3><a href="#">Secondary Measure Domain</a></h3>
+                    <p>Does not apply to this measure</p>
+
+            </div>
+                <h2 id="566" class="accordion-title section-566 is-active" role="tab" aria-expanded="true"><a href="#">Brief Abstract</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description</a></h3>
+                    <p><div class="content_para"><p>This measure calculates case-mix-adjusted readmission rates, defined as the percentage of admissions followed by one or more readmissions within 30 days, for patients less than 18 years old. </p>
+<p>This measure focuses on patients discharged from general acute care hospitals, including children's hospitals. </p></div></p>
+                        <h3><a href="#">Rationale</a></h3>
+                    <p><div class="content_para"><p>Readmissions disrupt the lives of patients and families, expose patients to risks of harm during hospitalization, and are costly. The number of children who experience readmissions is substantial, and readmission rates for some conditions are high. Readmissions signal the quality of disease management, indicating a worsening of health status that in some cases may have been prevented. They also can reflect the quality of key processes, including discharge planning and education, care transitions, and follow-up care. In addition, disparities in pediatric readmission exist based on race/ethnicity, socioeconomic status, and special health care needs. Readmission rates vary among hospitals, and effective interventions to reduce readmissions have suggested potential for improvement.</p></div></p>
+                        <h3><a href="#">Evidence for Rationale</a></h3>
+                    <p><table><tr><td>Center of Excellence for Pediatric Quality Measurement (CEPQM). Basic measure information: pediatric all-condition readmission measure. Boston (MA): Center of Excellence for Pediatric Quality Measurement (CEPQM), Boston Children’s Hospital; 13 p. </td></tr></table></p>
+                        <h3><a href="#">Primary Health Components</a></h3>
+                    <p><div class="content_para"><p>Pediatric readmissions</p></div></p>
+                        <h3><a href="#">Denominator Description</a></h3>
+                    <p><div class="content_para"><p>Hospitalizations at general acute care hospitals for patients less than 18 years old (see the related "Denominator Inclusions/Exclusions" field)</p></div></p>
+                        <h3><a href="#">Numerator Description</a></h3>
+                    <p><div class="content_para"><p>Hospitalizations at general acute care hospitals for patients less than 18 years old that are followed by one or more readmissions to general acute care hospitals within 30 days (see the related "Numerator Inclusions/Exclusions" field)</p></div></p>
+
+            </div>
+                <h2 id="573" class="accordion-title section-573 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Criterion of Quality for the Measure</a></h3>
+                    <p><ul><li>A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence</li><li>A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences</li><li>A systematic review of the clinical research literature (e.g., Cochrane Review)</li><li>One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal</li></ul></p>
+                        <h3><a href="#">Additional Information Supporting Need for the Measure</a></h3>
+                    <p><div class="content_para"><p><strong>Prevalence of Readmissions </strong></p>
+<p>Readmissions within 30 days occur for 2% to 6% of hospitalizations in children (Jencks, Williams, &amp; Coleman, 2009; Wick et al., 2011; Berry et al., 2013; Jiang &amp; Wier, 2010). Just over 20% of children are readmitted within one year (Berry et al., 2011). Most studies of pediatric readmission thus far have been conducted in children's hospitals, which serve a greater prevalence of children with complex chronic conditions and associated high resource utilization and thus may not be representative of other hospitals that serve children (Simon et al., 2010). </p>
+<p>Certain subgroups of children have frequent readmissions. Children with sickle cell disease have much higher readmission rates than the overall pediatric population (Leschke et al., 2012; Sobota et al., 2012; Brousseau et al., 2010). Those with acute appendicitis are also readmitted at relatively high rates (Lautz &amp; Reynolds, 2011; Rice-Townsend et al., 2013; Morse et al., 2013). Children with complex chronic conditions and medical technology dependencies tend to have multiple, frequent readmissions and account for a disproportionately large proportion of readmissions and bed days (Berry et al., 2011; Gay et al., 2011). Although some readmissions for these children with special health care needs may be due to unavoidable reasons such as inevitable disease progression, others may be avoidable with improvements in such areas as care coordination, discharge transitions, or follow-up care. </p>
+<p><strong>Readmission Rates Vary by Age </strong></p>
+<p>Pediatric readmission rates vary by age, with relationships between readmission risk and age depending on the population in question. A study of readmission to children's hospitals following hospitalizations for all conditions demonstrated that patients 13 to 18 years old have higher readmission rates than younger children (Berry et al., 2013). A study of Medicaid-insured children admitted to children's or non-children's hospitals likewise showed that those 13 years or older had the highest readmission rates (Jiang &amp; Wier, 2006). However, analysis of Medicaid-insured children admitted to children's or non-children's hospitals using our candidate measure, which excludes admissions for birth of healthy newborns, indicated that patients less than 1 year of age were at highest risk of readmission. </p>
+<p><strong>Social and Clinical Burdens of Readmission </strong></p>
+<p>Hospitalization of a child is disruptive to families. It can affect parent/caregiver work and sibling school or daycare arrangements and expose families to various psychosocial stressors (Shudy et al., 2006; Rennick et al., 2002). In addition, readmission exposes patients to additional hospital days and thus increased potential for infections and medical errors, which are common during hospitalization (Aspden et al., 2007; Kohn, Corrigan, &amp; Donaldson, 2000).</p>
+<p><strong>Fiscal Burden of Readmission </strong></p>
+<p>Readmissions among pediatric patients are costly. A study of readmissions within 6 months in 48,000 patients with initial preventable admissions found a total hospital cost of readmissions of $136 million (Friedman &amp; Basu, 2004). In a study of patients admitted to children's hospitals during a 1-year period, readmissions for children with frequent rehospitalizations (=4 during the year) accounted for about $2.8 billion of the $14.7 billion in total hospital charges for the entire cohort (Berry et al., 2011). Parents and other caregivers also incur time and monetary costs while a child is hospitalized (Leader et al., 2002). </p>
+<p><strong>Association of Readmission with Children's Future Health </strong></p>
+<p>Frequent hospitalization may have negative developmental effects, including anxiety and feelings of isolation, particularly for children who are chronically ill and return to school after prolonged hospitalizations (Worchel-Prevatt, et al., 1998). Frequently-hospitalized adolescents are more likely to drop out of school than their healthy peers (Weitzman et al., 1982; Kearney, 2008). School reintegration can be complicated by side effects caused by treatment or the illness itself or by increased social, emotional and behavioral problems (Shaw &amp; McCabe, 2008). </p>
+<p><strong>Variation in Readmission Rates </strong></p>
+<p>Multiple studies have revealed variation in pediatric readmission rates, suggesting that at least some health systems have the potential to reduce readmissions. A study of readmissions following hospitalization at both children's and non-children's hospitals for 7 common conditions identified few hospitals that met criteria for being an outlier but found significant variation in readmission rates across hospitals for all but 1 condition (Bardach et al., 2013). In a study of readmissions to children's hospitals, readmission rates varied significantly across hospitals for 8 of the 10 diagnoses with the highest number of readmissions (Berry et al., 2013).</p>
+<p><strong>Potential for Quality Improvement </strong></p>
+<p>Adults at high risk of readmission toward whom interventions to reduce readmissions could be targeted include those who are older, have chronic or multiple co-morbidities, possess limited financial resources, or lack social or emotional support (Golden et al., 2010; Harrison et al., 2011; Kangovi et al., 2012; Strunin, Stone, &amp; Jack, 2007). </p>
+<p>Most evidence for strategies to improve readmission rates arises from studies of adults, particularly those greater than 65 years old with cardiac conditions (Santamour, 2011). Results for multi-component interventions are most promising (Gilfillan et al., 2010; Sochalski et al., 2009; Flood et al., 2013; Phillips et al., 2004; Naylor et al., 2004; Coleman et al., 2006), whereas those for single-component interventions are mixed (Harrison et al., 2011; Ballard et al., 2010; Mistiaen &amp; Poot, 2006; Costantino et al., 2013; Hansen et al., 2011). Single-component interventions effective in reducing readmissions for patients with heart failure include home visits and telephone or telemonitoring follow-up (Inglis et al., 2010; Scott, 2010). Multicomponent interventions have reduced readmissions in several adult populations with various clinical conditions. These interventions include use of a primary care medical home model (Gilfillan et al., 2010), multi-disciplinary heart failure care management (Sochalski et al., 2009), and provision of inpatient care in an interdisciplinary Acute Care for Elders unit (Flood et al., 2013). Effective multi-component interventions aimed at improving peri-discharge management include comprehensive discharge planning plus post-discharge support for heart failure and involvement of advanced practice clinicians (Phillips et al., 2004; Naylor et al., 2004; Coleman et al., 2006). In addition, a number of national and other large-scale efforts are addressing readmission rates for adults by improving care transitions (Boutwell et al., 2011; Institute for Healthcare Improvement, 2013; Society of Hospital Medicine, 2013; Hansen et al., 2013; Centers for Medicare &amp; Medicaid Services, 2013). </p>
+<p>In children, Medicaid insurance and having complex chronic conditions are associated with higher readmission rates (Jiang &amp; Weir, 2006; Berry et al., 2011; Brousseau et al., 2010; Rice-Townsend et al., 2013; Gay et al., 2011; Liu &amp; Pearlman, 2009). Non-white race has also been identified as a risk factor (Berry et al., 2011). Disease-specific readmission risk factors have been described for patients with sickle cell disease and asthma (Sobota et al., 2012; Frei-Jones, Field, &amp; DeBaun, "Risk factors," 2009; Reznik, Hailpern, &amp; Ozuah, 2006; Carroll et al., 2010). The relationship of having a medical home with hospitalizations is variable (Kim et al., 2011; AAP Council on Children with Disabilities, 2005; Homer et al., 2008), but having poor access to a medical home may be associated with increased readmissions (Auger et al., 2013). </p>
+<p>Interventions to reduce readmissions for children have not yet been widely studied (Cooper et al., 2006). However, as in adults, improving the quality of care during the peri-discharge period and the transition period to home, particularly with regard to knowledge reinforcement and self-management activation for children with chronic illnesses that require substantial self-management (e.g., asthma, sickle cell disease), is effective in decreasing readmissions (Leschke et al., 2012; Fassl et al., 2012; Davis et al., 2011; Boyd et al., 2009; Frei-Jones, Field, &amp; DeBaun, "Multi-modal," 2009).</p></div></p>
+                        <h3><a href="#">Evidence for Additional Information Supporting Need for the Measure</a></h3>
+                    <p><table><tr><td>American Academy of Pediatrics Council on Children with Disabilities. Care coordination in the medical home: integrating health and related systems of care for children with special health care needs. Pediatrics. 2005 Nov;116(5):1238-44. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16264016" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Aspden P, Wolcott JA, Bootman JL, Cronenwett LR, editor(s). Preventing medication errors. Washington (DC): The National Academies Press; 2007. </td></tr></table></p>
+                    <p><table><tr><td>Auger KA, Kahn RS, Davis MM, Beck AF, Simmons JM. Medical home quality and readmission risk for children hospitalized with asthma exacerbations. Pediatrics. 2013 Jan;131(1):64-70. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23230073" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Ballard DJ, Ogola G, Fleming NS, Stauffer BD, Leonard BM, Khetan R, Yancy CW. Impact of a standardized heart failure order set on mortality, readmission, and quality and costs of care. Int J Qual Health Care. 2010 Dec;22(6):437-44. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20935009" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Bardach NS, Vittinghoff E, Asteria-Peñaloza R, Edwards JD, Yazdany J, Lee HC, Boscardin WJ, Cabana MD, Dudley RA. Measuring hospital quality using pediatric readmission and revisit rates. Pediatrics. 2013 Sep;132(3):429-36. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23979094" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Berry JG, Hall DE, Kuo DZ, Cohen E, Agrawal R, Feudtner C, Hall M, Kueser J, Kaplan W, Neff J. Hospital utilization and characteristics of patients experiencing recurrent readmissions within children's hospitals. JAMA. 2011 Feb 16;305(7):682-90. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21325184" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Berry JG, Toomey SL, Zaslavsky AM, Jha AK, Nakamura MM, Klein DJ, Feng JY, Shulman S, Chiang VW, Chiang VK, Kaplan W, Hall M, Schuster MA. Pediatric readmission prevalence and variability across hospitals. JAMA. 2013 Jan 23;309(4):372-80. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23340639" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Boutwell AE, Johnson MB, Rutherford P, Watson SR, Vecchioni N, Auerbach BS, Griswold P, Noga P, Wagner C. An early look at a four-state initiative to reduce avoidable hospital readmissions. Health Aff (Millwood). 2011 Jul;30(7):1272-80. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21734200" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Boyd M, Lasserson TJ, McKean MC, Gibson PG, Ducharme FM, Haby M. Interventions for educating children who are at risk of asthma-related emergency  department attendance. Cochrane Database Syst Rev. 2009;(2):CD001290. [203 references] <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19370563" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Brousseau DC, Owens PL, Mosso AL, Panepinto JA, Steiner CA. Acute care utilization and rehospitalizations for sickle cell disease. JAMA. 2010 Apr 7;303(13):1288-94. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20371788" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Carroll CL, Uygungil B, Zucker AR, Schramm CM. Identifying an at-risk population of children with recurrent near-fatal asthma exacerbations. J Asthma. 2010 May;47(4):460-4. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20528602" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Center of Excellence for Pediatric Quality Measurement (CEPQM). Basic measure information: pediatric all-condition readmission measure. Boston (MA): Center of Excellence for Pediatric Quality Measurement (CEPQM), Boston Children’s Hospital; 13 p. </td></tr></table></p>
+                    <p><table><tr><td>Centers for Medicare and Medicaid Services (CMS). Community-based care transitions program. [internet]. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); [accessed 2013 Oct 23]. </td></tr></table></p>
+                    <p><table><tr><td>Coleman EA, Parry C, Chalmers S, Min SJ. The care transitions intervention: results of a randomized controlled trial. Arch Intern Med. 2006 Sep 25;166(17):1822-8. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17000937" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Cooper C, Wheeler DM, Woolfenden SR, Boss T, Piper S. Specialist home-based nursing services for children with acute and chronic illnesses. Cochrane Database Syst Rev. 2006;(4):CD004383. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17054202" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Costantino ME, Frey B, Hall B, Painter P. The influence of a postdischarge intervention on reducing hospital readmissions in a Medicare population. Popul Health Manag. 2013 Oct;16(5):310-6. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23537154" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Davis AM, Benson M, Cooney D, Spruell B, Orelian J. A matched-cohort evaluation of a bedside asthma intervention for patients hospitalized at a large urban children's hospital. J Urban Health. 2011 Feb;88 Suppl 1:49-60. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21337051" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Fassl BA, Nkoy FL, Stone BL, Srivastava R, Simon TD, Uchida DA, Koopmeiners K, Greene T, Cook LJ, Maloney CG. The Joint Commission Children's Asthma Care quality measures and asthma readmissions. Pediatrics. 2012 Sep;130(3):482-91. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22908110" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Flood KL, Maclennan PA, McGrew D, Green D, Dodd C, Brown CJ. Effects of an acute care for elders unit on costs and 30-day readmissions. JAMA Intern Med. 2013 Jun 10;173(11):981-7. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23609002" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Frei-Jones MJ, Field JJ, DeBaun MR. Multi-modal intervention and prospective implementation of standardized sickle cell pain admission orders reduces 30-day readmission rate. Pediatr Blood Cancer. 2009 Sep;53(3):401-5. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19422031 " target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Frei-Jones MJ, Field JJ, DeBaun MR. Risk factors for hospital readmission within 30 days: a new quality measure for children with sickle cell disease. Pediatr Blood Cancer. 2009 Apr;52(4):481-5. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19058209" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Friedman B, Basu J. The rate and cost of hospital readmissions for preventable conditions. Med Care Res Rev. 2004 Jun;61(2):225-40. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15155053" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Gay JC, Hain PD, Grantham JA, Saville BR. Epidemiology of 15-Day Readmissions to a Children's Hospital. Pediatrics. 2011 Jun;127(6):e1505-12. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21555493" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Gilfillan RJ, Tomcavage J, Rosenthal MB, Davis DE, Graham J, Roy JA, Pierdon SB, Bloom FJ, Graf TR, Goldman R, Weikel KM, Hamory BH, Paulus RA, Steele GD. Value and the medical home: effects of transformed primary care. Am J Manag Care. 2010 Aug;16(8):607-14. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20712394" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Golden AG, Tewary S, Dang S, Roos BA. Care management's challenges and opportunities to reduce the rapid rehospitalization of frail community-dwelling older adults. Gerontologist. 2010 Aug;50(4):451-8. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20185522" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Hansen LO, Greenwald JL, Budnitz T, Howell E, Halasyamani L, Maynard G, Vidyarthi A, Coleman EA, Williams MV. Project BOOST: effectiveness of a multihospital effort to reduce rehospitalization. J Hosp Med. 2013 Aug;8(8):421-7. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23873709" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Hansen LO, Young RS, Hinami K, Leung A, Williams MV. Interventions to reduce 30-day rehospitalization: a systematic review. Ann Intern Med. 2011 Oct 18;155(8):520-8. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22007045" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Harrison PL, Hara PA, Pope JE, Young MC, Rula EY. The impact of postdischarge telephonic follow-up on hospital readmissions. Popul Health Manag. 2011 Feb;14(1):27-32. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21090991" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Homer CJ, Klatka K, Romm D, Kuhlthau K, Bloom S, Newacheck P, Van Cleave J, Perrin JM. A review of the evidence for the medical home for children with special health care needs. Pediatrics. 2008 Oct;122(4):e922-37. [58 references] <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18829788" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Inglis SC, Clark RA, McAlister FA, Ball J, Lewinter C, Cullington D, Stewart S, Cleland JG. Structured telephone support or telemonitoring programmes for patients with chronic heart failure. Cochrane Database Syst Rev. 2010;(8):CD007228. [315 references] <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20687083" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Institute for Healthcare Improvement. STate Action on Avoidable Rehospitalizations (STAAR) Initiative. [internet]. Cambridge (MA): Institute for Healthcare Improvement; [accessed 2013 Oct 23]. </td></tr></table></p>
+                    <p><table><tr><td>Jencks SF, Williams MV, Coleman EA. Rehospitalizations among patients in the Medicare fee-for-service program. N Engl J Med. 2009 Apr 2;360(14):1418-28. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19339721" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Jiang HJ, Wier LM. All-cause hospital readmissions among non-elderly Medicaid patients, 2007. HCUP statistical brief #89. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2010. </td></tr></table></p>
+                    <p><table><tr><td>Kangovi S, Grande D, Meehan P, Mitra N, Shannon R, Long JA. Perceptions of readmitted patients on the transition from hospital to home. J Hosp Med. 2012 Nov-Dec;7(9):709-12. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23212980" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Kearney CA. School absenteeism and school refusal behavior in youth: a contemporary review. Clin Psychol Rev. 2008 Mar;28(3):451-71. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17720288" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Kim GR,  Zurhellen W,  Schneider JH,  Marcus E,  Del Beccaro MA,  Benson KA,  D'Alessandro DM,  Drummond WH,  Handler EG,  Leu MG,  Lund GC,  Zuckerman AE. Policy statement - Health information technology and the medical home. Pediatrics. 2011 May;127(5):978-82. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21518710" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Kohn LT, Corrigan JM, Donaldson MS, editor(s). To err is human: building a safer health system. Washington (DC): National Academy Press; 2000. </td></tr></table></p>
+                    <p><table><tr><td>Lautz TB, Reynolds M. Context and significance of emergency department visits and readmissions after pediatric appendectomy. J Pediatr Surg. 2011 Oct;46(10):1918-22. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22008328" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Leader S, Jacobson P, Marcin J, Vardis R, Sorrentino M, Murray D. A method for identifying the financial burden of hospitalized infants on families. Value Health. 2002 Jan-Feb;5(1):55-9. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11873385" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Leschke J, Panepinto JA, Nimmer M, Hoffmann RG, Yan K, Brousseau DC. Outpatient follow-up and rehospitalizations for sickle cell disease patients. Pediatr Blood Cancer. 2012 Mar;58(3):406-9. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21495162" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Liu SY, Pearlman DN. Hospital readmissions for childhood asthma: the role of individual and neighborhood factors. Public Health Rep. 2009 Jan-Feb;124(1):65-78. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19413029" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Mistiaen P, Poot E. Telephone follow-up, initiated by a hospital-based health professional, for postdischarge problems in patients discharged from hospital to home. In: Cochrane Database of Systematic Reviews [internet]. Issue 4. Hoboken (NJ): John Wiley &amp; Sons, Ltd.; 2006&nbsp;[Art. No.: CD004510]. </td></tr></table></p>
+                    <p><table><tr><td>Morse RB, Hall M, Fieldston ES, Goodman DM, Berry JG, Gay JC, Sills MR, Srivastava R, Frank G, Hain PD, Shah SS. Children's hospitals with shorter lengths of stay do not have higher readmission rates. J Pediatr. 2013 Oct;163(4):1034-8.e1. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=23683748" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Naylor MD, Brooten DA, Campbell RL, Maislin G, McCauley KM, Schwartz JS. Transitional care of older adults hospitalized with heart failure: a randomized,  controlled trial. J Am Geriatr Soc. 2004 May;52(5):675-84. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15086645" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Phillips CO, Wright SM, Kern DE, Singa RM, Shepperd S, Rubin HR. Comprehensive discharge planning with postdischarge support for older patients with congestive heart failure: a meta-analysis. JAMA. 2004 Mar 17;291(11):1358-67. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15026403" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Rennick JE, Johnston CC, Dougherty G, Platt R, Ritchie JA. Children's psychological responses after critical illness and exposure to invasive technology. J Dev Behav Pediatr. 2002 Jun;23(3):133-44. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12055495" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Reznik M, Hailpern SM, Ozuah PO. Predictors of early hospital readmission for asthma among inner-city children. J Asthma. 2006 Jan-Feb;43(1):37-40. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16448963" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Rice-Townsend S, Hall M, Barnes JN, Lipsitz S, Rangel SJ. Variation in risk-adjusted hospital readmission after treatment of appendicitis at 38 children's hospitals: an opportunity for collaborative quality improvement. Ann Surg. 2013 Apr;257(4):758-65. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22964725" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Santamour B. Reining in avoidable readmissions. Hosp Health Netw. 2011;85(2):8-44.</td></tr></table></p>
+                    <p><table><tr><td>Scott IA. Preventing the rebound: improving care transition in hospital discharge processes. Aust Health Rev. 2010 Nov;34(4):445-51. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21108906" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Shaw SR, McCabe PC. Hospital-to-school transition for children with chronic illness: meeting the new challenges of an evolving health care system. Psychol Sch. 2008;45(1):74-87.</td></tr></table></p>
+                    <p><table><tr><td>Shudy M, de Almeida ML, Ly S, Landon C, Groft S, Jenkins TL, Nicholson CE. Impact of pediatric critical illness and injury on families: a systematic literature review. Pediatrics. 2006 Dec;118 Suppl 3:S203-18. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17142557" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Simon TD, Berry J, Feudtner C, Stone BL, Sheng X, Bratton SL, Dean JM, Srivastava R. Children with complex chronic conditions in inpatient hospital settings in the United States. Pediatrics. 2010 Oct;126(4):647-55. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20855394" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Sobota A,  Graham DA,  Neufeld EJ,  Heeney MM. Thirty-day readmission rates following hospitalization for pediatric sickle cell crisis at freestanding children's hospitals: Risk factors and hospital variation. Pediatr Blood Cancer. January 2012;58(1):61-65. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21674766" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Sochalski J, Jaarsma T, Krumholz HM, Laramee A, McMurray JJ, Naylor MD, Rich MW, Riegel B, Stewart S. What works in chronic care management: the case of heart failure. Health Aff (Millwood). 2009 Jan-Feb;28(1):179-89. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19124869" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Society of Hospital Medicine. Project BOOST® Mentored Implementation Program. [internet]. Philadelphia (PA): Society of Hospital Medicine; [accessed 2013 Oct 23]. </td></tr></table></p>
+                    <p><table><tr><td>Strunin L, Stone M, Jack B. Understanding rehospitalization risk: can hospital discharge be modified to reduce recurrent hospitalization?. J Hosp Med. 2007 Sep;2(5):297-304. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17935257" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Weitzman M, Klerman LV, Lamb G, Menary J, Alpert JJ. School absence: a problem for the pediatrician. Pediatrics. 1982 Jun;69(6):739-46. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7200604" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Wick EC, Shore AD, Hirose K, Ibrahim AM, Gearhart SL, Efron J, Weiner JP, Makary MA. Readmission rates and cost following colorectal surgery. Dis Colon Rectum. 2011 Dec;54(12):1475-9. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22067174" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Worchel-Prevatt FF, Heffer RW, Prevatt BC, Miner J, Young-Saleme T, Horgan D, Lopez MA, Rae WA, Frankel L. A school reentry program for chronically ill children. J Sch Psychol. 1998;36(3):261-79.</td></tr></table></p>
+                        <h3><a href="#">Extent of Measure Testing</a></h3>
+                    <p><div class="content_para"><p><strong>Reliability </strong></p>
+<p>The measure was developed and tested using multiple claims datasets: 2008 Medicaid Analytic eXtract (MAX) data for 26 states, which include Medicaid claims from children's and non-children's hospitals; 2005 to 2009 Agency for Healthcare Research and Quality (AHRQ) revisit data for New York and Nebraska, which include claims for all payers from children's and non-children's hospitals; July 2009 to June 2010 National Association of Children's Hospitals and Related Institutions (NACHRI) case-mix data, which include claims for all payers from 72 acute care children's hospitals in 34 states; and the 2009 Kids' Inpatient Database (KID), which includes claims for all payers from children's and non-children's hospitals in 44 states. For the MAX and AHRQ revisit datasets, the developer chose which states' data to use based on assessment of data quality and completeness. All of the datasets except the KID can be used to evaluate readmissions (although the NACHRI case-mix data only allow identification of readmissions back to the same hospital); the KID provides other useful information about pediatric hospitalizations, such as frequencies of diagnoses and procedures, and can be weighted to produce national estimates. </p>
+<p>The reliability of hospital-level readmission rates was evaluated using the formula shown in the supplemental materials (refer to the original measure documentation for additional information). Reliability values range from 0 to 1. If perfect information from a very large sample were available for a hospital, so the hospital's random effect could be determined with perfect precision, then the reliability of that hospital's readmission rate would approach 1. If no information were available for a hospital, then the reliability of that hospital's readmission rate would be 0. </p>
+<p>Using the 26-state MAX dataset, it was determined that for hospitals with at least 25 pediatric admissions annually, the median reliability for hospital-level readmission rates was 0.47 (interquartile range 0.30 to 0.69). Reliability was greater than 0.5 for hospitals with at least 125 index admissions annually. Eight-nine percent (89%) of index hospitalizations occurred at hospitals whose readmission rate reliability was at least 0.5, while 74% of index hospitalizations occurred at hospitals whose readmission rate reliability was at least 0.7. </p>
+<p>Use of hospital random effects in the case-mix adjustment model adjusts the readmission rate estimate toward the mean rate for the entire cohort of hospitals, more so for hospitals with low volume and correspondingly low readmission rate reliability (because for a hospital with little available data, estimation of the hospital's rate relies more on assumptions about the distribution of hospital rates than for a hospital with a large amount of data). As a result, a hospital that has a high or low unadjusted readmission rate but insufficient volume to estimate its readmission rate precisely is prevented from appearing to be an outlier when it might not be.</p>
+<p><strong>Validity</strong> </p>
+<p>The validity of the measure's case-mix adjustment model was evaluated by assessing the discriminative ability of the model using the concordance (c-) statistic (Austin &amp; Steyerberg, 2012; Steyerberg et al., 2010). Discrimination refers to how well the model distinguishes between subjects with and without the outcome (in this case, readmission) (Austin &amp; Steyerberg, 2012). The c-statistic is a unitless measure of the probability that a randomly selected subject who experienced readmission will have a higher predicted probability of having been readmitted than a randomly selected subject who did not experience readmission (Austin &amp; Steyerberg, 2012). The c-statistic for the case-mix adjustment model, when applied to the 26-state MAX dataset, was 0.69, which is very much in range with results for other 30-day readmission models (Rice-Townsend et al., 2013; Yale New Haven Hospital Services Corporation [YNHHSC] Center for Outcomes Research and Evaluation [CORE], "Hospital-wide," 2012; YNHHSC CORE, "Hospital-level," 2012; YNHHSC CORE, 2013).</p></div></p>
+                        <h3><a href="#">Evidence for Extent of Measure Testing</a></h3>
+                    <p><table><tr><td>Austin PC, Steyerberg EW. Interpreting the concordance statistic of a logistic regression model: relation to the variance and odds ratio of a continuous explanatory variable. BMC Med Res Methodol. 2012;12:82. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22716998" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Center of Excellence for Pediatric Quality Measurement (CEPQM). Basic measure information: pediatric all-condition readmission measure. Boston (MA): Center of Excellence for Pediatric Quality Measurement (CEPQM), Boston Children’s Hospital; 13 p. </td></tr></table></p>
+                    <p><table><tr><td>Rice-Townsend S, Hall M, Barnes JN, Lipsitz S, Rangel SJ. Variation in risk-adjusted hospital readmission after treatment of appendicitis at 38 children's hospitals: an opportunity for collaborative quality improvement. Ann Surg. 2013 Apr;257(4):758-65. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22964725" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Steyerberg EW, Vickers AJ, Cook NR, Gerds T, Gonen M, Obuchowski N, Pencina MJ, Kattan MW. Assessing the performance of prediction models: a framework for traditional and novel measures. Epidemiology. 2010 Jan;21(1):128-38. <a href="https://web.archive.org/web/20180621174906/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20010215" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research and Evaluation (CORE). 2013 measures updates and specifications: hospital-level 30-day risk-standardized readmission measures for acute myocardial infarction, heart failure, and pneumonia (Version 6.0). Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2013. </td></tr></table></p>
+                    <p><table><tr><td>Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research and Evaluation (CORE). Hospital-level 30-day all-cause risk-standardized readmission rate following elective primary total hip arthroplasty (THA) and/or total knee arthroplasty (TKA): measure methodology report. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2012 Jun 25. 68 p. </td></tr></table></p>
+                    <p><table><tr><td>Yale New Haven Health Services Corporation (YNHHSC), Center for Outcomes Research and Evaluation (CORE). Hospital-wide all-cause unplanned readmission measure: final technical report. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2012 Jul. 98 p. </td></tr></table></p>
+
+            </div>
+                <h2 id="580" class="accordion-title section-580 is-active" role="tab" aria-expanded="true"><a href="#">State of Use of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">State of Use</a></h3>
+                    <p>Current routine use</p>
+                        <h3><a href="#">Current Use</a></h3>
+                    <p>Internal quality improvement</p>
+
+            </div>
+                <h2 id="583" class="accordion-title section-583 is-active" role="tab" aria-expanded="true"><a href="#">Application of the Measure in its Current Use</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measurement Setting</a></h3>
+                    <p>Hospital Inpatient</p>
+                        <h3><a href="#">Professionals Involved in Delivery of Health Services</a></h3>
+                    <p>Physicians</p>
+                        <h3><a href="#">Least Aggregated Level of Services Delivery Addressed</a></h3>
+                    <p>Single Health Care Delivery or Public Health Organizations</p>
+                        <h3><a href="#">Statement of Acceptable Minimum Sample Size</a></h3>
+                    <p>Specified</p>
+                        <h3><a href="#">Target Population Age</a></h3>
+                    <p><div class="content_para"><p>Age less than 18 years</p></div></p>
+                        <h3><a href="#">Target Population Gender</a></h3>
+                    <p>Either male or female</p>
+
+            </div>
+                <h2 id="590" class="accordion-title section-590 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Not within an IOM Care Need</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Not within an IOM Domain</p>
+
+            </div>
+                <h2 id="593" class="accordion-title section-593 is-active" role="tab" aria-expanded="true"><a href="#">Data Collection for the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Case Finding Period</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Denominator Sampling Frame</a></h3>
+                    <p>Patients associated with provider</p>
+                        <h3><a href="#">Denominator (Index) Event or Characteristic</a></h3>
+                    <p>Institutionalization</p>
+                    <p>Patient/Individual (Consumer) Characteristic</p>
+                        <h3><a href="#">Denominator Time Window</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Denominator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+Hospitalizations at general acute care hospitals for patients less than 18 years old</p>
+<p><strong>Exclusions</strong></p>
+<ul style="list-style-type: disc;">
+    <li>The patient was 18 years old or greater at the time of discharge. </li>
+    <li>The hospitalization was for birth of a healthy newborn. </li>
+    <li>The hospitalization was for obstetric care, including labor and delivery. </li>
+    <li>The primary diagnosis code was for a mental health condition. </li>
+    <li>The hospitalization was at a specialty or non-acute care hospital. </li>
+    <li>The discharge disposition was death. </li>
+    <li>The discharge disposition was leaving the hospital against medical advice. </li>
+    <li>Records for the hospitalization contain incomplete data for variables needed to assess eligibility for the measure or calculate readmission rates, including hospital type, patient identifier, admission date, discharge date, disposition status, date of birth, primary diagnosis code, or gender. </li>
+    <li>The hospital is in a state not being analyzed. (Records for these hospitalizations are still assessed as possible readmissions, but readmission rates are not calculated for the out-of-state hospitals due to their lack of complete data.) </li>
+    <li>Thirty days of follow-up data are not available for assessing readmissions. </li>
+    <li>The hospital has less than 80% of records with complete patient identifier, admission date, and discharge date or less than 80% of records with complete primary diagnosis codes. (Records for these hospitals are still assessed as possible readmissions, but readmission rates are not calculated for these hospitals due to their lack of complete data.). </li>
+    <li>Records for the hospitalization contain data of questionable quality for calculating readmission rates, including
+    <ul style="list-style-type: disc;">
+        <li>Inconsistent date of birth across records for a patient</li>
+        <li>Discharge date prior to admission date</li>
+        <li>Admission or discharge date prior to date of birth</li>
+        <li>Admission date after a discharge status of death during a prior hospitalization</li>
+    </ul>
+    </li>
+    <li>Codes other than International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) procedure codes or International Classification of Diseases, Tenth Revision, Procedure Coding Systems (ICD-10-PCS) procedure codes are used for the primary procedure. </li>
+</ul></div></p>
+                        <h3><a href="#">Exclusions/Exceptions</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Numerator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+Hospitalizations at general acute care hospitals for patients less than 18 years old that are followed by one or more readmissions to general acute care hospitals within 30 days</p>
+<p><strong>Exclusions</strong><br/>
+Readmissions are excluded from the numerator if the readmission was for a planned procedure or for chemotherapy. </p>
+<p class="Note"><strong>Note</strong>: </p>
+<ul class="Note" style="list-style-type: disc;">
+    <li>Readmissions for planned procedures and for chemotherapy are part of a patient's intended course of care and thus unlikely to be related to health system quality. This measure therefore focuses on unplanned readmissions because they are more likely to be related to a defect in quality of care during the index admission or during the interval between the index admission and readmission. In adult and pediatric medicine, most planned readmissions are for planned procedures or chemotherapy; therefore, these exclusions are intended to capture the majority of planned admissions. </li>
+    <li><em>Planned Procedure</em>: A procedure that was judged by expert reviewers to generally be scheduled at least 24 hours in advance for an expected medical need in more than 80% of cases and to be a potential reason for hospitalization (see Data Dictionary for International Classification of Diseases, Ninth Revision, Clinical Modification [ICD-9-CM] or International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] procedure codes). </li>
+    <li><em>Planned Readmission</em>: An admission to an acute care hospital with a primary ICD-9 or principal ICD-10 procedure code for a planned procedure, occurring within 30 days of discharge from a prior acute care hospitalization. </li>
+    <li><em>Index Admission</em>: An eligible admission to an acute care hospital. The index admission serves as the starting point for enumerating readmissions. </li>
+</ul></div></p>
+                        <h3><a href="#">Numerator Search Strategy</a></h3>
+                    <p>Institutionalization</p>
+                        <h3><a href="#">Data Source</a></h3>
+                    <p>Administrative clinical data</p>
+                        <h3><a href="#">Type of Health State</a></h3>
+                    <p>Proxy for Health State</p>
+                        <h3><a href="#">Instruments Used and/or Associated with the Measure</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+
+            </div>
+                <h2 id="605" class="accordion-title section-605 is-active" role="tab" aria-expanded="true"><a href="#">Computation of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measure Specifies Disaggregation</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Scoring</a></h3>
+                    <p>Rate/Proportion</p>
+                        <h3><a href="#">Interpretation of Score</a></h3>
+                    <p>Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)</p>
+                        <h3><a href="#">Allowance for Patient or Population Factors</a></h3>
+                    <p>Case-mix adjustment</p>
+                        <h3><a href="#">Description of Allowance for Patient or Population Factors</a></h3>
+                    <p><div class="content_para"><p>The model for this measure consists of a 2-level hierarchical logistic regression with fixed effects for patient-level characteristics and a random intercept for hospital. The first level of the model includes adjusters for hospital case-mix based on the patient-level characteristics of age, gender, and chronic disease comorbidity (identified using the Agency for Healthcare Research and Quality [AHRQ] chronic condition indicator tool). The second level of the model consists of a random effect for hospital. The hierarchical modeling adjusts for differences in case-mix and sample size across hospitals.</p>
+<p>Refer to the original measure documentation for additional information.</p></div></p>
+                        <h3><a href="#">Standard of Comparison</a></h3>
+                    <p>Internal time comparison</p>
+
+            </div>
+                <h2 id="615" class="accordion-title section-615 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Original Title</a></h3>
+                    <p><div class="content_para"><p>Pediatric all-condition readmission measure.</p></div></p>
+                        <h3><a href="#">Measure Collection Name</a></h3>
+                    <p>Readmission Measures</p>
+                        <h3><a href="#">Submitter</a></h3>
+                    <p>Center of Excellence for Pediatric Quality Measurement, Boston Children's Hospital - Hospital/Medical Center</p>
+                        <h3><a href="#">Developer</a></h3>
+                    <p>Center of Excellence for Pediatric Quality Measurement, Boston Children's Hospital - Hospital/Medical Center</p>
+                        <h3><a href="#">Funding Source(s)</a></h3>
+                    <p><div class="content_para"><p>Support for this work was provided by the U.S. Department of Health and Human Services Agency for Healthcare Research and Quality and Centers for Medicare &amp; Medicaid Services, Children's Health Insurance Program Reauthorization Act of 2009 (CHIPRA) Pediatric Quality Measures Program Centers of Excellence under grant number U18HS020513.</p></div></p>
+                        <h3><a href="#">Composition of the Group that Developed the Measure</a></h3>
+                    <p><div class="content_para"><p><strong>Pediatric Readmissions Working Group</strong> </p>
+<ul style="list-style-type: disc;">
+    <li>Mark Schuster, MD, PhD (Principal Investigator; Boston Children's Hospital &amp; Harvard Medical School) </li>
+    <li>Jay Berry, MD, MPH (Boston Children's Hospital &amp; Harvard Medical School) </li>
+    <li>Jisun Jang, MA (Boston Children's Hospital) </li>
+    <li>Ashish Jha, MD, MPH (Harvard School of Public Health) </li>
+    <li>David Klein, MS (Boston Children's Hospital) </li>
+    <li>Mari Nakamura, MD, MPH (Boston Children's Hospital &amp; Harvard Medical School) </li>
+    <li>Carter Petty, MS (Boston Children's Hospital) </li>
+    <li>Sara Toomey, MD, MPhil, MPH, MSc (Boston Children's Hospital &amp; Harvard Medical School) </li>
+    <li>Alan Zaslavsky, PhD (Harvard Medical School) </li>
+</ul></div></p>
+                        <h3><a href="#">Financial Disclosures/Other Potential Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>This measure was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date of Most Current Version in NQMC</a></h3>
+                    <p>2014 Mar</p>
+                        <h3><a href="#">Measure Maintenance</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Date of Next Anticipated Revision</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Measure Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the measure.</p></div></p>
+                        <h3><a href="#">Source(s)</a></h3>
+                    <p><table><tr><td>Center of Excellence for Pediatric Quality Measurement (CEPQM). Basic measure information: pediatric all-condition readmission measure. Boston (MA): Center of Excellence for Pediatric Quality Measurement (CEPQM), Boston Children’s Hospital; 13 p. </td></tr></table></p>
+                    <p><table><tr><td>Center of Excellence for Pediatric Quality Measurement (CEPQM). Pediatric all-condition readmission measure: detailed specifications. Boston (MA): Center of Excellence for Pediatric Quality Measurement (CEPQM), Boston Children’s Hospital; 2014 Feb. 31 p.  [2 references]</td></tr></table></p>
+                        <h3><a href="#">Measure Availability</a></h3>
+                    <p><div class="content_para"><p>Source not available electronically.</p>
+<p>For more information, contact the Boston Children's Hospital at 300 Longwood Avenue, Boston, MA 02115; Phone: 617-355-6000, or 800-355-7944; Web site: <a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=50127&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.childrenshospital.org%2fresearch-and-innovation%2fresearch%2fcenters%2fcenter-of-excellence-for-pediatric-quality-measurement-cepqm%2fcepqm-measures" title="Boston Children's Hospital Web Site">www.childrenshospital.org</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">NQMC Status</a></h3>
+                    <p><div class="content_para"><p>This NQMC measure summary was completed by ECRI Institute on May 25, 2016. The information was not verified by the measure developer.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.</p>
+<p>Boston Children's Hospital's Center of Excellence for Pediatric Quality Measurement (CEPQM) is the author of the measures and Boston Children's Hospital is the owner of the measures and its Web site, or currently possess all rights necessary to grant the right granted herein. &copy;2014-2016 Boston Children's Hospital. For permissions or reprints please contact <a href="https://web.archive.org/web/20180621174906/mailto:cepqm@childrens.harvard.edu">cepqm@childrens.harvard.edu</a>.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NQMC Disclaimer</a></h3>
+                    <p><p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria">NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NQMC Measure Summaries</h3>
+            <p>NQMC provides structured summaries containing information about measures and their development.</p>
+            <ul>
+                <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/domain-framework" class="internal-link">Domain Framework</a></li>
+                <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/template-of-measure-attributes" class="internal-link">Template of Measure Attributes</a></li>
+                <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/faqs" class="help-button">Measure Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NQMC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+    
+    <a class="block-link" href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/disclaimer?id=50127&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.svg">
+					  	<img src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.png" alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		                <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a></li>
+						<li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180621174906/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://web.archive.org/web/20180621174906/https://www.guideline.gov/" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.svg">
+									<img src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180621174906/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180621174906im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180621174906/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180621174906js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180621174906js_/https://www.qualitymeasures.ahrq.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 17:49:06 Jun 21, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:21:55 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 102.808 (3)
+  esindex: 0.007
+  captures_list: 122.117
+  CDXLines.iter: 15.875 (3)
+  PetaboxLoader3.datanode: 235.023 (4)
+  exclusion.robots: 0.206
+  exclusion.robots.policy: 0.192
+  RedisCDXSource: 0.514
+  PetaboxLoader3.resolve: 431.885
+  load_resource: 618.313
+-->

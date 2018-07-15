@@ -1,0 +1,983 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app56.us.archive.org';v.server_ms=198;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Amyotrophic lateral sclerosis (ALS): percentage of patients diagnosed with ALS who are screened at least once annually for cognitive impairment and behavioral impairment. | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180625151144cs_/https://www.qualitymeasures.ahrq.gov/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180625151144js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180625151144if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180625151144/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180625151144if_/https://www.googletagmanager.com/ns.html?id=GTM-KXQCDQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180625151144/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180625151144/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180625151144/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/" class="header-logo NQMC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png">
+				        <source srcset="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header_m.png">
+				        <img src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png" alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Measure Summary</li>
+            <li>NQMC:010262</li>
+            <li>Jul 2012
+            </li>            
+                                </ul>
+        <div>
+                <h1>Amyotrophic lateral sclerosis (ALS): percentage of patients diagnosed with ALS who are screened at least once annually for cognitive impairment and behavioral impairment.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_Developer_String=American%20Academy%20of%20Neurology&amp;fLockTerm=American%2BAcademy%2Bof%2BNeurology">American Academy of Neurology</a></li>
+                        <li>   
+                                <a id="1822" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>American Academy of Neurology (AAN). Amyotrophic lateral sclerosis performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 Jul 31. 75 p. </td></tr></table>                    <p><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=49343&amp;contentType=fulltextlink&amp;redirect=https%253a%252f%252fwww.aan.com%252fuploadedFiles%252fWebsite_Library_Assets%252fDocuments%252f3.Practice_Management%252f2.Quality_Improvement%252f1.Quality_Measures%252f1.All_Measures%252fALS%252520Measurement%252520Set%252520FINAL.pdf">View the original measure documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the measure.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+            <h4>Measure Hierarchy</h4>
+<a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_Collection_Hierarchy=objid49340&amp;fLockTerm=Amyotrophic%2BLateral%2BSclerosis%2BPerformance%2BMeasurement%2BSet">Amyotrophic Lateral Sclerosis Performance Measurement Set</a>                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Unspecified&amp;fLockTerm=Unspecified">Unspecified</a></li>                                              
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_ICD9CM_CUI=C0002736&amp;fLockTerm=Amyotrophic+lateral+sclerosis">Amyotrophic lateral sclerosis</a>
+ (335.20)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0002736&amp;fLockTerm=Amyotrophic+Lateral+Sclerosis">Amyotrophic Lateral Sclerosis</a>
+, <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0009241&amp;fLockTerm=Cognition+Disorders">Cognition Disorders</a>
+, <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0338656&amp;fLockTerm=Cognitive+Dysfunction">Cognitive Dysfunction</a>
+, <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0497327&amp;fLockTerm=Dementia">Dementia</a>
+, <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0338451&amp;fLockTerm=Frontotemporal+Dementia">Frontotemporal Dementia</a>
+, <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0004936&amp;fLockTerm=Mental+Disorders">Mental Disorders</a>
+, <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0027902&amp;fLockTerm=Neuropsychological+Tests">Neuropsychological Tests</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0002736&amp;fLockTerm=Amyotrophic+Lateral+Sclerosis">Amyotrophic Lateral Sclerosis</a>
+, <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0870300&amp;fLockTerm=Assessment%3a+Cognition">Assessment: Cognition</a>
+, <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C1160858&amp;fLockTerm=Behavior+assessment">Behavior assessment</a>
+, <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0004930&amp;fLockTerm=Behavior+Disorders">Behavior Disorders</a>
+, <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0009241&amp;fLockTerm=Cognition+Disorders">Cognition Disorders</a>
+, <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0497327&amp;fLockTerm=Dementia">Dementia</a>
+, <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0338451&amp;fLockTerm=Frontotemporal+dementia">Frontotemporal dementia</a>
+, <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0338656&amp;fLockTerm=Impaired+cognition">Impaired cognition</a>
+, <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0004936&amp;fLockTerm=Mental+disorders">Mental disorders</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_PDQ_CUI=C0870300&amp;fLockTerm=cognitive+assessment">cognitive assessment</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0002736&amp;fLockTerm=Amyotrophic+lateral+sclerosis">Amyotrophic lateral sclerosis</a>
+ (86044005), <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C1160858&amp;fLockTerm=Behavior+assessment">Behavior assessment</a>
+ (165309004), <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C1160858&amp;fLockTerm=Behavior+assessment">Behavior assessment</a>
+ (225385005), <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C1160858&amp;fLockTerm=Behavior+assessment">Behavior assessment</a>
+ (396068002), <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0009241&amp;fLockTerm=Cognitive+disorder">Cognitive disorder</a>
+ (443265004), <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0497327&amp;fLockTerm=Dementia">Dementia</a>
+ (52448006), <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0338451&amp;fLockTerm=Frontotemporal+dementia">Frontotemporal dementia</a>
+ (230270009), <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0338656&amp;fLockTerm=Impaired+cognition">Impaired cognition</a>
+ (386806002), <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0004936&amp;fLockTerm=Mental+disorder">Mental disorder</a>
+ (74732009), <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0027902&amp;fLockTerm=Neuropsychological+testing">Neuropsychological testing</a>
+ (307808008)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#563" class="section-mark">Measure Domain</a></li>
+                                    <li><a href="#566" class="section-mark">Brief Abstract</a></li>
+                                    <li><a href="#573" class="section-mark">Evidence Supporting the Measure</a></li>
+                                    <li><a href="#580" class="section-mark">State of Use of the Measure</a></li>
+                                    <li><a href="#583" class="section-mark">Application of the Measure in its Current Use</a></li>
+                                    <li><a href="#660" class="section-mark">National Strategy for Quality Improvement in Health Care</a></li>
+                                    <li><a href="#590" class="section-mark">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></li>
+                                    <li><a href="#593" class="section-mark">Data Collection for the Measure</a></li>
+                                    <li><a href="#605" class="section-mark">Computation of the Measure</a></li>
+                                    <li><a href="#615" class="section-mark">Identifying Information</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10262?contentType=pdf" class="pdf">.PDF 146.7 kb</a></li>
+                            <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10262?contentType=word" class="word">Word Document 330.1 kb</a></li>
+                            <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-10262?contentType=xml" class="xml">.XML 71.0 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180625151144/https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/summaries/summary/49343/amyotrophic-lateral-sclerosis-als-percentage-of-patients-diagnosed-with-als-who-are-screened-at-least-once-annually-for-cognitive-impairment-and-behavioral-impairment" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180625151144/https://twitter.com/share?text=&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/49343/amyotrophic-lateral-sclerosis-als-percentage-of-patients-diagnosed-with-als-who-are-screened-at-least-once-annually-for-cognitive-impairment-and-behavioral-impairment" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180625151144/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/49343/amyotrophic-lateral-sclerosis-als-percentage-of-patients-diagnosed-with-als-who-are-screened-at-least-once-annually-for-cognitive-impairment-and-behavioral-impairment&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180625151144/mailto:/?Subject=AHRQ: Amyotrophic lateral sclerosis (ALS): percentage of patients diagnosed with ALS who are screened at least once annually for cognitive impairment and behavioral impairment.&amp;body=https://www.qualitymeasures.ahrq.gov/summaries/summary/49343/amyotrophic-lateral-sclerosis-als-percentage-of-patients-diagnosed-with-als-who-are-screened-at-least-once-annually-for-cognitive-impairment-and-behavioral-impairment" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Quality Measures Clearinghouse (NQMC). Measure summary: Amyotrophic lateral sclerosis (ALS): percentage of patients diagnosed with ALS who are screened at least once annually for cognitive impairment and behavioral impairment. In: National Quality Measures Clearinghouse (NQMC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2012 Jul 31. [cited 2018 Jun 25]. Available: https://www.qualitymeasures.ahrq.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49343?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49343?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49343?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49343?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49343?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49343">RefWorks</a></li>
+                            <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/49343?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="49343" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="563" class="accordion-title section-563 is-active" role="tab" aria-expanded="true"><a href="#">Measure Domain</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Primary Measure Domain</a></h3>
+                    <p>Clinical Quality Measures: Process</p>
+                        <h3><a href="#">Secondary Measure Domain</a></h3>
+                    <p>Does not apply to this measure</p>
+
+            </div>
+                <h2 id="566" class="accordion-title section-566 is-active" role="tab" aria-expanded="true"><a href="#">Brief Abstract</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description</a></h3>
+                    <p><div class="content_para"><p>This measure is used to assess the percentage of patients diagnosed with amyotrophic lateral sclerosis (ALS) who are screened at least once annually for cognitive impairment (e.g., frontotemporal dementia screening or ALS Cognitive Behavioral Screen [CBS]) and behavioral impairment (e.g., ALS CBS).</p></div></p>
+                        <h3><a href="#">Rationale</a></h3>
+                    <p><div class="content_para"><p>There is now considerable evidence for cognitive and behavioral manifestations in amyotrophic lateral sclerosis (ALS). Specific ALS phenotypes include pure motor degeneration (ALS), ALS with cognitive impairment (ALSci), ALS with behavioral impairment (ALSbi), and ALS with a dementia meeting the Neary criteria for frontotemporal dementia (FTD) (ALS-FTD). FTD, as defined by Neary et al. (1998), has insidious onset, gradual progression, altered social conduct, emotional blunting, and loss of insight. These criteria are required for the diagnosis of FTD, which is supported by neuropsychological abnormalities, language dysfunction, and poor self-care. ALSci reflects frontotemporal dysfunction with deficits in attention, cognitive flexibility, and word generation, with relative sparing of visuospatial function and memory. ALSbi refers to changes in social interactions unrelated to a psychiatric condition. The domain of cognitive and behavioral impairment in ALS is a rapidly evolving field and there is emerging consensus regarding diagnostic criteria and assessment methods (Strong et al., 2009). The ALS Cognitive Behavioral Screen (CBS) is specific to ALS, is validated, and has an accuracy of 100% to detect FTD, and 85% sensitivity to detect any cognitive impairment (Woolley et al., 2010). </p>
+<p>Estimates of cognitive impairment range from 10% (Strong et al., 2009) to 75% (Woolley et al., 2010) in those diagnosed with ALS. A population-based sample produced an estimate of 28% (Rakowicz &amp; Hodges, 1998). The prevalence of impairment meeting criteria for dementia ranged from 15% (Ringholz et al., 2005) to 41% (Lomen-Hoerth et al., 2003). Behavioral impairment (irritability and social disinhibition) was identified in 39% (Murphy et al., 2007). Three studies (Murphy et al., 2007; Robinson et al., 2006; Strong et al., 1999) documented mild cognitive decline over 6 months, while others (Kilani et al., 2004; Schreiber et al., 2005) found no change over 12 months. It is not known whether patients can progress from ALSci or ALSbi to ALS-FTD. However, 15% of patients presenting with only FTD later develop motor neuron degeneration (Lomen-Hoerth, Anderson, &amp; Miller, 2002). </p>
+<p>A fuller characterization of the extent of cognitive and behavioral dysfunction in ALS has important implications given that the burden and stress for carers of patients with FTD is very great. It also has relevance to effective communication, legal issues and end-of-life decision making by patients with motor neuron disease (MND) (EFNS Task Force on Diagnosis and Management of Amyotrophic Lateral Sclerosis et al., 2012). Recent studies have documented the utility of screening instruments in a busy ALS clinic (Woolley &amp; Katz, 2011; Gordon et al., 2007). Patients with cognitive and behavioral impairment were less compliant with management recommendations and had shorter survival (Olney et al., 2005; Elamin et al., 2011). </p>
+<p><strong>The following clinical recommendation statements are quoted verbatim from the referenced clinical guidelines and represent the evidence base for the measure</strong>:</p>
+<ul style="list-style-type: disc;">
+    <li>Screening for cognitive and behavioral impairment should be considered in patients with ALS (Miller et al., 2009). </li>
+    <li>Screening tests of executive function may be considered to detect cognitive impairment in patients with ALS prior to confirmation with formal neuropsychological evaluation (Miller et al., 2009). </li>
+</ul></div></p>
+                        <h3><a href="#">Evidence for Rationale</a></h3>
+                    <p><table><tr><td>American Academy of Neurology (AAN). Amyotrophic lateral sclerosis performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 Jul 31. 75 p. </td></tr></table></p>
+                    <p><table><tr><td>EFNS Task Force on Diagnosis and Management of Amyotrophic Lateral Sclerosis, Andersen PM, Abrahams S, Borasio GD, de Carvalho M, Chio A, Van Damme P, Hardiman O, Kollewe K, Morrison KE, Petri S, Pradat PF, Silani V, Tomik B, Wasner M, Weber M. EFNS guidelines on the clinical management of amyotrophic lateral sclerosis (MALS) -- revised report of an EFNS task force. Eur J Neurol. 2012 Mar;19(3):360-75. [186 references] <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21914052" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Elamin M, Phukan J, Bede P, Jordan N, Byrne S, Pender N, Hardiman O. Executive dysfunction is a negative prognostic indicator in patients with ALS without dementia. Neurology. 2011 Apr 5;76(14):1263-9. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21464431" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Gordon PH, Wang Y, Doorish C, Lewis M, Battista V, Mitsumoto H, Marder K. A screening assessment of cognitive impairment in patients with ALS. Amyotroph Lateral Scler. 2007 Dec;8(6):362-5. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17852014" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Kilani M, Micallef J, Soubrouillard C, Rey-Lardiller D, Dematteï C, Dib M, Philippot P, Ceccaldi M, Pouget J, Blin O. A longitudinal study of the evolution of cognitive function and affective state in patients with amyotrophic lateral sclerosis. Amyotroph Lateral Scler Other Motor Neuron Disord. 2004 Mar;5(1):46-54. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15204024" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Lomen-Hoerth C, Anderson T, Miller B. The overlap of amyotrophic lateral sclerosis and frontotemporal dementia. Neurology. 2002 Oct 8;59(7):1077-9. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12370467" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Lomen-Hoerth C, Murphy J, Langmore S, Kramer JH, Olney RK, Miller B. Are amyotrophic lateral sclerosis patients cognitively normal?. Neurology. 2003 Apr 8;60(7):1094-7. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12682312" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Miller RG, Jackson CE, Kasarskis EJ, England JD, Forshew D, Johnston W, Kalra S, Katz JS, Mitsumoto H, Rosenfeld J, Shoesmith C, Strong MJ, Woolley SC, Quality Standards Subcommittee of the American Academy of Neurology. Practice parameter update: the care of the patient with amyotrophic lateral sclerosis: multi-disciplinary care, symptom management, and cognitive/behavioral impairment (an evidence-based review): report of the Quality Standards Subcommittee [TRUNC]. Neurology. 2009 Oct 13;73(15):1227-33. [40 references] <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19822873" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Murphy JM, Henry RG, Langmore S, Kramer JH, Miller BL, Lomen-Hoerth C. Continuum of frontal lobe impairment in amyotrophic lateral sclerosis. Arch Neurol. 2007 Apr;64(4):530-4. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17420314" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Neary D, Snowden JS, Gustafson L, Passant U, Stuss D, Black S, Freedman M, Kertesz A, Robert PH, Albert M, Boone K, Miller BL, Cummings J, Benson DF. Frontotemporal lobar degeneration: a consensus on clinical diagnostic criteria. Neurology. 1998 Dec;51(6):1546-54. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9855500" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Olney RK, Murphy J, Forshew D, Garwood E, Miller BL, Langmore S, Kohn MA, Lomen-Hoerth C. The effects of executive and behavioral dysfunction on the course of ALS. Neurology. 2005 Dec 13;65(11):1774-7. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16344521" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Rakowicz WP, Hodges JR. Dementia and aphasia in motor neuron disease: an underrecognised association?. J Neurol Neurosurg Psychiatry. 1998 Dec;65(6):881-9. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9854965" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Ringholz GM, Appel SH, Bradshaw M, Cooke NA, Mosnik DM, Schulz PE. Prevalence and patterns of cognitive impairment in sporadic ALS. Neurology. 2005 Aug 23;65(4):586-90. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16116120" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Robinson KM, Lacey SC, Grugan P, Glosser G, Grossman M, McCluskey LF. Cognitive functioning in sporadic amyotrophic lateral sclerosis: a six month longitudinal study. J Neurol Neurosurg Psychiatry. 2006 May;77(5):668-70. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16614030" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Schreiber H, Gaigalat T, Wiedemuth-Catrinescu U, Graf M, Uttner I, Muche R, Ludolph AC. Cognitive function in bulbar- and spinal-onset amyotrophic lateral sclerosis. A longitudinal study in 52 patients. J Neurol. 2005 Jul;252(7):772-81. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15742104" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Strong MJ, Grace GM, Freedman M, Lomen-Hoerth C, Woolley S, Goldstein LH, Murphy J, Shoesmith C, Rosenfeld J, Leigh PN, Bruijn L, Ince P, Figlewicz D. Consensus criteria for the diagnosis of frontotemporal cognitive and behavioural syndromes in amyotrophic lateral sclerosis. Amyotroph Lateral Scler. 2009 Jun;10(3):131-46. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19462523" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Strong MJ, Grace GM, Orange JB, Leeper HA, Menon RS, Aere C. A prospective study of cognitive impairment in ALS. Neurology. 1999 Nov 10;53(8):1665-70. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10563610" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Woolley SC, Katz JS. Review article: utility of the ALS Cognitive Behavioral Screen. Neurodegener Dis Manag. 2011;1(6):473-9.</td></tr></table></p>
+                    <p><table><tr><td>Woolley SC, York MK, Moore DH, Strutt AM, Murphy J, Schulz PE, Katz JS. Detecting frontotemporal dysfunction in ALS: utility of the ALS Cognitive Behavioral Screen (ALS-CBS). Amyotroph Lateral Scler. 2010 May 3;11(3):303-11. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20433413" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Primary Health Components</a></h3>
+                    <p><div class="content_para"><p>Amyotrophic lateral sclerosis (ALS); annual screening; cognitive impairment; behavioral impairment; frontotemporal dementia; screening; ALS cognitive behavioral screen (CBS)</p></div></p>
+                        <h3><a href="#">Denominator Description</a></h3>
+                    <p><div class="content_para"><p>All patients with a diagnosis of amyotrophic lateral sclerosis (ALS) (see the related "Denominator Inclusions/Exclusions" field)</p></div></p>
+                        <h3><a href="#">Numerator Description</a></h3>
+                    <p><div class="content_para"><p>Patients who are screened at least once annually for cognitive impairment (e.g., frontotemporal dementia screening or ALS Cognitive Behavioral Screen [CBS]) and behavioral impairment (e.g., ALS CBS) </p></div></p>
+
+            </div>
+                <h2 id="573" class="accordion-title section-573 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Criterion of Quality for the Measure</a></h3>
+                    <p><ul><li>A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence</li><li>A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences</li><li>A systematic review of the clinical research literature (e.g., Cochrane Review)</li><li>One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal</li></ul></p>
+                        <h3><a href="#">Additional Information Supporting Need for the Measure</a></h3>
+                    <p><div class="content_para"><p><strong>Importance of Topic</strong></p>
+<p><em>Prevalence and Incidence </em></p>
+<ul style="list-style-type: disc;">
+    <li>Amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig's disease, is a type of motor neuron disease that is a rapidly progressive and fatal neurological disease (National Institute of Neurological Disorders and Stroke [NINDS], 2013). </li>
+    <li>Twenty thousand to 30,000 people in the United States (U.S.) have ALS (NINDS, 2013). </li>
+    <li>Five thousand people are diagnosed with ALS in the U.S. annually (NINDS, 2013). </li>
+    <li>ALS is one of the most common neuromuscular diseases worldwide (NINDS, 2013). </li>
+    <li>In 90% to 95% of all ALS cases the disease occurs apparently at random with no clearly associated risk factors (NINDS, 2013). </li>
+    <li>Five percent to 10% of all ALS cases are inherited (NINDS, 2013). </li>
+    <li>Twenty percent of all familial cases result from a specific genetic defect that leads to mutation of the enzyme known as superoxide dismutase 1 (SOD1) (NINDS, 2013). </li>
+    <li>No cure exists for ALS. Newer pharmacotherapy agents have been found to reduce the progression, but not halt the disease development (NINDS, 2013). </li>
+    <li>The prevalence of ALS is said to be between six and eight cases per 100,000 in the population. Using the higher prevalence estimate and data from the 2000 U.S. census, nearly 22,600 Americans are living with ALS at any one time. Since ALS is a disease of aging, as the U.S. population increases and ages, an increase in the prevalence of ALS can be anticipated (ALS Association, 2012) </li>
+    <li>Cognitive dysfunction is seen in 20% to 50%, while only 3% to 5% develop dementia that is usually of frontotemporal type (Strong et al., 2009). Consensus criteria for diagnosis have recently been reported (Strong et al., 2009). </li>
+    <li>Death due to respiratory failure follows on average 2 to 4 years after onset, but a small group may survive for a decade or more (Haverkamp, Appel, &amp; Appel, 1995). </li>
+    <li>The mean age of onset is 47 to 52 years in familial cases (FALS) and 58 to 63 years in sporadic (SALS) cases (Bobowick &amp; Brody, 1973). </li>
+    <li>The lifetime risk for developing ALS for individuals aged 18 years has been estimated to be 1 in 350 for men and 1 in 420 for women (Armon, 2007) with male sex, increasing age and hereditary disposition being the main risk factors (Heffernan et al., 2006). </li>
+</ul>
+<p><em>Mortality and Morbidity</em></p>
+<ul style="list-style-type: disc;">
+    <li>Most patients with ALS die within 2 to 5 years of onset (Lechtzin et al., 2002). Only 10% of ALS patients survive for 10 years or more (Miller et al., "Drug, nutritional," 2009). </li>
+    <li>Treatment of respiratory insufficiency improves survival, quality of life and respiratory symptoms (Lechtzin et al., 2002; Miller et al., "Drug, nutritional," 2009). The diagnosis and management of respiratory insufficiency is critical because most deaths from ALS are due to respiratory failure (Lechtzin et al., 2002; Miller et al., "Drug, nutritional," 2009; EFNS Task Force on Diagnosis and Management of Amyotrophic Lateral Sclerosis et al., 2012; Laird et al., 2001). </li>
+    <li>Falls surveillance will lead to interventions to prevent falls and decrease fall related deaths in ALS patients. Falls are an independent predictor of adverse health outcomes (Gil et al., 2008). Fall related deaths occur in 1.7% of ALS patients (Rubenstein &amp; Josephson, 2002). Several specific risk factors for falls have been identified, including muscle weakness, deficits in gait or balance, visual deficits, arthritis, impairments in activities of daily living, depression, and cognitive impairment (Ringholz et al., 2005). </li>
+    <li>Studies confirm the presence of cognitive impairment in 50% of patients with ALS and particularly implicate executive dysfunction and mild memory decline in the disease process (Laird et al., 2001). More severe impairment occurs in a subset of patients with ALS and has features consistent with frontal temporal dementia (FTD) (Phukan, Pender, &amp; Hardiman, 2007; Gordon et al., 2007). Recent studies have demonstrated the feasibility of screening patients in a busy specialized ALS clinic (Flaherty-Craig et al., 2009; Woolley &amp; Katz, 2011), but this is still not routinely practiced. A fuller characterization of the extent of cognitive and behavioral dysfunction in ALS has important implications given that it shortens survival (Elamin et al., 2011), and the burden and stress for carers of patients with FTD is very great. It also has relevance to effective communication, legal issues and end-of-life decision making by patients with motor neuron disease (MND) (Elamin et al., 2011). </li>
+    <li>Pseudobulbar affect (PBA), excessive laughing or crying, or involuntary emotional expression disorder affects 20% to 50% of patients with ALS, especially in pseudobulbar palsy (McCullagh et al., 1999). Patients are embarrassed and isolated by these symptoms, which in turn greatly diminishes the patients' quality of life. </li>
+    <li>Sialorrhea, or drooling, is embarrassing, socially isolating, and is associated with aspiration pneumonia. The prevalence is estimated at 50%, and 70% of patients receiving oral medications for treatment reported benefit (Laird et al., 2001; Miller et al., "Multi-disciplinary," 2009) </li>
+    <li>Fatigue may be a symptom of depression, poor sleep, abnormal muscle activation, immobility, or respiratory dysfunction. Fatigue diminishes quality of life for patients with ALS. Fatigue was a side effect of therapy in 26% of patients taking riluzole vs. 13% taking placebo (Bensimon, Lacomblez, &amp; Meininger, 1994). Asthenia occurred in 18% of patients taking riluzole vs. 12% of patients taking placebo in a larger study (Lacomblez et al., 1996). </li>
+    <li>The prevalence of depression in ALS ranges from 0% to 44%, although systematic studies suggest 10% in advanced ALS (Laird et al., 2001; Wicks et al., 2007). Depression shortens survival and lowers quality of life for patients with ALS (Phukan, Pender, &amp; Hardiman, 2007). There is consensus among experts that depression should be treated in patients with ALS (Laird et al., 2001); however, there are no controlled studies of benefit or harm. </li>
+    <li>Insomnia is common in ALS and may be a symptom of early respiratory weakness, underlying anxiety, depression, or pain (Hetta &amp; Jansson, 1997). There is a concern that sedative/hypnotic agents may suppress the respiratory drive in patients with ALS. </li>
+    <li>Weight loss is a key prognostic indicator for ALS with the risk of death increased 7-fold when body mass index is less than 18.5 kg/m<sup>2</sup> (Marin et al., 2011; Leh&eacute;ricey et al., 2012; Spataro et al., 2011; Desport et al., 1999; Vaisman et al., 2009; Dupuis et al., 2008). </li>
+    <li>ALS patients have dysarthria in nearly all bulbar onset patients and nearly 40% of ALS patients with spinal onset. More than 95% of ALS patients cannot speak before death and patients who accept gastrostomy tube, non-invasive ventilation or tracheostomy-ventilation have a greater need for augmentative alternative communication as the disease progresses (Ball, Beukelman, &amp; Pattee, "Communication," 2004; Ball, Beukelman, &amp; Pattee, "Acceptance," 2004; Mathy, Yorkston, &amp; Gutmann, 2000; Beukelman, Fager, &amp; Nordness, 2011). </li>
+    <li>End of life discussions will improve patient decision making with respect to disease management (NINDS, 2013; ALS Association, 2012; Strong et al., 2009; Haverkamp, Appel, &amp; Appel, 1995; Bobowick &amp; Brody, 1973; Heffernan et al., 2006). Pain in ALS should be treated following accepted guidelines (Oliver et al., 2011; Albert et al., 1999, Mitsumoto et al., 2005; Nolan et al., 2008; Albert et al., 2005; Albert et al., 2009). </li>
+</ul>
+<p><em>Office Visits and Hospital Stays</em></p>
+<ul style="list-style-type: disc;">
+    <li>One study's significant findings were that common morbidities increased over time (pneumonia [38.1% to 47.3%], respiratory failure [26.9% to 35.5%], and nutritional deficiency [43.0% to 56.3%]); the median length of stay dropped from 6 to 4 days; mean hospital charges increased from $21,574 to $24,314; the proportion of hospital deaths decreased over time (17.6% to 14.6%), whereas the proportion discharged to home health/hospice care (14.0% to 18.2%) and to long-term care facilities (13.2% to 27.9%) increased. The odds ratio (OR) of death was 5.03 (95% CI: 4.57 to 5.54) for those admitted with respiratory failure, 1.36 (1.24 to 1.50) for those with pneumonia, and 0.84 (0.77 to 0.92) for those with nutritional deficiency. The high OR of death in patients admitted for pneumonia or respiratory failure is likely associated with more advanced disease, whereas the protective effect of admission for nutritional deficiency is consistent with the predominance of bulbar symptoms and admission earlier in the disease. The trends during the 15 years of this administrative data set were for increasing comorbidities and higher utilization of end-of-life care (Dubinsky, Chen, &amp; Lai, 2006). </li>
+</ul>
+<p><em>Family Caregiving</em></p>
+<ul style="list-style-type: disc;">
+    <li>Caregiver burden was correlated to their level of depression and quality of life and, differently from other chronic disorders, increased with the worsening of patients' disability. ALS patients have a good objective perception of their impact on caregivers (Chi&ograve; et al., 2005). </li>
+    <li>Recent studies assessing caregivers' burden in chronic neurologic disorders have found some features shared by caregivers: the perceived burden exceeds the objective measures of patients' impairment, the amount of burden is independent of diagnosis, and the patients' cognitive functioning is an important factor in determining the level of burden (Thommessen et al., 2002). </li>
+</ul>
+<p><em>Cost</em></p>
+<ul style="list-style-type: disc;">
+    <li>ALS is a difficult to diagnose, fatal, progressive degenerative disease with an average survival time of 2 to 5 years. Percutaneous endoscopic gastrostomy (PEG) and bi-level intermittent positive pressure (BIPAP) ventilation may be the major interventions leading to longer survival of patients with ALS. Riluzole has been shown to have modest effects on survival (as opposed to functional) gains and is currently the only drug approved for the treatment of ALS. Mechanical ventilation (via a tracheostomy tube) is expensive, but is widely used in later stage patients with ALS in the U.S. A review of nine cost-effectiveness studies of riluzole found the following: drug costs and survival gains are the major drivers of cost effectiveness; survival gains are estimated from truncated databases with a high degree of uncertainty; more accurate stage-specific utility weights based on patients who agreed to treatment are needed; case incidence-based evaluations should be carried out; cost-effectiveness ratios are insensitive to discount rates; employment and caregiver issues or externalities have been widely ignored; threshold acceptance cost-effectiveness values are ill-defined and evaluations are not generalizable to other countries because of cost and treatment style differences. On account of the high degree of uncertainty pertaining to survival gains and the relatively high costs per life years or quality-adjusted life-years gained, and while acknowledging that not every therapy has to be cost effective (e.g., orphan drugs), it is still inconclusive as to whether or not riluzole can be considered as cost-effective therapy for ALS (Ginsberg &amp; Lowe, 2002). </li>
+</ul>
+<p><strong>Disparities</strong></p>
+<ul style="list-style-type: disc;">
+    <li>All races and ethnic backgrounds are affected by ALS (NINDS, 2013). </li>
+    <li>ALS most common in individuals 40 to 60 years old, but younger and older people can develop the disease (NINDS, 2013). </li>
+    <li>Men are more likely to develop ALS than women. Studies suggest an overall ratio of about 1.5 men to every woman who develops ALS in Western countries (ALS Association, 2012). </li>
+</ul>
+<p><strong>Opportunity for Improvement</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Cognitive impairment in ALS is best identified through neuropsychological assessment using standardized measures and normative data. The Mini-Mental State Examination is less sensitive to the cognitive impairment seen in ALS and does not examine for behavioral dysfunction. There is no consensus regarding the best screening tests for cognitive impairment in ALS. Two 1-minute word generation tests had 65% sensitivity, 90% specificity, and 88% positive predictive value in detecting possible, probable, or definite FTD by Neary criteria (Rakowicz &amp; Hodges, 1998). A 1-minute letter fluency measure (F words) had 73% sensitivity, 88% specificity, and 79% accuracy to detect ALS with cognitive impairment (ALSci) (Lomen-Hoerth et al., 2003). An abbreviated neuropsychological battery demonstrated 88% accuracy (Lomen-Hoerth et al., 2003). </li>
+    <li>Although there has not been a systematic study of how many clinics do screening, there is good support for the presence of a gap (Wicks &amp; Frost, 2008). Recent studies have demonstrated the feasibility of screening patients in a busy specialized ALS clinic (Woolley &amp; Katz, 2011; Gordon et al., 2007) but this is still not routinely practiced. A recent large study found that most patients and caregivers were not informed about the presence of cognitive or behavioral/ psychological impairment. Patients commonly reported being told by their doctor about physical symptoms such as problems walking (85%) or stiffness/cramps (74%) but not psychological issues like emotional liability (46%) or cognitive change (11%). Patients and caregivers have indicated that they do want to know about whether they are so affected. These data suggest that screening is not being done widely at all (Wicks &amp; Frost, 2008). </li>
+</ul></div></p>
+                        <h3><a href="#">Evidence for Additional Information Supporting Need for the Measure</a></h3>
+                    <p><table><tr><td>Albert SM, Murphy PL, Del Bene ML, Rowland LP. Prospective study of palliative care in ALS: choice, timing, outcomes. J Neurol Sci. 1999 Oct 31;169(1-2):108-13.</td></tr></table></p>
+                    <p><table><tr><td>Albert SM, Rabkin JG, Del Bene ML, Tider T, O'Sullivan I, Rowland LP, Mitsumoto H. Wish to die in end-stage ALS. Neurology. 2005 Jul 12;65(1):68-74. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16009887" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Albert SM, Whitaker A, Rabkin JG, del Bene M, Tider T, O'Sullivan I, Mitsumoto H. Medical and supportive care among people with ALS in the months before death or tracheostomy. J Pain Symptom Manage. 2009 Oct;38(4):546-53. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19540088" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>ALS Association. Epidemiology of ALS and suspected clusters. [internet]. Washington (DC): ALS Association; [accessed 2012 Apr 06]. </td></tr></table></p>
+                    <p><table><tr><td>American Academy of Neurology (AAN). Amyotrophic lateral sclerosis performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 Jul 31. 75 p. </td></tr></table></p>
+                    <p><table><tr><td>Armon C. Sports and trauma in amyotrophic lateral sclerosis revisited. J Neurol Sci. 2007 Nov 15;262(1-2):45-53. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17681549" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Ball LJ, Beukelman DR, Pattee GL. Acceptance of augmentative and alternative communication technology by persons with amyotrophic lateral sclerosis. Augmentative Altern Commun. 2004;20(2):113-22.</td></tr></table></p>
+                    <p><table><tr><td>Ball LJ, Beukelman DR, Pattee GL. Communication effectiveness of individuals with amyotrophic lateral sclerosis. J Commun Disord. 2004 May-Jun;37(3):197-215. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15063143" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Bensimon G, Lacomblez L, Meininger V. A controlled trial of riluzole in amyotrophic lateral sclerosis. ALS/Riluzole Study Group. N Engl J Med. 1994 Mar 3;330(9):585-91. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8302340" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Beukelman D, Fager S, Nordness A. Communication support for people with ALS. Neurol Res Int. 2011;2011:714693. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21603029" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Bobowick AR, Brody JA. Epidemiology of motor-neuron diseases. N Engl J Med. 1973 May 17;288(20):1047-55. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=4576955" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Chiò A, Gauthier A, Calvo A, Ghiglione P, Mutani R. Caregiver burden and patients' perception of being a burden in ALS. Neurology. 2005 May 24;64(10):1780-2. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15911811" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Desport JC, Preux PM, Truong TC, Vallat JM, Sautereau D, Couratier P. Nutritional status is a prognostic factor for survival in ALS patients. Neurology. 1999 Sep 22;53(5):1059-63. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10496266" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Dubinsky R, Chen J, Lai SM. Trends in hospital utilization and outcome for patients with ALS: analysis of a large U.S. cohort. Neurology. 2006 Sep 12;67(5):777-80. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16966536" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Dupuis L, Corcia P, Fergani A, Gonzalez De Aguilar JL, Bonnefont-Rousselot D, Bittar R, Seilhean D, Hauw JJ, Lacomblez L, Loeffler JP, Meininger V. Dyslipidemia is a protective factor in amyotrophic lateral sclerosis. Neurology. 2008 Mar 25;70(13):1004-9. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18199832" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>EFNS Task Force on Diagnosis and Management of Amyotrophic Lateral Sclerosis, Andersen PM, Abrahams S, Borasio GD, de Carvalho M, Chio A, Van Damme P, Hardiman O, Kollewe K, Morrison KE, Petri S, Pradat PF, Silani V, Tomik B, Wasner M, Weber M. EFNS guidelines on the clinical management of amyotrophic lateral sclerosis (MALS) -- revised report of an EFNS task force. Eur J Neurol. 2012 Mar;19(3):360-75. [186 references] <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21914052" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Elamin M, Phukan J, Bede P, Jordan N, Byrne S, Pender N, Hardiman O. Executive dysfunction is a negative prognostic indicator in patients with ALS without dementia. Neurology. 2011 Apr 5;76(14):1263-9. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21464431" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Flaherty-Craig C, Brothers A, Dearman B, Eslinger P, Simmons Z. Penn State screen exam for the detection of frontal and temporal dysfunction syndromes: application to ALS. Amyotroph Lateral Scler. 2009 Apr;10(2):107-12. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18792849" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Gil J, Funalot B, Verschueren A, Danel-Brunaud V, Camu W, Vandenberghe N, Desnuelle C, Guy N, Camdessanche JP, Cintas P, Carluer L, Pittion S, Nicolas G, Corcia P, Fleury MC, Maugras C, Besson G, Le Masson G, Couratier P. Causes of death amongst French patients with amyotrophic lateral sclerosis: a prospective study. Eur J Neurol. 2008 Nov;15(11):1245-51. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18973614" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Ginsberg G, Lowe S. Cost effectiveness of treatments for amyotrophic lateral sclerosis: a review of the literature. PharmacoEconomics. 2002;20(6):367-87. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12052096" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Gordon PH, Wang Y, Doorish C, Lewis M, Battista V, Mitsumoto H, Marder K. A screening assessment of cognitive impairment in patients with ALS. Amyotroph Lateral Scler. 2007 Dec;8(6):362-5. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17852014" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Haverkamp LJ, Appel V, Appel SH. Natural history of amyotrophic lateral sclerosis in a database population. Validation of a scoring system and a model for survival prediction. Brain. 1995 Jun;118 (Pt 3):707-19. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7600088" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Heffernan C, Jenkinson C, Holmes T, Macleod H, Kinnear W, Oliver D, Leigh N, Ampong MA. Management of respiration in MND/ALS patients: an evidence based review. Amyotrophic Lateral Sclerosis. 2006 Mar;7(1):5-15. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16546753" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Hetta J, Jansson I. Sleep in patients with amyotrophic lateral sclerosis. J Neurol. 1997 Apr;244(4 Suppl 1):S7-9. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9112583" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Lacomblez L, Bensimon G, Leigh PN, Guillet P, Meininger V. Dose-ranging study of riluzole in amyotrophic lateral sclerosis. Amyotrophic Lateral Sclerosis/Riluzole Study Group II. Lancet. 1996 May 25;347(9013):1425-31. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8676624" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Laird RD, Studenski S, Perera S, Wallace D. Fall history is an independent predictor of adverse health outcomes and utilization in the elderly. Am J Manag Care. 2001 Dec;7(12):1133-8. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11767299" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Lechtzin N, Rothstein J, Clawson L, Diette GB, Wiener CM. Amyotrophic lateral sclerosis: evaluation and treatment of respiratory impairment. Amyotroph Lateral Scler Other Motor Neuron Disord. 2002 Mar;3(1):5-13. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12061943" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Lehéricey G, Le Forestier N, Dupuis L, Gonzalez-Bermejo J, Meininger V, Pradat PF. [Nutritional management in amyotrophic lateral sclerosis: A medical and ethical stake]. Presse Med. 2012 Jun;41(6 Pt 1):560-74. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22137288" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Lomen-Hoerth C, Murphy J, Langmore S, Kramer JH, Olney RK, Miller B. Are amyotrophic lateral sclerosis patients cognitively normal?. Neurology. 2003 Apr 8;60(7):1094-7. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12682312" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Marin B, Desport JC, Kajeu P, Jesus P, Nicolaud B, Nicol M, Preux PM, Couratier P. Alteration of nutritional status at diagnosis is a prognostic factor for survival of amyotrophic lateral sclerosis patients. J Neurol Neurosurg Psychiatry. 2011 Jun;82(6):628-34. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21097551" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Mathy P, Yorkston K, Gutmann M. AAC for individuals with amyotrophic lateral sclerosis. Augment Disord. 2000;:183-231.</td></tr></table></p>
+                    <p><table><tr><td>McCullagh S, Moore M, Gawel M, Feinstein A. Pathological laughing and crying in amyotrophic lateral sclerosis: an association with prefrontal cognitive dysfunction. J Neurol Sci. 1999 Oct 31;169(1-2):43-8. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10540006" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Miller RG, Jackson CE, Kasarskis EJ, England JD, Forshew D, Johnston W, Kalra S, Katz JS, Mitsumoto H, Rosenfeld J, Shoesmith C, Strong MJ, Woolley SC, Quality Standards Subcommittee of the American Academy of Neurology. Practice parameter update: the care of the patient with amyotrophic lateral sclerosis: drug, nutritional, and respiratory therapies (an evidence-based review): report of the Quality Standards Subcommittee of the American Academy of  Neurology. Neurology. 2009 Oct 13;73(15):1218-26. [40 references] <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19822872" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Miller RG, Jackson CE, Kasarskis EJ, England JD, Forshew D, Johnston W, Kalra S, Katz JS, Mitsumoto H, Rosenfeld J, Shoesmith C, Strong MJ, Woolley SC, Quality Standards Subcommittee of the American Academy of Neurology. Practice parameter update: the care of the patient with amyotrophic lateral sclerosis: multi-disciplinary care, symptom management, and cognitive/behavioral impairment (an evidence-based review): report of the Quality Standards Subcommittee [TRUNC]. Neurology. 2009 Oct 13;73(15):1227-33. [40 references] <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19822873" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Mitsumoto H, Bromberg M, Johnston W, Tandan R, Byock I, Lyon M, Miller RG, Appel SH, Benditt J, Bernat JL, Borasio GD, Carver AC, Clawson L, Del Bene ML, Kasarskis EJ, LeGrand SB, Mandler R, McCarthy J, Munsat T, Newman D, Sufit RL, Versenyi A. Promoting excellence in end-of-life care in ALS. Amyotroph Lateral Scler Other Motor Neuron Disord. 2005 Sep;6(3):145-54. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16183556" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>National Institute of Neurological Disorders and Stroke (NINDS). Amyotrophic lateral sclerosis (ALS) fact sheet. [internet]. Bethesda (MD): National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health (NIH); 2013 Jun&nbsp;[6 p]. </td></tr></table></p>
+                    <p><table><tr><td>Nolan MT, Kub J, Hughes MT, Terry PB, Astrow AB, Carbo CA, Thompson RE, Clawson L, Texeira K, Sulmasy DP. Family health care decision making and self-efficacy with patients with ALS at the end of life. Palliat Support Care. 2008 Sep;6(3):273-80. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18662421" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Oliver D, Campbell C, Sykes N, Tallon C, Edwards A. Decision-making for gastrostomy and ventilatory support for people with motor neurone disease: variations across UK hospices. J Palliat Care. 2011;27(3):198-201. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21957796" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Phukan J, Pender NP, Hardiman O. Cognitive impairment in amyotrophic lateral sclerosis. Lancet Neurol. 2007 Nov;6(11):994-1003. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17945153" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Rakowicz WP, Hodges JR. Dementia and aphasia in motor neuron disease: an underrecognised association?. J Neurol Neurosurg Psychiatry. 1998 Dec;65(6):881-9. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9854965" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Ringholz GM, Appel SH, Bradshaw M, Cooke NA, Mosnik DM, Schulz PE. Prevalence and patterns of cognitive impairment in sporadic ALS. Neurology. 2005 Aug 23;65(4):586-90. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16116120" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Rubenstein LZ, Josephson KR. The epidemiology of falls and syncope. Clin Geriatr Med. 2002 May;18(2):141-58. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12180240" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Spataro R, Ficano L, Piccoli F, La Bella V. Percutaneous endoscopic gastrostomy in amyotrophic lateral sclerosis: effect on survival. J Neurol Sci. 2011 May 15;304(1-2):44-8. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21371720" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Strong MJ, Grace GM, Freedman M, Lomen-Hoerth C, Woolley S, Goldstein LH, Murphy J, Shoesmith C, Rosenfeld J, Leigh PN, Bruijn L, Ince P, Figlewicz D. Consensus criteria for the diagnosis of frontotemporal cognitive and behavioural syndromes in amyotrophic lateral sclerosis. Amyotroph Lateral Scler. 2009 Jun;10(3):131-46. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19462523" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Thommessen B, Aarsland D, Braekhus A, Oksengaard AR, Engedal K, Laake K. The psychosocial burden on spouses of the elderly with stroke, dementia and Parkinson's disease. Int J Geriatr Psychiatry. 2002 Jan;17(1):78-84. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11802235" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Vaisman N, Lusaus M, Nefussy B, Niv E, Comaneshter D, Hallack R, Drory VE. Do patients with amyotrophic lateral sclerosis (ALS) have increased energy needs?. J Neurol Sci. 2009 Apr 15;279(1-2):26-9. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19185883" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Wicks P, Abrahams S, Masi D, Hejda-Forde S, Leigh PN, Goldstein LH. Prevalence of depression in a 12-month consecutive sample of patients with ALS. Eur J Neurol. 2007 Sep;14(9):993-1001. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17718691" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Wicks P, Frost J. ALS patients request more information about cognitive symptoms. Eur J Neurol. 2008 May;15(5):497-500. <a href="https://web.archive.org/web/20180625151144/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18325023" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Woolley SC, Katz JS. Review article: utility of the ALS Cognitive Behavioral Screen. Neurodegener Dis Manag. 2011;1(6):473-9.</td></tr></table></p>
+                        <h3><a href="#">Extent of Measure Testing</a></h3>
+                    <p><div class="content_para"><p>This measure is being made available without any prior testing. The American Academy of Neurology (AAN) recognizes the importance of testing of all of its measures and encourages testing of the amyotrophic lateral sclerosis (ALS) measurement set for feasibility and reliability by organizations or individuals positioned to do so. The AAN welcomes the opportunity to promote the initial testing of these measures and to ensure that any results available from testing are used to refine the measures before implementation.</p></div></p>
+                        <h3><a href="#">Evidence for Extent of Measure Testing</a></h3>
+                    <p><table><tr><td>American Academy of Neurology (AAN). Amyotrophic lateral sclerosis performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 Jul 31. 75 p. </td></tr></table></p>
+
+            </div>
+                <h2 id="580" class="accordion-title section-580 is-active" role="tab" aria-expanded="true"><a href="#">State of Use of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">State of Use</a></h3>
+                    <p>Current routine use</p>
+                        <h3><a href="#">Current Use</a></h3>
+                    <p>Internal quality improvement</p>
+                    <p>Professional certification</p>
+
+            </div>
+                <h2 id="583" class="accordion-title section-583 is-active" role="tab" aria-expanded="true"><a href="#">Application of the Measure in its Current Use</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measurement Setting</a></h3>
+                    <p>Ambulatory/Office-based Care</p>
+                    <p>Home Care</p>
+                    <p>Hospital Outpatient</p>
+                    <p>Skilled Nursing Facilities/Nursing Homes</p>
+                        <h3><a href="#">Professionals Involved in Delivery of Health Services</a></h3>
+                    <p>Physicians</p>
+                        <h3><a href="#">Least Aggregated Level of Services Delivery Addressed</a></h3>
+                    <p>Individual Clinicians or Public Health Professionals</p>
+                        <h3><a href="#">Statement of Acceptable Minimum Sample Size</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Target Population Age</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Target Population Gender</a></h3>
+                    <p>Either male or female</p>
+
+            </div>
+                <h2 id="660" class="accordion-title section-660 is-active" role="tab" aria-expanded="true"><a href="#">National Strategy for Quality Improvement in Health Care</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">National Quality Strategy Aim</a></h3>
+                    <p>Better Care</p>
+                        <h3><a href="#">National Quality Strategy Priority</a></h3>
+                    <p>Person- and Family-centered Care<br/>Prevention and Treatment of Leading Causes of Mortality</p>
+
+            </div>
+                <h2 id="590" class="accordion-title section-590 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="593" class="accordion-title section-593 is-active" role="tab" aria-expanded="true"><a href="#">Data Collection for the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Case Finding Period</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Denominator Sampling Frame</a></h3>
+                    <p>Patients associated with provider</p>
+                        <h3><a href="#">Denominator (Index) Event or Characteristic</a></h3>
+                    <p>Clinical Condition</p>
+                        <h3><a href="#">Denominator Time Window</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Denominator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+All patients with a diagnosis of amyotrophic lateral sclerosis (ALS)</p>
+<p class="Note"><strong>Note</strong>: Refer to the original measure documentation for International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis codes and Current Procedural Terminology (CPT) Evaluation and Management (E/M) service codes.</p>
+<p><strong>Exclusions</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Documentation of a medical reason for not screening the patient for cognitive and behavioral impairment (e.g., patient currently diagnosed with severe cognitive impairment) </li>
+    <li>Documentation of a patient reason for not screening the patient for cognitive and behavioral impairment (e.g., patient declines to be screened for cognitive or behavioral impairment) </li>
+    <li>Documentation of a system reason for not screening the patient for cognitive and behavioral impairment (e.g., no insurance to cover screening cost) </li>
+</ul></div></p>
+                        <h3><a href="#">Exclusions/Exceptions</a></h3>
+                    <p>Medical factors addressed</p>
+                    <p>Patient factors addressed</p>
+                    <p>System factors addressed</p>
+                        <h3><a href="#">Numerator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+Patients who are screened at least once annually for cognitive impairment (e.g., frontotemporal dementia screening or amyotrophic lateral sclerosis [ALS] Cognitive Behavioral Screen [CBS]) and behavioral impairment (e.g., ALS CBS)</p>
+<p><strong>Exclusions</strong><br/>
+Unspecified</p></div></p>
+                        <h3><a href="#">Numerator Search Strategy</a></h3>
+                    <p>Fixed time period or point in time</p>
+                        <h3><a href="#">Data Source</a></h3>
+                    <p>Administrative clinical data</p>
+                    <p>Electronic health/medical record</p>
+                    <p>Paper medical record</p>
+                        <h3><a href="#">Type of Health State</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Instruments Used and/or Associated with the Measure</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+
+            </div>
+                <h2 id="605" class="accordion-title section-605 is-active" role="tab" aria-expanded="true"><a href="#">Computation of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measure Specifies Disaggregation</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Scoring</a></h3>
+                    <p>Rate/Proportion</p>
+                        <h3><a href="#">Interpretation of Score</a></h3>
+                    <p>Desired value is a higher score</p>
+                        <h3><a href="#">Allowance for Patient or Population Factors</a></h3>
+                    <p>Unspecified</p>
+                        <h3><a href="#">Standard of Comparison</a></h3>
+                    <p>Internal time comparison</p>
+
+            </div>
+                <h2 id="615" class="accordion-title section-615 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Original Title</a></h3>
+                    <p><div class="content_para"><p>Measure #3: ALS cognitive impairment and behavioral impairment screening.</p></div></p>
+                        <h3><a href="#">Measure Collection Name</a></h3>
+                    <p>Amyotrophic Lateral Sclerosis Performance Measurement Set</p>
+                        <h3><a href="#">Submitter</a></h3>
+                    <p>American Academy of Neurology - Medical Specialty Society</p>
+                        <h3><a href="#">Developer</a></h3>
+                    <p>American Academy of Neurology - Medical Specialty Society</p>
+                        <h3><a href="#">Funding Source(s)</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Composition of the Group that Developed the Measure</a></h3>
+                    <p><div class="content_para"><p><strong>Work Group Members Amyotrophic Lateral Sclerosis</strong></p>
+<p><em>Co-Chairs</em>: Robert G. Miller, MD; Benjamin Rix Brooks, MD</p>
+<p><em>American Academy of Neurology Representatives</em>: Steven Ringel, MD; Hiroshi Mitsumoto, MD; Carlayne Jackson, MD; Christen Shoesmith, MD, BSc; Edward Kasarskis, MD, PhD </p>
+<p><em>Pulmonologist</em>: Robert C. Basner, MD</p>
+<p><em>Gastroenterologist</em>: Nicholas Procaccini, MD</p>
+<p><em>American Academy of Physical Medicine and Rehabilitation</em>: Gregory Carter, MD </p>
+<p><em>Nurse</em>: Dallas Forshew, RN, BSN</p>
+<p><em>Physical Therapy/Occupational Therapy</em>: Mohammed Sanjak, PhD, PT, MBA; Pat Casey, MS, CRCC</p>
+<p><em>Hospice/Palliative Care Specialist</em>: Bob Osborne, RN</p>
+<p><em>Muscular Dystrophy Association</em>: Valerie Cwik, MD </p>
+<p><em>Patient Representative</em>: Christine Jasch, OTR/L</p>
+<p><em>Insurance Representatives</em>: Fredrik Tolin, MD, MBA (Humana)</p>
+<p><em>American Academy of Neurology Staff</em>: Rebecca J. Swain-Eng, MS; Gina Gjorvad</p>
+<p><em>Methodologist</em>: Rebecca Kresowik </p>
+<p><em>Quality Measurement and Reporting Subcommittee Facilitators &amp; Liaisons</em>: Richard Dubinsky, MD (Facilitator); Joel Kaufman, MD (Facilitator); Adam Cohen, MD (Facilitator); Christopher Bever, MD (QMR Chair); Eric Cheng, MD, MS (QMR Vice-Chair)</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Other Potential Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>This measure was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date of Most Current Version in NQMC</a></h3>
+                    <p>2012 Jul</p>
+                        <h3><a href="#">Measure Maintenance</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Date of Next Anticipated Revision</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Measure Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the measure.</p></div></p>
+                        <h3><a href="#">Source(s)</a></h3>
+                    <p><table><tr><td>American Academy of Neurology (AAN). Amyotrophic lateral sclerosis performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 Jul 31. 75 p. </td></tr></table></p>
+                        <h3><a href="#">Measure Availability</a></h3>
+                    <p><div class="content_para"><p>Source available from the <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=49343&amp;contentType=summary&amp;redirect=https%3a%2f%2fwww.aan.com%2fuploadedFiles%2fWebsite_Library_Assets%2fDocuments%2f3.Practice_Management%2f2.Quality_Improvement%2f1.Quality_Measures%2f1.All_Measures%2fALS%2520Measurement%2520Set%2520FINAL.pdf" title="AAN Web site">American Academy of Neurology (AAN) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>For more information, contact AAN at 201 Chicago Avenue, Minneapolis, MN 55415; Phone: 800-879-1960; Fax: 612-454-2746; Web site: <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=49343&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.aan.com" title="AAN Web site">www.aan.com</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">NQMC Status</a></h3>
+                    <p><div class="content_para"><p>This NQMC summary was completed by ECRI Institute on March 8, 2016. The information was not verified by the measure developer. </p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NQMC Disclaimer</a></h3>
+                    <p><p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria">NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NQMC Measure Summaries</h3>
+            <p>NQMC provides structured summaries containing information about measures and their development.</p>
+            <ul>
+                <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/domain-framework" class="internal-link">Domain Framework</a></li>
+                <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/template-of-measure-attributes" class="internal-link">Template of Measure Attributes</a></li>
+                <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/faqs" class="help-button">Measure Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NQMC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+    
+    <a class="block-link" href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/disclaimer?id=49343&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.svg">
+					  	<img src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.png" alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		                <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a></li>
+						<li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180625151144/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://web.archive.org/web/20180625151144/https://www.guideline.gov/" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.svg">
+									<img src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180625151144/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180625151144im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180625151144/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180625151144js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180625151144js_/https://www.qualitymeasures.ahrq.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 15:11:44 Jun 25, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 19:31:23 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 75.407 (3)
+  esindex: 0.008
+  captures_list: 97.672
+  CDXLines.iter: 17.216 (3)
+  PetaboxLoader3.datanode: 75.353 (4)
+  exclusion.robots: 0.165
+  exclusion.robots.policy: 0.154
+  RedisCDXSource: 1.676
+  PetaboxLoader3.resolve: 39.496
+  load_resource: 69.895
+-->

@@ -1,0 +1,947 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app18.us.archive.org';v.server_ms=2410;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Asthma: proportion of emergency department visits for asthma that meet criteria for the ED being the appropriate level of care among all ED visits for asthma in children age 2 to 5 years with identifiable asthma. | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180620202301cs_/https://www.qualitymeasures.ahrq.gov/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180620202301js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180620202301if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180620202301/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180620202301if_/https://www.googletagmanager.com/ns.html?id=GTM-KXQCDQ" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180620202301/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180620202301/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180620202301/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/" class="header-logo NQMC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png">
+				        <source srcset="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header_m.png">
+				        <img src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_header.png" alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Measure Summary</li>
+            <li>NQMC:009747</li>
+            <li>Aug 2014
+            </li>            
+                                </ul>
+        <div>
+                <h1>Asthma: proportion of emergency department visits for asthma that meet criteria for the ED being the appropriate level of care among all ED visits for asthma in children age 2 to 5 years with identifiable asthma.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_Developer_String=Collaboration%20for%20Advancing%20Pediatric%20Quality%20Measures&amp;fLockTerm=Collaboration%2Bfor%2BAdvancing%2BPediatric%2BQuality%2BMeasures">Collaboration for Advancing Pediatric Quality Measures</a></li>
+                        <li>   
+                                <a id="2537" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): appropriateness of emergency department visits for children and adolescents with identifiable asthma. Rockville (MD):  Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 63 p.  [115 references]</td></tr></table>                    <p><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=48549&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.capquam.org%252fdocs%252fAsthma%252fAHRQ%252520CPCF%252520and%252520NQMC_CAPQuaM_Asthma%252520FINAL%2525208.8.14.pdf">View the original measure documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the measure.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+            <h4>Measure Hierarchy</h4>
+<a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_Collection_Hierarchy=objid48547&amp;fLockTerm=Emergency%2BDepartment%2BUse%2Bfor%2BChildren%2Bwith%2BAsthma%2B--%2BAppropriateness%2BSet">Emergency Department Use for Children with Asthma -- Appropriateness Set</a>                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_Target_Population_Age=Child%3A%20Pre-school%3A%202-5%20years%20old&amp;fLockTerm=Child%253a%2BPre-school%253a%2B2-5%2Byears%2Bold">Child: Pre-school: 2-5 years old</a></li>                                              
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_ICD9CM_CUI=C0155886&amp;fLockTerm=Asthma%2c+unspecified+type%2c+unspecified">Asthma, unspecified type, unspecified</a>
+ (493.90)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0004096&amp;fLockTerm=Asthma">Asthma</a>
+, <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0008079&amp;fLockTerm=Child+Health+Services">Child Health Services</a>
+, <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0013961&amp;fLockTerm=Emergency+Medical+Services">Emergency Medical Services</a>
+, <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_MSH_CUI=C0085566&amp;fLockTerm=Process+Assessment+(Health+Care)">Process Assessment (Health Care)</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0004096&amp;fLockTerm=Asthma">Asthma</a>
+, <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0155886&amp;fLockTerm=Asthma%2c+unspecified+type%2c+without+mention+of+status+asthmaticus">Asthma, unspecified type, without mention of status asthmaticus</a>
+, <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0008079&amp;fLockTerm=Child+Health+Services">Child Health Services</a>
+, <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C0013961&amp;fLockTerm=Emergency+medical+service">Emergency medical service</a>
+, <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_MTH_CUI=C1547668&amp;fLockTerm=Level+of+Care">Level of Care</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0004096&amp;fLockTerm=Asthma">Asthma</a>
+ (195967001), <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C1318955&amp;fLockTerm=Asthma+management">Asthma management</a>
+ (406162001), <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/search?f_SNOMEDCT_US_CUI=C0013961&amp;fLockTerm=Emergency+medical+services">Emergency medical services</a>
+ (409971007)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#563" class="section-mark">Measure Domain</a></li>
+                                    <li><a href="#566" class="section-mark">Brief Abstract</a></li>
+                                    <li><a href="#573" class="section-mark">Evidence Supporting the Measure</a></li>
+                                    <li><a href="#580" class="section-mark">State of Use of the Measure</a></li>
+                                    <li><a href="#583" class="section-mark">Application of the Measure in its Current Use</a></li>
+                                    <li><a href="#660" class="section-mark">National Strategy for Quality Improvement in Health Care</a></li>
+                                    <li><a href="#590" class="section-mark">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></li>
+                                    <li><a href="#593" class="section-mark">Data Collection for the Measure</a></li>
+                                    <li><a href="#605" class="section-mark">Computation of the Measure</a></li>
+                                    <li><a href="#615" class="section-mark">Identifying Information</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-9747?contentType=pdf" class="pdf">.PDF 127.8 kb</a></li>
+                            <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-9747?contentType=word" class="word">Word Document 318.8 kb</a></li>
+                            <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/downloadcontent/nqmc-9747?contentType=xml" class="xml">.XML 61.4 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180620202301/https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/summaries/summary/48549/asthma-proportion-of-emergency-department-visits-for-asthma-that-meet-criteria-for-the-ed-being-the-appropriate-level-of-care-among-all-ed-visits-for-asthma-in-children-age-2-to-5-years-with-identifiable-asthma" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180620202301/https://twitter.com/share?text=&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/48549/asthma-proportion-of-emergency-department-visits-for-asthma-that-meet-criteria-for-the-ed-being-the-appropriate-level-of-care-among-all-ed-visits-for-asthma-in-children-age-2-to-5-years-with-identifiable-asthma" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180620202301/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.qualitymeasures.ahrq.gov/summaries/summary/48549/asthma-proportion-of-emergency-department-visits-for-asthma-that-meet-criteria-for-the-ed-being-the-appropriate-level-of-care-among-all-ed-visits-for-asthma-in-children-age-2-to-5-years-with-identifiable-asthma&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180620202301/mailto:/?Subject=AHRQ: Asthma: proportion of emergency department visits for asthma that meet criteria for the ED being the appropriate level of care among all ED visits for asthma in children age 2 to 5 years with identifiable asthma.&amp;body=https://www.qualitymeasures.ahrq.gov/summaries/summary/48549/asthma-proportion-of-emergency-department-visits-for-asthma-that-meet-criteria-for-the-ed-being-the-appropriate-level-of-care-among-all-ed-visits-for-asthma-in-children-age-2-to-5-years-with-identifiable-asthma" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Quality Measures Clearinghouse (NQMC). Measure summary: Asthma: proportion of emergency department visits for asthma that meet criteria for the ED being the appropriate level of care among all ED visits for asthma in children age 2 to 5 years with identifiable asthma. In: National Quality Measures Clearinghouse (NQMC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Aug 06. [cited 2018 Jun 20]. Available: https://www.qualitymeasures.ahrq.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/48549?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/48549?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/48549?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/48549?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/48549?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/48549">RefWorks</a></li>
+                            <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/citedownload/48549?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="48549" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="563" class="accordion-title section-563 is-active" role="tab" aria-expanded="true"><a href="#">Measure Domain</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Primary Measure Domain</a></h3>
+                    <p>Clinical Quality Measures: Process</p>
+                        <h3><a href="#">Secondary Measure Domain</a></h3>
+                    <p>Does not apply to this measure</p>
+
+            </div>
+                <h2 id="566" class="accordion-title section-566 is-active" role="tab" aria-expanded="true"><a href="#">Brief Abstract</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description</a></h3>
+                    <p><div class="content_para"><p>This measure is used to assess the proportion of emergency department (ED) visits for asthma that meet criteria for the ED being the appropriate level of care among all ED visits for asthma in children age 2 to 5 years with identifiable asthma.</p>
+<p class="Note"><strong>Note from the National Quality Measures Clearinghouse</strong>: Separate numerators and denominators are reported for children age 2 to 5, 6 to 11, 12 to 18, and, optionally, 19 to 21 years. See the related Collaboration for Advancing Pediatric Quality Measures (CAPQuaM) measure summaries in the <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/browse/by-organization-indiv.aspx?orgid=2537&amp;objid=48548" title="Measure Set">Emergency Department Use for Children with Asthma -- Appropriateness Set</a> for additional age strata. </p></div></p>
+                        <h3><a href="#">Rationale</a></h3>
+                    <p><div class="content_para"><p>Asthma matters for pediatrics (World Health Organization [WHO], 2011; Adams, Smith, &amp; Ruffin, 2000; Bahadori et al., 2009; Weiss, Gergen, &amp; Hodgson, 1992; Coventry, Weston, &amp; Collins, 1996; American Lung Association [ALA], 2012; Fuhrman et al., 2011; Sawicki et al., 2010; Manice, 2013; Cerdan et al., 2012; Fiese et al., 2008; Okelo et al., 2004). It is one of the most common chronic diseases in children, affecting an estimated 7.1 million children in the United States (Centers for Disease Control and Prevention [CDC], 2011). In 2011, 4.1 million children suffered from an asthma attack or episode. It is the second most common reason (after allergy) for children to be classified as having a special health care need, accounting for nearly 38.8% of such children. Pediatric asthma is more prevalent in minority populations. Lifetime prevalence rates of asthma in Hispanic and Black children are 12.4% and 15.8% respectively (Lara et al., 2006).</p>
+<p>The developer's analysis of Healthcare Cost and Utilization Project (HCUP) data estimated that children between 1 and 17 years old had more than 673,000 emergency department (ED) visits with asthma as the first diagnosis; almost 11% (or greater than 71,000) of these visits resulted in hospitalization. Considering all ages, asthma ED visits are common in all regions of the country, with a plurality in the South and fewer in the West. They are relatively evenly split between teaching and non-teaching hospitals and nearly 86% of visits occur for patients who live in metropolitan areas. Specifically, about 56% of visits are in large metropolitan or suburban areas, 29% in smaller metropolitan areas and almost 15% in areas considered rural. Asthma exacerbations (including ED visits and subsequent hospitalizations) are consequential for the health and well-being of children and their families and may cost as much as $18 billion per year across all ages (Manice, 2013; Cerdan et al., 2012; Fiese et al., 2008; Okelo et al., 2004).</p>
+<p>Appropriate use of the emergency department has been debated for decades. In her seminal article nearly three decades ago, DeAngelis included an asthma attack as an appropriate indication for use of the ED (DeAngelis, Fosarelli, &amp; Duggan, 1985).</p>
+<p>High rates of asthma visits to the emergency department (ED) suggest widespread deficiencies in asthma care. The literature shows that lack of proper asthma care is disparate with minority children bearing undue burden (Price et al., 2013; Homer et al., 1996; Finkelstein et al., 1995). </p>
+<p>The literature also presents different perspectives on appropriate use of the ED for pediatric asthma. Pediatric asthma is one of the leading conditions when it comes to avoidable ED visits (Flores et al., 2003). Asthma has been classified both as an avoidable hospitalization condition (AHC) and as an ambulatory care sensitive condition. This describes that many ED visits or hospital admissions could have been avoided with proper outpatient care (Flores et al., 2003; Knudson et al., 2009). Poor outpatient care can be an outcome of a number of variables. As noted, the availability of primary care can reduce such inappropriate visits (Parchman &amp; Culler, 1994; Flores et al., 2003; Bindman et al., 1995). Parents may choose to come to the ED if they cannot get a timely appointment with their primary care provider (PCP), have had poor experience with their PCP, or feel the treatment in the ED is of a higher quality or safer than the ambulatory office. Parents may also panic when a child suddenly has trouble breathing and simply believe the child's symptoms require emergency care. A potentially preventable visit, however, is not the same as an inappropriate or unnecessary visit &ndash; sick asthmatic children may require ED care.</p>
+<p>It is well understood that children who receive optimal asthma management and those who are well connected with their primary care practice are less likely to require an ED visit or a hospitalization than those who are less well managed or lack effective primary care. Well developed scientific guidelines exist (National Heart, Lung, and Blood Institute [NHLBI], 2011).</p>
+<p>Reducing the relative number of ED visits during the care for asthmatic children remains a high priority on the national agenda and holds the promise of both financial savings and improved health-related quality of life. Overuse of the ED for all diagnoses is estimated to cost approximately $38 billion per year (New England Healthcare Institute [NEHI], 2010). One study illustrated the financial burden of non-urgent ED visits by calculating that treatment of an upper respiratory infection cost twice as much in the ED as compared to a family practitioner's office (Martin, 2000). Other detriments of ED overuse include overcrowding, long wait times, and an unnecessary workload on staff who work in a high pressure environment; overuse detracts from patients who truly need this level of care. </p>
+<p>Assessing the extent to which ED use for asthma is appropriate can inform health policy, manpower planning, and clinical quality improvement activities. It can help to answer the question of how much of ED use potentially may be prevented by better management of the underlying asthma, versus how much requires other, process or structural improvements to reduce use of the ED when a lower level of care would meet the clinical needs of the child. Refractory asthma or those with unavoidable environmental exposures leading to an acute exacerbation requiring medical care are likely to be identified as appropriate, reminding us that NOT all asthma ED visits are preventable even with optimal care.</p>
+<p>With a better understanding of ED use, health care organizations and policy makers could develop better informed approaches to optimizing services for children with asthma. And hopefully children and their families may increasingly be spared the inconvenience, risk, and costs of ED visits for asthma.</p></div></p>
+                        <h3><a href="#">Evidence for Rationale</a></h3>
+                    <p><table><tr><td>Adams RJ, Smith BJ, Ruffin RE. Factors associated with hospital admissions and repeat emergency department visits for adults with asthma. Thorax. 2000 Jul;55(7):566-73. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10856316" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>American Lung Association (ALA). Asthma and children fact sheet. [internet]. Chicago (IL): American Lung Association (ALA); 2012 Oct.&nbsp;</td></tr></table></p>
+                    <p><table><tr><td>Bahadori K, Doyle-Waters MM, Marra C, Lynd L, Alasaly K, Swiston J, FitzGerald JM. Economic burden of asthma: a systematic review. BMC Pulm Med. 2009;9:24. [75 references] <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19454036" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Bindman AB, Grumbach K, Osmond D, Komaromy M, Vranizan K, Lurie N, Billings J, Stewart A. Preventable hospitalizations and access to health care. JAMA. 1995 Jul 26;274(4):305-11. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7609259" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Centers for Disease Control and Prevention (CDC), National Center for Health Statistics (NCHS). National Health Interview Survey raw data, 2011. Analysis by the American Lung Association Research and Health Education Division using SPSS and SUDAAN software. [internet]. Chicago (IL): American Lung Association (ALA); 2011.&nbsp;</td></tr></table></p>
+                    <p><table><tr><td>Cerdan NS, Alpert PT, Moonie S, Cyrkiel D, Rue S. Asthma severity in children and the quality of life of their parents. Appl Nurs Res. 2012 Aug;25(3):131-7. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21439791" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): appropriateness of emergency department visits for children and adolescents with identifiable asthma. Rockville (MD):  Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 63 p.  [115 references]</td></tr></table></p>
+                    <p><table><tr><td>Coventry JA, Weston MS, Collins PM. Emergency room encounters of pediatric patients with asthma: cost comparisons with other treatment settings. J Ambul Care Manage. 1996 Apr;19(2):9-21. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10156661" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>DeAngelis C, Fosarelli P, Duggan AK. Use of the emergency department by children enrolled in a primary care clinic. Pediatr Emerg Care. 1985 Jun;1(2):61-5. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=3843434" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Fiese B, Winter M, Anbar R, Howell K, Poltrock S. Family climate of routine asthma care: associating perceived burden and mother-child interaction patterns to child well-being. Fam Process. 2008 Mar;47(1):63-79. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18411830" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Finkelstein JA, Brown RW, Schneider LC, Weiss ST, Quintana JM, Goldmann DA, Homer CJ. Quality of care for preschool children with asthma: the role of social factors and practice setting. Pediatrics. 1995 Mar;95(3):389-94. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7862478" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Flores G, Abreu M, Chaisson CE, Sun D. Keeping children out of hospitals: parents' and physicians' perspectives on how pediatric hospitalizations for ambulatory care-sensitive conditions can be avoided. Pediatrics. 2003 Nov;112(5):1021-30. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14595041" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Fuhrman C, Dubus JC, Marguet C, Delacourt C, Thumerelle C, de Blic J, Delmas MC. Hospitalizations for asthma in children are linked to undertreatment and insufficient asthma education. J Asthma. 2011 Aug;48(6):565-71. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21595608" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Homer CJ, Szilagyi P, Rodewald L, Bloom SR, Greenspan P, Yazdgerdi S, Leventhal JM, Finkelstein D, Perrin JM. Does quality of care affect rates of hospitalization for childhood asthma. Pediatrics. 1996 Jul;98(1):18-23. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8668406" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Knudson A, Casey M, Burlew M, Davidson G. Disparities in pediatric asthma hospitalizations. J Public Health Manag Pract. 2009 May-Jun;15(3):232-7. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19363403" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Lara M, Akinbami L, Flores G, Morgenstern H. Heterogeneity of childhood asthma among Hispanic children: Puerto Rican children bear a disproportionate burden. Pediatrics. 2006 Jan;117(1):43-53. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16396859" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Manice M. Exploring the relationship between parental shared decision-making practices and acute asthma exacerbations among children age 0-17. New York (NY): Icahn School of Medicine at Mount Sinai; 2013. </td></tr></table></p>
+                    <p><table><tr><td>Martin BC. Emergency medicine versus primary care: a case study of three prevalent, costly, and non-emergent diagnoses at a community teaching hospital. J Health Care Finance. 2000;27(2):51-65. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11140550" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>National Heart, Lung, and Blood Institute (NHLBI). Asthma guidelines. [internet]. Bethesda (MD): National Heart, Lung, and Blood Institute (NHLBI); 2011 Feb.&nbsp;</td></tr></table></p>
+                    <p><table><tr><td>New England Healthcare Institute (NEHI). A matter of urgency: reducing emergency department overuse. Cambridge (MA): New England Healthcare Institute (NEHI); 2010 Mar. 15 p. </td></tr></table></p>
+                    <p><table><tr><td>Okelo SO, Wu AW, Krishnan JA, Rand CS, Skinner EA, Diette GB. Emotional quality-of-life and outcomes in adolescents with asthma. J Pediatr. 2004 Oct;145(4):523-9. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15480379" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Parchman ML, Culler S. Primary care physicians and avoidable hospitalizations. J Fam Pract. 1994 Aug;39(2):123-8. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8057062" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Price JH, Khubchandani J, McKinney M, Braun R. Racial/ethnic disparities in chronic diseases of youths and access to health care in the United States. Biomed Res Int. 2013;2013:787616. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24175301" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Sawicki GS, Vilk Y, Schatz M, Kleinman K, Abrams A, Madden J. Uncontrolled asthma in a commercially insured population from 2002 to 2007: trends, predictors, and costs. J Asthma. 2010 Jun;47(5):574-80. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20560831" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Weiss KB, Gergen PJ, Hodgson TA. An economic evaluation of asthma in the United States. N Engl J Med. 1992 Mar 26;326(13):862-6. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=1542323" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>World Health Organization (WHO). Asthma. Fact sheet no. 307. [internet]. Geneva (Switzerland): World Health Organization (WHO); 2011 May.&nbsp;</td></tr></table></p>
+                        <h3><a href="#">Primary Health Components</a></h3>
+                    <p><div class="content_para"><p>Asthma; emergency department (ED) visits; appropriateness; children</p></div></p>
+                        <h3><a href="#">Denominator Description</a></h3>
+                    <p><div class="content_para"><p>The denominator represents a random sample of patients age 2 to 5 years who have visited the emergency department (ED) for asthma (as a first or second diagnosis) and meet the specified criteria for having identifiable asthma.</p>
+<p>See the related "Denominator Inclusions/Exclusions" field.</p></div></p>
+                        <h3><a href="#">Numerator Description</a></h3>
+                    <p><div class="content_para"><p>The numerator is defined as the number of denominator events that that also satisfy at least one of the explicit appropriate use criteria and are in the random sample.</p>
+<p>See the related "Numerator Inclusions/Exclusions field.</p></div></p>
+
+            </div>
+                <h2 id="573" class="accordion-title section-573 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Criterion of Quality for the Measure</a></h3>
+                    <p><ul><li>A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence</li><li>A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences</li><li>A systematic review of the clinical research literature (e.g., Cochrane Review)</li><li>One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal</li></ul></p>
+                        <h3><a href="#">Additional Information Supporting Need for the Measure</a></h3>
+                    <p><div class="content_para"><p>Children with asthma comprise a critically important population for Medicaid.</p>
+<p>The developer's analysis of the 2011 National Survey of Children's Health (NSCH) suggests that more than 2.65 million children age 2 and above in Medicaid have at one time been told they have asthma. Further, of all children whose parents report them to be in fair or poor health, 40% have asthma. Children with asthma also are 23% less likely than those without to have their health reported as very good or excellent. Asthma spans the country with rates among Medicaid children (NSCH) ranging from 10.1% in Alaska to 28.8% in Kentucky. As a point of reference, 22.2% of Medicaid children in New York State have been told they have asthma. Asthma is prevalent in white, black, and Hispanic children in Medicaid and in all age groups. Nationally, more than 35 of every 1000 Medicaid children will visit the emergency department (ED) for asthma, with about 11% resulting in hospitalization (using Healthcare Cost and Utilization Project [HCUP] data).</p>
+<p>Among children with special health care needs, using the 2007 National Survey of Children with Special Health Care Needs (NS-CSHCN), minority children were found to be overrepresented with asthma. Thirty-eight percent of children with asthma have public insurance. One quarter (26%) live in households under the federal poverty line, 28% under twice the federal poverty line, and only 24% have incomes more than four times the federal poverty line. Nearly three quarters of these children have at least one sibling, with more than one-third of those siblings also having a special health care need, using Health Resources and Services Administration's (HRSA) screening tool to identify a CSHCN. It was also found that racial minorities, lower income, and household educational attainment were independent predictors of ED utilization among children with asthma. The analysis of New York State Medicaid data also shows about a 2.5 fold increase in the rate of using the ED of non-Hispanic blacks compared to non-Hispanic whites (non-Hispanic black greater than all Hispanic greater than non-Hispanic white greater than Asian). Asthma matters for all sorts of children in Medicaid.</p>
+<p>A study compared children insured by Medicaid to children insured by commercial payers in the same health maintenance organization and found that Medicaid-insured children were 1.4 times more likely to visit the ED for asthma and 1.3 times more likely to be hospitalized for asthma (Finkelstein et al., 2000). In addition, almost half of all hospitalizations of children for asthma are billed to Medicaid (Owens et al., 2003). Recent estimates using National Hospital Ambulatory Medical Care Survey (NHAMCS) data peg the overall costs of ED for childhood asthma at $272 million in 2010 (Pearson et al., 2014), even though their estimate of the number of ED visits is less than our estimation, which used HCUP data. Asthma ED use matters for Medicaid programs. Evidence from Oregon suggests that Medicaid ED visits increase with Medicaid expansion (Taubman et al., 2014). There may be supply shortages of primary care providers (PCPs), or some doctors may be unwilling to see Medicaid patients.</p>
+<p>ED use and hospitalization are considered to be potentially undesirable outcomes of asthma care. Some of these outcomes are challenging to prevent, resulting from refractory disease, unavoidable exposures, or environmental conditions that are outside the realm of clinical prevention. Many visits are avoidable, predicated upon optimal care delivery &ndash; that is, appropriate well-coordinated and continuous primary care that incorporates shared-decision making to optimize individual management using effective controller medications as appropriate, articulated in a written asthma management plan. Others are preventable when high quality acute care services are readily available. Environmental control writ small (e.g., avoiding exposure to cigarette smoke, wrapping mattresses in protective covers) and writ large (e.g., air quality) can reduce asthma exacerbations &ndash; these activities are typically outside of the clinical realm (Dick et al., 2014; Kearney et al., 2014; Roy, Downes, &amp; Wisnivesky, 2011; Roy et al., 2011; Roy &amp; Wisnivesky, "Comprehensive use," 2010; Roy &amp; Wisnivesky, "Racial and ethnic differences," 2010; Downes et al., 2010).</p></div></p>
+                        <h3><a href="#">Evidence for Additional Information Supporting Need for the Measure</a></h3>
+                    <p><table><tr><td>CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): appropriateness of emergency department visits for children and adolescents with identifiable asthma. Rockville (MD):  Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 63 p.  [115 references]</td></tr></table></p>
+                    <p><table><tr><td>Dick S, Doust E, Cowie H, Ayres JG, Turner S. Associations between environmental exposures and asthma control and exacerbations in young children: a systematic review. BMJ Open. 2014;4(2):e003827. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24523420" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Downes MJ, Roy A, McGinn TG, Wisnivesky JP. Factors associated with furry pet ownership among patients with asthma. J Asthma. 2010 Sep;47(7):742-9. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20684732" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Finkelstein JA, Barton MB, Donahue JG, Algatt-Bergstrom P, Markson LE, Platt R. Comparing asthma care for Medicaid and non-Medicaid children in a health maintenance organization. Arch Pediatr Adolesc Med. 2000 Jun;154(6):563-8. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10850502" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Kearney GD, Johnson LC, Xu X, Balanay JA, Lamm KM, Allen DL. Eastern Carolina Asthma Prevention Program (ECAPP): An Environmental Intervention Study Among Rural and Underserved Children with Asthma in Eastern North Carolina. Environ Health Insights. 2014;8:27-37. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25057240" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Owens PL, et al. Care of children and adolescents in U.S. hospitals. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2003 Oct. 60 p.&nbsp;(HCUP Fact Book; no. 4).&nbsp;</td></tr></table></p>
+                    <p><table><tr><td>Pearson WS, Goates SA, Harrykissoon SD, Miller SA. State-based Medicaid costs for pediatric asthma emergency department visits. Prev Chronic Dis. 2014;11:140139. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24967830" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Roy A, Downes MJ, Wisnivesky JP. Comprehensive environmental management of asthma and pediatric preventive care. Pediatr Allergy Immunol. 2011 May;22(3):277-82. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21457334" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Roy A, Sheffield P, Wong K, Trasande L. The effects of outdoor air pollutants on the costs of pediatric asthma hospitalizations in the United States, 1999 to 2007. Med Care. 2011 Sep;49(9):810-7. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21430578" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Roy A, Wisnivesky JP. Comprehensive use of environmental control practices among adults with asthma. Allergy Asthma Proc. 2010 Sep-Oct;31(5):72-7. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20929597" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Roy A, Wisnivesky JP. Racial and ethnic differences in the use of environmental control practices among children with asthma. J Asthma. 2010 Jun;47(5):507-12. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20536284" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Taubman SL, Allen HL, Wright BJ, Baicker K, Finkelstein AN. Medicaid increases emergency-department use: evidence from Oregon's Health Insurance Experiment. Science. 2014 Jan 17;343(6168):263-8. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24385603" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Extent of Measure Testing</a></h3>
+                    <p><div class="content_para"><p>For this measure, the developer conducted a single site age-stratified chart audit of patients with asthma seen in Mount Sinai's emergency department (ED). </p>
+<p><strong>Reliability</strong><br/>
+The explicit criteria were developed using a slightly modified version of the RAND/University of California at Los Angeles (UCLA) Appropriateness Method that maintained the key aspects of that approach, including a detailed literature review, a multidisciplinary and geographically diverse expert panel comprised of both clinicians and researchers, and the two round modified Delphi Process. The general reliability of this approach is well established (Fitch et al., 2001; Kosecoff et al., 1987). It has been applied successfully to pediatric services previously (Kleinman et al., 1994; Kleinman, Boyd, &amp; Heritage, 1997; Keyhani et al., 2008). In order to enhance the validity of the meaning of appropriate, limited criteria were used for this measure to those items whose median rating is 8 or 9, the two highest ratings.</p>
+<p>Testing of the criteria during chart audit used a paper data collection instrument that was largely a checklist of yes/no for the various items. After a brief training by the physician who organized the testing three non-clinical research assistants (one Master of Public Health [MPH], 2 Bachelors) conducted chart audits. Kappa on 10 random charts with the gold standard of the physician lead, were .696, .577 and .593 respectively, with a group kappa of .431. A second training session included identifying potential synonyms, particularly for labored breathing, such as "in respiratory distress", "notably increased respiratory effort", "nasal flaring", and "increased work of breathing or (WoB)." Synonyms for markedly decreased breath sounds were defined to include poor "air exchange" or "air entry." A subsequent reevaluation of kappa on 10 different random charts found kappas with the physician lead to be .969, .954 and .938, with a group kappa of .923, indicating excellent agreement in the reliability of the chart audit to identify numerator events after two training sessions with review practiced in between. </p>
+<p>Testing of the administrative data analysis approach in New York State Medicaid (analyses performed by the New York State Department of Health) identified 62,052 ED visits or hospitalizations for asthma, of which 59,469 (95.8%) were identified using ED data alone and 2,583 on the basis of hospital codes alone. A distinct analysis conducted for Collaboration for Advancing Pediatric Quality Measures (CAPQuaM) by the New York State Department of Health team using Statewide Planning and Research Cooperative System (SPARCS) data found that approximately 81% of all Medicaid hospitalizations for asthma came from the ED. Performing the calculations suggests that failure to look at hospitalizations for asthma in addition to ED visits would miss 2,087 ED visits in the denominator, all of which would also qualify for the numerator.</p>
+<p><strong>Validity</strong><br/>
+The developer randomly identified up to 3 ED visits per child over a four year period (October 2009 to November 2013). Inclusion criteria included an ED visit with asthma as a primary or secondary diagnosis as documented in the medical record. Three samples were developed, stratified by age: 2 to 5 years, 6 to 11 years, and 12 to 18 years. </p>
+<p>For children 2 to 5: 181 of 335 audits (54.0%) were deemed appropriate based upon information in the chart audit. Reasons for meeting the criteria included low oxygen saturation (2.1%), referral from their primary care provider (PCP) (8.4%), and various manifestations of respiratory distress (labored breathing/retractions 46.6%, accessory muscle use 13.4%, markedly decreased breath sounds 13.1%). No arterial blood gasses or specialist consultations in the ED were ordered. 14.0% were admitted to the hospital. </p>
+<p>For children 6 to 11: 209 of 477 audits (43.8%) were deemed appropriate based upon information in the chart audit. Reasons for meeting the criteria included low oxygen saturation (1.9%), referral from their PCP (4.4%), and various manifestations of respiratory distress (labored breathing/retractions 36.1%, accessory muscle use 7.5%, markedly decreased breath sounds 15.9%). No arterial blood gasses or specialist consultations in the ED were ordered. 11.5% were admitted to the hospital. </p>
+<p>Adolescents aged 12 to 18: 165 of 341 audits (48.4%) were deemed appropriate based upon information in the chart audit. Reasons for meeting the criteria included low oxygen saturation (0.3%), referral from their PCP (2.3%), and various manifestations of respiratory distress (labored breathing/retractions 35.1%, accessory muscle use 6.4%, markedly decreased breath sounds 22.5%). No arterial blood gasses or specialist consultations in the ED were ordered. 12.9% were admitted to the hospital. </p>
+<p>Appropriateness varied by age (Chi<sup>2</sup>=8.2, p=.02), with younger (p=.01) and school aged (p=.01) children each being significantly different; Adolescents experienced a level of appropriateness intermediate to the other two groups and were not significantly different from them when combined (i.e., comparing adolescents to all others). Racial differences were also found with Hispanics at 44.1% appropriateness, non-Hispanic blacks at 51.3%, whites at 56.5% and all others at 72.2%. Chi square with 3 degrees of freedom was 15.4, with p=.0015. The appropriateness of ED visits for Hispanic children was less than for other children (p=.002). </p>
+<p>In summary, this measure was developed using a rigorous process that integrated the literature, stakeholder perspectives, an expert panel, and a rigorous testing process. The developer has previously demonstrated the validity of identifiable asthma as a meaningful construct. They use well accepted methods to identify emergency department visits, and performed a rigorous test to demonstrate both the reliability of the chart audit and the capacity to identify variations in performance across categorical variables such as age and race.</p></div></p>
+                        <h3><a href="#">Evidence for Extent of Measure Testing</a></h3>
+                    <p><table><tr><td>CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): appropriateness of emergency department visits for children and adolescents with identifiable asthma. Rockville (MD):  Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 63 p.  [115 references]</td></tr></table></p>
+                    <p><table><tr><td>Fitch K, et al. The RAND/UCLA appropriateness method user's manual. Arlington (VA): RAND; 2001. 123 p. </td></tr></table></p>
+                    <p><table><tr><td>Keyhani S, Kleinman LC, Rothschild M, Bernstein JM, Anderson R, Chassin M. Overuse of tympanostomy tubes in New York metropolitan area: evidence from five hospital cohort. BMJ. 2008;337:a1607. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18835846" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Kleinman LC, Boyd EA, Heritage JC. Adherence to prescribed explicit criteria during utilization review. An analysis of communications between attending and reviewing physicians. JAMA. 1997 Aug 13;278(6):497-501. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9256225" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Kleinman LC, Kosecoff J, Dubois RW, Brook RH. The medical appropriateness of tympanostomy tubes proposed for children younger than 16 years in the United States. JAMA. 1994 Apr 27;271(16):1250-5. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7710469" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                    <p><table><tr><td>Kosecoff J, Fink A, Brook RH, Chassin MR. The appropriateness of using a medical procedure. Is information in the medical record valid?. Med Care. 1987 Mar;25(3):196-201. <a href="https://web.archive.org/web/20180620202301/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=3821224" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+
+            </div>
+                <h2 id="580" class="accordion-title section-580 is-active" role="tab" aria-expanded="true"><a href="#">State of Use of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">State of Use</a></h3>
+                    <p>Current routine use</p>
+                        <h3><a href="#">Current Use</a></h3>
+                    <p>Internal quality improvement</p>
+
+            </div>
+                <h2 id="583" class="accordion-title section-583 is-active" role="tab" aria-expanded="true"><a href="#">Application of the Measure in its Current Use</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measurement Setting</a></h3>
+                    <p>Emergency Department</p>
+                    <p>Hospital Outpatient</p>
+                        <h3><a href="#">Professionals Involved in Delivery of Health Services</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Nurses</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Least Aggregated Level of Services Delivery Addressed</a></h3>
+                    <p>Clinical Practice or Public Health Sites</p>
+                        <h3><a href="#">Statement of Acceptable Minimum Sample Size</a></h3>
+                    <p>Specified</p>
+                        <h3><a href="#">Target Population Age</a></h3>
+                    <p><div class="content_para"><p>Age 2 to 5 years</p></div></p>
+                        <h3><a href="#">Target Population Gender</a></h3>
+                    <p>Either male or female</p>
+
+            </div>
+                <h2 id="660" class="accordion-title section-660 is-active" role="tab" aria-expanded="true"><a href="#">National Strategy for Quality Improvement in Health Care</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">National Quality Strategy Aim</a></h3>
+                    <p>Better Care</p>
+                        <h3><a href="#">National Quality Strategy Priority</a></h3>
+                    <p>Prevention and Treatment of Leading Causes of Mortality</p>
+
+            </div>
+                <h2 id="590" class="accordion-title section-590 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Health Care Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+
+            </div>
+                <h2 id="593" class="accordion-title section-593 is-active" role="tab" aria-expanded="true"><a href="#">Data Collection for the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Case Finding Period</a></h3>
+                    <p><div class="content_para"><p>The reporting year</p></div></p>
+                        <h3><a href="#">Denominator Sampling Frame</a></h3>
+                    <p>Patients associated with provider</p>
+                        <h3><a href="#">Denominator (Index) Event or Characteristic</a></h3>
+                    <p>Clinical Condition</p>
+                    <p>Encounter</p>
+                    <p>Patient/Individual (Consumer) Characteristic</p>
+                        <h3><a href="#">Denominator Time Window</a></h3>
+                    <p>Time window precedes index event</p>
+                        <h3><a href="#">Denominator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+The denominator represents a random sample of patients age 2 to 5 years who have visited the emergency department (ED) for asthma (as a first or second diagnosis) and meet the specified criteria for having identifiable asthma.</p>
+<p>The presence of identifiable asthma is established each month from administrative data using the specified algorithm and evidence includes: </p>
+<ul style="list-style-type: disc;">
+    <li>Any prior hospitalization with asthma as primary or secondary diagnosis
+    <p><strong>OR</strong></p>
+    </li>
+    <li>Other qualifying events:
+    <ul style="list-style-type: disc;">
+        <li>Three or more ambulatory visits with diagnosis of asthma or bronchitis, <strong>OR </strong></li>
+        <li>Two or more ambulatory visits with a diagnosis of asthma and/or bronchitis <strong>AND</strong> one or more asthma-related prescriptions </li>
+    </ul>
+    </li>
+</ul>
+<p class="Note"><strong>Note</strong>:</p>
+<ul class="Note" style="list-style-type: disc;">
+    <li>Refer to Table 1 in the original measure documentation for Current Procedural Terminology (CPT), Revenue, International Classification of Diseases, Ninth Revision [ICD-9], and International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] codes, and asthma related medications associated with the criteria for assessing identifiable asthma. </li>
+    <li>For eligibility purposes, <strong>asthma-related medicine </strong>means long-acting beta-agonist (alone or in combination) or inhaled corticosteroid (alone or in combination), antiasthmatic combinations, methylxanthines (alone or in combination), and/or mast cell stabilizers. </li>
+    <li>All events in the administrative data should be associated with a date of service. </li>
+</ul>
+<p><strong>Exclusions</strong></p>
+<ul>
+    <li>Children with concurrent or pre-existing:
+    <ul style="list-style-type: disc;">
+        <li>Chronic obstructive pulmonary disease (COPD) diagnosis (ICD-9 code: 496, ICD-10-CM code: J44); </li>
+        <li>Cystic fibrosis diagnosis (ICD-9 code 277.0, 277.01. 277.02, 277.03, 277.09) (ICD-10-CM code: E84); </li>
+        <li>Emphysema diagnosis (ICD-9 code 492xx) (ICD-10-CM code: J43) </li>
+    </ul>
+    </li>
+    <li>Children without a prior established medical history of an asthma diagnosis of at time of ED visit </li>
+    <li>Any child that does not meet the age requirement </li>
+    <li>Failure to have three months of continuous enrollment including the reporting month </li>
+</ul></div></p>
+                        <h3><a href="#">Exclusions/Exceptions</a></h3>
+                    <p>Medical factors addressed</p>
+                        <h3><a href="#">Numerator Inclusions/Exclusions</a></h3>
+                    <p><div class="content_para"><p><strong>Inclusions</strong><br/>
+The numerator is defined as the number of denominator events that that also satisfy at least one of the explicit appropriate use criteria and are in the random sample (refer to Section II, Technical Specifications, of the original measure documentation).</p>
+<p>Presence or absence of documented evidence of any of the following: </p>
+<ul style="list-style-type: disc;">
+    <li>The child or adolescent was transferred or admitted to an inpatient hospital directly from the emergency department (ED) (may be administrative or chart review evidence). </li>
+    <li>The child or adolescent was referred to the ED by their primary care clinician or other clinician after being evaluated </li>
+    <li>Prior to arrival in the ED, the child received two or more doses of inhaled rescue medications for the episode without clinical improvement (documentation of parent/caregiver report sufficient) </li>
+    <li>Prior to arrival to the ED the child was found to be in a pre-defined and individualized "red zone" of peak flow measurement (documentation of parent/caregiver report sufficient) </li>
+    <li>Physical exam evidence of respiratory distress or labored breathing in the ED, such as:
+    <ul style="list-style-type: disc;">
+        <li>Retractions, </li>
+        <li>Accessory muscle use, <strong>OR</strong> </li>
+        <li>Markedly decreased breath sounds </li>
+    </ul>
+    </li>
+    <li>An oxygen (O<sub>2</sub>) saturation less than 90% </li>
+    <li>An arterial blood gas (ABG) test was obtained </li>
+    <li>A consult with a pulmonologist or other asthma specialist was obtained in the ED </li>
+</ul>
+<p><strong>Exclusions</strong><br/>
+Numerator events occurring in patients who do not meet denominator criteria OR are not in the random sample for inclusion</p></div></p>
+                        <h3><a href="#">Numerator Search Strategy</a></h3>
+                    <p>Fixed time period or point in time</p>
+                        <h3><a href="#">Data Source</a></h3>
+                    <p>Administrative clinical data</p>
+                    <p>Electronic health/medical record</p>
+                    <p>Paper medical record</p>
+                        <h3><a href="#">Type of Health State</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Instruments Used and/or Associated with the Measure</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+
+            </div>
+                <h2 id="605" class="accordion-title section-605 is-active" role="tab" aria-expanded="true"><a href="#">Computation of the Measure</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Measure Specifies Disaggregation</a></h3>
+                    <p>Does not apply to this measure</p>
+                        <h3><a href="#">Scoring</a></h3>
+                    <p>Rate/Proportion</p>
+                        <h3><a href="#">Interpretation of Score</a></h3>
+                    <p>Desired value is a higher score</p>
+                        <h3><a href="#">Allowance for Patient or Population Factors</a></h3>
+                    <p>Analysis by subgroup (stratification by individual factors, geographic factors, etc.)</p>
+                        <h3><a href="#">Description of Allowance for Patient or Population Factors</a></h3>
+                    <p><div class="content_para"><p><strong>Stratification Variables</strong>:</p>
+<ul style="list-style-type: disc;">
+    <li>Race/ethnicity: Hispanic, non-Hispanic black, non-Hispanic white; non-Hispanic Asian/Pacific Islander, other non-Hispanic </li>
+    <li>Public vs. commercial (private insurance) </li>
+    <li>Health Maintenance Organization (HMO) vs. Preferred Provider Organization (PPO) vs. Fee for Service (FFS) vs. Primary Care Case Management (PCCM) vs. other; within Medicaid, states may ask for reporting of FFS vs. Managed Care or other relevant enrollment categories. </li>
+    <li>Urban Influence Code (UIC). Identify the UIC. Use parent or primary caregiver's place of residence to determine UIC. </li>
+    <li>Identify the level of poverty in the parent or primary caregiver's county of residence. Stratification standards are based on 2011 US population data analyzed with SAS 9.3. Using parent or primary caregiver's state and county of residence (or equivalent) or FIPS code, use the variable PCTPOVALL_2011 to categorize into one of 5 strata:
+    <ul style="list-style-type: disc;">
+        <li>Lowest quartile of poverty if percent in poverty is less than or equal to 12.5% </li>
+        <li>Second quartile of poverty if percent in poverty is greater than 12.5% and less than or equal to 16.5% </li>
+        <li>Third quartile of poverty if percent in poverty is greater than 16.5% and less than or equal to 20.7% </li>
+        <li>First upper quartile (75th to 90th) if percent in poverty is greater than 20.7% and less than or equal to 25.7% </li>
+        <li>Second upper quartile (greater than 90th percentile) </li>
+    </ul>
+    </li>
+</ul>
+<p class="Note"><strong>Note</strong>: Refer to the original measure documentation for URLs to obtain codes and additional details.</p></div></p>
+                        <h3><a href="#">Standard of Comparison</a></h3>
+                    <p>External comparison at a point in, or interval of, time</p>
+                    <p>External comparison of time trends</p>
+                    <p>Internal time comparison</p>
+
+            </div>
+                <h2 id="615" class="accordion-title section-615 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Original Title</a></h3>
+                    <p><div class="content_para"><p>Appropriateness of emergency department visits for children and adolescents with identifiable asthma.</p></div></p>
+                        <h3><a href="#">Measure Collection Name</a></h3>
+                    <p>Emergency Department Use for Children with Asthma -- Appropriateness Set</p>
+                        <h3><a href="#">Submitter</a></h3>
+                    <p>Collaboration for Advancing Pediatric Quality Measures - Health Care Quality Collaboration</p>
+                        <h3><a href="#">Developer</a></h3>
+                    <p>Collaboration for Advancing Pediatric Quality Measures - Health Care Quality Collaboration</p>
+                        <h3><a href="#">Funding Source(s)</a></h3>
+                    <p><div class="content_para"><p>This work was funded by the Agency for Healthcare Research and Quality (AHRQ) and the Centers for Medicare &amp; Medicaid Services (CMS) under the CHIPRA Pediatric Quality Measures Program Centers of Excellence grant number U18 HS020518.</p></div></p>
+                        <h3><a href="#">Composition of the Group that Developed the Measure</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Other Potential Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>This measure was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date of Most Current Version in NQMC</a></h3>
+                    <p>2014 Aug</p>
+                        <h3><a href="#">Measure Maintenance</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Date of Next Anticipated Revision</a></h3>
+                    <p><div class="content_para"><p>Unspecified</p></div></p>
+                        <h3><a href="#">Measure Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the measure.</p></div></p>
+                        <h3><a href="#">Source(s)</a></h3>
+                    <p><table><tr><td>CHIPRA Pediatric Quality Measures Program (PQMP) candidate measure submission form (CPCF): appropriateness of emergency department visits for children and adolescents with identifiable asthma. Rockville (MD):  Collaboration for Advancing Pediatric Quality Measures (CAPQuaM); 63 p.  [115 references]</td></tr></table></p>
+                        <h3><a href="#">Measure Availability</a></h3>
+                    <p><div class="content_para"><p>Source available from the <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=48549&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.capquam.org%2fdocs%2fAsthma%2fAHRQ%2520CPCF%2520and%2520NQMC_CAPQuaM_Asthma%2520FINAL%25208.8.14.pdf" title="CAPQuaM Web site">Collaboration for the Advancement of Pediatric Quality Measures (CAPQuaM) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>. </p>
+<p>For more information, contact Dr. Lawrence Kleinman, Director of CAPQuaM at the Icahn School of Medicine at Mount Sinai, Department of Population Health and Policy at 1 Gustave L. Levy Place, Box 1077, New York, NY 10029; Phone: 212-659-9567; E-mail: <a href="https://web.archive.org/web/20180620202301/mailto:Lawrence.Kleinman@mountsinai.org">Lawrence.Kleinman@mountsinai.org</a>; Web site: <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/Home/Disclaimer?id=48549&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.capquam.org%2f" title="CAPQuaM Web site">www.capquam.org</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/icon_externallink.gif"/>. </p></div></p>
+                        <h3><a href="#">NQMC Status</a></h3>
+                    <p><div class="content_para"><p>This NQMC summary was completed by ECRI Institute on July 13, 2015. The information was not verified by the measure developer.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.</p>
+<p>Users may download and use the measure(s) with attribution that these are Collaboration for Advancing Pediatric Quality Measures (CAPQuaM) measures part of the CHIPRA Pediatric Quality Measures Program (PQMP) and the CAPQuaM measure developers are willing to make themselves available for consultation on a case by case basis.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NQMC Disclaimer</a></h3>
+                    <p><p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria">NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NQMC Measure Summaries</h3>
+            <p>NQMC provides structured summaries containing information about measures and their development.</p>
+            <ul>
+                <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/domain-framework" class="internal-link">Domain Framework</a></li>
+                <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/template-of-measure-attributes" class="internal-link">Template of Measure Attributes</a></li>
+                <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about/summaries/faqs" class="help-button">Measure Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NQMC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+    
+    <a class="block-link" href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/disclaimer?id=48549&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.svg">
+					  	<img src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_NQMC_footer.png" alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/">Home</a></li>
+		                <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/summaries/submit">Submit Measures</a></li>
+						<li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180620202301/https://www.qualitymeasures.ahrq.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://web.archive.org/web/20180620202301/https://www.guideline.gov/" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.svg">
+									<img src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180620202301/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180620202301im_/https://www.qualitymeasures.ahrq.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180620202301/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180620202301js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180620202301js_/https://www.qualitymeasures.ahrq.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:23:01 Jun 20, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:40:15 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 2331.49 (3)
+  esindex: 0.012
+  captures_list: 2363.183
+  CDXLines.iter: 17.278 (3)
+  PetaboxLoader3.datanode: 88.438 (4)
+  exclusion.robots: 0.32
+  exclusion.robots.policy: 0.299
+  RedisCDXSource: 9.651
+  PetaboxLoader3.resolve: 2234.212
+  load_resource: 21.386
+-->
