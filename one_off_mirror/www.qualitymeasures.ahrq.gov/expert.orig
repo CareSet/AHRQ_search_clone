@@ -1,0 +1,746 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Expert Commentaries | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class="is-active"><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+
+	<div class="content">
+
+
+
+    <h1 class="prefix-icon large-icon commentary">Expert Commentaries</h1>
+    <p>
+        <span>Editorial insights on current issues of importance to the measure and/or guideline fields including perspectives on trends in measure development and/or guidelines, reviews/critiques of measures/guidelines, comments on topics related to evidence-based medicine, or similar themes.</span>    
+    </p>
+        
+        <a href="/expert/toggleexpertcommentary?alert=True" class="edit-button">Get Expert Commentary Email Alerts</a>
+    <hr />
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+<div class="filter-content">
+    <div class="accordion-secondary">
+        <h2><strong>Newest Commentary</strong> (6/20/2016)</h2>
+        <div class="list-item-medium">
+                <p><a href="/expert/expert-commentary/50333/feasibility-of-preventable-readmission-rate-as-a-quality-measure">Feasibility of Preventable Readmission Rate as a Quality Measure</a> <i></i></p>
+                <p>By: Christine Soong, MD, MSc</p>
+            </div>
+        <hr />     
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Jun 2016</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/50301/measuring-patient-safety-events-opportunities-and-challenges">Measuring Patient Safety Events: Opportunities and Challenges</a> <i></i></p>
+                <p>By: Amy K. Rosen, PhD, Qi Chen, MD, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Nov 2015</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/49659/measurement-of-diagnostic-errors-is-a-key-first-step-to-their-reduction">Measurement of Diagnostic Errors Is a Key First Step to Their Reduction</a> <i></i></p>
+                <p>By: Hardeep Singh, MD, MPH</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Apr 2015</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/49125/developing-and-implementing-quality-measures-for-multiple-chronic-conditions">Developing and Implementing Quality Measures for Multiple Chronic Conditions</a> <i></i></p>
+                <p>By: Elizabeth A. Bayliss, MD, MPH</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Feb 2015</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/48982/challenges-and-opportunities-for-improving-quality-of-care-and-outcomes-for-lupus">Challenges and Opportunities for Improving Quality of Care and Outcomes for Lupus</a> <i></i></p>
+                <p>By: Jinoos Yazdany, MD, MPH</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Jan 2015</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/48933/clinician-responses-to-using-patientreported-outcome-measures-for-quality-improvement">Clinician Responses to Using Patient-Reported Outcome Measures for Quality Improvement</a> <i></i></p>
+                <p>By: Maria B. Boyce, John P. Browne, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>May 2014</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/47927/making-clinical-diagnoses-how-measureable-is-the-process">Making Clinical Diagnoses: How Measureable Is the Process?</a> <i></i></p>
+                <p>By: Robert El-Kareh, MD, MPH</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Apr 2014</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/47908/prospects-for-comparing-hospital-performance-internationally-on-the-basis-of-quality-and-safety">Prospects for Comparing Hospital Performance Internationally on the Basis of Quality and Safety</a> <i></i></p>
+                <p>By: Susan Burnett</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Apr 2014</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/47906/not-just-little-adults-considerations-for-quality-measures-of-child-health-care">Not Just Little Adults: Considerations for Quality Measures of Child Health Care</a> <i></i></p>
+                <p>By: Jean Raphael, MD, MPH, Matthew Sadof, MD, Christopher Stille, MD, MPH, Sara Toomey, MD, David Keller, MD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Mar 2014</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/47896/not-just-little-adults-policies-to-support-medical-home-transformation-in-pediatric-practice">Not Just Little Adults: Policies to Support Medical Home Transformation in Pediatric Practice</a> <i></i></p>
+                <p>By: David Keller, MD, Sara Toomey, MD, Jean Raphael, MD, MPH, Matthew Sadof, MD, Christopher Stille, MD, MPH</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Mar 2014</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/47856/medication-administration-errors-in-hospitals---challenges-and-recommendations-for-their-measurement">Medication Administration Errors in Hospitals &mdash; Challenges and Recommendations for Their Measurement</a> <i></i></p>
+                <p>By: Monsey McLeod, MPharm, MSc, PhD, Nick Barber, BPharm, PhD, Bryony Dean Franklin, BPharm, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Aug 2013</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/47059/steps-for-assuring-rigor-and-adequate-patient-representation-when-using-patientreported-outcome-performance-measures">Steps for Assuring Rigor and Adequate Patient Representation When Using Patient-reported Outcome Performance Measures</a> <i></i></p>
+                <p>By: Ethan Basch, MD, MSc, Albert Wu, MD, MPH, Carol M. Moinpour, PhD, Maria-Jose Santana, PhD, Andrea Pusic, MD, Claire Snyder, PhD, Hwee-Lin Wee, PhD, Jose M. Valderas, MD, PhD, MPH, Bryce B. Reeve, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Jul 2013</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/46907/measuring-and-comparing-patients-experiences-in-emergency-departments-a-perspective-based-on-englands-national-health-service-nhs-experience">Measuring and Comparing Patients' Experiences in Emergency Departments: A Perspective Based on England's National Health Service (NHS) Experience</a> <i></i></p>
+                <p>By: Chris Graham, Nanne Bos, PhD Student</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Jul 2013</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/46724/ngc-and-nqmc-survey-responses-generate-enhancement-and-growth">NGC and NQMC Survey Responses Generate Enhancement and Growth</a> <i></i></p>
+                <p>By: The National Guideline Clearinghouse and National Quality Measures Clearinghouse Teams</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Apr 2013</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/45026/the-joint-commissions-asthma-care-measure-set-how-does-it-measure-up">The Joint Commission's Asthma Care Measure Set: How Does It Measure Up?</a> <i></i></p>
+                <p>By: Shilpa J. Patel, MD, Lora Bergert, MD, Christopher A. Longhurst, MD, MS, Paul J. Sharek, MD, MPH</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Mar 2013</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/43902/treat-the-system-not-the-error-patient-safety-in-2013">Treat the System, Not the Error: Patient Safety in 2013</a> <i></i></p>
+                <p>By: Sumant Ranji, MD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Nov 2012</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/38616/importance-of-quality-metrics-for-providing-high-quality-melanoma-care">Importance of Quality Metrics for Providing High Quality Melanoma Care</a> <i></i></p>
+                <p>By: Karl Y. Bilimoria, MD, MS</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Jun 2012</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/37562/eliminating-hospital-readmissions-no-hospital-left-behind">Eliminating Hospital Re-admissions: "No Hospital Left Behind"?</a> <i></i></p>
+                <p>By: R. Neal Axon, MD, MSCR, Mark V. Williams, MD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>May 2012</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/36851/quality-measures-patientreported-outcomes-for-quality-improvement-of-clinical-practice">Quality Measures: Patient-Reported Outcomes for Quality Improvement of Clinical Practice</a> <i></i></p>
+                <p>By: Kathleen N. Lohr, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Apr 2012</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/36833/advancing-the-quality-of-pancreatic-cancer-care">Advancing the Quality of Pancreatic Cancer Care</a> <i></i></p>
+                <p>By: Karl Y. Bilimoria, MD, MS</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Jan 2012</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/35106/consensusbased-selection-criteria-for-accountability-measures-viewpoint-from-the-national-quality-measures-clearinghousenational-guideline-clearinghouse-editorial-board">Consensus-based Selection Criteria for Accountability Measures: Viewpoint from the National Quality Measures Clearinghouse/National Guideline Clearinghouse Editorial Board</a> <i></i></p>
+                <p>By: NQMC/NGC Editorial Board: Richard C. Hermann, MD, MS (co-chair), Paul G. Shekelle, MD, MPH, PhD (co-chair), Ethan Balk, MD, MPH, JiWon Jane S. Jue, MD, MSc, Jerod M. Loeb, PhD, Kathleen N. Lohr, PhD, and Eric C. Schneider, MD, MSc</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Dec 2011</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/34982/value-of-the-national-databases-it-all-depends-on-how-we-use-them">Value of the National Databases: It All Depends on How We Use Them</a> <i></i></p>
+                <p>By: Hiroto Ito, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Oct 2011</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/34662/performance-measures-for-evaluation-and-quality-improvement-in-the-care-of-individuals-with-a-first-episode-psychosis">Performance Measures for Evaluation and Quality Improvement in the Care of Individuals with a First Episode Psychosis</a> <i></i></p>
+                <p>By: Donald Addington, MBBS, MRCPsych, FRCPC</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Jul 2011</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/34158/home-is-where-the-laboratory-is-the-pcmh-as-a-laboratory-for-performance-measure-development">Home Is Where the Laboratory Is: The PCMH as a Laboratory for Performance Measure Development</a> <i></i></p>
+                <p>By: Asaf Bitton, MD, MPH, FACP and Eric C. Schneider, MD, MSc, FACP</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>May 2011</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/32943/introduction-to-lean-and-six-sigma-approaches-to-quality-improvement">Introduction to Lean and Six Sigma Approaches to Quality Improvement</a> <i></i></p>
+                <p>By: Justin Glasgow, MS</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Apr 2011</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/32476/improving-ambulatory-quality-of-care---lessons-from-payforperformance">Improving Ambulatory Quality of Care &mdash; Lessons from Pay-for-Performance</a> <i></i></p>
+                <p>By: Sukyung Chung, PhD and Harold S Luft, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Mar 2011</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/25658/pay-for-performance-in-uk-general-practice---the-ambiguous-impact-of-the-quality-and-outcomes-framework">Pay for Performance in UK General Practice &ndash; The Ambiguous Impact of the Quality and Outcomes Framework</a> <i></i></p>
+                <p>By: Stephen J. Gillam, MD FRCP FRCGP</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Dec 2010</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/24555/promoting-transparent-and-actionable-clinical-practice-guidelines-viewpoint-from-the-national-quality-measures-clearinghousenational-guideline-clearinghouse-nqmcngc-editorial-board">Promoting Transparent and Actionable Clinical Practice Guidelines: Viewpoint from the National Quality Measures Clearinghouse/National Guideline Clearinghouse (NQMC/NGC) Editorial Board</a> <i></i></p>
+                <p>By: NGC/NQMC Editorial Board: Richard C. Hermann, MD, MS (co-chair), Paul G. Shekelle, MD, MPH, PhD (co-chair), Ethan Balk, MD, MPH, Jerod M. Loeb, PhD, Kathleen N. Lohr, PhD, Mark J. Monteforte, MD, Eric C. Schneider, MD, MSc, and Robert Wachter, MD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Aug 2010</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/23915/surmounting-the-challenges-of-measuring-and-improving-quality-in-ambulatory-care">Surmounting the Challenges of Measuring and Improving Quality in Ambulatory Care</a> <i></i></p>
+                <p>By: David Nyweide, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Jul 2010</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/23791/focus-on-accessibility-results-in-improved-function-and-content-for-nqmc-and-ngc">Focus on Accessibility Results in Improved Function and Content for NQMC and NGC</a> <i></i></p>
+                <p>By: Elizabeth Willingham, Lisa T. Haskell, Vivian H. Coates, and Mary P. Nix</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Jun 2010</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/23789/interoperable-electronic-health-records-and-quality-of-care">Interoperable Electronic Health Records and Quality of Care</a> <i></i></p>
+                <p>By: Lisa M. Kern, MD, MPH and Rainu Kaushal, MD, MPH</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>May 2010</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/23790/an-integrated-approach-to-developing-health-care-guidelines-and-measures">An Integrated Approach to Developing Health Care Guidelines and Measures</a> <i></i></p>
+                <p>By: Cally Vinz, RN, Joann Foreman, RN, and Kathy Cummings, RN</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Feb 2010</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16453/new-directions-for-health-care-information-technology">New Directions for Health Care Information Technology</a> <i></i></p>
+                <p>By: William W. Stead, MD and Herbert S. Lin, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Nov 2009</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16454/a-selection-of-statistical-process-control-tools-used-in-monitoring-health-care-performance">A Selection of Statistical Process Control Tools Used in Monitoring Health Care Performance</a> <i></i></p>
+                <p>By: Stephen Schmaltz, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Oct 2009</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16455/envisioning-the-next-generation-of-performance-measures-for-ambulatory-care">Envisioning the Next Generation of Performance Measures for Ambulatory Care</a> <i></i></p>
+                <p>By: Stephen D. Persell, MD, MPH</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Sep 2009</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16456/national-quality-measurement-systems-for-assessment-of-nursing-home-care">National Quality Measurement Systems for Assessment of Nursing Home Care</a> <i></i></p>
+                <p>By: Ning Jackie Zhang, MD, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Aug 2009</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16457/on-quality-measurement-babies-and-bathwater">On Quality Measurement, Babies, and Bathwater</a> <i></i></p>
+                <p>By: Robert M. Wachter, MD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Aug 2009</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16458/electronic-health-records-in-a-large-integrated-health-system-its-automatic-not-at-least-not-yet">Electronic Health Records in a Large, Integrated Health System: It's Automatic....NOT! At Least, Not Yet.</a> <i></i></p>
+                <p>By: Jed Weissberg, MD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Jul 2009</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16459/why-are-there-no-efficiency-measures-in-the-national-quality-measures-clearinghouse">Why Are There No Efficiency Measures in the National Quality Measures Clearinghouse?</a> <i></i></p>
+                <p>By: Peter S. Hussey, PhD and Elizabeth A. McGlynn, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Jun 2009</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16460/user-perspectives-an-overview-of-the-clearinghouse-survey-results">User Perspectives: An Overview of the Clearinghouse Survey Results</a> <i></i></p>
+                <p>By: The National Guideline and National Quality Measures Clearinghouse Management Team</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>May 2009</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16461/evaluating-evidence-in-the-development-of-performance-measures">Evaluating Evidence in the Development of Performance Measures</a> <i></i></p>
+                <p>By: Rebecca A. Kresowik, BLS and Timothy F. Kresowik, MD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Apr 2009</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16462/hospital-process-measures-only-one-piece-of-the-quality-improvement-puzzle">Hospital Process Measures: Only One Piece of the Quality Improvement Puzzle</a> <i></i></p>
+                <p>By: Rachel M. Werner, MD, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Mar 2009</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16463/accessing-clinical-information-to-enrich-performance-measurement-the-wisconsin-experience">Accessing Clinical Information to Enrich Performance Measurement: The Wisconsin Experience</a> <i></i></p>
+                <p>By: Christopher Queram, MA</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Nov 2008</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16464/composite-measures-matching-the-method-to-the-purpose">Composite Measures: Matching the Method to the Purpose</a> <i></i></p>
+                <p>By: Michael Shwartz, PhD and Arlene S. Ash, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Oct 2008</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16466/importance-of-patientreported-outcomes-for-quality-improvement">Importance of Patient-Reported Outcomes for Quality Improvement</a> <i></i></p>
+                <p>By: Darren A. DeWalt, MD, MPH and Dennis A. Revicki, PhD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Sep 2008</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16467/assessing-the-quality-of-mental-health-care-in-low-and-middleincome-countries">Assessing the Quality of Mental Health Care in Low- and Middle-Income Countries</a> <i></i></p>
+                <p>By: Jodi Morris, PhD and Shekhar Saxena, MD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Aug 2008</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16468/the-public-reporting-of-performance-data-an-intervention-in-need-of-more-evaluation">The Public Reporting of Performance Data: An Intervention in Need of More Evaluation</a> <i></i></p>
+                <p>By: Constance H. Fung, MD, MSHS</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Jul 2008</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16469/broadening-the-quality-measurement-landscape-the-importance-of-competence">Broadening the Quality Measurement Landscape: The Importance of Competence</a> <i></i></p>
+                <p>By: Eric S. Holmboe, MD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Jun 2008</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16465/the-american-heart-associations-get-with-the-guidelines-program-key-findings-and-lessons-learned">The American Heart Association's "Get With The Guidelines" Program: Key Findings and Lessons Learned</a> <i></i></p>
+                <p>By: Gregg C. Fonarow, MD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Apr 2008</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16470/wanted-delivery-systemlevel-performance-measures">Wanted: Delivery System-Level Performance Measures</a> <i></i></p>
+                <p>By: Thomas H. Lee, MD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Mar 2008</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16472/is-the-measurement-mandate-diverting-the-patient-safety-revolution">Is the Measurement Mandate Diverting the Patient Safety Revolution?</a> <i></i></p>
+                <p>By: Robert M. Wachter, MD</p>
+            </div><!-- /news-list-item -->
+            <div class="list-item-medium">
+                <ul class="item-meta">
+                    <li>Dec 2007</li>
+                </ul>
+                <p><a href="/expert/expert-commentary/16471/a-season-for-change">A Season for Change</a> <i></i></p>
+                <p>By: NQMC Editorial Staff</p>
+            </div><!-- /news-list-item -->
+    </div>
+</div>
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
