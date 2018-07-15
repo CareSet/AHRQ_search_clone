@@ -1,0 +1,1110 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app43.us.archive.org';v.server_ms=1909;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>American Geriatrics Society abstracted clinical practice guideline for postoperative delirium in older adults. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712203655im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712203655im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712203655im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712203655im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712203655/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712203655im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712203655cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712203655js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712203655if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712203655/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712203655if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712203655/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712203655/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712203655/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712203655/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712203655im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712203655im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712203655im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712203655/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712203655/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712203655/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712203655/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712203655/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712203655/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712203655/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712203655/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712203655/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712203655/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712203655/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712203655/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712203655/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712203655/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712203655/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712203655/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712203655/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712203655/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712203655/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712203655/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712203655/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010858</li>
+            <li>2015 Jan
+            </li>            
+                                </ul>
+        <div>
+                <h1>American Geriatrics Society abstracted clinical practice guideline for postoperative delirium in older adults.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712203655/https://www.guideline.gov/search?f_Guideline_Developer_String=American%20Geriatrics%20Society&amp;fLockTerm=American%2BGeriatrics%2BSociety">American Geriatrics Society</a></li>
+                        <li>   
+                                <a id="87" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+        <li><a href="/web/20180712203655/https://www.guideline.gov/search?f_Guideline_Developer_String=American%20Geriatrics%20Society&amp;fLockTerm=American%2BGeriatrics%2BSociety">American Geriatrics Society</a></li>
+                        <li>   
+                                <a id="87" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>American Geriatrics Society Expert Panel on Postoperative Delirium in Older Adults. American Geriatrics Society abstracted clinical practice guideline for postoperative delirium in older adults. J Am Geriatr Soc. 2015 Jan;63(1):142-50. [35 references] <a href="https://web.archive.org/web/20180712203655/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25495432" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712203655im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table>                    <p><a href="/web/20180712203655/https://www.guideline.gov/Home/Disclaimer?id=49932&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fonlinelibrary.wiley.com%252fdoi%252f10.1111%252fjgs.13281%252fpdf">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203655im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712203655/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712203655/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712203655/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712203655/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712203655/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712203655/https://www.guideline.gov/search?f_ICD9CM_CUI=C0013819&amp;fLockTerm=Electroencephalogram">Electroencephalogram</a>
+ (89.14)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C3202977&amp;fLockTerm=Analgesia">Analgesia</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0242937&amp;fLockTerm=Analgesics%2c+Non-Narcotic">Analgesics, Non-Narcotic</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0002903&amp;fLockTerm=Anesthesia">Anesthesia</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0002911&amp;fLockTerm=Anesthesia%2c+Conduction">Anesthesia, Conduction</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0040615&amp;fLockTerm=Antipsychotic+Agents">Antipsychotic Agents</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0079159&amp;fLockTerm=Conscious+Sedation">Conscious Sedation</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0011206&amp;fLockTerm=Delirium">Delirium</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0013819&amp;fLockTerm=Electroencephalography">Electroencephalography</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0017463&amp;fLockTerm=Geriatric+Assessment">Geriatric Assessment</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0017469&amp;fLockTerm=Geriatrics">Geriatrics</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0021599&amp;fLockTerm=Inservice+Training">Inservice Training</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0021889&amp;fLockTerm=Intraoperative+Care">Intraoperative Care</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C1611232&amp;fLockTerm=Medication+Therapy+Management">Medication Therapy Management</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0002766&amp;fLockTerm=Pain+Management">Pain Management</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0030679&amp;fLockTerm=Patient+Care+Team">Patient Care Team</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0032786&amp;fLockTerm=Postoperative+Care">Postoperative Care</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0032787&amp;fLockTerm=Postoperative+Complications">Postoperative Complications</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MSH_CUI=C0032790&amp;fLockTerm=Postoperative+Period">Postoperative Period</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712203655/https://www.guideline.gov/search?f_MTH_CUI=C0085631&amp;fLockTerm=Agitation">Agitation</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MTH_CUI=C3202977&amp;fLockTerm=Analgesia">Analgesia</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MTH_CUI=C0242937&amp;fLockTerm=Analgesics%2c+Non-Narcotic">Analgesics, Non-Narcotic</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MTH_CUI=C0002903&amp;fLockTerm=Anesthesia+procedures">Anesthesia procedures</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MTH_CUI=C0011206&amp;fLockTerm=Delirium">Delirium</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MTH_CUI=C0231303&amp;fLockTerm=Distress">Distress</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MTH_CUI=C0013819&amp;fLockTerm=Electroencephalography">Electroencephalography</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MTH_CUI=C0017469&amp;fLockTerm=Geriatrics">Geriatrics</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MTH_CUI=C0021599&amp;fLockTerm=Inservice+Training">Inservice Training</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MTH_CUI=C0002766&amp;fLockTerm=Pain+management">Pain management</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_MTH_CUI=C0032790&amp;fLockTerm=Postoperative+Period">Postoperative Period</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712203655/https://www.guideline.gov/search?f_PDQ_CUI=C0002903&amp;fLockTerm=anesthesia">anesthesia</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_PDQ_CUI=C0011206&amp;fLockTerm=delirium">delirium</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_PDQ_CUI=C0002766&amp;fLockTerm=pain+therapy">pain therapy</a>
+, <a href="/web/20180712203655/https://www.guideline.gov/search?f_PDQ_CUI=C0002911&amp;fLockTerm=regional+anesthesia">regional anesthesia</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002903&amp;fLockTerm=Administration+of+anesthesia">Administration of anesthesia</a>
+ (399097000), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1139879&amp;fLockTerm=Anesthesia+depth+monitor">Anesthesia depth monitor</a>
+ (470044008), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040615&amp;fLockTerm=Anti-psychotic+agent">Anti-psychotic agent</a>
+ (10784006), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0040615&amp;fLockTerm=Anti-psychotic+agent">Anti-psychotic agent</a>
+ (372482001), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0079159&amp;fLockTerm=Conscious+sedation">Conscious sedation</a>
+ (314271007), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0011206&amp;fLockTerm=Delirium">Delirium</a>
+ (2776000), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0011206&amp;fLockTerm=Delirium">Delirium</a>
+ (419567006), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0231303&amp;fLockTerm=Distress">Distress</a>
+ (69328002), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0013819&amp;fLockTerm=Electroencephalogram">Electroencephalogram</a>
+ (54550000), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0085631&amp;fLockTerm=Feeling+agitated">Feeling agitated</a>
+ (24199005), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0017469&amp;fLockTerm=Geriatric+medicine">Geriatric medicine</a>
+ (394811001), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0017463&amp;fLockTerm=Geriatric+screening">Geriatric screening</a>
+ (171313004), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0021889&amp;fLockTerm=Intraoperative+care">Intraoperative care</a>
+ (133900002), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0242937&amp;fLockTerm=Non-opioid+analgesic">Non-opioid analgesic</a>
+ (322208004), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0242937&amp;fLockTerm=Non-opioid+analgesic">Non-opioid analgesic</a>
+ (373216001), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002766&amp;fLockTerm=Pain+management">Pain management</a>
+ (278414003), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0032786&amp;fLockTerm=Postoperative+care">Postoperative care</a>
+ (133899007), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0032787&amp;fLockTerm=Postoperative+complication">Postoperative complication</a>
+ (385486001), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0032790&amp;fLockTerm=Postoperative+period">Postoperative period</a>
+ (262061000), <a href="/web/20180712203655/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002911&amp;fLockTerm=Regional+anesthesia">Regional anesthesia</a>
+ (27372005)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712203655/https://www.guideline.gov/search?f_UMD_CUI=C1138880&amp;fLockTerm=Monitors%2c+Physiologic%2c+Electroencephalography%2c+Intraoperative%2c+Level-of-Consciousness">Monitors, Physiologic, Electroencephalography, Intraoperative, Level-of-Consciousness</a>
+ (20-160), <a href="/web/20180712203655/https://www.guideline.gov/search?f_UMD_CUI=C1609452&amp;fLockTerm=Physiologic+Monitor+Modules%2c+Electroencephalography">Physiologic Monitor Modules, Electroencephalography</a>
+ (20-783)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#394" class="section-mark">Regulatory Alert</a></li>
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712203655/https://www.guideline.gov/summaries/downloadcontent/ngc-10858?contentType=pdf" class="pdf">.PDF 124.3 kb</a></li>
+                            <li><a href="/web/20180712203655/https://www.guideline.gov/summaries/downloadcontent/ngc-10858?contentType=word" class="word">Word Document 326.2 kb</a></li>
+                            <li><a href="/web/20180712203655/https://www.guideline.gov/summaries/downloadcontent/ngc-10858?contentType=xml" class="xml">.XML 67.7 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203655/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/49932/american-geriatrics-society-abstracted-clinical-practice-guideline-for-postoperative-delirium-in-older-adults" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203655/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/49932/american-geriatrics-society-abstracted-clinical-practice-guideline-for-postoperative-delirium-in-older-adults" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712203655/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/49932/american-geriatrics-society-abstracted-clinical-practice-guideline-for-postoperative-delirium-in-older-adults&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712203655/mailto:/?Subject=AHRQ: American Geriatrics Society abstracted clinical practice guideline for postoperative delirium in older adults.&amp;body=https://www.guideline.gov/summaries/summary/49932/american-geriatrics-society-abstracted-clinical-practice-guideline-for-postoperative-delirium-in-older-adults" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: American Geriatrics Society abstracted clinical practice guideline for postoperative delirium in older adults. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2015 Jan 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712203655/https://www.guideline.gov/summaries/citedownload/49932?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712203655/https://www.guideline.gov/summaries/citedownload/49932?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712203655/https://www.guideline.gov/summaries/citedownload/49932?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712203655/https://www.guideline.gov/summaries/citedownload/49932?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712203655/https://www.guideline.gov/summaries/citedownload/49932?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712203655/https://www.guideline.gov/summaries/citedownload/49932">RefWorks</a></li>
+                            <li><a href="/web/20180712203655/https://www.guideline.gov/summaries/citedownload/49932?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="49932" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="394" class="accordion-title section-394 is-active" role="tab" aria-expanded="true"><a href="#">Regulatory Alert</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">FDA Warning/Regulatory Alert</a></h3>
+                    <p><div class="content_para"><p><strong>Note from the National Guideline Clearinghouse</strong>: This guideline references a drug(s) for which important revised regulatory and/or warning information has been released.</p>
+<ul style="list-style-type: disc;">
+    <li><a href="https://web.archive.org/web/20180712203655/http://www.fda.gov/Safety/MedWatch/SafetyInformation/SafetyAlertsforHumanMedicalProducts/ucm518710.htm" target="_blank" title="FDA Web site">August 31, 2016 &ndash; Opioid pain and cough medicines combined with benzodiazepines</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203655im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>: A U.S. Food and Drug Administration (FDA) review has found that the growing combined used of opioid medicines with benzodiazepines or other drugs that depress the central nervous system (CNS) has resulted in serious side effects, including slowed or difficult breathing and deaths. FDA is adding Boxed Warnings to the drug labeling of prescription opioid pain and prescription opioid cough medicines and benzodiazepines. </li>
+</ul></div></p>
+
+            </div>
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>Definitions of quality of evidence (<strong>high</strong>, <strong>moderate</strong>, <strong>low</strong>) and strength of recommendation (<strong>strong</strong>, <strong>weak</strong>, <strong>insufficient</strong>, <strong>not applicable</strong>) are provided at the end of the "Major Recommendations" field.</p>
+<p><strong><span style="text-decoration: underline;">Nonpharmacologic Interventions for the Prevention and/or Treatment of Postoperative Delirium in Older Surgical Patients</span></strong></p>
+<p>Nonpharmacologic interventions were defined as including behavioral interventions, monitoring devices, rehabilitation, environmental adaptations, psychological and social supports, medication reductions, complementary and alternative medicine, and system and process changes.</p>
+<ol style="list-style-type: upper-roman;">
+    <li><strong>Education Targeted to Healthcare Professionals about Delirium</strong>
+    <p><em>Recommendation</em></p>
+    <p>Healthcare systems and hospitals should implement formal educational programs with ongoing formal and/or informal refresher sessions for healthcare professionals on delirium in at-risk older surgical adults to improve understanding of its epidemiology, assessment, prevention, and treatment (<strong>strength of recommendation: strong; quality of evidence: low</strong>)</p>
+    </li>
+    <li><strong>Multicomponent Nonpharmacologic Interventions Performed by an Interdisciplinary Team for Prevention of Delirium</strong>
+    <p><em>Recommendation</em></p>
+    <p>Healthcare systems and hospitals should implement multicomponent nonpharmacologic intervention programs delivered by an interdisciplinary team (including physicians, nurses, and possibly other healthcare professionals) for the entire hospitalization in at-risk older adults undergoing surgery to prevent delirium (<strong>strength of recommendation: strong; quality of evidence: moderate</strong>).</p>
+    </li>
+    <li><strong>Multicomponent Nonpharmacologic Interventions Performed by an Interdisciplinary Team for Management of Delirium</strong>
+    <p><em>Recommendation</em></p>
+    <p>Healthcare professionals should consider multicomponent interventions implemented by an interdisciplinary team in older adults diagnosed with postoperative delirium to improve clinical outcomes (<strong>strength of recommendation: weak; quality of evidence: low</strong>).</p>
+    </li>
+    <li><strong>Identify and Manage Causes of Delirium</strong>
+    <p><em>Recommendation</em></p>
+    <p>The healthcare professional should perform a medical evaluation, make medication and/or environmental adjustments, and order appropriate diagnostic tests and clinical consultations after an older adult has been diagnosed with postoperative delirium to identify and manage underlying contributors to delirium (<strong>strength of recommendation: strong; quality of evidence: low</strong>).</p>
+    </li>
+    <li><strong>Specialized Hospital Units</strong>
+    <p><em>Recommendation</em></p>
+    <p>There is insufficient evidence to recommend for or against hospitals creating, and healthcare professionals using, specialized hospital units for the inpatient care of older adults with postoperative delirium to improve clinical outcomes (<strong>strength of recommendation: not applicable; quality of evidence: low</strong>).</p>
+    </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Pharmacologic Treatments/Interventions Used <em>Perioperatively</em> to <em>Prevent</em> Postoperative Delirium in Older Surgical Patients</span></strong></p>
+<ol style="list-style-type: upper-roman;" start="6">
+    <li><strong>Anesthesia Depth</strong>
+    <p><em>Recommendation</em></p>
+    <p>The anesthesia practitioner may use processed electroencephalographic (EEG) monitors of anesthetic depth during intravenous sedation or general anesthesia of older patients to reduce postoperative delirium (<strong>strength of recommendation: insufficient evidence; quality of evidence: low</strong>).</p>
+    </li>
+    <li><strong>Regional Anesthesia</strong>
+    <p><em>Recommendation</em></p>
+    <p>A healthcare professional trained in regional anesthetic injection may consider providing regional anesthetic at the time of surgery and postoperatively to improve pain control and prevent delirium in older adults (<strong>strength of recommendation: weak; quality of evidence: low</strong>).</p>
+    </li>
+    <li><strong>Analgesia</strong>
+    <p><em>Recommendation</em></p>
+    <p>Healthcare professionals should optimize postoperative pain control, preferably with nonopioid pain medications, to minimize pain in older adults to prevent delirium (<strong>strength of recommendation: strong; quality of evidence: low</strong>).</p>
+    </li>
+    <li><strong>Avoidance of Inappropriate Medications</strong>
+    <p><em>Recommendation</em></p>
+    <p>The prescribing practitioner should avoid medications that induce delirium postoperatively in older adults to prevent delirium (<strong>strength of recommendation: strong; quality of evidence: low</strong>).</p>
+    </li>
+    <li><strong>Antipsychotics Used Prophylactically to Prevent Delirium</strong>
+    <p><em>Recommendation</em></p>
+    <p>There is insufficient evidence to recommend for or against the use of antipsychotic medications prophylactically in older surgical patients to prevent delirium (<strong>strength of recommendation: not applicable; quality of evidence: low</strong>).</p>
+    </li>
+    <li><strong>Cholinesterase Inhibitors</strong>
+    <p><em>Recommendation</em></p>
+    <p>In older adults not currently taking cholinesterase inhibitors, the prescribing practitioner should not newly prescribe cholinesterase inhibitors perioperatively to older adults to prevent or treat delirium (<strong>strength of recommendation: strong; quality of evidence: low</strong>).</p>
+    </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Pharmacologic Treatments/Interventions Used to <em>Treat</em> Postoperative Delirium in Older Surgical Patients</span></strong></p>
+<ol style="list-style-type: upper-roman;" start="12">
+    <li><strong>Antipsychotics in the Setting of Severe Agitation</strong>
+    <p><em>Recommendation</em></p>
+    <p>The prescribing practitioner may use antipsychotics at the lowest effective dose for the shortest possible duration to treat patients who are severely agitated or distressed, and are threatening substantial harm to self and/or others. In all cases, treatment with antipsychotics should be employed only if behavioral interventions have failed or are not possible, and ongoing use should be evaluated daily with in-person examination of patients (<strong>strength of recommendation: weak; quality of evidence: low</strong>).</p>
+    </li>
+    <li><strong>Benzodiazepines</strong>
+    <p><em>Recommendation</em></p>
+    <p>The prescribing practitioner <span style="text-decoration: underline;">should not</span> use benzodiazepines as a first-line treatment of the agitated postoperative delirious patient who is threatening substantial harm to self and/or others <span style="text-decoration: underline;">to treat postoperative delirium except</span> when benzodiazepines are specifically indicated (including, but not limited to, treatment of alcohol or benzodiazepine withdrawal). Treatment with benzodiazepines should be at the lowest effective dose for the shortest possible duration, and should be employed only if behavioral measures have failed or are not possible and ongoing use should be evaluated daily with in-person examination of the patient (<strong>strength of recommendation: strong; quality of evidence: low</strong>).</p>
+    </li>
+    <li><strong>Pharmacologic Treatment of Hypoactive Delirium</strong>
+    <p><em>Recommendation</em></p>
+    <p>The prescribing practitioner <span style="text-decoration: underline;">should not</span> prescribe antipsychotic or benzodiazepine medications for the treatment of older adults with postoperative delirium who are not agitated and threatening substantial harm to self or others (<strong>strength of recommendation: strong; quality of evidence: low</strong>).</p>
+    </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong></p>
+<p><strong>Quality of Evidence</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Quality of Evidence">
+    <tbody>
+        <tr>
+            <th valign="top" scope="row">High</th>
+            <td valign="top">Evidence includes consistent results from well-designed, well-conducted studies in representative populations that directly assess effects on health outcomes (&ge;2 consistent, higher-quality randomized controlled trials or multiple, consistent observational studies with no significant methodological flaws showing large effects).</td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Moderate</th>
+            <td valign="top">Evidence is sufficient to determine effects on health outcomes, but the number, quality, size, or consistency of included studies; generalizability to routine practice; or indirect nature of the evidence on health outcomes (&ge;1 higher-quality trial with &gt;100 participants; &ge;2 higher-quality trials with some inconsistency; &ge;2 consistent, lower-quality trials; or multiple, consistent observational studies with no significant methodological flaws showing at least moderate effects) limits the strength of the evidence.</td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Low</th>
+            <td valign="top">Evidence is insufficient to assess effects on health outcomes because of limited number or power of studies, large and unexplained inconsistency between higher-quality studies, important flaws in study design or conduct, gaps in the chain of evidence, or lack of information on important health outcomes.</td>
+        </tr>
+    </tbody>
+</table>
+<p><strong>Strength of Recommendation</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Strength of Recommendation">
+    <tbody>
+        <tr>
+            <th valign="top" scope="row">Strong</th>
+            <td valign="top">Benefits clearly outweigh risks and burden, <em>or</em> risks and burden clearly outweigh benefits. Panel judged the evidence and determined that the benefits clearly outweighed harms or the potential harms clearly outweighed the benefits.</td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Weak</th>
+            <td valign="top">Benefits finely balanced with risks and burden. Panel judged the evidence to be in favor of these interventions, but the current level of evidence or potential risks of the treatment did not support a strong recommendation.</td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Insufficient</th>
+            <td valign="top">Insufficient evidence to determine net benefits or risks. Panel judged the evidence as warranting a recommendation statement to be made, but weighed the evidence as being insufficient to determine the net risks and benefits.</td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Not Applicable</th>
+            <td valign="top">No recommendation made. Panel determined that no recommendation could be made, that is, a statement could not be made either for or against a clinical practice.</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Postoperative delirium</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Management</p>
+                    <p>Prevention</p>
+                    <p>Risk Assessment</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Anesthesiology</p>
+                    <p>Geriatrics</p>
+                    <p>Internal Medicine</p>
+                    <p>Neurology</p>
+                    <p>Psychiatry</p>
+                    <p>Surgery</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Hospitals</p>
+                    <p>Nurses</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To present nonpharmacologic and pharmacologic interventions that should be implemented perioperatively for the prevention and treatment of postoperative delirium in older adults</p></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Older adults at risk for postoperative delirium or who have postoperative delirium</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Implementation of formal education programs for healthcare professionals </li>
+    <li>Implementation of multicomponent nonpharmacologic interventions programs by an interdisciplinary team </li>
+    <li>Identification and management of underlying contributors to delirium (medical evaluation, medication and/or environmental adjustments, and appropriate diagnostic tests and clinical consultations) </li>
+    <li>Use of processed electroencephalographic (EEG) monitors of anesthetic depth during intravenous sedation or general anesthesia </li>
+    <li>Pain control
+    <ul style="list-style-type: disc;">
+        <li>Regional anesthetic at the time of surgery and postoperatively </li>
+        <li>Nonopioid pain medications </li>
+    </ul>
+    </li>
+    <li>Avoidance of inappropriate medications </li>
+    <li>Antipsychotics (lowest effective dose) for severe agitation or distress </li>
+</ol>
+<p class="Note"><strong>Note</strong>: The following interventions were considered but were either not recommended or there was insufficient evidence to make a recommendation:</p>
+<ul class="Note" style="list-style-type: disc;">
+    <li>Use of specialized hospital units for postoperative delirium </li>
+    <li>Antipsychotic medications prophylactically </li>
+    <li>Newly prescribing cholinesterase inhibitors </li>
+    <li>Benzodiazepines for severe agitation </li>
+    <li>Antipsychotics or benzodiazepines for hypoactive delirium </li>
+</ul></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Incidence of postoperative delirium </li>
+    <li>Adverse effects of nonpharmacologic and pharmacologic interventions </li>
+    <li>Cost-effectiveness of nonpharmacologic and pharmacologic interventions </li>
+    <li>Delirium duration </li>
+    <li>Cognitive and functional recovery </li>
+    <li>Inpatient morbidity and mortality </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Literature Search</span></strong></p>
+<p>The methods for the literature review included a combination of comprehensive searches, targeted searches, and specific, focused searches. The steps of the literature search are further outlined in the flow chart (Diagram 1) included in the full version of the guideline (see the "Availability of Companion Documents" field). Comprehensive searches of articles on the pharmacologic and nonpharmacologic interventions for the prevention or treatment of postoperative delirium in PubMed, EMBASE, and CINAHL were conducted between August 1, 2013, and October 1, 2013, resulting in a total of 6,504 citations. The following search terms were included: <em>delirium</em>, <em>organic brain syndrome</em>, and <em>acute confusion</em>, in combination with a variety of alternative terms for the prevention and treatment of delirium, including all variations of the words <em>prevention</em>, <em>management</em>, <em>treatment</em>, <em>intervention</em>, <em>therapy</em>, <em>therapeutic</em>, or <em>drug therapy</em> (e.g., prevent, prevents, preventing, prevention, preventions, preventable). The limits placed on these searches included restricting the searches to adults, English only, and articles published from 1988 to the present.</p>
+<p>Two targeted searches using the U.S. Library of National Medicine PubMed Special Queries on Comparative Effectiveness Research and PubMed Clinical Queries were also conducted. The search strategy conducted using the Special Queries on Comparative Effectiveness Research included the terms <em>delirium</em>, <em>acute confusion</em>, and <em>organic brain syndrome</em> and returned a total of 2,173 studies, including 473 randomized clinical trials, 1,154 observational studies, and 546 systematic reviews. An additional 1,288 citations were identified through PubMed Clinical Queries using the term <em>postoperative delirium</em>.</p>
+<p>There were multiple exclusion criteria, because the scope of this review was limited to pharmacologic and nonpharmacologic interventions for the prevention or treatment of peri-operative delirium. All studies related to topics other than prevention and treatment of delirium were excluded, including the pathophysiology, etiology, biomarkers, risk factors, predisposing factors, predictive models, prognostic methods or tools, and assessment (including screening, detection, recognition, identification, diagnosis, and rating scales). Any articles pertaining to delirium in nonadult populations (i.e., infants, children, adolescents) were excluded.</p>
+<p>Other exclusion criteria included delirium due to alcohol or substance abuse withdrawal, psychosis (e.g., schizophrenia), dementia (e.g., Alzheimer's disease), traumatic brain injury, emergence delirium, terminal illness, metabolic encephalopathy, or acute stroke. While many studies included persons with dementia or cognitive impairment, delirium-related studies including only or primarily persons with dementia were excluded. Delirium articles based primarily in settings other than the inpatient setting, including the emergency department, the ambulatory or outpatient setting, the community, postacute or long-term care (nursing homes), or hospice/palliative care settings were excluded. Even though palliative care settings were excluded, studies addressing palliative surgery or including patients undergoing palliative surgical procedures were included. Studies in which delirium occurred in patients having undergone neurologic or brain surgery were excluded. All types of publications other than observational studies or randomized clinical trials, including all nonsystematic reviews, comments, editorials, and letters, were excluded. Systematic reviews were utilized to verify completeness of the literature search.</p>
+<p>Finally, to capture information on clinical trials that may have not been published, <a href="https://web.archive.org/web/20180712203655/https://clinicaltrials.gov/" title="ClinicalTrials.gov Web site" target="_blank">ClinicalTrials.gov</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203655im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> (a registry and results database of publicly and privately supported clinical studies of human participants conducted around the world) was searched. <a href="https://web.archive.org/web/20180712203655/https://clinicaltrials.gov/" title="ClinicalTrials.gov Web site" target="_blank">ClinicalTrials.gov</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203655im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> searches included each of the following drugs: <em>quetiapine</em>, <em>dexmedetomidine</em>, <em>melatonin</em>, <em>rivastigmine</em>, <em>haloperidol</em>, <em>gabapentin</em>, <em>olanzapine</em>, <em>donepezil</em>, <em>risperidone</em>, as well as the terms <em>analgesia</em>, <em>delirium</em>, and <em>confusion</em>. These searches were restricted to studies that were completed and that had results available; these searches were completed on November 26, 2013, and identified 357 studies.</p>
+<p>All of the articles that met the inclusion criterion and that were not excluded for the reasons listed above were reviewed by the two panel co-chairs of this guideline project to determine appropriateness for inclusion in the review.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>A total of 199 studies were used to create the evidence tables and 68 studies were used to rate guideline recommendations. Refer to the flow chart (Diagram 1) in the full version of the guideline (see the "Availability of Companion Documents" field) for an outline of the steps of the literature search.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Quality of Evidence</span></strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Quality of Evidence">
+    <tbody>
+        <tr>
+            <th valign="top" scope="row">High</th>
+            <td valign="top">Evidence includes consistent results from well-designed, well-conducted studies in representative populations that directly assess effects on health outcomes (&ge;2 consistent, higher-quality randomized controlled trials or multiple, consistent observational studies with no significant methodological flaws showing large effects).</td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Moderate</th>
+            <td valign="top">Evidence is sufficient to determine effects on health outcomes, but the number, quality, size, or consistency of included studies; generalizability to routine practice; or indirect nature of the evidence on health outcomes (&ge;1 higher-quality trial with &gt;100 participants; &ge;2 higher-quality trials with some inconsistency; &ge;2 consistent, lower-quality trials; or multiple, consistent observational studies with no significant methodological flaws showing at least moderate effects) limits the strength of the evidence.</td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Low</th>
+            <td valign="top">Evidence is insufficient to assess effects on health outcomes because of limited number or power of studies, large and unexplained inconsistency between higher-quality studies, important flaws in study design or conduct, gaps in the chain of evidence, or lack of information on important health outcomes.</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p>Following a rigorous process, a team of four independent researchers prepared evidence tables and quality ratings for each study selected by the panel. The four researchers first underwent intensive training and standardization, each completing five initial ratings accompanied by standardization and retraining. For the entire review process, an expert re-rated all of the articles to assure reliability, and one of the panel co-chairs re-rated a 10% subsample. Questions and discrepancies were resolved through discussion. The evidence tables included a summary of the study, as well as a quality rating and rating of the risk of bias. The quality rating system was based on the Cochrane Risk of Bias and Jadad scoring system. The ratings were based on six key elements: evidence of balanced allocation, allocation concealment, blinded outcome assessment, completeness of outcome data, selective outcome reporting, and other sources of bias. Following the Cochrane approach, each article was assigned a risk of bias rating as follows: low risk of bias indicated by low risk on all 6 domains, unclear risk indicated by high or unclear risk of bias on 1 or more of 6 domains, or high risk of bias indicated by high risk on 2 or more of 6 domains. In addition, each article was rated for the use of a validated delirium measure and sample size of 50 or more in each study arm. The citations for which evidence tables were created are denoted with ET in the text and "(ET)" in the bibliography and can be found in the full guideline (see the "Availability of Companion Documents" field).</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Methods</span></strong></p>
+<p>For this guideline, the American Geriatrics Society (AGS) employed a well-tested framework for development of clinical practice guidelines. There were three components to the framework. First, an interdisciplinary expert panel on delirium was created. Second, a development process that included a systematic literature review and evaluation of the evidence by the expert panel was conducted. Third, the guideline document was written and revised initially through committee subgroups and subsequently achieved full consensus of the panel on all recommendation statements. Following manuscript preparation, external peer review was solicited, and an open public comment period was completed. The work for this guideline started with an initial consultation with an expert on guideline development and an author of the Institute of Medicine's (IOM) report on developing trustworthy guidelines. The IOM's reports on Systematic Reviews and Trustworthy Clinical Guideline provided the standards followed throughout our process and guided the framework.</p>
+<p><span style="text-decoration: underline;"><strong>Panel Selection</strong></span></p>
+<p>After initial nominations by the AGS and its Geriatrics-for-Specialists Initiative Council, the two panel cochairs screened prospective panel members with recognized expertise in relevant specialties and geriatrics, and recommended several more for inclusion. Other factors that influenced selection were the desire to have interdisciplinary representation and representation from different parts of the country. In addition to the 23-member panel, a representative from the National Committee for Quality Assurance (NCQA), a quality and measures expert, and a caregiver representative were invited to serve as ex officio members. Represented disciplines on the interdisciplinary panel included the fields of geriatric medicine, general surgery, anesthesiology, critical care medicine, emergency medicine, geriatric surgery, gynecology, hospital medicine, neurology, nursing, orthopedic surgery, ophthalmology, otolaryngology, palliative care, pharmacy, psychiatry, physical medicine and rehabilitation, cardiothoracic surgery, urology, and vascular surgery.</p>
+<p><strong><span style="text-decoration: underline;">Selection of Clinical Topics</span></strong></p>
+<p>Specific topics regarding postoperative delirium were selected to focus and guide the literature search. To select the topics, two interdisciplinary conference calls were held with specialists from geriatric medicine, general surgery, gynecology, critical care medicine, emergency medicine, anesthesiology, otolaryngology, ophthalmology, orthopedics, thoracic surgery, urology, and physical medicine and rehabilitation. The specialists provided input as to the most critical deficiencies they perceived for postoperative delirium within their specialties. The comments from these calls were collated and provided the impetus for selection of the specific aims chosen for this guideline.</p>
+<p><strong><span style="text-decoration: underline;">Development Process</span></strong></p>
+<p>Initial consensus was reached between the panel co-chairs and an independent researcher experienced in systematic literature reviews to define key search terms and to develop the protocol for the systematic review, including the search strategy, databases, and inclusion and exclusion criteria for the initial search. After the initial search, meetings were held to address questions of consistency, refinement of exclusion criteria, strategies for evaluating the evidence, and consolidation or expansion of individual search criterion. Abstracts of all articles captured by the initial search (&gt;4,000) were reviewed by the panel co-chairs and two research associates. Every abstract was reviewed by at least two reviewers for inter-rater consistency in meeting the inclusion and exclusion criteria, and consensus was reached. If there was any doubt about an article meeting criteria, the article was included. Articles meeting guideline inclusion criteria were then sorted by topic and provided to the full panel for consideration of inclusion or exclusion. A given article could be assigned to more than one topic.</p>
+<p>The full panel then convened for a 2-day, in-person meeting early in the process, to review the initial results of the literature search and begin drafting recommendations. The panel was divided into five working groups aligned with each topic, each assigned in accordance with their specific area of expertise. Groups reviewed the abstracts assigned to their group and evaluated the following inclusion criteria: relevance to the topic, inclusion of original data (not review article), and exclusion of studies with gross methodologic limitations (case reports or sample sizes &lt;20, lack of control group, risk factor study only). At least two reviewers were required to assess each abstract for this step; some articles were recategorized to different topic groups. The final abstract listing submitted by each working group provided the articles which were extracted into the evidence tables to be used for the actual recommendations. Based on the initial abstract review as well as expert judgment, the groups were asked to develop a preliminary listing of recommendations. Each group presented the group's preliminary recommendations to the full panel for feedback. After the meeting, each group met either via conference calls or through e-mail dialogue to resolve any questions, to add additional articles to the listing for evidence tables, and to refine the preliminary recommendation language.</p>
+<p>The evidence tables and quality worksheets were then used by the panelist to independently rate the quality of evidence and strength of recommendation for each recommendation statement using the American College of Physicians' Guideline Grading System, which is based on Grading of Recommendations Assessment, Development and Evaluation (GRADE) scheme developed previously (see the "Rating Scheme for the Strength of the Evidence" and the "Rating Scheme for the Strength of the Recommendations" fields). Panelist ratings were compiled for each group and returned to that group, who then reached consensus via conference calls. All panelists were trained on the GRADE system using standard methods including print and online materials.</p>
+<p>For some criteria, the panel provided a "strong" recommendation, even though the quality of evidence was low or moderate. In such cases, the strength of recommendation was based on balancing the benefits of treatment against the potential harms and required agreement by the entire panel. Strong recommendations were made when the benefit clearly outweighed harms (such as with nonpharmacologic interventions) or when the potential harms clearly outweighed the benefits (such as with benzodiazepine treatment). Weak recommendations were made when the panel judged the evidence to be in favor of these interventions, but the current level of evidence or potential risks of the treatment did not support a strong recommendation. The strength of recommendation was "insufficient" when the panel deemed that a recommendation statement should be made but weighed the evidence as being insufficient to determine the net risks and benefits.</p>
+<p>The strength of recommendation was "not applicable" when no recommendation could be made, that is, the panel did not deem the evidence to weigh either for or against a clinical practice. The wording of each recommendation followed IOM recommendations. An additional one-day, in-person meeting was held to further discuss each recommendation's language and its quality of evidence, strength of recommendation, and potential harms. Following this meeting, feedback and edits were incorporated, and a final draft of the recommendations was reviewed and approved by the entire panel via conference call.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Strength of Recommendation</span></strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Strength of Recommendation">
+    <tbody>
+        <tr>
+            <th valign="top" scope="row">Strong</th>
+            <td valign="top">Benefits clearly outweigh risks and burden, <em>or</em> risks and burden clearly outweigh benefits. Panel judged the evidence and determined that the benefits clearly outweighed harms or the potential harms clearly outweighed the benefits.</td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Weak</th>
+            <td valign="top">Benefits finely balanced with risks and burden. Panel judged the evidence to be in favor of these interventions, but the current level of evidence or potential risks of the treatment did not support a strong recommendation.</td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Insufficient</th>
+            <td valign="top">Insufficient evidence to determine net benefits or risks. Panel judged the evidence as warranting a recommendation statement to be made, but weighed the evidence as being insufficient to determine the net risks and benefits.</td>
+        </tr>
+        <tr>
+            <th valign="top" scope="row">Not Applicable</th>
+            <td valign="top">No recommendation made. Panel determined that no recommendation could be made, that is, a statement could not be made either for or against a clinical practice.</td>
+        </tr>
+    </tbody>
+</table></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>Previous studies have demonstrated the cost-effectiveness of multicomponent delirium intervention strategies even after consideration of these costs across different settings (general medical, geriatric, hip fracture, surgical, and intensive care unit [ICU] settings). The cost-effectiveness of educational interventions and specialized hospital units has not been evaluated previously. The costs of nonpharmacologic interventions may be offset by the considerable costs of delirium, estimated to exceed $164 billion per year (2011 USD) in the United States.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>The draft statement was sent for peer-review at multiple organizations and edits were incorporated by the panel co-chairs. The statement also underwent a period of public commentary (3 weeks), as well as review by lay organizations representing older adults.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified and graded for each recommendation (see the "Major Recommendations" field).</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>The recommendation statements provide a framework to allow hospital systems and healthcare professionals to implement actionable, evidence-based measures to improve delirium prevention and treatment.</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Risks of diagnostic tests and procedures, as well as the possibility of pain and infection. Overuse of neuroimaging (computed tomography [CT]/magnetic resonance imaging [MRI]) is an additional potential risk. For agitated patients, sedation and/or restraints may be required to obtain these studies; however, both sedating medications and restraints may exacerbate delirium. </li>
+    <li>The safety of conducting "light anesthesia" in patients who require general anesthesia has not been demonstrated. Lighter anesthesia may lead to several adverse events, including intraoperative recall or movement, sympathetic stimulation and adverse hemodynamic changes, particularly in older patients or in those with vascular disease. Use of processed electroencephalographic (EEG) monitors may cause the anesthesia practitioner to overfocus on a single clinical parameter. </li>
+    <li>Complications of regional anesthesia, such as nerve injury, hematoma, intravascular injection, neurotoxicity, and cardiac toxicity are uncommon. </li>
+    <li>Opioid analgesics carry risks of constipation, nausea, vomiting, respiratory depression, sedation, impaired judgment, altered psychomotor function, rash, pruritus, and anaphylactic allergic reactions. Long-term opioid use can lead to dependence. Opioid dosing needs to be properly monitored, and patients must be managed for potential respiratory depression. Nonopioid medications such as gabapentin, paracetamol or acetaminophen, and nonsteroidal anti-inflammatory agents also have potential harms. </li>
+    <li>Specific conditions may warrant use of medications that induce delirium postoperatively in older adults. For example, a patient with a history of alcohol abuse or chronic benzodiazepine usage may require treatment with a benzodiazepine to prevent withdrawal complications, or a patient may require treatment with diphenhydramine for a severe allergic or transfusion reaction. </li>
+    <li>The potential harms associated with antipsychotic medications are numerous and include, but are not limited to, central nervous system effects (such as somnolence, extrapyramidal effects such as muscle rigidity, tremor, restlessness, swallowing difficulty, decreased seizure threshold, and neuroleptic malignant syndrome), systemic and cardiovascular effects (such as QT prolongation, dysrhythmias, sudden death, hypotension, and tachycardia), pneumonia, urinary retention, postural instability, falls, deep venous thrombosis, anticholinergic effects, syndrome of inappropriate antidiuretic hormone, and metabolic effects (such as weight gain, insulin resistance, and hypertriglyceridemia). Even short-term treatment is associated with increased mortality. The inadvertent chronic administration of antipsychotics after inpatient initiation during an episode of delirium is an important harm. One review found that 47% of patients continued to receive the drug after discharge from the intensive care unit and 33% as an outpatient after discharge from hospital, without a clear indication. </li>
+    <li>Adverse effects of cholinesterase inhibitors include diarrhea, anorexia, dyspepsia, bradycardia, and potential to exacerbate peptic ulcer disease, cardiac conduction disorders, seizures, asthma, and benign prostatic hypertrophy. Withholding cholinesterase inhibitors in patients on chronic treatment may cause worsening symptoms. </li>
+    <li>The potential harms of not using benzodiazepines as first-line treatment of the agitated postoperative delirious patient include withholding treatment for conditions in which benzodiazepines are indicated, such as alcohol and benzodiazepine withdrawal. </li>
+    <li>Patients with hypoactive delirium who may be experiencing hallucinations and delusions might get symptomatic relief from their experiences, even if the antipsychotic medications do not resolve the delirious episode. Hallucinatory and delusional experiences might be difficult to elicit from a hypoactive patient during the delirious episode, and withholding antipsychotic medications in this situation might be associated with increased suffering. </li>
+</ul></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>This guideline is limited to the aims described in the original guideline document. Some of the recommendations will not apply to specific areas of care, such as intensive care unit (ICU) sedation, palliative care, and nursing home settings. Diagnosis and screening are not addressed in these guidelines. Other topics, such as prescription of melatonin to prevent delirium, were considered but not addressed due to a lack of evidence. Since delirium is a burgeoning area of clinical investigation, regular updates of the recommendations are planned as new evidence becomes available. </li>
+    <li>This guideline has some important limitations including feasibility restrictions in completeness of the literature search, limited quality of available evidence, and extrapolation from studies conducted outside the surgical setting. Importantly, this guideline is not intended to supersede clinical judgment or individual patient preferences, and decisions must always be customized to the individual situation. Despite the limitations, the guideline follows a rigorous evidence-based approach guided by Institute of Medicine (IOM) standards for systematic review and guideline development, conducted by an interdisciplinary expert panel, and revised extensively based on commentary from stakeholders and the public. Ultimately, it is hoped that this guideline will help to improve clinical care, advance policy, and lay the groundwork for future discoveries in this important area to improve quality of life for older adults and their families. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>An implementation strategy was not provided.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Foreign Language Translations</p>
+                    <p>Patient Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Staying Healthy</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+                    <p>Safety</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>American Geriatrics Society Expert Panel on Postoperative Delirium in Older Adults. American Geriatrics Society abstracted clinical practice guideline for postoperative delirium in older adults. J Am Geriatr Soc. 2015 Jan;63(1):142-50. [35 references] <a href="https://web.archive.org/web/20180712203655/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=25495432" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712203655im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2015 Jan</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>American Geriatrics Society - Medical Specialty Society</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>The development of this paper was supported in part by the American
+Geriatrics Society Geriatrics-for-Specialists Initiative (AGS-GSI)
+through an unrestricted grant from the John A. Hartford Foundation. The funding source played no role in the design, conduct, reporting or content of this guideline.</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>American Geriatrics Society Expert Panel on Postoperative Delirium in Older Adults</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Expert Panel Members</em>: Sharon K. Inouye, MD, MPH, Harvard Medical School, Beth Israel Deaconess Medical Center, and Aging Brain Center, Institute for Aging Research, Hebrew SeniorLife, Boston, MA (<em>Co-chair</em>); Tom Robinson, MD, MS, University of Colorado School of Medicine, Aurora, CO (<em>Co-chair</em>); Caroline Blaum, MD, MS, New York University School of Medicine, New York, NY; Jan Busby-Whitehead, MD, CMD, AGSF, Center for Aging and Health, University of North Carolina School of Medicine, Chapel Hill, NC; Malaz Boustani, MD, MPH, Indiana University School of Medicine, Indianapolis, IN; Ara Chalian, MD, Hospitals of University of Pennsylvania, Philadelphia, PA; Stacie Deiner, MD, Mount Sinai Hospital, New York, NY; Donna Fick, PhD, RN, FGSA, FAAN, College of Nursing and Medicine, The Pennsylvania State University, University Park, PA; Lisa Hutchison, PharmD, University of Arkansas for Medical Sciences, Little Rock, AR; Jason Johanning, MD, University of Nebraska Medical Center, Omaha, NE; Mark Katlic, MD, Sinai Hospital, Baltimore, MD; James Kempton, Yale University and West Haven VA, New Haven, CT; Maura Kennedy, MD, MPH, Beth Israel Deaconess Medical Center, Boston, MA; Eyal Kimchi, MD, PhD, Massachusetts General Hospital, Boston, MA; Cliff Ko, MD, University of California Los Angeles, Los Angeles, CA; Jacqueline Leung, MD, MPH, University of California San Francisco, San Francisco, CA; Melissa Mattison, Harvard University, Beth Israel Deaconess Medical School, Boston, MA; Sanjay Mohanty, MD, American College of Surgeons, Chicago, IL; Arvind Nana, MD, JPS Health, Fort Worth, TX; Dale Needham, MD, PhD, Johns Hopkins University, Baltimore, MD; Karin Neufeld, MD, MPH, Johns Hopkins Hospital, Baltimore, MD; Holly Richter, PhD, MD, University of Alabama at Birmingham, Birmingham, AL</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>To ensure that potential conflicts of interest were disclosed and addressed appropriately, panelists were asked to identify potential conflicts of interest with the panel before the initiation of guideline development. Each expert panel member completed a disclosure form that was shared with the entire panel before the process began. Potential conflicts of interest were reviewed by American Geriatrics Society (AGS) and by the panel co-chairs, and panel disclosures were made available to the panel throughout the guideline development process, as well as to potential reviewers during the peer review and open comment period. None of the conflicts were rated as disqualifying. Changes in panelist's conflicts of interest were requested and updated three times during the guideline development process. Panel members who disclosed affiliations or financial interests with commercial entities are listed below.</p>
+<p><strong><span style="text-decoration: underline;">Conflicts of Interest</span></strong></p>
+<p>Drs. Blaum, Boustani, Chalian, Inouye, Katlic, Kempton, Kennedy, Kimchi, Ko, Mattison, Mohanty, and Nana indicated no conflicts of interest. Dr. Busby-Whitehead indicated her spouse is a paid consultant for Ironwood Pharma, Ono Pharma: Fecal Incontinence and Irritable Bowel Syndrome, and her spouse has received a grant from Salix Pharma, Ono Pharma: Fecal Incontinence and Irritable Bowel Syndrome. Dr. Deiner has received grants from the NIH, ADRC, and AGS Foundation for Anesthesia Education and Research, and Dr. Deiner's spouse has received grants from NIH, ADRC, AGS Foundation for Anesthesia Education and Research, and Brookdale. Dr. Deiner's spouse is also on the speaker's panel for Baxter. Both Dr. Deiner and spouse receive product support from Covidien and Aspect. Dr. Fick is a paid consultant for SLACK Inc. as Editor of the <em>Journal of Gerontological Nursing</em>. Dr. Fick has current R01 funding from the NIH and from the National Institute of Nursing Research. Ms. Giovannetti is employed by the National Committee for Quality Assurance (NCQA) which conducts healthcare quality research, develops healthcare quality measures, publishes healthcare quality data, and distributes healthcare quality products (e.g., Accreditation, Certification). Dr. Hutchison received grants from MedEd Portal/Josiah Macy Foundation IPE Award, and Dr. Hutchison and spouse hold shares in Cardinal Health and Care Fusion. Dr. Johanning received a royalty on Isolation Station from Harloff Corporation. Dr. Mattison is a paid consultant for Practical Reviews in Hospital Medicine and is an UpToDate contributor. Dr. Leung and her husband receive funding from the NIH. Dr. Leung's husband is the cofounder of Mynosys Inc. Dr. Needham is Chair of the Early Mobility Committee for the upcoming Society of Critical Care Medicine Clinical Practice Guideline for pain, agitation, delirium, early mobility, and sleep. Dr. Neufeld is participating on a grant from ORNIM medical manufacturing that is funding a portion of her salary. Dr. Richter is a paid consultant for and has received a research grant from Pelvalon. She has also received royalties from UpToDate. Dr. Robinson has received research grants from Medtronics, Inc., Karl Storz Endoscopy America, and Covidien.</p>
+<p>All other authors have no conflict of interest to disclose.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available from the <a href="/web/20180712203655/https://www.guideline.gov/Home/Disclaimer?id=49932&amp;contentType=summary&amp;redirect=http%3a%2f%2fonlinelibrary.wiley.com%2fdoi%2f10.1111%2fjgs.13281%2fpdf" title="Journal of the American Geriatrics Society Web site">Journal of the American Geriatrics Society Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203655im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following is available:</p>
+<ul style="list-style-type: disc;">
+    <li>American Geriatrics Society clinical practice guideline for postoperative delirium in older adults. Full guideline. New York (NY): American Geriatrics Society; 2014 Oct 10. 41 p. Available to registered users from the <a href="/web/20180712203655/https://www.guideline.gov/Home/Disclaimer?id=49932&amp;contentType=summary&amp;redirect=http%3a%2f%2fgeriatricscareonline.org%2fProductAbstract%2famerican-geriatrics-society-clinical-practice-guideline-for-postoperative-delirium-in-older-adults%2fCL018" title="GeriatricsCareOnline.org Web site">GeriatricsCareOnline.org Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203655im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>The following is available:</p>
+<ul style="list-style-type: disc;">
+    <li>Tips for managing delirium in older adults. Patient Handout. 2014 Mar. 3 p. Available to registered users in <a href="/web/20180712203655/https://www.guideline.gov/Home/Disclaimer?id=49932&amp;contentType=summary&amp;redirect=http%3a%2f%2fgeriatricscareonline.org%2fHandoutFullText%2fH001%2fH001_HANDOUT021" title="GeriatricsCareOnline.org Web site (English Version)">English</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203655im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> and <a href="/web/20180712203655/https://www.guideline.gov/Home/Disclaimer?id=49932&amp;contentType=summary&amp;redirect=http%3a%2f%2fgeriatricscareonline.org%2fHandoutFullText%2fH001%2fH001_HANDOUT022" title="GeriatricsCareOnline.org Web site (Spanish Version)">Spanish</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712203655im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> from the GeriatricsCareOnline.org Web site. </li>
+</ul>
+<p class="Note">Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on February 15, 2016. The information was verified by the guideline developer on April 5, 2016. This summary was updated by ECRI Institute on May 24, 2016 following the U.S. Food and Drug Administration advisory on Olanzapine. This summary was updated by ECRI Institute on June 2, 2016 following the U.S. Food and Drug Administration advisory on opioid pain medicines. This summary was updated by ECRI Institute on October 21, 2016 following the U.S. Food and Drug Administration advisory on opioid pain and cough medicines combined with benzodiazepines.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the guideline developer's copyright restrictions. Inquiries for information should be directed to <a href="https://web.archive.org/web/20180712203655/mailto:infoamger@americangeriatrics.org">infoamger@americangeriatrics.org</a>.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712203655/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712203655/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712203655/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712203655/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712203655/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712203655/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712203655/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203655/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203655/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203655/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203655/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712203655/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712203655/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712203655/https://www.guideline.gov/disclaimer?id=49932&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712203655im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712203655im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712203655/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712203655/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712203655/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712203655/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712203655/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712203655/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712203655/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712203655/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712203655/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712203655/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712203655/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712203655/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712203655/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712203655/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712203655/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712203655/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712203655/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712203655/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712203655/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712203655im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712203655im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712203655/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712203655im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712203655im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712203655/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712203655js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712203655js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:36:55 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:48:06 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 1665.239 (3)
+  esindex: 0.007
+  captures_list: 1700.216
+  CDXLines.iter: 18.543 (3)
+  PetaboxLoader3.datanode: 1079.815 (4)
+  exclusion.robots: 0.308
+  exclusion.robots.policy: 0.285
+  RedisCDXSource: 12.627
+  PetaboxLoader3.resolve: 502.022 (3)
+  load_resource: 166.407
+-->

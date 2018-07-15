@@ -1,0 +1,1241 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app17.us.archive.org';v.server_ms=187;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>Clinical practice guidelines for management of gout. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712211631im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712211631im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712211631im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712211631im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712211631/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712211631im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712211631cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712211631js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712211631if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712211631/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712211631if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712211631/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712211631/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712211631/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712211631/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712211631im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712211631im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712211631im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712211631/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712211631/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712211631/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712211631/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712211631/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712211631/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712211631/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712211631/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712211631/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712211631/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712211631/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712211631/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712211631/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712211631/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712211631/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712211631/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712211631/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712211631/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712211631/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712211631/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712211631/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010306</li>
+            <li>2013
+            </li>            
+                                </ul>
+        <div>
+                <h1>Clinical practice guidelines for management of gout.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712211631/https://www.guideline.gov/search?f_Guideline_Developer_String=Spanish%20Society%20of%20Rheumatology&amp;fLockTerm=Spanish%2BSociety%2Bof%2BRheumatology">Spanish Society of Rheumatology</a></li>
+                        <li>   
+                                <a id="1235" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Spanish Society of Rheumatology (SER). Clinical practice guidelines for management of gout. Madrid (Spain): Spanish Society of Rheumatology (SER); 2013. 161 p.  [470 references]</td></tr></table>                    <p><a href="/web/20180712211631/https://www.guideline.gov/Home/Disclaimer?id=47897&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.ser.es%252fwp-content%252fuploads%252f2015%252f09%252fGuipClinGot_1140226_EN.pdf">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712211631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712211631/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712211631/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712211631/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712211631/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712211631/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712211631/https://www.guideline.gov/search?f_ICD9CM_CUI=C1561643&amp;fLockTerm=Chronic+kidney+disease%2c+unspecified">Chronic kidney disease, unspecified</a>
+ (585.9), <a href="/web/20180712211631/https://www.guideline.gov/search?f_ICD9CM_CUI=C0022661&amp;fLockTerm=End+stage+renal+disease">End stage renal disease</a>
+ (585.6), <a href="/web/20180712211631/https://www.guideline.gov/search?f_ICD9CM_CUI=C0031809&amp;fLockTerm=General+physical+examination">General physical examination</a>
+ (89.7), <a href="/web/20180712211631/https://www.guideline.gov/search?f_ICD9CM_CUI=C0018099&amp;fLockTerm=Gout%2c+unspecified">Gout, unspecified</a>
+ (274.9), <a href="/web/20180712211631/https://www.guideline.gov/search?f_ICD9CM_CUI=C0031139&amp;fLockTerm=Peritoneal+dialysis">Peritoneal dialysis</a>
+ (54.98)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0001347&amp;fLockTerm=Acute-Phase+Proteins">Acute-Phase Proteins</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0001617&amp;fLockTerm=Adrenal+Cortex+Hormones">Adrenal Cortex Hormones</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0001655&amp;fLockTerm=Adrenocorticotropic+Hormone">Adrenocorticotropic Hormone</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0002144&amp;fLockTerm=Allopurinol">Allopurinol</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0003211&amp;fLockTerm=Anti-Inflammatory+Agents%2c+Non-Steroidal">Anti-Inflammatory Agents, Non-Steroidal</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0005035&amp;fLockTerm=Benzbromarone">Benzbromarone</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0005771&amp;fLockTerm=Blood+Cell+Count">Blood Cell Count</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0005774&amp;fLockTerm=Blood+Chemical+Analysis">Blood Chemical Analysis</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0009262&amp;fLockTerm=Colchicine">Colchicine</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0085387&amp;fLockTerm=Cyclooxygenase+Inhibitors">Cyclooxygenase Inhibitors</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0376636&amp;fLockTerm=Disease+Management">Disease Management</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0687133&amp;fLockTerm=Drug+Interactions">Drug Interactions</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0249529&amp;fLockTerm=Febuxostat">Febuxostat</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0018099&amp;fLockTerm=Gout">Gout</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0018100&amp;fLockTerm=Gout+Suppressants">Gout Suppressants</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0018759&amp;fLockTerm=Health+Status">Health Status</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0456852&amp;fLockTerm=Image-Guided+Biopsy">Image-Guided Biopsy</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0022661&amp;fLockTerm=Kidney+Failure%2c+Chronic">Kidney Failure, Chronic</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0022662&amp;fLockTerm=Kidney+Function+Tests">Kidney Function Tests</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0022671&amp;fLockTerm=Kidney+Transplantation">Kidney Transplantation</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0023901&amp;fLockTerm=Liver+Function+Tests">Liver Function Tests</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0024485&amp;fLockTerm=Magnetic+Resonance+Imaging">Magnetic Resonance Imaging</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0025084&amp;fLockTerm=Medical+History+Taking">Medical History Taking</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C1611232&amp;fLockTerm=Medication+Therapy+Management">Medication Therapy Management</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C1096117&amp;fLockTerm=Off-Label+Use">Off-Label Use</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0030198&amp;fLockTerm=Pain+Measurement">Pain Measurement</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0030688&amp;fLockTerm=Patient+Education+as+Topic">Patient Education as Topic</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0031139&amp;fLockTerm=Peritoneal+Dialysis">Peritoneal Dialysis</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0031809&amp;fLockTerm=Physical+Examination">Physical Examination</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0032433&amp;fLockTerm=Polyamines">Polyamines</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0137996&amp;fLockTerm=Potassium+Citrate">Potassium Citrate</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0033137&amp;fLockTerm=Primary+Health+Care">Primary Health Care</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0034380&amp;fLockTerm=Quality+of+Life">Quality of Life</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C1962945&amp;fLockTerm=Radiography">Radiography</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0718050&amp;fLockTerm=Sevelamer">Sevelamer</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0039859&amp;fLockTerm=Thiazoles">Thiazoles</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MSH_CUI=C0041618&amp;fLockTerm=Ultrasonography">Ultrasonography</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0001347&amp;fLockTerm=Acute-Phase+Proteins">Acute-Phase Proteins</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0001617&amp;fLockTerm=Adrenal+Cortex+Hormones">Adrenal Cortex Hormones</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0003211&amp;fLockTerm=Anti-Inflammatory+Agents%2c+Non-Steroidal">Anti-Inflammatory Agents, Non-Steroidal</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0005771&amp;fLockTerm=blood+cell+count">blood cell count</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0005774&amp;fLockTerm=Blood+Chemical+Analysis">Blood Chemical Analysis</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C1561643&amp;fLockTerm=Chronic+Kidney+Diseases">Chronic Kidney Diseases</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0001655&amp;fLockTerm=Corticotropin">Corticotropin</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0085387&amp;fLockTerm=Cyclooxygenase+Inhibitors">Cyclooxygenase Inhibitors</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0376636&amp;fLockTerm=Disease+Management">Disease Management</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0687133&amp;fLockTerm=Drug+Interactions">Drug Interactions</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0249529&amp;fLockTerm=febuxostat">febuxostat</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C1998319&amp;fLockTerm=Functional+capacity">Functional capacity</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0018099&amp;fLockTerm=Gout">Gout</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0022661&amp;fLockTerm=Kidney+Failure%2c+Chronic">Kidney Failure, Chronic</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0022662&amp;fLockTerm=Kidney+Function+Tests">Kidney Function Tests</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0022671&amp;fLockTerm=Kidney+Transplantation">Kidney Transplantation</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0023901&amp;fLockTerm=Liver+Function+Tests">Liver Function Tests</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0024485&amp;fLockTerm=Magnetic+Resonance+Imaging">Magnetic Resonance Imaging</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C1096117&amp;fLockTerm=Off-Label+Treatment">Off-Label Treatment</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0030688&amp;fLockTerm=Patient+education+(procedure)">Patient education (procedure)</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0031139&amp;fLockTerm=Peritoneal+Dialysis">Peritoneal Dialysis</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0031809&amp;fLockTerm=physical+examination">physical examination</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0137996&amp;fLockTerm=potassium+citrate">potassium citrate</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0033137&amp;fLockTerm=Primary+Health+Care">Primary Health Care</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0034380&amp;fLockTerm=Quality+of+life">Quality of life</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C1962945&amp;fLockTerm=Radiographic+imaging+procedure">Radiographic imaging procedure</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0086930&amp;fLockTerm=Risk+Assessment">Risk Assessment</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0455272&amp;fLockTerm=Serum+urate+measurement">Serum urate measurement</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0718050&amp;fLockTerm=sevelamer">sevelamer</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0041618&amp;fLockTerm=Ultrasonography">Ultrasonography</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_MTH_CUI=C0428286&amp;fLockTerm=Urine+urate+measurement">Urine urate measurement</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712211631/https://www.guideline.gov/search?f_PDQ_CUI=C0002144&amp;fLockTerm=allopurinol">allopurinol</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_PDQ_CUI=C0009262&amp;fLockTerm=colchicine">colchicine</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_PDQ_CUI=C0001655&amp;fLockTerm=corticotropin">corticotropin</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_PDQ_CUI=C0022671&amp;fLockTerm=kidney+transplantation">kidney transplantation</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_PDQ_CUI=C0024485&amp;fLockTerm=magnetic+resonance+imaging">magnetic resonance imaging</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_PDQ_CUI=C0041618&amp;fLockTerm=ultrasonography">ultrasonography</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0001347&amp;fLockTerm=Acute+phase+reactant">Acute phase reactant</a>
+ (91309004), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0001617&amp;fLockTerm=Adrenal+cortex+hormone">Adrenal cortex hormone</a>
+ (21568003), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0001617&amp;fLockTerm=Adrenal+cortex+hormone">Adrenal cortex hormone</a>
+ (79440004), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002144&amp;fLockTerm=Allopurinol">Allopurinol</a>
+ (25246002), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002144&amp;fLockTerm=Allopurinol">Allopurinol</a>
+ (387135004), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C2711404&amp;fLockTerm=Assessment+for+risk+of+cardiovascular+disease">Assessment for risk of cardiovascular disease</a>
+ (441829007), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0005035&amp;fLockTerm=Benzbromarone">Benzbromarone</a>
+ (698025001), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0005035&amp;fLockTerm=Benzbromarone">Benzbromarone</a>
+ (703372005), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0005771&amp;fLockTerm=Blood+cell+count">Blood cell count</a>
+ (88308000), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0005774&amp;fLockTerm=Blood+chemistry">Blood chemistry</a>
+ (166312007), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1561643&amp;fLockTerm=Chronic+kidney+disease">Chronic kidney disease</a>
+ (709044004), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0009262&amp;fLockTerm=Colchicine">Colchicine</a>
+ (387413002), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0009262&amp;fLockTerm=Colchicine">Colchicine</a>
+ (73133000), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0001655&amp;fLockTerm=Corticotropin+preparation">Corticotropin preparation</a>
+ (111153005), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0001655&amp;fLockTerm=Corticotropin+preparation">Corticotropin preparation</a>
+ (40789008), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0200652&amp;fLockTerm=Crystal+identification+of+synovial+fluid">Crystal identification of synovial fluid</a>
+ (75195008), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0687133&amp;fLockTerm=Drug+interaction+with+drug">Drug interaction with drug</a>
+ (404204005), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0687133&amp;fLockTerm=Drug+interaction+with+drug">Drug interaction with drug</a>
+ (79899007), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0018100&amp;fLockTerm=Drugs+for+the+treatment+of+gout">Drugs for the treatment of gout</a>
+ (330060000), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0022661&amp;fLockTerm=End-stage+renal+disease">End-stage renal disease</a>
+ (46177005), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0022661&amp;fLockTerm=End-stage+renal+disease">End-stage renal disease</a>
+ (90688005), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0249529&amp;fLockTerm=Febuxostat">Febuxostat</a>
+ (441610003), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0249529&amp;fLockTerm=Febuxostat">Febuxostat</a>
+ (441743008), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1998319&amp;fLockTerm=Functional+capacity">Functional capacity</a>
+ (429160000), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0018099&amp;fLockTerm=Gout">Gout</a>
+ (90560007), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0018759&amp;fLockTerm=Health+status">Health status</a>
+ (406221003), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0456852&amp;fLockTerm=Imaging+guided+biopsy">Imaging guided biopsy</a>
+ (277590007), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0023901&amp;fLockTerm=Liver+function+tests+-+general">Liver function tests - general</a>
+ (26958001), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0023901&amp;fLockTerm=Liver+function+tests+-+general">Liver function tests - general</a>
+ (271552009), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0024485&amp;fLockTerm=Magnetic+resonance+imaging">Magnetic resonance imaging</a>
+ (113091000), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0024485&amp;fLockTerm=Magnetic+resonance+imaging">Magnetic resonance imaging</a>
+ (312250003), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0336660&amp;fLockTerm=Magnetic+resonance+imaging+unit">Magnetic resonance imaging unit</a>
+ (90003000), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0475091&amp;fLockTerm=Musculoskeletal+system+physical+examination">Musculoskeletal system physical examination</a>
+ (363215001), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003211&amp;fLockTerm=Non-steroidal+anti-inflammatory+agent">Non-steroidal anti-inflammatory agent</a>
+ (16403005), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0003211&amp;fLockTerm=Non-steroidal+anti-inflammatory+agent">Non-steroidal anti-inflammatory agent</a>
+ (372665008), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030198&amp;fLockTerm=Pain+assessment">Pain assessment</a>
+ (225399009), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030688&amp;fLockTerm=Patient+education">Patient education</a>
+ (311401005), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0031139&amp;fLockTerm=Peritoneal+dialysis">Peritoneal dialysis</a>
+ (71192002), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0031809&amp;fLockTerm=Physical+examination">Physical examination</a>
+ (302199004), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0031809&amp;fLockTerm=Physical+examination">Physical examination</a>
+ (5880005), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0031809&amp;fLockTerm=Physical+examination">Physical examination</a>
+ (81375008), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0032433&amp;fLockTerm=Polyamine">Polyamine</a>
+ (415130003), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0137996&amp;fLockTerm=Potassium+citrate">Potassium citrate</a>
+ (387450001), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0137996&amp;fLockTerm=Potassium+citrate">Potassium citrate</a>
+ (78542000), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1962945&amp;fLockTerm=Radiographic+imaging+procedure">Radiographic imaging procedure</a>
+ (363680008), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0022662&amp;fLockTerm=Renal+function+study">Renal function study</a>
+ (44277000), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0086930&amp;fLockTerm=Risk+assessment">Risk assessment</a>
+ (225338004), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0455272&amp;fLockTerm=Serum+urate+measurement">Serum urate measurement</a>
+ (273966000), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0455272&amp;fLockTerm=Serum+urate+measurement">Serum urate measurement</a>
+ (275740009), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0718050&amp;fLockTerm=Sevelamer">Sevelamer</a>
+ (329195003), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0718050&amp;fLockTerm=Sevelamer">Sevelamer</a>
+ (395871000), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0451521&amp;fLockTerm=Swollen+joint+count">Swollen joint count</a>
+ (273856009), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0039859&amp;fLockTerm=Thiazole">Thiazole</a>
+ (428162000), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0022671&amp;fLockTerm=Transplant+of+kidney">Transplant of kidney</a>
+ (70536003), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0041618&amp;fLockTerm=Ultrasonography">Ultrasonography</a>
+ (16310003), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0041618&amp;fLockTerm=Ultrasonography">Ultrasonography</a>
+ (278292003), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0428286&amp;fLockTerm=Urine+urate+measurement">Urine urate measurement</a>
+ (24205003), <a href="/web/20180712211631/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0428286&amp;fLockTerm=Urine+urate+measurement">Urine urate measurement</a>
+ (271258007)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SPN</h5>
+                    <div class="field-content">
+<a href="/web/20180712211631/https://www.guideline.gov/search?f_SPN_CUI=C0009262&amp;fLockTerm=COLCHICINE">COLCHICINE</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_SPN_CUI=C0302622&amp;fLockTerm=SYSTEM%2c+IMAGING%2c+PULSED+DOPPLER%2c+ULTRASONIC">SYSTEM, IMAGING, PULSED DOPPLER, ULTRASONIC</a>
+, <a href="/web/20180712211631/https://www.guideline.gov/search?f_SPN_CUI=C0336660&amp;fLockTerm=SYSTEM%2c+NUCLEAR+MAGNETIC+RESONANCE+IMAGING">SYSTEM, NUCLEAR MAGNETIC RESONANCE IMAGING</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712211631/https://www.guideline.gov/search?f_UMD_CUI=C0492899&amp;fLockTerm=Radiographic+Systems">Radiographic Systems</a>
+ (18-429), <a href="/web/20180712211631/https://www.guideline.gov/search?f_UMD_CUI=C0336660&amp;fLockTerm=Scanning+Systems%2c+Magnetic+Resonance+Imaging">Scanning Systems, Magnetic Resonance Imaging</a>
+ (16-260), <a href="/web/20180712211631/https://www.guideline.gov/search?f_UMD_CUI=C0302622&amp;fLockTerm=Scanning+Systems%2c+Ultrasonic">Scanning Systems, Ultrasonic</a>
+ (14-278)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#430" class="section-mark">Contraindications</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712211631/https://www.guideline.gov/summaries/downloadcontent/ngc-10306?contentType=pdf" class="pdf">.PDF 125.4 kb</a></li>
+                            <li><a href="/web/20180712211631/https://www.guideline.gov/summaries/downloadcontent/ngc-10306?contentType=word" class="word">Word Document 323.3 kb</a></li>
+                            <li><a href="/web/20180712211631/https://www.guideline.gov/summaries/downloadcontent/ngc-10306?contentType=xml" class="xml">.XML 67.4 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712211631/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/47897/clinical-practice-guidelines-for-management-of-gout" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712211631/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/47897/clinical-practice-guidelines-for-management-of-gout" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712211631/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/47897/clinical-practice-guidelines-for-management-of-gout&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712211631/mailto:/?Subject=AHRQ: Clinical practice guidelines for management of gout.&amp;body=https://www.guideline.gov/summaries/summary/47897/clinical-practice-guidelines-for-management-of-gout" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: Clinical practice guidelines for management of gout. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2013 Jan 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712211631/https://www.guideline.gov/summaries/citedownload/47897?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712211631/https://www.guideline.gov/summaries/citedownload/47897?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712211631/https://www.guideline.gov/summaries/citedownload/47897?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712211631/https://www.guideline.gov/summaries/citedownload/47897?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712211631/https://www.guideline.gov/summaries/citedownload/47897?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712211631/https://www.guideline.gov/summaries/citedownload/47897">RefWorks</a></li>
+                            <li><a href="/web/20180712211631/https://www.guideline.gov/summaries/citedownload/47897?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="47897" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p>Definitions for the levels of evidence (<strong>1-5</strong>) and the grades of recommendations (<strong>A-D</strong>) are provided in Table 2 of the original guideline document.</p>
+<p><strong><span style="text-decoration: underline;">Diagnosis</span></strong></p>
+<p><strong>Clinical Diagnosis</strong></p>
+<p><em>Gold Standard</em></p>
+<p><strong>Recommendation 1</strong>: The definitive diagnosis of gout is based on the identification of monosodium urate (MSU) crystals in synovial fluid or tophaceous material (<strong>Level of evidence [LE] 2b; Grade of recommendation [GR] B</strong>).</p>
+<p><strong>Recommendation 2</strong>: In intercritical periods, it is possible to obtain synovial fluid so as to establish the diagnosis of gout (<strong>LE 2b; GR B</strong>).</p>
+<p><strong>Recommendation 3</strong>: In cases of arthritis of unknown origin gout should be included in the differential diagnosis (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Recommendation 4</strong>: The presence of MSU crystals does not rule out the presence of concomitant infection (<strong>LE 3a; GR C</strong>).</p>
+<p><strong>Recommendation 5</strong>: "Symptomatology" and serum uric acid levels do neither confirm nor rule out the diagnosis of gout (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Imaging Techniques</strong></p>
+<p><strong>Recommendation 6</strong>: It is not recommended to perform plain radiography, computed tomography (CT) or magnetic resonance imaging (MRI) for the diagnosis of gout (<strong>LE 2b; GR B</strong>).</p>
+<p><strong>Recommendation 7</strong>: Ultrasound assists in the diagnosis of gout; crystal visualization is what establishes the definitive diagnosis (<strong>LE 4; GR C</strong>).</p>
+<p><strong>Recommendation 8</strong>: Ultrasound-guided puncture facilitates obtaining fluid or other samples for the diagnosis of gout (<strong>LE 4; GR C</strong>).</p>
+<p><strong><span style="text-decoration: underline;">Assessment</span></strong></p>
+<p><strong>Recommendation 9</strong>: In all patients with gout both the aetiology and the mechanism inducing hyperuricaemia must be assessed (<strong>LE 5; GR D</strong>).</p>
+<p><strong>General Assessment</strong></p>
+<p><strong>Recommendation 10</strong>: In the first assessment of a patient with gout a complete history should be taken, along with a complete general and musculoskeletal physical examination (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Recommendation 11</strong>: Special attention should be paid to cardiovascular risk factors, using any of the available risk estimation tools (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Recommendation 12</strong>: The panel recommends to evaluate in patients with gout the magnitude of the attack and severity of the disease (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Specific Assessment</strong></p>
+<p><strong>Recommendation 13</strong>: Specific assessment of patients with gout includes serum urate level, the frequency and intensity of attacks (number and size of tender and swollen joints), the presence of tophi, pain, quality of life, functional capacity, and overall assessment of health status (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Laboratory Tests</strong></p>
+<p><em>Intercritical Period: First Assessment after an Acute Episode</em></p>
+<p><strong>Recommendation 14</strong>: Once the acute episode is overcome the patient with gout should be studied by blood and urine analysis for determination of the following parameters: complete blood count, blood chemistry panel, liver and kidney function, acute phase reactants and study of urinary uric acid clearance (<strong>LE 5; GR D</strong>).</p>
+<p><em>Intercritical Period: Successive Controls</em></p>
+<p><strong>Recommendation 15</strong>: Once urate-lowering treatment has been initiated, laboratory tests should be performed to verify the achievement of the therapeutic goal (serum uric acid levels &lt;6 mg/dL), and to monitor possible comorbidities and drug toxicity (<strong>LE 5; GR D</strong>).</p>
+<p><strong><span style="text-decoration: underline;">Gout and Kidney Failure</span></strong></p>
+<p><strong>Treatment of Acute Attacks</strong></p>
+<p><em>Colchicine</em></p>
+<p><strong>Recommendation 16</strong>: In patients with chronic kidney disease (CKD), the use of oral colchicine can be assessed to reduce the severity of an acute attack, following Summary of Product Characteristics (SmPC) specifications (<strong>LE 1b; GR A</strong>).</p>
+<p><strong>Recommendation 17</strong>: In patients with CKD, consider discontinuing statins while using colchicine (<strong>LE 3a; GR B</strong>).</p>
+<p><em>Corticosteroids</em></p>
+<p><strong>Recommendation 18</strong>: In cases of CKD and diabetes, a therapeutic option for the treatment of acute gout may be colchicine rather than non-steroidal anti-inflammatory drugs (NSAIDs) or corticosteroids (<strong>LE 3a; GR B</strong>).</p>
+<p><em>Corticotropin (Adrenocorticotropic Hormone [ACTH])</em></p>
+<p><strong>Recommendation 19</strong>: In case of CKD, note that corticotropin has similar indications and efficacy to corticosteroids in the treatment of acute gout attacks (<strong>LE 1b; GR A</strong>).</p>
+<p><strong>Prophylaxis for Recurrence of Acute Inflammation Attacks</strong></p>
+<p><strong>Recommendation 20</strong>: In patients with CKD and gout NSAIDs are not recommended for the prevention of new attacks (<strong>LE 3a; GR B</strong>).</p>
+<p><strong>Recommendation 21</strong>: In patients with CKD and gout the use of colchicine for prophylaxis of new attacks can be assessed using the SmPC (<strong>LE 2b; GR B</strong>).</p>
+<p><strong>Uricosuric Agents</strong></p>
+<p><strong>Recommendation 22</strong>: In patients with mild/moderate CKD and gout the uricosuric drug of choice is benzbromarone at doses of 50&ndash;200 mg/day (<strong>LE 1b; GR A</strong>).</p>
+<p><strong>Recommendation 23</strong>: In patients with CKD administering potassium citrate (30&ndash;80 mEq/day) helps keep urinary pH above 6 and dissolve renal calculi formed by uric acid (<strong>LE 3a; GR B</strong>).</p>
+<p><strong>Allopurinol</strong></p>
+<p><strong>Recommendation 24</strong>: In patients with CKD it is recommended to adjust the dose of allopurinol according to the SmPC (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Febuxostat</strong></p>
+<p><strong>Recommendation 25</strong>: Patients with CKD should be evaluated for the use of febuxostat, since it has been shown to be superior to allopurinol in all strata of mild/moderate CKD, even at doses of 40 mg/day, with a similar frequency of adverse effects (<strong>LE 1b; GR A</strong>).</p>
+<p><strong>Dialysis</strong></p>
+<p><em>Treatment of Acute Inflammation Episodes</em></p>
+<p><strong>Recommendation 26</strong>: The use of high permeability haemodialysis membranes with high clearance power could allow safe use of colchicine in patients with CKD, but it must be remembered that in Spain this indication is not reflected in its SmPC (<strong>LE 3a; GR B</strong>).</p>
+<p><em>Prophylaxis of Recurrent Episodes of Acute Inflammation</em></p>
+<p><strong>Recommendation 27</strong>: In haemodialysis patients who require prophylaxis of acute episodes it would be advisable to use high permeability membranes and to prescribe a dose of 0.5&ndash;0.6 mg of colchicine after dialysis, but it must be noted that this is not approved in the current SmPC (<strong>LE 4; GR C</strong>).</p>
+<p><em>Urate-Lowering Treatment</em></p>
+<p><strong>Recommendation 28</strong>: The low-medium intensity doses of peritoneal dialysis (3&ndash;4 daily peritoneal fluid stays) allow extraction of 500 mg of uric acid daily (<strong>LE 3b; GR B</strong>).</p>
+<p><strong>Recommendation 29</strong>: Sevelamer, an intestinal phosphate binder used in the treatment of hyperphosphataemia associated with advanced CKD, can reduce serum uric acid levels (<strong>LE 2a; GR B</strong>).</p>
+<p><strong>Recommendation 30</strong>: Allopurinol should be administered after haemodialysis (<strong>LE 2a; GR B</strong>).</p>
+<p><strong>Kidney Transplant</strong></p>
+<p><em>Immunosuppressive Drugs</em></p>
+<p><strong>Recommendation 31</strong>: In kidney transplant patients, tacrolimus, due to having a mechanism of action similar to cyclosporine, in theory could lead to interaction with NSAIDs (<strong>LE 2b; GR B</strong>).</p>
+<p><strong>Recommendation 32</strong>: In renal transplant patients, concomitant administration of azathioprine and allopurinol reduces the metabolism of azathioprine and increases the risk of bone marrow toxicity, so their association is contraindicated (<strong>LE 2b; GR B</strong>).</p>
+<p><em>Treatment of Acute Inflammation Episodes</em></p>
+<p><strong>Recommendation 33</strong>: If it is necessary to use colchicine in patients with kidney transplant and cyclosporine A, it is recommended to reduce the dose of colchicine to one-third in acute episodes and to one-fourth in prophylaxis (<strong>LE 2b; GR B</strong>).</p>
+<p><strong>Recommendation 34</strong>: In kidney transplant patients corticosteroids may be a therapeutic option in the treatment of acute attacks (<strong>LE 3b; GR B</strong>).</p>
+<p><strong>Recommendation 35</strong>: In patients with kidney transplant, corticotropin is a potential therapeutic alternative for the treatment of acute attacks (<strong>LE 4; GR C</strong>).</p>
+<p><em>Urate-Lowering Treatment</em></p>
+<p><strong>Recommendation 36</strong>: Benzbromarone has shown great effectiveness in kidney transplant patients, even those treated with cyclosporine A (<strong>LE 2a; GR B</strong>).</p>
+<p><strong><span style="text-decoration: underline;">Special Considerations</span></strong></p>
+<p><strong>The Nursing Perspective</strong></p>
+<p><strong>Recommendation 37</strong>: The rheumatology nurse can provide the patient with a gout-specific education program, defined as a set of structured activities aimed at increasing the level of knowledge about the experience of being a patient with gout and promoting healthy lifestyles (<strong>LE 5; GR D</strong>).</p>
+<p><em>Patient Education Plan</em></p>
+<p><strong>Recommendation 38</strong>: The education program for patients with gout (individual or group) will address the following key issues: therapeutic target, diet and alcohol consumption, pain management, cardiovascular risk management, weight control, exercise, and information about the treatments prescribed in order to improve adherence and patient safety (<strong>LE 5; GR D</strong>).</p>
+<p><strong><span style="text-decoration: underline;">Management in Primary Care. Referral Criteria</span></strong></p>
+<p><strong>Diagnosis in Primary Care</strong></p>
+<p><strong>Recommendation 39</strong>: Although the gold standard for the diagnosis of gout is the visualization of crystals, in patients with typical symptoms such as intermittent arthritis with complete resolution at the first metatarsophalangeal (MTP) joint (podagra) in the presence of prior hyperuricaemia, clinical diagnosis may be a reasonable alternative for the primary care (PC) doctor up to definitive diagnosis (<strong>LE 5; GR D</strong>).</p>
+<p><strong>General Recommendations in Primary Care</strong></p>
+<p><strong>Recommendation 40</strong>: Patient education and changes in lifestyle, especially with regard to weight loss, diet, and reduced alcohol consumption, are fundamental aspects of patient management in which the primary care physicians can have a leading role (<strong>LE 2a; GR B</strong>).</p>
+<p><em>Acute Attack</em></p>
+<p><strong>Recommendation 41</strong>: The choice of treatment will give special consideration to comorbidities and possible interactions with drugs used to treat them. During acute episodes of inflammation urate-lowering drugs should not be prescribed, suspended or changed in dose (<strong>LE 5; GR D</strong>).</p>
+<p><em>Evaluation and Management of Comorbidities</em></p>
+<p><strong>Recommendation 42</strong>: Primary care should play a role in the assessment and management of comorbidities present in patients with gout (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Recommendation 43</strong>: In primary care patients with gout and indication of cardiovascular events prevention administration of low-dose aspirin should not be suspended (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Recommendation 44</strong>: Primary care patients with gout and hypertension should be assessed for suspension of thiazide and loop diuretics and initiation of treatment with angiotensin receptor antagonists (especially losartan) or calcium channel blockers (<strong>LE 5; GR D</strong>).</p>
+<p><strong><span style="text-decoration: underline;">Treatment</span></strong></p>
+<p><strong>Recommendation 45</strong>: Lifestyle changes should be suggested if drug treatment is prescribed to reduce serum uric acid levels after diagnosis of gout, but taking into account patient characteristics and comorbidities (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Indications of Drug Treatment</strong></p>
+<p><strong>Recommendation 46</strong>: The treatment goal is the dissolution of MSU crystals by reducing serum urate levels (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Recommendation 47</strong>: Serum uric acid must reach levels below 6.0 mg/dL, although lower concentrations can accelerate the cure of the disease (<strong>LE 1b; GR A</strong>).</p>
+<p><strong>Urate-Lowering Treatment</strong></p>
+<p><strong>Recommendation 48</strong>: The urate-lowering drugs available (allopurinol, febuxostat and benzbromarone) have shown to be highly effective in achieving the therapeutic goal when prescribed in adequate doses (<strong>LE 1b; GR A</strong>).</p>
+<p><strong>Recommendation 49</strong>: Urate-lowering treatment should be started from low doses, progressively stepping-up if necessary, until reaching effective doses to achieve a therapeutic serum uric acid level (<strong>LE 1b; GR A</strong>).</p>
+<p><strong>Recommendation 50</strong>: Currently it is not possible to recommend one urate-lowering drug over another (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Recommendation 51</strong>: The selection of the urate-lowering drug will be based on data regarding efficacy, safety and experience of the prescribing physician, the patient's clinical profile &ndash; severity of illness and comorbidity &ndash; and indications, recommendations and restrictions described in each product's SmPC (<strong>LE 5; GR D</strong>).</p>
+<p><em>Indication of Urate-Lowering Treatment and Monitoring</em></p>
+<p><strong>Recommendation 52</strong>: It is advisable to begin urate-lowering treatment in patients who have not achieved the therapeutic goal of uric acid (&lt;6 mg/dL) with dietary health measures (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Recommendation 53</strong>: Treatment for the prevention of acute episodes of inflammation should always be prescribed unless contraindicated, at least during the first six months of urate-lowering treatment (<strong>LE 2b; GR B</strong>).</p>
+<p><strong>Recommendation 54</strong>: Urate-lowering therapy should be maintained in the long term to achieve complete dissolution of the crystals and prevent recurrence of hyperuricaemia (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Recommendation 55</strong>: There must be close monitoring both in terms of efficacy and safety when drugs are used for the treatment of gout (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Recommendation 56</strong>: Evaluation of response to urate-lowering treatment may be made based on a number of variables, including: frequency of acute attacks, serum uric acid levels, presence and number of MSU crystals in synovial fluid, and number and size of tophi (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Prevention of Acute Attacks</strong></p>
+<p><strong>Recommendation 57</strong>: The use of NSAIDs or corticosteroids to prevent acute episodes of inflammation in asymptomatic patients may be considered under conditions other than those approved by the Spanish Agency of Medicines and Medical Devices (AEMPS) (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Treatment of Acute Episodes</strong></p>
+<p><em>NSAIDs</em></p>
+<p><strong>Recommendation 58</strong>: NSAIDs are effective in acute gout attacks. Maximum dosage is recommended in the absence of contraindications and suspension as soon as the attack is resolved. Dose reduction can be assessed after the first 2&ndash;3 days of treatment if there is clinically significant improvement (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Recommendation 59</strong>: In acute gout attacks selective inhibitors of cyclo-oxygenase-2 (COXIBs) can be considered an alternative to traditional NSAIDs in patients with high or medium gastrointestinal risk, administered with or without proton pump inhibitors (PPI), depending on the type of patient (<strong>LE 2a; GR B</strong>) (Rostom et al., 2000).</p>
+<p><strong>Recommendation 60</strong>: In acute gout attacks corticosteroids are recommended for patients with contraindications to NSAIDs/COXIBs. They can be administered either by intraarticular injection in the case of monoarthritis, or systemically in cases with more extensive joint involvement (<strong>LE 2b; GR B</strong>).</p>
+<p><strong>Recommendation 61</strong>: The early use of low-dose colchicine is effective in controlling acute gout attacks and so it should be considered in these cases (<strong>LE 1b; GR A</strong>).</p>
+<p><strong>Combination Therapy</strong></p>
+<p><em>Combination of Enzyme Inhibitors</em></p>
+<p><strong>Recommendation 62</strong>: It is generally not advisable to combine two urate-lowering drugs with the same mechanism of action (<strong>LE 5; GR D</strong>).</p>
+<p><strong>Recommendation 63</strong>: There are no robust studies on the safety or possible pharmacokinetic interactions of different combinations of urate-lowering drugs. Consequently, caution in prescribing and close monitoring of their safety are recommended (<strong>LE 4; GR C</strong>).</p>
+<p><em>Adding a Uricosuric Agent to a Xanthine Oxidase Inhibitor</em></p>
+<p><strong>Recommendation 64</strong>: The AEMPS withdrew the authorization of drugs with allopurinol benzbromarone in a fixed dose combination for safety reasons. Therefore, if they are chosen, it is recommended to request authorization for their off-label prescription use (<strong>LE 4; GR C</strong>).</p>
+<p><strong>Recommendation 65</strong>: From a clinical standpoint, the effect of fenofibrate and losartan is marginal, but both compounds could be useful in selected cases. Both probenecid and sulfinpyrazone are not available in Spain, so they must be requested as special drugs (<strong>LE 3a; GR C</strong>).</p>
+<p><strong>Off-label Treatments or Treatments in Advanced Clinical Development</strong></p>
+<p><em>Acute Episodes of Inflammation</em></p>
+<p><strong>Recommendation 66</strong>: Canakinumab, rilonacept and anakinra may be effective in the treatment and prevention of acute episodes of inflammation. They could be considered in conditions other than those authorized &ndash; canakinumab and anakinra &ndash; or as a drug not licensed in Spain &ndash; rilonacept &ndash; in acute episodes of refractory inflammation or for prophylaxis when other approved therapeutic options cannot be used in patients with severe gout, specifically with chronic inflammation or very frequent acute episodes of inflammation (<strong>LE 1b; GR B</strong>).</p>
+<p><em>Prevention of Acute Inflammation Episodes</em></p>
+<p><strong>Recommendation 67</strong>: Rasburicase may be an alternative for off-label use in patients unresponsive or intolerant to all approved urate-lowering compounds. Pegloticase could be requested for use as a drug not licensed in Spain (<strong>LE 4; GR C</strong>).</p>
+<p><strong><span style="text-decoration: underline;">Imaging Tests for Monitoring Treatment Response</span></strong></p>
+<p><strong>Ultrasound</strong></p>
+<p><strong>Recommendation 68</strong>: Ultrasound measurement of the size of MSU tophaceous deposits could be used as an outcome measure in evaluating the response to treatment of gout (<strong>LE 3a; GR B</strong>).</p>
+<p><em>Assessment of Therapeutic Response</em></p>
+<p><strong>Recommendation 69</strong>: At present there are no data to support the evaluation or quantification of other ultrasound features of gout as an outcome measure in the assessment of response to gout treatment (<strong>LE 3a; GR B</strong>).</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>None provided</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Gout</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Counseling</p>
+                    <p>Diagnosis</p>
+                    <p>Evaluation</p>
+                    <p>Management</p>
+                    <p>Prevention</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Family Practice</p>
+                    <p>Internal Medicine</p>
+                    <p>Nephrology</p>
+                    <p>Radiology</p>
+                    <p>Rheumatology</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Patients</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>To reduce variability in the treatment of gout, and try to improve quality of care by providing the physicians treating these patients with practical recommendations adapted to their setting and based on the best evidence available to advance comprehensive management of this pathology </li>
+    <li>To help the health professional and the patient to make decisions about the most appropriate care, and to select the diagnostic or therapeutic options best suited to addressing a health problem or a specific clinical condition </li>
+    <li>To provide explicit recommendations and to be easily understandable for users, with the intention of influencing professional practice </li>
+</ul></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Adult patients with or suspected of having gout living in Spain</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><div class="content_para"><p><strong>Diagnosis/Evaluation</strong></p>
+<ol style="list-style-type: decimal;">
+    <li>Identification of monosodium urate (MSU) crystals in synovial fluid or tophaceous material </li>
+    <li>Plain radiography, computed tomography (CT) or magnetic resonance imaging (MRI) (not recommended for gout diagnosis) </li>
+    <li>Ultrasound and ultrasound-guided puncture to facilitate obtaining fluid or other samples </li>
+    <li>Complete history and complete general and musculoskeletal physical examination </li>
+    <li>Assessment of cardiovascular risk factors using any of the available risk estimation tools </li>
+    <li>Serum urate level, frequency and intensity of attacks (number and size of tender and swollen joints), presence of tophi, pain, quality of life, functional capacity, and overall assessment of health status </li>
+    <li>Laboratory tests (initial and ongoing): complete blood count, blood chemistry panel, liver and kidney function, acute phase reactants and study of urinary uric acid clearance, achievement of therapeutic goals, monitoring comorbidities, drug toxicity </li>
+</ol>
+<p><strong>Management/Treatment</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Treatment of acute attacks in patients with chronic kidney disease (CKD)
+    <ul style="list-style-type: disc;">
+        <li>Colchicine </li>
+        <li>Non-steroidal anti-inflammatory drugs (NSAIDs) </li>
+        <li>Discontinuation of statins </li>
+        <li>Corticosteroids </li>
+        <li>Corticotropin (adrenocorticotropic hormone [ACTH]) </li>
+    </ul>
+    </li>
+    <li>Prophylaxis for recurrence of acute inflammation attacks in patients with CKD
+    <ul style="list-style-type: disc;">
+        <li>NSAIDs (not recommended for the prevention of new attacks) </li>
+        <li>Colchicine </li>
+        <li>Benzbromarone </li>
+        <li>Potassium citrate </li>
+        <li>Allopurinol </li>
+        <li>Febuxostat </li>
+    </ul>
+    </li>
+    <li>Treatment in dialysis patients
+    <ul style="list-style-type: disc;">
+        <li>Use of high permeability haemodialysis membranes with high clearance power to allow safe use of colchicine </li>
+        <li>Use of low-medium intensity doses of peritoneal dialysis (3&ndash;4 daily peritoneal fluid stays) </li>
+        <li>Sevelamer, an intestinal phosphate binder </li>
+        <li>Allopurinol </li>
+    </ul>
+    </li>
+    <li>Treatment in kidney transplant recipients
+    <ul style="list-style-type: disc;">
+        <li>Consideration of drug interactions with immunosuppressive drugs and drugs used for gout treatment </li>
+        <li>Corticosteroids or corticotropin as therapeutic options in the treatment of acute attacks </li>
+        <li>Benzbromarone as urate-lowering treatment </li>
+    </ul>
+    </li>
+    <li>Providing the patient with a gout-specific education program, addressing the following key issues: therapeutic target, diet and alcohol consumption, pain management, cardiovascular risk management, weight control, exercise, and information about the treatments prescribed in order to improve adherence and patient safety </li>
+    <li>Management in primary care
+    <ul style="list-style-type: disc;">
+        <li>Diagnosis in primary care: visualization of crystals (gold standard) or clinical diagnosis </li>
+        <li>Patient education and changes in lifestyle, especially with regard to weight loss, diet, and reduced alcohol consumption </li>
+        <li>Choice of treatment with special consideration to comorbidities and possible drug interactions </li>
+        <li>Urate-lowering drugs for acute attacks (allopurinol, febuxostat and benzbromarone) </li>
+        <li>Close monitoring both in terms of drug efficacy and safety </li>
+        <li>Evaluation of response to urate-lowering drugs (ultrasound) </li>
+        <li>Treatment of acute attacks (NSAIDs, corticosteroids, selective inhibitors of cyclo-oxygenase-2 [COXIBs], low-dose colchicine) </li>
+        <li>Use of combination therapy (not recommended routinely) </li>
+        <li>Off-label treatments or treatments in advanced clinical development </li>
+    </ul>
+    </li>
+</ol></div></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Value of musculoskeletal ultrasound and magnetic resonance imaging for the diagnosis of gout and to monitor response to treatment </li>
+    <li>Diagnostic value of renal functions tests in chronic kidney failure </li>
+    <li>Efficacy and safety of treatment </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p>Systematic reviews were conducted by members of the Spanish Society of Rheumatology (SER) Evidence-based Rheumatology group. This group consists of rheumatologists trained and experienced in systematic reviews, whose main interest is the dissemination of these tools among the group of Spanish rheumatologists. Currently the group consists of 25 reviewers who follow the methodology proposed by the Cochrane Collaboration.</p>
+<p>The authors conducted systematic reviews of the questions agreed upon with the experts, following standard methodology.</p>
+<p>A documentation specialist and a coordinator reviewed all the search strategies so that the terms used for the selection of the population, intervention and outcomes would be homogeneous among the different reviews to be performed, and facilitate the documents selected for review. The literature search was conducted in November 2011 in the following databases: MEDLINE, EMBASE, and Cochrane Central.</p>
+<p>Table 1 in the original guideline document shows the type and question of the reviews conducted.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p>For grading the level of evidence, the levels of the Oxford Centre of Evidence-Based Medicine were used. See Table 2 in the original guideline document.</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Review of Published Meta-Analyses</p>
+                    <p>Systematic Review</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p>All reviews were adapted to a consensus editing format to facilitate subsequent interpretation. Once made, the reviews were submitted to the panel of experts for evaluation and assessment of the degree of evidence.</p>
+<p>Finally, experts and reviewers convened to pool the results of the reviews and associated recommendations.</p>
+<p>For grading the level of evidence, the levels of the Oxford Centre of Evidence-Based Medicine were used. This classification allows calculating the strength of the recommendations and evaluating the quality of evidence based on the best design to answer the question (see Table 2 in the original guideline document).</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus (Delphi)</p>
+                    <p>Expert Consensus (Nominal Group Technique)</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong>Methodology</strong></p>
+<p>The methodology used is suitable for the development of training recommendations and includes expert nominal groups, Delphi surveys and systematic reviews of the literature. During the development of the guidelines quality criteria of the Appraisal of Guidelines for Research and Evaluation (AGREE) instrument have been taken into account.</p>
+<p><strong>The Panel of Experts</strong></p>
+<p>To form the expert panel an invitation was extended to all members of the Spanish Rheumatology Society (SER) Crystal Arthritis Working Group (GEACSER) group. The aim of this group, consisting of rheumatologists particularly interested in the subject, is to promote the development of projects about crystal arthritis. In addition to accepting the invitation to participate, the following criteria for selecting panelists were used:</p>
+<ul style="list-style-type: disc;">
+    <li><em>Multidisciplinary</em>. The panel should include the views of different groups of professionals and specialties involved in the management of gout. Therefore, in addition to rheumatologists, collaboration was requested from other experts whose opinion could contribute to improving care for the disease or the methodology of developing recommendations. In this case radiologist, a nephrologist, a primary care physician (PCP), a nurse and a patient were included. </li>
+    <li><em>Expert knowledge</em>. Panel members should know in depth the subject of the clinical practice guideline (CPG). The career of the experts, evaluated in terms of their <em>Curriculum Vitae</em>, should ensure respect of their opinions by the scientific community. </li>
+    <li><em>Geographic diversity</em>, with reasonable representation of the different regions of the country. </li>
+    <li><em>Diversity of care</em>. The recommendations should have meaning and application at both the inpatient and outpatient level. </li>
+    <li><em>Academic diversity</em>. Similarly, the CPG must represent both the point of view of schools or potential research centres, as well as that of professionals working in facilities without academic development. </li>
+    <li><em>Representative regarding gender</em>, with a balance of men and women on the panel. </li>
+</ul>
+<p>The<strong> tasks to be performed</strong> by the panelists were:</p>
+<ol style="list-style-type: lower-alpha;">
+    <li>Defining the content, scope and objectives of the guidelines </li>
+    <li>Development of the recommendations </li>
+    <li>Writing definitions </li>
+    <li>Review and synthesis of the scientific evidence </li>
+    <li>Addressing unforeseen issues that may arise during development of the CPG </li>
+</ol>
+<p><strong>Establishment of Definitions, Scope and Tasks</strong></p>
+<p>Once the panelists were selected and they agreed to participate in the project, a meeting of the nominal group took place. The meeting included a theoretical presentation of the working methodology of the CPG, and the floor was opened for discussion to define the scope, objectives and users of the guidelines. The chapters to be written were agreed upon, those responsible for each chapter were appointed, questions were raised regarding systematic review and a calendar of deadlines and deliveries was set.</p>
+<p>Another objective of this meeting was to quantify the level of agreement and consensus among experts. For this evaluation the Delphi method (two rounds) was used through anonymous online surveys as well as a physical meeting.</p>
+<p><strong>Development of Systematic Reviews</strong></p>
+<p>Parallel to the development of systematic reviews, experts were asked to draft recommendations for the chapter. These recommendations were compiled into a working document for all panel members to issue an opinion or clarify specific aspects.</p>
+<p><strong>Preparing the First Draft</strong></p>
+<p>After the meeting of the nominal group, panelists began writing their chapters and the corresponding recommendations, taking into account that the aim of these was to provide practical and specific advice on the different topics of these guidelines. In addition, it was explicitly requested that they be written based on the risk/benefit balance for the patient, regardless of the associated costs. Therefore, the recommendations should be developed according to the most appropriate action for the patient, maintaining the objective of improving quality of care.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The Oxford Centre of Evidence-Based Medicine classification scheme was used. This classification allows calculating the strength of the recommendations and evaluating the quality of evidence based on the best design to answer the question (see Table 2 in the original guideline document).</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>The guideline developers reviewed published cost analyses.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>External Peer Review</p>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>The clinical practice guideline (CPG) was assessed by two external reviewers, a rheumatologist expert in this clinical area and a methodologist who was expert at conducting clinical practice guidelines.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">References Supporting the Recommendations</a></h3>
+                    <p><table><tr><td>Rostom A, Wells G, Tugwell P, Welch V, Dube C, McGowan J. Prevention of NSAID-induced gastroduodenal ulcers. Cochrane Database Syst Rev. 2000;(4):CD002296. [90 references] <a href="https://web.archive.org/web/20180712211631/http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11034748" target="_blank">PubMed</a> <img alt="External Web Site Policy" src="/web/20180712211631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></td></tr></table></p>
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified and graded for each recommendation (see the "Major Recommendations" field.)</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>Appropriate management of gout</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>The most frequent adverse effects associated with pharmacologic treatment of gout are summarized in Table 25 in the original guideline document. Possible drug interactions are shown in Table 26 in the original guideline document. </li>
+    <li>Within the group of gout drugs, allopurinol is the compound that most frequently produces allergic reactions, complicating the management of gout because it is the most widely used urate-lowering treatment. It is estimated that approximately 2% of patients have a hypersensitivity reaction to this drug. Although most of them are mild exanthematous skin reactions, more severe forms have also been reported and even some with fatal outcome. In fact, allopurinol has been pointed to as the leading cause of toxic epidermal necrolysis, or Lyell's syndrome, in Europe. Also, there have been reports of DRESS syndrome (Drug Rash with Eosinophilia and Systemic Symptoms) associated with the use of allopurinol, and in addition to the rash fever, elevated acute phase reactants with eosinophilia, abnormal liver enzymes and renal function impairment. </li>
+    <li>It has been suggested that the adverse effects of allopurinol would be more frequent in patients with decreased glomerular filtration rate (GFR), since the lower subsequent elimination of oxypurinol means greater exposure to the drug and also the incidence of hypersensitivity syndrome is 2-3 times higher in patients with chronic kidney disease (CKD). </li>
+    <li>Colchicine is limited (and even contraindicated in patients with advanced CKD) to avoid potential adverse effects on the muscular or nervous system. Furthermore, caution should be exercised with the combination of colchicine and other less potent CYP3A4 inhibitors, such as statins and other lipid-lowering agents. Intravenous administration has been associated with potential fatal complications. </li>
+    <li>The use of urate-lowering therapy for preventing deposition of monosodium urate (MSU) may limit both treatment with uricosurics due to their theoretical lithiasis promoting effect or toxicity, as well as uricostatics such as allopurinol whose recommended doses in patients with CKD impede reaching target uric acid levels. </li>
+    <li>A major limitation of non-steroidal anti-inflammatory drugs (NSAIDs) is gastrointestinal toxicity. Although lower intestinal tract complications associated with NSAID use are often subclinical, they may cause serious injury including bleeding, strictures or perforations. </li>
+    <li>Clinically significant adverse effects are rare with febuxostat, the most common being elevated liver enzymes. Febuxostat is not recommended in patients with ischaemic heart disease or congestive heart failure until there is more data on long-term cardiovascular safety from ongoing trials, as well as in patients with stage 4 (GFR &lt;30 mL/min ) or stage 5 (GFR &lt;10 mL/min, kidney transplant or dialysis) chronic kidney disease, due to lack of experience. </li>
+    <li>It is possible that excessive caution (understood by many as contraindication) has led to under-utilization of some drugs, such as allopurinol or colchicine, compared to other major contraindications, such as NSAIDs and corticosteroids. </li>
+</ul></p>
+
+            </div>
+                <h2 id="430" class="accordion-title section-430 is-active" role="tab" aria-expanded="true"><a href="#">Contraindications</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Contraindications</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>The most frequent contraindications associated with pharmacologic treatment of gout are summarized in Table 25 in the original guideline document. </li>
+    <li>Virtually none of the first-line drugs for treatment of gout is free of contraindications or significant limitations for use in patients with kidney failure. Therefore, this group of patients requires a particularly careful reading of the available evidence in order to achieve an appropriate balance between the benefits and risks of treatment. </li>
+    <li>Non-steroidal anti-inflammatory drug (NSAID) use is contraindicated in the control of acute attacks and preventing their recurrence because they increase the risk of acute and chronic kidney damage. NSAIDs are also contraindicated in patients with ulcers or active gastrointestinal bleeding. </li>
+    <li>In Spain the colchicine summary of product characteristics (SmPC) expressly contraindicates its prescription in patients with glomerular filtration rate (GFR) less than 30 mL/min. </li>
+    <li>In some countries, diabetes is responsible for about half of the incidental cases of kidney disease. In this group high-dose corticosteroids are contraindicated. </li>
+    <li>Febuxostat is contraindicated in patients receiving concomitant therapy with azathioprine or 6-mercaptopurine due to serious bone marrow toxicity risk. </li>
+    <li>Azathioprine is metabolized by xanthine oxidase which, in turn, is inhibited by allopurinol and febuxostat. Simultaneous administration of both compounds slows azathioprine metabolism and increases the risk of bone marrow toxicity, so that their association is contraindicated. </li>
+    <li>Benzbromarone use is contraindicated in patients with hyperuricaemia due to hyperproduction (normal urate clearance) or a history of urolithiasis. </li>
+    <li>Concomitant use of colchicine is contraindicated with P-glycoprotein inhibitors (cyclosporine, tacrolimus, amiodarone, quinidine, azole antifungals, some calcium channel blockers, vinca alkaloids, erythromycin, etc.) or cytochrome P450 (CYP)3A4 inhibitors (protease inhibitors, macrolides, antifungals, etc.). </li>
+    <li>The prescription of uricase &ndash; any of them &ndash; is contraindicated in patients with glucose-6-phosphate dehydrogenase (GPDH) or catalase deficiency due to risk of inducing haemolytic anaemia crisis. </li>
+    <li>Association of pegloticase with urate-lowering drugs is contraindicated in order not to mask the risk of infusion reaction of poor serum uric acid control. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>Once the final text of the clinical practice guideline (CPG) was written, it was decided to publish it in PDF and HTML format on the website of the Spanish Rheumatology Society (SER). Also, there was a quick guide (with the most relevant information, from the practical point of view for the physician) with the recommendations in both PDF and paper format as well as tables and/or images that can be useful. In order to get the CPG to the greatest number of Spanish rheumatologists, an e-mail was sent to all members of the SER with a direct link to the CPG. Inclusion of GuipClinGot in Gu&iacute;aSalud, the CGP portal of the Quality Department of the Ministry of Health was requested and it was presented to the Spanish rheumatologists at the 2012 National Congress.</p>
+<p>At least two articles were written for the <em>Reumatolog&iacute;a Cl&iacute;nica</em> journal, one about the final recommendations and the other about the methodology used.</p>
+<p>For international distribution, the guidelines will be translated into English in order to include it in the <em>National Guideline Clearinghouse</em>.</p>
+<p>Finally, GuipClinGot will be updated approximately every 4 years, depending on the existence of new relevant information. The update will be complete, partial or with no modifications according to the importance of the new data available.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Chart Documentation/Checklists/Forms</p>
+                    <p>Foreign Language Translations</p>
+                    <p>Patient Resources</p>
+                    <p>Quick Reference Guides/Physician Guides</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Getting Better</p>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Spanish Society of Rheumatology (SER). Clinical practice guidelines for management of gout. Madrid (Spain): Spanish Society of Rheumatology (SER); 2013. 161 p.  [470 references]</td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2013</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>Spanish Society of Rheumatology - Medical Specialty Society</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>This clinical practice guideline (CPG), sponsored by the Spanish Rheumatology Society (SER), was funded by Menarini laboratories. The contract signed between the Spanish Rheumatology Foundation (FER), the SER Research Unit (RU) staff employment agency and coordinator of RU payments to panelists and reviewers as the sole intermediary, and the pharmaceutical company, provided the total independence of the participants regarding the funding source. Under this contract, and even being responsible for funding the project, the pharmaceutical company has had no ability to influence the content of the guidelines, even assuming that the evidence contradicted the indication of any of its products.</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>GuipClinGot Group</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>Principal Investigator</em>: Fernando P&eacute;rez (FPR), Rheumatologist, Cruces University Hospital</p>
+<p><em>Scientific coordination</em>: Est&iacute;baliz Loza (EL), Rheumatology researcher, Research Unit, Spanish Society of Rheumatology</p>
+<p><em>Project Manager</em>: Mar&iacute;a Jes&uacute;s G&ordf; de Y&eacute;benes (MJGY), Epidemiologist, Research Unit, Spanish Society of Rheumatology</p>
+<p><em>Documentation</em>: Mar&iacute;a Piedad Rosario (MPR), Document specialist, Research Unit, Spanish Society of Rheumatology</p>
+<p><em>Panelists</em>: Miguel &Aacute;ngel Abad Hern&aacute;ndez, Rheumatology, Virgen del Puerto Hospital, Plasencia (C&aacute;ceres); Mariano Andr&eacute;s Collado, Rheumatology, General University Hospital of Alicante; Loreto Carmona Ortells, Rheumatologist, School of Health Sciences, Camilo Jos&eacute; Cela University (Madrid); Jenny de la Torre Aboki, Rheumatology, General University Hospital of Alicante; Eugenio de Miguel, Rheumatology, La Paz University Hospital, Madrid; C&eacute;sar D&iacute;az Torn&eacute;, Rheumatology, Hospital de la Santa Creu i Sant Pau, Barcelona; Cristina Fern&aacute;ndez Carballido, Rheumatology, Elda General Hospital, Alicante; Gorka Garc&iacute;a Erauzkin, Nephrology, Cruces University Hospital, Vizcaya; Juan Carlos Hermosa Hern&aacute;n, Primary Care Physician, Madrid; Blanca Hern&aacute;ndez Cruz, Rheumatology, Virgen Macarena Hospital, Seville; Mercedes Jim&eacute;nez Palop, Rheumatology, Puerta de Hierro University Hospital, Madrid; Jes&uacute;s Mancebo Mart&iacute;n, Patient, Puerta de Hierro University Hospital, Madrid; Esperanza Naredo, Gregorio Mara&ntilde;&oacute;n General University Hospital; Eliseo Pascual G&oacute;mez, Rheumatology, General University Hospital of Alicante; Fernando P&eacute;rez Ruiz, Rheumatology, Cruces University Hospital, Vizcaya; Francisca Sivera Mascar&oacute;, Rheumatology, Elda General Hospital; Aranzazu Urresola Olabarrieta, Radiology, Cruces University Hospital</p>
+<p><em>Reviewers</em>: Cruz Fern&aacute;ndez Espartero, Rheumatologist, M&oacute;stoles University Hospital; Ana Ortiz, Rheumatology, La Princesa Hospital, Madrid; Esther Toledano, Rheumatology, San Carlos Clinical Hospital; F&eacute;lix Francisco, Rheumatology, Dr. Negr&iacute;n University Hospital of Grand Canary; Virginia Villaverde, Rheumatology, M&oacute;stoles University Hospital; Jes&uacute;s Maese Manzano, Rheumatology, Madrid; Isabel Castrej&oacute;n, Rheumatology, Hospital for Joint Diseases, New York</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>All participants have made an explicit statement of their potential conflicts of interest.</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Available in <a href="/web/20180712211631/https://www.guideline.gov/Home/Disclaimer?id=47897&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.ser.es%2fwp-content%2fuploads%2f2015%2f09%2fGuipClinGot_1140226_EN.pdf" title="Spanish Society of Rheumatology Web site (English)">English</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712211631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> and <a href="/web/20180712211631/https://www.guideline.gov/Home/Disclaimer?id=47897&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.ser.es%2fwp-content%2fuploads%2f2015%2f09%2fGPCGota13.pdf" title="Spanish Society of Rheumatology Web site (Spanish)">Spanish</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712211631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> from the Spanish Society of Rheumatology Web site.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following is available:</p>
+<ul style="list-style-type: disc;">
+    <li>Quick reference guide (Spanish). Madrid (Spain): Spanish Society of Rheumatology; 2013. 28 P. Available from the <a href="/web/20180712211631/https://www.guideline.gov/Home/Disclaimer?id=47897&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.ser.es%2fwp-content%2fuploads%2f2015%2f11%2f140722-Guia-Rapida-Maquetada-Menarini.pdf" title="Spanish Society of Rheumatology Web site">Spanish Society of Rheumatology Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712211631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p>In addition, the following forms are available in the <a href="/web/20180712211631/https://www.guideline.gov/Home/Disclaimer?id=47897&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.ser.es%2fwp-content%2fuploads%2f2015%2f09%2fGuipClinGot_1140226_EN.pdf" title="title=">original guideline document</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712211631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>:</p>
+<ul style="list-style-type: disc;">
+    <li>Clinical history for patients with gout (Table 11) </li>
+    <li>Specific clinical assessment (acute episode) (Table 13) </li>
+    <li>Specific clinical assessment (chronic episode) (Table 14) </li>
+    <li>English version of health assessment questionnaire (Table 17) </li>
+</ul></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>Several patient information resources in Spanish are available from the <a href="/web/20180712211631/https://www.guideline.gov/Home/Disclaimer?id=47897&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.ser.es%2fpacientes%2fenfermedades-reumaticas%2fgota%2f" title="Spanish Society of Rheumatology Web site">Spanish Society of Rheumatology Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712211631im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p class="Disclaimer">Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on July 9, 2014. The information was verified by the guideline developer on July 22, 2014. This summary was updated by ECRI Institute on September 21, 2015 following the U.S. Food and Drug Administration advisory on non-aspirin nonsteroidal anti-inflammatory drugs (NSAIDs).</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>This NGC summary is based on the original guideline, which is subject to the Spanish Society of Rheumatology's copyright restrictions. The contents of this Clinical Practice Guideline may be used and reproduced without special permission so long as the source is credited.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712211631/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712211631/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712211631/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712211631/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712211631/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712211631/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712211631/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712211631/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712211631/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712211631/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712211631/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712211631/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712211631/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712211631/https://www.guideline.gov/disclaimer?id=47897&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712211631im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712211631im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712211631/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712211631/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712211631/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712211631/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712211631/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712211631/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712211631/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712211631/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712211631/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712211631/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712211631/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712211631/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712211631/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712211631/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712211631/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712211631/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712211631/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712211631/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712211631/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712211631im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712211631im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712211631/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712211631im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712211631im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712211631/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712211631js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712211631js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 21:16:31 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:51:32 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 68.861 (3)
+  esindex: 0.012
+  captures_list: 111.418
+  CDXLines.iter: 21.423 (3)
+  PetaboxLoader3.datanode: 58.649 (4)
+  exclusion.robots: 0.306
+  exclusion.robots.policy: 0.286
+  RedisCDXSource: 14.827
+  load_resource: 28.955
+-->

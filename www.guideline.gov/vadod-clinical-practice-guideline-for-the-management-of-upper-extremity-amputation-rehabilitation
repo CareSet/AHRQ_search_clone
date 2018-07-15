@@ -1,0 +1,1314 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="//archive.org/includes/analytics.js?v=cf34f82" type="text/javascript"></script>
+<script type="text/javascript">window.addEventListener('DOMContentLoaded',function(){var v=archive_analytics.values;v.service='wb';v.server_name='wwwb-app12.us.archive.org';v.server_ms=137;archive_analytics.send_pageview({});});</script><script type="text/javascript" src="/static/js/wbhack.js?v=1531166943.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('https://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1531166943.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1531166943.0" />
+
+<!-- End Wayback Rewrite JS Include -->  
+
+        <title>VA/DoD clinical practice guideline for the management of upper extremity amputation rehabilitation. | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/web/20180712205407im_/https://www.guideline.gov/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/web/20180712205407im_/https://www.guideline.gov/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/web/20180712205407im_/https://www.guideline.gov/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/web/20180712205407im_/https://www.guideline.gov/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/web/20180712205407/https://www.guideline.gov/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/web/20180712205407im_/https://www.guideline.gov/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/web/20180712205407cs_/https://www.guideline.gov/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://web.archive.org/web/20180712205407js_/https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&amp;subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712205407if_/https://www.googletagmanager.com/ns.html?id=GTM-W4NX5V" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712205407/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//web.archive.org/web/20180712205407if_/https://www.googletagmanager.com/ns.html?id=GTM-KHDP6Z" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//web.archive.org/web/20180712205407/https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="https://web.archive.org/web/20180712205407/http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="https://web.archive.org/web/20180712205407/http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/web/20180712205407/https://www.guideline.gov/" class="header-logo NGC">
+				    <picture>
+				        <source media="(min-width: 960px)" srcset="/web/20180712205407im_/https://www.guideline.gov/UI/images/logo_NGC_header.png">
+				        <source srcset="/web/20180712205407im_/https://www.guideline.gov/UI/images/logo_NGC_header_m.png">
+				        <img src="/web/20180712205407im_/https://www.guideline.gov/UI/images/logo_NGC_header.png" alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/web/20180712205407/https://www.guideline.gov/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/web/20180712205407/https://www.guideline.gov/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/web/20180712205407/https://www.guideline.gov/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/web/20180712205407/https://www.guideline.gov/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/web/20180712205407/https://www.guideline.gov/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In"/>
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/web/20180712205407/https://www.guideline.gov/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/web/20180712205407/https://www.guideline.gov/">Home</a></li>
+		        <li class=""><a href="/web/20180712205407/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/web/20180712205407/https://www.guideline.gov/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/web/20180712205407/https://www.guideline.gov/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/web/20180712205407/https://www.guideline.gov/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/web/20180712205407/https://www.guideline.gov/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/web/20180712205407/https://www.guideline.gov/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/web/20180712205407/https://www.guideline.gov/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/web/20180712205407/https://www.guideline.gov/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/web/20180712205407/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/web/20180712205407/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/web/20180712205407/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/web/20180712205407/https://www.guideline.gov/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/web/20180712205407/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class="content"><div class="fundingNotice2"><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href="/web/20180712205407/https://www.guideline.gov/home/announcements">full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+    <!-- CONTENT HEADER -->
+    <div class="content-header">
+        <ul class="content-header-meta">
+            <li class="prefix-icon guideline">Guideline Summary</li>
+            <li>NGC:010535</li>
+            <li>2014
+            </li>            
+                                </ul>
+        <div>
+                <h1>VA/DoD clinical practice guideline for the management of upper extremity amputation rehabilitation.</h1>
+        </div>
+    </div>
+    <!-- /.content-header-meta -->
+
+        <!-- CONTENT TABS -->
+        <ul class="content-tabs">
+            <li><a href="#developer-tab" class="developer is-active"><span class="label">Developer</span></a></li>
+            <li><a href="#source-tab" class="source"><span class="label">Source</span></a></li>
+            <li><a href="#status-tab" class="status"><span class="label">Status</span></a></li>
+            <li><a href="#classification-tab" class="classification"><span class="label">Classification</span></a></li>
+        </ul>
+        <div id="developer-tab" class="is-active content-tab-panel">
+                <ul class="developer-list">
+        <li><a href="/web/20180712205407/https://www.guideline.gov/search?f_Guideline_Developer_String=Department%20of%20Defense&amp;fLockTerm=Department%2Bof%2BDefense">Department of Defense</a></li>
+                        <li>   
+                                <a id="998" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+        <li><a href="/web/20180712205407/https://www.guideline.gov/search?f_Guideline_Developer_String=Department%20of%20Veterans%20Affairs&amp;fLockTerm=Department%2Bof%2BVeterans%2BAffairs">Department of Veterans Affairs</a></li>
+                        <li>   
+                                <a id="954" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+        <li><a href="/web/20180712205407/https://www.guideline.gov/search?f_Guideline_Developer_String=Veterans%20Health%20Administration&amp;fLockTerm=Veterans%2BHealth%2BAdministration">Veterans Health Administration</a></li>
+                        <li>   
+                                <a id="897" href="#" data-alert="SignInLanding" data-alert-type="organization" class="get-alerts get-org-alerts">Get Alerts</a>
+                        </li>
+                </ul>
+        </div>
+    <!-- /.content-tab-panel -->
+    <div id="source-tab" class="content-tab-panel">
+<table><tr><td>Management of Upper Extremity Amputation Rehabilitation Working Group. VA/DoD clinical practice guideline for the management of upper extremity amputation rehabilitation. Washington (DC): Department of Veterans Affairs, Department of Defense; 2014. 149 p.  [164 references]</td></tr></table>                    <p><a href="/web/20180712205407/https://www.guideline.gov/Home/Disclaimer?id=48529&amp;contentType=fulltextlink&amp;redirect=http%253a%252f%252fwww.healthquality.va.gov%252fguidelines%252frehab%252fuear%252findex.asp">View the original guideline documentation</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205407im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="status-tab" class="content-tab-panel">
+            <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+    </div>
+    <!-- /.content-tab-panel -->
+    <div id="classification-tab" class="content-tab-panel">
+
+
+        
+                    <h4>Age Group</h4>
+            <ul>
+                        <li><a href="/web/20180712205407/https://www.guideline.gov/search?f_Age_of_Target_Population=Adult%20%2819%20to%2044%20years%29&amp;fLockTerm=Adult%2B%2819%2Bto%2B44%2Byears%29">Adult (19 to 44 years)</a></li>                      
+                        <li><a href="/web/20180712205407/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%20%2865%20to%2079%20years%29&amp;fLockTerm=Aged%2B%2865%2Bto%2B79%2Byears%29">Aged (65 to 79 years)</a></li>                      
+                        <li><a href="/web/20180712205407/https://www.guideline.gov/search?f_Age_of_Target_Population=Aged%2C%2080%20and%20over&amp;fLockTerm=Aged%252c%2B80%2Band%2Bover">Aged, 80 and over</a></li>                      
+                        <li><a href="/web/20180712205407/https://www.guideline.gov/search?f_Age_of_Target_Population=Middle%20Age%20%2845%20to%2064%20years%29&amp;fLockTerm=Middle%2BAge%2B%2845%2Bto%2B64%2Byears%29">Middle Age (45 to 64 years)</a></li>                      
+            </ul>
+                    <h4>UMLS Concepts <a href="/web/20180712205407/https://www.guideline.gov/help-and-about/search-browse/umls-concepts" class="what-is">(what is this?)</a></h4>
+                <div class="field">
+                    <h5 class="field-label">ICD9CM</h5>
+                    <div class="field-content">
+<a href="/web/20180712205407/https://www.guideline.gov/search?f_ICD9CM_CUI=C0002688&amp;fLockTerm=Amputation%2c+not+otherwise+specified">Amputation, not otherwise specified</a>
+ (84.91), <a href="/web/20180712205407/https://www.guideline.gov/search?f_ICD9CM_CUI=C0185505&amp;fLockTerm=Implantation+or+fitting+of+prosthetic+limb+device%2c+not+otherwise+specified">Implantation or fitting of prosthetic limb device, not otherwise specified</a>
+ (84.40), <a href="/web/20180712205407/https://www.guideline.gov/search?f_ICD9CM_CUI=C0186399&amp;fLockTerm=Upper+limb+amputation%2c+not+otherwise+specified">Upper limb amputation, not otherwise specified</a>
+ (84.00)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MSH</h5>
+                    <div class="field-content">
+<a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0002688&amp;fLockTerm=Amputation">Amputation</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0002695&amp;fLockTerm=Amputees">Amputees</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0347948&amp;fLockTerm=Artificial+Limbs">Artificial Limbs</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0009452&amp;fLockTerm=Communication">Communication</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0011109&amp;fLockTerm=Decision+Making">Decision Making</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0920316&amp;fLockTerm=Documentation">Documentation</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0002766&amp;fLockTerm=Pain+Management">Pain Management</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0030679&amp;fLockTerm=Patient+Care+Team">Patient Care Team</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0030685&amp;fLockTerm=Patient+Discharge">Patient Discharge</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0030688&amp;fLockTerm=Patient+Education+as+Topic">Patient Education as Topic</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0243024&amp;fLockTerm=Patient-Centered+Care">Patient-Centered Care</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0030767&amp;fLockTerm=Peer+Group">Peer Group</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0150706&amp;fLockTerm=Perioperative+Care">Perioperative Care</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0206224&amp;fLockTerm=Prosthesis+Fitting">Prosthesis Fitting</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0034991&amp;fLockTerm=Rehabilitation">Rehabilitation</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MSH_CUI=C0037438&amp;fLockTerm=Social+Support">Social Support</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">MTH</h5>
+                    <div class="field-content">
+<a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C0002688&amp;fLockTerm=Amputation">Amputation</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C0186399&amp;fLockTerm=Amputation+of+upper+limb">Amputation of upper limb</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C0002695&amp;fLockTerm=Amputees">Amputees</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C0009452&amp;fLockTerm=Communication">Communication</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C2735970&amp;fLockTerm=Discharge+plan">Discharge plan</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C0012622&amp;fLockTerm=Discharge+Planning">Discharge Planning</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C0920316&amp;fLockTerm=Documentation">Documentation</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C0206224&amp;fLockTerm=Fitting+of+prosthesis">Fitting of prosthesis</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C1522577&amp;fLockTerm=follow-up">follow-up</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C0347948&amp;fLockTerm=Limb+Prosthesis">Limb Prosthesis</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C0002766&amp;fLockTerm=Pain+management">Pain management</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C0030685&amp;fLockTerm=Patient+Discharge">Patient Discharge</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C0030688&amp;fLockTerm=Patient+education+(procedure)">Patient education (procedure)</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C0034991&amp;fLockTerm=Rehabilitation+therapy">Rehabilitation therapy</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C0037438&amp;fLockTerm=Social+support">Social support</a>
+, <a href="/web/20180712205407/https://www.guideline.gov/search?f_MTH_CUI=C1961343&amp;fLockTerm=Upper+Limb+Prostheses">Upper Limb Prostheses</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">PDQ</h5>
+                    <div class="field-content">
+<a href="/web/20180712205407/https://www.guideline.gov/search?f_PDQ_CUI=C0002766&amp;fLockTerm=pain+therapy">pain therapy</a>
+                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">SNOMEDCT_US</h5>
+                    <div class="field-content">
+<a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002688&amp;fLockTerm=Amputation">Amputation</a>
+ (129309007), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002688&amp;fLockTerm=Amputation">Amputation</a>
+ (81723002), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0186399&amp;fLockTerm=Amputation+of+upper+limb">Amputation of upper limb</a>
+ (400136002), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002695&amp;fLockTerm=Amputee">Amputee</a>
+ (41944006), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0009452&amp;fLockTerm=Communication">Communication</a>
+ (263536004), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0011109&amp;fLockTerm=Decision+making">Decision making</a>
+ (247583006), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0012622&amp;fLockTerm=Discharge+planning">Discharge planning</a>
+ (371754007), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C1512171&amp;fLockTerm=Education+of+caregiver">Education of caregiver</a>
+ (460617003), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0150577&amp;fLockTerm=Education+of+family">Education of family</a>
+ (460616007), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0185505&amp;fLockTerm=Fitting+of+artificial+limb">Fitting of artificial limb</a>
+ (64280007), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0206224&amp;fLockTerm=Fitting+of+prosthesis">Fitting of prosthesis</a>
+ (69406003), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0347948&amp;fLockTerm=Limb+prosthesis">Limb prosthesis</a>
+ (74444006), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0002766&amp;fLockTerm=Pain+management">Pain management</a>
+ (278414003), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030685&amp;fLockTerm=Patient+discharge">Patient discharge</a>
+ (58000006), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0030688&amp;fLockTerm=Patient+education">Patient education</a>
+ (311401005), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0150706&amp;fLockTerm=Perioperative+care">Perioperative care</a>
+ (133897009), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0034991&amp;fLockTerm=Rehabilitation+therapy">Rehabilitation therapy</a>
+ (52052004), <a href="/web/20180712205407/https://www.guideline.gov/search?f_SNOMEDCT_US_CUI=C0556536&amp;fLockTerm=Upper+limb+prosthetic+training">Upper limb prosthetic training</a>
+ (228608000)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+                <div class="field">
+                    <h5 class="field-label">UMD</h5>
+                    <div class="field-content">
+<a href="/web/20180712205407/https://www.guideline.gov/search?f_UMD_CUI=C1961343&amp;fLockTerm=Prostheses%2c+Upper+Limb">Prostheses, Upper Limb</a>
+ (23-339)                    </div>
+                    <!-- /.field-content -->
+                </div>
+                <!-- /.field -->
+    </div>
+        <!-- /.content-tab-panel -->
+        <!-- /.content-tab-panel -->
+        <!-- TOOLBAR -->
+        <div class="content-toolbar">
+
+            <!-- Primary -->
+            <ul class="tools primary-tools">
+                <li class="dropdown tool sections">
+                    <a href="#" class="tool-button">Sections</a>
+                    <div class="dropdown-panel">
+                            <ul class="section-links">
+                                    <li><a href="#420" class="section-mark">Recommendations</a></li>
+                                    <li><a href="#396" class="section-mark">Scope</a></li>
+                                    <li><a href="#405" class="section-mark">Methodology</a></li>
+                                    <li><a href="#424" class="section-mark">Evidence Supporting the Recommendations</a></li>
+                                    <li><a href="#427" class="section-mark">Benefits/Harms of Implementing the Guideline Recommendations</a></li>
+                                    <li><a href="#432" class="section-mark">Qualifying Statements</a></li>
+                                    <li><a href="#434" class="section-mark">Implementation of the Guideline</a></li>
+                                    <li><a href="#439" class="section-mark">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></li>
+                                    <li><a href="#442" class="section-mark">Identifying Information and Availability</a></li>
+                                    <li><a href="#99999" class="section-mark">Disclaimer</a></li>
+                            </ul>    
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+            </ul>
+
+            <!-- Other -->
+            <ul class="tools other-tools">
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Download</a>
+
+                    <div class="dropdown-panel">
+                        <ul>
+                            <li><a href="/web/20180712205407/https://www.guideline.gov/summaries/downloadcontent/ngc-10535?contentType=pdf" class="pdf">.PDF 136.0 kb</a></li>
+                            <li><a href="/web/20180712205407/https://www.guideline.gov/summaries/downloadcontent/ngc-10535?contentType=word" class="word">Word Document 335.4 kb</a></li>
+                            <li><a href="/web/20180712205407/https://www.guideline.gov/summaries/downloadcontent/ngc-10535?contentType=xml" class="xml">.XML 76.9 kb</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Share</a>
+                    <div class="dropdown-panel">
+                        <ul class="toolbar-social">
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205407/https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/summaries/summary/48529/vadod-clinical-practice-guideline-for-the-management-of-upper-extremity-amputation-rehabilitation" class="facebook">Facebook</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205407/https://twitter.com/share?text=&amp;url=https://www.guideline.gov/summaries/summary/48529/vadod-clinical-practice-guideline-for-the-management-of-upper-extremity-amputation-rehabilitation" class="twitter">Twitter</a></li>
+                            <li><a target="_blank" href="https://web.archive.org/web/20180712205407/https://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.guideline.gov/summaries/summary/48529/vadod-clinical-practice-guideline-for-the-management-of-upper-extremity-amputation-rehabilitation&amp;title=&amp;summary=&amp;source=" class="linkedin">Linkedin</a></li>
+                            <li><a href="https://web.archive.org/web/20180712205407/mailto:/?Subject=AHRQ: VA/DoD clinical practice guideline for the management of upper extremity amputation rehabilitation.&amp;body=https://www.guideline.gov/summaries/summary/48529/vadod-clinical-practice-guideline-for-the-management-of-upper-extremity-amputation-rehabilitation" class="email">Email</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                <li class="dropdown tool">
+                    <a href="#" class="tool-button">Cite</a>
+                    <div class="dropdown-panel citation">
+                        <p class="text-label"><label for="citation">Citation: </label></p>
+                        <textarea id="citation">National Guideline Clearinghouse (NGC). Guideline summary: VA/DoD clinical practice guideline for the management of upper extremity amputation rehabilitation. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 Jan 01. [cited 2018 Jul 12]. Available: https://www.guideline.gov</textarea>                        
+                        <p class="text-label">Download citation file: </p>
+                        <ul>
+                            <li><a href="/web/20180712205407/https://www.guideline.gov/summaries/citedownload/48529?format=ris">RIS (Zotero)</a></li>
+                            <li><a href="/web/20180712205407/https://www.guideline.gov/summaries/citedownload/48529?format=enw">EndNote</a></li>
+                            <li><a href="/web/20180712205407/https://www.guideline.gov/summaries/citedownload/48529?format=bibtex">BibTex</a></li>
+                            <li><a href="/web/20180712205407/https://www.guideline.gov/summaries/citedownload/48529?format=txt">Medlars</a></li>
+                            <li><a href="/web/20180712205407/https://www.guideline.gov/summaries/citedownload/48529?format=ris">ProCite</a></li>
+                            <li><a href="/web/20180712205407/https://www.guideline.gov/summaries/citedownload/48529">RefWorks</a></li>
+                            <li><a href="/web/20180712205407/https://www.guideline.gov/summaries/citedownload/48529?format=ris">Reference Manager</a></li>
+                        </ul>
+                    </div>
+                    <!-- /.dropdown-panel -->
+                </li>
+                                
+                <li class="tool">
+                        <a href="#" id="48529" data-alert="SignInLanding" class="tool-button save-link">Save</a>
+                </li>
+            </ul>
+
+            <!-- Accordion -->
+            <ul class="tools accordion-controls">
+                <li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+                <li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+            </ul>
+        </div>
+        <!-- /.toolbar -->
+
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+
+    <!-- ACCORDION -->
+    <div class="accordion-container" role="tablist" multiselectable="true">
+                <h2 id="420" class="accordion-title section-420 is-active" role="tab" aria-expanded="true"><a href="#">Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Major Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><em>Note from the Department of Veterans Affairs and the Department of Defense (VA/DoD) and the National Guideline Clearinghouse (NGC)</em></strong>: The recommendations for the management of upper extremity amputation rehabilitation are organized into 7 modules (including 3 core modules, 3 recovery phases, and lifelong care) with 1 algorithm. The modules with accompanying recommendations are presented below. See the <a href="https://web.archive.org/web/20180712205407/http://www.healthquality.va.gov/guidelines/Rehab/UEAR/VADoDCPGManagementOfUEAR090214FINAL2508.pdf" title="VA/DoD Web site" target="_blank">original guideline document</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205407im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> for the algorithm and evidence tables associated with selected recommendations, including level and quality of evidence, strength of recommendation, and supporting evidence citations.</p>
+<p>The strength of recommendation rating (A, B, C, D, I, EO) is defined at the end of the "Major Recommendations" field.</p>
+<p><strong><span style="text-decoration: underline;">Core Module 1: The Care Team Approach</span></strong></p>
+<p><strong>Care Team Approach</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>An interdisciplinary amputation care team (care team) approach, including the patient, family and/or caregiver(s), is recommended in the management of all patients with upper extremity amputation. <strong>[EO]</strong> </li>
+</ol>
+<p><strong>Care Team Communication</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="2">
+    <li>Care teams should communicate on a regular basis to facilitate integration of a comprehensive treatment plan. <strong>[EO]</strong> </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Core Module 2: Comprehensive Interdisciplinary Assessments</span></strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="3">
+    <li>Comprehensive interdisciplinary assessments and reassessments should be conducted during each of the first three phases of care (perioperative, pre-prosthetic and prosthetic training). <strong>[EO]</strong> </li>
+</ol>
+<p>The recommended components of the comprehensive assessment are summarized in Table 3 in the original guideline document. Additionally, a summary of assessments and interventions throughout all rehabilitation phases is found in Appendix B in the original guideline.</p>
+<p><strong>Annual Assessments</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="4">
+    <li>An annual comprehensive interdisciplinary assessment should be conducted for all patients with an upper extremity amputation throughout lifelong care. <strong>[EO]</strong> </li>
+</ol>
+<p>Appendix D in the original guideline document includes the essential elements of the annual assessment and this topic is addressed further in the lifelong care section of the guideline.</p>
+<p><strong>Outcome Measures</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="5">
+    <li>Functional status measures should be utilized during assessments and reassessments throughout all phases of care to document outcomes and monitor the efficacy of rehabilitation. <strong>[EO]</strong> </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Core Module 3: Patient-Centered Care</span></strong></p>
+<p><strong>Shared Decision Making</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="6">
+    <li>A shared decision making model, incorporating patient goals, should be used throughout all phases of rehabilitation to ensure patient-centered care. <strong>[EO]</strong> </li>
+</ol>
+<p><strong>Rehabilitation and Discharge Plan</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="7">
+    <li>A comprehensive, interdisciplinary, patient-centered rehabilitative and discharge plan should be developed as early as possible and updated throughout all phases of care based on the patient's progress, changes in functional status, emerging needs, and goals. <strong>[EO]</strong> </li>
+</ol>
+<p><strong>Rehabilitation Interventions</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="8">
+    <li>Patient-centered physical and functional rehabilitation interventions should be initiated based on the rehabilitation plan and the patient's physical and psychological status. <strong>[EO]</strong> </li>
+</ol>
+<p><strong>Pain Management</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="9">
+    <li>Various types of pain experienced after upper extremity loss should be managed appropriately and individually throughout all phases using pharmacological and non-pharmacological treatment options. <strong>[EO]</strong> </li>
+</ol>
+<p>Table 8 in the original guideline document lists the pharmacologic therapies to consider for post-amputation pain management. If pharmacologic therapy is offered, providers and patients should understand the uncertainties of the short- and long-term efficacy and safety of treatment, and require the patient to have regular follow-ups to reassess risks and benefits and modify treatment as indicated. These follow-ups could be done in-person or through the use of virtual and connected care.</p>
+<p><strong>Patient Education</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="10">
+    <li>The care team should provide appropriate education and educational resources to the patient, family and caregiver(s) throughout the phases of care. <strong>[EO]</strong> </li>
+</ol>
+<p><strong>Peer Support</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="11">
+    <li>The care team should facilitate early involvement of a trained peer visitor. <strong>[C]</strong> </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Perioperative Phase</span></strong></p>
+<p><strong>Decision for Amputation</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="12">
+    <li>The decision for amputation should be made based upon accepted surgical and medical standards of care. <strong>[EO]</strong> </li>
+</ol>
+<p>The surgeon should be familiar with the multiple approaches available for the various levels of amputation, muscle balancing strategies, and wound closure techniques. See Appendix G: Surgical Considerations in the original guideline document.</p>
+<p><strong>Care Team Surgical Communication</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="13">
+    <li>Communication must occur between the surgical and non-surgical members of the care team in order to optimize surgical and functional outcomes. <strong>[EO]</strong> </li>
+</ol>
+<p><strong>Patient Optimization for Rehabilitation</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="14">
+    <li>The care team should ensure that the patient is optimized for rehabilitation to enhance functional outcomes. <strong>[EO]</strong> </li>
+</ol>
+<p><strong>Functional Independence without a Prosthesis</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="15">
+    <li>Following amputation, the care team should ensure that the patient has achieved his or her highest level of functional independence without a prosthesis. <strong>[EO]</strong> </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Pre-prosthetic Phase</span></strong></p>
+<p><strong>Pre-prosthetic Training</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="16">
+    <li>The care team should ensure that patients undergo pre-prosthetic training to help determine the most appropriate type of device to achieve functional goals. <strong>[EO]</strong> </li>
+</ol>
+<p>Education on the various types of available prostheses should be provided to the patient and his or her family and/or caregiver(s) by the care team prior to the initiation of a prosthetic prescription. See Appendix F: Advantages and Disadvantages of Prostheses in the original guideline document.</p>
+<p>Potential users of body-powered prostheses must be instructed in the various body motions that will be utilized to control opening and closing the terminal device and/or operating the elbow, including its locking mechanism, if applicable. See Appendix I: Control Strategies for Body-Powered and Externally Powered Prostheses in the original guideline document.</p>
+<p><strong>Prosthesis Prescription</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="17">
+    <li>Once the appropriate type of prosthesis is identified, the care team should write a prescription for the device, including all necessary components. <strong>[EO]</strong> </li>
+</ol>
+<p>See Appendix J: Preparatory Prosthesis Recommendations in the original guideline document.</p>
+<p><strong>Prosthetic Fitting</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="18">
+    <li>Initiate upper extremity prosthetic fitting as soon as the patient can tolerate mild pressure on the residual limb. <strong>[EO]</strong> </li>
+</ol>
+<p><span style="text-decoration: underline;"><strong>Prosthetic Training Phase</strong></span></p>
+<p><strong>Prosthetic Training and Education</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="19">
+    <li>Upon delivery of the prescribed prosthesis, or change in the control scheme or componentry, the care team must engage the patient in prosthetic training and education. <strong>[EO]</strong> </li>
+</ol>
+<p><strong>Reassess Prosthetic Fit and Function</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="20">
+    <li>The care team should frequently reassess the patient's prosthetic fit and function throughout the prosthetic training phase and modify as appropriate. <strong>[EO]</strong> </li>
+</ol>
+<p><strong>Prosthesis Checkout</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="21">
+    <li>The final check out of the prosthesis should take place with appropriate members of the care team to verify that the prosthesis is acceptable. <strong>[EO]</strong> </li>
+</ol>
+<p><strong>Additional Prosthesis</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="22">
+    <li>The care team should offer active prosthesis users at least one back up device to ensure consistency with function. <strong>[EO]</strong> </li>
+</ol>
+<p><strong>Activity Specific Prosthesis</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="23">
+    <li>Prescription of activity specific or alternate design prostheses may be considered, dependent upon the patient&rsquo;s demonstration of commitment, motivation, and goals. <strong>[EO]</strong> </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Lifelong Care</span></strong></p>
+<p><strong>Patient Transition</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="24">
+    <li>Upon completion of functional training, and to ensure continuity, the care team should coordinate patient transition into the lifelong care phase. <strong>[EO]</strong> </li>
+</ol>
+<p><strong>Follow-up Contact</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="25">
+    <li>The care team should provide routine, scheduled follow-up contact for patients with upper extremity amputation at a minimum of every 12 months, regardless of prosthetic use or non-use. <strong>[EO]</strong> </li>
+</ol>
+<p><strong>Patient Relocation</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="26">
+    <li>Upon notification of patient relocation to a new catchment area, the care team should communicate with the receiving care team and coordinate transition of patient care. <strong>[EO]</strong> </li>
+</ol>
+<p><strong>Offering Education on Rehabilitation Advancements</strong></p>
+<p><em>Recommendation</em></p>
+<ol style="list-style-type: decimal;" start="27">
+    <li>The care team should provide education to the patient, family and caregiver(s) regarding advancements in technology, surgical and rehabilitation procedures related to the management of upper extremity amputation. <strong>[EO]</strong> </li>
+</ol>
+<p>See Appendix H: Emerging Technology in the original guideline document for emerging technology available at the writing of this document.</p>
+<p><strong><span style="text-decoration: underline;">Definitions</span></strong>:</p>
+<p>The strength of recommendation is based on the level of the evidence and graded using the U.S. Preventive Services Task Force (USPSTF) rating system (see table below). The discussion following the recommendations for each annotation includes an evidence table identifying the studies that have been considered, the quality of the evidence, and the rating of the strength of the recommendation.</p>
+<p><strong>Strength of Recommendation Rating</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: What the U.S. Preventive Services Task Force (USPSTF) Grades Mean and Suggestions for Practice">
+    <thead>
+        <tr>
+            <th class="Center" valign="top">Grade</th>
+            <th class="Center" valign="top">Grade Definitions</th>
+            <th class="Center" valign="top">Suggestions for Practice</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class="Center" valign="top">A</th>
+            <td valign="top">The USPSTF recommends the service. There is high certainty that the net benefit is substantial.</td>
+            <td valign="top">Offer or provide this service.</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">B</th>
+            <td valign="top">The USPSTF recommends the service. There is high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial.</td>
+            <td valign="top">Offer or provide this service.</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">C</th>
+            <td valign="top">The USPSTF recommends selectively offering or providing this service to individual patients based on professional judgment and patient preferences. There is at least moderate certainty that the net benefit is small.</td>
+            <td valign="top">Offer or provide this service for selected patients depending on individual circumstances.</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">D</th>
+            <td valign="top">The USPSTF recommends against the service. There is moderate or high certainty that the service has no net benefit or that the harms outweigh the benefits.</td>
+            <td valign="top">Discourage the use of this service.</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">I<br/>
+            Statement</th>
+            <td valign="top">The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of the service. Evidence is lacking, of poor quality, or conflicting, and the balance of benefits and harms cannot be determined.</td>
+            <td valign="top">If the service is offered, patients should understand the uncertainty about the balance of benefits and harms.</td>
+        </tr>
+    </tbody>
+</table>
+<p>Grade of <strong>EO</strong> was added for "Expert Opinion".</p></div></p>
+                        <h3><a href="#">Clinical Algorithm(s)</a></h3>
+                    <p><div class="content_para"><p>An algorithm for the management of upper extremity amputation rehabilitation is provided in the original guideline document.</p></div></p>
+
+            </div>
+                <h2 id="396" class="accordion-title section-396 is-active" role="tab" aria-expanded="true"><a href="#">Scope</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Disease/Condition(s)</a></h3>
+                    <p><div class="content_para"><p>Traumatic injuries or other conditions leading to elective or non-elective upper extremity amputation</p></div></p>
+                        <h3><a href="#">Guideline Category</a></h3>
+                    <p>Counseling</p>
+                    <p>Evaluation</p>
+                    <p>Management</p>
+                    <p>Rehabilitation</p>
+                    <p>Treatment</p>
+                        <h3><a href="#">Clinical Specialty</a></h3>
+                    <p>Anesthesiology</p>
+                    <p>Family Practice</p>
+                    <p>Internal Medicine</p>
+                    <p>Nursing</p>
+                    <p>Orthopedic Surgery</p>
+                    <p>Physical Medicine and Rehabilitation</p>
+                    <p>Plastic Surgery</p>
+                    <p>Psychiatry</p>
+                    <p>Psychology</p>
+                    <p>Surgery</p>
+                        <h3><a href="#">Intended Users</a></h3>
+                    <p>Advanced Practice Nurses</p>
+                    <p>Allied Health Personnel</p>
+                    <p>Nurses</p>
+                    <p>Occupational Therapists</p>
+                    <p>Other</p>
+                    <p>Physical Therapists</p>
+                    <p>Physician Assistants</p>
+                    <p>Physicians</p>
+                    <p>Psychologists/Non-physician Behavioral Health Clinicians</p>
+                    <p>Social Workers</p>
+                        <h3><a href="#">Guideline Objective(s)</a></h3>
+                    <p><div class="content_para"><p>To address the key principles of rehabilitation and clinical care for patients with upper limb amputation. This clinical practice guideline (CPG) highlights the following goals to ensure quality care:</p>
+<ul style="list-style-type: disc;">
+    <li>To promote a patient-centered interdisciplinary team approach </li>
+    <li>To describe the prosthetic prescription process, prosthetic training, activities of daily living (ADL) and instrumental activities of daily living (IADL) training with and without a prosthesis, physical conditioning, and psychosocial rehabilitation to maximize the patient's function and quality of life </li>
+    <li>To describe appropriate interventions to optimize the patient's physical function after an amputation (e.g., range of motion, flexibility, muscle strength and endurance, and cardiovascular fitness) </li>
+    <li>To develop clinical pathways that are consistent with current evidence-based rehabilitation methods </li>
+    <li>To provide primary care providers an algorithm to assist with the referral process </li>
+    <li>To provide rehabilitation care providers with a structured framework of appropriate rehabilitation interventions to improve the patient's outcome and reduce practice variation </li>
+    <li>To establish priorities for future research efforts that will generate evidence for practice improvement </li>
+</ul></div></p>
+                        <h3><a href="#">Target Population</a></h3>
+                    <p><div class="content_para"><p>Adult patients with elective or non-elective upper extremity amputations who are treated in any Department of Veterans Affairs (VA) or Department of Defense (DoD) clinical setting</p></div></p>
+                        <h3><a href="#">Interventions and Practices Considered</a></h3>
+                    <p><ol style="list-style-type: decimal;" start="1">
+    <li>Use of an interdisciplinary amputation care team (care team) approach, including the patient, family and/or caregiver(s) </li>
+    <li>Regular communication of care team members to facilitate integration of a comprehensive treatment plan </li>
+    <li>Comprehensive interdisciplinary assessments and reassessments during each of the first three phases of care (perioperative, pre-prosthetic and prosthetic training) </li>
+    <li>Annual comprehensive interdisciplinary assessment </li>
+    <li>Documentation of outcomes and efficacy of rehabilitation throughout all phases of care </li>
+    <li>Use of a shared decision-making model throughout all phases of care </li>
+    <li>Use of a comprehensive, interdisciplinary, patient-centered rehabilitative and discharge plan </li>
+    <li>Use of patient-centered physical and functional rehabilitation interventions </li>
+    <li>Pain management during all phases using pharmacological and non-pharmacological treatment options </li>
+    <li>Providing appropriate education and educational resources to the patient, family and caregiver(s) throughout the phases of care </li>
+    <li>Facilitating trained peer support </li>
+    <li>Use of accepted surgical and medical standards of care in making decision to amputate </li>
+    <li>Care team surgical communication </li>
+    <li>Ensuring that the patient is optimized for rehabilitation to enhance functional outcomes </li>
+    <li>Ensuring that the patient has achieved highest level of functional independence without a prosthesis </li>
+    <li>Providing pre-prosthetic training and education </li>
+    <li>Prosthetic prescription and fitting </li>
+    <li>Prosthetic training and education </li>
+    <li>Reassessment of prosthetic fit and function </li>
+    <li>Final checkout of the prosthesis </li>
+    <li>Offering back-up prosthesis and/or activity-specific prosthesis </li>
+    <li>Transitioning to lifelong care phase with regular follow-up contact </li>
+    <li>Offering patient and family education on advancements in technology, surgical and rehabilitation procedures </li>
+</ol></p>
+                        <h3><a href="#">Major Outcomes Considered</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Independence in activities of daily living (with and without prosthesis) and includes bathing, dressing, toileting, grooming, hygiene </li>
+    <li>Prosthetic use </li>
+    <li>Prosthetic satisfaction </li>
+    <li>Satisfaction with body image/cosmesis/appearance </li>
+    <li>Pain &ndash; residual limb pain and phantom pain as well as pain in other upper body locations &ndash; neck, shoulders, and intact limb (if unilateral amputation) </li>
+    <li>Quality of life </li>
+    <li>Satisfaction with life </li>
+    <li>Depression and other mood disorders/adjustment to disability </li>
+    <li>Incidence of complications such as skin breakdown </li>
+    <li>Mobility </li>
+    <li>Return to productive vocational pursuits </li>
+</ul></p>
+
+            </div>
+                <h2 id="405" class="accordion-title section-405 is-active" role="tab" aria-expanded="true"><a href="#">Methodology</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Methods Used to Collect/Select the Evidence</a></h3>
+                    <p>Searches of Electronic Databases</p>
+                        <h3><a href="#">Description of Methods Used to Collect/Select the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Key Question Formulation</span></strong></p>
+<p>The Clinical Practice Guidelines (CPG) Champions were tasked with identifying key evidence questions to guide the systematic review of the literature on rehabilitation management of upper extremity amputation. These questions, which were developed in consultation with Lewin and ECRI Institute, addressed clinical topics of the highest priority for Department of Veterans Affairs (VA) and Department of Defense (DoD) populations regarding upper extremity amputation rehabilitation (UEAR). The key questions follow the population, intervention, comparison, outcome, timing and setting (PICOTS) framework for evidence questions, as established by the Agency for Healthcare Research and Quality (AHRQ). Table A-1 in the original guideline document provides a brief overview of the PICOTS typology.</p>
+<p>The Champions and evidence review team carried out several iterations of this process, each time narrowing the scope of the CPG and the literature review by prioritizing the topics of interest. Table A-2 in the original guideline document&nbsp;contains the final set of key questions used to guide the systematic review for the CPG.</p>
+<p><strong><span style="text-decoration: underline;">Systematic Review Methodology</span></strong></p>
+<p>The methods guiding this systematic review are described below. In part, these methods follow the guidelines for conducting a systematic review set forth by the AHRQ in the <em>Methods Guide for Effectiveness and Comparative Effectiveness Reviews</em>. The methods also follow the guidance set forth by the VA/DoD <em>Guideline for Guidelines</em> document (see the "Availability of Companion Documents" field). The systematic review of the literature consisted of several distinct steps, including:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Defining the inclusion and exclusion search criteria </li>
+    <li>Developing a search strategy (i.e., search logic using MeSH [Medical Subject Headings] terminology and key words) </li>
+    <li>Screening the results based on abstracts and titles (i.e., identifying relevant studies and excluding duplicate records) </li>
+    <li>Reviewing the full text of remaining studies and abstracting relevant data points (i.e., population, comparator, results, etc.) </li>
+    <li>Assessing the internal and external validity of abstracted studies </li>
+    <li>Summarizing the evidence </li>
+    <li>Interpreting the results </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Criteria for Study Inclusion/Exclusion</span></strong></p>
+<p>The inclusion and exclusion criteria are described in detail below.</p>
+<p><strong>Inclusion Criteria</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Clinical studies published on or after January 1, 2002, and systematic reviews published on or after January 1, 2007 </li>
+    <li>All studies must be published in English </li>
+    <li>Abstracts were not included. Similarly, letters, editorials, and other publications that were not full-length, clinical studies were not accepted as evidence </li>
+    <li>All studies must have enrolled at least 1 upper extremity amputee </li>
+    <li>All studies must have enrolled adults 18 years or older. In studies that mixed adults and children, at least 85 percent of the enrolled patients must have been 18 years or older </li>
+</ul>
+<p><strong>Exclusion Criteria</strong></p>
+<ul style="list-style-type: disc;">
+    <li>Studies that enrolled only able-bodied participants </li>
+    <li>Technical studies that did not include patients with an amputation or report on patient outcomes&nbsp; </li>
+</ul>
+<p><strong><span style="text-decoration: underline;">Search Strategies</span></strong></p>
+<p>The search strategies listed in Tables A-3 and A-4 in the original guideline document were used to capture studies pertaining to all of the Key Questions for this report. Search sets were arranged into broad subject groups pertaining to amputation site, prosthesis design, treatment stage, activities of daily living, demographic variables, rehabilitation, and pain control, among other concepts. These search results were further refined to capture specific patient outcomes, study designs, publication types, and to exclude out-of-scope citations. The strategies are presented in OVID syntax and were used to search EMBASE, Medline, and PsycINFO. Similar strategies were used to search PubMed, CINAHL and ancillary databases.</p>
+<p><strong><span style="text-decoration: underline;">Results of Literature Searches</span></strong></p>
+<p>The literature search identified 3,140 citations potentially addressing the Key Questions of interest to this evidence review. Of those, 1,190 were excluded upon title review for not meeting inclusion criteria (e.g., not pertinent to the topic, published prior to 2002). Overall, 1,227 abstracts were reviewed and 937 studies were excluded for the following reasons:</p>
+<ul style="list-style-type: disc;">
+    <li>Non-systematic reviews or non-clinical trials </li>
+    <li>Studies not addressing a Key Question of interest </li>
+    <li>Technical studies that did not enroll patients with an amputation </li>
+    <li>Studies published:
+    <ul style="list-style-type: disc;">
+        <li>Prior to 2002 for clinical studies </li>
+        <li>Prior to 2007 for systematic reviews </li>
+    </ul>
+    </li>
+</ul>
+<p>A total of 290 full-length articles were reviewed. Of those, 183 were excluded during review for the following reasons:</p>
+<ul style="list-style-type: disc;">
+    <li>Not a full-length systematic review or clinical study </li>
+    <li>Not addressing a Key Question </li>
+    <li>Not enrolling at least one patient with an upper extremity amputation </li>
+    <li>Being a technical study with no relevant outcomes </li>
+    <li>Duplicate studies </li>
+</ul>
+<p>A total of 107 full-length articles were thought to address one or more Key Questions and were further reviewed. Of these, 64 were ultimately excluded. Reasons for their exclusion are presented in Figure A-1 in the original guideline document.</p></div></p>
+                        <h3><a href="#">Number of Source Documents</a></h3>
+                    <p><div class="content_para"><p>Overall, 43 studies addressed one or more of the Key Questions and were considered as evidence in the review. Table A-5 in the original guideline document describes the number of studies that addressed each of the questions.</p></div></p>
+                        <h3><a href="#">Methods Used to Assess the Quality and Strength of the Evidence</a></h3>
+                    <p>Expert Consensus</p>
+                    <p>Weighting According to a Rating Scheme (Scheme Given)</p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Evidence</a></h3>
+                    <p><div class="content_para"><p>The methodological quality of all included systematic reviews and independent clinical studies was assessed using the U.S. Preventive Services Task Force (USPSTF) method. Each study was assigned a rating of Good, Fair, or Poor based on sets of criteria that vary depending on study design. Detailed lists of criteria and definitions of Good, Fair, or Poor ratings for different study designs appear in the <a href="/web/20180712205407/https://www.guideline.gov/Home/Disclaimer?id=48529&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.uspreventiveservicestaskforce.org%2fPage%2fName%2fprocedure-manual" title="USPSTF Web site">USPSTF procedure manual</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205407im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p></div></p>
+                        <h3><a href="#">Methods Used to Analyze the Evidence</a></h3>
+                    <p>Systematic Review with Evidence Tables</p>
+                        <h3><a href="#">Description of the Methods Used to Analyze the Evidence</a></h3>
+                    <p><div class="content_para"><p><strong>Evidence Review</strong></p>
+<p>The evidence from each included study was abstracted into evidence tables and narratively synthesized. This guideline focuses primarily on the following patient-centered outcomes: independence in activities of daily living (ADL), prosthetic use, prosthetic satisfaction, satisfaction with body image and/or cosmesis, residual or phantom pain, quality of life, satisfaction with life, depression and other mood disorders, incidence of complications, reintegration, and return to work. The strength of the evidence was assessed along the following criteria: methodological quality, consistency of findings across studies, directness of the evidence (e.g., head-to-head comparisons provide the most direct evidence), and precision (i.e., the degree of certainty around an outcome's effect size).</p>
+<p>Overall, the evidence base for this guideline consisted of 43 studies. The majority of the evidence addressed strategies to treat postoperative phantom and residual limb pain. A fair amount of evidence considered factors associated with successful, long-term prosthetic use at one or more years following rehabilitation. Very few studies considered rehabilitation at the pre-prosthetic or prosthetic training phase. Inconsistencies of the evidence are discussed in the text describing the basis of a recommendation.</p>
+<p><strong>Evidence Assessment</strong></p>
+<p>In order for the clinician to be aware of the evidence base behind the recommendations and the weight that should be given to each recommendation, the recommendations are keyed according to the level of confidence with which each recommendation is made. The graded recommendations are based on two main dimensions: 1) net benefit of an intervention and 2) certainty of evidence associated with that net benefit. When evidence is limited, the level of confidence also incorporates clinical consensus with regard to a particular clinical decision.</p></div></p>
+                        <h3><a href="#">Methods Used to Formulate the Recommendations</a></h3>
+                    <p>Expert Consensus</p>
+                        <h3><a href="#">Description of Methods Used to Formulate the Recommendations</a></h3>
+                    <p><div class="content_para"><p><strong><span style="text-decoration: underline;">Methods</span></strong></p>
+<p>The methodology used in developing this 2014 Clinical Practice Guideline (CPG) follows the <em>Guideline for Guidelines</em>, an internal document of the Department of Veterans Affairs (VA) and Department of Defense (DoD) Evidence-Based Practice Working Group (EBPWG) (see the "Availability of Companion Documents" field). This document provides information regarding the process of developing guidelines, including the identification and assembly of the Guideline Champions (Champions) and other subject matter experts from within the VA and DoD, known as the Work Group, and ultimately, the development of a upper extremity amputation rehabilitation (UEAR) CPG.</p>
+<p>The Champions and Work Group for this CPG were charged with developing evidence-based clinical practice recommendations and writing and publishing a guideline document to be used by providers within the VA/DoD healthcare system. Specifically, the Champions for this guideline were responsible for identifying the key questions of greatest clinical relevance, importance, and interest for the management of patients with upper extremity amputations. In addition, the Champions assisted in:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Providing direction on inclusion and exclusion criteria for the evidence review </li>
+    <li>Assessing the level and quality of the evidence </li>
+    <li>Identifying appropriate disciplines of individuals to be included as part of the Work Group </li>
+    <li>Directing and coordinating the Work Group </li>
+    <li>Participating throughout the guideline development and review processes </li>
+</ol>
+<p>The VA Office of Quality, Safety and Value, in collaboration with the Office of Evidence Based Practice, US Army Medical Command, the proponent for CPGs for the DoD, identified five clinical leaders as Champions for the 2014 CPG.</p>
+<p>The Lewin Team (team), including Duty First Consulting and ECRI Institute, was contracted by the VA and DoD to support the development of this CPG and conduct the evidence review. The team held the first conference call in October 2012, with participation from the contracting officer's representatives (COR), leaders from the VA Office of Quality, Safety and Value and the DoD Office of Evidence Based Practice, and the Champions. During this call, the project team discussed the scope of the guideline initiative, the roles and responsibilities of the Champions, the project timeline, and the approach for developing specific research questions on which to base a systematic review about the management of UEAR. The group also identified a list of clinical specialties and areas of expertise that are important and relevant to the management of UEAR, from which Work Group members were recruited. The specialties and clinical areas of interest included: Internal Medicine, Nursing, Occupational Therapy, Physiatry, Physical Medicine &amp; Rehabilitation, Physical Therapy, Prosthetics, Psychology, Recreational Therapy, Social Work and Surgery.</p>
+<p>The guideline development process for the 2014 CPG update consisted of the following steps:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Formulating evidence questions (Key Questions) </li>
+    <li>Conducting the systematic review </li>
+    <li>Convening a face-to-face meeting with the CPG Champions and Work Group members </li>
+    <li>Drafting and submitting a final CPG about the management of UEAR to the VA/DoD EBPWG </li>
+</ol>
+<p><strong><span style="text-decoration: underline;">Evidence Review</span></strong></p>
+<p>The recommendations presented in this CPG are based on a systematic appraisal of the published evidence on the rehabilitation and management of Veterans and Service Members with acquired upper extremity amputation. In areas where the evidence is particularly lacking, expert opinion served as the basis for the recommendations.</p>
+<p><strong><span style="text-decoration: underline;">Evidence Assessment</span></strong></p>
+<p>In order for the clinician to be aware of the evidence base behind the recommendations and the weight that should be given to each recommendation, the recommendations are keyed according to the level of confidence with which each recommendation is made. The graded recommendations are based on two main dimensions: 1) net benefit of an intervention and 2) certainty of evidence associated with that net benefit. When evidence is limited, the level of confidence also incorporates clinical consensus with regard to a particular clinical decision.</p>
+<p><strong>Grade of EO for Experts Opinion</strong></p>
+<p>To grade the recommendations for the guideline, the CPG Working Group used a variation of the USPSTF grading framework to provide for a grade of EO for "Expert Opinion." Given that evidence-based clinical practice guidelines have to be used in real practice for Veterans and Service Members, a grade of I for insufficient evidence may not provide useful guidance for supporting clinical decisions in practice. In particular, the guideline developers considered certain instances in which evidence suggests a Substantial or Moderate net benefit, but the certainty/strength of that evidence is Low. In those instances, rather than concluding that the evidence is insufficient to support a clinical decision, the guideline developers relied on expert opinion to set forth a recommendation. A grade of EO does not imply that the evidence is strong (it is still Low). However, it does suggest that the magnitude of net benefit (Substantial or Moderate) is of sufficient clinical importance to make a recommendation, even if it is based on low certainty (weak evidence).</p>
+<p>This CPG represents a synthesis of current scientific knowledge and clinical practice on the management of upper limb amputation rehabilitation. It attempts to be as free as possible of bias toward any theoretical or empirical approach to treatment.</p>
+<p>This CPG is the product of many months of diligent effort and consensus building among knowledgeable individuals from the VHA and the DoD. An experienced moderator facilitated the multidisciplinary Working Group. An experienced moderator facilitated the multidisciplinary Working Group. The draft document was discussed in a face-to-face group meeting. The content and validity of each section was thoroughly reviewed in a series of conference calls.</p>
+<p><strong><span style="text-decoration: underline;">Patient Engagement</span></strong></p>
+<p>The recommendations included in this guideline are patient-centric. In an effort to ensure that the patient is at the core of any clinical decision, the Work Group identified a group of individuals from within the VA and DoD with upper limb amputations. Approximately 10 patients, currently receiving care from the VA and/or DoD health systems, were invited to join the Work Group for a discussion on their experiences. These individuals represented different age groups, sexes, race/ethnicities, and had various causes of upper limb loss. The group consisted of non-combat veterans who underwent elective and non-elective upper limb amputations as well as combat veterans from Vietnam, Afghanistan, and Iraq.</p>
+<p>The Work Group developed a set of concise, thought-provoking questions in an effort to gather insights on each person's care and rehabilitation experience. These questions included:</p>
+<ul style="list-style-type: disc;">
+    <li>How critical do you feel your care team was to your rehabilitation? </li>
+    <li>How were options for treatment presented to you throughout your care? </li>
+    <li>To what extent did you feel empowered to make treatment decisions? </li>
+    <li>Throughout each phase of your care, how often did you have contact with any member of your care team? </li>
+    <li>How could your care and rehabilitation process have been improved? </li>
+</ul>
+<p>In addition, the Work Group reviewed each practice recommendation with the participants in order to identify and address any potential gaps within the CPG. The discussion that ensued was fairly informal and designed to gather information about the patient's experience with their primary care providers and care team throughout their rehabilitation.</p>
+<p>Several key insights were gleaned from this discussion and subsequently used to refine and clarify the guideline recommendations. In particular, participants noted that an interdisciplinary care team approach, shared decision making, and education on emerging prosthetic technologies are critical to improving the patient experience during and following rehabilitation.</p>
+<p>Several participants indicated that while they have been generally satisfied with their primary care providers, rehabilitation providers, or prosthetists, a truly comprehensive care team approach was essential but occasionally missing, in which all or most members of the team are fully abreast of the patient's progress and engaged in all aspects of his or her care. The Work Group used this information to further emphasize the importance of the care team and outlined the various individuals that should be involved, including the patient's family and/or caregivers.</p>
+<p>Participants also described the importance of utilizing a shared decision making model, which allows providers and patients to identify rehabilitations goals, assess prosthetic needs, and make treatment decisions together. Some of the older participants explained that historically, very little was discussed in terms of goal setting between themselves and their providers. Often, rehabilitation and training, both with and without prosthesis, was primarily achieved through trial and error over time, rather than during the rehabilitation process. Today, shared decision making is more frequently used in a clinical setting, particularly due to VA and DoD commitment to providing patient-centered care.</p>
+<p>Finally, participants expressed concern over a lack of communication between patients and providers regarding education and information on emerging prosthetic technologies. Several individuals noted that most of the information they receive comes from indirect sources (i.e., other people with amputations), rather than from their providers. The Work Group incorporated this feedback into the lifelong care phase.</p>
+<p>Participants for this discussion were identified and recruited by the CPG Work Group. Participants received modest compensation for their travel. The Work Group noted the value in incorporating patients during the development of this guideline and suggested that other CPG Work Groups follow this model.</p></div></p>
+                        <h3><a href="#">Rating Scheme for the Strength of the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The strength of recommendation is based on the level of the evidence and graded using the U.S. Preventive Services Task Force (USPSTF) rating system (see table below). The discussion following the recommendations for each annotation includes an evidence table identifying the studies that have been considered, the quality of the evidence, and the rating of the strength of the recommendation.</p>
+<p><strong>Strength of Recommendation Rating</strong></p>
+<table border="1" cellspacing="3" cellpadding="5" summary="Table: Strength of Recommendation Rating">
+    <thead>
+        <tr>
+            <th class="Center" valign="top">Grade</th>
+            <th class="Center" valign="top">Definition</th>
+            <th class="Center" valign="top">Suggestions for Practice</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th class="Center" valign="top">A</th>
+            <td valign="top">The U.S. Preventive Services Task Force (USPSTF) recommends the service. There is high certainty that the net benefit is substantial.</td>
+            <td valign="top">Offer or provide this service.</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">B</th>
+            <td valign="top">The USPSTF recommends the service. There is high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial.</td>
+            <td valign="top">Offer or provide this service.</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">C</th>
+            <td valign="top">The USPSTF recommends selectively offering or providing this service to individual patients based on professional judgment and patient preferences. There is at least moderate certainty that the net benefit is small.</td>
+            <td valign="top">Offer or provide this service for selected patients depending on individual circumstances.</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">D</th>
+            <td valign="top">The USPSTF recommends against the service. There is moderate or high certainty that the service has no net benefit or that the harms outweigh the benefits.</td>
+            <td valign="top">Discourage the use of this service.</td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">I<br/>
+            Statement</th>
+            <td valign="top">The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of the service. Evidence is lacking, of poor quality, or conflicting, and the balance of benefits and harms cannot be determined.</td>
+            <td valign="top">If the service is offered, patients should understand the uncertainty about the balance of benefits and harms.</td>
+        </tr>
+    </tbody>
+</table>
+<p>Grade of <strong>EO</strong> was added for "Expert Opinion".</p></div></p>
+                        <h3><a href="#">Cost Analysis</a></h3>
+                    <p><div class="content_para"><p>A cost analysis was not performed and published cost analyses were not reviewed.</p></div></p>
+                        <h3><a href="#">Method of Guideline Validation</a></h3>
+                    <p>Internal Peer Review</p>
+                        <h3><a href="#">Description of Method of Guideline Validation</a></h3>
+                    <p><div class="content_para"><p>The draft document was discussed in a face-to-face group meeting. The content and validity of each section was thoroughly reviewed in a series of conference calls. The final document is the product of those discussions and has been approved by all members of the Clinical Practice Guideline (CPG) Working Group.</p></div></p>
+
+            </div>
+                <h2 id="424" class="accordion-title section-424 is-active" role="tab" aria-expanded="true"><a href="#">Evidence Supporting the Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Type of Evidence Supporting the Recommendations</a></h3>
+                    <p><div class="content_para"><p>The type of supporting evidence is identified for selected recommendations (see the "Major Recommendations" field).</p>
+<p>The recommendations are based on a systematic appraisal of the published evidence on the rehabilitation and management of Veterans and Service Members with acquired upper extremity amputation. In areas where the evidence is particularly lacking, expert opinion served as the basis for the recommendations.</p></div></p>
+
+            </div>
+                <h2 id="427" class="accordion-title section-427 is-active" role="tab" aria-expanded="true"><a href="#">Benefits/Harms of Implementing the Guideline Recommendations</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Potential Benefits</a></h3>
+                    <p><div class="content_para"><p>The overall goal of amputation rehabilitation is to optimize the patient's health status, function, independence, and quality of life.</p></div></p>
+                        <h3><a href="#">Potential Harms</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>Patients undergoing upper extremity amputation are at risk for complications including venous thrombosis, embolism, heterotopic ossification, joint contracture, and pressure ulcers. </li>
+    <li>Acceptance and function of upper extremity prostheses by the patient is always at risk. The risk for disuse or rejection is even greater if the patient does not have a good understanding of the operation and control of the prosthetic device. </li>
+    <li>Patients with amputations are at risk for secondary complications in the residual and non-amputated limb. The development of overuse syndromes and other painful musculoskeletal conditions frequently occurs in patients with upper limb amputations. </li>
+    <li>There are several different types of pain experienced after amputation including immediate post-surgical pain and post-amputation pain, which includes residual limb pain, phantom limb pain, and associated musculoskeletal pain. </li>
+    <li>Patients receiving medication to control pain are at risk of side effects and complications associated with narcotic pain medications. </li>
+    <li>Patients with amputations are at risk of requiring revision surgery for the amputated extremity or amputation of other extremities. </li>
+    <li>Long-term prosthetic use commonly results in complications such as skin breakdown and pain. </li>
+    <li>Myoelectric control signals will be adversely affected if the prosthesis socket is too tight or becomes too loose due to changes in limb volume or soft tissue composition. </li>
+</ul></p>
+
+            </div>
+                <h2 id="432" class="accordion-title section-432 is-active" role="tab" aria-expanded="true"><a href="#">Qualifying Statements</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Qualifying Statements</a></h3>
+                    <p><ul style="list-style-type: disc;">
+    <li>The Department of Veterans Affairs (VA) and the Department of Defense (DoD) guidelines are based upon the best information available at the time of publication. They are designed to provide information and assist decision making. They are not intended to define a standard of care and should not be construed as one. Neither should they be interpreted as prescribing an exclusive course of management. </li>
+    <li>This Clinical Practice Guideline (CPG) is based on a systematic review of both clinical and epidemiological evidence. Developed by a panel of multidisciplinary experts, it provides a clear explanation of the logical relationships between various care options and health outcomes while rating both the quality of the evidence and the strength of the recommendations. </li>
+    <li>Variations in practice will inevitably and appropriately occur when clinicians take into account the needs of individual patients, available resources, and limitations unique to an institution or type of practice. Every healthcare professional making use of these guidelines is responsible for evaluating the appropriateness of applying them in the setting of any particular clinical situation. </li>
+    <li>These guidelines are not intended to represent TRICARE policy. Further, inclusion of recommendations for specific testing and/or therapeutic interventions within these guidelines does not guarantee coverage of civilian sector care. Additional information on current TRICARE benefits may be found at <a href="/web/20180712205407/https://www.guideline.gov/Home/Disclaimer?id=48529&amp;contentType=summary&amp;redirect=http%3a%2f%2fwww.tricare.mil%2f" title="Tricare Web site">www.tricare.mil</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205407im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/> or by contacting the appropriate regional TRICARE Managed Care Support Contractor. </li>
+    <li>This CPG is not intended to serve as a standard of care. Standards of care are determined on the basis of all clinical data available for an individual case and are subject to change as scientific knowledge and technology advances and patterns evolve. This CPG is based on information available at the date of publication, and is intended to provide a general guide to best practices. The guideline can assist care providers, but the use of a CPG must always be considered as a recommendation, within the context of a provider's clinical judgment, in the care of an individual patient. </li>
+</ul></p>
+
+            </div>
+                <h2 id="434" class="accordion-title section-434 is-active" role="tab" aria-expanded="true"><a href="#">Implementation of the Guideline</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Description of Implementation Strategy</a></h3>
+                    <p><div class="content_para"><p>This Clinical Practice Guideline (CPG) and algorithms are designed to be adapted to patient needs and resources. It is expected that this CPG will provide information useful for improving upper limb amputation care by reducing variability. Primary care providers and rehabilitation professionals may use the algorithms to determine best interventions and steps of care for their patients to optimize healthcare utilization and achieve the best outcomes related to rehabilitation following upper limb amputation. This should not prevent providers from using clinical expertise in the care of an individual patient. Guideline recommendations should facilitate, not replace, clinical judgment.</p>
+<p>This CPG represents a first attempt in providing a structure for a rehabilitation process in upper extremity amputation that is evidence-based. As rehabilitation practice evolves, new technology and more research will improve rehabilitation care. This CPG can assist in identifying priorities for research efforts and allocation of resources. As a result of implementing a more unified approach to rehabilitation practice, followed by data collection and assessment, new practice-based evidence will emerge.</p></div></p>
+                        <h3><a href="#">Implementation Tools</a></h3>
+                    <p>Clinical Algorithm</p>
+                    <p>Patient Resources</p>
+                    <p>Pocket Guide/Reference Cards</p>
+                    <p>Quick Reference Guides/Physician Guides</p>
+                    <p>Resources</p>
+                    <p><div class="general-block">For information about availability, see the <i>Availability of Companion Documents</i> and <i>Patient Resources</i> fields below.</div></p>
+
+            </div>
+                <h2 id="439" class="accordion-title section-439 is-active" role="tab" aria-expanded="true"><a href="#">Institute of Medicine (IOM) National Healthcare Quality Report Categories</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">IOM Care Need</a></h3>
+                    <p>Living with Illness</p>
+                        <h3><a href="#">IOM Domain</a></h3>
+                    <p>Effectiveness</p>
+                    <p>Patient-centeredness</p>
+
+            </div>
+                <h2 id="442" class="accordion-title section-442 is-active" role="tab" aria-expanded="true"><a href="#">Identifying Information and Availability</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">Bibliographic Source(s)</a></h3>
+                    <p><table><tr><td>Management of Upper Extremity Amputation Rehabilitation Working Group. VA/DoD clinical practice guideline for the management of upper extremity amputation rehabilitation. Washington (DC): Department of Veterans Affairs, Department of Defense; 2014. 149 p.  [164 references]</td></tr></table></p>
+                        <h3><a href="#">Adaptation</a></h3>
+                    <p><div class="content_para"><p>Not applicable: The guideline was not adapted from another source.</p></div></p>
+                        <h3><a href="#">Date Released</a></h3>
+                    <p>2014</p>
+                        <h3><a href="#">Guideline Developer(s)</a></h3>
+                    <p>Department of Defense - Federal Government Agency [U.S.]</p>
+                    <p>Department of Veterans Affairs - Federal Government Agency [U.S.]</p>
+                    <p>Veterans Health Administration - Federal Government Agency [U.S.]</p>
+                        <h3><a href="#">Source(s) of Funding</a></h3>
+                    <p><div class="content_para"><p>United States Government</p></div></p>
+                        <h3><a href="#">Guideline Committee</a></h3>
+                    <p><div class="content_para"><p>The Management of Upper Extremity Amputation Rehabilitation Working Group</p></div></p>
+                        <h3><a href="#">Composition of Group That Authored the Guideline</a></h3>
+                    <p><div class="content_para"><p><em>VA Working Group Members</em>: Cindy Poorman, MSPT*; Billie J. Randolph, PT, PhD*; Joseph Webster, MD*; Laurel Adams-Koss, OT*; Erin Butler, MSW; David Drake, MD; Christopher Fantini, MSPT, CP, BOCO*; Francine Goodman, PharmD, BCPS; Jeffrey Heckman, DO*; Patty Jackson, RN, CRRN; Gail Latlief, DO; Peggy Merchak, MA, OTR, CHT; Elsie Moore, LICSW; Linda Resnik, PT, PhD*; Stacey Pollack, PhD; Jay Pyo, DO*; Alicia White, PT, DPT</p>
+<p><em>DoD Working Group Members</em>: MAJ Jay Clasing, PhD, OTR, CPE*; Lisa Smurr Walters, MS, OTR, CHT*; David Beachler, CP; MAJ Jocelyn Blackwell, MD; Corinne K.B. Devlin, MSN, RN, FNP-BC*; Louise Hassinger, CP; Heather Miller, MEd, CTRS; MAJ Sarah Mitsch, OTR/L*; CDR George Nanos, MD; LCDR Robert Selvester, MD; Jorge Torres, APN</p>
+<p><em>The Office of Quality, Safety and Value</em>: Carla Cassidy, MSN, ANP; M. Eric Rodgers, PhD, FNP, BC*; Ren&eacute; M. Sutton, BS, HCA</p>
+<p><em>Office of Evidence Based Practice, US Army Medical Command</em>: Ernest Degenhardt, COL USA (Ret.), MSN, RN, ANP, FNP; Corinne K.B. Devlin, MSN, RN, FNP-BC*</p>
+<p><em>ECRI Institute</em>: Jim Reston, PhD; Stacey Uhl, MS</p>
+<p><em>The Lewin Group</em>: Cliff Goodman, PhD; Hillary Kleiner, MPH; Mariam Siddiqui, BS; Erin Gardner, BS; Sneha Rangarao, MPH; Paul Wallace, MD</p>
+<p class="Note">*Members of the core editing panel.</p></div></p>
+                        <h3><a href="#">Financial Disclosures/Conflicts of Interest</a></h3>
+                    <p><div class="content_para"><p>Not stated</p></div></p>
+                        <h3><a href="#">Guideline Status</a></h3>
+                    <p><div class="content_para"><p>This is the current release of the guideline.</p>
+<p>This guideline meets NGC's 2013 (revised) inclusion criteria.</p></div></p>
+                        <h3><a href="#">Guideline Availability</a></h3>
+                    <p><div class="content_para"><p>Electronic copies: Available from the <a href="https://web.archive.org/web/20180712205407/http://www.healthquality.va.gov/guidelines/rehab/uear/index.asp" target="_blank" title="Department of Veterans Affairs Web site">Department of Veterans Affairs Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205407im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>Print copies: Available from the Department of Veterans Affairs, Veterans Health Administration, Office of Quality and Performance (10Q) 810 Vermont Ave. NW, Washington, DC 20420.</p></div></p>
+                        <h3><a href="#">Availability of Companion Documents</a></h3>
+                    <p><div class="content_para"><p>The following are available:</p>
+<ul style="list-style-type: disc;">
+    <li>VA/DoD clinical practice guideline for the management of upper extremity amputation rehabilitation. Clinical guideline summary. Washington (DC): Department of Veterans Affairs, Department of Defense; 2014. 19 p. Electronic copies: Available from the <a href="https://web.archive.org/web/20180712205407/http://www.healthquality.va.gov/guidelines/Rehab/UEAR/VADoDUEARClinicianSummary090214FINAL508.pdf" title="Department of Veterans Affairs (VA) Web site" target="_blank">Department of Veterans Affairs (VA) Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205407im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>VA/DoD clinical practice guideline for the management of upper extremity amputation rehabilitation. Pocket card. Washington (DC): Department of Veterans Affairs, Department of Defense; 2014. 5 p. Electronic copies: Available from the <a href="https://web.archive.org/web/20180712205407/http://www.healthquality.va.gov/guidelines/Rehab/UEAR/VADoDUEARPocketCard090214FINAL508.pdf" title="Department of Veterans Affairs (VA) Web site" target="_blank">VA Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205407im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Guideline for guidelines. Washington (DC): Department of Veterans Affairs; 2013 Apr 10. Electronic copies: Available from the <a href="https://web.archive.org/web/20180712205407/http://www.healthquality.va.gov/documents/cpgGuidelinesForGuidelinesFinalRevisions051214.docx" title="Department of Veterans Affairs (VA) Web site" target="_blank">VA Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205407im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+    <li>Putting clinical practice guidelines to work in VHA. Washington (DC): Department of Veterans Affairs. 64 p. Electronic copies: Available from the <a href="https://web.archive.org/web/20180712205407/http://www.healthquality.va.gov/VA_Manual.pdf" title="Department of Veterans Affairs (VA) Web site" target="_blank">VA Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205407im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p>In addition, various resources, including a summary of assessments and interventions in rehabilitation phases, a list of essential elements of annual contact, activities of daily living, advantages and disadvantages of prostheses, control strategies for body-powered and externally powered prostheses, preparatory prosthesis recommendations, and control training for body-powered and externally powered prostheses, are available in the appendices to the <a href="https://web.archive.org/web/20180712205407/http://www.healthquality.va.gov/guidelines/rehab/uear/index.asp" title="Department of Veterans Affairs (VA) Web site" target="_blank">original guideline document</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205407im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>.</p>
+<p>Print copies: Department of Veterans Affairs, Veterans Health Administration, Office of Quality and Performance (10Q), 810 Vermont Ave. NW, Washington, DC 20420.</p></div></p>
+                        <h3><a href="#">Patient Resources</a></h3>
+                    <p><div class="content_para"><p>The following is available:</p>
+<ul style="list-style-type: disc;">
+    <li>VA/DoD clinical practice guideline for the management of upper extremity amputation rehabilitation. Patient summary. Washington (DC): Department of Veterans Affairs, Department of Defense; 2014. 8 p. Electronic copies: Available from the <a href="https://web.archive.org/web/20180712205407/http://www.healthquality.va.gov/guidelines/Rehab/UEAR/VADoDUEARPatientSummary090214FINAL508.pdf" target="_blank" title="Department of Veterans Affairs Web site">Department of Veterans Affairs Web site</a>&nbsp;<img alt="External Web Site Policy" src="/web/20180712205407im_/https://www.guideline.gov/UI/images/icon_externallink.gif"/>. </li>
+</ul>
+<p class="Disclaimer">Please note: This patient information is intended to provide health professionals with information to share with their patients to help them better understand their health and their diagnosed disorders. By providing access to this patient information, it is not the intention of NGC to provide specific medical advice for particular patients. Rather we urge patients and their representatives to review this material and then to consult with a licensed health professional for evaluation of treatment options suitable for them as well as for diagnosis and answers to their personal medical questions. This patient information has been derived and prepared from a guideline for health care professionals included on NGC by the authors or publishers of that original guideline. The patient information is not reviewed by NGC to establish whether or not it accurately reflects the original guideline's content.</p></div></p>
+                        <h3><a href="#">NGC Status</a></h3>
+                    <p><div class="content_para"><p>This NGC summary was completed by ECRI Institute on December 10, 2014.</p></div></p>
+                        <h3><a href="#">Copyright Statement</a></h3>
+                    <p><div class="content_para"><p>No copyright restrictions apply.</p></div></p>
+
+            </div>
+                <h2 id="99999" class="accordion-title section-99999 is-active" role="tab" aria-expanded="true"><a href="#">Disclaimer</a></h2>
+            <div class="accordion-panel is-active" role="tabpanel">
+                        <h3><a href="#">NGC Disclaimer</a></h3>
+                    <p><p>The National Guideline Clearinghouse™ (NGC) does not develop, produce, approve, or endorse the guidelines represented on this site.</p> 
+<p>All guidelines summarized by NGC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public or private organizations, other government agencies, health care organizations or plans, and similar entities.</p> 
+<p>Guidelines represented on the NGC Web site are submitted by guideline developers, and are screened solely to determine that they meet the <a href="/web/20180712205407/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria">NGC Inclusion Criteria</a>.</p> 
+<p>NGC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or clinical efficacy or effectiveness of the clinical practice guidelines and related materials represented on this site. Moreover, the views and opinions of developers or authors of guidelines represented on this site do not necessarily state or reflect those of NGC, AHRQ, or its contractor ECRI Institute, and inclusion or hosting of guidelines in NGC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding guideline content are directed to contact the guideline developer.</p></p>
+
+            </div>
+
+    </div>
+    <!-- /.accordion-container -->
+
+<!-- ASIDE -->
+<!-- FOOTER -->
+
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+
+    <!-- About NGC -->
+    <div class="info-block">
+            <h3 class="info prefix-icon large-icon">About NGC Guideline Summaries</h3>
+            <p>NGC provides structured summaries containing information from clinical practice guidelines.</p>
+            <ul>
+                <li><a href="/web/20180712205407/https://www.guideline.gov/help-and-about/summaries/inclusion-criteria" class="internal-link">Inclusion Criteria</a></li>
+                <li><a href="/web/20180712205407/https://www.guideline.gov/help-and-about/summaries/template-of-guideline-attributes" class="internal-link">Template of Guideline Attributes</a></li>
+                <li><a href="/web/20180712205407/https://www.guideline.gov/help-and-about/summaries/classification-scheme" class="internal-link">Classification Scheme</a></li>
+            </ul>
+            <p><a href="/web/20180712205407/https://www.guideline.gov/help-and-about/summaries/faqs" class="help-button">Guideline Summary FAQs</a></p>
+
+    </div>
+    <!-- /info-block -->
+
+    <!-- Guideline Synthesis -->
+
+    <!-- HHS Block -->
+
+    <!-- Related Content -->
+
+
+    <hr>
+
+    <!-- New on NGC -->
+    <div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+        <ul class="subscribe-links">
+            <li><a href="/web/20180712205407/https://www.guideline.gov/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/web/20180712205407/https://www.guideline.gov/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+        </ul>
+    </div>
+    <!-- /.subscribe-header -->
+        <h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+        <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205407/https://www.guideline.gov/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205407/https://www.guideline.gov/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205407/https://www.guideline.gov/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205407/https://www.guideline.gov/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/web/20180712205407/https://www.guideline.gov/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+    <a class="block-link" href="/web/20180712205407/https://www.guideline.gov/new-this-week/index">
+        <h3>New This Week </h3>
+        <p>View more and sign up for our Newsletter</p>
+    </a>
+    <!-- Adobe Reader -->
+    <p><a href="/web/20180712205407/https://www.guideline.gov/disclaimer?id=48529&amp;contentType=summary&amp;redirect=http%3A%2F%2Fget.adobe.com%2Freader%2F" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+
+    <!-- COMMENTS -->
+    
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source type="image/svg+xml" srcset="/web/20180712205407im_/https://www.guideline.gov/UI/images/logo_NGC_footer.svg">
+					  	<img src="/web/20180712205407im_/https://www.guideline.gov/UI/images/logo_NGC_footer.png" alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/web/20180712205407/https://www.guideline.gov/">Home</a></li>
+		                <li><a href="/web/20180712205407/https://www.guideline.gov/new-this-week/index">New This Week</a></li>
+						<li><a href="/web/20180712205407/https://www.guideline.gov/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/web/20180712205407/https://www.guideline.gov/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/web/20180712205407/https://www.guideline.gov/expert">Expert Commentaries</a></li>
+		                <li><a href="/web/20180712205407/https://www.guideline.gov/matrix">Matrix Tool</a></li>
+						<li><a href="/web/20180712205407/https://www.guideline.gov/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/web/20180712205407/https://www.guideline.gov/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/web/20180712205407/https://www.guideline.gov/contact-us">Contact Us</a></li>
+						<li><a href="/web/20180712205407/https://www.guideline.gov/rss">RSS</a></li>
+					    <li><a href="/web/20180712205407/https://www.guideline.gov/site-map">Site Map</a></li>
+                        <li><a href="/web/20180712205407/https://www.guideline.gov/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/web/20180712205407/https://www.guideline.gov/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/web/20180712205407/https://www.guideline.gov/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/web/20180712205407/https://www.guideline.gov/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/web/20180712205407/https://www.guideline.gov/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/web/20180712205407/https://www.guideline.gov/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/web/20180712205407/https://www.guideline.gov/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://web.archive.org/web/20180712205407/https://www.qualitymeasures.ahrq.gov/" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/web/20180712205407im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/web/20180712205407im_/https://www.guideline.gov/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://web.archive.org/web/20180712205407/https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/web/20180712205407im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/web/20180712205407im_/https://www.guideline.gov/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.facebook.com/" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.twitter.com/" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.linkedin.com/" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.youtube.com/" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="https://web.archive.org/web/20180712205407/http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//web.archive.org/web/20180712205407js_/https://ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/web/20180712205407js_/https://www.guideline.gov/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
+<!--
+     FILE ARCHIVED ON 20:54:07 Jul 12, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 16:45:48 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 61.281 (3)
+  esindex: 0.006
+  captures_list: 76.554
+  CDXLines.iter: 12.547 (3)
+  PetaboxLoader3.datanode: 74.05 (4)
+  exclusion.robots: 0.132
+  exclusion.robots.policy: 0.121
+  RedisCDXSource: 0.403
+  load_resource: 44.138
+-->
