@@ -13,8 +13,8 @@
 
 //	chdir("./$dir");
 
-	$start = 6000;
-	$end = 10010;
+	$start = 1;
+	$end = 1010;
 
 	for($i = $start; $i < $end ; $i++){
 
