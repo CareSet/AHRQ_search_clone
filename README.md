@@ -1,10 +1,12 @@
 AHRQ Mirror Project
 =====================
 
+This is a project to backup important resources from [https://guideline.gov/](https://guideline.gov/) and [https://www.qualitymeasures.ahrq.gov/](https://www.qualitymeasures.ahrq.gov/)
+The reasons for this are explained here: [http://www.fredtrotter.com/2018/07/15/emergency-ahrq-backup/](http://www.fredtrotter.com/2018/07/15/emergency-ahrq-backup/)_
+
+### General functions
 
 * [go_wayback.function.php](go_wayback.function.php) - Uses the wayback machine API to get the latest copy of a page
-* [get_expert_commentary.php](get_expert_commentary.php) - mirrors expert commentary, into the expert_commentary directory
-* [expert_commentary](/export_comnmentary) - A mirror of the expert commentary https://www.qualitymeasures.ahrq.gov/expert and https://www.guideline.gov/expert
 
 ### Guidelines
 
