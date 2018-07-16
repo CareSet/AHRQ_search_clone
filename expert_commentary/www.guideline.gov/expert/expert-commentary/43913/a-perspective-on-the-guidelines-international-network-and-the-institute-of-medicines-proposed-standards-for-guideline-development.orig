@@ -1,0 +1,510 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>A Perspective on the Guidelines International Network and the Institute of Medicine&#39;s Proposed Standards for Guideline Development | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>April 08, 2013</li>
+			</ul>
+			<h1>A Perspective on the Guidelines International Network and the Institute of Medicine's Proposed Standards for Guideline Development</h1>
+			<p class="byline">By Amir Qaseem, MD, PhD, MHA</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/expert/expert-commentary/43913/a-perspective-on-the-guidelines-international-network-and-the-institute-of-medicines-proposed-standards-for-guideline-development" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.guideline.gov/expert/expert-commentary/43913/a-perspective-on-the-guidelines-international-network-and-the-institute-of-medicines-proposed-standards-for-guideline-development" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.guideline.gov/expert/expert-commentary/43913/a-perspective-on-the-guidelines-international-network-and-the-institute-of-medicines-proposed-standards-for-guideline-development&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: A Perspective on the Guidelines International Network and the Institute of Medicine&amp;#39;s Proposed Standards for Guideline Development&body=https://www.guideline.gov/expert/expert-commentary/43913/a-perspective-on-the-guidelines-international-network-and-the-institute-of-medicines-proposed-standards-for-guideline-development" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (0)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>The recent drive to improve health care quality and efficiency has resulted in the rapid growth of clinical practice guideline (CPG) development activity and with it, a variety of development methodologies. CPGs are intended to translate research into practice, to reduce practice variation, and to promote excellence in care. CPGs serve as the practical arm of the evidence-based movement by building on systematic reviews of the best available evidence. Unfortunately guideline developers have been their own worst enemies, and in recent years, guidelines have become entangled in a web of issues related to their development. Concern about the varying quality of guideline development methodologies and recommendations has led to increased frustration among CPG users rather than resolved the clinical problems that the CPGs were meant to address. CPG development involves several steps, each of which may be executed with differing degrees of rigor. Although international collaboration for some projects has resulted in a certain degree of harmonization within the CPG development process, many issues remain. These concerns include variation in the quality of evidence supporting the guidelines, lack of transparency, inadequate disclosure and management of actual or perceived conflicts of interests, concerns about the funding of CPG development, and a lack of agreement on what constitutes a "good" guideline.</p>
+<p>The development of CPGs is, of course, a continuous and evolving process. Despite the existence of guideline evaluation tools such as the Appraisal of Guidelines for Research and Evaluation (AGREE) (<a href="#ref">1</a>), developed to standardize how the quality of CPGs and their development methods are judged, guideline quality remains variable and calls into question the reliability of some apparently authoritative CPGs. To improve the overall quality of CPGs and to promote trustworthy ones, the USA-based Institute of Medicine (IOM) (<a href="#ref">2</a>) and the international organization Guidelines International Network (G-I-N) (<a href="#ref">3</a>) have each proposed a set of standards for CPG development. In general, IOM and G-I-N agree on the basic elements essential to developing high quality guidelines. Below is a comparison of the 11 CPG development standards proposed by G-I-N and the eight standards suggested by the IOM.</p>
+<ul style="list-style-type: disc;">
+    <li>A key step in the right direction is that both organizations agree on the definition of the term "guideline," which states that all the constituent clinical recommendations must be based on a systematic review of the relevant literature. </li>
+    <li>Both organizations also agree that establishing transparency and disclosing the methods used during all steps of CPG development is essential, from selecting group members and topics to final approval and dissemination. </li>
+    <li>Both organizations emphasize the importance of a multidisciplinary guideline development group in order to develop reliable and relevant recommendations. </li>
+    <li>Disclosure and management of both financial and non-financial conflicts of interests are identified as vital by both organizations. G-I-N does not make a specific recommendation on how to manage such conflicts. IOM suggests excluding from a guideline development group members who have conflicts, or if included, that only a minority should have conflicts and chair/co-chairs should not have conflicts. </li>
+    <li>G-I-N recommends disclosure by the funding organizations regarding financial support for both evidence review and guidelines. IOM also recommends disclosure, and stresses that funders should not have a role in the guideline development process. </li>
+    <li>Both organizations agree on the importance of clearly defining the scope of a guideline. </li>
+    <li>G-I-N and IOM call for clear, unambiguous guideline recommendations and for the use of specific grading systems to rate the strength of evidence and recommendations. </li>
+    <li>IOM is not explicit about the decision making process while G-I-N makes a specific recommendation about the need to establish the decision making process before starting any CPG project. </li>
+    <li>Although both G-I-N and IOM recommend external peer review, G-I-N stresses the importance of considering reviewers who are likely to provide comments based on scientific and clinical knowledge rather than on unsubstantiated comments. IOM, on the other hand, calls for review by a full spectrum of relevant stakeholders, which includes the general public. </li>
+    <li>G-I-N and IOM agree on the importance of updating guidelines and making them a "living" document. However, G-I-N does not assume that all guidelines necessarily require updating and proposes an alternate route of "sun-setting" a guideline by identifying an expiration date for it. </li>
+</ul>
+<p>The IOM and G-I-N standards have been both applauded and criticized. The concern voiced most often is related to the complexity and practicality of implementing the proposed standards, particularly in an environment where funding and resource limitations are a major obstacle for most CPG developers. Many guideline development groups find the lengthy list of G-I-N and IOM standards to be aspirational but infeasible to implement fully, and consider several of the standards especially difficult to adopt. For example, a "full spectrum review by external stakeholders" may prove to be an impossible task, resulting in a never-ending loop of comments, responses, and revisions; the evidence, meanwhile, used to develop guidelines becomes stale and may require updating. Also, systematic reviews can be costly to produce and may not be feasible for many organizations. There may be difficulty finding clinicians who are experts on a topic and also free from any financial or academic conflicts of interest. Experts also question the validity of including one "token" patient in a guideline development group to represent all patients, and express concern over the difficulty of finding a patient who is properly prepared to contribute actively and meaningfully to the evidence-based guideline development process. The IOM standard stating that less than 50% of the guideline development group can have conflicts of interest is a number without any evidence. Benefit of an external review by all relevant stakeholders and its impact on recommendations is an area of debate. Although adoption of these standards represents best practice, it has not been proven that using these standards will lead to the development of better guidelines which are more acceptable, implementable, and result in better clinical outcomes.</p>
+<p>Despite all of these criticisms, the proposed standards do not make perfection an enemy of the good. We have to start somewhere. There are certain inherent attributes that will always be associated with the CPG development process. For example, there will always be variation in the individual recommendations between different groups because, despite the same evidence and standardized process, individual groups will assess the evidence, evaluate the outcomes, and weigh the benefits and harms of interventions differently.</p>
+<p>So what do we do with these standards? First, it is important to be transparent about the process and to report it. It is also essential to be consistent and clear about what constitutes an evidence-based CPG and what, in fact, is expert opinion. Guideline developers need to agree on the definition of a CPG and to be consistent in the application of that definition. According to G-I-N and IOM, a guideline should always be based on a systematic literature review of evidence (<a href="#ref">2, 3</a>). We also need to remember that only a very small portion of medicine has evidence from randomized controlled trials, and expert opinion will always have a place in the medical field. Expert opinion, however, should not be referred to as a clinical practice guideline. Once we settle on a definition of what constitutes a guideline, we should tackle the issue of implementing the proposed standards. Some guideline developers have suggested the possibility of "picking and choosing" from the proposed standards and selecting only those standards that are easiest for their organizations to put into practice. However, I would argue against such an approach, as we do not know the weight each standard carries. What we do know is that the adoption of all these standards will be a step in the right direction and will increase the overall quality and reliability of CPGs.</p>
+<p>It is important that all guideline developers try to follow these principles. Maybe it is time for organizations to start collaborating and sharing resources, if individual development is not possible. Although recommendations may require tailoring to specific circumstances and health systems, the evidence on which they are based should be universal and thereby provide opportunities for collaboration. Perhaps the organizations that are unable to follow a good process, because of resource constraints or the inability to collaborate, should not develop CPGs at all. Regardless, the process of developing CPGs will continue to evolve. It is important for guideline developers to adapt to this evolution, as survival will favor those who keep up with the changes. It is now time to interact with and to learn from each other, to share our limited resources, and to implement the standards that make up trustworthy guidelines. Agreeing on standards for CPGs is an initial step in the right direction that may one day lead to the realization of the dream of harmonized guidelines.</p>
+<hr />
+<p><strong>Author</strong></p>
+<p><strong>Amir Qaseem, MD, PhD, MHA*</strong><br />
+Director, Clinical Policy, American College of Physicians<br />
+Chair, Guidelines International Network<br />
+Philadelphia, Pennsylvania</p>
+<p class="Note">*The author wishes to acknowledge Fergus Macbeth, MD; Frode Forland, MD, DPH; and Philip van der Wees, PhD, PT for their review, edits, and comments.</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Guideline Clearinghouse<sup>&trade;</sup> (NGC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor ECRI Institute.</p>
+<p>Dr. Qaseem serves as Chair for the Guidelines International Network (G-I-N) North America and is lead author of <a href="/Home/Disclaimer?id=43913&contentType=expert-commentary&redirect=http%3a%2f%2fannals.org%2farticle.aspx%3farticleid%3d1103747" title="Annals of Internal Medicine Web site">Guidelines International Network: Toward International Standards for Clinical Practice Guidelines</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. He declares no financial or personal conflicts of interest with respect to this commentary.</p>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Brouwers MC, Kho ME, Browman GP, Burgers JS, Cluzeau F, Feder G, Fervers B, Graham ID, Hanna SE, Makarski J; AGREE Next Steps Consortium. Development of the AGREE II, part 2: assessment of validity of items and tools to support application. 2010 Jul 13;182(10):E472-8. </li>
+    <li>Institute of Medicine. Graham R, Mancher M, Wolman DM, Greenfield S, Steinberg E, editor(s). Clinical practice guidelines we can trust. Washington (DC): National Academies Press; 2011. 2 p. Also available: <a href="/Home/Disclaimer?id=43913&contentType=expert-commentary&redirect=http%3a%2f%2fwww.iom.edu%2fReports%2f2011%2fClinical-Practice-Guidelines-We-Can-Trust%2fStandards.aspx" title="IOM Web site">http://www.iom.edu/Reports/2011/Clinical-Practice-Guidelines-We-Can-Trust/Standards.aspx</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>Qaseem A, Forland F, Macbeth F, Ollenschl&auml;ger G, Phillips S, van der Wees P. Guidelines International Network: toward international standards for clinical practice guidelines. Annals of Internal Medicine. 2012;156(7):525-31. </li>
+</ol>
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NGC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the guideline and/or measure fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NGC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
