@@ -2,7 +2,9 @@ AHRQ Mirror Project
 =====================
 
 This is a project to backup important resources from [https://guideline.gov/](https://guideline.gov/) and [https://www.qualitymeasures.ahrq.gov/](https://www.qualitymeasures.ahrq.gov/)
-The reasons for this are explained here: [http://www.fredtrotter.com/2018/07/15/emergency-ahrq-backup/](http://www.fredtrotter.com/2018/07/15/emergency-ahrq-backup/)_
+The reasons for this are explained here: [http://www.fredtrotter.com/2018/07/15/emergency-ahrq-backup/](http://www.fredtrotter.com/2018/07/15/emergency-ahrq-backup/)
+
+Project by data journalists working at [https://www.careset.com](CareSet Systems)
 
 ### General functions
 
