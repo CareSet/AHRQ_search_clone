@@ -1,0 +1,505 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Building a Better Guideline: Overcoming Challenges and Establishing Transparency | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>April 21, 2008</li>
+			</ul>
+			<h1>Building a Better Guideline: Overcoming Challenges and Establishing Transparency</h1>
+			<p class="byline">By: Sandra Zelman Lewis, PhD</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/expert/expert-commentary/16448/building-a-better-guideline-overcoming-challenges-and-establishing-transparency" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.guideline.gov/expert/expert-commentary/16448/building-a-better-guideline-overcoming-challenges-and-establishing-transparency" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.guideline.gov/expert/expert-commentary/16448/building-a-better-guideline-overcoming-challenges-and-establishing-transparency&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Building a Better Guideline: Overcoming Challenges and Establishing Transparency&body=https://www.guideline.gov/expert/expert-commentary/16448/building-a-better-guideline-overcoming-challenges-and-establishing-transparency" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (0)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p><em>Last year, the American College of Chest Physicians (ACCP) published its guideline development processes, including how it addresses conflicts-of-interest, funding, and other policies and procedures, with the goal of contributing to the national and international dialogue on evidence-based medicine and guideline development (<a href="#ref1">1</a>). The Health and Science Policy (HSP) Committee of the ACCP is charged with oversight of ACCP guidelines and the process for guideline development, which is forever a work-in-progress (<a href="#ref1">1</a>,<a href="#ref2">2</a>). Recent improvements have led to significant changes in new guidelines and subsequent editions of previously published ACCP guidelines.</em></p>
+<p>Experience has taught us that the development of accurate and useful evidence-based clinical guidance requires a rigorous process. Recognizing that guideline development must always improve and adjust with the times, the ACCP has developed and refined its process to be responsive to feedback and changes in the healthcare environment. As a result, the ACCP has enhanced its methodology while publishing nine evidence-based guidelines in the past 7 years.</p>
+<p>Earlier this year, the National Guideline Clearinghouse (NGC) released their summaries of the <a href="/browse/by-organization.aspx?orgid=363" title="ACCP Listing">Diagnosis and Management of Lung Cancer: American College of Chest Physicians Evidence-Based Clinical Practice Guidelines (2nd Edition)</a> (<a href="#ref3">3</a>). As the development process evolved over the years between the two editions of these lung cancer guidelines, the ACCP faced several challenges that needed to be addressed in a methodological and inclusive manner. Since publication of the first edition of these guidelines in 2003, there have been several overall improvements in the planning and development process leading to specific enhancements for the final products.</p>
+<p><strong>Changes in Planning and Development</strong></p>
+<p>First, the scope for the second edition of these lung cancer guidelines was increased. The 2003 edition was the first set of ACCP guidelines to be both evidence-based and comprehensive, incorporating prevention, screening, physiologic assessment, diagnosis, staging and treatment, special topics in lung cancer, follow-up and surveillance, palliative treatment, and end-of-life care. Based on readers' feedback, new chapters on pathology, bronchoalveolar carcinoma, and integrative oncology have now been included in the second edition, and many subtopics have been significantly expanded. New algorithms have been included for management of patients with varying sizes of solitary pulmonary nodules and for preoperative physiologic assessment of perioperative risk.</p>
+<p>As these guidelines are so comprehensive and voluminous, resources must be prioritized and allocated accordingly. In the first edition, the Agency for Healthcare Research and Quality (AHRQ)-sanctioned Evidence-based Practice Center at Duke University was contracted to perform a formal systematic review in the areas of screening, diagnosis, and staging for lung cancer. In the second edition, emphasis was placed on the treatments for lung cancer by stage.</p>
+<p>Feedback on the ACCP grading system led to a specially convened taskforce in 2005. The inclusion of relevant stakeholders in the deliberations and multiple iterations of this project culminated successfully in the new ACCP grading system (<a href="#ref4">4</a>). That same year, a similar procedure was followed when ACCP assembled a taskforce of experts in economic analyses in health care to compose a paper on incorporating consideration of resource allocation issues in select guideline recommendations (<a href="#ref5">5</a>). Resource allocation was and will continue to be a difficult but important area with which guidelines developers struggle, especially those who write guidelines that address international target audiences crossing multiple specialties.</p>
+<p>The subject of conflicts of interest continues to be a challenge but the ACCP and the HSP Committee policies specific to guidelines and guideline panels have been revised several times in the past few years. An HSP subcommittee has been charged with examination of conflicts and determinations for action. If an individual is determined to have a conflict, real or perceived, actions to manage the conflict vary from removal of the individual from the topic of conflict and reassignment to a different topic, to disqualification from the panel altogether. Firewalls were created and are managed by strict adherence to a set of regulations that are periodically reviewed and revised as necessary (<a href="#ref1">1</a>). Based on the input of several committees, the ACCP devised a College-wide policy on identification and management of conflicts of interest and firewalls. We continue to participate in national discussions on the subject.</p>
+<p>Comprehensive review of the manuscripts is integral to ACCP's accountability to the guideline users and, ultimately, their patients. HSP has constructed two algorithms defining the review process for smaller and larger ACCP guidelines. Common to both is the full-scale review by both content and methodological experts, including all members of the HSP Committee and the Executive Committee of the ACCP Board of Regents. Upon acceptance by the Editor in Chief of <em>Chest</em>, the guidelines are sent for further peer review through the established channels of the publisher. Some ACCP guidelines are reviewed by 20 to 30 individuals in total prior to the final publication. Each reviewer is held to the same standards as the guideline panelists relative to conflicts of interest. In addition to the content and methodological appraisal, the reviewers are requested to ascertain whether the discussions and recommendations are balanced and unbiased.</p>
+<p><strong>Changes at the Guideline Level</strong></p>
+<p>Following improvements in the overall planning and development process, several enhancements were made at the guideline level to the methodology, content, and format. The methodology has been improved by the new ACCP grading system (<a href="#ref4">4</a>), final conference protocol, and rigor of the evidence base in the foundation of the recommendations. First, as mentioned above, the new ACCP grading system was developed after careful efforts by a specially convened taskforce in 2005 and approval of the HSP Committee. The new grading system is easier to understand and use, both for the guideline panelists and for the readers. Second, the guideline panelists saw a change in the design of the final conference. For this update of the lung cancer guidelines, in addition to full panel review of the chapters, panelists were charged with identifying all recommendations that were deemed to be controversial or that addressed clinical topics with considerable variation in practice, so they could receive full review, discussion, and voting. Finally, although the increased volume of scientific data allowed for higher standards of evidence-based recommendations, the strict adherence to the evidence left several controversies unanswered but highlighted the need for additional research.</p>
+<p>The publication format has also been improved. Most guideline users are not going to read these manuscripts from cover-to-cover, but they will search for the recommendations that are pertinent to the patient they are treating at the moment. Thus, all ACCP recommendations begin with the appropriate patient population(s). In addition, all recommendations now appear twice in each chapter, once following the review and discussion of pertinent literature that leads to the recommendations and again summarized in a new section following the abstract. Readers will also find that the executive summary, which now includes all clinical recommendations, facilitates locating recommendations appropriate for particular patient populations.</p>
+<p>With our efforts to overcome these challenges, the ACCP realized that all guideline developers face similar challenges. To promote further debate, learn from others, and share what was learned, the HSP leadership made a decision to publish our policies and procedures (<a href="#ref1">1</a>). We believe that it is important to be transparent about our methods. It is hoped that other guideline developers will share their challenges and how they overcame them and that this will further the national and international discussions that AHRQ and the Guidelines International Network have attempted to promote and facilitate through this column and other venues.</p>
+<p><strong>Author</strong></p>
+<p><strong>Sandra Zelman Lewis, PhD</strong><br />
+Assistant Vice President<br />
+Health &amp; Science Policy and Quality Improvement<br />
+American College of Chest Physicians</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Guideline Clearinghouse<sup>&trade;</sup> (NGC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor, ECRI Institute.</p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>Dr. Lewis declared no potential financial conflicts of interest with respect to this expert commentary.</p>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;"><a name="ref1"></a>
+    <li>Baumann MH, Lewis SZ, Gutterman D. ACCP evidence-based guideline development: a successful and transparent approach addressing conflict of interest, funding, and patient-centered recommendations. Chest 2007; 132:1015-24 <a href="/Home/Disclaimer?id=16448&contentType=expert-commentary&redirect=http%3a%2f%2fwww.chestjournal.org%2fcgi%2freprint%2f132%2f3%2f1015" title="Chest Journal Web site">http://www.chestjournal.org/cgi/reprint/132/3/1015</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />  <a name="ref2"></a></li>
+    <li><a href="/Home/Disclaimer?id=16448&contentType=expert-commentary&redirect=http%3a%2f%2fwww.chestnet.org%2f" title="ACCP Web site">www.chestnet.org</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />  <a name="ref3"></a></li>
+    <li>Diagnosis and management of lung cancer: American College of Chest Physicians evidence-based clinical practice guidelines (2nd Edition). Chest 2007; 132(suppl): 1S-422S <a href="/Home/Disclaimer?id=16448&contentType=expert-commentary&redirect=http%3a%2f%2fwww.chestjournal.org%2fcontent%2fvol132%2f3_suppl%2f" title="Chest Journal Web site">http://www.chestjournal.org/content/vol132/3_suppl/</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />  <a name="ref4"></a></li>
+    <li>Guyatt G, Gutterman D, Baumann MH, et al. Grading strength of recommendations and quality of evidence in clinical guidelines: report from an American College of Chest Physicians Task Force. Chest 2006; 129:174-81 <a href="/Home/Disclaimer?id=16448&contentType=expert-commentary&redirect=http%3a%2f%2fwww.chestjournal.org%2fcgi%2fcontent%2fabstract%2f129%2f1%2f174" title="Chest Journal Web site">http://www.chestjournal.org/cgi/content/abstract/129/1/174</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />  <a name="ref5"></a></li>
+    <li>Guyatt G, Baumann M, Pauker S, et al. Addressing resource allocation issues in recommendations from clinical practice guideline panels: suggestions from an American College of Chest Physicians Task Force. Chest 2006; 129:182-7 <a href="/Home/Disclaimer?id=16448&contentType=expert-commentary&redirect=http%3a%2f%2fwww.chestjournal.org%2fcgi%2fcontent%2fabstract%2f129%2f1%2f182" title="Chest Journal Web site">http://www.chestjournal.org/cgi/content/abstract/129/1/182</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />  </li>
+</ol>
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NGC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the guideline and/or measure fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NGC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
