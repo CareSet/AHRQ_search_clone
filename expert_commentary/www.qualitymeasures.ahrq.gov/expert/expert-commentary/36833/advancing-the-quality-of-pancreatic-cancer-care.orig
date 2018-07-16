@@ -1,0 +1,686 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Advancing the Quality of Pancreatic Cancer Care | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>April 30, 2012</li>
+			</ul>
+			<h1>Advancing the Quality of Pancreatic Cancer Care</h1>
+			<p class="byline">By: Karl Y. Bilimoria, MD, MS</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/36833/advancing-the-quality-of-pancreatic-cancer-care" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/36833/advancing-the-quality-of-pancreatic-cancer-care" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/36833/advancing-the-quality-of-pancreatic-cancer-care&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Advancing the Quality of Pancreatic Cancer Care&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/36833/advancing-the-quality-of-pancreatic-cancer-care" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (0)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>The maturation of quality measurement has progressed to a varying degree across medical and surgical specialties. Surgical treatment of pancreatic cancer is complex, and quality measurement is particularly needed given the considerable variability in hospital performance and outcomes after pancreatic cancer surgery. Only recently, few opportunities existed for providers to assess the quality of their pancreatic cancer care, and there was no ability for hospitals to compare their processes and outcomes to other hospitals. A number of national initiatives now provide a variety of opportunities for clinicians/physicians and hospitals to examine the quality of pancreatic cancer care and identify areas for improvement.</p>
+<p>Pancreatic cancer generally carries a dismal prognosis. Candidates for surgery comprise a small fraction of patients, as most present with unresectable locally advanced or metastatic disease. Surgery for pancreatic cancer, particularly the Whipple procedure for malignancies in the head of the pancreas, is complex, with high postoperative complication rates. Even when patients have a margin-negative resection and no lymph node involvement, long-term survival is poor. Numerous studies demonstrate considerable variation across hospitals in short-term outcomes, long-term survival, cost, process metrics, quality of life, and patient satisfaction after pancreatic surgery. (<a href="#ref">1-6</a>) Quality assessment for pancreatic cancer focuses on those patients who undergo an operation, as these patients' outcomes are potentially modifiable.</p>
+<p>Many have suggested that only allowing expert centers to perform pancreatic cancer surgery, so-called regionalization, presents the only solution to the variability in outcomes. Bilimoria and colleagues' (i.e., the research team's) recent work suggests that some patients (i.e., young and no comorbidities) may be able to safely undergo certain complex cancer surgeries (e.g., gastrectomy) at community hospitals with comparable mortality to that of high-volume, experienced centers; however, irrespective of age and comorbidities, pancreatic or esophageal cancer surgery comprise the only operations in which all patients had lower mortality rates if treated at high-volume, expert centers. (<a href="#ref">7</a>) Recent evidence suggests that some regionalization occurs based on initiatives from payers, government oversight agencies, and private entities. However, considerable hospital-to-hospital variability in outcomes exists even among National Cancer Institute (NCI)-designated cancer centers treating pancreatic cancer. (<a href="#ref">8</a>)</p>
+<p>Assessing hospital quality of care using valid quality metrics has been suggested as a mechanism to reduce variability in performance, but no such metrics were available for pancreatic cancer surgery, despite the tremendous variability in outcomes for this complex operation. In 2007, the research team developed and tested quality indicators for pancreatic cancer using a formal methodology. (<a href="#ref">9</a>) They identified candidate quality indicators from the literature, guidelines, and expert interviews. A multidisciplinary panel of pancreatic cancer experts ranked the potential indicators in two rounds with a detailed discussion of each indicator between rounds. Analysis of rankings facilitated the development of a set of variables with high and moderate validity. Indicators were combined to create a composite measure. Indicators encompassed all domains of care (<a href="#table1">Table 1</a> and <a href="#table2">Table 2</a>). (<a href="#ref">9</a>)</p>
+<p>The research team assessed adherence with the composite measure at 1134 hospitals and found that more than half of hospitals were not adherent with 50% of the measures. The results demonstrated considerable variability in the quality of pancreatic cancer care in the United States, clearly showing significant room for improvement. Hospitals use these indicators to evaluate the quality of pancreatic cancer care they provide and identify opportunities for improvement.</p>
+<p>Quality measures for pancreatic care are being added to a national program of measurement, benchmarking, and feedback. The American College of Surgeons (ACS) Commission on Cancer (CoC) is a multidisciplinary organization consisting of 49 member organizations. Each CoC hospital reports all of its cancer cases to the National Cancer Data Base (NCDB), and the NCDB provides hospitals with reports regarding their performance on various process measures. (<a href="#ref">10</a>) The database will soon add outcome measures for 30-day mortality and five-year survival for pancreatic cancer. Thus, hospitals will be able to evaluate themselves in comparison to the other approximately 1,000 hospitals which perform pancreatic surgery.</p>
+<p>While the CoC offers some information on pancreatic surgery process of care, no data are available on postoperative complications. A new initiative from ACS will allow hospitals to compare their pancreatic cancer surgery risk-adjusted short-term <em>outcomes</em> to other hospitals, including mortality, serious morbidity, surgical site infections, venous thromboembolism, pneumonia, length of stay, and readmission, as well as procedure-specific complications such as pancreatic anastomotic leak rate. (<a href="#ref">8</a>) Based on standardized, validated clinical data through the American College of Surgeons National Surgical Quality Improvement Program (NSQIP&copy;), a pilot program examining surgical cancer care has been initiated, <em>ACS NSQIP Oncology</em>. (<a href="#ref">11, 12</a>) The ACS NSQIP (<a href="/Home/Disclaimer?id=36833&contentType=expert-commentary&redirect=http%3a%2f%2fsite.acsnsqip.org%2f">site.acsnsip.org</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />) started in 2001 and is now the largest and most prominent surgical outcomes program. (<a href="#ref">13, 14</a>) ACS NSQIP, a unique quality improvement program, has had a long history of helping hospitals improve care and outcomes. (<a href="#ref">13, 15-17</a>) The structure of ACS NSQIP, including sampling strategy, data abstraction procedures, variables collected, risk-adjustment methodology, and outcomes collected, has an extensive description. (<a href="#ref">13, 14, 16, 18-29</a>) Briefly, the program prospectively collects detailed data regarding patient demographics, preoperative comorbidities and other risk factors, laboratory values prior to the surgical procedure, and certain operative variables. (<a href="#ref">13</a>) Surgical certified reviewers (SCRs) abstract data at each site using standardized data definitions. Clinicians follow patients for complications for 30 days after the <em>index</em> operation. (<a href="#ref">30</a>) ACS NSQIP then provides participating hospitals with risk-adjusted outcomes (morbidity and mortality) in comparison to the other participating hospitals. The results provided through ACS NSQIP focus on 24 postoperative events. Risk-adjusted surgical outcomes provide the basis for hospitals' rankings. When a hospital identifies that its outcomes are suboptimal compared with other hospitals in the country, that hospital can enact a targeted quality improvement initiative to achieve better outcomes. ACS NSQIP demonstrates reduced morbidity and mortality while reducing costs. (<a href="#ref">13</a>)</p>
+<p>Through the ACS CoC NCDB and ACS NSQIP Oncology, hospitals will be able to measure a broad range of metrics related to pancreatic cancer surgery and fundamentally improve the care of pancreatic cancer patients.</p>
+<hr />
+<p><strong>Author</strong></p>
+<p>Karl Y. Bilimoria, MD, MS<br />
+Feinberg School of Medicine, Northwestern University, Chicago, IL</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the authors and do not necessarily state or reflect those of the National Quality Measures Clearinghouse&trade; (NQMC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor, ECRI Institute.</p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>Dr. Bilimoria reports the following business/professional interest: unpaid consultant to the American College of Surgeons.</p>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;">
+    <li>Bilimoria KY, Bentrem DJ, Feinglass JM, et al. Directing surgical quality improvement initiatives: Comparison of perioperative mortality and long-term survival for cancer surgery. J Clin Oncol. 2008 Jun 23. </li>
+    <li>Birkmeyer JD, Gust C, Dimick JB, Birkmeyer NJ, Skinner JS. Hospital quality and the cost of inpatient surgery in the United States. Ann Surg. 2012 Jan;255(1):1-5. </li>
+    <li>Birkmeyer JD, Siewers AE, Finlayson EV, et al. Hospital volume and surgical mortality in the United States. N Engl J Med. 2002 Apr 11;346(15):1128-1137. </li>
+    <li>Bentrem DJ, Brennan MF. Outcomes in oncologic surgery: does volume make a difference? World J Surg. 2005 Oct;29(10):1210-1216. </li>
+    <li>Gordon TA, Burleyson GP, Tielsch JM, Cameron JL. The effects of regionalization on cost and outcome for one general high-risk surgical procedure. Ann Surg. 1995 Jan;221(1):43-49. </li>
+    <li>Rosemurgy AS, Bloomston M, Serafini FM, Coon B, Murr MM, Carey LC. Frequency with which surgeons undertake pancreaticoduodenectomy determines length of stay, hospital charges, and in-hospital mortality. J Gastrointest Surg. 2001 Jan-Feb;5(1):21-26. </li>
+    <li>Bilimoria KY, Bentrem DJ, Talamonti MS, Stewart AK, Winchester DP, Ko CY. Risk-based selective referral for cancer surgery: A potential strategy to improve perioperative outcomes. Ann Surg. 2009 Nov 5. </li>
+    <li>Bilimoria K, Wang X, Cohen ME, et al. Development of ACS NSQIP Oncology: A Surgical Quality Measurement System for cancer centers paper presented at: Society of Surgical Oncology Annual Cancer Symposium 2011; San Antonio, TX. </li>
+    <li>Bilimoria KY, Bentrem DJ, Lillemoe KD, Talamonti MS, Ko CY. Assessment of pancreatic cancer care in the United States based on formally developed quality indicators. J Natl Cancer Inst. 2009 Jun 16;101(12):848-859. </li>
+    <li>Bilimoria KY, Stewart AK, Winchester DP, Ko CY. The National Cancer Data Base: a powerful initiative to improve cancer care in the United States. Ann Surg Oncol. 2008 Mar;15(3):683-690. </li>
+    <li>Merkow R, Bentrem DJ, Chow W, et al. Effect of cancer-specific variables on risk-adjusted hospital surgical quality rankings. Paper presented at: Society of Surgical Oncology 2012; Orlando, FL. </li>
+    <li>ACS NSQIP: American College of Surgeons - National Surgical Quality Improvement Program. Available at: <a href="/Home/Disclaimer?id=36833&contentType=expert-commentary&redirect=http%3a%2f%2fwww.acsnsqip.org%2f" title="ACS NSQIP Web site">www.ACSNSQIP.org</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. (Accessed February 1, 2012). </li>
+    <li>Hall BL, Hamilton BH, Richards K, Bilimoria KY, Cohen ME, Ko CY. Does surgical quality improve in the American College of Surgeons National Surgical Quality Improvement Program: an evaluation of all participating hospitals. Ann Surg. 2009 Sep;250(3):363-376. </li>
+    <li>Hall BL, Richards K, Ingraham A, Ko CY. New approaches to the National Surgical Quality Improvement Program: the American College of Surgeons experience. Am J Surg. 2009 Nov;198(5 Suppl):S56-62. </li>
+    <li>Khuri SF. The NSQIP: a new frontier in surgery. Surgery. 2005 Nov;138(5):837-843. </li>
+    <li>Khuri SF, Daley J, Henderson W, et al. The Department of Veterans Affairs' NSQIP: the first national, validated, outcome-based, risk-adjusted, and peer-controlled program for the measurement and enhancement of the quality of surgical care. National VA Surgical Quality Improvement Program. Ann Surg. 1998 Oct;228(4):491-507. </li>
+    <li>Khuri SF, Daley J, Henderson WG. The comparative assessment and improvement of quality of surgical care in the Department of Veterans Affairs. Arch Surg. 2002 Jan;137(1):20-27. </li>
+    <li>Werner RM, Bradlow ET. Relationship between Medicare's hospital compare performance measures and mortality rates. JAMA. 2006 Dec 13;296(22):2694-2702. </li>
+    <li>Daley J, Khuri SF, Henderson W, et al. Risk adjustment of the postoperative morbidity rate for the comparative assessment of the quality of surgical care: results of the National Veterans Affairs Surgical Risk Study. J Am Coll Surg. 1997 Oct;185(4):328-340. </li>
+    <li>Khuri SF, Henderson WG, Daley J, et al. The patient safety in surgery study: background, study design, and patient populations. J Am Coll Surg. 2007 Jun;204(6):1089-1102. </li>
+    <li>Davis CL, Pierce JR, Henderson W, et al. Assessment of the reliability of data collected for the Department of Veterans Affairs national surgical quality improvement program. J Am Coll Surg. 2007 Apr;204(4):550-560. </li>
+    <li>Khuri SF, Henderson WG, Daley J, et al. Successful implementation of the Department of Veterans Affairs' National Surgical Quality Improvement Program in the private sector: the Patient Safety in Surgery study. Ann Surg. 2008 Aug;248(2):329-336. </li>
+    <li>Dimick JB, Ghaferi AA, Osborne NH, Ko CY, Hall BL. Reliability adjustment for reporting hospital outcomes with surgery. Ann Surg. 2012 Mar 1. </li>
+    <li>Raval MV, Cohen ME, Ingraham AM, et al. Improving American College of Surgeons National Surgical Quality Improvement Program risk adjustment: incorporation of a novel procedure risk score. J Am Coll Surg. 2010 Dec;211(6):715-723. </li>
+    <li>Shiloach M, Frencher SK, Jr., Steeger JE, et al. Toward robust information: data quality and inter-rater reliability in the American College of Surgeons National Surgical Quality Improvement Program. J Am Coll Surg. 2010 Jan;210(1):6-16. </li>
+    <li>Birkmeyer JD, Shahian DM, Dimick JB, et al. Blueprint for a new American College of Surgeons: National Surgical Quality Improvement Program. J Am Coll Surg. 2008 Nov;207(5):777-782. </li>
+    <li>Cohen ME, Dimick JB, Bilimoria KY, Ko CY, Richards K, Hall BL. Risk adjustment in the American College of Surgeons National Surgical Quality Improvement Program: a comparison of logistic versus hierarchical modeling. J Am Coll Surg. 2009 Dec;209(6):687-693. </li>
+    <li>Hamilton BH, Ko CY, Richards K, Hall BL. Missing data in the American College of Surgeons National Surgical Quality Improvement Program are not missing at random: implications and potential impact on quality assessments. J Am Coll Surg. 2010 Feb;210(2):125-139, e122. </li>
+    <li>Ingraham AM, Richards KE, Hall BL, Ko CY. Quality improvement in surgery: the American College of Surgeons National Surgical Quality Improvement Program approach. Adv Surg. 2010;44:251-267. </li>
+    <li>Bilimoria KY, Cohen ME, Ingraham AM, et al. Effect of postdischarge morbidity and mortality on comparisons of hospital surgical quality. Ann Surg. 2010 Jul;252(1):183-190. </li>
+</ol>
+<a name="#table1"></a>
+<p><strong>Table 1. High validity pancreatic cancer quality measures*</strong></p>
+<table border="1" cellspacing="1" cellpadding="5" summary="Table 1. High validity pancreatic cancer quality measures">
+    <thead>
+        <tr>
+            <th valign="top">No.</th>
+            <th valign="top">Quality indicator</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">1</td>
+            <td valign="top">IF an institution performs pancreatic cancer surgery, THEN the institution should monitor their average annual case volume </td>
+        </tr>
+        <tr>
+            <td valign="top">2</td>
+            <td valign="top">IF an institution performs pancreatic cancer surgery, THEN the institution should monitor their surgeons' annual case volume </td>
+        </tr>
+        <tr>
+            <td valign="top">3</td>
+            <td valign="top">IF a patient undergoes resection for pancreatic cancer, THEN the patient should be treated in a multidisciplinary effort with a surgeon, medical oncologist, and a radiation oncologist </td>
+        </tr>
+        <tr>
+            <td valign="top">4</td>
+            <td valign="top">IF a patient undergoes resection, THEN the hospital must ensure that the surgeon is certified by the American Board of Surgery or equivalent international organization </td>
+        </tr>
+        <tr>
+            <td valign="top">5</td>
+            <td valign="top">IF an institution performs pancreatic cancer surgery, THEN the hospital should have interventional radiology services available on site </td>
+        </tr>
+        <tr>
+            <td valign="top">6</td>
+            <td valign="top">IF an institution performs pancreatic cancer surgery, THEN the hospital should have an intensive care unit staffed by critical care specialists </td>
+        </tr>
+        <tr>
+            <td valign="top">7</td>
+            <td valign="top">IF a patient undergoes resection, THEN a history and physical with thorough preoperative risk assessment should be performed </td>
+        </tr>
+        <tr>
+            <td valign="top">8</td>
+            <td valign="top">IF a patient is diagnosed with pancreatic cancer, THEN a stage-specific treatment plan should be documented </td>
+        </tr>
+        <tr>
+            <td valign="top">9</td>
+            <td valign="top">IF a patient is being considered for resection, THEN a triple-phase, multi-slice CT or MRI scan should be obtained </td>
+        </tr>
+        <tr>
+            <td valign="top">10</td>
+            <td valign="top">IF a patient undergoes cancer-directed resection, THEN clinical and pathologic stage should be recorded </td>
+        </tr>
+        <tr>
+            <td valign="top">11</td>
+            <td valign="top">IF a patient undergoes cancer-directed resection, THEN the tumor histology should be recorded </td>
+        </tr>
+        <tr>
+            <td valign="top">12</td>
+            <td valign="top">IF a patient undergoes cancer-directed resection, THEN the tumor size should be recorded </td>
+        </tr>
+        <tr>
+            <td valign="top">13</td>
+            <td valign="top">IF a patient undergoes cancer-directed resection, THEN the tumor grade should be recorded </td>
+        </tr>
+        <tr>
+            <td valign="top">14</td>
+            <td valign="top">IF a patient undergoes cancer-directed resection, THEN the margin status should be recorded </td>
+        </tr>
+        <tr>
+            <td valign="top">15</td>
+            <td valign="top">IF a patient undergoes cancer-directed resection, THEN the number of lymph nodes examined should be recorded </td>
+        </tr>
+        <tr>
+            <td valign="top">16</td>
+            <td valign="top">IF a patient undergoes cancer-directed resection, THEN the number of lymph nodes positive should be recorded </td>
+        </tr>
+        <tr>
+            <td valign="top">17</td>
+            <td valign="top">IF patient undergoes resection of a pancreatic head lesion, THEN in the operative note, the surgeon should document complete removal of all pancreatic tissue, lymph nodes, and connective tissue between the edge of the uncinate process and the right lateral wall of the superior mesenteric artery </td>
+        </tr>
+        <tr>
+            <td valign="top">18</td>
+            <td valign="top">IF a patient undergoes resection, THEN suspicious adenopathy outside the scope of planned resection should be evaluated by frozen section </td>
+        </tr>
+        <tr>
+            <td valign="top">19</td>
+            <td valign="top">IF a patient undergoes adjuvant therapy, THEN the timing relative to resection (before, after, both) should be recorded </td>
+        </tr>
+        <tr>
+            <td valign="top">20</td>
+            <td valign="top">IF a patient undergoes resection, THEN the College of American Pathologists checklist or equivalent reporting system should be followed and fully documented </td>
+        </tr>
+        <tr>
+            <td valign="top">21</td>
+            <td valign="top">IF a patient does not undergo resection, THEN a TNM clinical stage should be recorded </td>
+        </tr>
+        <tr>
+            <td valign="top">22</td>
+            <td valign="top">IF a patient has clinical stage I or II disease, THEN the patient should undergo resection or have a valid reason documented for not undergoing resection </td>
+        </tr>
+        <tr>
+            <td valign="top">23</td>
+            <td valign="top">IF a patient undergoes cancer-directed resection, THEN adjuvant chemotherapy with or without radiation should be considered or administered, or a valid reason should be documented for not receiving adjuvant therapy </td>
+        </tr>
+        <tr>
+            <td valign="top">24</td>
+            <td valign="top">IF a patient has clinical stage IV disease, THEN cancer-directed surgery should not be done </td>
+        </tr>
+        <tr>
+            <td valign="top">25</td>
+            <td valign="top">IF a patient does not undergo resection, THEN chemotherapy or chemoradiation should be considered or administered or a valid reason should be documented for not receiving non-surgical therapy </td>
+        </tr>
+        <tr>
+            <td valign="top">26</td>
+            <td valign="top">IF a patient is to receive treatment, THEN the time from diagnosis to surgery or first treatment should be less than two months </td>
+        </tr>
+        <tr>
+            <td valign="top">27</td>
+            <td valign="top">IF an institution performs pancreatic cancer surgery, THEN the institution should monitor their margin-negative resection rate</td>
+        </tr>
+        <tr>
+            <td valign="top">28</td>
+            <td valign="top">IF an institution performs pancreatic cancer surgery, THEN the hospital should monitor their pancreatic cancer resection risk-adjusted perioperative mortality</td>
+        </tr>
+        <tr>
+            <td valign="top">29</td>
+            <td valign="top">IF an institution performs pancreatic cancer surgery, THEN the hospital risk-adjusted perioperative mortality should be less than 5% </td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note">*Based on strict validity criteria (&ge; 90% of expert panel rankings in the 7-9 range). CT = computed tomography; MRI = magnetic resonance imaging; TNM = tumor-node-metastasis.</p>
+<a name="#table2"></a>
+<p><strong>Table 2. Moderate validity pancreatic cancer quality measures*</strong></p>
+<table border="1" cellspacing="1" cellpadding="5" summary="Table 2. Moderate validity pancreatic cancer quality measures">
+    <thead>
+        <tr>
+            <th valign="top">No.</th>
+            <th valign="top">Quality indicator</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">30</td>
+            <td valign="top">IF an institution treats pancreatic cancer, THEN the institution should participate in clinical trials</td>
+        </tr>
+        <tr>
+            <td valign="top">31</td>
+            <td valign="top">IF an institution performs pancreatic cancer surgery, THEN the institution should perform &ge; 12 cases per year</td>
+        </tr>
+        <tr>
+            <td valign="top">32</td>
+            <td valign="top">IF an institution performs pancreatic cancer surgery, THEN the hospital should have endoscopic ultrasonography services available on site</td>
+        </tr>
+        <tr>
+            <td valign="top">33</td>
+            <td valign="top">IF an institution treats pancreatic cancer, THEN the institution should have radiation therapy and chemotherapy services available within their institution</td>
+        </tr>
+        <tr>
+            <td valign="top">34</td>
+            <td valign="top">IF an institution performs pancreatic cancer surgery, THEN the hospital should have ERCP services available on site</td>
+        </tr>
+        <tr>
+            <td valign="top">35</td>
+            <td valign="top">If a patient is to undergo resection, THEN on the basis of the CT or MRI scan, the surgeon should preoperatively document 1) no metastatic disease, 2) patent superior mesenteric vein and portal vein, and 3) a definable tissue plane between the tumor and regional arterial structures</td>
+        </tr>
+        <tr>
+            <td valign="top">36</td>
+            <td valign="top">IF a patient undergoes cancer-directed resection, THEN the margins should be macroscopically clear</td>
+        </tr>
+        <tr>
+            <td valign="top">37</td>
+            <td valign="top">IF a patient undergoes resection, THEN in the operative note, the surgeon should document intraoperative findings including the absence of 1) regional arterial involvement, 2) metastatic disease (liver, peritoneal, omental), and 3) distant adenopathy</td>
+        </tr>
+        <tr>
+            <td valign="top">38</td>
+            <td valign="top">IF a patient undergoes cancer-directed resection, THEN &ge; 10 regional lymph nodes should be resected and pathologically evaluated&dagger;</td>
+        </tr>
+        <tr>
+            <td valign="top">39</td>
+            <td valign="top">IF an institution performs pancreatic cancer surgery, THEN the institution should monitor their median estimated blood loss</td>
+        </tr>
+        <tr>
+            <td valign="top">40</td>
+            <td valign="top">IF an institution performs pancreatic cancer surgery, THEN the institution should monitor the median operative time for resections</td>
+        </tr>
+        <tr>
+            <td valign="top">41</td>
+            <td valign="top">IF an institution performs pancreatic cancer surgery, THEN the hospital should monitor their readmission-within-30-days rate</td>
+        </tr>
+        <tr>
+            <td valign="top">42</td>
+            <td valign="top">IF a patient undergoes resection, THEN the operative time should be less than 10 hours&Dagger;</td>
+        </tr>
+        <tr>
+            <td valign="top">43</td>
+            <td valign="top">IF an institution performs pancreatic cancer surgery, THEN the hospital should monitor the stage-specific 2-year and 5-year survival rates for their patients who underwent pancreatectomy </td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note">*Based on relaxed validity criteria &ge; 95% of expert panel rankings in 4-9 range). ERCP = endoscopic retrograde cholangiopancreatography; CT = computed tomography; MRI = magnetic resonance imaging.</p>
+<p class="Note">&dagger;The expert panel extensively discussed measures with multiple nodal count thresholds, but the only measure retained was for the resection and examination of &ge; 10 nodes. The measure for &ge; 12 nodes was also moderately valid but had lower median score; thus, the measure for &ge;10 nodes was retained. The measure for &ge; 15 nodes was ranked as not valid.</p>
+<p class="Note">&Dagger;The expert panel discussed a variety of time thresholds and thought that 8 hours would be a reasonable maximum, but they settled on 10 hours because many panel members believed that operative times greater than 8 hours would not be excessive.</p>
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

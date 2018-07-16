@@ -1,0 +1,507 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Not Just Little Adults: Policies to Support Medical Home Transformation in Pediatric Practice | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>March 31, 2014</li>
+			</ul>
+			<h1>Not Just Little Adults: Policies to Support Medical Home Transformation in Pediatric Practice</h1>
+			<p class="byline">By: David Keller, MD, Sara Toomey, MD, Jean Raphael, MD, MPH, Matthew Sadof, MD, Christopher Stille, MD, MPH</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/47896/not-just-little-adults-policies-to-support-medical-home-transformation-in-pediatric-practice" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/47896/not-just-little-adults-policies-to-support-medical-home-transformation-in-pediatric-practice" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/47896/not-just-little-adults-policies-to-support-medical-home-transformation-in-pediatric-practice&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Not Just Little Adults: Policies to Support Medical Home Transformation in Pediatric Practice&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/47896/not-just-little-adults-policies-to-support-medical-home-transformation-in-pediatric-practice" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (1)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p><em>This is the first of two commentaries addressing the needs of children and families in the emerging, rapidly evolving medical home model of care. This commentary discusses policies that are needed to provide better pediatric care. The <a href="/expert/expert-commentary.aspx?id=47906" title="Expert Commentary">second commentary</a> discusses priorities for quality measurement in pediatric care.</em></p>
+<p>The Patient Protection and Affordable Care Act of 2010 (ACA) seeks to increase the value of health care in the United States by improving quality while containing costs. In formulating the ACA, Congress identified a central problem in the lack of coordination of care among providers and systems. In order to promote integrated health care delivery, the legislation proposes implementation of payment models to encourage the development of systems that deliver coordinated care, the appraisal of the value (i.e., cost and quality) of the care provided, and the rapid dissemination of better models of care throughout the health care system. While Congress understood that no one model has been proven to be most effective, the Patient-Centered Medical Home (PCMH) model, pioneered by the American Academy of Pediatrics (<a href="#ref">1</a>) and adopted by major primary care specialties in 2007, (<a href="#ref">2</a>) is repeatedly highlighted in the legislation as a means of containing cost while maintaining high levels of patient health and satisfaction. As the PCMH model moves from legislation to implementation, however, policy makers and health care system managers need to remember that regulations, programs, and payment must take into account the unique health care needs distinguishing children from adults. The "Five Ds" summarize these factors as: development, dependency, differential epidemiology, demographics, and dollars. (<a href="#ref">3,4</a>) These factors and their importance to pediatric care and quality measurement are discussed in detail in the second commentary. Failure to address the "Five Ds" could result in transformed health care systems ill-suited to provide excellent care for children and faced with perverse incentives&mdash;for example, encouraging focus on the treatment of chronic disease but not primary and early intervention, which are the cornerstones of pediatric primary care.</p>
+<p>A core component of the transformation of clinical systems envisioned in the ACA is the promotion of value-based health care, linking measurement of quality, cost and outcome to payment in order to drive change. Many states and payers have tied one portion of payment to measures of fidelity to the PCMH model, while placing another portion "at risk" for achievement of system-wide goals of improved patient outcomes and reduced costs over a period of time, usually one to three years. (<a href="#ref">5,6</a>)</p>
+<p>Child health care providers can meet the structural measures of the PCMH. For the last two decades, some pediatricians have been at the forefront of providing team-based care as part of their work with the American Academy of Pediatrics and the Maternal and Child Health Bureau. Assessing change in child health outcomes, however, proves more challenging. Measurement of child health processes and outcomes can be informed by the "Five Ds," (<a href="#ref">7</a>) but the resulting measure sets are limited in scope, focusing mostly on processes, such as immunization rates or appropriate use of medications. It is unrealistic to expect a change in child health practice today to result in a change in patient outcome with associated cost savings within two to three years, as is the expectation in many currently proposed bundled-payment or shared saving arrangements. Properly done, high-quality pediatric care should maximize the potential of growth, in terms of physical ability, emotional stability, and capacity to contribute to society as an adult. The benefits of excellent child health services are likely found not only in the health sector, but also in education, social service and juvenile justice sectors, as well as the economic lives of families. Furthermore, the ultimate return on investment (ROI) of many child health interventions may not come to fruition for decades. (<a href="#ref">8,9</a>) How does one capture the true benefits of child health services in a measure of improved outcome and cost saving?</p>
+<p>In many ways, outcome measurement is more straightforward in adult patients. As people age, they are more likely to acquire one or more chronic conditions, such as diabetes, depression, congestive heart failure or hypertension. Each of these conditions has a set of well-defined outcome measures used in assessing primary care practice performance. Even in large primary care pediatric practices, however, there are generally insufficient numbers of children with a single diagnosis to allow the use of disease-specific metrics. A non-disease-specific, or "non-categorical," approach to creating outcome measures and payment models will need to be taken to see the impact of improved coordination of care. Even so, children and youth with special health care needs only comprise 10% to 30% of most pediatric practices. Improvements in these sub-populations may not reflect broad improvements in the health of the general population of children.</p>
+<p>Impact on family is also important to measure: when children are sick, the burden of that illness often falls as much on the family as it does on the child. (<a href="#ref">10</a>) To fully capture the effects of chronic illness on society, family outcomes such as loss of income, marital stress and impact on siblings are essential. (<a href="#ref">11</a>) Child health services should affect the trajectory of the life course of the child in multiple functional domains in the context of family and community. Outside of research studies, outcome measures seldom take this into account.</p>
+<p>Finally, methods of case-mix adjustment in child health populations are inadequate, which makes it difficult to compare outcomes between practices or practice groups. Most rely on diagnoses generated through claims analysis to determine risk status, with no way to incorporate the "Five Ds" into the calculation. Current methods of measuring the outcome of pediatric care are not feasible or sufficiently accurate to reflect the benefit of the pediatric PCMH in the health care marketplace. (<a href="#ref">12</a>)</p>
+<p>Since ACA-driven transformation of child health practice will require the use of new measures, providers will need analytic support to understand how to most effectively implement those measures to improve child health and child health practice. As providers become more data driven, it is critical that they not lose focus on children and families who have traditionally been the hallmark of pediatric practice. Parent engagement, the center of the PCMH model, will help assure that the metrics and the PCMH practice still meet the needs of patients and families. Pediatric health care providers and health services researchers need to partner with families as we engage with the payers, in order to assure that the measures integrated with new models of payment do not create perverse incentives which damage the relationship at the center of the PCMH.</p>
+<p>In summary, policy makers can ensure that we address the needs of children in concrete ways, taking into account the current state of the art in the measurement of child health processes and outcomes:</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li><strong>Measures of outcomes of pediatric practices should focus on prevention and maximization of life-course potential, rather than short-term cost savings</strong>. Pediatric health care currently accounts for less than 15% of total health care spending. (<a href="#ref">13</a>) While some short-term savings may be achieved through efforts targeted at high-risk populations (e.g., neonatal intensive care unit [NICU] graduates, medically fragile children, socially vulnerable children), it is unrealistic to expect a substantial short-term ROI from changes in pediatric practice. (<a href="#ref">14</a>) Changes in the payment system to incentivize PCMH transformation need to reflect societal commitment to the health of the population over the long term. </li>
+    <li><strong>Families should be part of the design and implementation of PCMH initiatives, to assure that the needs of children and families are being addressed</strong>. Given the challenge in measuring child health outcomes, policy makers should incorporate a wide variety of perspectives when creating innovative programs to address the three-part aim. (<a href="#ref">15</a>) Families consistently supported early efforts at practice redesign in the pediatric world, participating as partners in the Medical Home transformation projects funded through the Maternal and Child Health Bureau in the 1990s. (<a href="#ref">16</a>) They will help to assure that the measures we design and use to drive change remain grounded in the reality of the lives of children. </li>
+    <li><strong>Measure-based payment reform efforts designed to encourage PCMH transformation should remember the "Five Ds" when evaluating the impact on pediatric practice and child health</strong>. (<a href="#ref">4</a>) The current model of payment for medical services drives the structure of medical practice in the United States. Transformation therefore requires changes in the mechanism of payment. As payment reform unfolds and evolves, every effort needs to be made to ensure that the care of children is not adversely affected. To do this, measures should reflect the development, dependence, differential epidemiology, demographics and dollars of children. </li>
+</ol>
+<p>The changes envisioned by Congress in writing the ACA can improve the lives of children if policy makers assure that our current push to integrate measurement into the transformation of medical practice includes measures that account for the unique characteristics of children in a manner that benefits both our patients and their families.</p>
+<hr />
+<p><strong>Authors</strong></p>
+<p><strong>David Keller, MD</strong><br />
+University of Colorado School of Medicine, Children's Hospital Colorado, Aurora, CO</p>
+<p><strong>Sara Toomey, MD</strong><br />
+Boston Children's Hospital, Boston, MA</p>
+<p><strong>Jean L. Raphael, MD, MPH</strong><br />
+Department of Pediatrics, Baylor College of Medicine, Houston, TX</p>
+<p><strong>Matthew Sadof, MD</strong><br />
+Baystate Children's Hospital, Tufts University School of Medicine, Springfield, MA</p>
+<p><strong>Christopher Stille, MD, MPH</strong><br />
+University of Colorado School of Medicine, Children&rsquo;s Hospital Colorado, Aurora, CO</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Quality Measures Clearinghouse&trade; (NQMC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor ECRI Institute.</p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>Drs. Raphael and Toomey state no personal financial, business or professional conflicts of interest nor any family conflict of interest with respect to this expert commentary.</p>
+<p>Drs. Sadof, Stille, and Keller state no personal financial or family conflict of interest with respect to this expert commentary. They state business and profession interest as noted below:</p>
+<ul style="list-style-type: disc;">
+    <li>Dr. Sadof: American Academy of Pediatrics (AAP)/American Academy of Pediatrics (AAP) Medical Home Work Group; American Academy for Cerebral Palsy and Developmental Medicine (AACPDM) Complex Care Work Group </li>
+    <li>Dr. Stille: served on the Board of the Academic Pediatric Association until May 2013 </li>
+    <li>Dr. Keller: President (and Chair of the Board) of the Academic Pediatric Association &ndash; unpaid position </li>
+</ul>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>American Academy of Pediatrics (AAP). The medical home. Medical home initiatives for children with special health care needs project advisory committee. Pediatrics. 2002;110(1 Pt 1):184-6. </li>
+    <li>American Academy of Family Physicians (AAFP), American Academy of Pediatrics (AAP), American College of Physicians (ACP), American Osteopathic Association (AOA). Joint principles of the patient-centered medical home. 2007 Mar [accessed 2011 Sep 15]. Available at: <a href="/Home/Disclaimer?id=47896&contentType=expert-commentary&redirect=http%3a%2f%2fwww.medicalhomeinfo.org%2fdownloads%2fpdfs%2fJointStatement.pdf" title="AAP National Center for Medical Home Web site">http://www.medicalhomeinfo.org/downloads/pdfs/JointStatement.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> . </li>
+    <li>Forrest CB, Simpson L, Clancy C. Child health services research. Challenges and opportunities. JAMA. 1997; 277(22):1787-93. </li>
+    <li>Stille C, Turchi RM, Antonelli R, Cabana MD, Cheng TL, Laraque D, Perrin J, Academic Pediatric Association Task Force on Family-Centered Medical Home. The family-centered medical home: specific considerations for child health research and policy. Acad Pediatr. 2010;10(4):211-7. </li>
+    <li>Fields D, Leshen E, Patel K. Analysis &amp; commentary. Driving quality gains and cost savings through adoption of medical homes. Health Aff (Millwood). 2010 May;29(5):819-26. </li>
+    <li>Goldsmith J. Accountable care organizations: the case for flexible partnerships between health plans and providers. Health Aff (Millwood). 2011 Jan;30(1):32-40. </li>
+    <li>Raphael JL, Keller D, Sadof M, Toomey SL, Stille C. Not just little adults: considerations for measures in child health. In Press. 2013. </li>
+    <li>Halfon N, Hochstein M. Life course health development: an integrated framework for developing health, policy, and research. Milbank Q. 2002;80(3):433-479, iii. </li>
+    <li>Guyer B, Ma S, Grason H, et al. Early childhood health promotion and its life course health consequences. Acad Pediatr. 2009;9(3):142-9 e141-171. </li>
+    <li>Davis MM, Walter JK. Equality-in-quality in the era of the affordable care act. JAMA. 2011;306(8):872-3. </li>
+    <li>Perrin JM, Fluet CF, Honberg L, et al. Benefits for employees with children with special needs: findings from the collaborative employee benefit study. Health Aff (Millwood). 2007;26(4):1096-103. </li>
+    <li>Schone EM, Brown RS. Risk adjustment: what is the current state of the art, and how can it be improved? Princeton (NJ): Mathematica Policy Research; 2013. </li>
+    <li>Centers for Medicare and Medicaid Services (CMS). National Health Expenditure Fact Sheet. [internet]. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS). Available at: <a href="http://www.cms.gov/NationalHealthExpendData/25_NHE_Fact_Sheet.asp"  target="_blank" title="CMS Web site">http://www.cms.gov/NationalHealthExpendData/25_NHE_Fact_Sheet.asp</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>Cohen E, Kuo DZ, Agrawal R, et al. Children with medical complexity: an emerging population for clinical and research initiatives. Pediatrics. 2011;127(3):529-38. </li>
+    <li>Wells N, Partridge L. Families are key in improving quality. Acad Pediatr. 2011;11(3 Suppl):S85-86. </li>
+    <li>Arango P. Family-centered care. Acad Pediatr. 2011;11(2):97-9. </li>
+</ol>
+
+
+	<section class="comments" id="comments">
+		<h2 class="comments-header">Comments</h2>
+		
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 04/11/2014</h3>
+				<div class='comment-main'>
+					<div class='comment-content'><p>I agree with the article, but find it very difficult to keep the vision before the practice/physician to transform to PCMH when payment reform seems so distance (or non-existent). It also seems like the government wants to change things all the time so no one knows who/what is on first. I think we need to see payment for the changes discussed above OR we will NOT see the outcomes with PCMH we would like to see.</p></div>
+					<p class='comment-author'>Pamela Ballou-Nelson, PhD</p>
+						<p class='comment-position'>Process Improvement Physician Practice Consultant</p>
+											<p class='comment-affiliation'>ENCORE</p>
+					<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> None</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+	</section><!--/.comments -->
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
