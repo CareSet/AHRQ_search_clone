@@ -51,7 +51,8 @@
 		$pathinfo = pathinfo($parsed['path']);
 		$dirname = $pathinfo['dirname'];
 		$basename = $pathinfo['basename'];
-		$file_to_test = "./$domain_name/$dirname/$basename.html";
+        	$out_file_name = substr($basename,0,245); //file names can be too long..
+		$file_to_test = "./$domain_name/$dirname/$out_file_name.html";
 		
 		
 		echo "Looking for $file_to_test\n";
@@ -59,7 +60,7 @@
 		if(!file_exists($file_to_test)){
 			echo "Missing file\n";
 
-			$cmd = "wget --adjust-extension --span-hosts --convert-links --backup-converted  --timestamping --page-requisites $href";
+			$cmd = "wget -O $file_to_test --span-hosts  --backup-converted  --timestamping --page-requisites $href";
 			system($cmd);
 			echo "
 ###########################################################################################################
