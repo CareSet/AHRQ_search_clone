@@ -1,0 +1,515 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Envisioning the Next Generation of Performance Measures for Ambulatory Care | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>October 05, 2009</li>
+			</ul>
+			<h1>Envisioning the Next Generation of Performance Measures for Ambulatory Care</h1>
+			<p class="byline">By: Stephen D. Persell, MD, MPH</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16455/envisioning-the-next-generation-of-performance-measures-for-ambulatory-care" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16455/envisioning-the-next-generation-of-performance-measures-for-ambulatory-care" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16455/envisioning-the-next-generation-of-performance-measures-for-ambulatory-care&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Envisioning the Next Generation of Performance Measures for Ambulatory Care&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16455/envisioning-the-next-generation-of-performance-measures-for-ambulatory-care" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (0)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>During the past few decades, an increased emphasis on measuring and improving the quality of health care in the United States fostered considerable improvements in the quality of care delivered (<a href="#ref">1,2</a>), but important quality gaps still remain. The measurement tools widely used to assess quality during this time, while useful, have proven rather blunt instruments. For outpatient settings, the most common ambulatory care performance measures used to assess clinical efficacy have been either simple process of care measures (e.g., the proportion of eligible patients who received a laboratory test or a prescription medication) or intermediate clinical outcomes (e.g., the proportion of eligible patients who achieved a specific level of control for their high blood pressure or diabetes at the last measurement during a fixed time period). Many of these measures were designed so that they can be assessed using data routinely collected for other purposes (e.g., administrative claims) or to be performed using very limited chart reviews. </p>
+<p>Measures like these probably do permit valid comparisons of the quality of care received by large groups of patients. The use of these kinds of measures in public reporting or accreditation programs has undoubtedly had a large, favorable impact on the quality of health care. However, when we consider how performance measures are currently being used and how we should measure performance in the future, it is essential to bear in mind that important limitations to simple measures exist. </p>
+<p><strong>Strengths and Weaknesses of Simple Quality Measures</strong> </p>
+<p>Simple process-of-care measures reflect the care that patients actually receive. Processes of care may be more directly under the control of health care providers and less influenced by differences in the characteristics of the patients served by one group of providers compared to another (i.e., differences in case mix) than outcome measures. When deficits in the delivery of a process are discovered, these findings may be more directly actionable for providers or health systems than deficits in outcomes. Unfortunately, simple process measures often connect very loosely to important clinical outcomes. Quality improvement efforts that successfully improve simple process measures may have little or no effect on improving clinical outcomes. (<a href="#ref">3,4</a>) For example, increasing lab testing for patients with diabetes may be far easier to accomplish than controlling blood pressure, blood sugar, or cholesterol. Simple measures&mdash;whether or not a test was done&mdash;also do not assess how well the information obtained from that test was used to care for a patient. </p>
+<p>Outcomes are often what patients and other stakeholders care about the most. Outcome measures have high face validity and may be more informative than process measures because they may reflect both the measured and unmeasured processes that go into achieving the desired result. Outcome measures for ambulatory care, however, are often only partially under the control of individual health care providers (e.g., non-adherence to recommended care plans may be a difficult behavior for health care providers to change). Also, the results of outcome measures may have more to do with the characteristics of the patient populations involved (e.g., the prevalence of preexisting severe disease) rather than with the quality of care provided; however, methods attempting to account for differences in case mix are generally not used. Simple outcome measures designed to minimize the amount of data collection needed may also not accurately indicate who is receiving good care or substandard care at the individual patient level. For example, a patient whose average blood pressure is controlled may appear to be uncontrolled by a single reading; similarly, a patient prescribed multiple appropriate antihypertensive medications may still not achieve a blood pressure of &lt; 140/90 mm Hg. </p>
+<p><strong>Implications of Using Simple Measures in the Contemporary Environment</strong> </p>
+<p>Measures designed to allow for comparisons in quality between groups as large as health plans, serving hundreds of thousands or millions of members, are now being applied to much smaller groups of patients, namely those served by individual practices or physicians. Increasingly, this is being done with financial incentives attached. (<a href="#ref">5,6</a>) Simple measures picked for ease of data collection could produce unintended consequences if they incorrectly suggest that individual patients are receiving poor care. (<a href="#ref">7-9</a>) A perverse incentive may result, potentially motivating physicians to stop caring for patients who are the most vulnerable if physicians feel that the measured outcomes on which their remuneration depends are not within their control&mdash;perhaps due to patients having severe disease, treatment intolerance, or being non-adherent to care plans. They might also begin recommending tests or treatments to patients who may be unlikely to benefit, or who may be harmed by them. </p>
+<p><strong>Improving Performance Measures by Using More Clinical Data</strong> </p>
+<p>If more detailed clinical data could be obtained without great difficulty, it may become possible to devise performance measures that provide a better reflection of who is receiving inadequate care, which may be more suitable for measuring quality at the small group level. The wealth of clinical information available in electronic health record systems (EHRS) could serve this purpose. </p>
+<p>In one study, colleagues and I examined how hypertension quality measures that drew from a multiple of different data elements in an electronic health record could be designed to be more specific indicators of significant quality problems than a simple outcome measure (i.e., last blood pressure of less than 140/90 mm Hg). (<a href="#ref">10</a>) In a population of 3,913 patients with diagnosed hypertension, blood pressure control judged by the last office measurement of &lt; 140/90 mm Hg during the study period&mdash;the simple outcome measure&mdash;was 58.1%. However, small modifications to measurement criteria produced large changes in the proportion of patients identified as receiving adequate care. Counting patients as having adequate care whose last or mean blood pressure (based on up to three recent readings) was at or below 140/90 Hg raised performance to 75.4%. When the process of being prescribed aggressive treatment&mdash;measured as being prescribed at least a 3-drug regimen including a diuretic or 3 drugs not including a diuretic but having a diagnosis that was a potential contraindication to a diuretic&mdash;was included as part of the numerator criteria for the measure, performance rose to 82.5%. Accounting for low diastolic blood pressure&mdash;to remove the incentive to overtreat patients with potentially dangerously low diastolic blood pressure&mdash;raised performance to 83.6%. The quality deficit that remains according to the complex measure is much smaller than for the simple measure, but the result may be a more specific indicator of true quality problems. If financial incentives were applied to this measure, it would not penalize providers who care for large numbers of patients with resistant and difficult to control hypertension. In addition, it might prove less likely to motivate overtreatment of individual patients whose blood pressure was actually controlled or for whom intensifying therapy could increase risk. </p>
+<p>Complex measures such as the one in this example that are part outcome, part process of care may have some of the advantages of both simple process measures and simple outcome measures. Patients whose outcomes are difficult to control may still receive appropriate care. In this hypertension example, we chose to construct a quality measure for hypertension in which being prescribed at least a 3-drug regimen including a diuretic was an acceptable process, even if the blood pressure was not controlled. This measure may be more directly under the control of the treating clinician (and may also be a better reflection of the clinical evidence for treating hypertension since evidence for using more than 3 drugs in the treatment of hypertension is sparse) than an outcome only measure. Other approaches to combining process and outcomes in the same performance measure have been described as well. Measures can be designed to indicate that an outcome (e.g., blood pressure, cholesterol) was controlled, or that treatment was intensified within a fixed period of time. (<a href="#ref">11-14</a>) Kerr and colleagues developed a measure of cholesterol control that included having a controlled cholesterol level, receipt of high-intensity statin therapy, a contraindication to statins, or an increase in drug therapy within 6 months. (<a href="#ref">11</a>) This approach has also been applied to blood pressure and diabetes control in a large health system with an advanced electronic health record. (<a href="#ref">13,14</a>) </p>
+<p>Having access to more clinical data opens other possibilities for outcome measures. One could abandon the simple threshold as an indicator of adequate or inadequate care. Again using the example of blood pressure, if multiple blood pressure measurements can be used, it becomes possible to determine which patients have achieved clinically important reductions in their blood pressure. A patient with a pre-treatment blood pressure of 195/108 mm Hg who returns with a blood pressure on treatment of 144/75 is deriving a much greater clinical benefit from treatment than a person with a pre-treatment blood pressure of 142/75 mm Hg who returns with a blood pressure of 139/73 mm Hg. </p>
+<p><strong>Challenges and Conclusions</strong> </p>
+<p>There are significant obstacles to using complex measures that rely on substantial amounts of clinical data. The greatest may be the slow pace of EHRS adoption in the United States. Data collection for multiple complex measures could be prohibitive if it could not be done electronically from existing data sources. Even if adoption of EHRS spreads, great effort would be needed to integrate complex quality measures into EHRS so that comparable results can be produced across different systems. The information management tasks required to achieve these objectives will not be trivial. </p>
+<p>Ultimately, additional research is needed to determine if it is worth the effort to design and implement quality measures that paint a more complete and nuanced picture of the quality of ambulatory care patients receive. Whether or not such complex measures will motivate quality improvement any differently than existing simple measures or be less likely to promote unintended consequences remain empirical questions that need to be explored. </p>
+<p><strong>Author</strong> </p>
+<p><strong>Stephen D. Persell, MD, MPH</strong><br />
+Northwestern University, Chicago, IL</p>
+<p><strong>Disclaimer</strong> </p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Quality Measures Clearinghouse&trade; (NQMC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor, ECRI Institute. </p>
+<p><strong>Potential Conflicts of Interest</strong> </p>
+<p>Dr. Persell reports business/professional affiliations with the American Medical Association's Physician Consortium for Performance Improvement, National Committee for Quality Assurance, and the American College of Cardiology/American Heart Association/Physician Consortium for Performance Improvement CAD/HTN Work Group. </p>
+<p><a name="ref"></a><strong>References</strong></p>
+<ol>
+    <li>The State of Health Care Quality 2008. National Committee for Quality Assurance. Washington, D.C., 2008. </li>
+    <li>Jencks SF, Huff ED, Cuerdon T. Change in the quality of care delivered to Medicare beneficiaries, 1998-1999 to 2000-2001. JAMA. Jan 15 2003;289(3):305-312. </li>
+    <li>Landon BE, Hicks LS, O'Malley AJ, et al. Improving the management of chronic disease at community health centers. N Engl J Med. Mar 1 2007;356(9):921-934. </li>
+    <li>Mangione CM, Gerzoff RB, Williamson DF, et al. The association between quality of care and the intensity of diabetes disease management programs. Ann Intern Med. Jul 18 2006;145(2):107-116. </li>
+    <li>Rosenthal MB, Landon BE, Howitt K, Song HR, Epstein AM. Climbing up the pay-for-performance learning curve: where are the early adopters now? Health Aff (Millwood). Nov-Dec 2007;26(6):1674-1682. </li>
+    <li>Rosenthal MB, Landon BE, Normand SL, Frank RG, Epstein AM. Pay for performance in commercial HMOs. N Engl J Med. Nov 2 2006;355(18):1895-1902. </li>
+    <li>Hofer TP, Hayward RA, Greenfield S, Wagner EH, Kaplan SH, Manning WG. The unreliability of individual physician "report cards" for assessing the costs and quality of care of a chronic disease. JAMA. June 9, 1999 1999;281(22):2098-2105. </li>
+    <li>Boyd CM, Darer J, Boult C, Fried LP, Boult L, Wu AW. Clinical practice guidelines and quality of care for older patients with multiple comorbid diseases: implications for pay for performance. JAMA. Aug 10 2005;294(6):716-724. </li>
+    <li>Werner RM, Asch DA. The unintended consequences of publicly reporting quality information. JAMA. Mar 9 2005;293(10):1239-1244. </li>
+    <li>Persell SD, Kho AN, Thompson JA, Baker DW. Improving hypertension quality measurement using electronic health records. Med Care. Apr 2009;47(4):388-394. </li>
+    <li>Kerr EA, Smith DM, Hogan MM, et al. Building a better quality measure: are some patients with 'poor quality' actually getting good care? Med Care. Oct 2003;41(10):1173-1182. </li>
+    <li>Kerr EA, Krein SL, Vijan S, Hofer TP, Hayward RA. Avoiding pitfalls in chronic disease quality measurement: a case for the next generation of technical quality measures. Am J Manag Care. Nov 2001;7(11):1033-1043. </li>
+    <li>Rodondi N, Peng T, Karter AJ, et al. Therapy modifications in response to poorly controlled hypertension, dyslipidemia, and diabetes mellitus. Ann Intern Med. Apr 4 2006;144(7):475-484. </li>
+    <li>Selby JV, Uratsu CS, Fireman B, et al. Treatment intensification and risk factor control: toward more clinically relevant quality measures. Med Care. Apr 2009;47(4):395-402. </li>
+</ol>
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011399</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51322/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-patients-irrespective-of-frequency-of-dialysis-with-documented-monthly-npcr-measurements">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis patients (irrespective of frequency of dialysis) with documented monthly nPCR measurements.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011398</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51321/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-home-hemodialysis-and-peritoneal-dialysis-patients-who-have-monthly-measures-for-hemoglobin-during-the-reporting-period">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis, home hemodialysis, and peritoneal dialysis patients who have monthly measures for hemoglobin during the reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011397</li>
+            <li>May 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51319/end-stage-renal-disease-esrd-percentage-of-adult-hemodialysis-patientmonths-using-a-catheter-continuously-for-three-months-or-longer-for-vascular-access">End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011396</li>
+            <li>Apr 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51318/end-stage-renal-disease-esrd-adjusted-percentage-of-adult-hemodialysis-patientmonths-using-an-autogenous-arteriovenous-fistula-avf-as-the-sole-means-of-vascular-access">End stage renal disease (ESRD): adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula (AVF) as the sole means of vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011395</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51317/end-stage-renal-disease-esrd-percentage-of-all-peritoneal-dialysis-and-hemodialysis-patientmonths-with-serum-or-plasma-phosphorus-measured-at-least-once-within-the-month">End stage renal disease (ESRD): percentage of all peritoneal dialysis and hemodialysis patient-months with serum or plasma phosphorus measured at least once within the month.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

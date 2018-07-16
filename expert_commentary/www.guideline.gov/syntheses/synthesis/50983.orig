@@ -1,0 +1,814 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Diabetic Foot Ulcers: Wound Management | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+	<div class="content-header">
+		<ul class="content-header-meta">
+			<li class="prefix-icon large-icon synthesis">Guideline Synthesis</li>
+		</ul>
+		<h1>Diabetic Foot Ulcers: Wound Management</h1>
+	</div><!-- /.content-header -->
+
+	<!-- COMPARED LIST-->
+		<p>Guidelines Being Compared:</p>
+		<ul class="compared-list"> 
+				<li>
+                    <p class="compared-list-org">International Working Group on the Diabetic Foot (IWGDF)</p>
+					<p class="compared-list-title">IWGDF guidance on use of interventions to enhance the healing of chronic ulcers of the foot in diabetes.</p>
+                    <p class="compared-list-org">2016 Jan 01</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/50459">View Summary</a></p>					
+				</li>
+				<li>
+                    <p class="compared-list-org">Society for Vascular Surgery (SVS)</p>
+					<p class="compared-list-title">The management of diabetic foot: a clinical practice guideline by the Society for Vascular Surgery in collaboration with the American Podiatric Medical Association and the Society for Vascular Medicine.</p>
+                    <p class="compared-list-org">2016 Feb 01</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/50181">View Summary</a></p>					
+				</li>
+				<li>
+                    <p class="compared-list-org">Undersea and Hyperbaric Medical Society (Unders Hyperbaric Med Soc)</p>
+					<p class="compared-list-title">A clinical practice guideline for the use of hyperbaric oxygen therapy in the treatment of diabetic foot ulcers.</p>
+                    <p class="compared-list-org">2015 May 01</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/49353">View Summary</a></p>					
+				</li>
+		</ul><!-- /.compared-list -->
+			
+	<!-- TOOLBAR -->
+	<div class="content-toolbar">
+		<!-- Primary -->
+		<ul class="tools primary-tools">
+			<li class="dropdown tool sections">
+				<a href="#" class="tool-button">Sections</a>
+				<div class="dropdown-panel">
+						<ul class="section-links">
+								<li><a href="#504" class="section-mark">Areas of Agreement and Difference</a></li>
+								<li><a href="#505" class="section-mark">Comparison of Recommendations</a></li>
+								<li><a href="#506" class="section-mark">Strength of Evidence and Recommendation Grading Schemes</a></li>
+								<li><a href="#507" class="section-mark">Methodology</a></li>
+								<li><a href="#509" class="section-mark">Benefits and Harms</a></li>
+								<li><a href="#510" class="section-mark">Contraindications</a></li>
+								<li><a href="#511" class="section-mark">Abbreviations</a></li>
+								<li><a href="#512" class="section-mark">Status</a></li>
+						</ul>    
+				</div><!-- /.dropdown-panel -->
+			</li>
+		</ul><!-- /.tools primary-tools -->
+
+		<!-- Other -->
+		<ul class="tools other-tools">
+			<li class="dropdown tool">
+				<a href="#" class="tool-button">Share</a>
+				<div class="dropdown-panel">
+					<ul class="toolbar-social">
+						<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/syntheses/synthesis/50983" class="facebook">Facebook</a></li>
+						<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.guideline.gov/syntheses/synthesis/50983" class="twitter">Twitter</a></li>
+						<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.guideline.gov/syntheses/synthesis/50983&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+						<li><a href="mailto:?Subject=AHRQ: Diabetic Foot Ulcers: Wound Management&body=https://www.guideline.gov/syntheses/synthesis/50983" class="email">Email</a></li>
+					</ul><!-- /.toolbar-social -->
+				</div><!-- /.dropdown-panel -->
+			</li>
+			<li class="dropdown tool">
+				<a href="#" class="tool-button">Cite</a>
+				<div class="dropdown-panel citation">
+				    <p class="text-label"><label for="citation">Citation: </label></p>
+					<textarea id="citation">Internet citation: National Guideline Clearinghouse (NGC). Guideline synthesis: Diabetic foot ulcers: wound management. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2017 May. [cited YYYY Mon DD]. Available: http://www.guideline.gov.</textarea>
+				</div><!-- /.dropdown-panel -->
+			</li>
+		</ul><!-- /.tools other-tools -->
+
+		<!-- Accordion tools -->
+		<ul class="tools accordion-controls">
+			<li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+			<li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+		</ul><!-- /.accordion-controls -->
+	</div><!-- /.toolbar -->            
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+	<!-- ACCORDION -->
+	<div class="accordion-container" role="tablist" multiselectable="true">
+			<h2 class="accordion-title is-active" id="504" role="tab" aria-expanded="true" aria-controls="syn504"><a href="#">Areas of Agreement and Difference</a></h2>
+			<div class="accordion-panel is-active" id="syn504" role="tabpanel" aria-labelledby="504" ><a name="areasofagreementanddifference"></a>
+<p>A direct comparison of recommendations presented in the above guidelines for wound management of diabetic foot ulcers (DFUs) is provided.</p>
+<h3><a name="agreement"></a>Areas of Agreement</h3>
+<h4>Wound Dressings</h4>
+<p>IWGDF and SVS/APMA/SVM make strong recommendations for the use of dressing products that maintain a moist wound bed, control exudate and avoid maceration of surrounding intact skin. The guideline developers agree that available evidence does not support the use of any single dressing type (e.g., hydrogels, hydrocolloids, foam dressings, alginates, honey) over another. Dressing selection should therefore be guided by the characteristics of the individual wound, acquisition cost, and ease of use. IWGDF adds comfort to this list. IWGDF recommends against the use of antimicrobial dressings with the goal of improving wound healing or preventing secondary infection. The UHMS guideline does not address wound dressings.</p>
+<h4>Debridement</h4>
+<p>IWGDF and SVS/APMA/SVM agree that sharp debridement of slough, devitalized/necrotic tissue and surrounding callus material should be performed at regular intervals. According to SVS/APMA/SVM, considering the lack of evidence for superiority of any given debridement technique, initial sharp debridement is suggested, with subsequent choice of method based on clinical context, availability of expertise and supplies, patient tolerance and preference, and cost-effectiveness. IWGDF similarly notes that, even though professional opinion is united in support of the use of debridement, the experimental evidence to justify debridement in general and of any particular method of debridement is not strong. Nevertheless, IWGDF makes a strong recommendation on the basis of low-quality evidence for the use of sharp debridement, taking relative contraindications such as severe ischemia into account. The UHMS guideline does not address debridement.</p>
+<h4>Hyperbaric Oxygen (HBO<sub>2</sub>) Therapy</h4>
+<p>There is general agreement among the three guideline developers that HBO<sub>2</sub> therapy may be an appropriate adjuvant intervention for selected patients. IWGDF makes a weak recommendation on the basis of moderate-quality evidence for the consideration of systemic HBO<sub>2</sub> therapy in order to accelerate healing of DFUs. Further blinded and randomized trials are required to confirm its cost-effectiveness, as well as to identify the population most likely to benefit from its use, notes the guideline developer. SVS/APMA/SVM suggests the use of HBO<sub>2</sub> therapy in patients with DFUs who have adequate perfusion that fails to respond to 4 to 6 weeks of conservative management. Considering the cost and the burden of prolonged daily treatment, the developer encourages careful patient selection and suggests the use of transcutaneous oximetry to help stratify patients and predict those most likely to benefit.</p>
+<p>HBO<sub>2</sub> therapy for the treatment of DFUs is the focus of the UHMS guideline. The developer makes recommendations for its use according to the grade of the DFU in the Wagner wound classification system. UHMS explains that, despite consensus between foot and ankle surgeons and hyperbaric physicians that the Wagner grade is archaic and inadequate, most of the historical and contemporary studies and most reimbursement determinations with regard to the use of HBO<sub>2</sub> for DFUs are based on the Wagner DFU wound appearances. In order to reduce the risk of major amputation and incomplete healing, UHMS suggests adding HBO<sub>2</sub> to the standard of care in patients with Wagner Grade 3 (deep tissue involvement and abscess, osteomyelitis, or tendonitis) or greater DFUs who have just undergone surgical debridement of the infected foot as well as in patients with Wagner Grade 3 or greater DFUs that have shown no significant improvement after 30 or more days of treatment. The developer suggests against using HBO<sub>2</sub> in patients with Wagner Grade 2 or lower DFUs.</p>
+<h3><a name="difference"></a>Areas of Difference</h3>
+<h4>Biologic Therapies</h4>
+<p>For DFUs that are recalcitrant to standard therapy, SVS/APMA/SVM makes weak recommendations for ("suggests") consideration of the use of the following interventions: PDGF (becaplermin); living cellular therapy using a bilayered keratinocyte/fibroblast construct or a fibroblast-seeded matrix (e.g., Apligraf; Dermagraft); and extracellular matrix products employing acellular human dermis or porcine small intestinal submucosal tissue. IWGDF, in contrast, makes a strong recommendation against the use of agents reported to improve wound healing by altering the biology of the wound, including growth factors and bioengineered skin products and gases, in preference to accepted standards of good quality care. According to the developer, the studies identified have provided no firm evidence to justify the use of any of these interventions. The UHMS guideline does not address biologic therapies.</p>
+<h4>Negative Pressure Wound Therapy (NPWT)</h4>
+<p>IWGDF examined the evidence for the use of NPWT in the management of the two types of DFUs in which it has been studied&mdash;the post-surgical and the chronic non-surgical wound. On the basis of moderate-quality evidence, the developer makes a weak recommendation for the consideration of NPWT in postoperative wounds, with the caveat that the clinical and the cost effectiveness of the approach remain to be established. IWGDF was unable to make a recommendation on the use of NPWT in chronic nonsurgical wounds due to a lack of available evidence. In contrast, citing systematic reviews that summarized recommendations with moderate to strong evidence for use of NPWT in DFUs, SVS/APMA/SVM suggests the use of NPWT for chronic diabetic foot wounds that do not demonstrate expected healing progression with standard or advanced wound dressings after 4 to 8 weeks of therapy. Consideration of high cost of NPWT products and access to trained personnel for application of NPWT dressings should be weighed in choosing this treatment modality, adds the developer. The UHMS guideline does not address NPWT.</p></div>
+			<h2 class="accordion-title is-active" id="505" role="tab" aria-expanded="true" aria-controls="syn505"><a href="#">Comparison of Recommendations</a></h2>
+			<div class="accordion-panel is-active" id="syn505" role="tabpanel" aria-labelledby="505" ><table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides a comparison of recommendations considered by each group">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top">IWGDF<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <p><strong>Note</strong>: Major recommendations provided in the IWGDF guidance on use of interventions to enhance the healing of chronic ulcers of the foot in diabetes are presented below. See also the NGC summaries of IWGDF guidance on the following related topics, which are beyond the scope of this synthesis:</p>
+            <ul style="list-style-type: disc;">
+                <li><a href="/summaries/summary/50455/" title="Guideline #11052" target="_blank">Prevention of foot ulcers in at-risk patients with diabetes</a> </li>
+                <li><a href="/summaries/summary/50456/" title="Guideline #11053" target="_blank">Footwear and offloading to prevent and heal foot ulcers in diabetes</a> </li>
+                <li><a href="/summaries/summary/50457/" title="Guideline #11054" target="_blank">Diagnosis, prognosis, and management of peripheral artery disease in patients with foot ulcers in diabetes</a> </li>
+                <li><a href="/summaries/summary/50458/" title="Guideline #11055" target="_blank">Diagnosis and management of foot infections in persons with diabetes</a> </li>
+            </ul>
+            <p><strong><span style="text-decoration: underline;">Recommendations of Specific Types of Ulcer Treatment in the Management of DFUs (Excluding Offloading)</span></strong></p>
+            <p><strong>What is the best way of debriding a DFU?</strong></p>
+            <ol style="list-style-type: decimal;" start="1">
+                <li>Clean ulcers regularly with clean water or saline, debride them when possible in order to remove debris from the wound surface and dress them with a sterile, inert dressing in order to control excessive exudate and maintain a warm, moist environment in order to promote healing. (<strong>GRADE strength of recommendation: Strong; Quality of evidence: Low</strong>) </li>
+                <li>In general, remove slough, necrotic tissue and surrounding callus with sharp debridement in preference to other methods, taking relative contraindications such as severe ischemia into account. (<strong>Strong; Low</strong>) </li>
+            </ol>
+            <p><strong>What is the best dressing to use?</strong></p>
+            <ol style="list-style-type: decimal;" start="3">
+                <li>Select dressings principally on the basis of exudate control, comfort and cost. (<strong>Strong; Low</strong>) </li>
+                <li>Do not use antimicrobial dressings with the goal of improving wound healing or preventing secondary infection. (<strong>Strong; Moderate</strong>) </li>
+            </ol>
+            <p><strong>Does systemic HBO<sub>2</sub> therapy hasten wound healing in DFUs?</strong></p>
+            <ol style="list-style-type: decimal;" start="5">
+                <li>Consider the use of systemic HBO<sub>2</sub> therapy, even though further blinded and randomized trials are required to confirm its cost-effectiveness, as well as to identify the population most likely to benefit from its use. (<strong>Weak; Moderate</strong>) </li>
+            </ol>
+            <p><strong>Does topical NPWT hasten healing in DFUs?</strong></p>
+            <ol style="list-style-type: decimal;" start="6">
+                <li>Topical NPWT may be considered in post-operative wounds even though the effectiveness and cost-effectiveness of the approach remain to be established. (<strong>Weak; Moderate</strong>) </li>
+            </ol>
+            <p><strong>Is there a place for the use of other topically applied treatments?</strong></p>
+            <ol style="list-style-type: decimal;" start="7">
+                <li>Do not select agents reported to improve wound healing by altering the biology of the wound, including growth factors, bioengineered skin products and gases, in preference to accepted standards of good quality care. (<strong>Strong; Low</strong>) </li>
+            </ol>
+            <p><strong>Is there a place for other local therapies to improve wound healing in the diabetic foot?</strong></p>
+            <ol style="list-style-type: decimal;" start="8">
+                <li>Do not select agents reported to have an impact on wound healing through alteration of the physical environment, including through the use of electricity, magnetism, ultrasound and shockwaves, in preference to accepted standards of good quality care. (<strong>Strong; Low</strong>) </li>
+            </ol>
+            <p><strong>Is there a place for other systemic therapies, including drugs and herbal therapies, in improving wound healing in the diabetic foot?</strong></p>
+            <ol style="list-style-type: decimal;" start="9">
+                <li>Do not select systemic treatments reported to improve wound healing, including drugs and herbal therapies, in preference to accepted standards of good quality care. (<strong>Strong; Low</strong>) </li>
+            </ol>
+            </td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top" headers="diagnosis">SVS/APMA/SVM<br />
+            (2016)</th>
+            <td valign="top">
+            <p><strong>Note</strong>: See the <a href="/summaries/summary/50181" title="Guideline #10958" target="_blank">NGC guideline summary</a> for recommendations on the prevention of DFUs and PAD and the DFU, which are beyond the scope of this synthesis.</p>
+            <p><strong><span style="text-decoration: underline;">Wound Care for DFUs</span></strong></p>
+            <p><strong>Recommendation 1.</strong> The committee recommends frequent evaluation at 1- to 4-week intervals with measurements of diabetic foot wounds to monitor reduction of wound size and healing progress (<strong>Grade 1C</strong>).</p>
+            <p><strong>Recommendation 1.1.</strong> The committee recommends evaluation for infection on initial presentation of all diabetic foot wounds, with initial sharp debridement of all infected diabetic ulcers, and urgent surgical intervention for foot infections involving abscess, gas, or necrotizing fasciitis (<strong>Grade 1B</strong>).</p>
+            <p><strong>Recommendation 1.2.</strong> The committee suggests that treatment of diabetic foot infection should follow the most current guidelines published by the IDSA (<strong>Ungraded</strong>).</p>
+            <p><strong>Recommendation 2.</strong> The committee recommends use of dressing products that maintain a moist wound bed, control exudate, and avoid maceration of surrounding intact skin for diabetic foot wounds (<strong>Grade 1B</strong>).</p>
+            <p><strong>Recommendation 3.</strong> The committee recommends sharp debridement of all devitalized tissue and surrounding callus material from DFUs at 1- to 4-week intervals (<strong>Grade 1B</strong>).</p>
+            <p><strong>Recommendation 4.</strong> Considering lack of evidence for superiority of any given debridement technique, the committee suggests initial sharp debridement with subsequent choice of debridement method based on clinical context, availability of expertise and supplies, patient tolerance and preference, and cost-effectiveness (<strong>Grade 2C</strong>).</p>
+            <p><strong>Recommendation 5.</strong> For DFUs that fail to demonstrate improvement (&gt;50% wound area reduction) after a minimum of 4 weeks of standard wound therapy, the committee recommends adjunctive wound therapy options. These include negative pressure therapy, biologics (PDGF, living cellular therapy, extracellular matrix products, amnionic membrane products), and HBO<sub>2</sub> therapy. Choice of adjuvant therapy is based on clinical findings, availability of therapy, and cost-effectiveness; there is no recommendation on ordering of therapy choice. Re-evaluation of vascular status, infection control, and off-loading is recommended to ensure optimization before initiation of adjunctive wound therapy (<strong>Grade 1B</strong>).</p>
+            <p><strong>Recommendation 6.</strong> The committee suggests the use of negative pressure wound therapy for chronic diabetic foot wounds that do not demonstrate expected healing progression with standard or advanced wound dressings after 4 to 8 weeks of therapy (<strong>Grade 2B</strong>).</p>
+            <p><strong>Recommendation 7.</strong> The committee suggests consideration of the use of PDGF (becaplermin) for the treatment of DFUs that are recalcitrant to standard therapy (<strong>Grade 2B</strong>).</p>
+            <p><strong>Recommendation 8.</strong> The committee suggests consideration of living cellular therapy using a bilayered keratinocyte/fibroblast construct or a fibroblast-seeded matrix for treatment of DFUs when recalcitrant to standard therapy (<strong>Grade 2B</strong>).</p>
+            <p><strong>Recommendation 9.</strong> The committee suggests consideration of the use of extracellular matrix products employing acellular human dermis or porcine small intestinal submucosal tissue as an adjunctive therapy for DFUs when recalcitrant to standard therapy (<strong>Grade 2C</strong>).</p>
+            <p><strong>Recommendation 10.</strong> In patients with DFU who have adequate perfusion that fails to respond to 4 to 6 weeks of conservative management, the committee suggests HBO<sub>2</sub> therapy (<strong>Grade 2B</strong>).</p>
+            </td>
+        </tr>
+        <tr>
+            <th width="10%" class="Center" valign="top">UHMS<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <p><strong><span style="text-decoration: underline;">Recommendations</span></strong></p>
+            <ol style="list-style-type: decimal;" start="1">
+                <li>In patients with Wagner Grade 2 or lower DFUs, the committee suggests against using HBO<sub>2</sub> therapy (<strong>very low-level evidence in support of HBO<sub>2</sub>, conditional recommendation</strong>). </li>
+                <li>In patients with Wagner Grade 3 or higher DFUs that have not shown significant improvement after 30 days of treatment, the committee suggests adding HBO<sub>2</sub> to the standard of care to reduce the risk of major amputation and incomplete healing (<strong>moderate-level evidence, conditional recommendation</strong>). </li>
+                <li>In patients with Wagner Grade 3 or higher DFUs who have just had a surgical debridement of an infected foot (e.g., partial toe or ray amputation; debridement of ulcer with underlying bursa, cicatrix or bone; foot amputation; incision and drainage of deep space abscess; or necrotizing soft tissue infection), the committee suggests adding acute post-operative HBO<sub>2</sub> to the standard of care to reduce the risk of major amputation and incomplete healing (<strong>moderate-level evidence, conditional recommendation</strong>). </li>
+            </ol>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="506" role="tab" aria-expanded="true" aria-controls="syn506"><a href="#">Strength of Evidence and Recommendation Grading Schemes</a></h2>
+			<div class="accordion-panel is-active" id="syn506" role="tabpanel" aria-labelledby="506" ><p><a name="strength"></a></p>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="This table presents the rating schemes used by the guideline groups to rate the level of evidence and/or the strength of the recommendations.">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top">IWGDF<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <p>Recommendations in the guidance were formulated based on the GRADE system for grading evidence when writing a clinical guideline. The authors assessed the quality of evidence on the risk of bias of included studies, effect sizes, and expert opinion, and rated the quality of evidence as 'high', 'moderate' or 'low'. The authors assessed the strength of each recommendation as 'strong' or 'weak', based on the quality of evidence, balance between benefits and harm, patient values and preferences, and costs (resource utilization). See the <a href="/Home/Disclaimer?id=50983&contentType=synthesis&redirect=http%3a%2f%2fwww.gradeworkinggroup.org%2f" title="GRADE Web site">GRADE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> for more information.</p>
+            </td>
+        </tr>
+        <tr>
+            <th width="10%" class="Center" valign="top">SVS/APMA/SVM<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <p><strong><span style="text-decoration: underline;">GRADE Recommendations Based on Level of Evidence</span></strong></p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: Grading of Recommendations Assessment, Development and Evaluation (GRADE) Recommendations Based on Level of Evidence">
+                <thead>
+                    <tr>
+                        <th class="Center" valign="top" scope="col">Grade</th>
+                        <th class="Center" valign="top" scope="col">Description of Recommendation</th>
+                        <th class="Center" valign="top" scope="col">Benefit vs. Risk</th>
+                        <th class="Center" valign="top" scope="col">Methodologic Quality of Supporting Evidence</th>
+                        <th class="Center" valign="top" scope="col">Implications</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="Center" valign="top">1A</td>
+                        <td valign="top">Strong recommendation, high-quality evidence</td>
+                        <td valign="top">Benefits clearly outweigh risk and burdens, or vice versa</td>
+                        <td valign="top">Randomized controlled trials (RCTs) without important limitations or overwhelming evidence from observational studies</td>
+                        <td valign="top">Strong recommendation, can apply to most patients in most circumstances without reservation</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">1B</td>
+                        <td valign="top">Strong recommendation, moderate-quality evidence</td>
+                        <td valign="top">Benefits clearly outweigh risk and burdens, or vice versa</td>
+                        <td valign="top">RCTs with important limitations (inconsistent results, methodologic flaws, indirect, or imprecise) or exceptionally strong evidence from observational studies</td>
+                        <td valign="top">Strong recommendation, can apply to most patients in most circumstances without reservation</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">1C</td>
+                        <td valign="top">Strong recommendation, low-quality or very-low-quality evidence</td>
+                        <td valign="top">Benefits clearly outweigh risk and burdens, or vice versa</td>
+                        <td valign="top">Observational studies or case series</td>
+                        <td valign="top">Strong recommendation but may change when higher quality evidence becomes available</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">2A</td>
+                        <td valign="top">Weak recommendation, high-quality evidence</td>
+                        <td valign="top">Benefits closely balanced with risks and burdens</td>
+                        <td valign="top">RCTs without important limitations or overwhelming evidence from observational studies</td>
+                        <td valign="top">Weak recommendation, best action may differ depending on circumstances or patients' or societal values</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">2B </td>
+                        <td valign="top">Weak recommendation, moderate-quality evidence</td>
+                        <td valign="top">Benefits closely balanced with risks and burdens</td>
+                        <td valign="top">RCTs with important limitations (inconsistent results, methodologic flaws, indirect, or imprecise) or exceptionally strong evidence from observational studies</td>
+                        <td valign="top">Weak recommendation, best action may differ depending on circumstances or patients' or societal values</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">2C</td>
+                        <td valign="top">Weak recommendation, low-quality or very-low-quality evidence</td>
+                        <td valign="top">Uncertainty in the estimates of benefits and risk, and burdens; Risk, benefit, and burdens may be closely balanced</td>
+                        <td valign="top">Observational studies or case series</td>
+                        <td valign="top">Very weak recommendations; Other alternatives may be reasonable</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="Note"><strong>Note</strong>: Modified from Guyatt G, Gutterman D, Baumann MH, Addrizzo-Harris D, Hylek EM, Phillips B, et al. Grading strength of recommendations and quality of evidence in clinical guidelines: Report from an American College of Chest Physicians task force. Chest 2006;129:174-81.</p>
+            </td>
+        </tr>
+        <tr>
+            <th width="10%" class="Center" valign="top">UHMS<br />
+            (2015)</th>
+            <td valign="top" style="width: 90%;">
+            <p><strong><span style="text-decoration: underline;">Levels of Evidence</span></strong></p>
+            <p><strong>High</strong>: Further research is very unlikely to change confidence in the estimate of effect.</p>
+            <p><strong>Moderate</strong>: Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate of effect.</p>
+            <p><strong>Low</strong>: Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate of effect.</p>
+            <p><strong>Very low</strong>: Any estimate of effect is very uncertain.</p>
+            <p><strong><span style="text-decoration: underline;">Strength of Recommendations and Implications for the General Population, Healthcare Workers and Policy-Makers</span></strong></p>
+            <p><strong>Strong</strong></p>
+            <ul style="list-style-type: disc;">
+                <li><em>Population</em> - Most people in this situation would want the recommended course of action, and only a small proportion would not. </li>
+                <li><em>Healthcare Workers</em> - Most people should receive the recommended course of action. </li>
+                <li><em>Policy-makers</em> - The recommendation can be adapted as a policy in most situations. </li>
+            </ul>
+            <p><strong>Conditional</strong></p>
+            <ul style="list-style-type: disc;">
+                <li><em>Population</em> - The majority of people in this situation would want the recommended course of action, but many would not. </li>
+                <li><em>Healthcare Workers</em> - Be prepared to help people to make a decision that is consistent with their own values/decision aids and shared decision-making. </li>
+                <li><em>Policy-makers</em> - There is a need for substantial debate and involvement of stakeholders. </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="507" role="tab" aria-expanded="true" aria-controls="syn507"><a href="#">Methodology</a></h2>
+			<div class="accordion-panel is-active" id="syn507" role="tabpanel" aria-labelledby="507" ><table width="100%" border="1" cellspacing="1" cellpadding="8" summary="This table presents the comparison of methodology for each guideline in the synthesis.">
+    <tbody>
+        <tr>
+            <th valign="top" colspan="3" scope="col"><em>Click on the links below for details of guideline development methodology</em> </th>
+        </tr>
+        <tr>
+            <td class="Center" valign="top" style="width: 33%;">
+            <p><strong><a href="/summaries/summary/50459?#405" title="Guideline #11056" target="_blank">IWGDF</a><br />
+            (2016)</strong></p>
+            </td>
+            <td class="Center" valign="top">
+            <p><strong><a href="/summaries/summary/50181?#405" title="Guideline #10958" target="_blank">SVS/APMA/SVM</a><br />
+            (2016)</strong></p>
+            </td>
+            <td class="Center" valign="top" style="width: 33%;">
+            <p><strong><a href="/summaries/summary/49353?#405" title="Guideline #10736" target="_blank">UHMS</a><br />
+            (2015)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" colspan="3">
+            <p>The three guidelines are based on systematic reviews of the evidence with evidence tables; UHMS also conducted meta-analyses of observational trials and RCTs in order to analyze the selected evidence and inform development of guideline recommendations. The SVS/APMA/SVM guideline, which also addresses the prevention of diabetic foot ulcers, is based on five systematic reviews and meta-analyses. The IWGDF guidance, which also addresses prevention, offloading, peripheral artery disease and infection, is based on seven systematic reviews. Pertinent details of the literature search (databases; search terms; date ranges) and selection (number of studies identified and included; inclusion and exclusion criteria) processes are provided in all reviews. The strength of the selected evidence was weighted according to a rating scheme as part of the evidence assessment process during the development of the three guidelines; the respective rating schemes are provided. IWGDF, SVS/APMA/SVM and UHMS formulated the guideline recommendations using the GRADE system, and rate the strength of the individual recommendations according to a scheme. To validate the guidelines, all of the developers sought internal peer review; UHMS also sought external peer review.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="509" role="tab" aria-expanded="true" aria-controls="syn509"><a href="#">Benefits and Harms</a></h2>
+			<div class="accordion-panel is-active" id="syn509" role="tabpanel" aria-labelledby="509" ><p><a name="source"></a></p>
+<h3>Benefits</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="provides a comparison of recommendations considered by each group.">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top">IWGDF<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <p>Appropriate use of interventions to enhance the healing of chronic ulcers of the foot in diabetes</p>
+            <p>Refer to the discussion sections following each recommendation in the original guideline document for an assessment of balance of benefits and harms for individual recommendations.</p>
+            </td>
+        </tr>
+        <tr>
+            <th width="10%" class="Center" valign="top">SSVS/APMA/SVM<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <p>Patients treated with NPWT healed to closure faster, experienced significantly fewer secondary amputations, and required significantly fewer home care therapy days than patients treated with AMWT. RCTs and studies demonstrated reduced time to complete healing of DFUs, reduced duration and frequency of hospital admission, and decreased rate of amputation compared with AMWT/debridement; decreased healing time and improved quality of life; increased rate of appearance of granulation tissue; reduced length of hospitalization and reduced amputation rates with functional residual extremity; reduced time to granulation, clearing of bacterial infection, and successful granulation; and significant reduction in wound size compared with conventional therapy.</p>
+            </td>
+        </tr>
+        <tr>
+            <th width="10%" class="Center" valign="top">UHMS<br />
+            (2015)</th>
+            <td valign="top" style="width: 90%;">
+            <p>Appropriate use of HBO<sub>2</sub> therapy in the treatment of DFUs</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<h3>Harms</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="provides a comparison of recommendations considered by each group.">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top">IWGDF<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <p>Potential adverse effects of NPWT include wound maceration, retention of dressings and wound infection.</p>
+            <p>Refer to the discussion sections following each recommendation in the original guideline document for an assessment of balance of benefits and harms for individual recommendations.</p>
+            </td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">SVS/APMA/SVM<br />
+            (2016)</th>
+            <td valign="top">
+            <ul style="list-style-type: disc;">
+                <li>Adverse effects such as maceration, infection, or further loss of tissue should prompt a change in wound dressing modality. </li>
+                <li>Adverse events of PDGF use were rare, and the only medication related event was local tissue sensitivity in 2%. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th width="10%" class="Center" valign="top">UHMS<br />
+            (2015)</th>
+            <td valign="top" style="width: 90%;">
+            <p>There are obviously some adverse events that are solely related to HBO<sub>2</sub> and would not be seen in patients treated with alternative therapies (i.e., barotrauma, central nervous system oxygen toxicity, hyperoxic myopia). Data from one management company revealed 463,293 monoplace hyperbaric chamber treatments of 17,267 patients from 2009-2010. In 2009, there were 916 adverse events reported for 207,479 treatments in 7,781 patients (adverse event rate of 0.44%), and in 2010 there were 954 adverse events reported for 255,814 treatments in 9.296 patients (adverse event rate of 0.37%). In order of decreasing rate of occurrence were ear pain (20 per 10,000 treatments), confinement anxiety (eight per 10,000), hypoglycemic events (five per 10,000), shortness of breath (two per 10,000), seizures (two per 10,000), sinus pain (one per 10,000), and chest pain (one per 10,000). Overall, the risk of adverse events from HBO<sub>2</sub> can be considered to be very low and self-limited when they do occur.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="510" role="tab" aria-expanded="true" aria-controls="syn510"><a href="#">Contraindications</a></h2>
+			<div class="accordion-panel is-active" id="syn510" role="tabpanel" aria-labelledby="510" ><table width="100%" border="1" cellspacing="1" cellpadding="8" summary="This table presents the contraindications for each guideline.">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top">IWGDF<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <p>Severe ischemia is a relative contraindication to the use of sharp debridement for removing slough, necrotic tissue and surrounding callus.</p>
+            </td>
+        </tr>
+        <tr>
+            <th width="10%" class="Center" valign="top">SVS/APMA/SVM<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <p>Not stated</p>
+            </td>
+        </tr>
+        <tr>
+            <th width="10%" class="Center" valign="top">UHMS<br />
+            (2015)</th>
+            <td valign="top" style="width: 90%;">
+            <p>Not stated</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="511" role="tab" aria-expanded="true" aria-controls="syn511"><a href="#">Abbreviations</a></h2>
+			<div class="accordion-panel is-active" id="syn511" role="tabpanel" aria-labelledby="511" ><p>AMWT, advanced moist wound therapy</p>
+<p>DFU, diabetic foot ulcer</p>
+<p>GRADE, Grading of Recommendations Assessment, Development and Evaluation</p>
+<p>HBO<sub>2</sub>, hyperbaric oxygen</p>
+<p>IDSA, Infectious Diseases Society of America</p>
+<p>IWGDF, International Working Group on the Diabetic Foot</p>
+<p>NPWT, negative pressure wound therapy</p>
+<p>PAD, peripheral arterial disease</p>
+<p>PDGF, platelet-derived growth factor</p>
+<p>RCT, randomized controlled trial</p>
+<p>SVS/APMA/SVM, Society for Vascular Surgery/American Podiatric Medical Association/Society for Vascular Medicine</p>
+<p>UHMS, Undersea and Hyperbaric Medical Society</p></div>
+			<h2 class="accordion-title is-active" id="512" role="tab" aria-expanded="true" aria-controls="syn512"><a href="#">Status</a></h2>
+			<div class="accordion-panel is-active" id="syn512" role="tabpanel" aria-labelledby="512" ><p>This synthesis was prepared by ECRI Institute on April 14, 2017. The information was verified by IWGDF on May 15, 2017, by SVS/APMA/SVM on May 22, 2017, and by UHMS on May 26, 2017.</p></div>
+	</div><!-- accordion-container -->
+
+<!-- ASIDE -->
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	<!-- About NGC -->
+	<div class="info-block">
+			<h3 class="info prefix-icon large-icon">About NGC Guideline Syntheses</h3>
+			<p>Syntheses are systematic comparisons of selected guidelines that address similar topics. For definitions of synthesis attributes, see the 
+                <a href="/syntheses/template">Guideline Synthesis Template</a>.    
+            </p>
+	</div><!-- /info-block -->
+	<hr>
+
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+		<ul class="subscribe-links">
+            <li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/rssFiles/ngc_newthisweek.xml" class="rss icon-feed"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div><!-- /.subscribable -->
+
+	<!-- New this Week -->
+	<a href="/new-this-week" class="block-link">
+		<h4>New this Week</h4>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

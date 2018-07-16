@@ -1,0 +1,762 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Management of Acute Uncomplicated Diverticulitis | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+	<div class="content-header">
+		<ul class="content-header-meta">
+			<li class="prefix-icon large-icon synthesis">Guideline Synthesis</li>
+		</ul>
+		<h1>Management of Acute Uncomplicated Diverticulitis</h1>
+	</div><!-- /.content-header -->
+
+	<!-- COMPARED LIST-->
+		<p>Guidelines Being Compared:</p>
+		<ul class="compared-list"> 
+				<li>
+                    <p class="compared-list-org">American Gastroenterological Association Institute (AGAI)</p>
+					<p class="compared-list-title">American Gastroenterological Association Institute guideline on the management of acute diverticulitis.</p>
+                    <p class="compared-list-org">2015 Dec 01</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/50113">View Summary</a></p>					
+				</li>
+				<li>
+                    <p class="compared-list-org">American Society of Colon and Rectal Surgeons (ASCRS)</p>
+					<p class="compared-list-title">Practice parameters for the treatment of sigmoid diverticulitis.</p>
+                    <p class="compared-list-org">2014 Mar 01</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/47822">View Summary</a></p>					
+				</li>
+		</ul><!-- /.compared-list -->
+			
+	<!-- TOOLBAR -->
+	<div class="content-toolbar">
+		<!-- Primary -->
+		<ul class="tools primary-tools">
+			<li class="dropdown tool sections">
+				<a href="#" class="tool-button">Sections</a>
+				<div class="dropdown-panel">
+						<ul class="section-links">
+								<li><a href="#504" class="section-mark">Areas of Agreement and Difference</a></li>
+								<li><a href="#505" class="section-mark">Comparison of Recommendations</a></li>
+								<li><a href="#506" class="section-mark">Strength of Evidence and Recommendation Grading Schemes</a></li>
+								<li><a href="#507" class="section-mark">Methodology</a></li>
+								<li><a href="#509" class="section-mark">Benefits and Harms</a></li>
+								<li><a href="#511" class="section-mark">Abbreviations</a></li>
+								<li><a href="#512" class="section-mark">Status</a></li>
+						</ul>    
+				</div><!-- /.dropdown-panel -->
+			</li>
+		</ul><!-- /.tools primary-tools -->
+
+		<!-- Other -->
+		<ul class="tools other-tools">
+			<li class="dropdown tool">
+				<a href="#" class="tool-button">Share</a>
+				<div class="dropdown-panel">
+					<ul class="toolbar-social">
+						<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/syntheses/synthesis/50577" class="facebook">Facebook</a></li>
+						<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.guideline.gov/syntheses/synthesis/50577" class="twitter">Twitter</a></li>
+						<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.guideline.gov/syntheses/synthesis/50577&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+						<li><a href="mailto:?Subject=AHRQ: Management of Acute Uncomplicated Diverticulitis&body=https://www.guideline.gov/syntheses/synthesis/50577" class="email">Email</a></li>
+					</ul><!-- /.toolbar-social -->
+				</div><!-- /.dropdown-panel -->
+			</li>
+			<li class="dropdown tool">
+				<a href="#" class="tool-button">Cite</a>
+				<div class="dropdown-panel citation">
+				    <p class="text-label"><label for="citation">Citation: </label></p>
+					<textarea id="citation">Internet citation: National Guideline Clearinghouse (NGC). Guideline synthesis: Management of acute uncomplicated diverticulitis. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): 2016 Dec [cited YYYY Mon DD]. Available: http://www.guideline.gov.</textarea>
+				</div><!-- /.dropdown-panel -->
+			</li>
+		</ul><!-- /.tools other-tools -->
+
+		<!-- Accordion tools -->
+		<ul class="tools accordion-controls">
+			<li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+			<li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+		</ul><!-- /.accordion-controls -->
+	</div><!-- /.toolbar -->            
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+	<!-- ACCORDION -->
+	<div class="accordion-container" role="tablist" multiselectable="true">
+			<h2 class="accordion-title is-active" id="504" role="tab" aria-expanded="true" aria-controls="syn504"><a href="#">Areas of Agreement and Difference</a></h2>
+			<div class="accordion-panel is-active" id="syn504" role="tabpanel" aria-labelledby="504" ><a name="areasofagreementanddifference"></a>
+<p>A direct comparison of recommendations presented in the above guidelines for the management of acute uncomplicated diverticulitis is provided. The ASCRS guideline also provides recommendations for the initial evaluation of acute diverticulitis and management of complicated disease&mdash;topics which are beyond the scope of this synthesis. See the ASCRS guideline summary for recommendations on these topics.</p>
+<h3><a name="agreement"></a>Areas of Agreement</h3>
+<h4>Use of Antibiotics</h4>
+<p>AGAI and ASCRS acknowledge that antibiotics have historically been the cornerstone of acute diverticulitis treatment, and discuss the emerging view that the disease may be a primary inflammatory&mdash;rather than an infectious&mdash;process. Both guideline developers cite a 2012 randomized trial and systematic review that reported no clear benefit of routine antibiotic use in the treatment of acute uncomplicated diverticulitis. AGAI also cites more recent (2014) evidence supporting this alternative (inflammatory) pathogenesis of the disease. On the basis of the available data, the guideline developers agree that antibiotic therapy may be appropriate as part of the nonoperative treatment of acute uncomplicated diverticulitis, but that routine antibiotic use in this context can no longer be recommended. AGAI and ASCRS both acknowledge the low quality of current data and note that guidance may change when higher-quality evidence becomes available.</p>
+<h4>Colonoscopy After Recovery from Acute Diverticulitis</h4>
+<p>AGAI and ASCRS address the use of colonoscopy following resolution of acute diverticulitis in order to exclude other diagnoses&mdash;most notably colonic neoplasia&mdash;in patients who have not recently undergone a high-quality colon examination. On the basis of low-quality evidence, the guideline developers are in agreement that colonoscopy may be appropriate in this context and should be considered. AGAI cites the following factors that may influence the decision to perform a colonoscopy after an episode of acute diverticulitis: timing and completeness of a prior colonoscopy; comorbidities; persistent symptoms of abdominal pain or diarrhea; and patient preferences. In the absence of data informing the optimal timing of follow-up colonoscopy, both AGAI and ASCRS agree that 6 to 8 weeks following resolution of the acute episode is an appropriate and commonly followed interval.</p>
+<h4>Recurrence Prevention</h4>
+<p>According to ASCRS, while limited evidence suggests a protective benefit for supplemental fiber, rifaximin, antispasmodics, mesalamine, and probiotics, their role in the prevention of diverticulitis remains to be defined. AGAI addresses several of these agents and, similarly to ASCRS, does not recommend routine use of any. With regard to dietary fiber supplementation, AGAI states that although both the certainty and the magnitude of its benefit in patients with acute uncomplicated diverticulitis are difficult to ascertain based on very low-quality evidence, the intake of a high-fiber diet or fiber supplementation is unlikely to pose a substantial risk to patients. In light of the very low-quality evidence base, patient preferences and side effects of fiber such as abdominal bloating should be considered when counseling a patient, adds the developer. Also on the basis of very low quality evidence, AGAI conditionally suggests against the routine use of rifaximin and probiotics in patients with acute uncomplicated diverticulitis in order to reduce recurrence rates. AGAI makes a <strong>Strong</strong> recommendation against the use of mesalamine after acute uncomplicated diverticulitis. According to the developer, the currently available evidence, moderate in quality and more robust than for most of the other agents evaluated, does not suggest efficacy in reducing the risk of recurrence, resolution of pain, or need for surgery in patients with acute uncomplicated diverticulitis.</p>
+<p>AGAI also addresses the following interventions, all of which are based on data derived from observational studies of incident episodes of diverticulitis: consumption of nuts and popcorn; aspirin use; nonaspirin NSAID use; and vigorous physical activity. Citing a lack of compelling evidence, AGAI suggests against routinely advising patients with a history of acute diverticulitis to avoid consumption of nuts and popcorn, as well as the use of aspirin. Vigorous physical activity and avoidance of nonaspirin NSAIDs are, however, suggested by the developer.</p>
+<h4>Elective Colonic Resection</h4>
+<p>AGAI and ASCRS agree that the decision to recommend elective, prophylactic colonic resection after recovery from an initial episode of acute uncomplicated diverticulitis should be individualized. AGAI suggests against it, stating that while a reduction in risk of recurrent diverticulitis after elective surgery may exist, the magnitude of this benefit is difficult to ascertain based on limited data. Both guideline developers address the higher incidence of recurrent diverticulitis in young people and associated poor clinical outcomes&mdash;factors which have historically been used as indications for elective surgery following acute diverticulitis. Both AGAI and ASCRS challenge this notion, citing more recent data that do not support elective surgery in this patient population following acute uncomplicated diverticulitis. As such, ASCRS makes a strong recommendation against routine elective resection based on young age (&lt;50 years). This recommendation focuses on discouraging the use of age as the sole factor in determining management strategies. The guideline developers cite diverticulitis-specific factors that should be considered as part of the shared decision-making process. In addition to age and patient preference, AGAI names immunosuppression and access to medical care for recurrent diverticulitis as aspects to consider. ASCRS cites the effects on lifestyle (professional and personal) imposed by recurrent attacks, severity of attacks, inability to exclude carcinoma, as well as chronic or lingering symptoms that may constitute "smoldering" disease. ASCRS also addresses immunosuppressed patients, a subgroup in which medical management is more likely to fail. The developer recommends that surgeons maintain a low threshold to recommend operative intervention as definitive treatment during the first hospitalization for acute diverticulitis in these patients.</p>
+<h3><a name="difference"></a>Areas of Difference</h3>
+<p>There are no significant areas of disagreement between the guidelines.</p></div>
+			<h2 class="accordion-title is-active" id="505" role="tab" aria-expanded="true" aria-controls="syn505"><a href="#">Comparison of Recommendations</a></h2>
+			<div class="accordion-panel is-active" id="syn505" role="tabpanel" aria-labelledby="505" ><p><h3>Management of Acute Uncomplicated Diverticulitis</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="provides a comparison of recommendations considered by each group.">
+    <tbody>
+        <tr>
+            <th width="10%" valign="top" headers="management">AGAI<br />
+            (2015)</th>
+            <td valign="top" style="width: 90%;" headers="management">
+            <p><strong>Question 1.</strong> Should antibiotics be routinely used in patients with acute uncomplicated diverticulitis?</p>
+            <p>The AGA Institute suggests that antibiotics should be used selectively, rather than routinely, in patients with acute uncomplicated diverticulitis. (<strong>Conditional recommendation, Low quality of evidence</strong>).</p>
+            <p><strong>Question 2</strong>. Should a colonoscopy be performed after an episode of acute diverticulitis confirmed by CT scan?</p>
+            <p>The AGA suggests that colonoscopy be performed after resolution of acute diverticulitis in appropriate candidates to exclude the misdiagnosis of a colonic neoplasm if a high-quality examination of the colon has not been recently performed. (<strong>Conditional recommendation, Low quality of evidence</strong>).</p>
+            <p><strong>Question 3</strong>. Should elective colonic resection be performed after an initial episode of acute uncomplicated diverticulitis?</p>
+            <p>The AGA suggests against elective colonic resection in patients with an initial episode of acute uncomplicated diverticulitis. The decision to perform elective prophylactic colonic resection in this setting should be individualized. (<strong>Conditional recommendation, Very low quality of evidence</strong>).</p>
+            <p><strong>Question 4</strong>. Should a high fiber diet, rather than a regular diet, be advised in patients with a history of acute diverticulitis?</p>
+            <p>The AGA suggests a fiber-rich diet or fiber supplementation in patients with a history of acute diverticulitis. (<strong>Conditional recommendation, Very low quality of evidence</strong>).</p>
+            <p><strong>Question 5</strong>. Should consumption of nuts and popcorn be avoided in patients with a history of acute diverticulitis?</p>
+            <p>The AGA suggests against routinely advising patients with a history of acute diverticulitis to avoid consumption of nuts and popcorn. (<strong>Conditional recommendation, Very low quality of evidence</strong>).</p>
+            <p><strong>Question 6</strong>. Should aspirin be avoided in patients with a history of acute diverticulitis?</p>
+            <p>The AGA suggests against routinely advising patients with a history of acute diverticulitis to avoid the use of aspirin. (<strong>Conditional recommendation, Very low quality of evidence</strong>).</p>
+            <p><strong>Question 7</strong>. Should nonaspirin NSAIDs be avoided in patients with a history of acute diverticulitis?</p>
+            <p>The AGA suggests advising patients with a history of diverticulitis to avoid the use of nonaspirin NSAIDs if possible. (<strong>Conditional recommendation, Very low quality of evidence</strong>).</p>
+            <p><strong>Question 8</strong>. Should mesalamine rather than placebo be used in patients with a history of acute uncomplicated diverticulitis?</p>
+            <p>The AGA recommends against the use of mesalamine after acute uncomplicated diverticulitis. (<strong>Strong recommendation, Moderate quality of evidence</strong>).</p>
+            <p><strong>Question 9</strong>. Should rifaximin rather than placebo be used in patients with a history of acute uncomplicated diverticulitis?</p>
+            <p>The AGA suggests against the use of rifaximin after acute uncomplicated diverticulitis. (<strong>Conditional recommendation, Very low quality of evidence</strong>).</p>
+            <p><strong>Question 10</strong>. Should probiotics rather than placebo be used in patients with a history of acute uncomplicated diverticulitis?</p>
+            <p>The AGA suggests against the use of probiotics after acute uncomplicated diverticulitis. (<strong>Conditional recommendation, Very low quality of evidence</strong>).</p>
+            <p><strong>Question 11</strong>. Should vigorous physical activity rather than regular activity be encouraged in patients with a history of acute diverticulitis?</p>
+            <p>The AGA suggests advising patients with diverticular disease to consider vigorous physical activity. (<strong>Conditional recommendation, Very low quality of evidence</strong>).</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top" headers="management">ASCRS<br />
+            (2014)</th>
+            <td valign="top" headers="management">
+            <p class="Note"><strong>Note</strong>: See the <a href="/summaries/summary/47822" title="Guideline #10240" target="_blank">NGC guideline summary</a> for recommendations on the initial evaluation of acute diverticulitis and the management of complicated disease&mdash;topics which are beyond the scope of this synthesis.</p>
+            <p><strong>Medical Treatment of Acute Diverticulitis</strong></p>
+            <ul style="list-style-type: disc;">
+                <li>Nonoperative treatment typically includes oral or intravenous antibiotics and diet modification. <strong>Grade of Recommendation: Strong recommendation based on low-quality evidence, 1C</strong>. </li>
+            </ul>
+            <p><strong>Evaluation After Recovery from Acute Diverticulitis</strong></p>
+            <ul style="list-style-type: disc;">
+                <li>After resolution of an episode of acute diverticulitis, the colon should typically be endoscopically evaluated to confirm the diagnosis, if this is a first episode or recent colonoscopy has not been performed. <strong>Grade of Recommendation: Strong recommendation based on low-quality evidence, 1C</strong>. </li>
+            </ul>
+            <p><strong>Elective Surgery for Acute Diverticulitis</strong></p>
+            <ul style="list-style-type: disc;">
+                <li>The decision to recommend elective sigmoid colectomy after recovery from uncomplicated acute diverticulitis should be individualized. <strong>Grade of Recommendation: Strong recommendation based on moderate-quality evidence, 1B</strong>. </li>
+                <li>Routine elective resection based on young age (&lt;50 years) is no longer recommended. <strong>Grade of Recommendation: Strong recommendation based on low-quality evidence, 1C</strong>. </li>
+            </ul>
+            <p><strong>Technical Considerations</strong></p>
+            <ul style="list-style-type: disc;">
+                <li>The extent of elective resection should include the entire sigmoid colon with margins of healthy colon and rectum. <strong>Grade of Recommendation: Strong recommendation based on low-quality evidence, 1C</strong>. </li>
+                <li>When expertise is available, the laparoscopic approach to elective colectomy for diverticulitis is preferred. <strong>Grade of Recommendation: Strong recommendation based on high-quality evidence, 1A</strong>. </li>
+                <li>A leak test of the colorectal anastomosis should be performed during surgery for sigmoid diverticulitis. <strong>Grade of Recommendation: Strong recommendation based on low-quality evidence, 1C</strong>. </li>
+                <li>Ureteral stents are used at the discretion of the surgeon. <strong>Grade of Recommendation: Weak recommendation based on low-quality evidence, 2C</strong>. </li>
+                <li>Oral mechanical bowel preparation is not required; however, the use of oral antibiotics may decrease surgical site infections after elective colon resection. <strong>Grade of Recommendation: Strong recommendation based on moderate-quality evidence, 1B</strong>. </li>
+                <li>Elective colectomy for diverticulitis may be performed by sparing the superior hemorrhoidal artery or according to cancer surgery principles. <strong>Grade of Recommendation: Strong recommendation based on low-quality evidence, 1C</strong>. </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table></p></div>
+			<h2 class="accordion-title is-active" id="506" role="tab" aria-expanded="true" aria-controls="syn506"><a href="#">Strength of Evidence and Recommendation Grading Schemes</a></h2>
+			<div class="accordion-panel is-active" id="syn506" role="tabpanel" aria-labelledby="506" ><p><a name="strength"></a></p>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="This table presents the rating schemes used by the guideline groups to rate the level of evidence and/or the strength of the recommendations.">
+    <tbody>
+        <tr>
+            <th width="10%" class="SynthesesCellGrayBlack" valign="top">AGAI<br />
+            (2015)</th>
+            <td valign="top" style="width: 90%;">
+            <p><strong><span style="text-decoration: underline;">Grading of Recommendations Assessment, Development and Evaluation (GRADE) Categories of Quality of Evidence</span></strong></p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: Grading of Recommendations Assessment, Development and Evaluation (GRADE) Categories of Quality of Evidence">
+                <tbody>
+                    <tr>
+                        <th valign="top" scope="row">High</th>
+                        <td valign="top">The Committee is very confident that the true effect lies close to that of the estimate of the effect.</td>
+                    </tr>
+                    <tr>
+                        <th valign="top" scope="row">Moderate</th>
+                        <td valign="top">The Committee is moderately confident in the effect estimate. The true effect is likely to be close to the estimate of the effect, but there is a possibility that it is substantially different.</td>
+                    </tr>
+                    <tr>
+                        <th valign="top" scope="row">Low</th>
+                        <td valign="top">The Committee's confidence in the effect estimate is limited. The true effect may be substantially different from the estimate of the effect.</td>
+                    </tr>
+                    <tr>
+                        <th valign="top" scope="row">Very low</th>
+                        <td valign="top">The Committee has very little confidence in the effect estimate. The true effect is likely to be substantially different from the estimate of effect.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><strong><span style="text-decoration: underline;">GRADE Categories of Strength of Recommendation</span></strong></p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: GRADE Categories of Strength of Recommendation">
+                <thead>
+                    <tr>
+                        <th valign="top">&nbsp;</th>
+                        <th valign="top" scope="col">For the Patient</th>
+                        <th valign="top" scope="col">For the Clinician</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th valign="top" scope="row">Strong</th>
+                        <td valign="top">Most individuals in this situation would want the recommended course of action and only a small proportion would not. </td>
+                        <td valign="top">Most individuals should receive the recommended course of action. Formal decision aids are not likely to be needed to help individuals make decisions consistent with their values and preferences.</td>
+                    </tr>
+                    <tr>
+                        <th valign="top" scope="row">Conditional</th>
+                        <td valign="top">The majority of individuals in this situation would want the suggested course of action, but many would not.</td>
+                        <td valign="top">Different choices will be appropriate for different patients. Decision aids may well be useful helping individuals making decisions consistent with their values and preferences. Clinicians should expect to spend more time with patients when working towards a decision.</td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <tr>
+            <th class="SynthesesCellGrayBlack" valign="top">ASCRS<br />
+            (2014)</th>
+            <td valign="top">
+            <p><strong><span style="text-decoration: underline;">The Grading of Recommendations Assessment, Development and Evaluation (GRADE) System&ndash;Grading Recommendations</span><sup>a</sup></strong></p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: The Grading of Recommendations Assessment, Development and Evaluation (GRADE) System–Grading Recommendations">
+                <thead>
+                    <tr>
+                        <th width="5%" valign="top">&nbsp;</th>
+                        <th class="Center" valign="top">Description</th>
+                        <th class="Center" valign="top">Benefit vs Risk and Burdens</th>
+                        <th class="Center" valign="top">Methodological Quality of Supporting Evidence</th>
+                        <th class="Center" valign="top">Implications</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="Center" valign="top">1A</td>
+                        <td valign="top">Strong recommendation, high-quality evidence</td>
+                        <td valign="top">Benefits clearly outweigh risk and burdens or vice versa</td>
+                        <td valign="top">RCTs without important limitations or overwhelming evidence from observational studies</td>
+                        <td valign="top">Strong recommendation, can apply to most patients in most circumstances without reservation</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">1B</td>
+                        <td valign="top">Strong recommendation, moderate-quality evidence</td>
+                        <td valign="top">Benefits clearly outweigh risk and burdens or vice versa</td>
+                        <td valign="top">RCTs with important limitations (inconsistent results, methodological flaws, indirect or imprecise) or exceptionally strong evidence from observational studies</td>
+                        <td valign="top">Strong recommendation, can apply to most patients in most circumstances without reservation</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">1C</td>
+                        <td valign="top">Strong recommendation, low- or very-low-quality evidence</td>
+                        <td valign="top">Benefits clearly outweigh risk and burdens or vice versa</td>
+                        <td valign="top">Observational studies or case series</td>
+                        <td valign="top">Strong recommendation but may change when higher quality evidence becomes available</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">2A</td>
+                        <td valign="top">Weak recommendation, high-quality evidence</td>
+                        <td valign="top">Benefits closely balanced with risks and burdens</td>
+                        <td valign="top">RCTs without important&nbsp;limitations or overwhelming evidence from observational studies</td>
+                        <td valign="top">Weak recommendation, best action may differ depending on circumstances or patients' or societal values</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">2B</td>
+                        <td valign="top">Weak recommendations, moderate-quality evidence</td>
+                        <td valign="top">Benefits closely balanced with risks and burdens</td>
+                        <td valign="top">RCTs with important limitations (inconsistent results, methodological flaws, indirect or imprecise) or exceptionally strong evidence from observational studies</td>
+                        <td valign="top">Weak recommendation, best action may differ depending on circumstances or patients' or societal values</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">2C</td>
+                        <td valign="top">Weak recommendation, low- or very-low-quality evidence</td>
+                        <td valign="top">Uncertainty in the estimates of benefits, risks and burden; benefits, risk, and burden may be closely balanced</td>
+                        <td valign="top">Observational studies or case series</td>
+                        <td valign="top">Very weak recommendations, other alternatives may be equally reasonable</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="Note">RCT = randomized controlled trial.</p>
+            <p class="Note"><sup>a</sup>Adapted from Guyatt G, Gutterman D, Baumann MH, et al. Grading strength of recommendations and quality of evidence in clinical guidelines: report from an American College of Chest Physicians Task Force. Chest. 2006;129:174&ndash;181. Used with permission.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="507" role="tab" aria-expanded="true" aria-controls="syn507"><a href="#">Methodology</a></h2>
+			<div class="accordion-panel is-active" id="syn507" role="tabpanel" aria-labelledby="507" ><table width="100%" border="1" cellspacing="1" cellpadding="8" summary="This table presents the comparison of methodology for each guideline in the synthesis.">
+    <tbody>
+        <tr>
+            <th class="SynthesesCellGreen" valign="top" colspan="2" scope="col"><em>Click on the links below for details of guideline development methodology</em> </th>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">
+            <p><strong><a href="/summaries/summary/50113?#405" title="Guideline #10931" target="_blank">AGAI</a><br />
+            (2015)</strong></p>
+            </td>
+            <td class="Center" valign="top">
+            <p><strong><a href="/summaries/summary/47822?#405" title="Guideline #10240" target="_blank">ASCRS</a><br />
+            (2014)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" colspan="2">
+            <p>The AGAI guideline was developed from a systematic review of the evidence, details of which are provided in a separate technical report (see the &ldquo;Availability of Companion Documents&rdquo; field of the NGC summary). AGAI also performed an original meta-analysis and reviewed published meta-analyses to inform the guideline recommendations. The AGAI technical review contains all of the relevant methodological information regarding the search, selection and evidence analyses processes, including evidence tables. ASCRS provides details of the literature search conducted for the diverticulitis guideline, including the names of databases searched, search terms used and date range applied. To assess the quality and strength of the evidence, both AGAI and ASCRS weighted it according to a rating scheme and provide the scheme. The guideline developers employed expert consensus in order to formulate the guideline recommendations. Both AGAI and ASCRS also categorize the strength of the individual recommendations using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) methodology and provide the rating scheme. AGAI sought both external and internal peer review in order to validate its guideline; a description of the validation process is provided.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="509" role="tab" aria-expanded="true" aria-controls="syn509"><a href="#">Benefits and Harms</a></h2>
+			<div class="accordion-panel is-active" id="syn509" role="tabpanel" aria-labelledby="509" ><p><a name="source"></a></p>
+<h3>Benefits</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="provides a comparison of recommendations considered by each group.">
+    <tbody>
+        <tr>
+            <th width="10%" valign="top">AGAI<br />
+            (2015)</th>
+            <td valign="top" style="width: 90%;">
+            <ul style="list-style-type: disc;">
+                <li>Appropriate management of acute diverticulitis </li>
+                <li>Possible reduction in risk of recurrent diverticulitis </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">ASCRS<br />
+            (2014)</th>
+            <td valign="top">
+            <p>Appropriate evaluation and treatment of patients with sigmoid diverticulitis</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<h3>Harms</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="provides a comparison of recommendations considered by each group.">
+    <tbody>
+        <tr>
+            <th width="10%" valign="top">AGAI<br />
+            (2015)</th>
+            <td valign="top" style="width: 90%;">
+            <ul style="list-style-type: disc;">
+                <li>Aspirin use may cause a slightly increased risk of occurrence of any episode of diverticulitis. </li>
+                <li>NSAID use may cause a moderately increased risk of occurrence of any episode of diverticulitis and complicated diverticulitis. </li>
+                <li>Although an increased risk of recurrent diverticulitis or colonic perforation is a concern in patients undergoing colonoscopy after an episode of acute diverticulitis, this was not reported as an adverse event in the available literature. </li>
+                <li>Approximately 10% of patients managed with elective sigmoid resection after an episode of acute diverticulitis experience short-term complications of surgery, including wound infection, anastomotic leak, and cardiovascular/thrombotic events. Such postoperative risks are increased in patients older than 65 years of age. </li>
+                <li>Long-term complications of abdominal distention, cramping, altered defecation, and fecal incontinence are reported in 25% of patients after elective surgery. </li>
+                <li>Side effects of fiber such as abdominal bloating </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">ASCRS<br />
+            (2014)</th>
+            <td valign="top">
+            <p>The decision to recommend elective surgery should be individualized to each patient and should consider the risks of operative therapy. Potential poor functional outcomes and persistent abdominal symptoms after elective sigmoid colectomy for diverticulitis should be considered as well.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="511" role="tab" aria-expanded="true" aria-controls="syn511"><a href="#">Abbreviations</a></h2>
+			<div class="accordion-panel is-active" id="syn511" role="tabpanel" aria-labelledby="511" ><p>AGAI, American Gastroenterological Association Institute</p>
+<p>ASCRS, American Society of Colon and Rectal Surgeons</p>
+<p>CT, computed tomography</p>
+<p>GRADE, Grading of Recommendations Assessment, Development and Evaluation</p>
+<p>NSAID, nonsteroidal anti-inflammatory drug</p>
+<p>RCT, randomized controlled trial</p></div>
+			<h2 class="accordion-title is-active" id="512" role="tab" aria-expanded="true" aria-controls="syn512"><a href="#">Status</a></h2>
+			<div class="accordion-panel is-active" id="syn512" role="tabpanel" aria-labelledby="512" ><p>This synthesis was prepared by ECRI on December 6, 2016. The information was verified by AGAI on December 8, 2016 and by ASCRS on December 22, 2016.</p></div>
+	</div><!-- accordion-container -->
+
+<!-- ASIDE -->
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	<!-- About NGC -->
+	<div class="info-block">
+			<h3 class="info prefix-icon large-icon">About NGC Guideline Syntheses</h3>
+			<p>Syntheses are systematic comparisons of selected guidelines that address similar topics. For definitions of synthesis attributes, see the 
+                <a href="/syntheses/template">Guideline Synthesis Template</a>.    
+            </p>
+	</div><!-- /info-block -->
+	<hr>
+
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+		<ul class="subscribe-links">
+            <li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/rssFiles/ngc_newthisweek.xml" class="rss icon-feed"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div><!-- /.subscribable -->
+
+	<!-- New this Week -->
+	<a href="/new-this-week" class="block-link">
+		<h4>New this Week</h4>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

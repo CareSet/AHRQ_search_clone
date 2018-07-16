@@ -1,0 +1,728 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Recommendations for Initiating Antiretroviral Therapy Reflect Return to Earlier Treatment Methods | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>July 30, 2012</li>
+			</ul>
+			<h1>Recommendations for Initiating Antiretroviral Therapy Reflect Return to Earlier Treatment Methods</h1>
+			<p class="byline">By: Matthew Bidwell Goetz, MD</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/expert/expert-commentary/37872/recommendations-for-initiating-antiretroviral-therapy-reflect-return-to-earlier-treatment-methods" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.guideline.gov/expert/expert-commentary/37872/recommendations-for-initiating-antiretroviral-therapy-reflect-return-to-earlier-treatment-methods" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.guideline.gov/expert/expert-commentary/37872/recommendations-for-initiating-antiretroviral-therapy-reflect-return-to-earlier-treatment-methods&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Recommendations for Initiating Antiretroviral Therapy Reflect Return to Earlier Treatment Methods&body=https://www.guideline.gov/expert/expert-commentary/37872/recommendations-for-initiating-antiretroviral-therapy-reflect-return-to-earlier-treatment-methods" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (0)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>The Department of Health and Human Services (DHHS) <a href="/content.aspx?id=36814" title="Guideline #9029">Guidelines for the Use of Antiretroviral Agents in Human Immunodeficiency Virus (HIV)-1-infected adults and adolescents</a>, (<a href="#ref">1</a>) updated at least once a year, provide the most current and comprehensive summary of the state of the evidence in this rapidly changing field.</p>
+<p>Among the many updates provided with this DHHS guidance, perhaps the most carefully watched changes are those related to timing of the initiation of antiretroviral therapy (ART). For example, in this update, previously divided panelists united in favor of stronger recommendations regarding the initiation of ART in persons with 350 to 500 CD4<sup>+</sup> cells/&mu;L or with over 500 CD4<sup>+</sup> cells/&mu;L. The changes to the recommendations are summarized in Table 1 below (see Appendix A at the end of the Commentary for the recommendation rating scheme):</p>
+<p><strong>Table 1: Changes to Recommendations Ratings</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table 1: Changes to Recommendations Ratings">
+    <thead>
+        <tr>
+            <th class="Center" valign="top">CD4 count</th>
+            <th class="Center" valign="top">March 2012 Recommendation Ratings</th>
+            <th class="Center" valign="top">Prior Recommendation Ratings</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="Center" valign="top">350 to 500 CD4<sup>+</sup> cells/&mu;L</td>
+            <td class="Center" valign="top">AII</td>
+            <td class="Center" valign="top">AII (55% of panelists)<br />
+            BII (45% of panelists) </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">&gt; 500 CD4<sup>+</sup> cells/&mu;L</td>
+            <td class="Center" valign="top">BIII</td>
+            <td class="Center" valign="top">BIII (50% of panelists)<br />
+            CIII (50% of panelists) </td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note">Source: This table was created by the author for this commentary.</p>
+<p>These recommendation changes reflect a continued shift of the guideline recommendations toward earlier treatment for HIV-infected persons. In the late 1990s recommendations regarding the use of highly active combination ART (referred to as HAART or sometimes cART) included persons with &gt;500 CD4<sup>+</sup> cells/&mu;L. (<a href="#ref">2</a>) It soon became apparent, however, that available antiretroviral therapy was not curative, that therapy required a lifelong commitment, and that strict medication adherence was necessary to prevent the development of extensive antiretroviral resistance. Furthermore, medical disorders (e.g., lipodystrophy, metabolic syndrome, peripheral neuropathy, lactic acidosis, and cardiovascular disease) were frequent complications of therapy. The combination of relatively low rates of HIV-related complications in treatment-na&iuml;ve persons with higher CD4<sup>+</sup> counts and these observations led to more conservative treatment guidelines, which limited antiretroviral therapy mostly to persons whose CD4<sup>+</sup> count had fallen to &lt;200 to 350 cells/&mu;L. (<a href="#ref">3</a>)</p>
+<p>The pendulum, however, has swung back in favor of earlier methods of treatment. Increased rates of disease due to comorbidities such as non-acquired immune deficiency syndrome (AIDS)-defining malignancies, vascular, kidney, and liver disease in HIV-infected persons with 350-500 CD4<sup>+</sup> cells/&mu;L are now well-recognized. (<a href="#ref">4-9</a>) Important recent studies indicate that rather than a result of adverse consequences of ART, AIDS comorbidities and mortality are largely a consequence of uncontrolled HIV replication, an effect that is associated with, and likely attributable to, increased T-cell activation and inflammation. (<a href="#ref">10-15</a>) Compelling data also demonstrate that treating HIV-infected persons decreases transmission rates of HIV to uninfected sexual partners, (<a href="#ref">6</a>) and support the premise that early treatment for all HIV-infected patients may halt the transmission of infection. (<a href="#ref">17</a>)</p>
+<p>When reviewing these guidelines, it is important to note that clinical evidence for treatment of HIV-infected patients with 350 to 500 CD4<sup>+</sup> cells/&mu;L is inconsistent and at best supports a relatively modest 2% to 3% difference in AIDS-free survival after 3 to 5 years. (<a href="#ref">18, 19</a>) Recommendations for treating a person with over 500 CD4<sup>+</sup> cells/&mu;L remain based largely on expert opinion. A summary of the relevant studies is shown below in Table 2.</p>
+<p><strong>Table 2: Risk of Outcome in Persons Starting ART at Indicated Range rather than Deferring Therapy until CD4<sup>+</sup> Drops below Lower Threshold (Results Given as Mean and 95% Confidence Intervals)*</strong></p>
+<hr />
+<table border="0" cellspacing="1" cellpadding="3" summary="Table 2: Risk of Outcome in Persons Starting ART at Indicated Range Rather Than Deferring Therapy until CD4+ Drops below Lower Threshold">
+    <thead>
+        <tr>
+            <th width="35%" valign="top">Study</th>
+            <th width="25%" valign="top">Outcome</th>
+            <th width="25%" valign="top">Measure</th>
+            <th width="25%" valign="top">Mean (95% CI)</th>
+            <th width="25%" valign="top">Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+            <th class="Center" valign="top" colspan="3"><span style="text-decoration: underline;">Persons with &gt;500 CD4<sup>+</sup> cells/&mu;L</span></th>
+        </tr>
+        <tr>
+            <td valign="top"><em><span style="text-decoration: underline;">Cohort analyses</span></em></td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">ART-CC (<a href="#ref">20</a>)</td>
+            <td valign="top">AIDS or death</td>
+            <td valign="top">Hazard ratio</td>
+            <td valign="top">1.01 (0.78-1.36)</td>
+            <td class="Center" valign="top">A</td>
+        </tr>
+        <tr>
+            <td valign="top">CASCADE (<a href="#ref">18</a>)</td>
+            <td valign="top">AIDS or death</td>
+            <td valign="top">Hazard ratio</td>
+            <td valign="top">1.10 (0.67-1.79)</td>
+            <td class="Center" valign="top">B</td>
+        </tr>
+        <tr>
+            <td valign="top">ART-CC (<a href="#ref">20</a>)</td>
+            <td valign="top">Death</td>
+            <td valign="top">Hazard ratio</td>
+            <td valign="top">1.07 (0.69-1.67)</td>
+            <td class="Center" valign="top">A</td>
+        </tr>
+        <tr>
+            <td valign="top">CASCADE (<a href="#ref">18</a>)</td>
+            <td valign="top">Death</td>
+            <td valign="top">Hazard ratio</td>
+            <td valign="top">1.02 (0.49-2.12)</td>
+            <td class="Center" valign="top">B</td>
+        </tr>
+        <tr>
+            <td valign="top">NA-ACCORD (<a href="#ref">21</a>)</td>
+            <td valign="top">Death</td>
+            <td valign="top">Relative risk</td>
+            <td valign="top">0.51 (0.36-0.73)</td>
+            <td class="Center" valign="top">C</td>
+        </tr>
+        <tr>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+            <th class="Center" valign="top" colspan="3"><span style="text-decoration: underline;">Persons with 350&ndash;500 CD4<sup>+</sup> cells/&mu;L</span></th>
+        </tr>
+        <tr>
+            <td valign="top"><em><span style="text-decoration: underline;">Cohort analyses</span></em></td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">ART-CC (<a href="#ref">20</a>)</td>
+            <td valign="top">AIDS or death</td>
+            <td valign="top">Hazard ratio</td>
+            <td valign="top">0.78 (0.64-0.96)</td>
+            <td class="Center" valign="top">D</td>
+        </tr>
+        <tr>
+            <td valign="top">CASCADE (<a href="#ref">18</a>)</td>
+            <td valign="top">AIDS or death</td>
+            <td valign="top">Hazard ratio</td>
+            <td valign="top">0.75 (0.49-1.14)</td>
+            <td class="Center" valign="top">E</td>
+        </tr>
+        <tr>
+            <td valign="top">HIV-CAUSAL (<a href="#ref">19</a>)</td>
+            <td valign="top">AIDS or death</td>
+            <td valign="top">Hazard ratio</td>
+            <td valign="top">0.72 (0.64-0.81)</td>
+            <td class="Center" valign="top">F</td>
+        </tr>
+        <tr>
+            <td valign="top">ART-CC (<a href="#ref">20</a>)</td>
+            <td valign="top">Death</td>
+            <td valign="top">Hazard ratio</td>
+            <td valign="top">0.88 (0.62-1.25)</td>
+            <td class="Center" valign="top">D</td>
+        </tr>
+        <tr>
+            <td valign="top">CASCADE (<a href="#ref">18</a>)</td>
+            <td valign="top">Death</td>
+            <td valign="top">Hazard ratio</td>
+            <td valign="top">0.51 (0.33-0.80)</td>
+            <td class="Center" valign="top">E</td>
+        </tr>
+        <tr>
+            <td valign="top">HIV-CAUSAL (<a href="#ref">19</a>)</td>
+            <td valign="top">Death</td>
+            <td valign="top">Hazard ratio</td>
+            <td valign="top">0.99 (0.82-1.19)</td>
+            <td class="Center" valign="top">F</td>
+        </tr>
+        <tr>
+            <td valign="top">NA-ACCORD (<a href="#ref">21</a>)</td>
+            <td valign="top">Death</td>
+            <td valign="top">Relative risk</td>
+            <td valign="top">0.59 (0.44-0.79)</td>
+            <td class="Center" valign="top">G</td>
+        </tr>
+        <tr>
+            <td valign="top"><em><span style="text-decoration: underline;">Randomized clinical trials</span></em></td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+            <td valign="top">&nbsp;</td>
+        </tr>
+        <tr>
+            <td valign="top">SMART (<a href="#ref">22</a>)</td>
+            <td valign="top">AIDS or death</td>
+            <td valign="top">Hazard ratio</td>
+            <td valign="top">0.21 (0.045-1.0)</td>
+            <td class="Center" valign="top">H</td>
+        </tr>
+        <tr>
+            <td valign="top">HPTN 052 (<a href="#ref">16</a>)</td>
+            <td valign="top">Event or death**</td>
+            <td valign="top">Hazard ratio</td>
+            <td valign="top">0.59 (0.40-0.88)</td>
+            <td class="Center" valign="top">I</td>
+        </tr>
+        <tr>
+            <td valign="top">HPTN 052 (<a href="#ref">16</a>)</td>
+            <td valign="top">Death</td>
+            <td valign="top">Hazard ratio</td>
+            <td valign="top">0.77 (0.34-1.76)</td>
+            <td class="Center" valign="top">I</td>
+        </tr>
+    </tbody>
+</table>
+<hr />
+<p class="Note">* All data taken directly from original publications; note that reciprocals of some data were used to provide consistency in the presentation.</p>
+<p class="Note">** World Health Organization (WHO) stage 4 event, or a severe bacterial infection or pulmonary tuberculosis</p>
+<p class="Note">Notes:</p>
+<p class="Note">A &nbsp; Outcome starting ART with 451 to 550 CD4<sup>+</sup> cells/&mu;L vs deferring until 350 to 450 CD4<sup>+</sup> cells/&mu;L</p>
+<p class="Note">B &nbsp; Outcome starting ART with 500 to 799 CD4<sup>+</sup> cells/&mu;L vs deferring therapy</p>
+<p class="Note">C &nbsp; Outcome starting ART with &gt;500 CD4<sup>+</sup> cells/&mu;L vs deferring until CD4<sup>+</sup> count &lt;500 cells/&mu;L</p>
+<p class="Note">D &nbsp; Outcome starting ART with 350 to 450 CD4<sup>+</sup> cells/&mu;L vs deferring until 250 to 350 CD4<sup>+</sup> cells/&mu;L</p>
+<p class="Note">E &nbsp; Outcome starting ART with &gt;350 CD4<sup>+</sup> cells/&mu;L vs deferring therapy</p>
+<p class="Note">F &nbsp; Outcome starting ART within 6 months of having 500 CD4<sup>+</sup> cells/&mu;L vs deferring until within 6 months of having 350 CD4<sup>+</sup> cells/&mu;L</p>
+<p class="Note">G &nbsp; Outcome starting ART with &gt;350 CD4<sup>+</sup> cells/&mu;L vs deferring until CD4<sup>+</sup> count &lt;350 cells/&mu;L</p>
+<p class="Note">H &nbsp; Outcome starting ART with &gt;350 CD4<sup>+</sup> cells/&mu;L vs deferring until CD4<sup>+</sup> count &lt;250 cells/&mu;L</p>
+<p class="Note">I &nbsp; Outcome starting ART with &gt;350 to 500 CD4<sup>+</sup> cells/&mu;L vs deferring until CD4<sup>+</sup> count &lt;250 cells/&mu;L</p>
+<p class="Note">Source: This table was created by the author for this commentary.</p>
+<p>As illustrated in Table 2 above, the NA-ACCORD study revealed a lower rate of mortality in persons who started therapy before the CD4<sup>+</sup> count was &lt;500 cells/&mu;L. (<a href="#ref">21</a>) However, the CASCADE or ART-CC studies did not reflect any improvement in mortality rates, and neither of these latter studies uncovered any difference in the aggregate rates of AIDS and death. (<a href="#ref">18, 20</a>) For persons with 350 to 500 CD4<sup>+</sup> cells/&mu;L who started on ART rather than deferring therapy the NA-ACCORD and CASCADE investigators demonstrated a mortality benefit. (<a href="#ref">18, 21</a>) Similarly, the ART-CC (<a href="#ref">18, 20</a>) and HIV-CAUSAL (<a href="#ref">19</a>) groups, as well as two randomized controlled clinical trials, (<a href="#ref">16, 22</a>) displayed decreased aggregate rates of AIDS and death. However, there was no difference in aggregate rates of AIDS and death in the CASCADE study, and no mortality benefit in the ART-CC and HIV-CAUSAL studies. To quote the guidelines, "these studies suggest that initiating ART in patients with CD4<sup>+</sup> counts between 350 and 500 cells/&mu;L reduces HIV-related disease progression; whether there is a corresponding reduction in mortality is unclear."</p>
+<p>Each cohort analysis differs in strength due to variations in the mode of statistical analysis, the selection of control group, the duration for which ART was deferred in the control group, and the amount of missing data. As with all non-randomized trials, differences in rates of access to medical care, pre-existent medical and psychiatric comorbidities, patient behaviors related to health-seeking activities, alcohol consumption/abuse, injection-drug and other substance use, smoking, and adherence to therapy may bias the outcomes of the cohort studies. (<a href="#ref">20, 21, 23</a>) It is also worth noting that the results from one of the clinical trials were driven mainly by the incidence of extrapulmonary tuberculosis, thus potentially decreasing the relevance of these results in areas with low rates of this disease, (<a href="#ref">16</a>) and that the results of the other trial were derived from a secondary subgroup analysis. (<a href="#ref">22</a>)</p>
+<p>In summary, although randomized clinical trials clearly demonstrate benefit for persons with &lt;350 CD4<sup>+</sup> cells/&mu;L starting ART, (<a href="#ref">24</a>) a weak evidentiary basis exists to recommend initiation of ART at higher CD4<sup>+</sup> cell counts, especially in persons with over 500 CD4<sup>+</sup> cells/&mu;L. As stated in the guideline, "When discussing starting antiretrovirals at higher CD4<sup>+</sup> cell counts (&gt;500 cells/mm<sup>3</sup>), clinicians should inform patients that data on the clinical benefit of starting treatment at such levels is not conclusive, especially for patients with very high CD4<sup>+</sup> counts." The guideline also acknowledges that "...concerns remain over the unknown overall benefit, long-term risks, and cumulative additional costs associated with earlier treatment." Moreover, despite the substantial public health benefits of ART, decisions about when to initiate ART should be based primarily on the potential benefit and harms to the HIV-infected individual for whom therapy is being considered.</p>
+<p>Readers should understand that these guidelines reflect the evidence available at the time of development. As stated in the document, "Further ongoing research (both randomized clinical trials and cohort studies) to assess the short- and long-term clinical and public health benefits and cost effectiveness of starting therapy at higher CD4<sup>+</sup> counts is needed." A prospective, randomized trial that seeks to determine the benefits of initiating antiretroviral therapy at a CD4<sup>+</sup> cell count &gt;500 cells/&mu;L versus deferring therapy until the CD4<sup>+</sup> declines to &lt;350 cells/&mu;L is currently underway and has enrolled over 60% of the target population. (<a href="#ref">25</a>) Upon successful completion, this study will provide tremendous insight to healthcare providers regarding the benefits of early antiretroviral therapy. Meanwhile, in the absence of more conclusive evidence, clinicians and patients must continue to carefully consider the strengths and weaknesses of the available data regarding the initiation of ART when CD4<sup>+</sup> cell counts are greater than 350 to 500 cells/&mu;L.</p>
+<hr />
+<p><strong>Author</strong></p>
+<p><strong>Matthew Bidwell Goetz, MD</strong><br />
+David Geffen School of Medicine at UCLA<br />
+VA Greater Los Angeles Healthcare System, Los Angeles, California</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Guideline Clearinghouse<sup>&trade;</sup> (NGC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor ECRI Institute.</p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>Dr. Goetz is a member of the HIV Technical Advisory Group, Veterans Healthcare Administration. He states no financial or personal conflicts of interest with respect to this commentary.</p>
+<p><strong><span style="text-decoration: underline;">Appendix A</span></strong></p>
+<p><strong>Rating Scheme for Recommendations</strong></p>
+<p><strong>Strength of Recommendation</strong></p>
+<ol style="list-style-type: upper-alpha;" start="1">
+    <li>Strong recommendation for the statement </li>
+    <li>Moderate recommendation for the statement </li>
+    <li>Optional recommendation for the statement </li>
+</ol>
+<p><strong>Quality of Evidence for Recommendation</strong></p>
+<ol style="list-style-type: upper-roman;" start="1">
+    <li>One or more randomized trials with clinical outcomes and/or validated laboratory endpoints </li>
+    <li>One or more well-designed, nonrandomized trials or observational cohort studies with long-term clinical outcomes </li>
+    <li>Expert opinion </li>
+</ol>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>HHS Panel on Antiretroviral Guidelines for Adults and Adolescents. Guidelines for the use of antiretroviral agents in HIV-1-infected adults and adolescents. 2012 March 27 [cited 2012 Apr 5]; Available from: URL: <a href="http://aidsinfo.nih.gov/contentfiles/AdultandAdolescentGL.pdf"  target="_blank" title="AIDSinfo Web site">http://aidsinfo.nih.gov/contentfiles/AdultandAdolescentGL.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. (<a href="#PDF">PDF Help</a>) </li>
+    <li>Carpenter CC, Fischl MA, Hammer SM, et al. Antiretroviral therapy for HIV infection in 1997. Updated recommendations of the International AIDS Society &ndash; USA Panel. JAMA 1997; 277:1962-9. </li>
+    <li>Panel on Clinical Practices for Treatment of HIV Infection. Guidelines for the use of antiretroviral agents in HIV-infected adults and adolescents. [Internet] 2002 February 4 [cited 2002 Feb 4]; Available from: URL: <a href="http://aidsinfo.nih.gov/ContentFiles/AdultandAdolescentGL04232001006.pdf"  target="_blank" title="AIDSinfo Web site">http://aidsinfo.nih.gov/ContentFiles/AdultandAdolescentGL04232001006.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. (<a href="#PDF">PDF Help</a>) </li>
+    <li>Weber R, Sabin CA, Friis-Moller N, et al. Liver-related deaths in persons infected with the human immunodeficiency virus: the D:A:D study. Arch Intern Med 2006 Aug 14; 166(15):1632-41. </li>
+    <li>Phillips AN, Neaton J, Lundgren JD. The role of HIV in serious diseases other than AIDS. AIDS 2008 Nov 30; 22(18):2409-18. </li>
+    <li>Monforte A, Abrams D, Pradier C, et al. HIV-induced immunodeficiency and mortality from AIDS-defining and non-AIDS-defining malignancies. AIDS 2008 Oct 18; 22(16):2143-53. </li>
+    <li>Guiguet M, Boue F, Cadranel J, Lang JM, Rosenthal E, Costagliola D. Effect of immunodeficiency, HIV viral load, and antiretroviral therapy on the risk of individual malignancies (FHDH-ANRS CO4): a prospective cohort study. Lancet Oncol 2009 Dec; 10(12):1152-9. </li>
+    <li>Lichtenstein KA, Armon C, Buchacz K, et al. Low CD4<sup>+</sup> T cell count is a risk factor for cardiovascular disease events in the HIV outpatient study. Clin Infect Dis 2010 Aug 15; 51(4):435-47. </li>
+    <li>Silverberg MJ, Chao C, Leyden WA, et al. HIV infection, immunodeficiency, viral replication, and the risk of cancer. Cancer Epidemiol Biomarkers Prev 2011 Dec; 20(12):2551-9. </li>
+    <li>El-Sadr WM, Lundgren JD, Neaton JD, et al. CD4<sup>+</sup> count-guided interruption of antiretroviral treatment. N Engl J Med 2006 Nov 30; 355(22):2283-96. </li>
+    <li>Kuller LH, Tracy R, Belloso W, et al. Inflammatory and coagulation biomarkers and mortality in patients with HIV infection. PLoS Med 2008 Oct 21; 5(10):e203. </li>
+    <li>Baker JV, Peng G, Rapkin J, et al. CD4<sup>+</sup> count and risk of non-AIDS diseases following initial treatment for HIV infection. AIDS 2008 Apr 23; 22(7):841-8. </li>
+    <li>Mugavero MJ, Napravnik S, Cole SR, et al. Viremia copy-years predicts mortality among treatment-naive HIV-infected patients initiating antiretroviral therapy. Clin Infect Dis 2011 Nov; 53(9):927-35. </li>
+    <li>Reekie J, Gatell JM, Yust I, et al. Fatal and nonfatal AIDS and non-AIDS events in HIV-1-positive individuals with high CD4 cell counts according to viral load strata. AIDS 2011 Nov 28; 25(18):2259-68. </li>
+    <li>Butler SL, Valdez H, Westby M, et al. Disease-modifying therapeutic concepts for HIV in the era of highly active antiretroviral therapy. J Acquir Immune Defic Syndr 2011 Nov 1; 58(3):297-303. </li>
+    <li>Cohen MS, Chen YQ, McCauley M, et al. Prevention of HIV-1 infection with early antiretroviral therapy. N Engl J Med 2011 Aug 11; 365(6):493-505. </li>
+    <li>Granich RM, Gilks CF, Dye C, De Cock KM, Williams BG. Universal voluntary HIV testing with immediate antiretroviral therapy as a strategy for elimination of HIV transmission: a mathematical model. Lancet 2009 Jan 3; 373(9657):48-57. </li>
+    <li>Writing Committee for the CASCADE Collaboration. Timing of HAART initiation and clinical outcomes in human immunodeficiency virus type 1 seroconverters. Arch Intern Med 2011 Sep 26; 171(17):1560-9. </li>
+    <li>Cain LE, Logan R, Robins JM, et al. When to initiate combined antiretroviral therapy to reduce mortality and AIDS-defining illness in HIV-infected persons in developed countries: an observational study. Ann Intern Med 2011 Apr 19; 154(8):509-15. </li>
+    <li>Sterne JA, May M, Costagliola D, et al. Timing of initiation of antiretroviral therapy in AIDS-free HIV-1-infected patients: a collaborative analysis of 18 HIV cohort studies. Lancet 2009 Apr 18; 373(9672):1352-63. </li>
+    <li>Kitahata MM, Gange SJ, Abraham AG, et al. Effect of early versus deferred antiretroviral therapy for HIV on survival. N Engl J Med 2009 Apr 1; 360:1815-26. </li>
+    <li>Emery S, Neuhaus JA, Phillips AN, et al. Major clinical outcomes in antiretroviral therapy (ART)-naive participants and in those not receiving ART at baseline in the SMART study. J Infect Dis 2008 Apr 15; 197(8):1133-44. </li>
+    <li>Sax PE, Baden LR. When to start antiretroviral therapy--ready when you are? N Engl J Med 2009 Apr 30; 360(18):1897-9. </li>
+    <li>Severe P, Juste MA, Ambroise A, et al. Early versus standard antiretroviral therapy for HIV-infected adults in Haiti. N Engl J Med 2010 Jul 15; 363(3):257-65. </li>
+    <li>Strategic timing of antiretroviral treatment (START) - NCT00867048. 2010 [cited 2010 Apr 25]; Available from: URL: <a href="http://clinicaltrials.gov/ct2/show/NCT00867048?term=Strategic+Timing+of+AntiRetroviral+Treatment&amp;rank=1" title="Clinical Trials.gov Web site"  target="_blank">http://clinicaltrials.gov/ct2/show/NCT00867048?term=Strategic+Timing+of+AntiRetroviral+Treatment&amp;rank=1</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> </li>
+</ol>
+<a name="PDF"></a>
+<p><strong>PDF Help</strong>: Documents in PDF format require the Adobe Acrobat Reader&reg;. If you experience problems with PDF documents, please <a href="/Home/Disclaimer?id=37872&contentType=expert-commentary&redirect=http%3a%2f%2fget.adobe.com%2freader%2f" title="Adobe Web site">download the latest version of the Reader&reg;</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />.</p>
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NGC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the guideline and/or measure fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NGC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
