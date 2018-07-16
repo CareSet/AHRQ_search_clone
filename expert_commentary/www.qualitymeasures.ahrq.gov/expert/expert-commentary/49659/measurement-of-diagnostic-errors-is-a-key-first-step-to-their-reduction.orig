@@ -1,0 +1,531 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Measurement of Diagnostic Errors Is a Key First Step to Their Reduction | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>November 23, 2015</li>
+			</ul>
+			<h1>Measurement of Diagnostic Errors Is a Key First Step to Their Reduction</h1>
+			<p class="byline">By: Hardeep Singh, MD, MPH</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/49659/measurement-of-diagnostic-errors-is-a-key-first-step-to-their-reduction" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/49659/measurement-of-diagnostic-errors-is-a-key-first-step-to-their-reduction" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/49659/measurement-of-diagnostic-errors-is-a-key-first-step-to-their-reduction&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Measurement of Diagnostic Errors Is a Key First Step to Their Reduction&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/49659/measurement-of-diagnostic-errors-is-a-key-first-step-to-their-reduction" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (0)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p><strong>The need to measure diagnostic error</strong><br />
+Diagnostic errors are among the most common type of medical error, experienced by an estimated 12 million patients in the United States (U.S.) each year (<a href="#ref">1</a>, <a href="#ref">2</a>). A recent Institute of Medicine "Improving Diagnosis in Health Care" report highlighted that diagnostic errors often have potential to cause substantial harm (<a href="#ref">3</a>). As data from multiple sources indicate, they typically involve relatively common conditions that are either misdiagnosed or undetected altogether (<a href="#ref">4</a>, <a href="#ref">5</a>, <a href="#ref">6</a>). About 1 in 8 surveyed patients in Massachusetts reported to have "personally been involved in a medical error situation in the past five years" related to misdiagnosis (<a href="#ref">7</a>). Despite the prevalence of diagnostic errors, however, these are seldom a focus of patient safety initiatives (<a href="#ref">8</a>). One reason for this oversight is that diagnostic errors are notoriously difficult to define and measure (<a href="#ref">9</a>). Thus, it is not surprising that there are gaps in performance measures to monitor and improve the quality and safety of diagnosis. In this commentary, I use examples from our research on this topic to outline some measurement challenges and discuss how a recently published conceptual framework could be useful to advance the science in this area. </p>
+<p><strong>Challenges of measuring diagnostic errors</strong><br />
+Research on diagnostic errors has relied heavily on case finding long after error has occurred, either through non-representative sources such as malpractice claims and autopsy findings, or through relatively inefficient means such as random chart reviews. Potentially, data from electronic health records (EHRs) and other repositories of health information could be leveraged to better detect diagnostic error, perhaps even at a point when harm can still be mitigated (<a href="#ref">10</a>). However, diagnosis is an evolving process which involves uncertainty, and it is not easy to detect presence of an error (<a href="#ref">9</a>). Research is needed to determine the value of these emerging data sources and to develop objective methods for meaningful measurement and analysis (<a href="#ref">11</a>).</p>
+<p>Another important measurement challenge is how to define and operationalize diagnosis. Diagnosis involves multiple persons (at a minimum, the patient and provider, in addition to any consultants or ancillary service providers), often multiple locations, and may change with time as new information is obtained. Therefore, measurement methods must account for the variety of patient-, provider- and system-level obstacles that can delay or distort a valid diagnosis. Care fragmentation is a problem in outpatient settings, but large EHR repositories that house data from different people from different locations can be leveraged to provide a more complete picture, for example by applying algorithms to the repository to look for patients' abnormal test results that are not followed-up with timely actions (<a href="#ref">10</a>, <a href="#ref">12</a>, <a href="#ref">13</a>).</p>
+<p>Finally, measurement of diagnostic errors or breakdowns in the diagnostic process needs to be actionable. Even if currently available methods could yield more valid and reliable data about diagnostic errors, most institutions today lack dedicated resources to analyze and act upon this information. Thus, further development in diagnostic error measurement should take into consideration the type, timing, and delivery of data to ensure that measurement is meaningful, clear, and conducive to quality improvement efforts.</p>
+<p><strong>A framework for definition and measurement of diagnostic errors</strong><br />
+In response to the need for better measurement and tracking of diagnostic errors, we have developed the Safer Dx framework, briefly described below (<a href="#ref">14</a>). We define diagnostic errors as <em>missed opportunities to make a correct or timely diagnosis based on the available evidence, regardless of patient harm</em> (<a href="#ref">15</a>). The framework aims to create a robust foundation for using a systems-based approach to advance measurement of diagnostic error and acknowledges that determining diagnostic error in individual patients might not be easy (<a href="#ref">9</a>). </p>
+<p>The organization of the Safer Dx framework follows Donabedian's Structure-Process-Outcome model. The structural component defines the "sociotechnical work system" composed of various dimensions including people, technologies (particularly health information technologies), organizational policies and practices, and external regulations and pressures (<a href="#ref">16</a>). Risks for diagnostic error arise from interactions among these dimensions of the sociotechnical health care system. Hence, diagnostic error is not viewed as solely a matter of a single clinician's cognitive performance. As an example, the risk for diagnostic error may increase when clinical productivity demands are coupled with a poorly designed user interface for the EHR and/or when clinicians are not provided with optimal training for EHR use.</p>
+<p>The process aspects of the Safer Dx framework are defined by our team's previous work on operationalizing the diagnostic process (<a href="#ref">4</a>) and include: 1) the patient&ndash;provider encounter (history, physical examination, ordering tests/referrals based on assessment); 2) performance and interpretation of diagnostic tests; 3) follow-up and tracking of diagnostic information over time; 4) subspecialty and referral-specific factors; and 5) patient-related factors. Breakdowns in the diagnostic processes can occur at any of these points. Our ability to measure diagnostic errors comprehensively depends on assessment of all of these processes, as well as reliable and valid measures of diagnostic performance.</p>
+<p>The primary outcome in the Safer Dx framework is safe diagnosis (correct and timely, as opposed to missed, delayed, wrong, or overdiagnosis). However, the framework also accounts for more far-reaching outcomes related to health care delivery (e.g., value) and patient functioning or outcomes. For instance, optimizing the diagnostic process involves getting the correct and timely diagnosis using the least amount of resources while being careful to avoid overtesting, overdiagnosis and overtreatment. The Safer Dx framework recognizes the many complex aspects of identifying diagnostic errors, reminds us of the need to contextualize diagnostic errors within real world clinical settings, and highlights the health care system's responsibility to continually improve.</p>
+<p><strong>Figure 1: The Safer Dx Framework for Measurement and Reduction of Diagnostic Errors</strong> (<a href="#ref">10</a>) </p>
+<p style="text-align: center;"><img width="710" height="393" title="Figure 1: The Safer Dx Framework for Measurement and Reduction of Diagnostic Errors" alt="Figure 1: The Safer Dx Framework for Measurement and Reduction of Diagnostic Errors" src="http://orbital-ecri.silverchair.com/ImageLibrary/Safer%20Dx%20Framework%20for%20Measurement%20and%20Reduction%20of%20Diagnostic%20Errors%20(2).jpg" /></p>
+<p class="figure_legend"><strong>Figure description</strong>: The Safer Dx framework accounts for the complex adaptive sociotechnical work system in which diagnosis takes place (the structure), the distributed process dimensions in which diagnoses evolve beyond the doctor's visit (the process) and resultant outcomes of "safe diagnosis," i.e., correct and timely, as well as patient and health care outcomes (the outcomes). The five interactive diagnostic process dimensions, represented by the rectangle in the far left of the figure, include: 1) the patient-provider encounter &amp; initial diagnostic assessment (history, physical examination, ordering tests/referrals based on assessment) represented in the square in the top left corner of the rectangle; 2) performance and interpretation of diagnostic tests represented in the square in the top right corner of the rectangle; 3) follow-up and tracking of diagnostic information over time represented in the square in the bottom left corner of the rectangle; 4) subspecialty consultation and referral-specific factors represented in the square in the bottom right corner of the rectangle; and 5) patient-related factors represented in the center circle of the rectangle which overlaps each of the four squares. The bidirectional arrows connect the 4 squares. Represented within the wide arrow to the right of the diagnostic process dimensions rectangle is the retrospective and prospective measurement of diagnostic errors, both of which must be reliable and valid. This wide arrow points to a rectangle to its right, which captures the results of these measurements. These include collective mindfulness, organizational learning, improved collaboration, and better measurement tools and definitions. This rectangle includes three arrows: one emerging from the top and pointing to "changes in policy and practice to reduce preventable harm from missed, delayed, wrong or over diagnosis"; one emerging from the bottom and pointing to "feedback for improvement"; and one emerging from the right to a "safer diagnosis" circle. Two arrows point to the right of the "safer diagnosis" circle: the top arrow points to an "improved value of health care" square and the bottom arrow points to an "improved patient outcome" square. Arrows emerging from these two squares flow to the left and point back to the diagnostic process dimensions rectangle indicating that the flow between these elements is continuous and inter-related. All of this knowledge created by measurement will lead to changes in policy and practice to reduce diagnostic errors as well as feedback for improvement.<br />
+<br />
+Note: The sociotechnical work system includes 8 technological and non-technological dimensions, and includes external factors affecting diagnostic performance and measurement such as payment systems, legal factors, national quality measurement initiatives, accreditation, and other policy and regulatory requirements.</p>
+<p><strong>Opportunities for prevention and response to diagnostic error </strong><br />
+Historically, organizations have prioritized other quality and safety concerns over diagnostic errors, in part due to the complexities of defining and monitoring these events (<a href="#ref">17</a>). The Safer Dx framework provides a conceptual foundation to identify potential errors of vulnerability in the diagnostic process and proactively assess opportunities for improvement. For example, we identified patient-provider encounter issues (such as history, physical exam, ordering tests after gathering and interpreting tests) and follow-up of test results as key target vulnerable areas in our diagnostic error research in primary care (<a href="#ref">9</a>, <a href="#ref">18</a>, <a href="#ref">19</a>, <a href="#ref">20</a>). We then developed both retrospective and prospective EHR-based 'triggers' in order to identify clinical situations that could be further examined for missed opportunities in diagnosis through medical record reviews (<a href="#ref">10</a>, <a href="#ref">13</a>, <a href="#ref">21</a>). While manual review is needed to confirm presence or absence of errors, electronic triggers can help select high-risk records for further review and enable an organization to measure and learn from errors. Similarly, in the area of health information technology-related patient safety, we recognized the emergent need to clearly operationalize measurement concepts, and recently developed a set of nine proactive self-assessment tools that organizations can use to reduce risks related to use of EHRs and related technologies (<a href="#ref">22</a>). Similar sets of assessment tools could be envisioned for the diagnostic process to measure opportunities for improvement proactively rather than only fixing issues after the fact. </p>
+<p>Health care leaders and policymakers require further evidence on frequency, types and origins of diagnostic errors in order to devise optimal strategies to reduce their burden (<a href="#ref">23</a>). While further work is essential to develop and validate meaningful measures of diagnostic performance to shape performance improvement efforts, a comprehensive framework that accounts for the complexities of diagnosis can ensure that measurement strategies are appropriately targeted. </p>
+<hr />
+<p><strong>Authors</strong></p>
+<p>Hardeep Singh, MD MPH <br />
+Chief, Health Policy, Quality &amp; Informatics Program, Center for Innovations in Quality, Effectiveness and Safety, Michael E. DeBakey VA Medical Center and Baylor College of Medicine, Houston, Texas </p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the Department of Veterans Affairs, the National Quality Measures Clearinghouse&trade; (NQMC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor ECRI Institute.</p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>Dr. Hardeep Singh declared no conflicts of interest with respect to this expert commentary.</p>
+<p>Dr. Singh is supported by the VA Health Services Research and Development Service (CRE 12-033; Presidential Early Career Award for Scientists and Engineers USA 14-274), the VA National Center for Patient Safety and the Agency for Health Care Research and Quality (R01HS022087 and R21 HS23602). His work is also supported in part by the Houston VA HSR&amp;D Center for Innovations in Quality, Effectiveness and Safety (CIN 13&ndash;413). </p>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Singh H, Meyer AN, Thomas EJ. The frequency of diagnostic errors in outpatient care: estimations from three large observational studies involving US adult populations. BMJ Qual Saf. 2014;23(9):727-31. </li>
+    <li>Gandhi TK, Kachalia A, Thomas EJ, Puopolo AL, Yoon C, Brennan TA, et al. Missed and delayed diagnoses in the ambulatory setting: a study of closed malpractice claims. Ann Intern Med. 2006;145(7):488-96. </li>
+    <li>National Academies of Sciences, Engineering, and Medicine. Improving diagnosis in health care. Washington (DC): The National Academies Press; 2015. </li>
+    <li>Singh H, Giardina TD, Meyer AN, Forjuoh SN, Reis MD, Thomas EJ. Types and origins of diagnostic errors in primary care settings. JAMA Intern Med. 2013;173(6):418-25. </li>
+    <li>Ely JW, Kaldjian LC, D'Alessandro DM. Diagnostic errors in primary care: lessons learned. J Am Board Fam Pract. 2012;25(1):87-97. </li>
+    <li>Schiff GD, Hasan O, Kim S, Abrams R, Cosby K, Lambert BL, et al. Diagnostic error in medicine: analysis of 583 physician-reported errors. Arch Intern Med. 2009;169(20):1881-7. </li>
+    <li>Datz T. Poll finds many in Massachusetts have firsthand experience with a medical error. [internet]. Boston (MA): Harvard School of Public Health; 2014 Dec 2 [accessed 2015 Aug 25]. Available: <a href="/Home/Disclaimer?id=49659&contentType=expert-commentary&redirect=http%3a%2f%2fwww.hsph.harvard.edu%2fnews%2fpress-releases%2fmany-in-massachusetts-have-firsthand-experience-with-a-medical-error%2f" title="Harvard School of Public Health Web site">http://www.hsph.harvard.edu/news/press-releases/many-in-massachusetts-have-firsthand-experience-with-a-medical-error/</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>Graber ML. The incidence of diagnostic error in medicine. BMJ Qual Saf. 2013;22 Suppl2:ii21-ii27. </li>
+    <li>Zwaan L, Singh H. The challenges in defining and measuring diagnostic error. Diagnosis. 2015;2(2):97-103. </li>
+    <li>Murphy DR, Laxmisan A, Reis BA, Thomas EJ, Esquivel A, Forjuoh SN, et al. Electronic health record-based triggers to detect potential delays in cancer diagnosis. BMJ Qual Saf. 2014;23(1):8-16. </li>
+    <li>Zwaan L, Schiff GD, Singh H. Advancing the research agenda for diagnostic error reduction. BMJ Qual Saf. 2013;22 Suppl 2:ii52-ii57. </li>
+    <li>Murphy DR, Wu L, Forjuoh SN, Meyer AN, Singh H. An electronic trigger-based intervention to reduce delays in diagnostic evaluation for cancer: a cluster randomized controlled trial. J Clin Oncol. 2015 Nov 1;33(31):3560-7. </li>
+    <li>Murphy DR, Thomas EJ, Meyer AN, Singh H. Development and validation of electronic health record-based triggers to detect delays in follow-up of abnormal lung imaging findings. Radiology. 2015 Oct;277(1):81-70. </li>
+    <li>Singh H, Sittig DF. Advancing the science of measurement of diagnostic errors in healthcare: the Safer Dx framework. BMJ Qual Saf. 2015;24(2):103-10. </li>
+    <li>Singh H. Editorial: helping health care organizations to define diagnostic errors as missed opportunities in diagnosis. Jt Comm J Qual Patient Saf. 2014 Mar;40(3):99-101. </li>
+    <li>Sittig DF, Singh H. A new sociotechnical model for studying health information technology in complex adaptive healthcare systems. Qual Saf Health Care. 2010;19(Suppl 3):i68-i74. </li>
+    <li>Graber ML, Trowbridge RL, Myers JS, Umscheid CA, Strull W, Kanter MH. The next organizational challenge: finding and addressing diagnostic error. Jt Comm J Qual Patient Saf. 2014;40(3):102-10. </li>
+    <li>Singh H, Thomas EJ, Khan MM, Petersen LA. Identifying diagnostic errors in primary care using an electronic screening algorithm. Arch Intern Med. 2007;167(3):302-8. </li>
+    <li>Singh H, Thomas EJ, Mani S, Sittig DF, Arora H, Espadas D, et al. Timely follow-up of abnormal diagnostic imaging test results in an outpatient setting: are electronic medical records achieving their potential?. Arch Intern Med. 2009;169(17):1578-86. </li>
+    <li>Singh H, Thomas EJ, Sittig DF, Wilson L, Espadas D, Khan MM, et al. Notification of abnormal lab test results in an electronic medical record: do any safety concerns remain? Am J Med. 2010;123(3):238-44. </li>
+    <li>Singh H, Giardina TD, Forjuoh SN, Reis MD, Kosmach S, Khan MM, et al. Electronic health record-based surveillance of diagnostic errors in primary care. BMJ Qual Saf. 2012;21(2):93-100. </li>
+    <li>Safety Assurance Factors for EHR Resilience (SAFER) guides. [internet]. Washington (DC): Office of the National Coordinator for Health Information Technology (ONC); 2014 [accessed 2015 Aug 21]. Available: <a href="http://www.healthit.gov/safer/safer-guides" target="_blank" title="HealthIT Web site" >http://www.healthit.gov/safer/safer-guides</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>Singh H. Diagnostic errors: moving beyond 'no respect' and getting ready for prime time. BMJ Qual Saf. 2013;22(10):789-92. </li>
+</ol>
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011399</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51322/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-patients-irrespective-of-frequency-of-dialysis-with-documented-monthly-npcr-measurements">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis patients (irrespective of frequency of dialysis) with documented monthly nPCR measurements.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011398</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51321/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-home-hemodialysis-and-peritoneal-dialysis-patients-who-have-monthly-measures-for-hemoglobin-during-the-reporting-period">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis, home hemodialysis, and peritoneal dialysis patients who have monthly measures for hemoglobin during the reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011397</li>
+            <li>May 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51319/end-stage-renal-disease-esrd-percentage-of-adult-hemodialysis-patientmonths-using-a-catheter-continuously-for-three-months-or-longer-for-vascular-access">End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011396</li>
+            <li>Apr 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51318/end-stage-renal-disease-esrd-adjusted-percentage-of-adult-hemodialysis-patientmonths-using-an-autogenous-arteriovenous-fistula-avf-as-the-sole-means-of-vascular-access">End stage renal disease (ESRD): adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula (AVF) as the sole means of vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011395</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51317/end-stage-renal-disease-esrd-percentage-of-all-peritoneal-dialysis-and-hemodialysis-patientmonths-with-serum-or-plasma-phosphorus-measured-at-least-once-within-the-month">End stage renal disease (ESRD): percentage of all peritoneal dialysis and hemodialysis patient-months with serum or plasma phosphorus measured at least once within the month.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

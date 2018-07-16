@@ -1,0 +1,537 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>New Directions for Health Care Information Technology | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>February 08, 2010</li>
+			</ul>
+			<h1>New Directions for Health Care Information Technology</h1>
+			<p class="byline">By: William W. Stead, MD and Herbert S. Lin, PhD</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16453/new-directions-for-health-care-information-technology" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16453/new-directions-for-health-care-information-technology" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16453/new-directions-for-health-care-information-technology&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: New Directions for Health Care Information Technology&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16453/new-directions-for-health-care-information-technology" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (1)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>The American Recovery and Reinvestment Act (ARRA), passed in March 2009, allocated nearly $20 billion to invest in new health care information technology (HCIT) over the next couple of years. Such investment could go a long way towards improving the operation of the information-intensive health care system, but if invested in the kinds of information technology that characterize most of today's deployments, such efforts will do little to help advance a vision of 21st century health care that is safe, effective, patient-centered, timely, efficient, and equitable. (<a href="#ref">1</a>) </p>
+<p>Under the auspices of a National Research Council project to examine current needs in HCIT (<a href="#ref">2</a>), we visited health care institutions around the country known for their leadership in the use of information technology to learn what does and does not work. These "best-of-breed" institutions should be praised for their accomplishments, and we saw many individual successes. Nevertheless, what we learned in these visits very clearly demonstrated the limitations of today's notions about HCIT. </p>
+<p>For example, the clinical IT systems we saw were monolithic and complex. Rather than enabling clinicians to rapidly improve their practices, many interdependencies often made improvements hard to introduce. Even within an institution, interoperability was often awkward and slow. Information exchange with the information systems of other institutions was rare. And these systems sometimes took decades to deploy throughout large organizations. </p>
+<p>We saw health care workers spending much of their days at computer workstations rather than at patient bedsides. At one institution, nurses reported that they spent only half their time in direct patient care; the rest was spent documenting what they did that day. When asked if that documentation was used to provide better patient care, they reported that the most common use of the information was for regulatory and legal purposes. </p>
+<p>Hospitals collect vast amounts of patient data; often every test, every exam, every prescription is added to a database. But current hospital IT systems often do not help health care workers take that data and use it to develop an overall understanding of a patient and to make good decisions about what to do next. Instead, many institutions view IT systems as mere replacements for paper records, as a means to automate paperwork, rather than an opportunity to help clinicians change and improve their care practices. Such current technology often overwhelms physicians with information. The result is increased workload, frustration, and possibility of errors. </p>
+<p>How should the nation move towards HCIT that helps patients? The first step is for the federal government to embrace explicitly measurable health care quality improvement as the driving rationale for its HCIT adoption efforts. Each HCIT implementation should be managed within an improvement plan by focusing on questions such as: What is the desired improvement? How will it be measured? What changes will be required in role and process? How will the HCIT support such changes? How will the HCIT adapt with role and process until the measures show sustained improvement? Clinicians will flock to HCIT that will help them do their jobs more effectively and efficiently, but they understandably resist technology that increases the burdens on them for the benefit of administrators and insurers. Paying clinicians to use HCIT is an implicit acknowledgement that the HCIT in question isn't helping them, and it may well increase the difficulty of introducing later generations of HCIT with more clinical utility. </p>
+<p>Better health care outcomes call for comprehensive data on patient conditions and treatments; they also call for cognitive support for health care providers and for patients/family caregivers that offers computer-based assistance for thinking about and solving individual health problems. And so the nation must place greater emphasis on HCIT that addresses issues in several areas. </p>
+<ul style="list-style-type: disc;">
+    <li>Data synthesis for instruments and tools that allow clinicians to manage a portfolio of patients and to highlight problems as they arise both for an individual patient and within populations. For example:
+    <p class="Indent">The computer of an outpatient care provider displays the summary health status (a "dashboard") of her 300 diabetic patients with color-codes and carefully designed graphical displays for clinical measures of the disease (blood sugar levels, A1C counts, and so on) that provide rapid assessment, at a glance, of the status of all patients: those who are managing illnesses successfully, those requiring intervention, and those who are marginal cases. When a diabetic patient visits her, the system reviews applicable guidelines, customizes an exemplar set of clinical orders to the patient's state and insurance plan (e.g., picks the preferred drug from the drug class), and reminds the physician to discuss the selected drug with the patient. Feedback indicating success is provided when the provider sees that the display indicators of her patients show successful management. </p>
+    <p>The clinical significance of such a display is that it gives the provider prompt feedback about where her attention is most needed in time to take corrective action. </p>
+    </li>
+    <li>Data and information integration to provide clinical information in the form of easy-to-understand abstractions (e.g., computer-animated models, statistical and heuristic techniques) that reflect an intelligent synthesis of information about the patient, care setting, and biomedical knowledge*. For example:
+    <p class="Indent">A primary care clinician needs to monitor a patient's heart condition. Cardiac information is provided not as tables of numbers or individual electrocardiogram (EKG) plots, but rather as an overlay on a visual animated structural model of the patient's heart (not a generic heart) derived from various imaging modalities. The system displays the relevant functional information in summary form and provides an image of the heart in operation driven by all of the data that have been collected about the patient over time. Different time scales are available for display, and the clinician can display an animated image of the patient's heart in operation as the patient is resting or exerting himself (i.e., in near-real time), or track how the structure of the heart has changed over the last 2 years using time-lapse-like sequences. </p>
+    <p>The clinical significance of an animated structural model is that it drastically reduces the cognitive effort needed for the clinician to visualize heart functioning in this particular patient, freeing her to use those cognitive resources for other related tasks. </p>
+    </li>
+    <li>Data mining for new knowledge--the use of knowledge discovery techniques to analyze various datasets to recognize known relationships or to discover unknown relationships. Such datasets may include medical literature, multiple patient records, laboratory data (e.g., microarray data).
+    <p class="Indent">A primary care clinician has a number of patients with various heart conditions. To stay current with recent medical literature, he subscribes to alerts and learns that a particular heart disease guideline has been updated to include a new drug that reportedly prevents a difficult and expensive complication. After comparing it to other guidelines that he believes to be trustworthy, he decides to incorporate this new guideline into his practice. By clicking on a link, the clinician can download the guideline to his system, which also searches for and constructs several potential action flowcharts to meet the guideline's goals, based on an internal computable model of clinic workflow and resources. He selects one, and his disease management dashboards, order sets, and reminder systems are updated. The updated dashboards display patient status with respect to the new guidelines, the updated order sets reflect the clinical guidance of the new guidelines, and the updated reminders inform the physician of who is affected by the new guidelines at appropriate times. </p>
+    <p>The clinical significance of the literature alert system is that it enables the clinician to keep current and to systematically translate new knowledge into his practice, while enabling the clinician and the patient to decide on the appropriate course of treatment. </p>
+    </li>
+</ul>
+<p>We do not need to wait for better IT before we move forward, but the nation needs a fresh approach to acquiring HCIT that serves clinicians and patients. For example, the administration should require any proposed HCIT deployment to provide a site-based plan for how the technology will be used to enhance and improve clinical performance, perhaps as part of its forthcoming definition of "meaningful use" of HCIT as mandated in the ARRA. Such plans must describe how workflows will be modified, how information collected will be used to improve clinical performance, the metrics through which performance will be assessed, and how the deployment will accommodate ongoing change in best practice. </p>
+<p>HCIT should be broadly construed to include tasks aimed at re-engineering care workflows and processes for greater effectiveness and efficiency. (<a href="#ref">3</a>) Sometimes an alteration in workflow can simplify care tasks so technology isn't needed at all. For example, HCIT systems help in passing information along from one care provider to another. A change in workflow, however, may be able to reduce the number of handoffs from provider to provider. </p>
+<p>Finally, it should invest a few percent of the HCIT package on research that includes organizational systems-level study into the design of health care systems processes and workflow, computable knowledge structures and models for medicine needed to make sense of available medical data regarding the patient, and human-computer interaction in a clinical context. </p>
+<p>We began our effort on this project focused on long-term research opportunities to improve HCIT. Although we did identify many, we also found other avenues for meaningful improvement by deploying today's technology differently. By emphasizing clinical improvements, we believe that better and more efficient health care is well within reach without mandates that force clinicians to use health care information technology that get in their way. </p>
+<p class="Note">*<strong>Note</strong>: In the context of this report, "easy-to-understand abstractions" should be understood to mean representations of information that capture and integrate clinically significant medical knowledge and patient data in ways that make it easy for the clinician to understand patient status without being distracted by irrelevant details.</p>
+<p><strong>Authors</strong> </p>
+<p><strong>William W. Stead, MD</strong><br />
+Vanderbilt University, Nashville, TN</p>
+<p><strong>Herbert S. Lin, PhD</strong><br />
+The National Academies, Washington, D.C. </p>
+<p>About the Authors: William Stead, MD, is Director of the Informatics Center at Vanderbilt University Medical Center and chaired the recent National Research Council study Computational Technology for Effective Health Care. Dr. Herbert Lin was its study director. </p>
+<p><strong>Disclaimer</strong> </p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Quality Measures Clearinghouse&trade; (NQMC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor, ECRI Institute. </p>
+<p><strong>Potential Conflicts of Interest</strong> </p>
+<p>Dr. Stead reports financial interest in General Electric, HealthStream, IBM, Informatics Corporation of America, Intel, McKesson, and Microsoft. </p>
+<p>Dr. Stead also has business/professional affiliations with Vanderbilt University, HealthStream, Informatics Corporation of America, American Medical Informatics Association, Institute of Medicine, National Research Council, Agency for Healthcare Research and Quality, National Library of Medicine, Stanford University, University of Kentucky, and University of Pennsylvania. </p>
+<p>Dr. Stead states no family member conflicts of interests or additional disclosures. </p>
+<p>Dr. Lin declared no conflicts of interest with respect to this commentary. </p>
+<p><a name="ref"></a><strong>References</strong></p>
+<ol>
+    <li>Institute of Medicine, Crossing the Quality Chasm: A New Health System for the 21st Century, National Academy Press, Washington, D.C., 2001. </li>
+    <li>National Research Council, Computational Technology for Effective Health Care: Immediate Steps and Strategic Directions, National Academies Press, Washington D.C., 2009. </li>
+    <li>National Academy of Engineering and Institute of Medicine, Building a Better Delivery System: A New Engineering/Health Care Partnership, The National Academies Press, Washington, D.C., 2005. </li>
+</ol>
+
+
+	<section class="comments" id="comments">
+		<h2 class="comments-header">Comments</h2>
+		
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 11/28/2010</h3>
+				<div class='comment-main'>
+					<div class='comment-content'><p>Health Care Information Technology (HCIT) is crucial for every hospital in the United States Those facilities that do not have HCIT fall short of any expectation of improving health care within their domain. We established computer technology at our hospital 5 years ago. Although it was hard for some physicians and older nurses (some of whom had never owned a home computer) to get started in this form of communication, with classes and support from team members, it did become a reality. Now, we wouldn't know what to do without it. It has rapidly streamlined our communication process.</p>
+<p>The patient handoff process is our next big project to be implemented, and I am presently writing a research paper on bedside reporting and patient satisfaction through the University of Texas at El Paso (UTEP) for my MSN. Surely, through HCIT, the process of handoffs will become less complicated and more updated and beneficial for patients and the organization.</p>
+<p>Thanks for commenting on the HCIT investment and the American Recovery and Reinvestment Act's (ARRA's) stance on improving health care technology. A big push should be implemented nationwide to correct communication to its highest quality.</p></div>
+					<p class='comment-author'>Denise Ross, BSN</p>
+						<p class='comment-position'>Clinical Manager - ICU</p>
+											<p class='comment-affiliation'>Midland Memorial Hospital, Midland TX</p>
+					<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> None</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+	</section><!--/.comments -->
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011399</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51322/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-patients-irrespective-of-frequency-of-dialysis-with-documented-monthly-npcr-measurements">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis patients (irrespective of frequency of dialysis) with documented monthly nPCR measurements.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011398</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51321/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-home-hemodialysis-and-peritoneal-dialysis-patients-who-have-monthly-measures-for-hemoglobin-during-the-reporting-period">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis, home hemodialysis, and peritoneal dialysis patients who have monthly measures for hemoglobin during the reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011397</li>
+            <li>May 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51319/end-stage-renal-disease-esrd-percentage-of-adult-hemodialysis-patientmonths-using-a-catheter-continuously-for-three-months-or-longer-for-vascular-access">End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011396</li>
+            <li>Apr 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51318/end-stage-renal-disease-esrd-adjusted-percentage-of-adult-hemodialysis-patientmonths-using-an-autogenous-arteriovenous-fistula-avf-as-the-sole-means-of-vascular-access">End stage renal disease (ESRD): adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula (AVF) as the sole means of vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011395</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51317/end-stage-renal-disease-esrd-percentage-of-all-peritoneal-dialysis-and-hemodialysis-patientmonths-with-serum-or-plasma-phosphorus-measured-at-least-once-within-the-month">End stage renal disease (ESRD): percentage of all peritoneal dialysis and hemodialysis patient-months with serum or plasma phosphorus measured at least once within the month.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

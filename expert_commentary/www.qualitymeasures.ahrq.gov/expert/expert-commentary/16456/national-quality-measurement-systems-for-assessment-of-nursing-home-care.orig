@@ -1,0 +1,513 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>National Quality Measurement Systems for Assessment of Nursing Home Care | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>September 14, 2009</li>
+			</ul>
+			<h1>National Quality Measurement Systems for Assessment of Nursing Home Care</h1>
+			<p class="byline">By: Ning Jackie Zhang, MD, PhD</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16456/national-quality-measurement-systems-for-assessment-of-nursing-home-care" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16456/national-quality-measurement-systems-for-assessment-of-nursing-home-care" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16456/national-quality-measurement-systems-for-assessment-of-nursing-home-care&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: National Quality Measurement Systems for Assessment of Nursing Home Care&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16456/national-quality-measurement-systems-for-assessment-of-nursing-home-care" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (0)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>Evidence-based quality assessment and resulting improvement in nursing homes relies heavily on administrative and resident assessment data. There are two major national systems that routinely collect nursing home quality information required by the Centers for Medicare and Medicaid Services (CMS) based on the Omnibus Budget Reconciliation Act of 1987: the Minimum Data Set (MDS) and the Online Survey Certification and Reporting (OSCAR) systems. MDS collects nursing home quality information at the resident level while OSCAR collects information at the facility level. Both federal and state governments rely on these systems to regulate nursing home compliance with quality standards and to reimburse their operations. This commentary briefly introduces these two administrative databases and their current applications, as well as their potential utility and future development for quality improvement. </p>
+<p><strong>Introduction to MDS and OSCAR Databases</strong> </p>
+<p>Both MDS and OSCAR were mandated as government endeavors to improve the quality of care in nursing homes. MDS includes not only demographic and health condition variables, but also a broad array of clinical measures that are collected through resident assessments by nurses at admission, quarterly and yearly assessments. Some important categories of measures include cognitive patterns, psychosocial well-being, physical functioning, disease diagnoses, medications, and special treatment. The reliability and validity of MDS has been deemed acceptable by John Morris and the MDS development team (<a href="#ref">1</a>) and many other researchers. (<a href="#ref">2</a>) Instruments that were developed using variables in MDS, such as the Cognitive Performance Scale (CPS), Pain Scale (PS), Depression Rating Scale (DRS) and Social Engagement Scale have been validated. (<a href="#ref">3</a>) On the other hand, OSCAR contains data regarding state inspection deficiencies, nursing home self-reported facility characteristics, nurse staffing, and aggregate resident clinical measures. Although the general reliability of OSCAR has not been systematically evaluated, the reliability of its clinical measures was deemed good after comparison with similar MDS clinical variables. (<a href="#ref">3</a>) The validity of an OSCAR-based forty-indicator quality measure was found to be adequate. (<a href="#ref">4</a>) Since both MDS variables and OSCAR clinical measures are self-reported but not audited (<a href="#ref">5</a>), their utility in research and quality measures is disputable. The accuracy of MDS has been questioned (<a href="#ref">6</a>), and variations in interstate and intersurvey or deficiency citations have been identified in OSCAR. (<a href="#ref">7</a>) </p>
+<p><strong>Current Applications of MDS and OSCAR</strong> </p>
+<p>Since MDS and OSCAR are the two largest sources of national nursing home administrative data, they have been used to design major quality measurements. These include CMS Quality Measures (QMs) developed by Drs. John Morris, Vince Mor, and their research team; Quality Indicators (QIs) developed by Center for Health Systems Research and Analysis (CHSRA) of the University of Wisconsin-Madison; and the forty-indicator OSCAR-based quality measure developed by Dr. Charlene Harrington and colleagues. CMS QMs currently include 19 resident-level clinical outcome measures (previously there were 15) based on variables of MDS data, five of which are for short-stay residents and six of which have resident-level adjustments. A second set of measures, CMS QIs consist of 24 clinical and psychosocial measures based on the MDS database. Although the computation and numbers of indicators are different, these two systems of measurement both focus on clinical measures and quality of care. The OSCAR-based quality measure is comprised of 40 deficiency measures that are given by trained government surveyors to facilities with substandard quality of care or those that lack compliance with federal quality standards during yearly inspections. </p>
+<p>MDS and OSCAR have also been increasingly used in a number of government and public reports. (<a href="#ref">5,7</a>) Most importantly, based on these two administrative databases, CMS has launched three public reporting systems to guide the public in selecting nursing homes: "Nursing Home Compare" (<a href="http://www.medicare.gov/quality-care-finder/#nursing-home-compare" target="_blank" title="Nursing Home Compare" >http://www.medicare.gov/quality-care-finder/#nursing-home-compare</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />), "Five Star Quality Rating" (<a href="http://www.cms.hhs.gov/Certificationandcomplianc/13_FSQRS.asp"  target="_blank" title="CMS Five Star Quality Rating">http://www.cms.hhs.gov/Certificationandcomplianc/13_FSQRS.asp</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />), and "Special Focus Facility" (<a href="http://www.cms.hhs.gov/CertificationandComplianc/Downloads/SFFList.pdf"  target="_blank" title="Special Focus facility">http://www.cms.hhs.gov/CertificationandComplianc/Downloads/SFFList.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />) (<a href="#PDF">PDF Help</a>). "Nursing Home Compare" represents a newer generation of quality measurement for nursing home care since it represents a multi-dimensional and multi-level measurement system that incorporates CMS QMs, nurse staffing, and inspection deficiency measures at both resident and facility levels. The latter two measures are derived from OSCAR data. "Nursing Home Compare" contains the most comprehensive nursing home quality measures and includes facility structure (staffing), process (deficiencies), and outcome (QM) measures. It has become the foundation for the CMS "Five Star Rating System." Although both "Nursing Home Compare" and "Five Star Rating System" are associated with nursing home quality, they have not been systemically evaluated in terms of reliability and validity. In an effort to formulate a single dimension scorecard based on "Nursing Home Compare," the "Five Star Quality Rating" system was developed to represent a comprehensive ranking for nursing homes similar to the hotel business. "Special Focus Facility," on the other hand, annually publishes a list of facilities with persistent deficiencies and life-threatening citations documented in OSCAR data. In recent years, consumers have been able to choose desirable nursing homes for themselves or family members as a result of the public online information derived from these two data systems. In addition, policy makers and nursing home advocates have made decisions and influenced policies in light of the evidence presented in these data systems. </p>
+<p>A large body of literature has included clinical outcome measures from these two databases. Measures from MDS include the quality measures (QM) in the CMS "Nursing Home Compare"; MDS quality indicators (QIs); pressure sores and urinary tract infections; visual acuity, continence, and depression. Measures from OSCAR include surveyor-reported deficiencies, pressure ulcers, physical restraints, and catheters, as well as contractures and psychoactive drug use. (<a href="#ref">8-14</a>) </p>
+<p><strong>Potential Utility of MDS and OSCAR</strong> </p>
+<p>The future development of nursing home quality measures still depends primarily on these two administrative databases. A more consistent and accurate collection of OSCAR and MDS data is desirable. MDS version 3 is under development, and its first draft is scheduled to be published at the end of 2009. This updated version will provide better measures for quality of resident life at the resident level through enhanced resident interviews regarding items such as cognitive patterns, mood, and pain. Quality assessment and resulting improvement depend on high quality measurement instruments as well as high quality administrative databases. The current data and quality measures have paved the way for a pay-for-performance (P4P) approach in the nursing home industry. Accurate, accountable, and fair quality measurement is the key to development of the P4P mechanism, which can be used to stimulate quality improvement in nursing homes via financial incentives and lead to improvements in quality based on best practices. </p>
+<p><strong>Future Development</strong> </p>
+<p>In my opinion, the current quality assessment tools could be improved by the following: 1) Risk-adjusting the nurse staffing and deficiency measures in "Nursing Home Compare," because the current measures do not account for the differences between nurse education and experience, as these are not available in OSCAR. Persistent and severe, including life-threatening, deficiencies should be reflected in the deficiency measures. Although "Five Star Rating System" incorporated risk adjustments in its ratings, the ratings and the methods of risk adjustments may need further validation based on additional outcome measures, such as hospitalization rate; 2) Including non-clinical measures such as leadership, management, resident satisfaction and quality of life, especially for long-stay residents in nursing homes, as nursing home quality is a comprehensive construct; 3) Establishing a multilevel (resident and facility) risk-adjusted measurement model of nursing home quality that captures the variations of quality differences and allows for identifying factors associated with best practices in nursing home outcomes; 4) Testing best practice models identified in direction 3) with randomized trials and business cases to validate the generalizability and utility of the best practice models; and 5) Learning from international experiences and enriching our understanding of nursing home quality and its measurement through translational research. </p>
+<p><strong>Author</strong> </p>
+<p><strong>Ning Jackie Zhang, MD, PhD</strong><br />
+University of Central Florida, Orlando, FL </p>
+<p><strong>Disclaimer</strong> </p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Quality Measures Clearinghouse&trade; (NQMC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor, ECRI Institute. </p>
+<p><strong>Potential Conflicts of Interest</strong> </p>
+<p>Dr. Zhang declared no potential conflicts of interest with respect to this commentary. </p>
+<p><a name="ref"></a><strong>References</strong></p>
+<ol>
+    <li>Morris JN, Hawes C, Fries BE, et al. Designing the National Resident Assessment Instrument for nursing homes. Gerontologist. 1990; 30:293-307. </li>
+    <li>Karon SL, Sainfort F, Zimmerman DR. Stability of nursing home quality indicators over time. Med Care. 1999; 37:570-579. </li>
+    <li>Zhang, NJ, Paek, S &amp; Wan, TT. Reliability estimates of clinical measures between Minimum Data Set and Online Survey Certification and Reporting Data of US nursing homes. Med Care. 2009 47(4): 492-495. </li>
+    <li>Mullan JT, Harrington C. Nursing home deficiencies in the United States: a confirmatory factor analysis. Res Aging. 2001; 23:503-531. </li>
+    <li>General Accounting Office. Nursing homes: public reporting of quality indicators has merit, but national implementation is premature. Washington, DC: General Accounting Office; 2002. </li>
+    <li>Mor V. A comprehensive clinical assessment to inform policy and practice: applications of the Minimum Data Set. Med Care. 2004; 42(Suppl 4), III50-III59. </li>
+    <li>General Accounting Office. Nursing homes: additional steps needed to strengthen enforcement of federal quality standards. Washington, DC: General Accounting Office; 1999. </li>
+    <li>Schnelle JF. Determining the relationship between staffing and quality. Gerontologist. 2004; 44:10-12. </li>
+    <li>Bostick JE, Rantz MJ, Flesner MK, et al. Systematic review of studies of staffing and quality in nursing homes. J Am Med Dir Assoc. 2006; 7:366-376. </li>
+    <li>Zhang NJ, Unruh L, Wan TT. Has the Medicare Prospective Payment system led to increased nursing home efficiency? Health Serv Res. 2008; 43(3):1043-1061. </li>
+    <li>Grabowski DC, Stevenson DG. Ownership conversions and nursing home performance. Health Serv Res. 2008; 43(4):1184-1203. </li>
+    <li>Rantz MJ, Hicks L, Grando V, Petroski GF, Madsen RW, Mehr DR, et al. Nursing home quality, cost, staffing, and staff mix. Gerontologist. 2004; 44(1):24-38. </li>
+    <li>Konetzka RT, Yi D, Norton EC, Kilpatrick KE. Effects of Medicare payment changes on nursing home staffing and deficiencies. Health Serv Res. 2004; 39(3):463-488. </li>
+    <li>Castle NG, Longest BB. Administrative deficiency citations and quality of care in nursing homes. Health Serv Manage Res. 2006; 19(3):144-152. </li>
+</ol>
+<a name="PDF"></a>
+<p><strong>PDF Help</strong>: Documents in PDF format require the Adobe Acrobat Reader&reg;. If you experience problems with PDF documents, please <a href="/Home/Disclaimer?id=16456&contentType=expert-commentary&redirect=http%3a%2f%2fget.adobe.com%2freader%2f" title="Adobe Web site">download the latest version of the Reader&reg;</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />.</p>
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011399</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51322/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-patients-irrespective-of-frequency-of-dialysis-with-documented-monthly-npcr-measurements">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis patients (irrespective of frequency of dialysis) with documented monthly nPCR measurements.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011398</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51321/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-home-hemodialysis-and-peritoneal-dialysis-patients-who-have-monthly-measures-for-hemoglobin-during-the-reporting-period">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis, home hemodialysis, and peritoneal dialysis patients who have monthly measures for hemoglobin during the reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011397</li>
+            <li>May 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51319/end-stage-renal-disease-esrd-percentage-of-adult-hemodialysis-patientmonths-using-a-catheter-continuously-for-three-months-or-longer-for-vascular-access">End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011396</li>
+            <li>Apr 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51318/end-stage-renal-disease-esrd-adjusted-percentage-of-adult-hemodialysis-patientmonths-using-an-autogenous-arteriovenous-fistula-avf-as-the-sole-means-of-vascular-access">End stage renal disease (ESRD): adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula (AVF) as the sole means of vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011395</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51317/end-stage-renal-disease-esrd-percentage-of-all-peritoneal-dialysis-and-hemodialysis-patientmonths-with-serum-or-plasma-phosphorus-measured-at-least-once-within-the-month">End stage renal disease (ESRD): percentage of all peritoneal dialysis and hemodialysis patient-months with serum or plasma phosphorus measured at least once within the month.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

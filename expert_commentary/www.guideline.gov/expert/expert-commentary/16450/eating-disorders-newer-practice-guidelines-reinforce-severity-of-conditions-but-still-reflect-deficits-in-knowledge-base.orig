@@ -1,0 +1,537 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Eating Disorders: Newer Practice Guidelines Reinforce Severity of Conditions But Still Reflect Deficits in Knowledge Base | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>February 25, 2008</li>
+			</ul>
+			<h1>Eating Disorders: Newer Practice Guidelines Reinforce Severity of Conditions But Still Reflect Deficits in Knowledge Base</h1>
+			<p class="byline">By: Cynthia M. Bulik, PhD, FAED and Nancy D. Berkman, PhD, MLIR</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/expert/expert-commentary/16450/eating-disorders-newer-practice-guidelines-reinforce-severity-of-conditions-but-still-reflect-deficits-in-knowledge-base" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.guideline.gov/expert/expert-commentary/16450/eating-disorders-newer-practice-guidelines-reinforce-severity-of-conditions-but-still-reflect-deficits-in-knowledge-base" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.guideline.gov/expert/expert-commentary/16450/eating-disorders-newer-practice-guidelines-reinforce-severity-of-conditions-but-still-reflect-deficits-in-knowledge-base&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Eating Disorders: Newer Practice Guidelines Reinforce Severity of Conditions But Still Reflect Deficits in Knowledge Base&body=https://www.guideline.gov/expert/expert-commentary/16450/eating-disorders-newer-practice-guidelines-reinforce-severity-of-conditions-but-still-reflect-deficits-in-knowledge-base" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (0)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>Eating disorders are potentially life threatening conditions that strike women and men of all ages, races, and socioeconomic backgrounds. Lifetime prevalence estimates of DSM-IV anorexia nervosa, bulimia nervosa, and binge eating disorder are 0.9%, 1.5%, and 3.5% among women and 0.3%, 0.5%, and 2.0% among men (<a href="#ref">1-5</a>). These estimates are relatively constant across Western nations. Despite the serious nature of these disorders, to date there is little research available to help practitioners recognize, diagnose, and treat them. The National Guideline Clearinghouse<sup>&trade;</sup> (NGC) includes four (4) summaries of guidelines on this specific topic. They are: </p>
+<ul style="list-style-type: disc;">
+    <li><a href="/content.aspx?id=11035" title="Guideline #5814">Eating disorders among children and adolescents</a>. Finnish Medical Society Duodecim (<a href="#ref6">6</a>) </li>
+    <li><a href="/content.aspx?id=5066" title="Guideline #3550">Eating disorders. Core interventions in the treatment and management of anorexia nervosa, bulimia nervosa and related eating disorders</a>. National Collaborating Centre for Mental Health (National Institute for Health and Clinical Excellence [NICE]) (<a href="#ref7">7</a>) </li>
+    <li><a href="/content.aspx?id=3589" title="Guideline #2815">Identifying and treating eating disorders</a>. American Academy of Pediatrics (<a href="#ref8">8</a>) </li>
+    <li><a href="/content.aspx?id=9318" title="Guideline #4987">Practice guideline for the treatment of patients with eating disorders</a>. American Psychiatric Association (<a href="#ref9">9</a>) </li>
+</ul>
+<p>See the related <a href="/syntheses/synthesis.aspx?id=16425" title="Synthesis">NGC Guideline Synthesis</a> that provides a comparison of the four guidelines above. </p>
+<p><strong>Practice Guidelines in the National Guideline Clearinghouse<sup>&trade;</sup> (NGC)</strong></p>
+<p>A comparison of guidelines from the American Academy of Pediatrics (AAP), the American Psychiatric Association (APA), Finnish Medical Society Duodecim, and the National Institute for Health and Clinical Excellence (NICE) in the United Kingdom provides a fascinating cross-cultural glimpse into screening for and management of eating disorders. The newest posting/entry on this topic in NGC is the Finnish guideline, which focuses on anorexia and bulimia nervosa and pays particular attention to child and adolescent cases. Perhaps most evident is the homogeneity of presentation across cultures. Eating disorders cross cultural boundaries and present similar detection and treatment challenges around the world. </p>
+<p>The new Finnish guidelines provide five simple screening questions for practitioners to use to start the conversation about eating disorders. These questions deal with self-induced vomiting, anxiety about not being able to control food intake, weight loss over the past 3 months, and whether the patient considers him or herself to be obese even though others think he or she is underweight and whether food or thoughts of food dominate his or her life. Although these items are not diagnostic, they provide convenient tools for practitioners who suspect a patient may suffer from an eating disorder. </p>
+<p>One critical insight to take from the comparison of the four guidelines is the importance of patient age when working with eating disorders. Although commonly misperceived as disorders that afflict only teenage girls, eating disorders actually afflict men and women of all ages. Thus, all aspects of management, from diagnosis to caloric prescription, from goal weight-setting to whether and how to involve the family, must consider patient age in the treatment plan. </p>
+<p>An overriding problem reflected in all these guidelines is the relative absence of available and effective pharmacologic interventions for eating disorders. With the exception of fluoxetine for bulimia nervosa, which is alluded to in the AAP guidelines and mentioned by name in the others, scant evidence exists supporting any specific medication in the treatment of any of these conditions, particularly anorexia nervosa (the most lethal of these disorders). </p>
+<p>What is clear from a comparison of these guidelines is that the evidence-base remains inadequate to provide strong clinical recommendations. We addressed the lack of sufficient information in a recent systematic review on the management of eating disorders. Our review highlights numerous deficiencies in the literature and recommendations for future research, which will allow for further refinement of both adult and pediatric guidelines for the management of eating disorders. A summarization of the findings is provided below. </p>
+<p>Note: Definitions for Anorexia Nervosa, Bulimia Nervosa, and Binge Eating Disorder can be found at the conclusion of this Commentary. </p>
+<p><strong>Evidence Report on the Management of Eating Disorders</strong></p>
+<p><strong><em>Methods</em></strong></p>
+<p>The RTI International-University of North Carolina at Chapel Hill Evidence-based Practice Center (RTI-UNC EPC) conducted a systematic review (<a href="#ref1">1</a>) of the available literature (1980 through September 2005) on key questions concerning treatment and outcome of anorexia nervosa, bulimia nervosa, and eating disorders not otherwise specified focusing on binge eating disorder (<a href="#ref">1-5</a>). We addressed six questions: (1) efficacy of treatment, (2) harms associated with treatment, (3) factors associated with the efficacy of treatment, (4) whether efficacy of treatment differs by sex, gender, age, race, ethnicity, or cultural group, (5) factors associated with outcomes, and (6) whether outcomes differ by sex, gender, age, race, ethnicity, or cultural group. The paucity of literature on this topic has already been mentioned. To view the results of the systematic review, refer to the original published document (<a href="#ref2">2</a>). </p>
+<p><strong><em>Results</em></strong></p>
+<p><span style="text-decoration: underline;">Anorexia Nervosa</span><a href="#def"><sup>1</sup></a></p>
+<p>For adults, preliminary evidence suggested that cognitive behavioral therapy may reduce the relapse risk after weight restoration. For adolescents, evidence supported specific forms of family therapy that initially focused on parental control of renutrition. </p>
+<p>Among anorexia nervosa patient populations, at least one-half no longer suffered from anorexia nervosa at follow up, but many continued to have other eating disorders; mortality was significantly higher than would be expected in the population. Factors associated with recovery or good outcomes were lower levels of depression and compulsivity. Factors associated with mortality included concurrent alcohol and substance use disorders. </p>
+<p><span style="text-decoration: underline;">Bulimia Nervosa</span><a href="#def"><sup>2</sup></a></p>
+<p>The medication-only literature supported fluoxetine (60 mg/day) administered for 6 to 18 weeks in terms of short-term reductions in binge eating, purging, and psychological features. The 60 mg dose performed better than lower doses and was associated with prevention of relapse at 1 year. Long-term effectiveness of fluoxetine is unclear. Cognitive behavioral therapy administered individually or in groups reduced core symptoms of binge eating, purging, and psychological features in both the short and the long term. How best to treat individuals who do not respond to cognitive behavioral therapy or fluoxetine is unknown. </p>
+<p>Generally, more than one-half of patients no longer suffered from this diagnosis at the end of various studies. A substantial percentage continued to suffer from other eating disorders; depression was related to worse outcomes. Bulimia nervosa was not associated with increased mortality. </p>
+<p><span style="text-decoration: underline;">Binge Eating Disorder</span><a href="#def"><sup>3</sup></a></p>
+<p>Our systematic review focused on outcomes related to binge eating and weight change in overweight individuals. Selective serotonin reuptake inhibitors (SSRIs) decreased target eating, psychiatric and weight symptoms, and severity of illness. However, studies were often short, and we could not determine whether observed improvements persisted after patients discontinued the medication. Cognitive behavioral therapy alone was associated with decreased binge eating. What remains unclear is whether this type of intervention helps with depressed mood, and it apparently does not produce decreases in weight. Self-help led to decreases in binge eating and negative psychological features, and rates of abstinence from binge eating were comparable to those in face-to-face psychotherapy. </p>
+<p><strong>Conclusions</strong></p>
+<p>Existing literature about treatment efficacy and outcome for these eating disorders is of highly variable quality, with the greatest deficiencies for anorexia nervosa. The gaps in the knowledge base are substantial barriers to the development of comprehensive guidelines for management of these disorders, even though the ones now in the National Guideline Clearinghouse<sup>&trade;</sup> reflect substantial efforts to overcome them. The advice contained in the four guidelines combine evidence from the extant literature with clinical consensus regarding patient management. When the evidence base is insufficient to inform guidelines, clinical consensus on sound management is sought. Given the need for additional, reliable evidence with substantial external validity, further research is imperative to enrich any guidelines for eating disorders treatment. </p>
+<p>Future studies require large numbers of participants, multiple sites, appropriate biological and psychological outcomes, and clarity regarding the age of participants. For bulimia nervosa, optimal approaches are needed for those who do not respond to medication or cognitive behavioral therapy. For binge eating disorder, future studies should identify interventions that are effective for both elimination of binge eating and reduction of weight (in overweight individuals), and effective strategies for prevention of relapse. For all three disorders, greater attention needs to be paid to factors influencing outcomes, harms associated with treatment, and differential efficacy for men relative to women and between different race and ethnicity groups. </p>
+<p>The field needs to develop clear definitions of remission, recovery, and relapse. In addition, given the frequency with which the relatively vague diagnosis of eating disorders not otherwise specified is given &mdash; for which practice guidelines would be exceedingly difficult to develop &mdash; more research needs to be focused on treatment outcomes of this array of disease presentations. For outcome studies, especially for bulimia nervosa and binge eating disorder, population-based studies with comparison groups and adequate follow-up periods are critical. </p>
+<a name="def"></a>
+<p><span style="text-decoration: underline;">Definitions</span>:</p>
+<ol style="list-style-type: decimal;">
+    <li>Anorexia nervosa is marked by low body weight, fear of weight gain, disturbance in the way in which one's body size is perceived, denial of illness, or undue influence of weight on self-evaluation. Although amenorrhea is a diagnostic criterion, it is of questionable relevance. </li>
+    <li>Bulimia nervosa is characterized by recurrent episodes of binge eating in combination with some form of compensatory behavior. Binge eating is the consumption of an uncharacteristically large amount of food by social comparison coupled with a feeling of being out of control. Compensatory behaviors include self-induced vomiting; misuse of laxatives, diuretics, or other agents; fasting; and excessive exercise. </li>
+    <li>Eating disorders not otherwise specified actually comprises the majority of individuals who seek treatment; this diagnostic group includes a variety of subthreshold and atypical presentations including binge eating disorder (BED). BED is marked by binge eating in the absence of compensatory behaviors, a series of associated features of binge eating, and marked distress regarding binge eating. Overweight and obesity are commonly seen in individuals with BED. </li>
+</ol>
+<p><strong>Authors</strong></p>
+<p><strong>Cynthia M. Bulik, PhD, FAED</strong><br />
+Director, UNC Eating Disorders Program<br />
+University of North Carolina at Chapel Hill, Chapel Hill, NC</p>
+<p><strong>Nancy D. Berkman, PhD, MLIR</strong><br />
+Senior Health Policy Research Analyst<br />
+RTI International, Research Triangle Park, NC</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the authors and do not necessarily state or reflect those of the National Guideline Clearinghouse<sup>&trade;</sup> (NGC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor, ECRI Institute. </p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>Funding for the authors' systematic review was provided by the Agency for Healthcare Research and Quality (AHRQ), the Office of Research on Women's Health at the National Institutes of Health, and the Health Resources and Services Administration. </p>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;"><a name="ref1"></a>
+    <li>Berkman, N.D., C.M. Bulik, K.A. Brownley, K.N. Lohr, J.A. Sedway, A. Rooks, G. Gartlehner (February 2006). Evidence Report/Technology Assessment Number 135. AHRQ Publication No. 06-E010. "Management of Eating Disorders Evidence Report." Prepared by RTI International-University of North Carolina Evidence-based Practice Center under Contract No. 290-02-0016. Rockville, MD: Agency for Healthcare Research and Quality. <a name="ref2"></a></li>
+    <li>Berkman, N.D., C.M. Bulik, and K.N. Lohr. (2007). "Outcomes of Eating Disorders: A Systematic Review of the Literature." <em>International Journal of Eating Disorders</em>, 40(4):293-309 <a name="ref3"></a></li>
+    <li>Brownley, K.A., N.D. Berkman, J.A. Sedway, K.N. Lohr, and C.M. Bulik. (2007). "Binge Eating Disorder Treatment: A Systematic Review of Randomized Controlled Trials." <em>International Journal of Eating Disorders</em>, 40(4):337-348 <a name="ref4"></a></li>
+    <li>Bulik, C.M., N.D. Berkman, K.A. Brownley, J.A. Sedway, and K.N. Lohr (2007). "Anorexia Nervosa Treatment: A Systematic Review of Randomized Controlled Trials." <em>International Journal of Eating Disorders</em>, 40(4): 310-320. <a name="ref5"></a></li>
+    <li>Shapiro, J.R., N.D. Berkman, K.A. Brownley, J.A. Sedway, K.N. Lohr, and C.M. Bulik (2007). "Bulimia Nervosa Treatment: A Systematic Review of Randomized Controlled Trials." <em>International Journal of Eating Disorders</em>, 40(4): 321-336 <a name="ref6"></a></li>
+    <li>Eating disorders among children and adolescents. In: EBM Guidelines. Evidence-Based Medicine [Internet]. Helsinki, Finland: Wiley Interscience. John Wiley &amp; Sons; 2007 Mar 28 <a name="ref7"></a></li>
+    <li>Eating disorders. Core interventions in the treatment and management of anorexia nervosa, bulimia nervosa and related eating disorders. Leicester (UK): British Psychological Society; 2004. 260 p. <a name="ref8"></a></li>
+    <li>Identifying and treating eating disorders. Pediatrics 2003 Jan;111(1):204-11. <a href="http://www.ncbi.nlm.nih.gov/pubmed/12509579?dopt=Abstract" target="_blank" title="PubMed Web site">PubMed</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif"  /> </li>
+    <li>American Psychiatric Association. Treatment of patients with eating disorders, third edition. Am J Psychiatry 2006 Jul;163(7 Suppl):4-54. <a href="http://www.ncbi.nlm.nih.gov/pubmed/16925191?dopt=Abstract" target="_blank" title="PubMed Web site">PubMed</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif"  /> </li>
+</ol>
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NGC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the guideline and/or measure fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NGC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

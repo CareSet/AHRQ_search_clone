@@ -1,0 +1,904 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Screening for Lung Cancer | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+	<div class="content-header">
+		<ul class="content-header-meta">
+			<li class="prefix-icon large-icon synthesis">Guideline Synthesis</li>
+		</ul>
+		<h1>Screening for Lung Cancer</h1>
+	</div><!-- /.content-header -->
+
+	<!-- COMPARED LIST-->
+		<p>Guidelines Being Compared:</p>
+		<ul class="compared-list"> 
+				<li>
+                    <p class="compared-list-org">American Cancer Society (ACS)</p>
+					<p class="compared-list-title">American Cancer Society lung cancer screening guidelines.</p>
+                    <p class="compared-list-org">2013 Mar 01</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/43894">View Summary</a></p>					
+				</li>
+				<li>
+                    <p class="compared-list-org">Canadian Task Force on Preventive Health Care (CTFPHC)</p>
+					<p class="compared-list-title">Recommendations on screening for lung cancer.</p>
+                    <p class="compared-list-org">2016 Apr 05</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/50141">View Summary</a></p>					
+				</li>
+				<li>
+                    <p class="compared-list-org">U.S. Preventive Services Task Force (USPSTF)</p>
+					<p class="compared-list-title">Screening for lung cancer: U.S. Preventive Services Task Force recommendation statement.</p>
+                    <p class="compared-list-org">2014 Mar 04</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/47750">View Summary</a></p>					
+				</li>
+		</ul><!-- /.compared-list -->
+			
+	<!-- TOOLBAR -->
+	<div class="content-toolbar">
+		<!-- Primary -->
+		<ul class="tools primary-tools">
+			<li class="dropdown tool sections">
+				<a href="#" class="tool-button">Sections</a>
+				<div class="dropdown-panel">
+						<ul class="section-links">
+								<li><a href="#504" class="section-mark">Areas of Agreement and Difference</a></li>
+								<li><a href="#505" class="section-mark">Comparison of Recommendations</a></li>
+								<li><a href="#506" class="section-mark">Strength of Evidence and Recommendation Grading Schemes</a></li>
+								<li><a href="#507" class="section-mark">Methodology</a></li>
+								<li><a href="#509" class="section-mark">Benefits and Harms</a></li>
+								<li><a href="#511" class="section-mark">Abbreviations</a></li>
+								<li><a href="#512" class="section-mark">Status</a></li>
+						</ul>    
+				</div><!-- /.dropdown-panel -->
+			</li>
+		</ul><!-- /.tools primary-tools -->
+
+		<!-- Other -->
+		<ul class="tools other-tools">
+			<li class="dropdown tool">
+				<a href="#" class="tool-button">Share</a>
+				<div class="dropdown-panel">
+					<ul class="toolbar-social">
+						<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/syntheses/synthesis/50489" class="facebook">Facebook</a></li>
+						<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.guideline.gov/syntheses/synthesis/50489" class="twitter">Twitter</a></li>
+						<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.guideline.gov/syntheses/synthesis/50489&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+						<li><a href="mailto:?Subject=AHRQ: Screening for Lung Cancer&body=https://www.guideline.gov/syntheses/synthesis/50489" class="email">Email</a></li>
+					</ul><!-- /.toolbar-social -->
+				</div><!-- /.dropdown-panel -->
+			</li>
+			<li class="dropdown tool">
+				<a href="#" class="tool-button">Cite</a>
+				<div class="dropdown-panel citation">
+				    <p class="text-label"><label for="citation">Citation: </label></p>
+					<textarea id="citation">Internet citation: National Guideline Clearinghouse (NGC). Guideline synthesis: Screening for lung cancer. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2017 Jan. [cited YYYY Mon DD]. Available: http://www.guideline.gov.</textarea>
+				</div><!-- /.dropdown-panel -->
+			</li>
+		</ul><!-- /.tools other-tools -->
+
+		<!-- Accordion tools -->
+		<ul class="tools accordion-controls">
+			<li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+			<li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+		</ul><!-- /.accordion-controls -->
+	</div><!-- /.toolbar -->            
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+	<!-- ACCORDION -->
+	<div class="accordion-container" role="tablist" multiselectable="true">
+			<h2 class="accordion-title is-active" id="504" role="tab" aria-expanded="true" aria-controls="syn504"><a href="#">Areas of Agreement and Difference</a></h2>
+			<div class="accordion-panel is-active" id="syn504" role="tabpanel" aria-labelledby="504" ><p>A direct comparison of recommendations presented in the above guidelines for screening for lung cancer is provided below.</p>
+<h3><a name="agreement"></a>Areas of Agreement</h3>
+<h4>Screening Eligibility</h4>
+<p>All of the guideline developers' recommendations were informed by the results of the National Cancer Institute (NCI) National Lung Screening Trial (NLST). The NLST, a large-scale, multicenter randomized trial involving more than 50,000 current and former heavy smokers ages 55 to 74, compared the effects of two screening modalities&mdash;LDCT and CXR&mdash;on lung cancer mortality. The study found 20% fewer lung cancer deaths among trial participants screened with LDCT than with CXR. Based on these findings, the guideline developers agree that annual screening with LDCT should be offered to patients aged 55 to 74 (USPSTF extends the recommended age range to 80 years, based on modeling studies predicting the outcome of continuing the screening program used in the NLST) who have at least a 30 pack-year smoking history and either continue to smoke or have quit within the past 15 years. The groups agree that the discussion between an eligible patient and his/her physician about whether to undergo screening should address the associated limitations, benefits (e.g., reduced risk of morbidity/mortality from lung cancer in a high-risk population) and harms (e.g., chance of false-positive results; complications from diagnostic workups). None of the guideline developers recommends screening asymptomatic patients for lung cancer with CXR or sputum cytology.</p>
+<p>There is overall agreement that screening is not recommended for patients who do not meet (or no longer meet, if screening has been initiated) the eligibility criteria outlined above, nor for patients with severe comorbidities that would preclude potentially curative surgery and/or limit life expectancy. ACS explicitly recommends that clinicians not initiate discussion of lung cancer screening with patients who do not meet the above criteria. If lung cancer screening is requested, ACS continues, these patients should be informed that at this time, there is too much uncertainty regarding the balance of benefits and harms for individuals at younger or older ages and/or with less lifetime exposure to tobacco smoke and/or with sufficiently severe lung damage to require oxygen (or other health-related NLST exclusion criteria), and that screening is therefore not recommended.</p>
+<p>All of the guideline developers emphasize that screening current smokers for lung cancer should not be viewed as a substitute for smoking cessation, but rather as an adjunct to tobacco cessation interventions. The developers agree that smoking cessation counseling, provision of cessation treatments, and prevention of nonsmokers from being exposed to tobacco smoke are the most effective ways to decrease morbidity and mortality from lung cancer.</p>
+<h4>Screening Setting</h4>
+<p>According to ACCP, screening should only be conducted in a setting that can deliver the type of comprehensive care provided to NLST participants; that is, screening should be conducted in multidisciplinary coordinated care settings with a systematic process for screening, image interpretation, management of findings, and evaluation and treatment of potential cancers. CTFPHC similarly states that screening should only be done in health care settings with access to expertise in early diagnosis and treatment of lung cancer. In line with the other developers, ACS recommends that, wherever possible, adults who choose to undergo lung screening preferably should enter an organized screening program at an institution with expertise in LDCT screening, with access to a multidisciplinary team skilled in the evaluation, diagnosis, and treatment of abnormal lung lesions. If an organized, experienced screening program is not accessible, but the patient strongly wishes to be screened, ACS recommends the patient be referred to a center that performs a reasonably high volume of lung CT scans, diagnostic tests, and lung cancer surgeries. If such a setting is also not available and the patient is not willing or able to travel to such a setting, ACS notes that the risks of cancer screening may be substantially higher than the observed risks associated with screening in the NLST, and that screening is not recommended.</p>
+<h3><a name="difference"></a>Areas of Difference</h3>
+<h4>Discontinuation of Screening</h4>
+<p>The guideline developers provide differing guidance regarding when screening should be discontinued. CTFPHC recommends that eligible patients be screened annually for three consecutive years. According to ACS, adults who choose to be screened should follow the NLST protocol of annual LDCT screening until they reach age 74. USPSTF does not recommend a particular duration or cutoff age, but rather that screening be discontinued once a person has not smoked for 15 years or develops a health problem that substantially limits life expectancy or the ability or willingness to have curative lung surgery. Lastly, ACCP states that the most effective duration or frequency of screening is not known. </p></div>
+			<h2 class="accordion-title is-active" id="505" role="tab" aria-expanded="true" aria-controls="syn505"><a href="#">Comparison of Recommendations</a></h2>
+			<div class="accordion-panel is-active" id="syn505" role="tabpanel" aria-labelledby="505" ><p><h3>Screening for Lung Cancer</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides a comparison of recommendations considered by each group">
+    <tbody>
+        <tr>
+            <th width="10%" valign="top" headers="screening">ACS<br />
+            (2013)</th>
+            <td valign="top" style="width: 90%;" headers="screening">
+            <p>Clinicians should ascertain the smoking status and smoking history of their patients aged 55 years to 74 years (see to Table 1 in the original guideline document). Clinicians with access to high-volume, high-quality lung cancer screening and treatment centers should initiate a discussion about lung cancer screening with patients aged 55 years to 74 years who have at least a 30&ndash;pack-year smoking history, currently smoke, or have quit within the past 15 years, and who are in relatively good health. Core elements of this discussion should include the following benefits, uncertainties, and harms of screening:</p>
+            <ul style="list-style-type: disc;">
+                <li><strong>Benefit</strong>: Screening with LDCT has been shown to substantially reduce the risk of dying from lung cancer. </li>
+                <li><strong>Limitations</strong>: LDCT will not detect all lung cancers or all lung cancers early, and not all patients who have a lung cancer detected by LDCT will avoid death from lung cancer. </li>
+                <li><strong>Harms</strong>: There is a significant chance of a false-positive result, which will require additional periodic testing and, in some instances, an invasive procedure to determine whether or not an abnormality is lung cancer or some non-lung cancer-related incidental finding. Fewer than 1 in 1,000 patients with a false-positive result experience a major complication resulting from a diagnostic workup. Death within 60 days of a diagnostic evaluation has been documented, but is rare and most often occurs in patients with lung cancer. </li>
+                <li>Smoking cessation counseling constitutes a high priority for clinical attention for patients who are currently smoking. Current smokers should be informed of their continuing risk of lung cancer, and referred to smoking cessation programs. Screening should not be viewed as an alternative to smoking cessation. </li>
+                <li>Eligible patients should make the screening decision together with their health care provider. Helping individuals to clarify their personal values can facilitate effective decision-making:
+                <ul style="list-style-type: disc;">
+                    <li>Individuals who value the opportunity to reduce their risk of dying from lung cancer and who are willing to accept the risks and costs associated with having an LDCT and the relatively high likelihood of the need for further tests, even tests that have the rare but real risk of complications and death, may opt to be screened with LDCT every year. </li>
+                    <li>Individuals who place greater value on avoiding testing that carries a high risk of false-positive results and a small risk of complications, and who understand and accept that they are at a much higher risk of death from lung cancer than from screening complications, may opt not to be screened with LDCT. </li>
+                </ul>
+                </li>
+                <li>Clinicians should not discuss lung cancer screening with LDCT with patients who do not meet the above criteria. If lung cancer screening is requested, these patients should be informed that at this time, there is too much uncertainty regarding the balance of benefits and harms for individuals at younger or older ages and/or with less lifetime exposure to tobacco smoke and/or with sufficiently severe lung damage to require oxygen (or other health-related NLST exclusion criteria), and therefore screening is not recommended. </li>
+                <li>Adults who choose to be screened should follow the NLST protocol of annual LDCT screening until they reach age 74 years. </li>
+                <li>CXR should not be used for cancer screening. </li>
+                <li>Wherever possible, adults who choose to undergo lung screening preferably should enter an organized screening program at an institution with expertise in LDCT screening, with access to a multidisciplinary team skilled in the evaluation, diagnosis, and treatment of abnormal lung lesions. If an organized, experienced screening program is not accessible, but the patient strongly wishes to be screened, they should be referred to a center that performs a reasonably high volume of lung CT scans, diagnostic tests, and lung cancer surgeries. If such a setting is not available and the patient is not willing or able to travel to such a setting, the risks of cancer screening may be substantially higher than the observed risks associated with screening in the NLST, and screening is not recommended. Referring physicians should help their patients identify appropriate settings with this expertise. </li>
+                <li>At this time, very few government or private insurance programs provide coverage for the initial LDCT preformed for the indication of lung cancer screening. Clinicians who decide to offer screening bear the responsibility of helping patients determine if they will have to pay for the initial test themselves and to help the patient know how much they will have to pay. In light of the firm evidence that screening high-risk individuals can substantially reduce death rates from lung cancer, both private and public health care insurers should expand coverage to include the cost of annual LDCT screening for lung cancer in appropriate high-risk individuals. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top" headers="screening">ACCP<br />
+            (2013)</th>
+            <td valign="top" headers="screening">
+            <p><strong><span style="text-decoration: underline;">Results</span></strong></p>
+            <p><strong>Screening with CXR and Sputum Analysis</strong></p>
+            <p>In patients at risk for developing lung cancer, screening for lung cancer with CXR once or at regular intervals is not recommended (<strong>Grade 1A</strong>).</p>
+            <p><em>Remark</em>: These results should not be interpreted as diminishing the role of CXR in evaluating patients with pulmonary symptoms (an entirely different situation than screening asymptomatic individuals).</p>
+            <p>In patients at risk for developing lung cancer, screening for lung cancer with sputum cytology at regular intervals is not suggested (<strong>Grade 2B</strong>).</p>
+            <p><strong>Screening with LDCT</strong></p>
+            <p>For smokers and former smokers who are age 55 to 74 and who have smoked for 30 pack-years or more and either continue to smoke or have quit within the past 15 years, the authors suggest that annual screening with LDCT should be offered over both annual screening with CXR or no screening, but only in settings that can deliver the comprehensive care provided to NLST participants (<strong>Grade 2B</strong>).*</p>
+            <p><em>Remark</em>: Counseling should include a complete description of potential benefits and harms, so the individual can decide whether to undergo LDCT screening.</p>
+            <p><em>Remark</em>: Screening should be conducted in a center similar to those where the NLST was conducted, with multidisciplinary coordinated care and a comprehensive process for screening, image interpretation, management of findings, and evaluation and treatment of potential cancers.</p>
+            <p><em>Remark</em>: A number of important questions about screening could be addressed if individuals who are screened for lung cancer are entered into a registry that captures data on follow-up testing, radiation exposure, patient experience, and smoking behavior.</p>
+            <p><em>Remark</em>: Quality metrics should be developed such as those in use for mammography screening, which could help enhance the benefits and minimize the harm for individuals who undergo screening.</p>
+            <p><em>Remark</em>: Screening for lung cancer is not a substitute for stopping smoking. The most important thing patients can do to prevent lung cancer is not smoke.</p>
+            <p><em>Remark</em>: The most effective duration or frequency of screening is not known.</p>
+            <p>For individuals who have accumulated fewer than 30 pack-years of smoking or are either younger than age 55 or older than 74, or individuals who quit smoking more than 15 years ago, and for individuals with severe comorbidities that would preclude potentially curative treatment and/or limit life expectancy, the authors suggest that CT screening should not be performed (<strong>Grade 2C</strong>).*</p>
+            <p class="Note">*These recommendations were approved through a previous multisociety guideline development process and published elsewhere and are included here for completeness. The majority of panel members at the ACCP Lung Cancer Guidelines (3rd ed) meeting voted in agreement with both recommendations. Approval is described more fully in the methodology article (see the "Availability of Companion Documents" field of the <a href="/summaries/summary/46164" title="Guideline #9872" target="_blank">NGC summary</a>).</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top" headers="screening">CTFPHC<br />
+            (2016)</th>
+            <td valign="top" headers="screening">
+            <p><strong><span style="text-decoration: underline;">Summary of Recommendations for Clinicians and Policymakers</span></strong></p>
+            <p>These recommendations apply to adults 18 years of age and older who are not suspected of having lung cancer. These recommendations do not apply to adults with previous lung cancer, or signs or symptoms of lung cancer.</p>
+            <p>The Task Force recommends screening for lung cancer among adults aged 55 to 74 years with at least a 30 pack-year smoking history, who smoke or quit smoking less than 15 years ago, with LDCT every year up to three consecutive years. Screening should only be done in health care settings with access to expertise in early diagnosis and treatment of lung cancer. (<strong>Weak recommendation, low-quality evidence</strong>).</p>
+            <p>The task force recommends not screening all other adults, regardless of age, smoking history or other risk factors, for lung cancer with LDCT. (<strong>Strong recommendation, very low-quality evidence</strong>).</p>
+            <p>The task force recommends that chest radiography, with or without sputum cytology, not be used to screen for lung cancer. (<strong>Strong recommendation, low-quality evidence</strong>).</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top" headers="screening">USPSTF<br />
+            (2014)</th>
+            <td valign="top" headers="screening">
+            <p><strong><span style="text-decoration: underline;">Summary of Recommendation and Evidence</span></strong></p>
+            <p>The USPSTF recommends annual screening for lung cancer with LDCT in adults aged 55 to 80 years who have a 30 pack-year smoking history and currently smoke or have quit within the past 15 years. Screening should be discontinued once a person has not smoked for 15 years or develops a health problem that substantially limits life expectancy or the ability or willingness to have curative lung surgery. (<strong>B recommendation</strong>)</p>
+            <p><strong><span style="text-decoration: underline;">Clinical Considerations</span></strong></p>
+            <p><strong>Patient Population Under Consideration</strong></p>
+            <p>The risk for lung cancer increases with age and cumulative exposure to tobacco smoke and decreases with time since quitting smoking. The best evidence for the benefit of screening comes from the NLST, which enrolled adults aged 55 to 74 years who had at least a 30 pack-year smoking history and were current smokers or had quit within the past 15 years. As with all screening trials, the NLST tested a specific intervention over a finite period. Because initial eligibility extended through age 74 years and participants received 3 annual screening computed tomographic scans, the oldest participants in the trial were aged 77 years.</p>
+            <p>USPSTF used modeling studies to predict the benefits and harms of screening programs that use different screening intervals, age ranges, smoking histories, and times since quitting. A program that annually screens adults aged 55 to 80 years who have a 30 pack-year smoking history and currently smoke or have quit within the past 15 years is projected to have a reasonable balance of benefits and harms. The model assumes that persons who achieve 15 years of smoking cessation during the screening program discontinue screening. This model predicts the outcomes of continuing the screening program used in the NLST through age 80 years.</p>
+            <p>Screening may not be appropriate for patients with substantial comorbid conditions, particularly those at the upper end of the screening age range. The NLST excluded persons who were unlikely to complete curative lung cancer surgery and those with medical conditions that posed a substantial risk for death during the 8-year trial. The baseline characteristics of the NLST showed a relatively healthy sample, and fewer than 10% of enrolled participants were older than 70 years. Persons with serious comorbid conditions may experience net harm, no net benefit, or at least substantially less net benefit. Similarly, persons who are unwilling to have curative lung surgery are unlikely to benefit from a screening program.</p>
+            <p><strong>Assessment of Risk</strong></p>
+            <p>Age, total exposure to tobacco smoke, and years since quitting smoking are important risk factors for lung cancer and were used to determine eligibility in the NLST. Other risk factors include specific occupational exposures, radon exposure, family history, and history of pulmonary fibrosis or chronic obstructive lung disease. The incidence of lung cancer is relatively low in persons younger than 50 years but increases with age, especially after age 60 years. In current and former smokers, age-specific incidence rates increase with age and cumulative exposure to tobacco smoke.</p>
+            <p>Smoking cessation substantially reduces a person's risk for developing and dying of lung cancer. Among persons enrolled in the NLST, those who were at highest risk because of additional risk factors or a greater cumulative exposure to tobacco smoke experienced most of the benefit. A validated multivariate model showed that persons in the highest 60% of risk accounted for 88% of all deaths preventable by screening.</p>
+            <p><strong>Screening Tests</strong></p>
+            <p>LDCT has shown high sensitivity and acceptable specificity for the detection of lung cancer in high-risk persons. Chest radiography and sputum cytologic evaluation have not shown adequate sensitivity or specificity as screening tests. Therefore, LDCT is currently the only recommended screening test for lung cancer.</p>
+            <p><strong>Treatment</strong></p>
+            <p>Surgical resection is the current standard of care for localized NSCLC. This type of cancer is treated with surgical resection when possible and also with radiation and chemotherapy. Annual LDCT screening may not be useful for patients with life-limiting comorbid conditions or poor functional status who may not be candidates for surgery.</p>
+            <p><strong>Other Approaches to Prevention</strong></p>
+            <p>Smoking cessation is the most important intervention to prevent NSCLC. Advising smokers to stop smoking and preventing nonsmokers from being exposed to tobacco smoke are the most effective ways to decrease the morbidity and mortality associated with lung cancer. Current smokers should be informed of their continuing risk for lung cancer and offered cessation treatments. Screening with LDCT should be viewed as an adjunct to tobacco cessation interventions.</p>
+            <p><strong>Useful Resources</strong></p>
+            <p>Clinicians have many resources to help patients stop smoking. The Centers for Disease Control and Prevention has developed a <a href="http://www.cdc.gov/tobacco/campaign/tips" target="_blank" title="CDC Web site">Web site</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif"  /> with many such resources, including information on tobacco quit lines, available in several languages. Quit lines provide telephone-based behavioral counseling and support to tobacco users who want to quit smoking. Counseling is provided by trained cessation specialists who follow standardized protocols that may include several sessions and are generally provided at no cost to users. The content has been adapted for specific populations and can be tailored for individual clients. Strong evidence shows that quit lines can expand the use of evidence-based tobacco cessation treatments in populations that may have limited access to treatment options.</p>
+            <p>Combination therapy with counseling and medications is more effective at increasing cessation rates than either component alone. The U.S. Food and Drug Administration has approved several forms of nicotine replacement therapy (gum, lozenge, transdermal patch, inhaler, and nasal spray), as well as bupropion and varenicline. More information on the treatment of tobacco dependence can be found in the U.S. Public Health Service Reference Guide <a href="http://www.ahrq.gov/professionals/clinicians-providers/guidelines-recommendations/tobacco/index.html"  target="_blank" title="AHRQ Web site">Treating Tobacco Use and Dependence: 2008 Update</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. The National Cancer Institute has developed a <a href="http://www.cancer.gov/newscenter/qa/2002/NLSTstudyGuidePatientsPhysicians" title="Cancer.gov Web site"  target="_blank">patient and physician guide</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> for shared decision making for lung cancer screening based on the NLST. This one page resource may be a useful communication tool for providers and patients.</p>
+            <p>In addition, the National Comprehensive Cancer Network has developed guidelines for the follow-up of lung nodules. The appropriate follow-up and management of abnormalities found on LDCT scans are important given the high rates of false-positive results and the potential for harms. Lung cancer screening with LDCT should be implemented as part of a program of care, as outlined in the original guideline document.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></p></div>
+			<h2 class="accordion-title is-active" id="506" role="tab" aria-expanded="true" aria-controls="syn506"><a href="#">Strength of Evidence and Recommendation Grading Schemes</a></h2>
+			<div class="accordion-panel is-active" id="syn506" role="tabpanel" aria-labelledby="506" ><table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides the rating schemes used by the guideline groups to rate the level of evidence and/or the strength of the recommendations">
+    <tbody>
+        <tr>
+            <th width="10%" valign="top">ACS<br />
+            (2013)</th>
+            <td valign="top" style="width: 90%;">
+            <p>Not applicable</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">ACCP<br />
+            (2013)</th>
+            <td valign="top">
+            <p><strong>Strength of the Recommendations Grading System</strong></p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: Strength of the Recommendations Grading System">
+                <thead>
+                    <tr>
+                        <th class="Center" valign="top" scope="col">Grade of Recommendation</th>
+                        <th class="Center" valign="top" scope="col">Benefit vs. Risk and Burdens</th>
+                        <th class="Center" valign="top" scope="col">Methodologic Quality of Supporting Evidence</th>
+                        <th class="Center" valign="top" scope="col">Implications</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td valign="top" scope="row">Strong recommendation, high-quality evidence, Grade 1A</td>
+                        <td valign="top">Benefits clearly outweigh risk and burdens or vice versa</td>
+                        <td valign="top">Consistent evidence from randomized controlled trials (RCTs) without important limitations or exceptionally strong evidence from observational studies</td>
+                        <td valign="top">Recommendation can apply to most patients in most circumstances. Further research is very unlikely to change confidence in the estimate of effect.</td>
+                    </tr>
+                    <tr>
+                        <td valign="top" scope="row">Strong recommendation, moderate-quality evidence, Grade 1B</td>
+                        <td valign="top">Benefits clearly outweigh risk and burdens or vice versa</td>
+                        <td valign="top">Evidence from RCTs with important limitations (inconsistent results, methodologic flaws, indirect or imprecise), or very strong evidence from observational studies</td>
+                        <td valign="top">Recommendation can apply to most patients in most circumstances. Higher quality research may well have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+                    </tr>
+                    <tr>
+                        <td valign="top" scope="row">Strong recommendation, low- or very-low-quality evidence, Grade 1C</td>
+                        <td valign="top">Benefits clearly outweigh risk and burdens or vice versa</td>
+                        <td valign="top">Evidence for at least one critical outcome from observational studies, case series, or from RCTs with serious flaws or indirect evidence</td>
+                        <td valign="top">Recommendation can apply to most patients in many circumstances. Higher-quality research is likely to have an important impact on confidence in the estimate of effect and may well change the estimate.</td>
+                    </tr>
+                    <tr>
+                        <td valign="top" scope="row">Weak recommendation, high-quality evidence, Grade 2A</td>
+                        <td valign="top">Benefits closely balanced with risks and burden</td>
+                        <td valign="top">Consistent evidence from RCTs without important limitations or exceptionally strong evidence from observational studies</td>
+                        <td valign="top">The best action may differ depending on circumstances or patient's or societal values. Further research is very unlikely to change confidence in the estimate of effect.</td>
+                    </tr>
+                    <tr>
+                        <td valign="top" scope="row">Weak recommendation, moderate-quality evidence, Grade 2B</td>
+                        <td valign="top">Benefits closely balanced with risks and burden</td>
+                        <td valign="top">Evidence from RCTs with important limitations (inconsistent results, methodologic flaws, indirect or imprecise) or very strong evidence from observational studies</td>
+                        <td valign="top">Best action may differ depending on circumstances or patient's or societal values. Higher-quality research may well have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+                    </tr>
+                    <tr>
+                        <td valign="top" scope="row">Weak recommendation, low- or very-low-quality evidence, Grade 2C</td>
+                        <td valign="top">Uncertainty in the estimates of benefits, risks, and burden; benefits, risk, and burden may be closely balanced</td>
+                        <td valign="top">Evidence for at least one critical outcome from observational studies, case series, or RCTs, with serious flaws or indirect evidence</td>
+                        <td valign="top">Other alternatives may be equally reasonable. Higher-quality research is likely to have an important impact on confidence in the estimate of effect and may well change the estimate.</td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">CTFPHC<br />
+            (2016)</th>
+            <td valign="top">
+            <p><strong><span style="text-decoration: underline;">Grading of Recommendations Assessment, Development and Evaluation (GRADE) Working Group Grades of Evidence</span></strong></p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: Grading of Recommendations Assessment, Development and Evaluation (GRADE) Working Group Grades of Evidence">
+                <tbody>
+                    <tr>
+                        <td valign="top"><strong>High quality</strong> &mdash; Further research is very unlikely to change confidence in the estimate of effect.</td>
+                    </tr>
+                    <tr>
+                        <td valign="top"><strong>Moderate quality</strong> &mdash; Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate.</td>
+                    </tr>
+                    <tr>
+                        <td valign="top"><strong>Low quality</strong> &mdash; Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+                    </tr>
+                    <tr>
+                        <td valign="top"><strong>Very low quality</strong> &mdash; The Canadian Task Force on Preventive Health Care (CTFPHC) is very uncertain about the estimate.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><strong><span style="text-decoration: underline;">Grading of Recommendations</span></strong></p>
+            <ul style="list-style-type: disc;">
+                <li><strong>Strong recommendations</strong> are those for which the CTFPHC is confident that the desirable effects of an intervention outweigh its undesirable effects (strong recommendation for an intervention) or that the undesirable effects of an intervention outweigh its desirable effects (strong recommendation against an intervention). A strong recommendation implies that most individuals will be best served by the recommended course of action. </li>
+                <li><strong>Weak recommendations</strong> are those for which the desirable effects probably outweigh the undesirable effects (weak recommendation for an intervention) or undesirable effects probably outweigh the desirable effects (weak recommendation against an intervention), but appreciable uncertainty exists. A weak recommendation implies that most people would want the recommended course of action but that many would not. Clinicians must recognize that different choices will be appropriate for each individual, and they must help each person arrive at a management decision that is consistent with his or her values and preferences. Policy-making will require substantial debate and involvement of various stakeholders. Weak recommendations result when the balance between desirable and undesirable effects is small, the quality of evidence is lower, or there is more variability in the values and preferences of patients. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">USPSTF<br />
+            (2014)</th>
+            <td valign="top">
+            <p><strong>What the U.S. Preventive Services Task Force (USPSTF) Grades Mean and Suggestions for Practice</strong></p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: What the U.S. Preventive Services Task Force (USPSTF) Grades Mean and Suggestions for Practice">
+                <thead>
+                    <tr>
+                        <th class="Center" valign="top" scope="col">Grade</th>
+                        <th class="Center" valign="top" scope="col">Grade Definitions</th>
+                        <th class="Center" valign="top" scope="col">Suggestions for Practice</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">A</td>
+                        <td valign="top">The USPSTF recommends the service. There is high certainty that the net benefit is substantial.</td>
+                        <td valign="top">Offer/provide this service.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">B</td>
+                        <td valign="top">The USPSTF recommends the service. There is high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial.</td>
+                        <td valign="top">Offer/provide this service.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">C</td>
+                        <td valign="top">The USPSTF recommends selectively offering or providing this service to individual patients based on professional judgment and patient preferences. There is at least moderate certainty that the net benefit is small.</td>
+                        <td valign="top">Offer/provide this service only if other considerations support offering or providing the service in an individual patient.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">D</td>
+                        <td valign="top">The USPSTF recommends against the service. There is moderate or high certainty that the service has no net benefit or that the harms outweigh the benefits.</td>
+                        <td valign="top">Discourage the use of this service.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">I<br />
+                        Statement</td>
+                        <td valign="top">The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of the service. Evidence is lacking, of poor quality, or conflicting, and the balance of benefits and harms cannot be measured.</td>
+                        <td valign="top">Read "Clinical Considerations" section of USPSTF Recommendation Statement (see the "Major Recommendations" field). If the service is offered, patients should understand the uncertainty about the balance of benefits and harms.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><strong>USPSTF Levels of Certainty Regarding Net Benefit</strong></p>
+            <p><strong>Definition</strong>: The USPSTF defines <em>certainty</em> as "likelihood that the USPSTF assessment of the net benefit of a preventive service is correct." The net benefit is defined as benefit minus harm of the preventive service as implemented in a general, primary care population. The USPSTF assigns a certainty level based on the nature of the overall evidence available to assess the net benefit of a preventive service.</p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: USPSTF Levels of Certainty Regarding Net Benefit">
+                <thead>
+                    <tr>
+                        <th class="Center" valign="top" scope="col">Level of Certainty</th>
+                        <th class="Center" valign="top" scope="col">Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">High</td>
+                        <td valign="top">The available evidence usually includes consistent results from well-designed, well-conducted studies in representative primary care populations. These studies assess the effects of the preventive service on health outcomes. This conclusion is therefore unlikely to be strongly affected by the results of future studies.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">Moderate</td>
+                        <td valign="top">The available evidence is sufficient to determine the effects of the preventive service on health outcomes, but confidence in the estimate is constrained by factors such as:
+                        <ul style="list-style-type: disc;">
+                            <li>The number, size, or quality of individual studies </li>
+                            <li>Inconsistency of findings across individual studies </li>
+                            <li>Limited generalizability of findings to routine primary care practice; and </li>
+                            <li>Lack of coherence in the chain of evidence </li>
+                        </ul>
+                        As more information becomes available, the magnitude or direction of the observed effect could change, and this change may be large enough to alter the conclusion. </td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">Low</td>
+                        <td valign="top">The available evidence is insufficient to assess effects on health outcomes. Evidence is insufficient because of:
+                        <ul style="list-style-type: disc;">
+                            <li>The limited number or size of studies </li>
+                            <li>Important flaws in study design or methods </li>
+                            <li>Inconsistency of findings across individual studies </li>
+                            <li>Gaps in the chain of evidence </li>
+                            <li>Findings not generalizable to routine primary care practice; and </li>
+                            <li>A lack of information on important health outcomes </li>
+                        </ul>
+                        More information may allow an estimation of effects on health outcomes. </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="507" role="tab" aria-expanded="true" aria-controls="syn507"><a href="#">Methodology</a></h2>
+			<div class="accordion-panel is-active" id="syn507" role="tabpanel" aria-labelledby="507" ><table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides the comparison of methodology for each guideline in the synthesis">
+    <tbody>
+        <tr>
+            <th valign="top" colspan="4" scope="col"><em>Click on the links below for details of guideline development methodology</em> </th>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">
+            <p><strong><a href="/content.aspx?id=43894#405" title="Guideline #9686" target="_blank">ACS</a><br />
+            (2013)</strong></p>
+            </td>
+            <td class="Center" valign="top">
+            <p><strong><a href="/content.aspx?id=46164#405" title="Guideline #9872" target="_blank">ACCP</a><br />
+            (2013)</strong></p>
+            </td>
+            <td class="Center" valign="top">
+            <p><strong><a href="/summaries/summary/50141#405" title="Guideline #10950" target="_blank">CTFPHC</a><br />
+            (2016)</strong></p>
+            </td>
+            <td class="Center" valign="top">
+            <p><strong><a href="/content.aspx?id=47750#405" title="Guideline #10192" target="_blank">USPSTF</a><br />
+            (2014)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" colspan="4">
+            <p>Methods used to collect the evidence were similar in that all of the guideline developers performed searches of electronic databases. ACS, CTFPHC and USPSTF also performed hand-searches of published literature (primary and secondary sources), and CTFPHC searched grey literature. Following the announcement of the National Lung Screening Trial (NLST) results in late 2010, the American Cancer Society, the American College of Chest Physicians, the American Society of Clinical Oncology, and the National Comprehensive Cancer Network produced a systematic review of the evidence related to lung cancer screening with LDCT. This systematic review serves as part of the evidence basis for the ACS and ACCP guidelines examined in this synthesis. The USPSTF had access to a systematic evidence review prepared for their use by the Pacific Northwest Evidence-based Practice Center (EPC), Oregon Health &amp; Science University. Similarly, a systematic review was prepared by the McMaster Evidence Review and Synthesis Centre (ERSC) Team for CTFPHC. Relevant details regarding data sources, searches performed and inclusion/exclusion criteria are provided by all of the guideline developers.</p>
+            <p>To assess the quality and strength of the evidence, ACS utilized expert consensus; the other developers weighted it according to a rating scheme (USPSTF also employed expert consensus). Methods used to analyze the evidence were alike in that all four developers utilized a systematic review of the evidence; ACCP, CTFPHC and USPSTF also reviewed published meta-analyses. CTFPHC is the only group to have performed a meta-analysis. All of the organizations provide a description of the evidence analysis process. Recommendations were developed using expert consensus; USPSTF also used balance sheets. With the exception of ACS, the guideline developers rate the strength of the recommendations according to a scheme and also provide details of the recommendation formulation process. With regard to issues of cost, CTFPHC used data from a microsimulation model (the Cancer Risk Management Model) to assess the costs and consequences of screening for lung cancer in Canada as recommended in its guideline. To validate their guidelines, ACCP, CTFPHC and USPSTF sought both internal and external peer review. CTFPHC and USPSTF also compared their guideline with those developed by other organizations. The developers provide a description of the validation process. ACS does not provide information regarding any method(s) used to validate its guideline.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="509" role="tab" aria-expanded="true" aria-controls="syn509"><a href="#">Benefits and Harms</a></h2>
+			<div class="accordion-panel is-active" id="syn509" role="tabpanel" aria-labelledby="509" ><p><h3>Benefits</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides the benefits of implementation of the guidelines">
+    <tbody>
+        <tr>
+            <th width="10%" valign="top">ACS<br />
+            (2013)</th>
+            <td valign="top" style="width: 90%;">
+            <ul style="list-style-type: disc;">
+                <li>Screening with LDCT has been shown to substantially reduce the risk of dying from lung cancer. </li>
+                <li>Evidence from noncomparative studies suggests that an additional benefit of LDCT screening may be a positive effect on smoking cessation among smokers who undergo screening and are counseled to quit smoking. </li>
+                <li>Detection by CT of incidental findings outside of the lung </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">ACCP<br />
+            (2013)</th>
+            <td valign="top">
+            <p>The potential to achieve a 20% reduction in deaths from the cancer that accounts for almost one-third of cancer deaths is a tremendous step forward and may well represent the largest impact on cancer deaths resulting from a single intervention in several decades.</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">CTFPHC<br />
+            (2016)</th>
+            <td valign="top">
+            <p><strong>Benefits of Screening</strong></p>
+            <p>The systematic review performed for the task force included 33 studies on lung cancer screening; 13 randomized controlled trials (RCTs) studied the benefits of screening. Seven low-quality studies evaluated screening with chest radiography (with or without sputum cytology), compared with no screening or less intensive screening (e.g., screening with chest radiography at longer intervals or advice to have a chest radiograph) and found small benefits in terms of early disease detection. Screening with chest radiography detected more early-stage and fewer late-stage lung cancers compared with groups receiving usual care. However, such screening did not reduce lung cancer specific mortality (risk ratio [RR] 0.99, 95% confidence interval [CI] 0.92&ndash;1.07]) or all-cause mortality (RR 0.98, 95% CI 0.96&ndash;1.00) when compared with usual care.</p>
+            <p>Three low-quality trials compared annual screening with LDCT to no screening or usual care and found no difference in lung cancer-specific mortality (RR 1.30, 95% CI 0.81&ndash;2.11) or all-cause mortality (RR 1.38, 95% CI 0.86&ndash;2.22) after five years or less of follow-up. A recent update of the literature search found one randomized study presenting interim results on early detection of lung cancer with low-dose multislice CT (compared with no screening) in Germany after five years of follow-up. The addition of these new results to the all-cause mortality analysis did not significantly alter the results (RR 1.20, 95% CI 0.83&ndash;1.73).</p>
+            <p>Two studies were found that compared LDCT to chest radiography. Although screening with chest radiography is not considered standard care in Canada, these studies were included in the evidence review because prior studies had shown no differences in mortality outcomes between chest radiography and usual care. One of the studies included mortality outcomes (NLST). The NLST (a high-quality RCT) reported a 15% reduction in lung cancer mortality (RR 0.85, 95% CI 0.75&ndash;0.96) and a 6% reduction in all-cause mortality (RR 0.94, 95% CI 0.88&ndash;1.00) associated with screening with LDCT compared with chest radiography after 6.5 years of follow-up. This means that screening 1000 people with LDCT three times at one-year intervals prevents three deaths from lung cancer compared with screening with chest radiography (number needed to screen = 322). Screening with LDCT reduced the absolute risk of lung cancer mortality by 0.31% and of all-cause mortality by 0.46%. LDCT also detected significantly more cases of early-stage lung cancer (8 more per 1000 people screened) and significantly fewer cases of late-stage lung cancer (4 fewer per 1000 people screened) compared with chest radiography. Results from the second study comparing LDCT and chest radiography were not pooled with results of the NLST in the systematic review because of an incompatible follow-up period (&le;12 mo), the small number of reported events (lung cancers) and no reporting of mortality outcomes.</p>
+            <p>Evidence from four studies showed no significant differences in rates of smoking cessation between the screened (LDCT or chest radiography) groups and the control groups. The risk of bias for these studies was unclear because of the self-reported nature of this outcome.</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">USPSTF<br />
+            (2014)</th>
+            <td valign="top">
+            <p><strong>Benefits of Detection and Early Treatment</strong></p>
+            <p>Although lung cancer screening is not an alternative to smoking cessation, the USPSTF found adequate evidence that annual screening for lung cancer with LDCT in a defined population of high-risk persons can prevent a substantial number of lung cancer&ndash;related deaths. Direct evidence from a large, well-conducted, randomized, controlled trial (RCT) provides moderate certainty of the benefit of lung cancer screening with LDCT in this population. The magnitude of benefit to the person depends on that person's risk for lung cancer because those who are at highest risk are most likely to benefit. Screening cannot prevent most lung cancer&ndash;related deaths, and smoking cessation remains essential.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<h3>Harms</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides the harms of implementation of the guidelines">
+    <tbody>
+        <tr>
+            <th width="10%" valign="top">ACS<br />
+            (2013)</th>
+            <td valign="top" style="width: 90%;">
+            <ul style="list-style-type: disc;">
+                <li>Significant chance of a false-positive result, which will require additional periodic testing and, in some instances, an invasive procedure to determine whether or not an abnormality is lung cancer or some non-lung cancer-related incidental finding. Fewer than 1 in 1000 patients with a false-positive result experience a major complication resulting from a diagnostic workup. Death within 60 days of a diagnostic evaluation has been documented, but is rare and most often occurs in patients with lung cancer. </li>
+                <li>Harms associated with LDCT screening include anxiety associated with abnormal testing results, additional imaging tests and biopsy procedures associated with false-positive results, and investigations for incidental findings outside of the lung field; in rare instances, serious harms, including hospitalizations and death, can result from diagnostic evaluations in patients with and without lung cancer. </li>
+                <li>There are concerns about radiation exposure from repeat LDCT screening examinations and higher-dose diagnostic evaluations. </li>
+                <li>To the degree that some overdiagnosis occurs in lung cancer screening, it represents a harm of screening since an overdiagnosed cancer can be expected to result in overtreatment. </li>
+            </ul>
+            <p>See the "Limitations and Harms" section in the original guideline document for more information.</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">ACCP<br />
+            (2013)</th>
+            <td valign="top">
+            <p>Concerns have been raised about potential harms from lung cancer screening, mainly in terms of potential complications from unnecessary procedures done to investigate what are found to be benign, inconsequential nodules. However, the data from the NLST indicate that in the setting in which NLST was conducted, the chance of major harms was very low; the risk of death or major complications following diagnostic events (including imaging) for what turns out to be a benign nodule is 4.1 and 4.5 per 10,000.</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">CTFPHC<br />
+            (2016)</th>
+            <td valign="top">
+            <p><strong>Harms of Screening</strong></p>
+            <p>The harms of screening and invasive follow-up tests were informed by 31 studies, many with observational designs. The main harms included false-positive results, death or major complications from invasive follow-up testing and overdiagnosis.</p>
+            <p>Data from the NLST suggest that of every 1000 people screened three times with LDCT at one-year intervals, 391 would have at least one positive result, 40 would have lung cancer and 351 would have a false-positive result. As such, follow-up tests, including minor invasive procedures (e.g., bronchoscopy, needle biopsy) or major invasive procedures (e.g., thoracotomy, thoracoscopy), are needed to determine whether a positive LDCT result is due to lung cancer. Although uncommon, there is a risk of major complications or death with these procedures. Based on data from the NLST, 3 people per 1000 screened with LDCT experience major complications from invasive tests, and less than 1 person per 1000 screened die after an invasive test (within 60 days). Some of these complications occur in people who receive a false-positive screening result. Data from 17 studies showed that 5 people per 1000 screened with LDCT received an unnecessary major invasive procedure for an ultimately benign condition (compared with 3 people per 1000 screened with chest radiography).</p>
+            <p>Overdiagnosis occurs when people who are asymptomatic undergo screening for lung cancer and a slow-growing cancer that would have never caused them any harm during their lifetime is detected and diagnosed. Although current estimates of overdiagnosis for lung cancer vary by thresholds used and are based on limited follow-up, observational studies suggest that 2% to 16% of lung cancers detected with chest radiography and 11% to 26% of lung cancers detected with LDCT represent overdiagnosis. Overdiagnosis often leads to unnecessary treatment (overtreatment), which can cause harm.</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">USPSTF<br />
+            (2014)</th>
+            <td valign="top">
+            <p><strong>Harms of Detection and Early Intervention and Treatment</strong></p>
+            <ul style="list-style-type: disc;">
+                <li>The harms associated with LDCT screening include false-negative and false-positive results, incidental findings, overdiagnosis, and radiation exposure. False-positive LDCT results occur in a substantial proportion of screened persons; 95% of all positive results do not lead to a diagnosis of cancer. In a high-quality screening program, further imaging can resolve most false-positive results; however, some patients may require invasive procedures. </li>
+                <li>The USPSTF found insufficient evidence on the harms associated with incidental findings. Overdiagnosis of lung cancer occurs, but its precise magnitude is uncertain. A modeling study performed for the USPSTF estimated that 10% to 12% of screen-detected cancer cases are overdiagnosed&mdash;that is, they would not have been detected in the patient's lifetime without screening. Radiation harms, including cancer resulting from cumulative exposure to radiation, vary depending on the age at the start of screening; the number of scans received; and the person's exposure to other sources of radiation, particularly other medical imaging. </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table></p></div>
+			<h2 class="accordion-title is-active" id="511" role="tab" aria-expanded="true" aria-controls="syn511"><a href="#">Abbreviations</a></h2>
+			<div class="accordion-panel is-active" id="syn511" role="tabpanel" aria-labelledby="511" ><p>ACCP, American College of Chest Physicians</p>
+<p>ACS, American Cancer Society</p>
+<p>CI, confidence interval</p>
+<p>CT, computed tomography</p>
+<p>CTFPHC, Canadian Task Force on Preventive Health Care</p>
+<p>CXR, chest x-ray</p>
+<p>LDCT, low-dose computed tomography</p>
+<p>NSCLC, non-small cell lung cancer</p>
+<p>NLST, National Lung Screening Trial</p>
+<p>RCT, randomized controlled trial</p>
+<p>RR, risk ratio</p>
+<p>USPSTF, U.S. Preventive Services Task Force</p></div>
+			<h2 class="accordion-title is-active" id="512" role="tab" aria-expanded="true" aria-controls="syn512"><a href="#">Status</a></h2>
+			<div class="accordion-panel is-active" id="syn512" role="tabpanel" aria-labelledby="512" ><p>This synthesis was prepared by ECRI on October 8, 2005. This synthesis was verified by CTFPHC on November 2, 2005, by ACCP on November 28, 2005, by USPSTF on November 30, 2005, and by ACS on December 2, 2005. This synthesis was revised on January 13, 2008 to update ACCP recommendations and again in November 2008 to remove ACS and CTFPHC recommendations. This synthesis was revised in April 2014 to update recommendations from USPSTF and ACCP, and to add recommendations from ACS. The information was verified by USPSTF on April 21, 2014, by ACS on April 28, 2014, and by ACCP on April 29, 2014. This synthesis was revised most recently in September 2016 to add recommendations from CTFPHC. The information was verified by CTFPHC on December 21, 2016.</p></div>
+	</div><!-- accordion-container -->
+
+<!-- ASIDE -->
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	<!-- About NGC -->
+	<div class="info-block">
+			<h3 class="info prefix-icon large-icon">About NGC Guideline Syntheses</h3>
+			<p>Syntheses are systematic comparisons of selected guidelines that address similar topics. For definitions of synthesis attributes, see the 
+                <a href="/syntheses/template">Guideline Synthesis Template</a>.    
+            </p>
+	</div><!-- /info-block -->
+	<hr>
+
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+		<ul class="subscribe-links">
+            <li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/rssFiles/ngc_newthisweek.xml" class="rss icon-feed"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div><!-- /.subscribable -->
+
+	<!-- New this Week -->
+	<a href="/new-this-week" class="block-link">
+		<h4>New this Week</h4>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

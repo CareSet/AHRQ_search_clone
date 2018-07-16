@@ -1,0 +1,512 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>The Public Reporting of Performance Data: An Intervention in Need of More Evaluation | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>August 04, 2008</li>
+			</ul>
+			<h1>The Public Reporting of Performance Data: An Intervention in Need of More Evaluation</h1>
+			<p class="byline">By: Constance H. Fung, MD, MSHS</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16468/the-public-reporting-of-performance-data-an-intervention-in-need-of-more-evaluation" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16468/the-public-reporting-of-performance-data-an-intervention-in-need-of-more-evaluation" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16468/the-public-reporting-of-performance-data-an-intervention-in-need-of-more-evaluation&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: The Public Reporting of Performance Data: An Intervention in Need of More Evaluation&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/16468/the-public-reporting-of-performance-data-an-intervention-in-need-of-more-evaluation" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (0)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>Recent reports on the quality of healthcare in the United States document promising improvement in a number of clinical areas. However, significant quality deficits remain that affect a diverse range of delivery settings and patient populations. (<a href="#ref">1</a>) Evidence suggests that these deficits are pervasive and span a broad range of acute and chronic conditions. (<a href="#ref">2</a>) Research exploring the etiology of these quality deficits has identified a number of causes. One of the key reasons cited for the persistent deficits is a lack of transparency. (<a href="#ref">3</a>) A demand for increased transparency has resulted in the development and implementation of a number of public reporting systems over the past thirty years. (<a href="#ref">4</a>,<a href="#ref">5</a>,<a href="#ref">6</a>) </p>
+<p>Greater transparency, through the public reporting of performance data, has been advocated by many as essential to the improvement of our healthcare system. (<a href="#ref">7</a>) If patients and their intermediaries, such as their employers, had more information about quality of healthcare providers and organizations, in theory they would be able to differentiate between high and low performers, make more informed choices, and reward high performers. Healthcare providers and organizations, in turn, would be more accountable for their actions, and because they would be concerned about their image and market share, would engage in the steps needed to improve quality of care. (<a href="#ref">8</a>) This framework assumes that patients and employers receive and comprehend the publicly-reported performance data, have a choice of providers and healthcare organizations, and make selections based on the data. </p>
+<p>But does increasing transparency through public reporting actually improve quality? In a recent systematic review of the evidence on the impact of public reporting, my colleagues and I found that consumers who use health plan-level and individual provider-level data select higher quality health plans and individual providers, respectively. (<a href="#ref">9</a>) Our systematic review of the literature also revealed that public reporting stimulates quality improvement activity at the hospital level. However, few published data were available to inform us about the relationship between public reporting of health plan-level and individual provider-level data and quality improvement activity. The evidence that public reporting of hospital-level data improves morbidity and mortality was mixed. After reviewing the published peer-reviewed literature, we still knew little about the impact of publicly reporting health plan-level and individual provider-level data on morbidity and mortality. Information about the effects of public reporting on patient-centeredness, such as patient-provider communication, courtesy/respect, and coordination, was also scant. </p>
+<p>While some interpret the inconclusive findings as evidence that public reporting overall is an ineffective mechanism for improving quality, a more accurate assessment is that we have insufficient information to draw definitive conclusions. One reason for the gaps in knowledge is the sheer magnitude and scope of public reporting. The Agency for Healthcare Research and Quality's Healthcare Report Card Compendium, for example, lists approximately 200 report cards. (<a href="#ref">5</a>) The term, "public reporting systems" encompasses a wide range of activities and dimensions, e.g., various levels of reporting (health plan, hospital, medical group, individual provider), clinical areas (cardiac, infectious disease, etc.; medical, surgical), clinical acuity (acute, subacute, and chronic), and geographic regions (national, state, etc.). Furthermore, the types of measures (structure, process, and outcome) and the measured domains (technical quality, patient-centeredness, access, equity, efficiency, safety) vary across public reporting systems. Factors beyond the content or type of report cards, related to the format of report card presentation (e.g., paper-based versus web-based; clarity of presentation) and method of dissemination, are also sources of variation and contribute to difficulty in understanding the meaning of disparate study results. Finally, different types of organizations may sponsor reporting cards (government, health care quality organizations, providers, private purchasers, private vendors, and health plans). (<a href="#ref">5</a>) In summary, the number of studies (or data points) needed to understand the relationship between public reporting and quality exceeds the number of studies currently available. </p>
+<p>Despite the magnitude and scope of public reporting, many evaluations have focused on a handful of public reporting systems and clinical areas-most notably the impact of publishing cardiac outcome measures in New York State. Other major reporting systems that have been evaluated, to a lesser degree, include the Cleveland Health Quality Choice Project, California Hospital Outcomes Project, QualityCounts (Wisconsin), Pennsylvania Health Care Cost Containment Council, Health Care Financing Administration hospital mortality reports, and Federal Employees Health Benefit Guide. (<a href="#ref">9</a>) The number of studies devoted to these systems and others in the Agency for Healthcare Research and Quality's Healthcare Report Card Compendium (<a href="#ref">5</a>) pales in comparison to the number of studies on the New York State cardiac reporting systems. There is both ample opportunity and need to evaluate the numerous other public reporting systems. </p>
+<p>As efforts are made to understand the relationship between public reporting and quality, balanced evaluations are needed. We should consider public reporting initiatives to be interventions that may have both benefits and risks&mdash;that well-intentioned public reporting initiatives may lead to unintended consequences. Evidence suggests that public reporting of performance data may be associated with a decline in access for sicker patients, as providers who are concerned about their scores avoid caring for sicker patients. (<a href="#ref">10</a>) Although many scores are risk-adjusted, (<a href="#ref">11</a>) skepticism among some providers about the statistical methodology underlying many report cards and the reported rankings (<a href="#ref">12</a>,<a href="#ref">13</a>) may have untoward effects on the patient-provider relationship. Public reporting has been associated with unfavorable changes in healthcare organizations, such as distortion of priorities and tunnel vision. (<a href="#ref">14</a>) Unintended consequences, such as inappropriate provision of services resulting from attempts to meet targets, are a concern. (<a href="#ref">14</a>,<a href="#ref">15</a>) Not only should evaluations of public reporting systems measure the impact of public reporting on targeted processes and outcomes, but also how the initiatives impact clinical areas that are not the target of measurement and the organization's culture. Indeed, recent reports suggest that a Centers for Medicare &amp; Medicaid Services' pneumonia measure that had been implemented to encourage timely antibiotic administration was associated with an increase in the inappropriate provision of antibiotics to patients without a final diagnosis of pneumonia, as well as a decrease in the accuracy of an emergency department diagnosis of pneumonia. (<a href="#ref">16</a>,<a href="#ref">17</a>) Future evaluations of public reporting programs should also consider the impact on access to care for vulnerable populations (<a href="#ref">18</a>) and patient-centeredness for all patients. In theory, public reporting of performance data is an effective mechanism for improving quality of care, but more evidence on the risks and benefits of actual public reporting systems is needed. </p>
+<p><strong>Author</strong> </p>
+<p><strong>Constance H. Fung, MD, MSHS</strong><br />
+Zynx Health, Incorporated, Los Angeles, CA </p>
+<p><strong>Disclaimer</strong> </p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Quality Measures Clearinghouse&trade; (NQMC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor, ECRI Institute. Additionally, the views expressed in this article are those of the author and do not necessarily reflect the position or policy of the Zynx Health, Incorporated. </p>
+<p><strong>Potential Conflicts of Interest</strong> </p>
+<p>Dr. Fung has declared Zynx Health Incorporated and RAND Corporation as business/professional affiliations. </p>
+<p><a name="ref"></a><strong>References</strong></p>
+<ol>
+    <li>The State of Healthcare Quality: 2007. National Committee for Quality Assurance, 2007. (Accessed March 15, 2008, at <a href="/Home/Disclaimer?id=16468&contentType=expert-commentary&redirect=http%3a%2f%2fwww.ncqa.org%2fPortals%2f0%2fPublications%2fResource%2520Library%2fSOHC%2fSOHC_07.pdf" title="NCQA Web site">http://www.ncqa.org/Portals/0/Publications/Resource%20Library/SOHC/SOHC_07.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />) (<a href="#PDF">PDF Help</a>). </li>
+    <li>McGlynn EA, Asch SM, Adams J, et al. The Quality of Health Care Delivered to Adults in the United States. New England Journal of Medicine 2003;348:2635. </li>
+    <li>Shea KK, Shih A, Davis K. Health Care Opinion Leaders' Views on the Transparency of Health Care Quality and Price Information in the United States. New York: The Commonwealth Fund; 2007. </li>
+    <li>New York State's Cardiac Surgery Reporting System. New York State Department of Health, 2003. (Accessed at <a href="/Home/Disclaimer?id=16468&contentType=expert-commentary&redirect=http%3a%2f%2fwww.health.state.ny.us%2fnysdoh%2fheart%2fheart_disease.htm" title="New York State Department of Health Web site">http://www.health.state.ny.us/nysdoh/heart/heart_disease.htm</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />.) </li>
+    <li>Health Care Report Card Compendium. Agency for Healthcare Research and Quality. (Accessed at <a href="https://www.talkingquality.ahrq.gov/content/reportcard/search.aspx"  target="_blank" title="Agency for Healthcare Research and Quality Web site">https://www.talkingquality.ahrq.gov/content/reportcard/search.aspx</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />.) </li>
+    <li>Marshall MN, Shekelle PG, Davies HT, Smith PC. Public reporting on quality in the United States and the United Kingdom. Health Aff (Millwood) 2003;22:134-48. </li>
+    <li>Berwick DM. Public performance reports and the will for change. JAMA 2002;288:1523. </li>
+    <li>Berwick DM, James B, Coye MJ. Connections between quality measurement and improvement. Med Care 2003;41:I30-8. </li>
+    <li>Fung CH, Lim YW, Mattke S, Damberg C, Shekelle PG. Systematic review: the evidence that publishing patient care performance data improves quality of care. Ann Intern Med 2008;148:111-23. </li>
+    <li>Burack JH, Impellizzeri P, Homel P, Cunningham JN, Jr. Public reporting of surgical mortality: a survey of New York State cardiothoracic surgeons. Ann Thorac Surg 1999;68:1195-200; discussion 201-2. </li>
+    <li>Hannan EL, Kilburn H, Jr., Racz M, Shields E, Chassin MR. Improving the outcomes of coronary artery bypass surgery in New York State. JAMA 1994;271:761-6. </li>
+    <li>Hofer TP, Hayward RA, Greenfield S, Wagner EH, Kaplan SH, Manning WG. The unreliability of individual physician "report cards" for assessing the costs and quality of care of a chronic disease. JAMA 1999;281:2098-105. </li>
+    <li>Shahian DM, Normand SL, Torchiana DF, et al. Cardiac surgery report cards: comprehensive review and statistical critique. Ann Thorac Surg 2001;72:2155-68. </li>
+    <li>Mannion R, Davies H, Marshall M. Impact of star performance ratings in English acute hospital trusts. J Health Serv Res Policy 2005;10:18-24. </li>
+    <li>Werner RM, Asch DA. The unintended consequences of publicly reporting quality information. Jama 2005;293:1239-44. </li>
+    <li>Kanwar M, Brar N, Khatib R, Fakih MG. Misdiagnosis of community-acquired pneumonia and inappropriate utilization of antibiotics: side effects of the 4-h antibiotic administration rule. Chest 2007;131:1865-9. </li>
+    <li>Welker JA, Huston M, McCue JD. Antibiotic timing and errors in diagnosing pneumonia. Arch Intern Med 2008;168:351-6. </li>
+    <li>Davies HT, Washington AE, Bindman AB. Health care report cards: implications for vulnerable patient groups and the organizations providing them care. J Health Polit Policy Law 2002;27:379-99. </li>
+</ol>
+<a name="PDF"></a>
+<p><strong>PDF Help</strong>: Documents in PDF format require the Adobe Acrobat Reader&reg;. If you experience problems with PDF documents, please <a href="/Home/Disclaimer?id=16468&contentType=expert-commentary&redirect=http%3a%2f%2fget.adobe.com%2freader%2f" title="Adobe Web site">download the latest version of the Reader&reg;</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />.</p>
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011399</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51322/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-patients-irrespective-of-frequency-of-dialysis-with-documented-monthly-npcr-measurements">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis patients (irrespective of frequency of dialysis) with documented monthly nPCR measurements.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011398</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51321/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-home-hemodialysis-and-peritoneal-dialysis-patients-who-have-monthly-measures-for-hemoglobin-during-the-reporting-period">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis, home hemodialysis, and peritoneal dialysis patients who have monthly measures for hemoglobin during the reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011397</li>
+            <li>May 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51319/end-stage-renal-disease-esrd-percentage-of-adult-hemodialysis-patientmonths-using-a-catheter-continuously-for-three-months-or-longer-for-vascular-access">End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011396</li>
+            <li>Apr 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51318/end-stage-renal-disease-esrd-adjusted-percentage-of-adult-hemodialysis-patientmonths-using-an-autogenous-arteriovenous-fistula-avf-as-the-sole-means-of-vascular-access">End stage renal disease (ESRD): adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula (AVF) as the sole means of vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011395</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51317/end-stage-renal-disease-esrd-percentage-of-all-peritoneal-dialysis-and-hemodialysis-patientmonths-with-serum-or-plasma-phosphorus-measured-at-least-once-within-the-month">End stage renal disease (ESRD): percentage of all peritoneal dialysis and hemodialysis patient-months with serum or plasma phosphorus measured at least once within the month.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

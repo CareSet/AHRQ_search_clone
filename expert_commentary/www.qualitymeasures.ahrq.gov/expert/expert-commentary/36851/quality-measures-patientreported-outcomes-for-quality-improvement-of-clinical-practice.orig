@@ -1,0 +1,522 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Quality Measures: Patient-Reported Outcomes for Quality Improvement of Clinical Practice | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>May 14, 2012</li>
+			</ul>
+			<h1>Quality Measures: Patient-Reported Outcomes for Quality Improvement of Clinical Practice</h1>
+			<p class="byline">By: Kathleen N. Lohr, PhD</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/36851/quality-measures-patientreported-outcomes-for-quality-improvement-of-clinical-practice" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/36851/quality-measures-patientreported-outcomes-for-quality-improvement-of-clinical-practice" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/36851/quality-measures-patientreported-outcomes-for-quality-improvement-of-clinical-practice&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Quality Measures: Patient-Reported Outcomes for Quality Improvement of Clinical Practice&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/36851/quality-measures-patientreported-outcomes-for-quality-improvement-of-clinical-practice" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (0)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>For more than 40 years, beginning with the seminal work of Avedis Donabedian and continuing to the present, outcomes have had a central role in how high-quality health care is conceptualized. (<a href="#ref">1-5</a>) In an era in which individualized or personalized care, patient-centered care, patient-centered medical homes, and "patient-important" outcomes are increasingly invoked as critical aims for the U.S. health care system, using patient-reported outcomes (PROs) in quality assessment and improvement schemes seems crucial.</p>
+<p>The significance of this view has not yet, it would seem, reached any substantial level of practical application. For example, in 2009, in a commentary written for the National Quality Measures Clearinghouse (NQMC), Persell called attention to some limitations of quality measures for ambulatory care. (<a href="#ref">6</a>) He noted that most measures deal with process of care (e.g., the proportion of eligible patients who received a laboratory test or prescription medication) or at best intermediate (proxy) outcomes (e.g., the proportion of eligible patients who achieved a specific level of control for hypertension or diabetes during some specified period). Missing, however, are health outcomes of direct relevance to patients, such as emotional health, pain, or physical functioning.</p>
+<p>Broadly, PROs constitute information from patients about a health condition, its management, and impact on well-being. The core element of PROs is health-related quality of life (HRQOL)&mdash;"aspects of a person's overall well-being...affected by health status or health care." (<a href="#ref">7</a>) As Persell noted, "Outcomes are often what patients and other stakeholders care about the most." (<a href="#ref">6</a>) However, even though NQMC has more than 360 outcome measures (as of early 2012), the Clearinghouse has very few <em>patient-reported</em> outcome measures&mdash;those directly salient to and reported by patients about the end results of health care.</p>
+<p>Are they not available? Are they insufficiently well developed to meet <a href="/about/inclusion-criteria.aspx" title="NQMC Inclusion Criteria">NQMC's Inclusion Criteria</a> (a set of four detailed requirements)? The answer to both these questions is "No." Literally thousands of PROs exist. Several Web sites are devoted to them: examples for specific measures include <a href="/Home/Disclaimer?id=36851&contentType=expert-commentary&redirect=http%3a%2f%2fwww.euroqol.org%2f" title="EQ-5D Web site">http://www.euroqol.org/</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />  for the EQ-5D or <a href="/Home/Disclaimer?id=36851&contentType=expert-commentary&redirect=http%3a%2f%2fwww.sf-36.org%2f" title="Medical Outcomes Trust Short Forms">http://www.sf-36.org/</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />  for the Medical Outcomes Trust Short Forms; sites such as <a href="/Home/Disclaimer?id=36851&contentType=expert-commentary&redirect=http%3a%2f%2fwww.proqolid.org" title="PROQOLI Web site">http://www.proqolid.org</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />  or <a href="/Home/Disclaimer?id=36851&contentType=expert-commentary&redirect=http%3a%2f%2fwww.mapi-institute.com%2f" title="MAPI Institute Web site">http://www.mapi-institute.com/</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />  provide information about or access to hundreds of questionnaires. <em>Quality of Life Research</em>, the official journal of the International Society of Quality of Life (ISOQOL, now in its 20th year of publication), is a key source of information on the reliability, validity, responsiveness, feasibility, and other attributes of PROs. Are they known but not being submitted to NQMC? The answer to this question appears to be "Very likely."</p>
+<p><strong>Locating PROs on NQMC</strong></p>
+<p>As of summer 2011, NQMC had published just over 2,000 health-related measures on its Web site. The relevant <a href="/about/domain-framework.aspx" title="NQMC Domain Frameowrk">domain framework</a> (for measures related to health) branches to measures for health care delivery and then to clinical quality measures. Within this classification are five domains (process, access, outcome, structure, and patient experience).</p>
+<p>The outcome domain, defined in NQMC as "&hellip; a health state of a patient resulting from health care," can cover a wide range of variables: death, morbidity, diagnoses, results from laboratory tests, utilization measures, and HRQOL (at least in theory). This domain, however, is potentially so broad and expansive that it is not an ideal route to navigate to NQMC's PRO measures. It yields more than 100 measure summaries for a user to sift through, of which perhaps one-third would reflect content typical of <em>self-reported</em> HRQOL assessments.</p>
+<p>A better approach for identifying PROs at the NQMC Web site entails using the <a href="/search/advanced-search.aspx" title="NQMC Advanced Search">Advanced Search</a> feature. From this page, a user can select "Clinical Quality Measure: Outcome" from the Measure Domain selection box and then choose one or more options in the Data Source box. The most obvious Data Source choice is "Patient/Individual Survey." The combination of "Outcome" and "Patient/Individual Survey" yields about 20 measures involving PROs. Examples include various measures in the <a href="/content.aspx?id=27139" title="Measure Summary">Activity Measure for Post-acute Care (AM-PAC)</a> set (from the Boston University Health &amp; Disability Research Institute), and the <a href="/content.aspx?id=27494" title="Measure Summary">BASIS-24&reg; survey</a> (i.e., the 24-item Behavior and Symptom Identification Scale from McLean Hospital in Virginia).</p>
+<p>A more extensive set of potential PRO measures can be identified via an Advanced Search using the combination of "Outcome," "Patient/Individual Survey," and "Special or Unique Data." This approach retrieves more than 90 possible measures. Only a minority, however, appear to be based on self-report questionnaires (e.g., <em>Depression: percent of clinically significant depression patients with a 50 percent or greater reduction in Patient Health Questionnaire [PHQ]</em>). Instead, many involve outcomes observed by clinicians or others, such as home health care measures reflecting Activities of Daily Living (ADLs) or those of the Functional Communications Measures of the American Speech-Language-Hearing Association. In short, although these are important outcomes measures, most will not be specifically <em>PRO</em> measures.</p>
+<p>Finally, using "Patient/Individual Survey" with "Registry Data" will produce about 40 entries. Some overlap with yields from other searches. However, this approach also identifies PROs that use data from the <a href="/content.aspx?id=27605&amp;search=phq-9" title="Measure Summary">PHQ-9 (9-item Patient Health Questionnaire)</a> developed through the HRSA (Health Resources and Services Administration) Health Disparities Collaboratives (for depression).</p>
+<p>The NQMC measures that provide information about a recognized dimension of a self-reported outcome&mdash;e.g., mean changes in a PRO scale score&mdash;can be identified by use of the Advanced Search feature, but nonetheless they seem to be relatively few in number. More measures provide counts or percentages of patients meeting certain criteria derived from a self-reported measure&mdash;e.g., proportion of patients in a given practice or nursing home reporting performance of an ADL. Far more, however, give such data for clinician-reported outcome measures. Interestingly, some quality measures are not classified as "outcome" measures but rather as "process" measures, yet they reflect some form of outcome measurement (e.g., a quantitative symptom assessment tool such as the PHQ-9) used in determining whether care has met authoritative practice guidelines.</p>
+<p>Where, then, among the many measures represented in NQMC and elsewhere, can we find the "voice of the patient?" If administrators and clinicians working to improve the quality of care do not assess self-reported PRO data, they are missing a major component of considerable salience to patients and their families. Could their access to authoritative quality measures, identified via the Clearinghouse, be constrained because such approaches are not yet widely included in standard quality measure sets?</p>
+<p><strong>What Are the Strengths and Limitations of PRO Measurement for Quality Improvement Purposes?</strong></p>
+<p>Developers and users of HRQOL instruments have generally been optimistic about applying PROs in clinical practice. Numerous benefits have been claimed for measuring PROs: enhancing patient care by identifying key concerns that the health professionals most qualified and trained to address these concerns can subsequently address; advancing understanding of individual patients' experiences and responses to therapy; strengthening patient autonomy through improved communication and better shared decisionmaking; and enabling documentation of disparities in the delivery and end results of health care.</p>
+<p>Admittedly, PRO measurement in a quality improvement context raises feasibility problems. Users need clear linkages between processes and outcomes of care; well-understood measures; sensible data collection mechanisms (paper and pencil, computer-based, web-based) that work in their settings; and effective ways to report results. Possibly most important for quality improvement, users need to understand how to apply psychometric or statistical models, and the "average" results they produce, to the care of individual patients. Those engaged in quality improvement need knowledge of and access to reliable, valid measures; access to data or norms for interpreting scores; ways to minimize administrative burdens; approaches to risk adjustment techniques or information to enhance interpretations; and means of dealing with all the attendant costs.</p>
+<p>These are big hurdles, but they are not insurmountable. Thus, if providers and quality improvement programs want to give greater emphasis to the voice of the patient, then they need to find assessment tools that accomplish several goals. These include being able to assign individual patients, and their outcomes, appropriately to different members of the clinical team; take adequate account of patients' values and preferences; control for sociocultural characteristics; and help resolve important conflicts among the core ethical principles of patient autonomy, provider autonomy vs. paternalism, and beneficence vs. nonmaleficence.</p>
+<p><strong>Can NQMC Alter This Picture?</strong></p>
+<p>Can NQMC contribute to this vision in which outcome assessments reported by patients, rather than clinicians, become a critical part of quality improvement efforts in the 21st century? I believe the answer is "Yes, in several ways."</p>
+<p>First, as NQMC continues to grow and establish new criteria for measures and measure sets, it can help make clear that PROs can be successfully embedded in clinical practice. (<a href="#ref">8-9</a>) Commissioning expert commentaries illustrating their use in clinical settings for patient care purposes may be one step that NQMC can take.</p>
+<p>Second, NQMC can encourage developers to create, test, and validate accepted PRO measures and to submit them to the Clearinghouse; one example is the Patient-Reported Outcomes Measurement Information System (<a href="/Home/Disclaimer?id=36851&contentType=expert-commentary&redirect=http%3a%2f%2fwww.nihpromis.org%2f" title="PROMIS Web site">PROMIS</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> ). (<a href="#ref">10-12</a>) In addition, NQMC might consider relaxing its second inclusion criterion concerning current use or pilot testing of the measure <em>specifically to evaluate or report on quality of care</em>, because the measures may have been used more directly in patient care, not quality reporting per se. In the fourth criterion, putting more emphasis on information from developers on measurement properties (e.g., reliability and validity) reported in peer-reviewed media and less emphasis on the organizational affiliation where the measure was developed may also be helpful.</p>
+<p>Third, if more outreach is needed&mdash;as it probably is&mdash;to convince developers of the desirability of submitting PRO measure sets, NQMC and the Agency for Healthcare Research and Quality (AHRQ) can collaborate on such communications. These might entail designing specific mailings to PRO developers and organizations, posting commentaries on the AHRQ Web site and in the NQMC, and making more information available at meetings or other venues for PRO developers and users (such as ISOQOL, the <a href="/Home/Disclaimer?id=36851&contentType=expert-commentary&redirect=http%3a%2f%2fwww.isqua.org%2f" title="ISOQOL Web site">International Society of Quality in Health Care</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> , or the <a href="/Home/Disclaimer?id=36851&contentType=expert-commentary&redirect=http%3a%2f%2fwww.inahta.net%2f" title="International Network of Agencies for Health Technology Assessment Web site">International Network of Agencies for Health Technology Assessment</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> ).</p>
+<p>By taking steps to solicit and include more PROs in the Clearinghouse and, thereby, promoting use of PROs in quality assessment and improvement schemes, NQMC contributes in a meaningful way to the case that outcome assessments reported by patients must, soon, become a critical part of contemporary quality improvement programs.</p>
+<p><strong>Author</strong></p>
+<p>Kathleen N. Lohr, PhD<br />
+RTI International, Research Triangle Park, NC</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Quality Measures Clearinghouse&trade; (NQMC), the Agency for Healthcare Research and Quality (AHRQ), its contractor, ECRI Institute, or RTI International. </p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>Dr. Lohr reports professional affiliations with the PROMIS Health Organization, a nonprofit foundation. In addition, she is a member of the Core Editorial Board for the National Quality Measures Clearinghouse and the National Guideline Clearinghouse.</p>
+<p><strong>Editorial Note</strong>: NQMC editors share the author's appraisal of the value of patient-reported outcomes (PROs) and their potential utility in quality measurement. As health status assessment instruments, PROs fall short of NQMC's inclusion criteria, which require "a description of the denominator and numerator of the measure (including specific variables for inclusion or exclusion of cases/events from either the denominator or numerator)". However, PRO developers are uniquely well positioned to develop specifications for quality measures derived from their instruments. We encourage developers to do so and would welcome the submission of PRO-derived quality measures to NQMC.</p>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Donabedian A. Evaluating the quality of medical care. Milbank Memorial Fund Quarterly, 1966;44 July (part 2):166-203. </li>
+    <li>Donabedian A. Explorations in Quality Assessment and Monitoring. Volumes I-III. Ann Arbor, Michigan: Health Administration Press, 1980, 1982, 1984. </li>
+    <li>Lohr KN. Outcome Measurement: Concepts and Questions. Inquiry (Spring) 1988;25:37-50. </li>
+    <li>Lohr KN. Applications of health status assessment measures in clinical practice. Overview of the third conference on advances in health status assessment. Medical Care. 1992;30(5 Suppl):MS1-14. </li>
+    <li>Spertus JA. Evolving applications for patient-centered health status measures. Circulation. 2008;118(20):2103-10. </li>
+    <li>Persell SD. Envisioning the Next Generation of Performance Measures for Ambulatory Care. Commentary, National Quality Measures Clearinghouse. October 2009. Available at: <a href="http://www.qualitymeasures.ahrq.gov/expert/expert-commentary.aspx?id=16455"  title="Expert Commentary">http://www.qualitymeasures.ahrq.gov/expert/expert-commentary.aspx?id=16455</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>Gold MR, Russell LB, Siegel JE, Weinstein, MC. Cost-effectiveness in Health and Medicine. New York (NY): Oxford University Press; 1996. </li>
+    <li>Aaronson N, Snyder C. Using patient-reported outcomes in clinical practice: proceedings of an International Society of Quality of Life Research conference. Quality of Life Research. 2008;17:1295. </li>
+    <li>Lohr KN, Zebrack BJ. Using patient-reported outcomes in clinical practice: challenges and opportunities. Quality of Life Research 2009;18(1):99-107. </li>
+    <li>Ader DN. Developing the Patient-Reported Outcomes Measurement Information System (PROMIS). Medical Care. 2007;45(No. 5, Suppl 1):S1-S2. </li>
+    <li>Cella D, Yount S, Rothrock N, et al. The Patient-Reported Outcomes Measurement Information System (PROMIS): progress of an NIH Roadmap cooperative group during its first two years. Medical Care. 2007;45(5 Suppl 1):S3-S11. </li>
+    <li>DeWalt DA, Revicki DA. Importance of Patient-Reported Outcomes for Quality Improvement. Commentary, National Quality Measures Clearinghouse. October 2008. Available at: <a href="http://www.qualitymeasures.ahrq.gov/expert/expert-commentary.aspx?id=16466"  title="Expert Commentary">http://www.qualitymeasures.ahrq.gov/expert/expert-commentary.aspx?id=16466</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+</ol>
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011399</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51322/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-patients-irrespective-of-frequency-of-dialysis-with-documented-monthly-npcr-measurements">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis patients (irrespective of frequency of dialysis) with documented monthly nPCR measurements.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011398</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51321/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-home-hemodialysis-and-peritoneal-dialysis-patients-who-have-monthly-measures-for-hemoglobin-during-the-reporting-period">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis, home hemodialysis, and peritoneal dialysis patients who have monthly measures for hemoglobin during the reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011397</li>
+            <li>May 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51319/end-stage-renal-disease-esrd-percentage-of-adult-hemodialysis-patientmonths-using-a-catheter-continuously-for-three-months-or-longer-for-vascular-access">End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011396</li>
+            <li>Apr 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51318/end-stage-renal-disease-esrd-adjusted-percentage-of-adult-hemodialysis-patientmonths-using-an-autogenous-arteriovenous-fistula-avf-as-the-sole-means-of-vascular-access">End stage renal disease (ESRD): adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula (AVF) as the sole means of vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011395</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51317/end-stage-renal-disease-esrd-percentage-of-all-peritoneal-dialysis-and-hemodialysis-patientmonths-with-serum-or-plasma-phosphorus-measured-at-least-once-within-the-month">End stage renal disease (ESRD): percentage of all peritoneal dialysis and hemodialysis patient-months with serum or plasma phosphorus measured at least once within the month.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

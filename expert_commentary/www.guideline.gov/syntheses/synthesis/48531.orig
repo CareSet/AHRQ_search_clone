@@ -1,0 +1,730 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Screening and Diagnosis of Gestational Diabetes Mellitus | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+	<div class="content-header">
+		<ul class="content-header-meta">
+			<li class="prefix-icon large-icon synthesis">Guideline Synthesis</li>
+		</ul>
+		<h1>Screening and Diagnosis of Gestational Diabetes Mellitus</h1>
+	</div><!-- /.content-header -->
+
+	<!-- COMPARED LIST-->
+		<p>Guidelines Being Compared:</p>
+		<ul class="compared-list"> 
+				<li>
+                    <p class="compared-list-org">The Endocrine Society (Endocr Soc)</p>
+					<p class="compared-list-title">Diabetes and pregnancy: an Endocrine Society clinical practice guideline.</p>
+                    <p class="compared-list-org">2013 Nov 01</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/47898">View Summary</a></p>					
+				</li>
+				<li>
+                    <p class="compared-list-org">U.S. Preventive Services Task Force (USPSTF)</p>
+					<p class="compared-list-title">Screening for gestational diabetes mellitus: U.S. Preventive Services Task Force recommendation statement.</p>
+                    <p class="compared-list-org">2014 Mar 18</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/47757">View Summary</a></p>					
+				</li>
+		</ul><!-- /.compared-list -->
+			
+	<!-- TOOLBAR -->
+	<div class="content-toolbar">
+		<!-- Primary -->
+		<ul class="tools primary-tools">
+			<li class="dropdown tool sections">
+				<a href="#" class="tool-button">Sections</a>
+				<div class="dropdown-panel">
+						<ul class="section-links">
+								<li><a href="#504" class="section-mark">Areas of Agreement and Difference</a></li>
+								<li><a href="#505" class="section-mark">Comparison of Recommendations</a></li>
+								<li><a href="#506" class="section-mark">Strength of Evidence and Recommendation Grading Schemes</a></li>
+								<li><a href="#507" class="section-mark">Methodology</a></li>
+								<li><a href="#509" class="section-mark">Benefits and Harms</a></li>
+								<li><a href="#511" class="section-mark">Abbreviations</a></li>
+								<li><a href="#512" class="section-mark">Status</a></li>
+						</ul>    
+				</div><!-- /.dropdown-panel -->
+			</li>
+		</ul><!-- /.tools primary-tools -->
+
+		<!-- Other -->
+		<ul class="tools other-tools">
+			<li class="dropdown tool">
+				<a href="#" class="tool-button">Share</a>
+				<div class="dropdown-panel">
+					<ul class="toolbar-social">
+						<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/syntheses/synthesis/48531" class="facebook">Facebook</a></li>
+						<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.guideline.gov/syntheses/synthesis/48531" class="twitter">Twitter</a></li>
+						<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.guideline.gov/syntheses/synthesis/48531&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+						<li><a href="mailto:?Subject=AHRQ: Screening and Diagnosis of Gestational Diabetes Mellitus&body=https://www.guideline.gov/syntheses/synthesis/48531" class="email">Email</a></li>
+					</ul><!-- /.toolbar-social -->
+				</div><!-- /.dropdown-panel -->
+			</li>
+			<li class="dropdown tool">
+				<a href="#" class="tool-button">Cite</a>
+				<div class="dropdown-panel citation">
+				    <p class="text-label"><label for="citation">Citation: </label></p>
+					<textarea id="citation">Internet citation: National Guideline Clearinghouse (NGC). Guideline synthesis: Screening and diagnosis of gestational diabetes. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 May (revised 2017 July). [cited YYYY Mon DD]. Available: http://www.guideline.gov.</textarea>
+				</div><!-- /.dropdown-panel -->
+			</li>
+		</ul><!-- /.tools other-tools -->
+
+		<!-- Accordion tools -->
+		<ul class="tools accordion-controls">
+			<li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+			<li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+		</ul><!-- /.accordion-controls -->
+	</div><!-- /.toolbar -->            
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+	<!-- ACCORDION -->
+	<div class="accordion-container" role="tablist" multiselectable="true">
+			<h2 class="accordion-title is-active" id="504" role="tab" aria-expanded="true" aria-controls="syn504"><a href="#">Areas of Agreement and Difference</a></h2>
+			<div class="accordion-panel is-active" id="syn504" role="tabpanel" aria-labelledby="504" ><a name="areasofagreementanddifference"></a>
+<p>A direct comparison of recommendations presented in the above guidelines for the detection and diagnosis of GDM in pregnant women not previously diagnosed with type 1 or 2 diabetes mellitus is provided below. Treatment of GDM is beyond the scope of this synthesis.</p>
+<h3><a name="agreement"></a>Areas of Agreement</h3>
+<h4>Screening and Diagnosis of GDM</h4>
+<p>TES and the USPSTF agree that pregnant women should be screened for GDM at 24&ndash;28 weeks gestation. The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for GDM in asymptomatic pregnant women before 24 weeks of gestation. When deciding whether to screen for GDM before 24 weeks of gestation, the USPSTF addresses factors that should be considered by primary care providers.</p>
+<p>Historically, GDM has been diagnosed in the United States using a two-step approach: administration of a 50-gram oral glucose solution followed by a 1-hour venous glucose determination. Individuals meeting or exceeding the screening threshold then undergo a 100-g, 3-hour diagnostic OGTT, given while the patient is fasting. In a divergence from established U.S. practice, TES recommends a one-step approach to screening using a 2-hour, 75-g OGTT. TES further recommends that the IADPSG criteria be used to establish a diagnosis of GDM. USPSTF addresses both the one-step and two-step screening strategies in its guideline, but does not make a recommendation for a particular testing approach.</p>
+<h3><a name="difference"></a>Areas of Difference</h3>
+<p>There are no significant areas of disagreement between the guidelines.</p></div>
+			<h2 class="accordion-title is-active" id="505" role="tab" aria-expanded="true" aria-controls="syn505"><a href="#">Comparison of Recommendations</a></h2>
+			<div class="accordion-panel is-active" id="syn505" role="tabpanel" aria-labelledby="505" ><p><h3>Screening and Diagnosis of GDM</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides a comparison of recommendations considered by each group">
+    <tbody>
+        <tr>
+            <th valign="top" headers="screening">TES<br />
+            (2013)</th>
+            <td valign="top" headers="screening">
+            <p><strong>NGC Note</strong>: See the TES guideline summary for recommendations on the following topics, which are beyond the scope of this synthesis:</p>
+            <ul style="list-style-type: disc;">
+                <li>Preconception care of women with diabetes </li>
+                <li>Testing for overt diabetes in early pregnancy </li>
+                <li>Management of gestational diabetes </li>
+                <li>Labor, delivery, lactation and postpartum care </li>
+            </ul>
+            <p><strong><span style="text-decoration: underline;">Gestational Diabetes</span></strong></p>
+            <p><strong>Testing for Gestational Diabetes at 24 to 28 Weeks Gestation</strong></p>
+            <p>The Task Force recommends that pregnant women not previously identified (either during testing performed as per recommendation "Testing for Overt Diabetes in Early Pregnancy" above or at some other time before 24 weeks gestation) with overt diabetes or gestational diabetes be tested for gestational diabetes (see Table 2 in the original guideline document) by having a 2-hour, 75-g OGTT performed at 24 to 28 weeks gestation. (1|+++O) The Task Force recommends that gestational diabetes be diagnosed on this test using the International Association of Diabetes and Pregnancy Study Groups (IADPSG) criteria (majority opinion of this committee). (1|+++O)</p>
+            <p>The 75-g OGTT should be performed after an overnight fast of at least 8 hours (but not more than 14 hours) and without having reduced usual carbohydrate intake for the preceding several days. The test should be performed with the patient seated, and the patient should not smoke during the test. One or more abnormal values establishes the diagnosis, with the exception that in the case of overt diabetes, but not gestational diabetes, a second test (either a fasting plasma glucose, untimed random plasma glucose, HbA1C, or OGTT), in the absence of symptoms of hyperglycemia, must be performed and found to be abnormal on another day to confirm the diagnosis of overt diabetes.</p>
+            <p><em>Remarks</em></p>
+            <p>The current definition of gestational diabetes ("any degree of glucose intolerance with onset or first definition during pregnancy") includes pregnant patients who have a marked degree of hyperglycemia consistent with previously undiagnosed overt diabetes. To exclude from the definition of gestational diabetes those women with overt diabetes, most of our committee supports redefining gestational diabetes as defined in the Hyperglycemia and Adverse Pregnancy Outcome study; that is, gestational diabetes is "the condition associated with degrees of maternal hyperglycemia less severe than those found in overt diabetes but associated with an increased risk of adverse pregnancy outcomes."</p>
+            <p>Based on the evidence (see Evidence 2.2 in the original guideline document) and the analysis thereof, this committee reached a majority opinion recommending screening using the protocol and threshold values as established by the consensus panel of the IADPSG. The reader is referred to the IADPSG recommendations on the diagnosis and classification of hyperglycemia in pregnancy for further reading on this subject.</p>
+            <p>The Task Force recommendation, although in agreement with the recommendations of the IADPSG and American Diabetes Association, differs materially from the recommendation of other organizations including the American Congress of Obstetricians and Gynecologists (ACOG) and the National Institutes of Health. It is acknowledged that this is an arguable and controversial recommendation; indeed, our committee failed to establish unanimity on advocating for this recommendation. It is recognized that implementation of the IADPSG criteria will lead to a substantial increase in the numbers of pregnant women being diagnosed with gestational diabetes with the attendant medicalization of pregnancies and with a concomitant increase in healthcare costs both to individuals and to society. Nonetheless, for those reasons as outlined above, most of this committee has concluded that, pending further evidence, adopting the IADPSG criteria is warranted.</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top" headers="screening">USPSTF<br />
+            (2014)</th>
+            <td valign="top" headers="screening">
+            <p><strong><span style="text-decoration: underline;">Summary of Recommendations and Evidence</span></strong></p>
+            <p>The USPSTF recommends screening for GDM in asymptomatic pregnant women after 24 weeks of gestation. (<strong>B recommendation</strong>)</p>
+            <p>The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for GDM in asymptomatic pregnant women before 24 weeks of gestation. (<strong>I statement</strong>)</p>
+            <p><strong><span style="text-decoration: underline;">Clinical Considerations</span></strong></p>
+            <p><strong>Patient Population Under Consideration</strong></p>
+            <p>These recommendations apply to pregnant women who have not been previously diagnosed with type 1 or 2 diabetes mellitus.</p>
+            <p><strong>Assessment of Risk</strong></p>
+            <p>Several factors increase a woman's risk for GDM, including obesity, increased maternal age, history of GDM, family history of diabetes, and belonging to an ethnic group at increased risk for GDM (Hispanic, Native American, South or East Asian, African American, or Pacific Island descent).</p>
+            <p>Factors associated with a lower risk include age younger than 25 to 30 years, white race, BMI of 25 kg/m<sup>2</sup> or less, no family history (that is, in a first-degree relative) of diabetes, and no history of glucose intolerance or adverse pregnancy outcomes related to GDM.</p>
+            <p><strong>Screening</strong></p>
+            <p>Two strategies are used to screen for gestational diabetes in the United States. In the 2-step approach, the 50-g oral glucose challenge test (OGCT) is performed between 24 and 28 weeks of gestation in a nonfasting state. If the screening threshold is met or exceeded (130 mg/dL, 135 mg/dl, or 140 mg/dL [7.21, 7.49, or 7.77 mmol/L]), patients receive the OGTT. During the OGTT, a fasting glucose level is obtained, followed by administration of a 100-g glucose load, and glucose levels are evaluated after 1, 2, and 3 hours. A diagnosis of GDM is made when 2 or more glucose values fall at or above the specified glucose thresholds. Alternatively, in the 1-step approach, a 75-g glucose load is administered after fasting glucose and plasma glucose levels are evaluated after 1 and 2 hours. Gestational diabetes mellitus is diagnosed if 1 glucose value falls at or above the specified glucose thresholds.</p>
+            <p><strong>Timing of Screening</strong></p>
+            <p>Screening is recommended after 24 weeks of gestation. Screening for GDM may occur earlier than 24 weeks of gestation in high-risk women, but there is little evidence about the benefits and harms of screening before 24 weeks of gestation.</p>
+            <p><strong>Suggestions for Practice Regarding the I Statement</strong></p>
+            <p>In deciding whether to screen for GDM before 24 weeks of gestation, primary care providers should consider the following.</p>
+            <p><em>Potential Preventable Burden</em></p>
+            <p>Gestational diabetes affects about 240,000 (7%) of the 4 million annual births in the United States. Pregnant women who are diagnosed with GDM before 24 weeks may be at even greater risk for maternal and fetal complications and type 2 diabetes and may benefit from early identification and treatment. Women with GDM are at increased risk for type 2 diabetes mellitus.</p>
+            <p><em>Potential Harms</em></p>
+            <p>Potential harms of screening for gestational diabetes include psychological harms and intensive medical interventions (induction of labor, cesarean delivery, or admission to the neonatal intensive care unit). Possible adverse effects of treatment include neonatal or maternal hypoglycemia and maternal stress.</p>
+            <p><em>Current Practice</em></p>
+            <p>A cross-sectional study reported that universal screening is the most common practice in the United States, with 96% of obstetricians routinely screening for GDM. Some women are screened earlier than 24 weeks of gestation because they have risk factors for type 2 diabetes, such as obesity, family history of type 2 diabetes, or previous fetal macrosomia.</p>
+            <p>If a pregnant woman presents in the first trimester or in early pregnancy with risk factors for type 2 diabetes, clinicians should use their clinical judgment to determine appropriate screening for that individual patient given her health needs and the insufficient evidence.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></p></div>
+			<h2 class="accordion-title is-active" id="506" role="tab" aria-expanded="true" aria-controls="syn506"><a href="#">Strength of Evidence and Recommendation Grading Schemes</a></h2>
+			<div class="accordion-panel is-active" id="syn506" role="tabpanel" aria-labelledby="506" ><table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides the rating schemes used by the guideline groups to rate the level of evidence and/or the strength of the recommendations">
+    <tbody>
+        <tr>
+            <th valign="top">TES<br />
+            (2013)</th>
+            <td valign="top">
+            <p><strong>Quality of Evidence</strong></p>
+            <p><strong>+OOO</strong> Denotes very low quality evidence</p>
+            <p><strong>++OO</strong> Denotes low quality evidence</p>
+            <p><strong>+++O</strong> Denotes moderate quality evidence</p>
+            <p><strong>++++</strong> Denotes high quality evidence</p>
+            <p><strong>Strength of Recommendation</strong></p>
+            <p><strong>1</strong> - Indicates a strong recommendation and is associated with the phrase "The Task Force recommends."</p>
+            <p><strong>2</strong> - Denotes a weak recommendation and is associated with the phrase "The Task Force suggests."</p>
+            <p><strong>Ungraded</strong>. The panelists on a few occasions left some recommendations ungraded. These are recommendations that were supported only by indirect evidence or by the unsystematic observations of the committee members and resulted from their consensus and discussion and have been included owing to their clinical relevance and practicality. These recommendations should be considered suggestions (i.e., deviation from these recommendations is not unreasonable) and are explicitly left ungraded due to the lack of direct evidence.</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">USPSTF<br />
+            (2014)</th>
+            <td valign="top">
+            <p><strong>What the U.S. Preventive Services Task Force (USPSTF) Grades Mean and Suggestions for Practice</strong></p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: What the U.S. Preventive Services Task Force (USPSTF) Grades Mean and Suggestions for Practice">
+                <thead>
+                    <tr>
+                        <th class="Center" valign="top">Grade</th>
+                        <th class="Center" valign="top">Grade Definitions</th>
+                        <th class="Center" valign="top">Suggestions for Practice</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="Center" valign="top">A</td>
+                        <td valign="top">The USPSTF recommends the service. There is high certainty that the net benefit is substantial.</td>
+                        <td valign="top">Offer/provide this service.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">B</td>
+                        <td valign="top">The USPSTF recommends the service. There is high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial.</td>
+                        <td valign="top">Offer/provide this service.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">C</td>
+                        <td valign="top">The USPSTF recommends selectively offering or providing this service to individual patients based on professional judgment and patient preferences. There is at least moderate certainty that the net benefit is small.</td>
+                        <td valign="top">Offer/provide this service only if other considerations support offering or providing the service in an individual patient.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">D</td>
+                        <td valign="top">The USPSTF recommends against the service. There is moderate or high certainty that the service has no net benefit or that the harms outweigh the benefits.</td>
+                        <td valign="top">Discourage the use of this service.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">I<br />
+                        Statement</td>
+                        <td valign="top">The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of the service. Evidence is lacking, of poor quality, or conflicting, and the balance of benefits and harms cannot be measured.</td>
+                        <td valign="top">Read "Clinical Considerations" section of USPSTF Recommendation Statement (see the "Major Recommendations" field). If the service is offered, patients should understand the uncertainty about the balance of benefits and harms.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><strong>USPSTF Levels of Certainty Regarding Net Benefit</strong></p>
+            <p><strong>Definition</strong>: The USPSTF defines <em>certainty</em> as "likelihood that the USPSTF assessment of the net benefit of a preventive service is correct." The net benefit is defined as benefit minus harm of the preventive service as implemented in a general, primary care population. The USPSTF assigns a certainty level based on the nature of the overall evidence available to assess the net benefit of a preventive service.</p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: USPSTF Levels of Certainty Regarding Net Benefit">
+                <thead>
+                    <tr>
+                        <th class="Center" valign="top" scope="col">Level of Certainty</th>
+                        <th class="Center" valign="top" scope="col">Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">High</td>
+                        <td valign="top">The available evidence usually includes consistent results from well-designed, well-conducted studies in representative primary care populations. These studies assess the effects of the preventive service on health outcomes. This conclusion is therefore unlikely to be strongly affected by the results of future studies.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">Moderate</td>
+                        <td valign="top">The available evidence is sufficient to determine the effects of the preventive service on health outcomes, but confidence in the estimate is constrained by factors such as:
+                        <ul style="list-style-type: disc;">
+                            <li>The number, size, or quality of individual studies </li>
+                            <li>Inconsistency of findings across individual studies </li>
+                            <li>Limited generalizability of findings to routine primary care practice; and </li>
+                            <li>Lack of coherence in the chain of evidence </li>
+                        </ul>
+                        As more information becomes available, the magnitude or direction of the observed effect could change, and this change may be large enough to alter the conclusion. </td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">Low</td>
+                        <td valign="top">The available evidence is insufficient to assess effects on health outcomes. Evidence is insufficient because of:
+                        <ul style="list-style-type: disc;">
+                            <li>The limited number or size of studies </li>
+                            <li>Important flaws in study design or methods </li>
+                            <li>Inconsistency of findings across individual studies </li>
+                            <li>Gaps in the chain of evidence </li>
+                            <li>Findings not generalizable to routine primary care practice; and </li>
+                            <li>A lack of information on important health outcomes </li>
+                        </ul>
+                        More information may allow an estimation of effects on health outcomes. </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="507" role="tab" aria-expanded="true" aria-controls="syn507"><a href="#">Methodology</a></h2>
+			<div class="accordion-panel is-active" id="syn507" role="tabpanel" aria-labelledby="507" ><table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides the comparison of methodology for each guideline in the synthesis">
+    <tbody>
+        <tr>
+            <th valign="top" colspan="2" scope="col"><em>Click on the links below for details of guideline development methodology</em> </th>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">
+            <p><strong><a href="/content.aspx?id=47898#405" title="Guideline #10307" target="_blank">TES</a><br />
+            (2013)</strong></p>
+            </td>
+            <td class="Center" valign="top">
+            <p><strong><a href="/content.aspx?id=47757#405" title="Guideline #10198" target="_blank">USPSTF</a><br />
+            (2014)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" colspan="2">
+            <p>TES and USPSTF performed searches of electronic databases and hand-searches of published literature (primary and secondary sources) to collect the evidence. The groups weighted the collected evidence according to a rating scheme to assess its quality and strength. Methods used to analyze the evidence were also similar in that both groups reviewed published meta-analyses and performed a systematic review of the evidence (the USPSTF systematic review was prepared by the University of Alberta EPC and included evidence tables). Both TES and USPSTF also conducted a meta-analysis of randomized controlled trials. Expert consensus was used by the developers as a method of recommendation formulation (USPSTF also employed balance sheets), with both of the groups providing a description of the process. TES and USPSTF rated the strength of the recommendations according to a scheme. Internal and external peer review was sought by both developers as a method of guideline validation and provide a description of the process. USPSTF also compared its guideline with those of other guideline development organizations.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="509" role="tab" aria-expanded="true" aria-controls="syn509"><a href="#">Benefits and Harms</a></h2>
+			<div class="accordion-panel is-active" id="syn509" role="tabpanel" aria-labelledby="509" ><p><h3>Benefits</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides the benefits of implementation of the guidelines">
+    <tbody>
+        <tr>
+            <th valign="top">TES<br />
+            (2013)</th>
+            <td valign="top">
+            <p>Appropriate preconception counseling and management of women with diabetes mellitus during pregnancy and postpartum</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">USPSTF<br />
+            (2014)</th>
+            <td valign="top">
+            <p><strong>Benefits of Detection and Early Treatment</strong></p>
+            <ul style="list-style-type: disc;">
+                <li>The USPSTF found adequate evidence that treatment of screen-detected GDM with dietary modifications, glucose monitoring, and insulin (if needed) can significantly reduce the risk for preeclampsia, fetal macrosomia, and shoulder dystocia. When these outcomes are considered collectively, there is a moderate net benefit for the mother and infant. The benefit of treatment on long-term metabolic outcomes in women who are treated for GDM compared with those who are not treated is uncertain. </li>
+                <li>The USPSTF found inadequate evidence to determine whether there are benefits to screening for GDM in women before 24 weeks of gestation. </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<h3>Harms</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides the harms of implementation of the guidelines">
+    <tbody>
+        <tr>
+            <th valign="top">TES<br />
+            (2013)</th>
+            <td valign="top">
+            <p>The Task Force acknowledges that with universal testing for diabetes in early pregnancy, there will be a high rate of false-positive results and that women with positive testing may have anxiety and will suffer the burden of additional testing. Nevertheless, the Task Force recommended universal testing because it places the highest value on preventing fetal complications.</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">USPSTF<br />
+            (2014)</th>
+            <td valign="top">
+            <p>Potential harms of screening for gestational diabetes include psychological harms and intensive medical interventions (induction of labor, cesarean delivery, or admission to the neonatal intensive care unit). Possible adverse effects of treatment include neonatal or maternal hypoglycemia and maternal stress.</p>
+            <p><strong>Harms of Detection and Early Treatment</strong></p>
+            <p>Overall, the USPSTF found adequate evidence that the magnitude of the harms of screening and treatment is small to none. Randomized, controlled trials (RCTs) demonstrated an increase in the number of prenatal visits in screen-detected women who were treated for GDM compared with screen-detected women who were not treated. There was conflicting evidence on the risk for an increase in the induction of labor associated with treatment. No significant differences were reported for cesarean delivery or neonatal intensive care unit admissions between women who were treated and women who were not treated for GDM in the overall pooled meta-analysis. Trials also demonstrated no significant differences in the incidence of small-for-gestational-age infants or episodes of neonatal hypoglycemia, but the trials were not adequately powered to detect meaningful differences in these outcomes.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></p></div>
+			<h2 class="accordion-title is-active" id="511" role="tab" aria-expanded="true" aria-controls="syn511"><a href="#">Abbreviations</a></h2>
+			<div class="accordion-panel is-active" id="syn511" role="tabpanel" aria-labelledby="511" ><p>BMI, body mass index</p>
+<p>EPC, Evidence-based Practice Center</p>
+<p>GDM, gestational diabetes mellitus</p>
+<p>HbA1c, glycosylated hemoglobin</p>
+<p>IADPSG, International Association of Diabetes and Pregnancy Study Groups</p>
+<p>OGTT, oral glucose tolerance test</p>
+<p>TES, The Endocrine Society</p>
+<p>USPSTF, U.S. Preventive Services Task Force</p></div>
+			<h2 class="accordion-title is-active" id="512" role="tab" aria-expanded="true" aria-controls="syn512"><a href="#">Status</a></h2>
+			<div class="accordion-panel is-active" id="syn512" role="tabpanel" aria-labelledby="512" ><p>This synthesis was prepared by ECRI Institute on March 12, 2014. The information was verified by ACOG on April 10, 2014. This synthesis was revised in August 2014 to add recommendations from USPSTF. The information was verified by USPSTF on October 1, 2014. This synthesis was revised in October 2014 to add recommendations from TES and to remove recommendations from ADA. The information was verified by TES on October 28, 2014. This synthesis was revised most recently in July 2015 to remove recommendations from AACE and again in July 2017 to remove recommendations from ACOG.</p></div>
+	</div><!-- accordion-container -->
+
+<!-- ASIDE -->
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	<!-- About NGC -->
+	<div class="info-block">
+			<h3 class="info prefix-icon large-icon">About NGC Guideline Syntheses</h3>
+			<p>Syntheses are systematic comparisons of selected guidelines that address similar topics. For definitions of synthesis attributes, see the 
+                <a href="/syntheses/template">Guideline Synthesis Template</a>.    
+            </p>
+	</div><!-- /info-block -->
+	<hr>
+
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+		<ul class="subscribe-links">
+            <li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/rssFiles/ngc_newthisweek.xml" class="rss icon-feed"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div><!-- /.subscribable -->
+
+	<!-- New this Week -->
+	<a href="/new-this-week" class="block-link">
+		<h4>New this Week</h4>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

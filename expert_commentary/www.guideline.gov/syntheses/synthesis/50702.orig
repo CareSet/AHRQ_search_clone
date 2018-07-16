@@ -1,0 +1,751 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Diabetic Foot Ulcers: Prevention | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+	<div class="content-header">
+		<ul class="content-header-meta">
+			<li class="prefix-icon large-icon synthesis">Guideline Synthesis</li>
+		</ul>
+		<h1>Diabetic Foot Ulcers: Prevention</h1>
+	</div><!-- /.content-header -->
+
+	<!-- COMPARED LIST-->
+		<p>Guidelines Being Compared:</p>
+		<ul class="compared-list"> 
+				<li>
+                    <p class="compared-list-org">International Working Group on the Diabetic Foot (IWGDF)</p>
+					<p class="compared-list-title">IWGDF guidance on the prevention of foot ulcers in at-risk patients with diabetes.</p>
+                    <p class="compared-list-org">2016 Jan 01</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/50455">View Summary</a></p>					
+				</li>
+				<li>
+                    <p class="compared-list-org">International Working Group on the Diabetic Foot (IWGDF)</p>
+					<p class="compared-list-title">IWGDF guidance on the prevention of foot ulcers in at-risk patients with diabetes.</p>
+                    <p class="compared-list-org">2016 Jan 01</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/50455">View Summary</a></p>					
+				</li>
+				<li>
+                    <p class="compared-list-org">Society for Vascular Surgery (SVS)</p>
+					<p class="compared-list-title">The management of diabetic foot: a clinical practice guideline by the Society for Vascular Surgery in collaboration with the American Podiatric Medical Association and the Society for Vascular Medicine.</p>
+                    <p class="compared-list-org">2016 Feb 01</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/50181">View Summary</a></p>					
+				</li>
+		</ul><!-- /.compared-list -->
+			
+	<!-- TOOLBAR -->
+	<div class="content-toolbar">
+		<!-- Primary -->
+		<ul class="tools primary-tools">
+			<li class="dropdown tool sections">
+				<a href="#" class="tool-button">Sections</a>
+				<div class="dropdown-panel">
+						<ul class="section-links">
+								<li><a href="#504" class="section-mark">Areas of Agreement and Difference</a></li>
+								<li><a href="#505" class="section-mark">Comparison of Recommendations</a></li>
+								<li><a href="#506" class="section-mark">Strength of Evidence and Recommendation Grading Schemes</a></li>
+								<li><a href="#507" class="section-mark">Methodology</a></li>
+								<li><a href="#509" class="section-mark">Benefits and Harms</a></li>
+								<li><a href="#511" class="section-mark">Abbreviations</a></li>
+								<li><a href="#512" class="section-mark">Status</a></li>
+						</ul>    
+				</div><!-- /.dropdown-panel -->
+			</li>
+		</ul><!-- /.tools primary-tools -->
+
+		<!-- Other -->
+		<ul class="tools other-tools">
+			<li class="dropdown tool">
+				<a href="#" class="tool-button">Share</a>
+				<div class="dropdown-panel">
+					<ul class="toolbar-social">
+						<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/syntheses/synthesis/50702" class="facebook">Facebook</a></li>
+						<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.guideline.gov/syntheses/synthesis/50702" class="twitter">Twitter</a></li>
+						<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.guideline.gov/syntheses/synthesis/50702&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+						<li><a href="mailto:?Subject=AHRQ: Diabetic Foot Ulcers: Prevention&body=https://www.guideline.gov/syntheses/synthesis/50702" class="email">Email</a></li>
+					</ul><!-- /.toolbar-social -->
+				</div><!-- /.dropdown-panel -->
+			</li>
+			<li class="dropdown tool">
+				<a href="#" class="tool-button">Cite</a>
+				<div class="dropdown-panel citation">
+				    <p class="text-label"><label for="citation">Citation: </label></p>
+					<textarea id="citation">Internet citation: National Guideline Clearinghouse (NGC). Guideline synthesis: Diabetic foot ulcers: prevention. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2017 Apr. [cited YYYY Mon DD]. Available: http://www.guideline.gov.</textarea>
+				</div><!-- /.dropdown-panel -->
+			</li>
+		</ul><!-- /.tools other-tools -->
+
+		<!-- Accordion tools -->
+		<ul class="tools accordion-controls">
+			<li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+			<li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+		</ul><!-- /.accordion-controls -->
+	</div><!-- /.toolbar -->            
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+	<!-- ACCORDION -->
+	<div class="accordion-container" role="tablist" multiselectable="true">
+			<h2 class="accordion-title is-active" id="504" role="tab" aria-expanded="true" aria-controls="syn504"><a href="#">Areas of Agreement and Difference</a></h2>
+			<div class="accordion-panel is-active" id="syn504" role="tabpanel" aria-labelledby="504" ><a name="areasofagreementanddifference"></a>
+<p>A direct comparison of recommendations presented in the above guidelines for the prevention of diabetic foot ulcers (DFUs) in at-risk individuals with diabetes is provided. The SVS/APMA/SVM guideline also provides recommendations for the management of diabetic foot, which are beyond the scope of this synthesis. See the <a href="/summaries/summary/50181" title="Guideline #10958" target="_blank">NGC summary</a> for these recommendations. The IWGDF guideline is one of five guidance documents on the prevention and management of foot problems in diabetes; see the individual NGC summaries for management recommendations.</p>
+<h3><a name="agreement"></a>Areas of Agreement</h3>
+<h4>Screening</h4>
+<p>IWGDF and SVS/APMA/SVM agree that patients with diabetes should undergo annual foot examinations in order to screen for signs and symptoms of peripheral neuropathy and PAD. The developers agree that the examination should include assessing for the loss of protective sensation caused by peripheral neuropathy using the Semmes-Weinstein monofilament test. According to SVS/APMA/SVM, the evidence supporting that use of this test modifies practice is scant. However, patients with severe neuropathy as assessed by this test have both an increased risk of diabetic foot ulcers and greater risk of limb loss, adds the developer. Even though evidence for a screening interval is lacking, IWGDF recommends yearly screening for a patient who is not at risk for ulceration. Additional risk factors cited by the groups that should be screened for include pre-ulcerative signs on the foot (e.g., callus, blisters, hemorrhage), poor foot hygiene, and ill-fitting or inadequate footwear. SVS/APMA/SVM also recommends evaluating patients for a history of poor visual acuity. The guideline developers agree that the examination should include taking a detailed history of prior foot ulceration or amputation and assessing for foot deformity (hammer or claw toes, bunions, Charcot deformities).</p>
+<p>The guideline developers agree that patients determined to be at increased risk for ulceration due to the presence of neuropathy should be screened more frequently than low-risk patients and should receive more intensive education. Both IWGDF and SVS/APMA/SVM recommend the use of a risk stratification system in order to guide frequency of initial and follow-up evaluations. SVS/APMA/SVM endorses a system created by the American College of Foot and Ankle Surgeons; IWGDF employs its own classification system. The systems are almost identical and feature the following four risk categories: 0 (no peripheral neuropathy); 1 (peripheral neuropathy); 2 (peripheral neuropathy with deformity and/or PAD); and 3 (peripheral neuropathy and previous ulcer or lower-extremity amputation). The recommended evaluation frequency for the four risk levels are as follows: 0 (annually); 1 (semiannually); 2 (quarterly [SVS/APMA/SVM]/every 3&ndash;6 months [IWGDF]); and 3 (every 1&ndash;3 months).</p>
+<p>IWGDF makes a strong recommendation for treating any pre-ulcerative signs on the foot identified during screening, including callus, blisters, ingrown or thickened toe nails, and hemorrhage. The effectiveness of treating these pre-ulcerative signs on the prevention of a foot ulcer has not been directly investigated, notes the developer, but the benefit of such treatment by a trained foot care professional outweighs the potential harm and comes at a relatively low cost.</p>
+<h4>Footwear</h4>
+<p>IWGDF and SVS/APMA/SVM agree that ill-fitting footwear has been identified as an important cause of foot ulceration, and recommend instructing patients at low- or average-risk of ulceration to wear properly fitting footwear to prevent a first foot ulcer. According to SVS/APMA/SVM, footwear should include a broad and square toe box, laces with three or four eyes per side, padded tongue, quality lightweight materials, and sufficient size to accommodate a cushioned insole. IWGDF similarly notes that in properly fitting footwear, the inside of the shoe should be 1&ndash;2 cm longer than the foot, the internal width should equal the width of the foot at the metatarsal phalangeal joints (or the widest part of the foot), and the height should allow enough room for all the toes. According to IWGDF, little is known about the adherence of patients to wearing properly fitting footwear before an ulcer has developed. Patients may value the role of properly fitting footwear to prevent ulcers, but some still consider their footwear to be the cause of their problems. Furthermore, anecdotally, many patients prefer not to wear bulky custom-made shoes when they have not yet experienced a foot ulcer, remarks the developer. The guideline developers agree that custom therapeutic footwear is generally indicated for high-risk patients with diabetes, including those with significant neuropathy, PAD, foot deformities, or previous amputation.</p>
+<p>Concerning prevention of a recurrent plantar foot ulcer specifically, IWGDF strongly recommends prescribing therapeutic footwear that has a demonstrated plantar pressure relieving effect during walking (i.e., 30% relief compared with plantar pressure in standard of care therapeutic footwear). This recommendation is predicated on the availability of both therapeutic footwear and technology for pressure measurement, notes the developer. In regions and clinical settings where this is not possible, IWGDF recommends prescribing therapeutic footwear using available state-of-the-art scientific knowledge on footwear designs that effectively offload the foot.</p>
+<h4>Patient Education</h4>
+<p>The guideline developers generally agree that at-risk patients with diabetes should be educated about preventive foot care and encouraged to adhere to this foot care guidance. According to IWGDF, even though controlled studies on the efficacy of patient education to prevent a first foot ulcer have not been performed to date, patients who are at risk for ulceration should receive some form of education on preventive behavior, foot complications and their consequences, and on seeking professional help in a timely manner when patients identify a foot problem. SVS/APMA/SVM similarly acknowledges a lack of high-quality studies specifically evaluating education interventions, but nonetheless makes a strong recommendation for patient education in this context, noting that it makes empirical sense and is likely cost-effective. The developer emphasizes the importance of plain speaking and allowing questions during such education interventions.</p>
+<p>A specific educational intervention for which IWGDF makes a strong recommendation is instructing at-risk patients with diabetes not to walk barefoot, in socks only, or in thin-soled standard slippers, whether at home or outside. According to the developer, many large prospective studies show that at-risk patients with diabetes have elevated levels of mechanical plantar pressure during barefoot walking, which is a significant independent risk factor for foot ulceration and should therefore be reduced.</p>
+<h3><a name="difference"></a>Areas of Difference</h3>
+<h4>Surgical Interventions</h4>
+<p>Both IWGDF and SVS/APMA/SVM provide recommendations for the use of surgery to prevent DFUs, but do not address the same techniques. SVS/APMA/SVM makes a strong recommendation against prophylactic arterial revascularization in this context. Indications for this procedure should be based on the standard indications of severe claudication, rest pain, and tissue loss. Primary foot ulcerations in diabetic neuropathy are unlikely to be directly related to impaired large-artery blood flow, explains SVS/APMA/SVM. Rather, they are most commonly related to abnormal gait and foot weight distribution.</p>
+<p>IWGDF makes a weak recommendation based on low-quality evidence for the consideration of digital flexor tenotomy to prevent a toe ulcer when conservative treatment has failed in a high-risk patient with diabetes, hammertoes and either a pre-ulcerative sign or an ulcer on the distal toe. Despite a lack of controlled studies on this topic, IWGDF considers this a promising procedure in a patient who has a distal toe ulcer, or a pre-ulcerative sign on the distal toe, that fails to respond to conservative treatment and requires normalization of foot structure to prevent ulceration.</p>
+<p>Also on the basis on low-quality evidence, IWGDF makes a weak recommendation for the consideration of Achilles tendon lengthening, joint arthroplasty, single or pan metatarsal head resection or osteotomy to prevent a recurrent foot ulcer when conservative treatment has failed in a high-risk patient with diabetes and a plantar forefoot ulcer. Although there exist a number of studies with large effect sizes for the use of these procedures, very few studies show the efficacy of these interventions in well-designed controlled studies, notes IWGDF. Therefore, it is not clear if the benefits outweigh the harm, and these techniques should only be considered to heal a foot ulcer that is recalcitrant to conservative treatment and that is expected to have high risk of recurrence if the foot structure is not changed. Also, IWGDF adds, clinicians should carefully discuss possible adverse effects of the surgery with the patient.</p>
+<p>IWGDF also addresses the use of nerve decompression therapy for the prevention of foot ulcers in at-risk patients with diabetes, and recommends against it until more high-quality evidence for its efficacy compared with conservative treatment is available.</p>
+<h4>Patient Self-Management</h4>
+<p>IWGDF addresses self-management of feet health, which it considers to be an important component of foot care in at-risk patients with diabetes. The only self-management intervention for which the developer found supporting evidence is home monitoring of foot skin temperature. Three RCTs, either with low or very low risk of bias, showed that monitoring of plantar foot skin temperature on a daily basis with an easy-to-use infrared thermometer, combined with subsequent preventative actions when elevated temperatures were noted, is effective over standard treatment to prevent foot ulcers in high-risk patients. IWGDF explains, however, that home monitoring of foot temperature is currently not implemented in the foot care of high-risk patients with diabetes, which may be related to patient values or preferences, lack of easy access to calibrated equipment, lack of information on cost-effectiveness and implementation feasibility. IWGDF also recommends the following self-management interventions, while acknowledging that no evidence supporting their efficacy in preventing ulcers is available: daily inspection of feet and inside of shoes; daily feet washing; avoidance of chemical agents or plasters to remove callus and corns; use of emollients to lubricate dry skin; and cutting toenails straight across.</p>
+<h4>Glycemic Control</h4>
+<p>An additional intervention suggested by SVS/APMA/SVM to reduce the incidence of DFUs, infections, and subsequent risk of amputation is adequate glycemic control (hemoglobin A1c &lt;7% with strategies to minimize hypoglycemia). Several large trials have suggested survival benefit and lower overall morbidity with tight glycemic control, states the developer. High-risk patients may not gain as much benefit as lower risk patients, adds SVS/APMA/SVM, likely because of irreversible changes that occur late in the disease.</p></div>
+			<h2 class="accordion-title is-active" id="505" role="tab" aria-expanded="true" aria-controls="syn505"><a href="#">Comparison of Recommendations</a></h2>
+			<div class="accordion-panel is-active" id="syn505" role="tabpanel" aria-labelledby="505" ><p><h3>Diabetic Foot</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides a comparison of recommendations considered by each group">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top" headers="diabetic foot">IWGDF<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;" headers="diabetic foot">
+            <p><strong><span style="text-decoration: underline;">General Recommendations</span></strong></p>
+            <p><strong>Should a person with diabetes be screened for foot ulcer risk?</strong></p>
+            <ol style="list-style-type: decimal;" start="1">
+                <li>To identify a person with diabetes at risk for foot ulceration, examine the feet annually to seek evidence for signs or symptoms of peripheral neuropathy and peripheral artery disease. (<strong>GRADE strength of recommendation: Strong; Quality of evidence: Low</strong>) </li>
+            </ol>
+            <p><strong>What should an at-risk person with diabetes be screened for?</strong></p>
+            <ol style="list-style-type: decimal;" start="2">
+                <li>In a person with diabetes who has peripheral neuropathy, screen for a history of foot ulceration or lower-extremity amputation, peripheral artery disease, foot deformity, pre-ulcerative signs on the foot, poor foot hygiene, and ill-fitting or inadequate footwear. (<strong>Strong; Low</strong>) </li>
+            </ol>
+            <p><strong>Is the treatment of a pre-ulcerative sign on the foot effective in preventing a foot ulcer in an at-risk patient with diabetes?</strong></p>
+            <ol style="list-style-type: decimal;" start="3">
+                <li>Treat any pre-ulcerative sign on the foot of a patient with diabetes. This includes removing callus, protecting blisters and draining when necessary, treating ingrown or thickened toe nails, treating hemorrhage when necessary and prescribing antifungal treatment for fungal infections. (<strong>Strong; Low</strong>) </li>
+            </ol>
+            <p><strong>What should an at-risk patient with diabetes avoid when walking at home or outside?</strong></p>
+            <ol style="list-style-type: decimal;" start="4">
+                <li>To protect their feet, instruct an at-risk patient with diabetes not to walk barefoot, in socks only, or in thin-soled standard slippers, whether at home or when outside. (<strong>Strong; Low</strong>) </li>
+            </ol>
+            <p><strong>What self-management interventions should a patient perform on a regular basis?</strong></p>
+            <ol style="list-style-type: decimal;" start="5">
+                <li>Instruct an at-risk patient with diabetes to daily inspect their feet and the inside of their shoes, daily wash their feet (with careful drying particularly between the toes), avoid using chemical agents or plasters to remove callus or corns, use emollients to lubricate dry skin and cut toe nails straight across. (<strong>Weak; Low</strong>) </li>
+            </ol>
+            <p><strong>Is footwear effective in preventing a first or recurrent non-plantar foot ulcer in an at-risk patient with diabetes?</strong></p>
+            <ol style="list-style-type: decimal;" start="6">
+                <li>Instruct an at-risk patient with diabetes to wear properly fitting footwear to prevent a first foot ulcer, either plantar or non-plantar, or a recurrent non-plantar foot ulcer. When a foot deformity or a pre-ulcerative sign is present, consider prescribing therapeutic shoes, custom-made insoles or toe orthosis. (<strong>Strong; Low</strong>) </li>
+            </ol>
+            <p><strong>Is therapeutic footwear effective in preventing a recurrent plantar foot ulcer in at-risk patients with diabetes?</strong></p>
+            <ol style="list-style-type: decimal;" start="7">
+                <li>To prevent a recurrent plantar foot ulcer in an at-risk patient with diabetes, prescribe therapeutic footwear that has a demonstrated plantar pressure relieving effect during walking (i.e., 30% relief compared with plantar pressure in standard of care therapeutic footwear) and encourage the patient to wear this footwear. (<strong>Strong; Moderate</strong>) </li>
+            </ol>
+            <p><strong>Is patient education effective in preventing a first foot ulcer in an at-risk patient?</strong></p>
+            <ol style="list-style-type: decimal;" start="8">
+                <li>To prevent a first foot ulcer in an at-risk patient with diabetes, provide education aimed at improving foot care knowledge and behavior, as well as encouraging the patient to adhere to this foot care advice. (<strong>Weak; Low</strong>) </li>
+            </ol>
+            <p><strong>Is integrated foot care effective in preventing recurrent foot ulcers in at-risk patients with diabetes?</strong></p>
+            <ol style="list-style-type: decimal;" start="9">
+                <li>To prevent a recurrent foot ulcer in an at-risk patient with diabetes, provide integrated foot care, which includes professional foot treatment, adequate footwear and education. This should be repeated or re-evaluated once every 1 to 3 months as necessary. (<strong>Strong; Low</strong>) </li>
+            </ol>
+            <p><strong>Is self-management of foot health effective in preventing a first or recurrent foot ulcer in at-risk patients with diabetes?</strong></p>
+            <ol style="list-style-type: decimal;" start="10">
+                <li>Instruct a high-risk patient with diabetes to monitor foot skin temperatures at home to prevent a first or recurrent plantar foot ulcer. This aims at identifying the early signs of inflammation, followed by action taken by the patient and care provider to resolve the cause of inflammation. (<strong>Weak; Moderate</strong>) </li>
+            </ol>
+            <p><strong>Are surgical interventions effective in preventing a foot ulcer in at-risk patients?</strong></p>
+            <ol style="list-style-type: decimal;" start="11">
+                <li>Consider digital flexor tenotomy to prevent a toe ulcer when conservative treatment fails in a high-risk patient with diabetes, hammertoes and either a pre-ulcerative sign or an ulcer on the distal toe. (<strong>Weak; Low</strong>) </li>
+                <li>Consider Achilles tendon lengthening, joint arthroplasty, single or pan metatarsal head resection or osteotomy to prevent a recurrent foot ulcer when conservative treatment fails in a high-risk patient with diabetes and a plantar forefoot ulcer. (<strong>Weak; Low</strong>) </li>
+                <li>Do not use a nerve decompression procedure in an effort to prevent a foot ulcer in an at-risk patient with diabetes, in preference to accepted standards of good quality care. (<strong>Weak; Low</strong>) </li>
+            </ol>
+            </td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top" headers="diabetic foot">SVS/APMA/SVM<br />
+            (2016)</th>
+            <td valign="top" headers="diabetic foot">
+            <p><strong>Note</strong>: See the <a href="/summaries/summary/50181" title="Guideline #10958" target="_blank">NGC guideline summary</a> for recommendations on the management of diabetic foot, which are beyond the scope of this synthesis.</p>
+            <p><strong><span style="text-decoration: underline;">Prevention of DFUs</span></strong></p>
+            <p><strong>Recommendation 1</strong>. The committee recommends that patients with diabetes undergo annual interval foot inspections by physicians (MD, DO, DPM) or advanced practice providers with training in foot care (<strong>Grade 1C</strong>).</p>
+            <p><strong>Recommendation 2</strong>. The committee recommends that foot examination include testing for peripheral neuropathy using the Semmes-Weinstein test (<strong>Grade 1B</strong>).</p>
+            <p><strong>Recommendation 3</strong>. The committee recommends education of the patients and their families about preventive foot care (<strong>Grade 1C</strong>).</p>
+            <p><strong>Recommendation 4</strong></p>
+            <ol style="list-style-type: lower-alpha;">
+                <li>The committee suggests against the routine use of specialized therapeutic footwear in average-risk diabetic patients (<strong>Grade 2C</strong>). </li>
+                <li>The committee recommends using custom therapeutic footwear in high-risk diabetic patients, including those with significant neuropathy, foot deformities, or previous amputation (<strong>Grade 1B</strong>). </li>
+            </ol>
+            <p><strong>Recommendation 5</strong>. The committee suggests adequate glycemic control (hemoglobin A1c &lt;7% with strategies to minimize hypoglycemia) to reduce the incidence of DFUs and infections, with subsequent risk of amputation (<strong>Grade 2B</strong>).</p>
+            <p><strong>Recommendation 6</strong>. The committee recommends against prophylactic arterial revascularization to prevent DFU (<strong>Grade 1C</strong>).</p>
+            </td>
+        </tr>
+    </tbody>
+</table></p></div>
+			<h2 class="accordion-title is-active" id="506" role="tab" aria-expanded="true" aria-controls="syn506"><a href="#">Strength of Evidence and Recommendation Grading Schemes</a></h2>
+			<div class="accordion-panel is-active" id="syn506" role="tabpanel" aria-labelledby="506" ><p><a name="strength"></a></p>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="This table presents the rating schemes used by the guideline groups to rate the level of evidence and/or the strength of the recommendations.">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top">IWGDF<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <p>Recommendations in the guidance were formulated based on the GRADE system for grading evidence when writing a clinical guideline. The authors assessed the quality of evidence on the risk of bias of included studies, effect sizes, and expert opinion, and rated the quality of evidence as 'high', 'moderate' or 'low'. See the <a href="/Home/Disclaimer?id=50702&contentType=synthesis&redirect=http%3a%2f%2fwww.gradeworkinggroup.org%2f" title="GRADE Web site">GRADE Web site</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> for more information.</p>
+            </td>
+        </tr>
+        <tr>
+            <th width="10%" class="Center" valign="top">SVS/APMA/SVM<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <p><strong><span style="text-decoration: underline;">GRADE Recommendations Based on Level of Evidence</span></strong></p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: Grading of Recommendations Assessment, Development and Evaluation (GRADE) Recommendations Based on Level of Evidence">
+                <thead>
+                    <tr>
+                        <th class="Center" valign="top" scope="col">Grade</th>
+                        <th class="Center" valign="top" scope="col">Description of Recommendation</th>
+                        <th class="Center" valign="top" scope="col">Benefit vs. Risk</th>
+                        <th class="Center" valign="top" scope="col">Methodologic Quality of Supporting Evidence</th>
+                        <th class="Center" valign="top" scope="col">Implications</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="Center" valign="top">1A</td>
+                        <td valign="top">Strong recommendation, high-quality evidence</td>
+                        <td valign="top">Benefits clearly outweigh risk and burdens, or vice versa</td>
+                        <td valign="top">Randomized controlled trials (RCTs) without important limitations or overwhelming evidence from observational studies</td>
+                        <td valign="top">Strong recommendation, can apply to most patients in most circumstances without reservation</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">1B</td>
+                        <td valign="top">Strong recommendation, moderate-quality evidence</td>
+                        <td valign="top">Benefits clearly outweigh risk and burdens, or vice versa</td>
+                        <td valign="top">RCTs with important limitations (inconsistent results, methodologic flaws, indirect, or imprecise) or exceptionally strong evidence from observational studies</td>
+                        <td valign="top">Strong recommendation, can apply to most patients in most circumstances without reservation</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">1C</td>
+                        <td valign="top">Strong recommendation, low-quality or very-low-quality evidence</td>
+                        <td valign="top">Benefits clearly outweigh risk and burdens, or vice versa</td>
+                        <td valign="top">Observational studies or case series</td>
+                        <td valign="top">Strong recommendation but may change when higher quality evidence becomes available</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">2A</td>
+                        <td valign="top">Weak recommendation, high-quality evidence</td>
+                        <td valign="top">Benefits closely balanced with risks and burdens</td>
+                        <td valign="top">RCTs without important limitations or overwhelming evidence from observational studies</td>
+                        <td valign="top">Weak recommendation, best action may differ depending on circumstances or patients' or societal values</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">2B </td>
+                        <td valign="top">Weak recommendation, moderate-quality evidence</td>
+                        <td valign="top">Benefits closely balanced with risks and burdens</td>
+                        <td valign="top">RCTs with important limitations (inconsistent results, methodologic flaws, indirect, or imprecise) or exceptionally strong evidence from observational studies</td>
+                        <td valign="top">Weak recommendation, best action may differ depending on circumstances or patients' or societal values</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">2C</td>
+                        <td valign="top">Weak recommendation, low-quality or very-low-quality evidence</td>
+                        <td valign="top">Uncertainty in the estimates of benefits and risk, and burdens; Risk, benefit, and burdens may be closely balanced</td>
+                        <td valign="top">Observational studies or case series</td>
+                        <td valign="top">Very weak recommendations; Other alternatives may be reasonable</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p class="Note"><strong>Note</strong>: Modified from Guyatt G, Gutterman D, Baumann MH, Addrizzo-Harris D, Hylek EM, Phillips B, et al. Grading strength of recommendations and quality of evidence in clinical guidelines: Report from an American College of Chest Physicians task force. Chest 2006;129:174-81.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="507" role="tab" aria-expanded="true" aria-controls="syn507"><a href="#">Methodology</a></h2>
+			<div class="accordion-panel is-active" id="syn507" role="tabpanel" aria-labelledby="507" ><table width="100%" border="1" cellspacing="1" cellpadding="8" summary="This table presents the comparison of methodology for each guideline in the synthesis.">
+    <tbody>
+        <tr>
+            <th class="SynthesesCellGreen" valign="top" colspan="2" scope="col"><em>Click on the links below for details of guideline development methodology</em> </th>
+        </tr>
+        <tr>
+            <td class="Center" valign="top" style="width: 50%;">
+            <p><strong><a href="/summaries/summary/50455?#405" title="Guideline #11052" target="_blank">IWGDF</a><br />
+            (2016)</strong></p>
+            </td>
+            <td class="Center" valign="top" style="width: 50%;">
+            <p><strong><a href="/summaries/summary/50181?#405" title="Guideline #10958" target="_blank">SVS/APMA/SVM</a><br />
+            (2016)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" colspan="2">
+            <p>Both IWGDF and SVS/APMA/SVM commissioned systematic reviews of the evidence to support the development of their guidelines. IWGDF&rsquo;s systematic review was performed according to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines, and was prospectively registered in the PROSPERO database for systematic reviews. The SVS/APMA/SVM guideline, which also addresses the management of diabetic foot, is based on five systematic reviews and meta-analyses. Pertinent details of the literature search (databases; search terms; date ranges) and selection (number of studies identified and included; inclusion and exclusion criteria) processes are provided in both reviews. The strength of the selected evidence was weighted according to a rating scheme as part of the evidence assessment process during the development of both guidelines; the respective rating schemes are provided. IWGDF and SVS/APMA/SVM formulated the guideline recommendations using the GRADE system, and rate the strength of the individual recommendations according to a scheme. To validate their guidelines, the groups sought internal peer review and provide a description of the process.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="509" role="tab" aria-expanded="true" aria-controls="syn509"><a href="#">Benefits and Harms</a></h2>
+			<div class="accordion-panel is-active" id="syn509" role="tabpanel" aria-labelledby="509" ><p><a name="source"></a></p>
+<h3>Benefits</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="provides a comparison of recommendations considered by each group.">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top">IWGDF<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <ul style="list-style-type: disc;">
+                <li>Foot ulcers are a major complication of diabetes mellitus, with high morbidity, mortality and costs. Yearly incidence is estimated to be around 2%, but this increases substantially when patients successfully heal from a foot ulcer, with reported recurrence rates between 30% and 40% in the first year. Prevention of these ulcers is of paramount importance to reduce the patient and economic burden. </li>
+                <li>The aim of more frequent screening is early identification of factors that can increase the chances of developing a foot ulcer, followed by providing appropriate preventative foot care. For example, early diagnosis and treatment of pre-ulcerative signs on the foot may prevent foot ulcers, as well as more severe complications such as infection and hospitalization. </li>
+            </ul>
+            <p>Refer to the "Rationale" sections in the original guideline document for an assessment of balance of benefits and harms for each recommendation.</p>
+            </td>
+        </tr>
+        <tr>
+            <th width="10%" class="Center" valign="top">SVS/APMA/SVM<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <ul style="list-style-type: disc;">
+                <li>Several large trials have suggested survival benefit and lower overall morbidity with tight glycemic control. </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<h3>Harms</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="provides a comparison of recommendations considered by each group.">
+    <tbody>
+        <tr>
+            <th width="10%" class="Center" valign="top">IWGDF<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <ul style="list-style-type: disc;">
+                <li>Adherence to self-management was an important factor in the conducted RCTs, and patients, in particular those who have not had a foot ulcer, may find the requirement for daily assessment a burden. False-positive and false-negative outcomes of temperature measurements may unnecessarily concern or stress patients and affect their confidence in this approach. </li>
+                <li>Possible complications and side effects of surgical offloading techniques include post-operative infection, new deformities, gait problems and transfer ulcers. Clinicians should carefully discuss possible adverse effects of the surgery with the patient. </li>
+                <li>The possible benefits of digital flexor tenotomy likely outweigh the harm, as few complications have been reported. Possible adverse effects of the surgery, although minimal, should be discussed with the patient. </li>
+            </ul>
+            <p>Refer to the "Rationale" sections in the original guideline document for an assessment of balance of benefits and harms for each recommendation.</p>
+            </td>
+        </tr>
+        <tr>
+            <th class="Center" valign="top">SVS/APMA/SVM<br />
+            (2016)</th>
+            <td valign="top">
+            <p>No harms related to prevention of DFUs in at-risk patients with diabetes are provided.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="511" role="tab" aria-expanded="true" aria-controls="syn511"><a href="#">Abbreviations</a></h2>
+			<div class="accordion-panel is-active" id="syn511" role="tabpanel" aria-labelledby="511" ><p>ABI, ankle-brachial index</p>
+<p>DFU, diabetic foot ulcer</p>
+<p>GRADE, Grading of Recommendations Assessment, Development and Evaluation</p>
+<p>IWGDF, International Working Group on the Diabetic Foot</p>
+<p>PAD, peripheral arterial disease</p>
+<p>PRISMA, Preferred Reporting Items for Systematic Reviews and Meta-Analyses</p>
+<p>RCT, randomized controlled trial</p>
+<p>SVS/APMA/SVM, Society for Vascular Surgery/American Podiatric Medical Association/Society for Vascular Medicine</p></div>
+			<h2 class="accordion-title is-active" id="512" role="tab" aria-expanded="true" aria-controls="syn512"><a href="#">Status</a></h2>
+			<div class="accordion-panel is-active" id="syn512" role="tabpanel" aria-labelledby="512" ><p>This synthesis was prepared by ECRI Institute on March 10, 2017. The information was verified by SVS/APMA/SVM on April 18, 2017 and by IWGDF on April 19, 2017.</p></div>
+	</div><!-- accordion-container -->
+
+<!-- ASIDE -->
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	<!-- About NGC -->
+	<div class="info-block">
+			<h3 class="info prefix-icon large-icon">About NGC Guideline Syntheses</h3>
+			<p>Syntheses are systematic comparisons of selected guidelines that address similar topics. For definitions of synthesis attributes, see the 
+                <a href="/syntheses/template">Guideline Synthesis Template</a>.    
+            </p>
+	</div><!-- /info-block -->
+	<hr>
+
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+		<ul class="subscribe-links">
+            <li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/rssFiles/ngc_newthisweek.xml" class="rss icon-feed"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div><!-- /.subscribable -->
+
+	<!-- New this Week -->
+	<a href="/new-this-week" class="block-link">
+		<h4>New this Week</h4>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

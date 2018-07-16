@@ -1,0 +1,540 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Interoperable Electronic Health Records and Quality of Care | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>June 14, 2010</li>
+			</ul>
+			<h1>Interoperable Electronic Health Records and Quality of Care</h1>
+			<p class="byline">By: Lisa M. Kern, MD, MPH and Rainu Kaushal, MD, MPH</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/23789/interoperable-electronic-health-records-and-quality-of-care" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/23789/interoperable-electronic-health-records-and-quality-of-care" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/23789/interoperable-electronic-health-records-and-quality-of-care&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Interoperable Electronic Health Records and Quality of Care&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/23789/interoperable-electronic-health-records-and-quality-of-care" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (0)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p><strong>Background</strong></p>
+<p>Improving health care quality depends on the ability to measure it. As Lord Kelvin, the British scientist, observed more than 100 years ago, "If you cannot measure it, you cannot improve it."(<a href="#ref">1</a>) Indeed, many of today's health care quality metrics were chosen because they fall within the subset of quality that can be measured from existing medical records.(<a href="#ref">2</a>) Historically, quality metrics have been selected assuming they would be measured from paper-based medical records and electronic administrative claims, with the inherent limitations of those systems. Paper-based medical records are time-consuming to review, and electronic administrative claims data lack clinical detail.</p>
+<p>These limitations may soon change. The American Recovery and Reinvestment Act of 2009 (ARRA) could create an unprecedented opportunity to redefine goals for improving health care quality by identifying new quality metrics in advance of implementing the systems that will report them. In this commentary, we reflect on this opportunity and what it means for both quality measurement and the design of electronic systems.</p>
+<p>ARRA allocates approximately $19 billion to physicians and hospitals for meaningful use of electronic health records that support the electronic exchange of data.(<a href="#ref">3</a>) Electronic health records (EHRs) enable management of a patient's clinical information over time and at the point of care, aided by tools such as evidence-based decision support.(<a href="#ref">4</a>) Electronic exchange promotes sharing of clinical information across providers in different health care settings.(<a href="#ref">5</a>) EHRs that have the capacity for electronic health information exchange are called "interoperable" EHRs.(<a href="#ref">5</a>)</p>
+<p><strong>Isolating the Effect of Interoperability on Quality</strong></p>
+<p>We recently published an Agency for Healthcare Research and Quality (AHRQ)-funded conceptual model and proposed metric set for isolating the effect of electronic interoperability on quality.(<a href="#ref">6</a>) That is, we described how and when interoperability is expected to change medical decision making, and we identified metrics that could potentially capture those changes. We assumed the perspective of a board-certified, community-based primary care physician who already uses an EHR. We then asked which quality metrics could capture the potential <em>added</em> benefit of electronically connecting that physician's EHR to the electronic systems of hospitals, specialists, laboratories, pharmacies and other sources of clinical data. We sought metrics of this kind that could also be reported electronically, meaning that an automated process is used to collect and aggregate information across patients and providers, thereby generating the metrics.</p>
+<p>An example of a metric sensitive to interoperability is the percentage of patients hospitalized with acute myocardial infarction who receive persistent beta-blocker treatment. In order for a physician to improve performance on this metric, he or she might benefit from having information (such as diagnosis, allergy, and medication data) from other clinical sources (such as hospitals, other physicians, and pharmacies or pharmacy benefit managers). In contrast, a metric that would be less sensitive to interoperability is the percentage of patients with acute pharyngitis who receive prescriptions for antibiotics. Performance on that metric depends largely on how physicians respond to clinical data collected from the patient at the time of the visit rather than on data from external sources.</p>
+<p>There are a variety of ways to use metric sets of this kind as enumerated below:</p>
+<ul style="list-style-type: disc;">
+    <li>First, to evaluate the effects of interoperable EHRs on quality </li>
+    <li>Second, to compare different electronic strategies for delivering clinical data to physicians, as the optimal strategy is not yet known </li>
+    <li>Third, to isolate the effects of interoperable EHRs on quality in communities where other concurrent initiatives are taking place, such as implementation of the patient-centered medical home model for primary care practice </li>
+    <li>Finally, to shape vendor products' capabilities for electronic reporting </li>
+</ul>
+<p>With these purposes in mind, we identified more than 1000 individual existing ambulatory care quality metrics from a literature review, including from such sources as the National Quality Forum and the National Committee for Quality Assurance. With input from a 36-member national expert panel, we identified the 18 metrics that were most likely to be both sensitive to the effects of interoperability and suitable for electronic reporting. Examples of these metrics included the percentage of patients hospitalized with acute myocardial infarction who receive persistent beta-blocker treatment and the percentage of patients with diabetes who had at least one hemoglobin A1c measured in the reporting period below 7%. We also developed 14 new metrics to address additional areas of quality expected to be affected by interoperability. Examples of these included the percentage of tests which represented repeat tests for patients within test-specific time periods and the percentage of patients seen by their primary care physicians within 14 days of hospital discharge.</p>
+<p><strong>Lessons Learned</strong></p>
+<p>Several lessons learned in developing this metric set are highly relevant to the current national discussion on quality and electronic health records.</p>
+<ol style="list-style-type: decimal;">
+    <li><em>Data Representation</em>. Information can be entered into EHRs in either free text or structured fields. A free-text field gives providers the freedom to type anything, including sentences, phrases, numbers, abbreviations and even misspellings. Free-text fields are often used for progress notes. By contrast, structured fields only accept very limited types of information; they include check-boxes and drop-down menus using controlled vocabularies. Different EHRs use different structured fields and ways of displaying those fields with their corresponding response choices. Quality reporting activities are most likely to focus on those variables captured in structured fields. Thus, the method of data capture plays an important role in shaping what is possible to measure in an electronic environment.<br />
+    <br />
+    </li>
+    <li><em>EHR Usability and Workflow</em>. Although structured fields can be used to generate electronic reports, they are unlikely to add value unless health care providers consistently use them. Creating easy-to-use computer interfaces, restructuring clinical workflow, and having comprehensive training, configuration and ongoing technical support are all likely to affect the accuracy of electronically reported metrics.<br />
+    <br />
+    </li>
+    <li><em>Community Integration</em>. The accuracy of electronic quality reporting for measuring interoperability will depend not only on the capacity of an EHR to receive external clinical data but also on the prevalence and completeness of community-wide data exchange. That is, because metrics designed to capture the effects of interoperability frequently require multiple types of data (such as diagnosis data plus medication or laboratory data), a well-integrated community will be able to report metrics more accurately than a less-well-integrated community. Currently, few communities are highly integrated electronically. This is especially true among communities that have fragmented health care financing and delivery, or the majority of communities in the U.S.<br />
+    <br />
+    </li>
+    <li><em>Vendor Maturity and Priorities</em>. There is still a large gap between what one would like to report electronically and what is currently possible. For example, out of the many vendors we considered, none were able to electronically report all of the 18 metrics that our expert panel selected. Most vendors, in fact, were unable to electronically report any of the metrics without a substantial amount of expensive and time-consuming custom programming. This was true despite the fact that the 18 metrics derive from widely publicized and well-established data sets previously endorsed by national organizations, such as the National Quality Forum. Electronic reporting on the new metrics will present even more of a challenge.<br />
+    <br />
+    </li>
+    <li><em>Quality Metric Specifications</em>. Enabling electronic reporting is partly a programming issue but also involves developing specifications (definitions for numerators, denominators, and exclusion criteria for each metric) that are applicable to EHRs, drawing on clinical data beyond the billing codes used in claims-based reporting. EHR-based reporting can yield more complete identification of patients with disease (that is, patients in the denominator), compared to claims, particularly when data from problem lists, medication lists, and laboratory values are included in the definition of disease.(<a href="#ref">7</a>) How numerators, denominators, and exclusion criteria are defined in an electronic environment will affect not only the accuracy of electronic reporting but will also influence the results. For example, if EHR-based reporting identifies more patients with diabetes than claims-based reporting but both methods identify the same number of patients with diabetes who received HgbA1c testing, the EHR-based reporting will yield an overall proportion of patients tested that is <em>lower</em> than that generated from claims-based reporting. Thus, EHR-based reporting overall may yield results indicating higher or lower quality than what the medical community previously assumed. </li>
+</ol>
+<p><strong>National Context</strong></p>
+<p>The federal government released proposed definitions of "meaningful use" under ARRA.(<a href="#ref">8, 9</a>) This definition consists of performance metrics for both providers and hospitals and includes: 1) systems-based process measures, related to the degree of adoption of health information technology (IT) and the degree of electronic integration for health information exchange, such as "use of computerized physician order entry for all orders" and "generate and transmit permissible prescriptions electronically," and 2) clinical process measures, such as "percent (%) of patients over 50 with annual colorectal cancer screenings." The current draft specifies all metrics for the year 2011 and some for the years 2013 and 2015, with others for 2013 and 2015 to be determined, in part, in collaboration with the National Quality Forum.</p>
+<p>The meaningful use metrics are likely to be embraced widely as implementation and quality improvement targets. As such, they have the potential to substantially shape vendor products, provider behavior, and community-level health information exchange. Some but not all of the meaningful use metrics aim to capture the expected effects of interoperability.</p>
+<p>The goal of reporting many clinical measures by 2011 is ambitious for most communities, and it will be important to see how this unfolds. Anecdotal reports suggest that adoption of EHRs has paradoxically slowed since the announcement of ARRA incentives, as health care providers that were on the cusp of adopting EHRs stopped to wait for the final meaningful use metrics, in order to make their own assessment of the feasibility and value of EHR adoption in the present environment.</p>
+<p>The "bar" or threshold of meaningful use that will earn incentives appears to have been set very high, as currently only 4% of physicians and 1.5% of hospitals have fully functioning EHRs.(<a href="#ref">10, 11</a>) If the bar was set too high, many providers may try and fail to reach it, which may adversely affect their attitudes toward future efforts at changing health care practice. Or, they may simply choose not to participate in the incentive program, thwarting the goal of EHR adoption. On the other hand, if the bar had been set too low, a lack of momentum would hinder improvement of the vendor products and community alliances that are essential for interoperability.</p>
+<p><strong>Summary</strong></p>
+<p>National efforts are underway to promote the meaningful use of interoperable EHRs. Achieving meaningful use will require integrating clinical information in unprecedented ways. This represents a unique opportunity to improve health care today, in part by changing the way quality is defined and measured.</p>
+<p><strong>Authors</strong></p>
+<p><strong>Lisa M. Kern, MD, MPH</strong><br />
+Weill Cornell Medical College, New York, NY</p>
+<p><strong>Rainu Kaushal, MD, MPH</strong><br />
+Weill Cornell Medical College, New York, NY</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Quality Measures Clearinghouse&trade; (NQMC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor, ECRI Institute.</p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>Drs. Kern and Kaushal declared no potential conflicts of interest with respect to this expert commentary.</p>
+<p><a name="ref"></a><strong>References</strong></p>
+<ol style="list-style-type: decimal;">
+    <li>Lord Kelvin: "If you cannot measure it, you cannot improve it." (Accessed May 19, 2010, at <a href="/Home/Disclaimer?id=23789&contentType=expert-commentary&redirect=http%3a%2f%2fquotationsbook.com%2fquote%2f46180%2f" title="QuotationsBook Web site">http://quotationsbook.com/quote/46180/</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />.) </li>
+    <li>Bates DW. The approaching revolution in quality measurement. Jt Comm J Qual Patient Saf 2009;35:358. </li>
+    <li>American Recovery and Reinvestment Act of 2009. Pub L, No.111-5, 123 Stat 115. </li>
+    <li>Healthcare Information Management and Systems Society. HIMSS Electronic Health Record Definition Model. 2003. (Accessed May 19, 2010, at <a href="/Home/Disclaimer?id=23789&contentType=expert-commentary&redirect=http%3a%2f%2fwww.himss.org%2fcontent%2ffiles%2fehrattributes070703.pdf" title="Healthcare Information Management and Systems Society Web site">http://www.himss.org/content/files/ehrattributes070703.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />.) (<a href="#PDF">PDF Help</a>) </li>
+    <li>Blumenthal D, Glaser JP. Information technology comes to medicine. N Engl J Med 2007;356:2527-34. </li>
+    <li>Kern LM, Dhopeshwarkar R, Barron Y, Wilcox A, Pincus H, Kaushal R. Measuring the effects of health information technology on quality of care: a novel set of proposed metrics for electronic quality reporting. Jt Comm J Qual Patient Saf 2009;35:359-69. </li>
+    <li>Tang PC, Ralston M, Arrigotti MF, Qureshi L, Graham J. Comparison of methodologies for calculating quality measures based on administrative data versus clinical data from an electronic health record system: implications for performance measures. J Am Med Inform Assoc 2007;14:10-5. </li>
+    <li>Department of Health and Human Services, Centers for Medicare and Medicaid. Medicare and Medicaid Programs; Electronic Health Record Incentive Program; Proposed Rule. 75 Federal Register 1844 (2010) (42 CFR Parts 412, 413, 422 and 495). </li>
+    <li>Department of Health and Human Services, Office of the National Coordinator for Health Information Technology. Health information technology: Initial set of standards, implementation specifications, and certification criteria for electronic health record technology; interim final rule. 75 Federal Register 2013 (2010) (45 CFR Part 170). </li>
+    <li>DesRoches CM, Campbell EG, Rao SR, et al. Electronic health records in ambulatory care--a national survey of physicians. N Engl J Med 2008;359:50-60. </li>
+    <li>Jha AK, DesRoches CM, Campbell EG, et al. Use of electronic health records in U.S. hospitals. N Engl J Med 2009;360:1628-38. </li>
+</ol>
+<a name="PDF"></a>
+<p><strong>PDF Help</strong>: Documents in PDF format require the Adobe Acrobat Reader&reg;. If you experience problems with PDF documents, please <a href="/Home/Disclaimer?id=23789&contentType=expert-commentary&redirect=http%3a%2f%2fget.adobe.com%2freader%2f" title="Adobe Web site">download the latest version of the Reader&reg;</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />.</p>
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011399</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51322/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-patients-irrespective-of-frequency-of-dialysis-with-documented-monthly-npcr-measurements">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis patients (irrespective of frequency of dialysis) with documented monthly nPCR measurements.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011398</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51321/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-home-hemodialysis-and-peritoneal-dialysis-patients-who-have-monthly-measures-for-hemoglobin-during-the-reporting-period">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis, home hemodialysis, and peritoneal dialysis patients who have monthly measures for hemoglobin during the reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011397</li>
+            <li>May 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51319/end-stage-renal-disease-esrd-percentage-of-adult-hemodialysis-patientmonths-using-a-catheter-continuously-for-three-months-or-longer-for-vascular-access">End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011396</li>
+            <li>Apr 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51318/end-stage-renal-disease-esrd-adjusted-percentage-of-adult-hemodialysis-patientmonths-using-an-autogenous-arteriovenous-fistula-avf-as-the-sole-means-of-vascular-access">End stage renal disease (ESRD): adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula (AVF) as the sole means of vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011395</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51317/end-stage-renal-disease-esrd-percentage-of-all-peritoneal-dialysis-and-hemodialysis-patientmonths-with-serum-or-plasma-phosphorus-measured-at-least-once-within-the-month">End stage renal disease (ESRD): percentage of all peritoneal dialysis and hemodialysis patient-months with serum or plasma phosphorus measured at least once within the month.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

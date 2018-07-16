@@ -1,0 +1,556 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Primary Care Depression Guidelines and Treatment Resistant Depression: Variations on an Important but Understudied Theme | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>May 07, 2012</li>
+			</ul>
+			<h1>Primary Care Depression Guidelines and Treatment Resistant Depression: Variations on an Important but Understudied Theme</h1>
+			<p class="byline">By: Bradley N. Gaynes, MD, MPH, Linda J. Lux, MPA, and Gerald Gartlehner, MD, MPH</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/expert/expert-commentary/36835/primary-care-depression-guidelines-and-treatment-resistant-depression-variations-on-an-important-but-understudied-theme" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.guideline.gov/expert/expert-commentary/36835/primary-care-depression-guidelines-and-treatment-resistant-depression-variations-on-an-important-but-understudied-theme" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.guideline.gov/expert/expert-commentary/36835/primary-care-depression-guidelines-and-treatment-resistant-depression-variations-on-an-important-but-understudied-theme&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Primary Care Depression Guidelines and Treatment Resistant Depression: Variations on an Important but Understudied Theme&body=https://www.guideline.gov/expert/expert-commentary/36835/primary-care-depression-guidelines-and-treatment-resistant-depression-variations-on-an-important-but-understudied-theme" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (1)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>The statistics are sobering. In any given year, between 13.1 million and 14.2 million U.S. citizens will experience an episode of major depressive disorder (MDD). (<a href="#ref">1</a>) Although approximately half of these people seek help for this condition, only 20 percent&mdash;10 percent of the total population with MDD&mdash;receive adequate treatment. (<a href="#ref">2</a>) Even then, only 30 percent of those who receive adequate treatment reach the treatment goal of remission. (<a href="#ref">3</a>) The remaining 70 percent will either have a response without remission (about 20 percent) or not respond at all (50 percent). (<a href="#ref">3</a>) This latter group, whose depressive disorder does not adequately respond following acute-phase treatment, appears to have a harder-to-treat depression. (<a href="#ref">4</a>) In particular, patients with two or more failed treatment attempts are a common and challenging presentation to psychiatric and primary care clinics. (<a href="#ref">5</a>) For these patients, expert consensus includes considering a diagnosis of treatment-resistant depression. (<a href="#ref">5-7</a>)</p>
+<p>Having two adequately dosed but unsuccessful treatment trials in the same episode predicts a lower likelihood of remission with the next treatment. Although the remission rate for depressed patients with a first or, if necessary, a second treatment attempt is approximately 30 percent, the likelihood of recovery with a subsequent medication treatment decreases to approximately 15 percent. (<a href="#ref">5</a>) Unfortunately, patients with treatment-resistant depression incur the highest direct and indirect medical costs among those with MDD, and these costs increase with the severity of the illness. (<a href="#ref">8</a>)</p>
+<p>The primary care setting is the major access point for MDD, and primary care physicians write about two of every three antidepressant prescriptions in the United States. (<a href="#ref">9</a>) Many clinical practice guidelines address depression management; most of these give special emphasis to primary care. Nevertheless, despite how common it is for depressed patients with at least two unsuccessful treatment attempts to present to clinicians in general&mdash;and to primary care in particular&mdash;at this time no single guideline has treatment-resistant depression as its main (or even secondary) topic.</p>
+<p>For this commentary, we compared three depression guidelines that focus on primary care management of depression and are available in the National Guideline Clearinghouse (NGC):</p>
+<ul style="list-style-type: disc;">
+    <li>Institute for Clinical Systems Improvement (ICSI). <a href="/content.aspx?id=34022" title="Guideline #8573">Major depression in adults in primary care</a>. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2011 May. (<a href="#ref">10</a>) </li>
+    <li>National Collaborating Centre for Mental Health. <a href="/content.aspx?id=15521" title="Guideline #7598">Depression. The treatment and management of depression in adults</a>. London (UK): National Institute for Health and Clinical Excellence (NICE); 2009 Oct. (Clinical guideline; no. 90). (<a href="#ref">11</a>) </li>
+    <li>Department of Veteran Affairs, Department of Defense. <a href="/content.aspx?id=15675" title="Guideline #7711">VA/DoD clinical practice guideline for management of major depressive disorder (MDD)</a>. Washington (DC): Department of Veteran Affairs, Department of Defense; 2009 May. (<a href="#ref">12</a>) </li>
+</ul>
+<p>Although none of these guidelines focuses on managing patients with treatment-resistant depression, each addresses some key clinical management issues, as discussed below. The differences across the guidelines are perhaps more remarkable than the similarities.</p>
+<p><strong>How Is Treatment-Resistant Depression Defined?</strong></p>
+<p>ICSI considers treatment-resistant depression to be more severe than the consensus definition, stating, "True treatment resistance is seen as occurring on a continuum, from failure to reach remission after an adequate trial of a single antidepressant to failure to achieve remission despite several trials of antidepressants, augmentation strategies, ECT and psychotherapy." For this guideline, "true treatment resistance" is defined as "failure to achieve remission with an adequate trial of therapy and three different classes of antidepressants at adequate duration and dosage." (<a href="#ref">10</a>)</p>
+<p>NICE has struggled with defining treatment-resistant depression. Before 2009, the organization viewed it as depression in a patient who has failed to respond to two or more antidepressants given sequentially at an adequate dose and duration. Subsequently, NICE concluded that this view implied a "natural cut-off" not supported by the available evidence. Additional critiques found the definition potentially pejorative, unappreciative of the role of psychosocial factors and psychotherapy interventions in managing patients with depression, and guilty of ignoring differing degrees of treatment failure. With the 2009 update, NICE has substantially modified its earlier understanding of treatment-resistant depression and frames the problem of inadequate response by considering "sequenced treatment options rather than by a category of patient." (<a href="#ref">11</a>)</p>
+<p>VA/DoD has no specific definition for treatment-resistant depression, although they do refer to refractory depression. Instead, they focus basically on the number of treatment failures, with two such failures apparently meeting their key criterion.</p>
+<p><strong>How Is Adequate Response Framed?</strong></p>
+<p>Both ICSI and VA/DoD identify remission as the treatment goal. For ICSI, remission is the absence of depressive symptoms or the presence of minimal depressive symptoms such as a score of less than 7 on the Hamilton Rating Scale for Depression (HAM-D) or a score of less than 5 on the nine-item Patient Health Questionnaire (PHQ-9). "Full remission" is a 2-month absence of symptoms. (<a href="#ref">10</a>) For the VA/DoD, "full remission" is indicated by a PHQ-9 score of 4 or less, maintained for at least 1 month. (<a href="#ref">12</a>)</p>
+<p>NICE is less clear about treatment goals. Their guideline refers to "inadequate response" (never defined directly) and notes "[W]here possible, the key goal of an intervention should be complete relief of symptoms (remission), which is associated with better functioning and a lower likelihood of relapse." NICE holds remission to be "complete relief of symptoms" and accepts standard definitions for measures used in clinical trials (e.g., HAM-D &lt;7). (<a href="#ref">11</a>)</p>
+<p><strong>What Is an Adequate Treatment Trial (Dose, Duration)?</strong></p>
+<p>ICSI defines an adequate trial as 6 weeks at a therapeutic dose (not described further). (<a href="#ref">10</a>) NICE suggests 6 to 8 weeks of antidepressant treatment, also without a dose identified. (<a href="#ref">11</a>) VA/DoD sees 4 to 6 weeks as a key threshold for deciding whether to continue the medication trial; if a patient does not respond by then, they recommend switching to a different treatment, although left unspecified is whether such a trial would be considered "adequate." Making the assumption that patients tolerate the medication and show some improvement, VA/DoD list 8 to 12 weeks as an adequate trial. (<a href="#ref">12</a>)</p>
+<p><strong>Do Treatment Recommendations Depend on Number of Treatment Failures?</strong></p>
+<p>Although the ICSI definition specifies three treatment failures, it does not actually base recommendations on the number of failures. (<a href="#ref">10</a>) In contrast, the NICE and VA/DoD guidelines each recommend a stepped approach to managing depression in patients who do not sufficiently respond to successive treatment attempts. NICE emphasizes a four-step approach in which each subsequent step indicates a depressive episode that either is more severe or did not respond to earlier, less intense treatments. (<a href="#ref">11</a>) For VA/DoD, treatment decisions are based on the adequacy of response or on treatment failures, but the guidelines are vague as to whether adequacy is equivalent to remission or reflects a more traditional, clinical trial definition of response (&ge;50 percent decrease in depressive severity). (<a href="#ref">12</a>)</p>
+<p><strong>Specifically, What Do These Groups Recommend for Patients with Treatment-Resistant Depression?</strong></p>
+<p>When depression is treatment resistant or responds only partially to treatment, ICSI recommends augmentation strategies (including adding antipsychotics, lithium, and thyroid hormone) and combining antidepressants (when each has a different mechanism). ICSI considers psychotherapy as an augmentation option for patients who fail to remit with medication alone. With patients for whom antidepressants have not been successful, ICSI recommends considering electroconvulsive therapy (ECT). The guideline offers no specific recommendations about repetitive transcranial magnetic stimulation (rTMS), vagal nerve stimulation (VNS), or deep brain stimulation (DBS), but the appendix does. (<a href="#ref">10</a>)</p>
+<p>The NICE recommendations relevant to treatment-resistant depression (including patients with "mild to moderate depression with inadequate response to initial interventions") begin with Step 3 of their approach: "Medication, high-intensity psychological interventions, combined treatments, collaborative care and referral for further assessment and interventions." Step 4, which includes "complex depression" (depression that shows an inadequate response to multiple treatments, is complicated by psychotic symptoms, and/or is associated with significant psychiatric comorbidity or psychosocial factors), calls for "Medication, high-intensity psychological interventions, ECT, crisis service, combined treatments, multiprofessional and inpatient care." For patients who do not respond to pharmacological or psychological interventions, the NICE recommendation is to consider ECT. Nonpharmacologic options, which are often considered yet have a limited evidence base, (<a href="#ref">13</a>) are not mentioned. (<a href="#ref">11</a>)</p>
+<p>Like NICE, VA/DoD guidelines focus on the number of failed treatments to guide management decisions. Two failures of adequate trials is a key decision point&mdash;only then would these guidelines direct clinicians to augment with a second medication, combine antidepressants, or add a tricyclic antidepressant. Nonpharmacologic interventions are downplayed. Psychotherapy, considered only as augmentation, is not recommended until a patient has failed three different antidepressants. ECT is recommended for those "who have failed multiple other treatment strategies." The option of VNS, which has been approved by the U.S. Food and Drug Administration (FDA) for those who failed four or more therapeutic attempts, is regarded as a treatment that should not be routinely considered and seen as a treatment of last resort. (<a href="#ref">12</a>)</p>
+<p><strong>When Do They Suggest Referral?</strong></p>
+<p>ICSI recommends that the point at which a patient is considered treatment resistant or only partially responsive to treatment is "a good time to consult and/or refer to a behavioral health specialist." (<a href="#ref">10</a>) This strategy leaves much to a primary care clinician's judgment, given the potentially large difference between a "true" treatment-resistant depression per their above definition and partial response to treatment. Unlike the other two guidelines, ICSI does not emphasize considering referral after two unsuccessful treatment attempts, when the likelihood of subsequent remission is substantially reduced. (<a href="#ref">5</a>)</p>
+<p>NICE does not consider referral or consultation until low-intensity interventions, such as psychotherapy (Step 1) and initial antidepressant attempts (Step 2) have led to an "inadequate response." Their guideline emphasizes the inherent collaborative nature of managing depression in primary care, explaining that the United Kingdom's National Health Services ought not routinely provide antidepressant medications as a separate intervention but rather offer them only as part of a more complex intervention. Considering referrals to a mental health professional is recommended by NICE for patients with incomplete responses who would appear to be in the treatment-resistant depression population (Step 3 or 4 in their model). For individuals with severe depression or with moderate depression and complex problems, clinicians should consider referrals to specialist mental health services for a program of coordinated multiprofessional care and provide collaborative care if the patient's depression manifests in the context of a chronic physical health problem with associated functional impairment. (<a href="#ref">11</a>)</p>
+<p>VA/DoD guidelines recommend referral to a mental health professional after patients have failed to respond to two or more antidepressant treatments. (<a href="#ref">12</a>)</p>
+<p><strong>Final Observations</strong></p>
+<p>Evidence guiding the management of patients with treatment-resistant depression, in general and in primary care settings in particular, remains quite limited. For relevant guideline sections addressing situations in which MDD patients have not recovered after initial treatments, the general consensus is that the number of treatment failures in the current episode is integral to the decision about what to do next. Unfortunately, varying definitions of treatment-resistant depression, the limited evidence available regarding what to do after two treatment failures, the role of psychotherapy, and especially whether to turn to nonpharmacologic interventions (e.g., ECT), remain key weaknesses in this evidence base. (<a href="#ref">13</a>) This gap in the knowledge base clearly complicates guideline development, leaving primary care physicians in some uncertainty as to how to proceed with their patients with treatment-resistant depression. Research comparing treatment interventions for those with specifically delineated numbers of treatment failures would help guide the selection.</p>
+<p>In the meantime, basic principles can inform the care of patients with treatment-resistant MDD: (<a href="#ref">14</a>)</p>
+<ul style="list-style-type: disc;">
+    <li>Trials of antidepressant medications should be conducted at sufficient doses and durations. </li>
+    <li>Patients should be closely monitored for side effects, adherence, and clinical response. </li>
+    <li>Patients who do not experience an adequate response to treatment should receive timely reassessment and change in their treatment. </li>
+</ul>
+<hr />
+<p><strong>Authors</strong></p>
+<p><strong>Bradley N. Gaynes, MD, MPH</strong><br />
+Department of Psychiatry, University of North Carolina School of Medicine, Chapel Hill, NC</p>
+<p><strong>Linda J. Lux, MPA</strong><br />
+Health Care Quality and Outcomes Program, RTI International, Research Triangle Park, NC</p>
+<p><strong>Gerald Gartlehner, MD, MPH</strong><br />
+Department for Evidence-based Medicine and Clinical Epidemiology, Danube University, Krems, Austria</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the authors and do not necessarily state or reflect those of the National Guideline Clearinghouse<sup>&trade;</sup> (NGC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor ECRI Institute.</p>
+<p><strong>Potential Financial Conflicts of Interest</strong></p>
+<p>Dr. Gaynes discloses he has received research funding from AHRQ, and reviewed materials and presented on antidepressants for Continuing Medical Education for Medscape and PRIME Education, Inc. Ms. Lux and Dr. Gartlehner declared no potential conflicts of interest with respect to this commentary.</p>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Kessler RC, Berglund P, Demler O, et al. The epidemiology of major depressive disorder: results from the National Comorbidity Survey Replication (NCS-R). JAMA. 2003;289(23):3095-3105. </li>
+    <li>Wang PS, Lane M, Olfson M, Pincus HA, Wells KB, Kessler RC. Twelve-Month Use of Mental Health Services in the United States: Results From the National Comorbidity Survey Replication. Arch Gen Psychiatry. 2005;62(6):629-640. </li>
+    <li>Trivedi MH, Rush AJ, Wisniewski SR, et al. Evaluation of outcomes with citalopram for depression using measurement-based care in STAR*D: implications for clinical practice. Am J Psychiatry. 2006;163(1):28-40. </li>
+    <li>Thase ME, Rush AJ. When at first you don't succeed: Sequential strategies for antidepressant nonresponders. J Clin Psychiatry. 1997;58(Suppl 13):23-29. </li>
+    <li>Rush AJ, Trivedi MH, Wisniewski SR, et al. Acute and longer-term outcomes in depressed outpatients requiring one or several treatment steps: a STAR*D report. Am J Psychiatry. 2006;163(11):1905-1917. </li>
+    <li>Berlim MT, Fleck MP, Turecki G. Current trends in the assessment and somatic treatment of resistant/refractory major depression: an overview. Ann Med. 2008;40(2):149-159. </li>
+    <li>Berlim MT, Turecki G. What is the meaning of treatment resistant/refractory major depression (treatment-resistant depression)? A systematic review of current randomized trials. Eur Neuropsychopharmacol. 2007;17(11):696-707. </li>
+    <li>Russell JM, Hawkins K, Ozminkowski RJ, et al. The cost consequences of treatment-resistant depression. J Clin Psychiatry. Mar 2004;65(3):341-347. </li>
+    <li>Mark TL, Levit KR, Buck JA. Datapoints: psychotropic drug prescriptions by medical specialty. Psychiatr Serv. Sep 2009;60(9):1167. </li>
+    <li>Institute for Clinical Systems Improvement (ICSI). Major depression in adults in primary care. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2011 May. 106 p. </li>
+    <li>National Collaborating Centre for Mental Health. Depression. The treatment and management of depression in adults. London (UK): National Institute for Health and Clinical Excellence (NICE); 2009 Oct. 64 p. (Clinical guideline; no. 90). </li>
+    <li>Department of Veteran Affairs DoD. VA/DoD clinical practice guideline for management of major depressive disorder (MDD). Washington (DC): Department of Veteran Affairs, Department of Defense; 2009 May. </li>
+    <li>Gaynes BN, Lux LJ, Lloyd SW, et al. Nonpharmacologic interventions for treatment-resistant depression in adults. Comparative Effectiveness Review No. 33. Rockville, MD Sep 2011. </li>
+    <li>Gaynes, B. N., Warden, D., Trivedi, M. H., Wisniewski, S. R., Fava, M., Rush, A. J., What did STAR*D teach us? Results from a large-scale, practical, clinical trial for patients with depression. Psychiatr Serv. 2009;60(11):1439-45. </li>
+</ol>
+
+
+	<section class="comments" id="comments">
+		<h2 class="comments-header">Comments</h2>
+		
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 06/04/2012</h3>
+				<div class='comment-main'>
+					<div class='comment-content'>Excellent review. Response criteria needs to be distinguished from remission criteria which is represented here. We should be asking and analyzing response data using more categorical approaches similar to diabetes and other chronic illnesses. For example, a response to depression using PHQ9 could be reasonably surmised as PHQ9&lt;10, with a remission goal of PHQ9&lt;5. This categorical approach to depression measurement has significant measurement advantages, ease of explanation, and is perhaps more realistic in early response timeframes.</div>
+					<p class='comment-author'>Henry Chung, MD</p>
+						<p class='comment-position'>Chief Medical Officer</p>
+											<p class='comment-affiliation'>Montefiore Care Management</p>
+					<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> Consultant, Takeda Pharmaceuticals</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+	</section><!--/.comments -->
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NGC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the guideline and/or measure fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NGC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

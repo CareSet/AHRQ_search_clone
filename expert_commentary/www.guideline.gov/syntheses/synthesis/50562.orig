@@ -1,0 +1,738 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Screening for Colorectal Cancer | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+	<div class="content-header">
+		<ul class="content-header-meta">
+			<li class="prefix-icon large-icon synthesis">Guideline Synthesis</li>
+		</ul>
+		<h1>Screening for Colorectal Cancer</h1>
+	</div><!-- /.content-header -->
+
+	<!-- COMPARED LIST-->
+		<p>Guidelines Being Compared:</p>
+		<ul class="compared-list"> 
+				<li>
+                    <p class="compared-list-org">Canadian Task Force on Preventive Health Care (CTFPHC)</p>
+					<p class="compared-list-title">Recommendations on screening for colorectal cancer in primary care.</p>
+                    <p class="compared-list-org">2016 Mar 15</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/50123">View Summary</a></p>					
+				</li>
+				<li>
+                    <p class="compared-list-org">U.S. Preventive Services Task Force (USPSTF)</p>
+					<p class="compared-list-title">Final recommendation statement: colorectal cancer: screening.</p>
+                    <p class="compared-list-org">2016 Jun 21</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/50373">View Summary</a></p>					
+				</li>
+		</ul><!-- /.compared-list -->
+			
+	<!-- TOOLBAR -->
+	<div class="content-toolbar">
+		<!-- Primary -->
+		<ul class="tools primary-tools">
+			<li class="dropdown tool sections">
+				<a href="#" class="tool-button">Sections</a>
+				<div class="dropdown-panel">
+						<ul class="section-links">
+								<li><a href="#504" class="section-mark">Areas of Agreement and Difference</a></li>
+								<li><a href="#505" class="section-mark">Comparison of Recommendations</a></li>
+								<li><a href="#506" class="section-mark">Strength of Evidence and Recommendation Grading Schemes</a></li>
+								<li><a href="#507" class="section-mark">Methodology</a></li>
+								<li><a href="#509" class="section-mark">Benefits and Harms</a></li>
+								<li><a href="#511" class="section-mark">Abbreviations</a></li>
+								<li><a href="#512" class="section-mark">Status</a></li>
+						</ul>    
+				</div><!-- /.dropdown-panel -->
+			</li>
+		</ul><!-- /.tools primary-tools -->
+
+		<!-- Other -->
+		<ul class="tools other-tools">
+			<li class="dropdown tool">
+				<a href="#" class="tool-button">Share</a>
+				<div class="dropdown-panel">
+					<ul class="toolbar-social">
+						<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/syntheses/synthesis/50562" class="facebook">Facebook</a></li>
+						<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.guideline.gov/syntheses/synthesis/50562" class="twitter">Twitter</a></li>
+						<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.guideline.gov/syntheses/synthesis/50562&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+						<li><a href="mailto:?Subject=AHRQ: Screening for Colorectal Cancer&body=https://www.guideline.gov/syntheses/synthesis/50562" class="email">Email</a></li>
+					</ul><!-- /.toolbar-social -->
+				</div><!-- /.dropdown-panel -->
+			</li>
+			<li class="dropdown tool">
+				<a href="#" class="tool-button">Cite</a>
+				<div class="dropdown-panel citation">
+				    <p class="text-label"><label for="citation">Citation: </label></p>
+					<textarea id="citation">Internet citation: National Guideline Clearinghouse (NGC). Guideline synthesis: Screening for colorectal cancer. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2016 Dec. [cited YYYY Mon DD]. Available: http://www.guideline.gov.</textarea>
+				</div><!-- /.dropdown-panel -->
+			</li>
+		</ul><!-- /.tools other-tools -->
+
+		<!-- Accordion tools -->
+		<ul class="tools accordion-controls">
+			<li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+			<li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+		</ul><!-- /.accordion-controls -->
+	</div><!-- /.toolbar -->            
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+	<!-- ACCORDION -->
+	<div class="accordion-container" role="tablist" multiselectable="true">
+			<h2 class="accordion-title is-active" id="504" role="tab" aria-expanded="true" aria-controls="syn504"><a href="#">Areas of Agreement and Difference</a></h2>
+			<div class="accordion-panel is-active" id="syn504" role="tabpanel" aria-labelledby="504" ><a name="areasofagreementanddifference"></a>
+<p>A direct comparison of recommendations presented in the above guidelines for screening for colorectal cancer in asymptomatic adults aged 50 years and older who are not at high risk of colorectal cancer is provided.</p>
+<h3 class="SynthesesSubLabel"><a name="agreement"></a>Areas of Agreement</h3>
+<h4>Screening in Adults Aged 50 to 74</h4>
+<p>CTFPHC and USPSTF both recommend screening for colorectal cancer in adults aged 50 to 74. The USPSTF makes an "A" recommendation (indicating that there is high certainty that the net benefit is substantial) for screening for colorectal cancer starting at age 50 and continuing until age 75. CTFPHC also recommends screening in this age group, provided in individual recommendations for adults aged 50 to 59 and 60 to 74. While both CTFPHC recommendations are based on moderate-quality evidence, they have differing strengths. The developer makes a strong recommendation (the CTFPHC is confident that the desirable effects outweigh the undesirable effects) for screening adults aged 60 to 74, and a weak recommendation (the desirable effects probably outweigh the undesirable effects but appreciable uncertainty exists) for screening adults aged 50 to 59, because of the lower absolute benefit expected from screening in this younger age group.</p>
+<h4>Screening Cessation</h4>
+<p>Neither guideline developer recommends routine screening for colorectal cancer in adults 75 and older. USPSTF makes a "C" recommendation for screening adults aged 76 to 85 years, stating that the decision should be an individual one that considers the patient's overall health and prior screening history. Individuals in this age group cited by USPSTF as more likely to benefit from screening include: adults who have never been screened; adults who are healthy enough to undergo treatment if necessary; and adults who do not have comorbid conditions that would significantly limit their life expectancy.</p>
+<p>Based on low-quality evidence, CTFPHC makes a weak recommendation against (the undesirable effects probably outweigh the desirable effects but appreciable uncertainty exists) screening adults aged 75 and older for colorectal cancer. According to the CTFPHC, the recommendation to stop screening at age 75 is based on reduced life expectancy in older adults as well as the included age groups in the systematic review. The CTFPHC adds, however, that because incidence rises with age and that this recommendation is based on low-quality evidence, adults over 74 years of age who do not have illnesses that affect their quality of life and/or their lifespan may be less concerned with the lack of trials showing benefit or the potential harm. They should discuss screening with their primary care provider to determine their most appropriate screening option based on their personal values and preferences, advises CTFPHC.</p>
+<h3 class="SynthesesSubLabel"><a name="difference"></a>Areas of Difference</h3>
+<h4>Screening Strategies</h4>
+<p>The CTFPHC recommends screening eligible patients with FOBT (either gFOBT or FIT) every two years or flexible sigmoidoscopy every 10 years. CTFPHC notes that FIT is more sensitive and specific than both gFOBT and high-sensitivity gFOBT, and is the primary screening test in all but two Canadian provinces. Limited access to flexible sigmoidoscopy, the developer adds, may result in most Canadians being screened appropriately using FIT or gFOBT. However, patients who wish to be screened but prefer less frequent testing, or are averse to stool testing, may be more likely to choose flexible sigmoidoscopy rather than FOBT.</p>
+<p>In contrast, USPSTF does not provide any graded recommendations regarding the use of specific screening tests, nor the frequency with which they should be performed. Rather, the Task Force discusses the various screening tests available (stool-based tests [gFOBT, FIT, and FIT-DNA], direct visualization tests [flexible sigmoidoscopy, alone or combined with FIT; colonoscopy; and CT colonography], serology tests [SEPT9 gene DNA testing]), their potential frequency of use, and clinical considerations for each method. The USPSTF found no head-to-head studies demonstrating that any of these screening strategies are more effective than others, although they have varying levels of evidence supporting their effectiveness, as well as different strengths and limitations.</p>
+<h4>Screening Intervals</h4>
+<p>The USPSTF states that evidence from RCTs demonstrates that annual or biennial screening with gFOBT, as well as 1-time and every 3- to 5-year flexible sigmoidoscopy, reduces colorectal cancer deaths. According to the CTFPHC, although there is no evidence that adherence improves with biennial versus annual screening using gFOBT, biennial screening is less burdensome and is the interval used in most of the RCTs. Additional studies are required to determine whether annual FOBT testing would lead to incremental clinical benefit, adds the developer. The USPSTF refers to Cancer Intervention and Surveillance Modeling Network (CISNET) models, which found that several screening strategies were estimated to yield comparable life-years gained among adults aged 50 to 75 years and an efficient balance of benefits and harms. These screening strategies include (1) annual screening with FIT, (2) screening every 10 years with flexible sigmoidoscopy AND annual screening with FIT, (3) screening every 10 years with colonoscopy, and (4) screening every 5 years with CT colonography.</p>
+<h4>Colonoscopy</h4>
+<p>The CTFPHC makes a weak recommendation against its use as a primary screening test for colorectal cancer. Although colonoscopy may offer clinical benefits that are similar to or greater than those associated with flexible sigmoidoscopy, direct evidence of its efficacy in comparison with the other screening tests (in particular FIT) is lacking, states the developer. Because of higher human resource requirements and greater potential for harms, the ongoing RCTs would have to show greater efficacy of colonoscopy (in comparison with other tests) before its routine use for screening could be recommended by the CTFPHC. According to the USPSTF, completed trials of flexible sigmoidoscopy provide indirect evidence that colonoscopy&mdash;a similar endoscopic screening method&mdash;reduces colorectal cancer mortality. The developer also cites a prospective cohort study that found an association between patients who self-reported being screened with colonoscopy and a lower colorectal cancer mortality rate. Advantages cited by USPSTF include less frequent screening and same-visit screening and diagnostic follow-up testing.</p>
+<h4>Other Screening Tests</h4>
+<p>The CTFPHC did not identify any RCT evidence on the mortality benefits of screening with CT colonography, barium enema, digital rectal examination, serologic tests, or fecal DNA testing, and therefore makes no recommendations for their use. The USPSTF guideline discusses three of the newer screening tests not addressed by CTFPHC&mdash;SEPT9 DNA testing, fecal DNA testing and CT colonography.</p>
+<p>With regard to serologic testing, although the SEPT9 methylated DNA test was included in the USPSTF systematic evidence review, the single study that met the inclusion criteria found that it has low sensitivity (&lt;50%). It was therefore not included in the table of appropriate screening strategies presented in the USPSTF guideline. USPSTF also addresses stool DNA testing (FIT-DNA), an emerging screening strategy that combines a FIT with testing for altered DNA biomarkers in cells shed into the stool. FIT-DNA has increased single-test sensitivity compared with FIT alone, but lower specificity. According to the USPSTF, there are no empirical data on the appropriate longitudinal follow-up of abnormal findings after a negative diagnostic colonoscopy. Evidence for assessing the effectiveness of CT colonography is limited to studies of its test characteristics, notes USPSTF. It can result in overdiagnosis and overtreatment, and extracolonic findings are common. As with other screening strategies, indirect harms from CT colonography can occur from follow-up colonoscopy for positive findings, notes the Task Force.</p></div>
+			<h2 class="accordion-title is-active" id="505" role="tab" aria-expanded="true" aria-controls="syn505"><a href="#">Comparison of Recommendations</a></h2>
+			<div class="accordion-panel is-active" id="syn505" role="tabpanel" aria-labelledby="505" ><p><h3>Screening for Colorectal Cancer</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides a comparison of recommendations considered by each group">
+    <tbody>
+        <tr>
+            <th width="10%" valign="top" headers="screening">CTFPHC<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;" headers="screening">
+            <p><strong><span style="text-decoration: underline;">Summary of Recommendations for Clinicians and Policy Makers</span></strong></p>
+            <p><strong>Screening in Adults Aged 50 to 74</strong></p>
+            <p>The Task Force recommends screening adults aged 60 to 74 years for colorectal cancer with FOBT (either gFOBT or FIT) every two years or FS every 10 years. (<strong>Strong recommendation; moderate-quality evidence</strong>)</p>
+            <p>The Task Force recommends screening adults aged 50 to 59 years for colorectal cancer with FOBT (gFOBT or FIT) every two years or FS every 10 years. (<strong>Weak recommendation; moderate-quality evidence</strong>)</p>
+            <p><strong>Screening in Adults Aged 75 and Older</strong></p>
+            <p>The Task Force recommends not screening adults aged 75 years and older for colorectal cancer. (<strong>Weak recommendation; low-quality evidence</strong>)</p>
+            <p><strong>Screening Using Colonoscopy</strong></p>
+            <p>The Task Force recommends not using colonoscopy as a primary screening test for colorectal cancer. (<strong>Weak recommendation; low-quality evidence</strong>)</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top" headers="screening">USPSTF<br />
+            (2016)</th>
+            <td valign="top" headers="screening">
+            <p><strong><span style="text-decoration: underline;">Summary of Recommendations and Evidence</span></strong></p>
+            <p>The USPSTF recommends screening for colorectal cancer starting at age 50 years and continuing until age 75 years (<strong>A recommendation</strong>).</p>
+            <p>The risks and benefits of different screening methods vary. See the "Clinical Considerations" section and the table in the original guideline document for details about screening strategies.</p>
+            <p>The decision to screen for colorectal cancer in adults aged 76 to 85 years should be an individual one, taking into account the patient's overall health and prior screening history (<strong>C recommendation</strong>).</p>
+            <ul style="list-style-type: disc;">
+                <li>Adults in this age group who have never been screened for colorectal cancer are more likely to benefit. </li>
+                <li>Screening would be most appropriate among adults who (1) are healthy enough to undergo treatment if colorectal cancer is detected and (2) do not have comorbid conditions that would significantly limit their life expectancy. </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table></p></div>
+			<h2 class="accordion-title is-active" id="506" role="tab" aria-expanded="true" aria-controls="syn506"><a href="#">Strength of Evidence and Recommendation Grading Schemes</a></h2>
+			<div class="accordion-panel is-active" id="syn506" role="tabpanel" aria-labelledby="506" ><p><a name="strength"></a></p>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="This table presents the rating schemes used by the guideline groups to rate the level of evidence and/or the strength of the recommendations.">
+    <tbody>
+        <tr>
+            <th width="10%" class="SynthesesCellGrayBlack" valign="top">CTFPHC<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <p><strong><span style="text-decoration: underline;">Grading of Recommendations Assessment, Development and Evaluation (GRADE) Working Group Grades of Evidence</span></strong></p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: Grading of Recommendations Assessment, Development and Evaluation (GRADE) Working Group Grades of Evidence">
+                <tbody>
+                    <tr>
+                        <td valign="top"><strong>High quality</strong> &mdash; Further research is very unlikely to change confidence in the estimate of effect.</td>
+                    </tr>
+                    <tr>
+                        <td valign="top"><strong>Moderate quality</strong> &mdash; Further research is likely to have an important impact on confidence in the estimate of effect and may change the estimate. </td>
+                    </tr>
+                    <tr>
+                        <td valign="top"><strong>Low quality</strong> &mdash; Further research is very likely to have an important impact on confidence in the estimate of effect and is likely to change the estimate.</td>
+                    </tr>
+                    <tr>
+                        <td valign="top"><strong>Very low quality</strong> &mdash; Any estimate of effect is very uncertain.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><strong><span style="text-decoration: underline;">Grading of Recommendations</span></strong></p>
+            <ul style="list-style-type: disc;">
+                <li><strong>Strong recommendations</strong> are those for which the Canadian Task Force on Preventive Health Care (CTFPHC) is confident that the desirable effects of an intervention outweigh its undesirable effects (strong recommendation for an intervention) or that the undesirable effects of an intervention outweigh its desirable effects (strong recommendation against an intervention). A strong recommendation implies that most people will be best served by the recommended course of action. </li>
+                <li><strong>Weak recommendations</strong> are those for which the desirable effects probably outweigh the undesirable effects (weak recommendation for an intervention) or undesirable effects probably outweigh the desirable effects (weak recommendation against an intervention) but appreciable uncertainty exists. Weak recommendations result when the balance between desirable and undesirable effects is small, the quality of evidence is lower, and there is more variability in the values and preferences of patients. A weak recommendation implies that most people would want the recommended course of action, but many would not. Clinicians must recognize that different choices will be appropriate for individual, so they must help each person arrive at a management decision consistent with his or her own values and preferences. Policy-making will require substantial debate and involvement of various stakeholders. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th class="SynthesesCellGrayBlack" valign="top">USPSTF<br />
+            (2016)</th>
+            <td valign="top">
+            <p><strong><span style="text-decoration: underline;">What the <strong>U.S. Preventive Services Task Force (USPSTF) </strong>Grades Mean and Suggestions for Practice</span></strong></p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: What the USPSTF Grades Mean and Suggestions for Practice">
+                <thead>
+                    <tr>
+                        <th class="Center" valign="top" scope="col">Grade</th>
+                        <th class="Center" valign="top" scope="col">Grade Definitions</th>
+                        <th class="Center" valign="top" scope="col">Suggestions for Practice</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="Center" valign="top">A</td>
+                        <td valign="top">The USPSTF recommends the service. There is high certainty that the net benefit is substantial.</td>
+                        <td valign="top">Offer or provide this service.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">B</td>
+                        <td valign="top">The USPSTF recommends the service. There is high certainty that the net benefit is moderate, or there is moderate certainty that the net benefit is moderate to substantial.</td>
+                        <td valign="top">Offer or provide this service.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">C</td>
+                        <td valign="top">The USPSTF recommends selectively offering or providing this service to individual patients based on professional judgment and patient preferences. There is at least moderate certainty that the net benefit is small.</td>
+                        <td valign="top">Offer or provide this service for selected patients depending on individual circumstances.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">D</td>
+                        <td valign="top">The USPSTF recommends against the service. There is moderate or high certainty that the service has no net benefit or that the harms outweigh the benefits.</td>
+                        <td valign="top">Discourage the use of this service.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">I Statement</td>
+                        <td valign="top">The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of the service. Evidence is lacking, of poor quality or conflicting, and the balance of benefits and harms cannot be determined.</td>
+                        <td valign="top">Read the "Clinical Considerations" section of the USPSTF Recommendation Statement (see the "Major Recommendations" field). If offered, patients should understand the uncertainty about the balance of benefits and harms.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><strong><span style="text-decoration: underline;">USPSTF Levels of Certainty Regarding Net Benefit</span></strong></p>
+            <p><strong>Definition</strong>: The USPSTF defines certainty as "likelihood that the USPSTF assessment of the net benefit of a preventive service is correct." The net benefit is defined as benefit minus harm of the preventive service as implemented in a general, primary care population. The USPSTF assigns a certainty level based on the nature of the overall evidence available to assess the net benefit of a preventive service.</p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: USPSTF Levels of Certainty Regarding Net Benefit">
+                <thead>
+                    <tr>
+                        <th class="Center" valign="top" scope="col">Level of Certainty</th>
+                        <th class="Center" valign="top" scope="col">Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="Center" valign="top">High</td>
+                        <td valign="top">The available evidence usually includes consistent results from well-designed, well-conducted studies in representative primary care populations. These studies assess the effects of the preventive service on health outcomes. This conclusion is therefore unlikely to be strongly affected by the results of future studies.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">Moderate</td>
+                        <td valign="top">The available evidence is sufficient to determine the effects of the preventive service on health outcomes, but confidence in the estimate is constrained by factors such as:
+                        <ul style="list-style-type: disc;">
+                            <li>The number, size, or quality of individual studies </li>
+                            <li>Inconsistency of findings across individual studies </li>
+                            <li>Limited generalizability of findings to routine primary care practice </li>
+                            <li>Lack of coherence in the chain of evidence </li>
+                        </ul>
+                        As more information becomes available, the magnitude or direction of the observed effect could change, and this change may be large enough to alter the conclusion. </td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top">Low</td>
+                        <td valign="top">The available evidence is insufficient to assess effects on health outcomes. Evidence is insufficient because of:
+                        <ul style="list-style-type: disc;">
+                            <li>The limited number or size of studies </li>
+                            <li>Important flaws in study design or methods </li>
+                            <li>Inconsistency of findings across individual studies </li>
+                            <li>Gaps in the chain of evidence </li>
+                            <li>Findings not generalizable to routine primary care practice </li>
+                            <li>A lack of information on important health outcomes </li>
+                        </ul>
+                        More information may allow an estimation of effects on health outcomes.</td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="507" role="tab" aria-expanded="true" aria-controls="syn507"><a href="#">Methodology</a></h2>
+			<div class="accordion-panel is-active" id="syn507" role="tabpanel" aria-labelledby="507" ><table width="100%" border="1" cellspacing="1" cellpadding="8" summary="This table presents the comparison of methodology for each guideline in the synthesis.">
+    <tbody>
+        <tr>
+            <th class="SynthesesCellGreen" valign="top" colspan="2" scope="col"><em>Click on the links below for details of guideline development methodology</em> </th>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">
+            <p><strong><a href="/summaries/summary/50123?#405" title="Guideline #10941" target="_blank">CTFPHC</a><br />
+            (2016)</strong></p>
+            </td>
+            <td class="Center" valign="top">
+            <p><strong><a href="/summaries/summary/50373?#405" title="Guideline #11005" target="_blank">USPSTF</a><br />
+            (2016)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" colspan="2">
+            <p>Both the CTFPHC and USPSTF guidelines are based on systematic reviews of the evidence, prepared by the McMaster Evidence Review and Synthesis Centre (ERSC) and the Kaiser Permanente Research Affiliates Evidence-based Practice Center (EPC) respectively. Relevant details of the literature search (e.g., databases searched, search terms, time period of search) are provided in both reviews. A description of study selection that includes the number of studies identified, the number of studies included, and a summary of inclusion and exclusion criteria is also provided. To assess the quality and strength of the evidence, both groups weighted it according to a rating scheme. Both systematic reviews describe the processes used to analyze the evidence, including the development of evidence tables and performance of original meta-analyses. On the basis of the systematic reviews, CTFPHC and USPSTF formulated the recommendation statements using a consensus process; USPSTF also used balance sheets. The developers also rate the strength of the recommendations according to a scheme. With regard to economic implications of implementing the guideline recommendations, CTFPHC examined the cost-effectiveness of colorectal cancer screening as a contextual question using two Canadian modeling studies. USPSTF does not consider the costs of providing a service in the formulation of its recommendations. The guideline developers used similar methods to validate their guidelines, including comparison with guidelines from other groups and external peer review. USPSTF also sought internal peer review.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="509" role="tab" aria-expanded="true" aria-controls="syn509"><a href="#">Benefits and Harms</a></h2>
+			<div class="accordion-panel is-active" id="syn509" role="tabpanel" aria-labelledby="509" ><p><a name="source"></a></p>
+<h3>Benefits</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="provides a comparison of recommendations considered by each group.">
+    <tbody>
+        <tr>
+            <th width="10%" class="SynthesesCellGrayBlack" valign="top">CTFPHC<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <p>Reduction in colorectal cancer mortality</p>
+            </td>
+        </tr>
+        <tr>
+            <th class="SynthesesCellGrayBlack" valign="top">USPSTF<br />
+            (2016)</th>
+            <td valign="top">
+            <p><strong><span style="text-decoration: underline;">Benefits of Screening and Early Intervention</span></strong></p>
+            <p>The USPSTF found convincing evidence that screening for colorectal cancer in adults aged 50 to 75 years reduces colorectal cancer mortality. The USPSTF found no head-to-head studies demonstrating that any of the screening strategies it considered are more effective than others, although the tests have varying levels of evidence supporting their effectiveness, as well as different strengths and limitations (see the table in the original guideline document). About one-third of eligible adults in the United States have never been screened for colorectal cancer, and offering choice in colorectal cancer screening strategies may increase screening uptake. As such, the screening tests are not presented in any preferred or ranked order; rather, the goal is to maximize the total number of persons who are screened because that will have the largest effect on reducing colorectal cancer deaths.</p>
+            <p>The benefit of early detection of and intervention for colorectal cancer declines after age 75 years. Among older adults who have been previously screened for colorectal cancer, there is at best a moderate benefit to continuing screening during the ages of 76 to 85 years. However, adults in this age group who have never been screened for colorectal cancer are more likely to benefit than those who have been previously screened.</p>
+            <p>The time between detection and treatment of colorectal cancer and realization of a subsequent mortality benefit can be substantial. As such, the benefit of early detection of and intervention for colorectal cancer in adults 86 years and older is at most small.</p>
+            <p>To date, no method of screening for colorectal cancer has been shown to reduce all-cause mortality in any age group.</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<h3>Harms</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="provides a comparison of recommendations considered by each group.">
+    <tbody>
+        <tr>
+            <th width="10%" class="SynthesesCellGrayBlack" valign="top">CTFPHC<br />
+            (2016)</th>
+            <td valign="top" style="width: 90%;">
+            <ul style="list-style-type: disc;">
+                <li>False-positive and false-negative results were the only direct harms reported for gFOBT and FIT in the included studies. </li>
+                <li>Harms following FS were rare (intestinal perforation occurred in 0.001% of patients, minor bleeding in 0.05%, major bleeding in 0.009% and death in 0.015%). </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th class="SynthesesCellGrayBlack" valign="top">USPSTF<br />
+            (2016)</th>
+            <td valign="top">
+            <p><strong><span style="text-decoration: underline;">Harms of Screening and Early Intervention</span></strong></p>
+            <p>The harms of screening for colorectal cancer in adults aged 50 to 75 years are small. The majority of harms result from the use of colonoscopy, either as the screening test or as follow-up for positive findings detected by other screening tests. The rate of serious adverse events from colorectal cancer screening increases with age. Thus, the harms of screening for colorectal cancer in adults 76 years and older are small to moderate.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="511" role="tab" aria-expanded="true" aria-controls="syn511"><a href="#">Abbreviations</a></h2>
+			<div class="accordion-panel is-active" id="syn511" role="tabpanel" aria-labelledby="511" ><p>CISNET, Cancer Intervention and Surveillance Modeling Network</p>
+<p>CT, computed tomography</p>
+<p>CTFPHC, Canadian Task Force on Preventive Health Care</p>
+<p>DNA, deoxyribonucleic acid</p>
+<p>FIT, fecal immunochemical test</p>
+<p>FOBT, fecal occult blood test</p>
+<p>FS, flexible sigmoidoscopy</p>
+<p>gFOBT, guaiac fecal occult blood testing</p>
+<p>RCT, randomized controlled trial</p>
+<p>USPSTF, U.S. Preventive Services Task Force</p></div>
+			<h2 class="accordion-title is-active" id="512" role="tab" aria-expanded="true" aria-controls="syn512"><a href="#">Status</a></h2>
+			<div class="accordion-panel is-active" id="syn512" role="tabpanel" aria-labelledby="512" ><p>This synthesis was prepared by ECRI on November 21, 2016. The information was verified by USPSTF on December 13, 2016 and by CTFPHC on December 19, 2016.</p></div>
+	</div><!-- accordion-container -->
+
+<!-- ASIDE -->
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	<!-- About NGC -->
+	<div class="info-block">
+			<h3 class="info prefix-icon large-icon">About NGC Guideline Syntheses</h3>
+			<p>Syntheses are systematic comparisons of selected guidelines that address similar topics. For definitions of synthesis attributes, see the 
+                <a href="/syntheses/template">Guideline Synthesis Template</a>.    
+            </p>
+	</div><!-- /info-block -->
+	<hr>
+
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+		<ul class="subscribe-links">
+            <li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/rssFiles/ngc_newthisweek.xml" class="rss icon-feed"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div><!-- /.subscribable -->
+
+	<!-- New this Week -->
+	<a href="/new-this-week" class="block-link">
+		<h4>New this Week</h4>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

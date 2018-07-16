@@ -1,0 +1,574 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Eliminating Hospital Re-admissions: &quot;No Hospital Left Behind&quot;? | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>June 25, 2012</li>
+			</ul>
+			<h1>Eliminating Hospital Re-admissions: "No Hospital Left Behind"?</h1>
+			<p class="byline">By: R. Neal Axon, MD, MSCR, Mark V. Williams, MD</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/37562/eliminating-hospital-readmissions-no-hospital-left-behind" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/37562/eliminating-hospital-readmissions-no-hospital-left-behind" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/37562/eliminating-hospital-readmissions-no-hospital-left-behind&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Eliminating Hospital Re-admissions: &amp;quot;No Hospital Left Behind&amp;quot;?&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/37562/eliminating-hospital-readmissions-no-hospital-left-behind" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (4)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>Hospital readmissions rates have become a key indicator of hospital discharge quality and the primary outcome measure for studies aiming to improve hospital care transitions. (<a href="#ref">1</a>) More recently, readmission rates have also become an accountability measure tied to Medicare reimbursement. Under Provision 3025 of the Patient Protection and Affordable Care Act, the Centers for Medicare &amp; Medicaid services (CMS) will begin reducing payments to hospitals with "excess" 30-day all-cause risk-adjusted hospital readmission rates for pneumonia, acute myocardial infarction (AMI), or heart failure (HF) beginning in fiscal year 2013, which starts this October. While we applaud this focus on improving hospital care transitions and believe that proactive efforts can result in lower readmission rates, it is important to consider these new policies in the context of prior federal efforts to improve accountability.</p>
+<p>Nearly a decade ago, the U.S. House of Representatives passed a bill now commonly known as the No Child Left Behind Act (NCLB) with broad bipartisan support. At the time, this law embodied a new concept in federal education policy by championing the principle of holding schools accountable for poor performance. Low scores on annual standardized achievement tests in math and reading led to the universal conclusion that something had to be done to improve school achievement. (<a href="#ref">2</a>) While extremely appealing in theory, NCLB suffered widespread criticism since its passage, proving particularly difficult to implement into practice. Even early supporters of the initiative subsequently voiced strong opposition to the program, and sweeping changes have been proposed. (<a href="#ref">3, 4</a>)</p>
+<p>Among other concerns, critics of the law argued that the NCLB was flawed because it focused exclusively on state achievement test scores and led to unintended negative consequences. (<a href="#ref">5</a>) Policy makers shaping Medicare and Medicaid reimbursement rules should bear in mind this cautionary tale in federal regulation.</p>
+<p>Clear parallels exist between the standardized test scores initially used in NCLB and the risk-adjusted hospital readmission rates currently proposed by CMS. Both metrics represent standardized measures that target statistical outliers. NCLB critics complained of arbitrary cut-points for math and English test scores, and the same could be said for hospital readmission rates. As a measure of healthcare utilization, readmission rates differ from most current CMS metrics that tend to comprise process measures or tacit outcome measures (e.g., mortality). Most process measures delineate a clear boundary between best practices and subpar performance. For example, all patients with AMI should receive an aspirin or have its contraindication documented. One hundred percent of smokers should receive counseling for cessation. Zero surgical patients should have wrong-site surgery. By contrast, no clear consensus exists on the lower acceptable limit for hospital readmissions, and it is unreasonable to expect that these rates should equal zero. Without clear targets for readmission reductions, it will prove difficult for hospitals and regulators to recognize success or failure.</p>
+<p>Previously we wrote about the potential negative unintended consequences of using hospital readmission rates as the sole determinant of hospital discharge quality. (<a href="#ref">6</a>) These include unfairly reducing payments to hospitals caring for a high proportion of minority or economically disadvantaged patients and to hospitals with low mortality rates otherwise indicative of high-quality care. Claims of similar unintended consequences arose with regard to the NCLB legislation, which may have unfairly targeted schools serving economically disadvantaged, ethnically diverse areas and already high-performing schools with little room for annual improvement. (<a href="#ref">4</a>)</p>
+<p>We do not mean to imply that hospital readmission rates should be discarded as an accountability measure. The CMS methodology for risk adjustment has been well validated and is statistically robust. (<a href="#ref">7, 8</a>) Nevertheless, critics will argue that because the models rely solely on administrative data, they are not clinically relevant. Others may argue that the models miss the conceptual point entirely by not focusing on both hospital admissions as well as readmissions. (<a href="#ref">9</a>) Given these limitations, readmission rates will likely need supplementation with additional quality information in order to be equitable and helpful for facilities participating in Medicare.</p>
+<p>Process measures provide a logical place to start as supplements in assessing hospital discharge quality. Based on clinical trial experience to date, several candidate indicators exist, such as documentation of appropriate patient education prior to discharge, discharge planning, and scheduling of timely follow-up appointments. (<a href="#ref">1</a>) Others might include high-quality medication reconciliation, post-discharge telephone calls or home visits, timely and high-quality hospital discharge summaries, or utilization of nurse-driven patient education and activation strategies. However, our own experience in care transitions quality improvement at over 100 hospitals through Project BOOST (Better Outcomes for Older adults through Safe Transitions) has taught us that collecting standardized process measure data across hospital sites presents particular challenges. Initially funded as a demonstration project by The John A. Hartford Foundation and now sustained as part of a portfolio of mentored quality improvement (QI) programs offered by the Society of Hospital Medicine, Project BOOST represents a multifaceted intervention focused on improving hospital discharge transitions. Disparate electronic medical record systems, varying levels of local quality improvement expertise, and limited resources for chart abstraction remain significant barriers.</p>
+<p>One of us (MVW) recently collaborated on a large case-control study comparing similar patients with and without early hospital readmission. (<a href="#ref">10</a>) This study did not find a significant association between several components of the discharge process as documented in the medical record and 30-day hospital readmission rates. Thus, the lack of standardized evaluation metrics and audit processes presents another major barrier to characterizing hospital discharge quality. CMS and other quality organizations should develop such instruments. If high hospital readmission rates signal a quality problem, careful analysis of process measures should offer specific insights into how to fix this problem at individual hospitals.</p>
+<p>Focusing on patient-specific measures of quality offers another reasonable and promising approach. CMS currently collects and reports survey data on patient satisfaction using standardized Hospital Consumer Assessment of Healthcare Providers &amp; Systems (HCAHPS) instruments. While this information may have value when used to help patients choose high-quality hospitals, evidence suggests only a modest impact on consumer choice. (<a href="#ref">11</a>) In addition, CMS might require hospitals to collect information on patient perspectives and quality of life after hospital discharge. For example, the Care Transitions Measure (CTM-15, CTM-3) instruments developed by Coleman and colleagues ask specific questions about the quality of hospital experience, as well as key elements of discharge preparation including self-care, medication management, and follow up care. (<a href="#ref">12, 13</a>) These validated surveys demonstrate correlation with hospital readmissions rates. Weiss and colleagues have developed and validated scales to measure patient readiness for hospital discharge and the quality of hospital discharge teaching. (<a href="#ref">14, 15</a>) It might also be possible to adapt subscales from commonly used health assessments, such as the 36-Item Short Form Health Survey (SF-36). For example, application of an acute recall version of the SF-36 to patients with asthma seems to correlate well with short-term changes in disease severity. (<a href="#ref">16</a>)</p>
+<p>With almost 20% of Medicare patients readmitted to the hospital within 30 days at a potential excess cost of $17.4 billion dollars per year, it is imperative to address problems in hospital care transitions. (<a href="#ref">17</a>) The provisions of the health care reform bill represent an important first step in this process. However, unless we avoid the pitfalls experienced with prior federal efforts at fostering accountability, the trajectory of these current efforts may follow a similar disappointing arc. Additional measures of hospital discharge quality, such as process measures and patient-derived information, should be incorporated into the mix. Inclusion measures will inform the process of determining hospital reimbursement rates. A more balanced assessment may also circumvent criticism and push back from hospital systems and other groups. Finally, further measures should provide useful information to guide hospitals as they troubleshoot their care transitions problems with the ultimate goal of furthering the so-called triple aim of better health, better care, and lower costs.</p>
+<hr />
+<p><strong>Authors</strong></p>
+<p><strong>R. Neal Axon, MD, MSCR</strong><br />
+Ralph H. Johnson VA Medical Center (VAMC), Charleston, SC<br />
+The Medical University of South Carolina, Charleston, SC</p>
+<p><strong>Mark V. Williams, MD</strong><br />
+Feinberg School of Medicine, Northwestern University, Chicago, IL<br />
+Northwestern Memorial Hospital, Chicago, IL</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the authors and do not necessarily state or reflect those of the National Quality Measures Clearinghouse<sup>&trade;</sup> (NQMC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor, ECRI Institute.</p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>Dr. Axon reports the following personal financial interests: Quality Improvement Mentor, Project BOOST (Better Outcomes for Older Adults through Safe Transitions) -- Society of Hospital Medicine; Principal Investigator, "Real-time Video Telehealth in Nursing Homes: A Pilot Study" -- South Carolina Clinical and Translational Research Institute</p>
+<p>Dr. Williams reports receiving honoraria from the following:</p>
+<ul style="list-style-type: disc;">
+    <li>Society of Hospital Medicine &ndash; Editor-in-Chief, Journal of Hospital Medicine; consultant on the Multi-Center Medication Reconciliation Quality Improvement Study (MARQUIS); consultant for Project BOOST </li>
+    <li>American College of Physicians (ACP) Foundation &ndash; Work on Medical Home Web site </li>
+    <li>American Academy of Family Practice &ndash; Work on health literacy toolkit </li>
+    <li>Joint Commission Resources &ndash; Work on readmission video </li>
+    <li>Presentations at Grand Rounds and Conferences: Mt. Sinai Hospital, New York; Community Health Foundation, New York; Case Management Society of America; University of Pittsburgh Medical Center; Stony Brook Medical Center; University of Michigan; Maimonides Medical Center, New York; Johns Hopkins; Mayo Clinic; ACP; American Academy of Neurology </li>
+</ul>
+<p>Dr. Williams reports the following business and professional interests:</p>
+<ul style="list-style-type: disc;">
+    <li>BlueCross/BlueShield of Illinois and Illinois Hospital Association &ndash; Principal Investigator for Project PREP (Preventing Readmissions through Effective Partnerships) [funding to Northwestern University provides salary support for his efforts] </li>
+    <li>Agency for Healthcare Research and Quality &ndash; Co-Investigator for INTERdisciplinary Approaches to Communication and Teamwork (INTERACT) [10/10 &ndash; 9/12] </li>
+    <li>Elsevier &ndash; Royalties for textbook Comprehensive Hospital Medicine </li>
+</ul>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Hansen LO, Young RS, Hinami K, Leung A, Williams MV. Interventions to reduce 30-day rehospitalization: a systematic review. <em>Ann Intern Med</em>. 2011 Oct 18;155(8):520-28. </li>
+    <li>Alvarez L. House votes for new testing to hold schools accountable. <em>New York Times</em>. May 24, 2001. </li>
+    <li>Ravitch D. The death and life of the great American school system: how testing and choice are undermining education. New York: Basic Books; 2010. </li>
+    <li>Dillon S. Obama to seek sweeping change in 'No Child' law. <em>New York Times</em>. January 31, 2010. </li>
+    <li>Wallis C, Steptoe S. How to fix No Child Left Behind. <em>Time Magazine</em>. May 24 2007. </li>
+    <li>Axon RN, Williams MV. Hospital readmission as an accountability measure. <em>JAMA</em>. 2011 Feb 2;305(5):504-5. </li>
+    <li>Keenan PS, Normand SL, Lin Z, et al. An administrative claims measure suitable for profiling hospital performance on the basis of 30-day all-cause readmission rates among patients with heart failure. <em>Circ Cardiovasc Qual Outcomes</em>. 2008 Sep;1(1):29-37. </li>
+    <li>Lindenauer PK, Bernheim SM, Grady JN, et al. The performance of US hospitals as reflected in risk-standardized 30-day mortality and readmission rates for medicare beneficiaries with pneumonia. <em>J Hosp Med</em>. 2010 Jul-Aug;5(6):E12-8. </li>
+    <li>Epstein AM, Jha AK, Orav EJ. The relationship between hospital admission rates and rehospitalizations. <em>N Engl J Med</em>. 2011 Dec 15;365(24):2287-95. </li>
+    <li>Hansen LO, Strater A, Smith L, et al. Hospital discharge documentation and risk of rehospitalisation. <em>BMJ Qual Saf</em>. 2011 Sep;20(9):773-8. </li>
+    <li>Huppertz JW, Carlson JP. Consumers' use of HCAHPS ratings and word-of-mouth in hospital choice. <em>Health Serv Res</em>. 2010 Dec;45(6 Pt 1):1602-13. </li>
+    <li>Coleman EA, Mahoney E, Parry C. Assessing the quality of preparation for posthospital care from the patient's perspective: the care transitions measure. <em>Med Care</em>. 2005 Mar;43(3):246-55. </li>
+    <li>Parry C, Mahoney E, Chalmers SA, Coleman EA. Assessing the quality of transitional care: further applications of the care transitions measure. <em>Med Care</em>. 2008 Mar;46(3):317-22. </li>
+    <li>Maloney LR, Weiss ME. Patients' perceptions of hospital discharge informational content. <em>Clin Nurs Res</em>. 2008 Aug;17(3):200-19. </li>
+    <li>Weiss ME, Piacentine LB, Lokken L, et al. Perceived readiness for hospital discharge in adult medical-surgical patients. <em>Clin Nurse Spec</em>. 2007 Jan-Feb;21(1):31-42. </li>
+    <li>Ware JE, Jr., Kemp JP, Buchner DA, Singer AE, Nolop KB, Goss TF. The responsiveness of disease-specific and generic health measures to changes in the severity of asthma among adults. <em>Qual Life Res</em>. 1998 Apr;7(3):235-44. </li>
+    <li>Jencks SF, Williams MV, Coleman EA. Rehospitalizations among patients in the Medicare Fee-for-Service Program. <em>N Engl J Med</em>. 2009 April 2;360(14):1418-28. </li>
+</ol>
+
+
+	<section class="comments" id="comments">
+		<h2 class="comments-header">Comments</h2>
+		
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 06/29/2012</h3>
+				<div class='comment-main'>
+					<div class='comment-content'>Superb piece. I'm constantly struck by how the worlds of public education and healthcare struggle with the same issues and how rarely they learn from the others' experience. Personally, I see the readmission penalties as being a positive development. Even though the measures aren't perfect and there are likely to be some unanticipated, and even negative, consequences, they are catalyzing a level of interest in improving the discharge process and transitions more generally that didn't exist previously. Hopefully, the authors' recommendations will be heeded and our measures will become more robust and nuanced over time. But this feels like one of those issues in which it was important to not let the perfect be the enemy of the "good enough to get started."</div>
+					<p class='comment-author'>Robert Wachter, MD</p>
+						<p class='comment-position'>Professor of Medicine</p>
+											<p class='comment-affiliation'>University of California, San Francisco</p>
+					<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> None stated</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 07/10/2012</h3>
+				<div class='comment-main'>
+					<div class='comment-content'>I am excited to see someone mention "high quality medication reconciliation" as it relates to hospital readmission rates. This is a huge challenge when you have recently implemented an EHR and CPOE. Home meds are changed on admission, visit meds are added, and then discharge meds are ordered. Picking up the Metformin that was held on admission because a sliding scale was ordered is important because, when that patient goes home without it, his sugars will be high. Picking up that dose of Lasix that was held on admission, but should be given upon discharge, may prevent that CHF patient from developing respiratory distress and requiring readmission. The future of medication reconciliation should be clearer. I understood it to be the domain of nursing, but that seems to be changing. Thanks for recognizing how important it is.</div>
+					<p class='comment-author'>Genine Schwinge, </p>
+						<p class='comment-position'>Nurse Practitioner</p>
+											<p class='comment-affiliation'>Vascular Access Coordinator, Port Jefferson, New York</p>
+					<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> None stated</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 07/10/2012</h3>
+				<div class='comment-main'>
+					<div class='comment-content'>Excellent paper. I especially liked the topic of in process metrics for readmissions, and what correlations may or may not exist.</div>
+					<p class='comment-author'>Susan Sanches, </p>
+										<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> None stated</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 07/19/2012</h3>
+				<div class='comment-main'>
+					<div class='comment-content'>This is a great commentary. In some cases non-compliance on the part of the patient results in these readmissions and thereby causes reduced reimbursements to hospitals by the government. Just as healthcare providers and facilities must be accountable, so should the patients be made to take an active role in his or her health.</div>
+					<p class='comment-author'>Audrey Posey, RN, BSN</p>
+						<p class='comment-position'>Staff Nurse</p>
+										<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> None stated</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+	</section><!--/.comments -->
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011399</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51322/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-patients-irrespective-of-frequency-of-dialysis-with-documented-monthly-npcr-measurements">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis patients (irrespective of frequency of dialysis) with documented monthly nPCR measurements.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011398</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51321/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-home-hemodialysis-and-peritoneal-dialysis-patients-who-have-monthly-measures-for-hemoglobin-during-the-reporting-period">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis, home hemodialysis, and peritoneal dialysis patients who have monthly measures for hemoglobin during the reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011397</li>
+            <li>May 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51319/end-stage-renal-disease-esrd-percentage-of-adult-hemodialysis-patientmonths-using-a-catheter-continuously-for-three-months-or-longer-for-vascular-access">End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011396</li>
+            <li>Apr 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51318/end-stage-renal-disease-esrd-adjusted-percentage-of-adult-hemodialysis-patientmonths-using-an-autogenous-arteriovenous-fistula-avf-as-the-sole-means-of-vascular-access">End stage renal disease (ESRD): adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula (AVF) as the sole means of vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011395</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51317/end-stage-renal-disease-esrd-percentage-of-all-peritoneal-dialysis-and-hemodialysis-patientmonths-with-serum-or-plasma-phosphorus-measured-at-least-once-within-the-month">End stage renal disease (ESRD): percentage of all peritoneal dialysis and hemodialysis patient-months with serum or plasma phosphorus measured at least once within the month.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

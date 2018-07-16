@@ -1,0 +1,827 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Pharmacologic Interventions for Breast Cancer Risk Reduction in Women | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+	<div class="content-header">
+		<ul class="content-header-meta">
+			<li class="prefix-icon large-icon synthesis">Guideline Synthesis</li>
+		</ul>
+		<h1>Pharmacologic Interventions for Breast Cancer Risk Reduction in Women</h1>
+	</div><!-- /.content-header -->
+
+	<!-- COMPARED LIST-->
+		<p>Guidelines Being Compared:</p>
+		<ul class="compared-list"> 
+				<li>
+                    <p class="compared-list-org">American Society of Clinical Oncology (ASCO)</p>
+					<p class="compared-list-title">Use of pharmacologic interventions for breast cancer risk reduction: American Society of Clinical Oncology clinical practice guideline.</p>
+                    <p class="compared-list-org">2013 Aug 10</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/47028">View Summary</a></p>					
+				</li>
+				<li>
+                    <p class="compared-list-org">U.S. Preventive Services Task Force (USPSTF)</p>
+					<p class="compared-list-title">Medications for risk reduction of primary breast cancer in women: U.S. Preventive Services Task Force recommendation statement.</p>
+                    <p class="compared-list-org">2013 Sep 01</p>
+					<p><a class="prefix-icon guideline" href="/summaries/summary/47350">View Summary</a></p>					
+				</li>
+		</ul><!-- /.compared-list -->
+			
+	<!-- TOOLBAR -->
+	<div class="content-toolbar">
+		<!-- Primary -->
+		<ul class="tools primary-tools">
+			<li class="dropdown tool sections">
+				<a href="#" class="tool-button">Sections</a>
+				<div class="dropdown-panel">
+						<ul class="section-links">
+								<li><a href="#504" class="section-mark">Areas of Agreement and Difference</a></li>
+								<li><a href="#505" class="section-mark">Comparison of Recommendations</a></li>
+								<li><a href="#506" class="section-mark">Strength of Evidence and Recommendation Grading Schemes</a></li>
+								<li><a href="#507" class="section-mark">Methodology</a></li>
+								<li><a href="#509" class="section-mark">Benefits and Harms</a></li>
+								<li><a href="#510" class="section-mark">Contraindications</a></li>
+								<li><a href="#511" class="section-mark">Abbreviations</a></li>
+								<li><a href="#512" class="section-mark">Status</a></li>
+						</ul>    
+				</div><!-- /.dropdown-panel -->
+			</li>
+		</ul><!-- /.tools primary-tools -->
+
+		<!-- Other -->
+		<ul class="tools other-tools">
+			<li class="dropdown tool">
+				<a href="#" class="tool-button">Share</a>
+				<div class="dropdown-panel">
+					<ul class="toolbar-social">
+						<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/syntheses/synthesis/48012" class="facebook">Facebook</a></li>
+						<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.guideline.gov/syntheses/synthesis/48012" class="twitter">Twitter</a></li>
+						<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.guideline.gov/syntheses/synthesis/48012&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+						<li><a href="mailto:?Subject=AHRQ: Pharmacologic Interventions for Breast Cancer Risk Reduction in Women&body=https://www.guideline.gov/syntheses/synthesis/48012" class="email">Email</a></li>
+					</ul><!-- /.toolbar-social -->
+				</div><!-- /.dropdown-panel -->
+			</li>
+			<li class="dropdown tool">
+				<a href="#" class="tool-button">Cite</a>
+				<div class="dropdown-panel citation">
+				    <p class="text-label"><label for="citation">Citation: </label></p>
+					<textarea id="citation">Internet citation: National Guideline Clearinghouse (NGC). Guideline synthesis: Pharmacologic interventions for breast cancer risk reduction in women. In: National Guideline Clearinghouse (NGC) [Web site]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2014 May. [cited YYYY Mon DD]. Available: http://www.guideline.gov.</textarea>
+				</div><!-- /.dropdown-panel -->
+			</li>
+		</ul><!-- /.tools other-tools -->
+
+		<!-- Accordion tools -->
+		<ul class="tools accordion-controls">
+			<li class="tool"><a href="#" class="expand-all is-disabled" aria-disabled="true"><span class="screen-reader-text">Expand All</span></a></li>
+			<li class="tool"><a href="#" class="collapse-all" aria-disabled="false"><span class="screen-reader-text">Collapse All</span></a></li>
+		</ul><!-- /.accordion-controls -->
+	</div><!-- /.toolbar -->            
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+
+	<!-- ACCORDION -->
+	<div class="accordion-container" role="tablist" multiselectable="true">
+			<h2 class="accordion-title is-active" id="504" role="tab" aria-expanded="true" aria-controls="syn504"><a href="#">Areas of Agreement and Difference</a></h2>
+			<div class="accordion-panel is-active" id="syn504" role="tabpanel" aria-labelledby="504" ><a name="areasofagreementanddifference"></a>
+<p>A direct comparison of recommendations presented in the above guidelines for the use of pharmacologic interventions for risk reduction of primary breast cancer in women is provided below. This synthesis does not apply to women with BRCA gene mutations.</p>
+<h3><a name="agreement"></a>Areas of Agreement</h3>
+<h4>Selective Estrogen Receptor Modulators (SERMs)</h4>
+<p>The groups agree that the option to use tamoxifen and raloxifene to reduce the risk of estrogen receptor-positive breast cancer should be discussed between physicians and their eligible female patients as part of a shared, informed decision-making process. Eligibility criteria outlined by the groups are similar, with the developers agreeing that use of these SERMs for risk-reduction purposes is only appropriate for women aged 35 years or older <strong>who are at increased risk of breast cancer</strong> (refer to <a href="#difference">Areas of Difference</a> below for discussion of determination of risk status), who have never been diagnosed with breast cancer, including DCIS, and who&mdash;in the event that raloxifene is being considered&mdash;are postmenopausal (tamoxifen is approved for this use in both pre- and postmenopausal women). Guidance differs with regard to the eligibility of women with LCIS&mdash;refer to <a href="#difference">Areas of Difference</a> below.</p>
+<p>The groups agree that tamoxifen is not recommended for use in combination with hormone therapy or in women who are pregnant, may become pregnant, or are breastfeeding. There is further agreement that neither tamoxifen nor raloxifene is recommended for use in women with a history of thromboembolic events (deep vein thrombosis, pulmonary embolus, stroke, or transient ischemic attack); ASCO also cites prolonged immobilization as a contraindication. USPSTF emphasizes that the use of breast cancer risk-reducing medications is not appropriate in women at high risk of adverse events. The groups agree that the usual daily doses for tamoxifen and raloxifene are 20 mg and 60 mg, respectively, for 5 years. ASCO states that raloxifene may be used longer than 5 years in women with osteoporosis, in whom breast cancer risk reduction is a secondary benefit.</p>
+<h4>Aromatase Inhibitors</h4>
+<p>ASCO examined the evidence for the aromatase inhibitors exemestane and anastrozole. The developer provides a recommendation for exemestane, but found insufficient evidence to make a recommendation for anastrozole. ASCO recommends that exemestane be discussed as an alternative to tamoxifen and/or raloxifene to reduce the risk of invasive breast cancer, specifically ER-positive breast cancer, in postmenopausal women age &ge;35 years with a 5-year projected breast cancer absolute risk &ge;1.66%, according to the National Cancer Institute (NCI) Breast Cancer Risk Assessment Tool (or equivalent measures), or with LCIS or atypical hyperplasia.</p>
+<p>While exemestane is approved by the U.S. FDA for the adjuvant treatment of early breast cancer and the treatment of advanced breast cancer, no aromatase inhibitors are currently approved for breast cancer risk reduction. Citing the lack of approval for this indication, USPSTF notes that aromatase inhibitors were beyond the scope of its recommendation statement. The developer does, however, address exemestane and anastrozole in the context of research needs and gaps, stating that clinical trials that provide more information about the safety and effectiveness of other medications for breast cancer risk reduction, such as aromatase inhibitors and tibolone, are needed. According to the USPSTF, exemestane reduced the incidence of invasive breast cancer in postmenopausal women who were at moderately increased risk for the disease and did not significantly increase the incidence of morbidity or mortality. However, USPSTF adds, these findings were reported from a randomized, clinical trial with a median follow-up of 3 years and will require long-term assessment. With regard to anastrozole, USPSTF states that the IBIS-II (International Breast Cancer Intervention Study II), an ongoing British study, is comparing the aromatase inhibitor with placebo in women who are at increased risk for breast cancer.</p>
+<h3><a name="difference"></a>Areas of Difference</h3>
+<h4>Assessment of Breast Cancer Risk</h4>
+<p>While the guideline developers agree that the use of risk-reducing medications is only appropriate in women determined to be at increased risk of breast cancer, the recommended threshold/cutpoint that should be used for classification of increased risk differs between the groups. ASCO recommends that, in order to be considered for risk-reducing medications, women should have a 5-year projected absolute breast cancer risk of &ge;1.66% according to the NCI Breast Cancer Risk Assessment Tool, or equivalent measures. USPSTF acknowledges that most clinical trials defined increased risk as a 5-year risk for invasive breast cancer of 1.66% or greater, as determined by the Breast Cancer Prevention Trial. At this cutoff, however, USPSTF states, many women would not have a net benefit from risk-reducing medications. According to the USPSTF, women with an estimated 5-year risk of <strong>3% or greater</strong> are, on the basis of model estimates (specifically, on the basis of the Freedman risk-benefit tables for women aged 50 years or older), more likely to benefit from tamoxifen or raloxifene. It is among women whose 5-year projected risk for breast cancer is 3% or greater that USPSTF recommends clinicians identify those for whom the potential benefits of risk-reducing medications may outweigh the potential risks and discuss the options with those women.</p>
+<h4>Women with LCIS</h4>
+<p>While the target populations of both guidelines exclude women with a personal history of breast cancer, including DCIS, applicability of the guidelines' recommendations to women with LCIS differs. ASCO cites LCIS as one of the indications that should prompt consideration of use of tamoxifen, raloxifene or exemestane, assuming the patient satisfies other eligibility criteria. The USPSTF recommendation statement specifies that it does not apply to women with a prior diagnosis of LCIS. The USPSTF reviewed evidence pertaining to women without preexisting breast cancer, precursor conditions, or known breast cancer susceptibility mutations.</p></div>
+			<h2 class="accordion-title is-active" id="505" role="tab" aria-expanded="true" aria-controls="syn505"><a href="#">Comparison of Recommendations</a></h2>
+			<div class="accordion-panel is-active" id="syn505" role="tabpanel" aria-labelledby="505" ><p><h3>Pharmacologic Interventions for Breast Cancer Risk Reduction in Women</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides a comparison of recommendations considered by each group">
+    <tbody>
+        <tr>
+            <th width="10%" valign="top" headers="pharmacologic">ASCO<br />
+            (2013)</th>
+            <td valign="top" style="width: 90%;" headers="pharmacologic">
+            <p><strong><em>Note from ASCO and NGC</em></strong>: Table 1 in the original guideline document (see the "Guideline Availability" field of the <a href="/content.aspx?id=47028" title="Guideline #9980" target="_blank">NGC summary</a>) contains a comparison between the 2009 recommendations and the new recommendations, as well as the strength of recommendation and strength of evidence for each recommendation.</p>
+            <p><strong><span style="text-decoration: underline;">Clinical Question</span></strong></p>
+            <p>Which pharmacologic interventions reduce the risk of developing breast cancer in women not previously diagnosed with breast cancer?</p>
+            <p><strong>SERMs</strong></p>
+            <p><em>Tamoxifen Recommendation</em></p>
+            <p>Tamoxifen (20 mg per day orally for 5 years) should be discussed as an option to reduce the risk of invasive breast cancer, specifically ER-positive breast cancer, in premenopausal and postmenopausal women who are age &ge;35 years with a 5-year projected absolute breast cancer risk &ge;1.66%, according to the National Cancer Institute (NCI) Breast Cancer Risk Assessment Tool (or equivalent measures), or with LCIS. The risk reduction benefit continues for at least 10 years in both premenopausal and postmenopausal women. Tamoxifen is not recommended for use in women with a history of deep vein thrombosis, pulmonary embolus, stroke, transient ischemic attack, or during prolonged immobilization. Tamoxifen is not recommended for women who are pregnant, women who may become pregnant, or nursing mothers. Tamoxifen is not recommended in combination with hormone therapy. Follow-up while on tamoxifen should include a timely workup of abnormal vaginal bleeding. Discussions with patients by health care providers should include both the risks and benefits of tamoxifen.</p>
+            <p><em>Raloxifene Recommendation</em></p>
+            <p>Raloxifene (60 mg per day orally for 5 years) should be discussed as an option to reduce the risk of invasive breast cancer, specifically ER-positive breast cancer, in postmenopausal women who are age &ge;35 years with a 5-year projected absolute breast cancer risk &ge;1.66%, according to the NCI Breast Cancer Risk Assessment Tool (or equivalent measures), or with LCIS. Raloxifene may be used longer than 5 years in women with osteoporosis, in whom breast cancer risk reduction is a secondary benefit. Raloxifene should not be used for breast cancer risk reduction in premenopausal women and is not recommended for use in women with a history of deep vein thrombosis, pulmonary embolus, stroke, transient ischemic attack, or during prolonged immobilization. Discussions with patients by health care providers should include both the risks and benefits of raloxifene.</p>
+            <p><strong>Aromatase Inhibitors</strong></p>
+            <p><em>Exemestane Recommendation</em></p>
+            <p>Exemestane (25 mg per day orally for 5 years) should be discussed as an alternative to tamoxifen and/or raloxifene to reduce the risk of invasive breast cancer, specifically ER-positive breast cancer, in postmenopausal women age &ge;35 years with a 5-year projected breast cancer absolute risk &ge;1.66%, according to the NCI Breast Cancer Risk Assessment Tool (or equivalent measures), or with LCIS or atypical hyperplasia. Exemestane should not be used for breast cancer risk reduction in premenopausal women. Discussions with patients and health care providers should include both the risks and benefits of each agent under consideration. Of note, exemestane is <a href="http://www.accessdata.fda.gov/drugsatfda_docs/label/2011/020753s009s011s012lbl.pdf"  target="_blank" title="FDA Web site">U.S. Food and Drug Administration (FDA) approved</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> only for the adjuvant treatment of early breast cancer and the treatment of advanced breast cancer, not for breast cancer risk reduction. </p>
+            <p><em>Anastrozole Recommendation</em></p>
+            <p>The Update Committee concluded that there was insufficient evidence to provide a recommendation for anastrozole to guide clinical practice.</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top" headers="pharmacologic">USPSTF<br />
+            (2013)</th>
+            <td valign="top" headers="pharmacologic">
+            <p><strong><span style="text-decoration: underline;">Summary of Recommendations and Evidence</span></strong></p>
+            <p>The USPSTF recommends that clinicians engage in shared, informed decision making with women who are at increased risk for breast cancer about medications to reduce their risk. For women who are at increased risk for breast cancer and at low risk for adverse medication effects, clinicians should offer to prescribe risk-reducing medications, such as tamoxifen or raloxifene. (<strong>B recommendation</strong>)</p>
+            <p>The USPSTF recommends against the routine use of medications, such as tamoxifen or raloxifene, for risk reduction of primary breast cancer in women who are not at increased risk for breast cancer. (<strong>D recommendation</strong>)</p>
+            <p><strong><span style="text-decoration: underline;">Clinical Considerations</span></strong></p>
+            <p><strong>Patient Population Under Consideration</strong></p>
+            <p>This recommendation applies to asymptomatic women aged 35 years or older without a prior diagnosis of breast cancer, DCIS, or LCIS. Neither tamoxifen nor raloxifene should be used in women who have a history of thromboembolic events (deep venous thrombosis, pulmonary embolus, stroke, or transient ischemic attack). The USPSTF has issued separate recommendations for women with BRCA gene mutations (available from the <a href="/Home/Disclaimer?id=48012&contentType=synthesis&redirect=http%3a%2f%2fwww.uspreventiveservicestaskforce.org%2f" title="USPSTF Web site">USPSTF Web site</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />).</p>
+            <p><strong>Assessment of Breast Cancer Risk</strong></p>
+            <p>If a family history of breast cancer or a personal history of breast biopsy is found during the usual patient assessment, clinicians may consider further evaluation using a breast cancer risk assessment tool. Risk assessment tools specifically for family history of breast cancer are available from the <a href="/Home/Disclaimer?id=48012&contentType=synthesis&redirect=http%3a%2f%2fwww.uspreventiveservicestaskforce.org%2f" title="USPSTF Web site">USPSTF Web site</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />.</p>
+            <p>The National Cancer Institute has developed a <a href="http://www.cancer.gov/bcrisktool/" title="Cancer.gov Web site"  target="_blank">Breast Cancer Risk Assessment Tool</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> that is based on the Gail model and estimates the 5-year incidence of invasive breast cancer in women on the basis of characteristics entered into a risk calculator. This tool helps identify women who may be at increased risk for the disease. Other risk assessment models have been developed by the Breast Cancer Surveillance Consortium (BCSC), Rosner and Colditz, Chlebowski, Tyrer and Cuzick, and others.</p>
+            <p>Examples of risk factors elicited by risk assessment tools include patient age, race or ethnicity, age at menarche, age at first live childbirth, personal history of DCIS or LCIS, number of first-degree relatives with breast cancer, personal history of breast biopsy, body mass index, menopause status or age, breast density, estrogen and progestin use, smoking, alcohol use, physical activity, and diet.</p>
+            <p>These models are not recommended for use in women with a personal history of breast cancer, a history of radiation treatment to the chest, or a possible family history of mutations in the BRCA1 or BRCA2 genes. Only a small fraction of women are at increased risk for breast cancer. Most who are at increased risk will not develop the disease, and most cases will arise in women who are not identified as being at increased risk. Risk assessment should be repeated when there is a significant change in breast cancer risk factors.</p>
+            <p>There is no single cutoff for defining increased risk. Most clinical trials defined increased risk as a 5-year risk for invasive breast cancer of 1.66% or greater, as determined by the BCPT. At this cutoff, however, many women would not have a net benefit from risk-reducing medications. Freedman and colleagues developed risk tables that incorporate the BCPT estimate of a woman's breast cancer risk as well as her age, race or ethnicity, and presence of uterus.</p>
+            <p>On the basis of the Freedman risk&ndash;benefit tables for women aged 50 years or older (see Figures 2 and 3 and Appendix Figures 1 and 2 in the original guideline document), the USPSTF concludes that many women with an estimated 5-year breast cancer risk of 3% or greater are likely to have more benefit than harm from using tamoxifen or raloxifene, although the balance depends on age, race or ethnicity, the medication used, and whether the patient has a uterus.</p>
+            <p><strong>Assessment of Risk for Adverse Effects</strong></p>
+            <p>In general, women receiving medications for breast cancer risk reduction are less likely to have venous thromboembolic events (VTEs) if they are younger and have no other predisposition to thromboembolic events. Women with a personal or family history of venous thromboembolism are at higher risk for these adverse effects.</p>
+            <p>Women without a uterus are not at risk for tamoxifen-related endometrial cancer. Women with a uterus should have a baseline gynecologic examination before treatment with tamoxifen is started, with regular follow-up after the end of treatment.</p>
+            <p><strong>Medications for Breast Cancer Risk Reduction</strong></p>
+            <p>SERMs (tamoxifen and raloxifene) have been shown to reduce the incidence of invasive breast cancer in several randomized, controlled trials. Tamoxifen has been approved for this use in women aged 35 years or older, and raloxifene has been approved for this use in postmenopausal women.</p>
+            <p>The usual daily doses for tamoxifen and raloxifene are 20 mg and 60 mg, respectively, for 5 years. Aromatase inhibitors (exemestane) have not been approved by the U.S. Food and Drug Administration (FDA) for this indication and are therefore beyond the scope of this recommendation.</p>
+            <p>Tamoxifen is not recommended for use in combination with hormone therapy or hormonal contraception or in women who are pregnant, may become pregnant, or are breastfeeding.</p>
+            <p><strong>Other Approaches to Prevention</strong></p>
+            <p>The USPSTF recommendation on risk assessment, genetic counseling, and genetic testing for BRCA-related cancer can be found at the <a href="/Home/Disclaimer?id=48012&contentType=synthesis&redirect=http%3a%2f%2fwww.uspreventiveservicestaskforce.org%2f" title="USPSTF Web site">USPSTF Web site</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. Clinical trials of tamoxifen and raloxifene have not been conducted specifically in women who are BRCA mutation carriers.</p>
+            <p><strong>Other Resources</strong></p>
+            <p>The National Cancer Institute provides information about potential ways to prevent cancer, including lifestyle and diet changes (available from the <a href="http://www.cancer.gov/cancertopics/pdq/prevention/breast/Patient" target="_blank" title="NCI Web site">National Cancer Institute Web site</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif"  /> and the <a href="http://www.cdc.gov/cancer/breast/basic_info/prevention.htm"  target="_blank" title="CDC Web site">CDC Web site</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />).</p>
+            <p>The USPSTF does not endorse any particular risk prediction model. However, the <a href="http://www.cancer.gov/bcrisktool/" title="Cancer.gov Web site"  target="_blank">BCPT model</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> and the <a href="/Home/Disclaimer?id=48012&contentType=synthesis&redirect=https%3a%2f%2ftools.bcsc-scc.org%2fBC5yearRisk%2f" title="Breast Cancer Surveillance Consortium Web site">BCSC model</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> can be used by clinicians and patients as part of the process of shared, informed decision making. Both models have been calibrated in U.S. populations.</p>
+            <p><strong><span style="text-decoration: underline;">Other Considerations</span></strong></p>
+            <p><strong>Implementation</strong></p>
+            <p>In order to identify patients for whom the potential benefits of risk-reducing medications may outweigh the potential risks, clinicians should first identify those who may be at increased risk for breast cancer (see Assessment of Breast Cancer Risk Status above).</p>
+            <p>Clinicians may use this opportunity to educate all women about their risk for breast cancer. Studies have shown that women tend to overestimate their risk for the disease.</p>
+            <p>For women whose 5-year projected risk for breast cancer is 3% or greater, clinicians should identify those for whom the potential benefits of risk-reducing medications may outweigh the potential risks. In doing so, clinicians should consider the woman's age, comorbid conditions, presence of uterus, and risks for thromboembolic or medication-related adverse events. Clinicians may refer to risk&ndash;benefit tables to complement clinical assessment (see Figures 2 and 3 and Appendix Figures 1 and 2 in the original guideline document).</p>
+            <p>Clinicians should clearly discuss the potential benefits and risks of risk-reducing medications with women for whom the former may outweigh the latter. Clinicians should then strive to ensure that patients make a fully informed decision that incorporates their personal values and preferences, including their concerns about breast cancer and specific medication-related adverse events.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></p></div>
+			<h2 class="accordion-title is-active" id="506" role="tab" aria-expanded="true" aria-controls="syn506"><a href="#">Strength of Evidence and Recommendation Grading Schemes</a></h2>
+			<div class="accordion-panel is-active" id="syn506" role="tabpanel" aria-labelledby="506" ><table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides the rating schemes used by the guideline groups to rate the level of evidence and/or the strength of the recommendations">
+    <tbody>
+        <tr>
+            <th width="10%" valign="top">ASCO<br />
+            (2013)</th>
+            <td valign="top" style="width: 90%;">
+            <p><strong>Ratings for the Strength of the Total Body of Evidence</strong></p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: Ratings for the Strength of the Total Body of Evidence">
+                <thead>
+                    <tr>
+                        <th valign="top">Rating</th>
+                        <th valign="top">Definition</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th valign="top">Strong</th>
+                        <td valign="top">High confidence that the available evidence reflects the true magnitude and direction of the net effect (e.g., balance of benefits versus harms) and further research is very unlikely to change either the magnitude or direction of this net effect.</td>
+                    </tr>
+                    <tr>
+                        <th valign="top">Moderate</th>
+                        <td valign="top">Moderate confidence that the available evidence reflects the true magnitude and direction of the net effect. Further research is unlikely to alter the direction of the net effect, however it might alter the magnitude of the net effect.</td>
+                    </tr>
+                    <tr>
+                        <th valign="top">Weak</th>
+                        <td>Low confidence that the available evidence reflects the true magnitude and direction of the net effect. Further research may change the magnitude and/or direction of this net effect.</td>
+                    </tr>
+                    <tr>
+                        <th valign="top">Insufficient</th>
+                        <td valign="top">Evidence is insufficient to discern the true magnitude and direction of the net effect. Further research may better inform the topic. Reliance on consensus opinion of experts may be reasonable to provide guidance on the topic until better evidence is available.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><strong>Ratings for the Strength of Recommendations</strong></p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: Ratings for the Strength of Recommendations">
+                <thead>
+                    <tr>
+                        <th valign="top">Rating for Strength of Recommendation</th>
+                        <th valign="top">Definition</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th valign="top">Strong</th>
+                        <td valign="top">There is high confidence that the recommendation reflects best practice. This is based on: a) strong evidence for a true net effect (e.g., benefits exceed harms); b) consistent results, with no or minor exceptions; c) minor or no concerns about study quality; and/or d) the extent of panelists' agreement. Other compelling considerations (discussed in the guideline's literature review and analyses) may also warrant a strong recommendation.</td>
+                    </tr>
+                    <tr>
+                        <th valign="top">Moderate</th>
+                        <td valign="top">There is moderate confidence that the recommendation reflects best practice. This is based on: a) good evidence for a true net effect (e.g., benefits exceed harms); b) consistent results, with minor and/or few exceptions; c) minor and/or few concerns about study quality; and/or d) the extent of panelists' agreement. Other compelling considerations (discussed in the guideline's literature review and analyses) may also warrant a moderate recommendation.</td>
+                    </tr>
+                    <tr>
+                        <th valign="top">Weak</th>
+                        <td valign="top">There is some confidence that the recommendation offers the best current guidance for practice. This is based on: a) limited evidence for a true net effect (e.g., benefits exceed harms); b) consistent results, but with important exceptions; c) concerns about study quality; and/or d) the extent of panelists' agreement. Other considerations (discussed in the guideline's literature review and analyses) may also warrant a weak recommendation.</td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">USPSTF<br />
+            (2013)</th>
+            <td valign="top">
+            <p><strong>What the U.S. Preventive Services Task Force (USPSTF) Grades Mean and Suggestions for Practice</strong></p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: What the U.S. Preventive Services Task Force (USPSTF) Grades Mean and Suggestions for Practice">
+                <thead>
+                    <tr>
+                        <th class="Center" valign="top" scope="col">Grade</th>
+                        <th class="Center" valign="top" scope="col">Grade Definitions</th>
+                        <th class="Center" valign="top" scope="col">Suggestions for Practice</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">A</td>
+                        <td valign="top">The USPSTF recommends the service. There is high certainty that the net benefit is substantial.</td>
+                        <td valign="top">Offer or provide this service.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">B</td>
+                        <td valign="top">The USPSTF recommends the service. There is high certainty that the net benefit is moderate or there is moderate certainty that the net benefit is moderate to substantial.</td>
+                        <td valign="top">Offer or provide this service.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">C</td>
+                        <td valign="top">The USPSTF recommends selectively offering or providing this service to individual patients based on professional judgment and patient preferences. There is at least moderate certainty that the net benefit is small.</td>
+                        <td valign="top">Offer or provide this service for selected patients depending on individual circumstances.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">D</td>
+                        <td valign="top">The USPSTF recommends against the service. There is moderate or high certainty that the service has no net benefit or that the harms outweigh the benefits.</td>
+                        <td valign="top">Discourage the use of this service.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">I<br />
+                        Statement</td>
+                        <td valign="top">The USPSTF concludes that the current evidence is insufficient to assess the balance of benefits and harms of the service. Evidence is lacking, of poor quality, or conflicting, and the balance of benefits and harms cannot be measured.</td>
+                        <td valign="top">Read "Clinical Considerations" section of USPSTF Recommendation Statement (see the "Major Recommendations" field). If the service is offered, patients should understand the uncertainty about the balance of benefits and harms.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <p><strong>USPSTF Levels of Certainty Regarding Net Benefit</strong></p>
+            <p><strong>Definition</strong>: The USPSTF defines <em>certainty</em> as "likelihood that the USPSTF assessment of the net benefit of a preventive service is correct." The net benefit is defined as benefit minus harm of the preventive service as implemented in a general, primary care population. The USPSTF assigns a certainty level based on the nature of the overall evidence available to assess the net benefit of a preventive service.</p>
+            <table role="presentation" border="1" cellspacing="1" cellpadding="3" summary="Table: USPSTF Levels of Certainty Regarding Net Benefit">
+                <thead>
+                    <tr>
+                        <th class="Center" valign="top" scope="col">Level of Certainty</th>
+                        <th class="Center" valign="top" scope="col">Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">High</td>
+                        <td valign="top">The available evidence usually includes consistent results from well-designed, well-conducted studies in representative primary care populations. These studies assess the effects of the preventive service on health outcomes. This conclusion is therefore unlikely to be strongly affected by the results of future studies.</td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">Moderate</td>
+                        <td valign="top">The available evidence is sufficient to determine the effects of the preventive service on health outcomes, but confidence in the estimate is constrained by factors such as:
+                        <ul style="list-style-type: disc;">
+                            <li>The number, size, or quality of individual studies </li>
+                            <li>Inconsistency of findings across individual studies </li>
+                            <li>Limited generalizability of findings to routine primary care practice; and </li>
+                            <li>Lack of coherence in the chain of evidence </li>
+                        </ul>
+                        As more information becomes available, the magnitude or direction of the observed effect could change, and this change may be large enough to alter the conclusion. </td>
+                    </tr>
+                    <tr>
+                        <td class="Center" valign="top" scope="row">Low</td>
+                        <td valign="top">The available evidence is insufficient to assess effects on health outcomes. Evidence is insufficient because of:
+                        <ul style="list-style-type: disc;">
+                            <li>The limited number or size of studies </li>
+                            <li>Important flaws in study design or methods </li>
+                            <li>Inconsistency of findings across individual studies </li>
+                            <li>Gaps in the chain of evidence </li>
+                            <li>Findings not generalizable to routine primary care practice; and </li>
+                            <li>A lack of information on important health outcomes </li>
+                        </ul>
+                        More information may allow an estimation of effects on health outcomes. </td>
+                    </tr>
+                </tbody>
+            </table>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="507" role="tab" aria-expanded="true" aria-controls="syn507"><a href="#">Methodology</a></h2>
+			<div class="accordion-panel is-active" id="syn507" role="tabpanel" aria-labelledby="507" ><table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides the comparison of methodology for each guideline in the synthesis">
+    <tbody>
+        <tr>
+            <th valign="top" colspan="2" scope="col"><em>Click on the links below for details of guideline development methodology</em> </th>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">
+            <p><strong><a href="/content.aspx?id=47028#405" title="Guideline #9980" target="_blank">ASCO</a><br />
+            (2013)</strong></p>
+            </td>
+            <td class="Center" valign="top">
+            <p><strong><a href="/content.aspx?id=47350#405" title="Guideline #10056" target="_blank">USPSTF</a><br />
+            (2013)</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" colspan="2">
+            <p>The guideline developers employed similar processes to collect the evidence in that both performed searches of electronic databases as well as hand-searches of published literature (primary and secondary sources). USPSTF also searched unpublished data. A systematic evidence review was prepared by the Oregon Evidence-based Practice Center (EPC), Oregon Health &amp; Science University for use by the USPSTF. Both groups provide details of the literature collection and selection process, including specific databases searched, date ranges applied, and any inclusion/exclusion criteria used. Both ASCO and USPSTF weighted the selected evidence according to a scheme (ASCO provides the scheme); USPSTF also employed expert consensus to assess the quality and strength of the evidence. The two guideline developers analyzed the evidence by performing a systematic review with evidence tables and reviewing published meta-analyses. Details of the process are provided by both ASCO and USPSTF.</p>
+            <p>To formulate the guideline recommendations, the developers employed expert consensus; USPSTF also used balance sheets. Both developers rated the strength of the formulated recommendations according to a scheme. Concerning issues of cost, neither guideline developer performed a formal cost analysis nor reviewed published cost analyses. To validate their guidelines, ASCO and USPSTF sought both external and internal peer review. USPSTF also compared its guideline with the ASCO guideline examined in this Synthesis, as well as with guidelines developed by the National Institute for Health and Care Excellence, the American Cancer Society, and the Canadian Task Force on Preventive Health Care.</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="509" role="tab" aria-expanded="true" aria-controls="syn509"><a href="#">Benefits and Harms</a></h2>
+			<div class="accordion-panel is-active" id="syn509" role="tabpanel" aria-labelledby="509" ><p><h3>Benefits</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides the benefits of implementation of the guidelines">
+    <tbody>
+        <tr>
+            <th width="10%" valign="top">ASCO<br />
+            (2013)</th>
+            <td valign="top" style="width: 90%;">
+            <p>Appropriate management of women at increased risk of breast cancer</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">USPSTF<br />
+            (2013)</th>
+            <td valign="top">
+            <p><strong>Potential Benefits of Medications for Breast Cancer Risk Reduction</strong></p>
+            <ul style="list-style-type: disc;">
+                <li>The USPSTF found adequate evidence that treatment with tamoxifen or raloxifene can significantly reduce the relative risk (RR) for invasive estrogen receptor (ER)-positive breast cancer in postmenopausal women who are at increased risk for breast cancer. </li>
+                <li>A systematic review of clinical trials found that tamoxifen and raloxifene reduced the incidence of invasive breast cancer by 7 to 9 events per 1000 women over 5 years and that tamoxifen reduced breast cancer incidence more than raloxifene (see Appendix Table 3 in the original guideline document). Tamoxifen also reduces the incidence of invasive breast cancer in premenopausal women who are at increased risk for the disease. </li>
+                <li>Women who are at increased risk for breast cancer are more likely to benefit from risk-reducing medications. In general, women with an estimated 5-year risk of 3% or greater are, on the basis of model estimates (see Figures 2 and 3 and Appendix Figures 1 and 2 in the original guideline document), more likely to benefit from tamoxifen or raloxifene. The USPSTF found that the benefits of tamoxifen and raloxifene for breast cancer risk reduction are no greater than small in women who are not at increased risk for the disease. </li>
+                <li>In addition to breast cancer risk reduction, the USPSTF found adequate evidence that tamoxifen and raloxifene reduce the risk for nonvertebral and vertebral fractures, respectively, in postmenopausal women. </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<h3>Harms</h3>
+<table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides the benefits of implementation of the guidelines">
+    <tbody>
+        <tr>
+            <th width="10%" valign="top">ASCO<br />
+            (2013)</th>
+            <td valign="top" style="width: 90%;">
+            <p><strong>Tamoxifen</strong></p>
+            <p>Serious adverse events associated with tamoxifen use include endometrial cancer, stroke, transient ischemic attack, venous thromboembolism, deep vein thrombosis, and pulmonary embolism. Two studies have also identified specific subgroups of women at increased risk of developing venous thromboembolism while on tamoxifen: women who are immobilized in the prior 3 months and/or women who have body mass index (BMI) &gt;25 kg/m<sup>2</sup>.</p>
+            <p><strong>Raloxifene</strong></p>
+            <p>Raloxifene is associated with a more favorable adverse effect profile compared with tamoxifen including a significantly lower risk of thromboembolic disease (statistically significant only for deep vein thrombosis) and uterine cancer and lower incidence of benign uterine hyperplasia, cataracts, and cataract surgery.</p>
+            <p><strong>Exemestane</strong></p>
+            <ul style="list-style-type: disc;">
+                <li>Table 6 in the original guideline document summarizes the key findings for adverse events in the MAP.3 trial. Overall, more adverse events occurred in the exemestane group compared with the placebo group of the MAP.3 trial. There were no statistically significant differences in the incidence of serious adverse events including cardiovascular events, skeletal fractures, other cancers, or treatment-related deaths. Statistically significant differences were observed for endocrine-related adverse events (i.e., hot flashes, fatigue, sweating, insomnia), constitutional and gastrointestinal (GI) events (i.e., diarrhea and nausea), and joint and muscle pain. </li>
+                <li>Results from a post hoc nested substudy of the MAP.3 trial demonstrated a statistically significant reduction in bone mineral density and cortical thickness at the distal tibia and distal radius, lumbar spine, total hip, and femoral neck. Compared with placebo, 2 years of treatment with exemestane worsened age-related bone loss in postmenopausal women, despite calcium and vitamin D supplementation. </li>
+                <li>Minimal differences in quality-of-life outcomes were observed between the exemestane and placebo groups. There was a statistically significant increase in the incidence of vasomotor symptoms, bodily pain, and sexual problems in women who took exemestane compared with women in the placebo group. </li>
+            </ul>
+            <p>Tables 3-6 in the original guideline document contain information on adverse events and side effects related to tamoxifen, raloxifene, and exemestane.</p>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">USPSTF<br />
+            (2013)</th>
+            <td valign="top">
+            <p><strong>Potential Harms of Medications for Breast Cancer Risk Reduction</strong></p>
+            <ul style="list-style-type: disc;">
+                <li>The USPSTF found adequate evidence that tamoxifen and raloxifene increase risk for venous thromboembolic events (VTEs) by 4 to 7 events per 1000 women over 5 years and that tamoxifen increases risk more than raloxifene (see Appendix Table 3 in the original guideline document). The USPSTF found that potential harms from thromboembolic events are small to moderate, with increased potential for harms in older women. </li>
+                <li>The USPSTF also found adequate evidence that tamoxifen but not raloxifene increases risk for endometrial cancer (4 more cases per 1000 women). Potential harms from tamoxifen-related endometrial cancer are small to moderate and depend on hysterectomy status and age. The potential risks for tamoxifen-related harms are higher in women older than 50 years and in women with a uterus. Tamoxifen may also increase the incidence of cataracts. </li>
+                <li>Vasomotor symptoms (hot flashes), a common adverse effect of both medications that is not typically classified as serious, may affect a patient's quality of life and willingness to use or adhere to these medications. </li>
+            </ul>
+            </td>
+        </tr>
+    </tbody>
+</table></p></div>
+			<h2 class="accordion-title is-active" id="510" role="tab" aria-expanded="true" aria-controls="syn510"><a href="#">Contraindications</a></h2>
+			<div class="accordion-panel is-active" id="syn510" role="tabpanel" aria-labelledby="510" ><table width="100%" border="1" cellspacing="1" cellpadding="8" summary="Table: Provides the contraindications for each guideline">
+    <tbody>
+        <tr>
+            <th width="10%" valign="top">ASCO<br />
+            (2013)</th>
+            <td valign="top" style="width: 90%;">
+            <ul style="list-style-type: disc;">
+                <li>Neither tamoxifen nor raloxifene is recommended for use in women with a personal history of deep vein thrombosis, pulmonary embolus, stroke, transient ischemic attack, or during prolonged immobilization, because of the increased risk of adverse events in these women. </li>
+                <li>Tamoxifen is not recommended for use in women who are, or may become, pregnant, or nursing mothers. </li>
+                <li>Neither raloxifene nor exemestane is recommended for use in premenopausal women. </li>
+            </ul>
+            </td>
+        </tr>
+        <tr>
+            <th valign="top">USPSTF<br />
+            (2013)</th>
+            <td valign="top">
+            <p>Not stated</p>
+            </td>
+        </tr>
+    </tbody>
+</table></div>
+			<h2 class="accordion-title is-active" id="511" role="tab" aria-expanded="true" aria-controls="syn511"><a href="#">Abbreviations</a></h2>
+			<div class="accordion-panel is-active" id="syn511" role="tabpanel" aria-labelledby="511" ><p>ASCO, American Society of Clinical Oncology</p>
+<p>BCPT, Breast Cancer Prevention Trial</p>
+<p>BCSC, Breast Cancer Surveillance Consortium</p>
+<p>CDC, Centers for Disease Control and Prevention</p>
+<p>DCIS, ductal carcinoma in situ</p>
+<p>ER, estrogen receptor</p>
+<p>FDA, Food and Drug Administration</p>
+<p>LCIS, lobular carcinoma in situ</p>
+<p>NGC, National Guideline Clearinghouse</p>
+<p>SERM, selective estrogen receptor modulator</p>
+<p>USPSTF, U.S. Preventive Services Task Force</p></div>
+			<h2 class="accordion-title is-active" id="512" role="tab" aria-expanded="true" aria-controls="syn512"><a href="#">Status</a></h2>
+			<div class="accordion-panel is-active" id="syn512" role="tabpanel" aria-labelledby="512" ><p>This synthesis was prepared by ECRI Institute on April 11, 2014. The information was verified by ASCO on May 5, 2014 and by USPSTF on May 15, 2014.</p></div>
+	</div><!-- accordion-container -->
+
+<!-- ASIDE -->
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	<!-- About NGC -->
+	<div class="info-block">
+			<h3 class="info prefix-icon large-icon">About NGC Guideline Syntheses</h3>
+			<p>Syntheses are systematic comparisons of selected guidelines that address similar topics. For definitions of synthesis attributes, see the 
+                <a href="/syntheses/template">Guideline Synthesis Template</a>.    
+            </p>
+	</div><!-- /info-block -->
+	<hr>
+
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+        <h3 class="subscribe-title">New on NGC</h3>
+		<ul class="subscribe-links">
+            <li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+            <li><a href="/rssFiles/ngc_newthisweek.xml" class="rss icon-feed"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div><!-- /.subscribable -->
+
+	<!-- New this Week -->
+	<a href="/new-this-week" class="block-link">
+		<h4>New this Week</h4>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

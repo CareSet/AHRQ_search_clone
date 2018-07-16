@@ -1,0 +1,560 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Importance of Quality Metrics for Providing High Quality Melanoma Care | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>November 05, 2012</li>
+			</ul>
+			<h1>Importance of Quality Metrics for Providing High Quality Melanoma Care</h1>
+			<p class="byline">By: Karl Y. Bilimoria, MD, MS</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/38616/importance-of-quality-metrics-for-providing-high-quality-melanoma-care" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/38616/importance-of-quality-metrics-for-providing-high-quality-melanoma-care" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/38616/importance-of-quality-metrics-for-providing-high-quality-melanoma-care&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Importance of Quality Metrics for Providing High Quality Melanoma Care&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/38616/importance-of-quality-metrics-for-providing-high-quality-melanoma-care" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (0)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>Melanoma incidence is increasing faster than any other malignancy in the United States, particularly in the elderly population. As patients are relatively young at presentation, deaths due to melanoma account for a considerable number of years of life lost. (<a href="#ref">1,2</a>) However, recent advances in the treatment of melanoma have been cause for some excitement. Sentinel lymph node biopsy (SLNB) has revolutionized the surgical management of melanoma patients by allowing selective use of lymphadenectomy in only those patients with positive sentinel nodes, dramatically reducing morbidity and cost of surgical treatment. (<a href="#ref">3,4</a>) For the first time in decades, new systemic therapies leveraging the immune system and molecular targets have been found to be promising and have recently received approval from the Food and Drug Administration. (<a href="#ref">5</a>) In addition, new prognostic factors are being used to change how melanoma is staged and treated. (<a href="#ref">6</a>)</p>
+<p>To facilitate incorporation of these practices into clinical practice, several organizations have put forth clinical treatment guidelines for melanoma, including the National Comprehensive Cancer Network (NCCN), Society of Surgical Oncology (SSO), and the American Society of Clinical Oncology (ASCO). (<a href="#ref">7,8</a>) For more than 10 years, the NCCN has published detailed consensus guidelines to assist with diagnostic, treatment, and surveillance decisions for multiple malignancies, including melanoma.</p>
+<p>Despite the dissemination of these guidelines, several studies have documented a widespread, poor adherence to recommended treatment guidelines. (<a href="#ref">9-11</a>) Perhaps the guidelines are never seen by those physicians most in need of reviewing them &mdash; those who infrequently treat melanoma patients and who do not engage in multidisciplinary conferences, attend relevant national meetings, or review the related literature. Moreover, access to guidelines may be limited, such as for those physicians at non-NCCN centers and for non-ASCO members who may not receive email updates about guideline releases and revisions. Studies examining data from the Surveillance Epidemiology and End Results (SEER) database and the National Cancer Data Base (NCDB) have demonstrated that SLNB is underutilized in patients for whom guidelines recommend the procedure, such as those with intermediate-thickness melanomas. (<a href="#ref">9-11</a>) In multiple studies, only approximately 50% of patients with intermediate-thickness melanomas were found to undergo a SLNB (<a href="#ref">9-11</a>) This is further demonstrated by single institution series which have bravely shown that melanoma surgical treatment guidelines are frequently not followed at their own centers, even at teaching hospitals, especially for SLNB. (<a href="#ref">12,13</a>) Similar issues have been identified in the appropriate use of completion lymph node dissection (i.e., removal of all lymph nodes in a nodal basin) following a positive SLNB. Using national cancer registry data, we found that only 50% of patients underwent a completion lymph node dissection (CLND) when indicated, though this rate was higher at specialized centers. (<a href="#ref">11,14</a>) Thus, a large proportion of patients with a positive sentinel lymph node are not undergoing a CLND as recommended. The reasons for this are unclear, but lymphadenectomies, particularly of the inguinal nodal basin, are morbid procedures, and patients and surgeons may have nihilistic attitudes regarding the short-term complications and the long-term durability of these procedures. Some use prognostic models which include tumor burden in the sentinel lymph node and primary tumor factors to justify avoiding a CLND. Nonetheless, CLND is currently the standard of care following a positive SLNB.</p>
+<p>To address these and other quality of care problems, several groups have introduced melanoma quality metrics. For example, we previously assembled an international, multidisciplinary expert panel to identify melanoma quality metrics using a modified-Delphi approach. (<a href="#ref">15</a>) Of the 55 potential indicators, 26 were found to be acceptable. Indicator statements, upon which quality measures can be based, are presented in <a href="#table1">Table 1</a>. In addition, we assessed adherence to these indicator statements at more than 1,400 hospitals accredited by the American College of Surgeons Commission on Cancer. Adherence to many of the indicator statements was found to be relatively low at these centers, and most hospitals were adherent with 50% or fewer of the individual indicators. Performance on these metrics will be reported back to participating hospitals to help spur targeted quality improvement as is done through the Commission on Cancer's quality reporting tools, the Rapid Quality Reporting System (RQRS), the Cancer Program Practice Profile Reports (CP3R), and ASCO's Quality Oncology Practice Initiative. (<a href="#ref">16</a>)</p>
+<p>In addition to the reporting of results back to individual participating hospitals, a potentially more effective version of this approach involves the public reporting of performance data. This approach has been shown to successfully spur quality improvement. (<a href="#ref">17,18</a>) Moreover, reporting of quality metrics or requiring a specific level of performance can be tied to reimbursement in pay-for-performance or value-based purchasing programs, though the effectiveness of this approach is less clear. (<a href="#ref">19,20</a>) Although melanoma quality metrics have not been included in public reporting and pay-for-performance initiatives, the American Medical Association's Physician Consortium for Performance Improvement (PCPI) has put forth melanoma quality metrics related to coordination of care and appropriate use of imaging. The Centers for Medicare and Medicaid Services Physician Quality Reporting System (PQRS) now includes these metrics. Thus, physicians treating melanoma will be required to report on their adherence to these metrics. (<a href="#ref">21</a>)</p>
+<p>Data capture and feedback systems are good initial steps to improve the quality of care, but such approaches are retrospective and do not benefit patients who are about to undergo treatment for melanoma. Instead, quality of care needs to be ensured prospectively for each patient. For years, payers have required justification and preauthorization for certain medical tests (e.g., positron emission tomography [PET] scans). If any questions arise about whether the test is needed, a peer-to-peer discussion is required to investigate further. One option to improve the quality of melanoma care would be to require preapproval from the payer for the specific procedure to be performed based on information about the patient and his/her melanoma. If the surgical approach is justified, then insurance preauthorization is complete. If there is any uncertainty about the procedure, a peer-to-peer discussion can be undertaken. This would address overuse and underuse of SLNB, insufficient or excessive margins, and appropriate regional nodal surgery. We are developing such a system for melanoma care with the hope of prospectively ensuring appropriate, high-quality melanoma care in a prospective fashion that benefits patients about to be treated for melanoma. Ensuring high quality melanoma care will be challenging, but development and iterative adaptations of quality metrics are a critical first step.</p>
+<hr />
+<p><strong>Author</strong></p>
+<p><strong>Karl Y. Bilimoria, MD, MS</strong><br />
+Surgical Outcomes and Quality Improvement Center, Department of Surgery; Northwestern Institute for Comparative Effectiveness Research in Oncology, Robert H. Lurie Comprehensive Cancer Center; Center for Healthcare Studies; Feinberg School of Medicine, Northwestern University, Chicago, IL</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Quality Measures Clearinghouse<sup>&trade;</sup> (NQMC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor ECRI Institute.</p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>Dr. Bilimoria declared no potential conflicts of interest with respect to this expert commentary.</p>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Desmond RA, Soong SJ. Epidemiology of malignant melanoma. <em>Surg Clin North Am</em>. 2003 Feb;83(1):1-29. </li>
+    <li>Horm JW, Sondik EJ. Person-years of life lost due to cancer in the United States, 1970 and 1984. <em>Am J Public Health</em>. 1989 Nov;79(11):1490-3. </li>
+    <li>Morton DL, Thompson JF, Cochran AJ, et al. Sentinel-node biopsy or nodal observation in melanoma. <em>N Engl J Med</em>. 2006 Sep 28;355(13):1307-17. </li>
+    <li>Gershenwald JE, Ross MI. Sentinel-lymph-node biopsy for cutaneous melanoma. <em>N Engl J Med</em>. 2011 May 5;364(18):1738-45. </li>
+    <li>Bhatia S, Thompson JA. Systemic therapy for metastatic melanoma in 2012: dawn of a new era. <em>J Natl Compr Canc Netw</em>. 2012 Mar;10(3):403-12. </li>
+    <li>Balch CM, Gershenwald JE, Soong SJ, et al. Final version of 2009 AJCC melanoma staging and classification. <em>J Clin Oncol</em>. 2009 Dec 20;27(36):6199-206. </li>
+    <li>Sutherland CM, Chmiel JS, Henson DE, Winchester DP. Patient characteristics, methods of diagnosis, and treatment of mucous membrane melanoma in the United States of America. <em>J Am Coll Surg</em>. 1994 Nov;179(5):561-6. </li>
+    <li>Wong SL, Balch CM, Hurley P, et al. Sentinel lymph node biopsy for melanoma: American Society of Clinical Oncology and Society of Surgical Oncology joint clinical practice guideline. <em>Ann Surg Oncol</em>. 2012 Jul 6. </li>
+    <li>Bilimoria KY, Balch CM, Wayne JD, et al. Health care system and socioeconomic factors associated with variance in use of sentinel lymph node biopsy for melanoma in the United States. <em>J Clin Oncol</em>. 2009 Apr 10;27(11):1857-63. </li>
+    <li>Cormier JN, Xing Y, Ding M, et al. Population-based assessment of surgical treatment trends for patients with melanoma in the era of sentinel lymph node biopsy. <em>J Clin Oncol</em>. 2005 Sep 1;23(25):6054-62. </li>
+    <li>Wasif N, Gray R, Pockaj B. Report card for compliance with NCCN guidelines in the surgical management of cutaneous melanoma across the United States: Time for remedial classes? Paper presented at: American Society of Clinical Oncology Annual Meeting 2010; Chicago. </li>
+    <li>Erickson JL, Velasco JM, Hieken TJ. Compliance with melanoma treatment guidelines in a community teaching hospital: time trends and other variables. <em>Ann Surg Oncol</em>. 2008 Apr;15(4):1211-7. </li>
+    <li>Ashley I, Jubelirer S, Welch C. The treatment of primary melanoma at a community teaching hospital: a study of compliance with NCCN guidelines. Paper presented at: American Society of Clinical Oncology Annual Meeting 2011; Chicago. </li>
+    <li>Bilimoria KY, Balch CM, Bentrem DJ, et al. Complete lymph node dissection for sentinel node-positive melanoma: assessment of practice patterns in the United States. <em>Ann Surg Oncol</em>. 2008 Jun;15(6):1566-76. </li>
+    <li>Bilimoria KY, Raval MV, Bentrem DJ, Wayne JD, Balch CM, Ko CY. National assessment of melanoma care using formally developed quality indicators. <em>J Clin Oncol</em>. 2009 Nov 10;27(32):5445-51. </li>
+    <li>Raval MV, Bilimoria KY, Stewart AK, Bentrem DJ, Ko CY. Using the NCDB for cancer care improvement: an introduction to available quality assessment tools. <em>J Surg Oncol</em>. 2009 Jun 15;99(8):488-90. </li>
+    <li>Fung CH, Lim YW, Mattke S, Damberg C, Shekelle PG. Systematic review: the evidence that publishing patient care performance data improves quality of care. <em>Ann Intern Med</em>. 2008 Jan 15;148(2):111-23. </li>
+    <li>Chassin MR. Achieving and sustaining improved quality: lessons from New York State and cardiac surgery. <em>Health Aff (Millwood)</em>. 2002 Jul-Aug;21(4):40-51. </li>
+    <li>Ryan A, Blustein J. Making the best of hospital pay for performance. <em>N Engl J Med</em>. 2012 Apr 26;366(17):1557-9. </li>
+    <li>Ryan AM, Nallamothu BK, Dimick JB. Medicare's public reporting initiative on hospital quality had modest or no impact on mortality from three key conditions. <em>Health Aff (Millwood)</em>. 2012 Mar;31(3):585-92. </li>
+    <li>Centers for Medicare &amp; Medicaid Services. Physician Quality Reporting System. Available at <a href="http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/PQRS/index.html"  target="_blank" title="CMS Web site">http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/PQRS/index.html</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. Accessed August 8, 2012. </li>
+</ol>
+<hr />
+<a name="Table1"></a>
+<p><strong>Table 1</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Indicator Statement">
+    <thead>
+        <tr>
+            <th valign="top">
+            <p>Indicator Statement</p>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">
+            <p>IF a surgeon performs SLNB or LND for melanoma, THEN the surgeon must be certified by the American Board of Surgery or equivalent board or international association</p>
+            <p>IF a patient has a melanoma in situ (Tis), THEN the surgical excision margins must be 5 mm (or the specific anatomic or cosmetic factors limiting margin distance should be noted)</p>
+            <p>IF a patient has a melanoma, THEN the surgeon must document the measured surgical margin in the operative report</p>
+            <p>IF a patient has a melanoma, THEN the clear histologic margin must be documented</p>
+            <p>IF a patient has a melanoma &lt;=1 mm thick (T1), THEN the surgical excision margins must be 1 cm (or the specific anatomic or cosmetic factors limiting margin distance should be noted)</p>
+            <p>IF a patient has a melanoma 1-2 mm thick (T2), THEN the surgical excision margins must be 1-2 cm (or the specific anatomic or cosmetic factors limiting margin distance should be noted)</p>
+            <p>IF a patient has a melanoma &gt;=2 mm thick (T3 or T4), THEN the surgical excision margins must be 2-3 cm (or the specific anatomic or cosmetic factors limiting margin distance should be noted)</p>
+            <p>IF a patient is to undergo a SLNB, THEN lymphosyntigraphy must be performed to identify the draining nodal basin(s) when drainage to more than one basin is possible.</p>
+            <p>IF a patient undergoes a SLNB, THEN the SLNs must be sent for permanent sectioning only (no frozen sections), unless a reason is documented.</p>
+            <p>IF a patient undergoes a SLNB, THEN the SLNs must be examined with serial sectioning/H&amp;E and IHC if the H&amp;E analysis is negative or equivocal (i.e., S-100, HMB-45, and MART-1)</p>
+            <p>IF a patient has a Stage Ib or II melanoma, SLNB must be discussed with the patient.</p>
+            <p>IF a patient has clinically apparent/palpable lymphadenopathy, THEN a LND must not be performed without an antecedent histologic diagnosis</p>
+            <p>IF a patient undergoes a cervical LND or CLND, THEN at least 15 regional lymph nodes must be resected and pathologically examined</p>
+            <p>IF a patient undergoes an axillary LND or CLND, THEN at least 10 regional lymph nodes must be resected and pathologically examined</p>
+            <p>IF a patient undergoes an inguinal LND or CLND, THEN at least 5 regional lymph nodes must be resected and pathologically examined</p>
+            <p>IF a patient has a melanoma, THEN the pathology report must document Breslow thickness, Clark level, histologic ulceration, peripheral/radial and deep margin status, satellitosis, anatomic location of the lesion, regression, and mitotic rate</p>
+            <p>IF a patient has a melanoma, THEN the pathology report must document Breslow thickness, Clark level, histologic ulceration, peripheral/radial and deep margin status, satellitosis, regression, and mitotic rate</p>
+            <p>IF a patient undergoes a SLNB or LND for melanoma, THEN the pathology report must document the number of lymph nodes examined and the number of lymph nodes found to contain metastases</p>
+            <p>IF a patient has clinically palpable nodal disease of the inguinofemoral nodes, THEN a pelvic CT or PET must be obtained to rule out pelvic lymphadenopathy</p>
+            <p>IF a patient has a resected primary melanoma metastatic to regional lymph nodes or distant sites, THEN the patient must have a documented discussion regarding adjuvant therapy</p>
+            <p>IF a patient has a Stage 0, I or IIA melanoma, THEN an abdominal CT/MRI, pelvic CT/MRI, or PET scan are NOT indicated unless in response to specific signs or symptoms</p>
+            <p>If a patient is newly diagnosed with Stage IV melanoma, THEN a serum LDH level must be measured</p>
+            <p>IF a melanoma patient has biopsy-proven or palpable nodal disease and no evidence of distant metastases, THEN the patient must undergo a LND</p>
+            <p>IF a patient has a metastatic lymph node detected on SLNB, THEN a CLND must be performed except in the context of a clinical trial or if the patient has severe comorbidities</p>
+            <p>IF a melanoma patient has biopsy-proven palpable nodal disease, THEN the patient should not undergo SLNB</p>
+            <p>IF a patient is treated for melanoma, THEN stage-specific follow-up including future skin exams should be discussed and documented</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p class="Note">SLNB: sentinel lymph node biopsy; SLN: sentinel lymph node; CLND: completion lymph node dissection; LND: lymph node dissection; LDH: lactate dehydrogenase</p>
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011399</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51322/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-patients-irrespective-of-frequency-of-dialysis-with-documented-monthly-npcr-measurements">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis patients (irrespective of frequency of dialysis) with documented monthly nPCR measurements.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011398</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51321/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-home-hemodialysis-and-peritoneal-dialysis-patients-who-have-monthly-measures-for-hemoglobin-during-the-reporting-period">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis, home hemodialysis, and peritoneal dialysis patients who have monthly measures for hemoglobin during the reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011397</li>
+            <li>May 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51319/end-stage-renal-disease-esrd-percentage-of-adult-hemodialysis-patientmonths-using-a-catheter-continuously-for-three-months-or-longer-for-vascular-access">End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011396</li>
+            <li>Apr 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51318/end-stage-renal-disease-esrd-adjusted-percentage-of-adult-hemodialysis-patientmonths-using-an-autogenous-arteriovenous-fistula-avf-as-the-sole-means-of-vascular-access">End stage renal disease (ESRD): adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula (AVF) as the sole means of vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011395</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51317/end-stage-renal-disease-esrd-percentage-of-all-peritoneal-dialysis-and-hemodialysis-patientmonths-with-serum-or-plasma-phosphorus-measured-at-least-once-within-the-month">End stage renal disease (ESRD): percentage of all peritoneal dialysis and hemodialysis patient-months with serum or plasma phosphorus measured at least once within the month.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

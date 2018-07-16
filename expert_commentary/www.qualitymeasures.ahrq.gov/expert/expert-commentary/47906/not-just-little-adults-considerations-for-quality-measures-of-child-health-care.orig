@@ -1,0 +1,642 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Not Just Little Adults: Considerations for Quality Measures of Child Health Care | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>April 07, 2014</li>
+			</ul>
+			<h1>Not Just Little Adults: Considerations for Quality Measures of Child Health Care</h1>
+			<p class="byline">By: Jean Raphael, MD, MPH, Matthew Sadof, MD, Christopher Stille, MD, MPH, Sara Toomey, MD, David Keller, MD</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/47906/not-just-little-adults-considerations-for-quality-measures-of-child-health-care" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/47906/not-just-little-adults-considerations-for-quality-measures-of-child-health-care" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/47906/not-just-little-adults-considerations-for-quality-measures-of-child-health-care&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Not Just Little Adults: Considerations for Quality Measures of Child Health Care&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/47906/not-just-little-adults-considerations-for-quality-measures-of-child-health-care" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (1)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p><em>This is the second of two commentaries addressing the needs of children and families in the emerging, rapidly evolving medical home model of care. This commentary discusses priorities for quality measurement in pediatric care. The <a href="/expert/expert-commentary.aspx?id=47896" title="Expert Commentary">previous commentary</a> discussed policies that are needed to provide better pediatric care</em>.</p>
+<p>The Patient Protection and Affordable Care Act of 2010 (ACA) seeks to incentivize the development of integrated health care systems &ndash; most prominently based on the model of the Patient-Centered Medical Home (PCMH) &ndash; that deliver higher quality, lower cost, and better coordinated care. Routine measurement of health care quality and costs will facilitate system transformation aimed at meeting these goals.</p>
+<p>To ensure that children are part of the systems currently under development, measurement of quality and costs under the PCMH and related models must take into account the "Five Ds." Originally conceptualized by Forrest and colleagues (<a href="#ref">1</a>) and subsequently outlined by the American Academy of Pediatrics (AAP) Academic Pediatric Association (APA) Task Force on Family-Centered Medical Home, (<a href="#ref">2</a>) these factors include: Development, Dependency, Differential Epidemiology, Demographics and Dollars. In this commentary, we will briefly review the "Five Ds," which define the major differences between U.S. children and adults from the perspectives of health and health care. We will then examine their relevance to the metrics likely to be used in the implementation of the PCMH, including measures of fidelity to the PCMH model and quality measures by which payers are likely to judge success in the domains of structure, process, access, outcome, and patient experience.</p>
+<p><strong>Review of the "Five Ds"</strong></p>
+<p><strong><em>Development</em></strong>: The presentation, clinic course, treatment, and impact of disease in childhood are affected by development, as a child moves from infancy to young adulthood. Small interventions early on have the potential to dramatically affect long-term outcomes. For example, early recognition of developmental delay and timely referral to early intervention services can lead to improved school success. (<a href="#ref">3,4</a>) It is becoming increasingly clear that early childhood trauma impacts adult health. (<a href="#ref">5</a>) Tools for longitudinal outcome measurement need to be developed in order to facilitate documentation of better quality and lower cost care as children move through the life cycle.</p>
+<p><strong><em>Dependency</em></strong>: Children exist within family units and depend on parents and other adults. Therefore, the health and functioning of the family substantially impacts the health of the child. For instance, given the importance of maternal health to infants, screening for maternal depression may be an appropriate pediatric measure, even though the child is not the direct focus. The scope of measurement changes over time, as children grow older and autonomy increases. The usual criteria of independence of functioning used in adult health outcomes are of limited use in this rapidly changing population.</p>
+<p><strong><em>Differential Epidemiology</em></strong>: Most PCMHs have a small (&lt;5%) number of children with very complex special health care needs (CSHCN) who account for a high proportion of health expenditures. (<a href="#ref">6</a>) In contrast to adults, for whom treatment of a few prevalent conditions contributes substantially to health care costs, CSHCN have a much wider range of less common conditions (e.g., cystic fibrosis, sickle cell disease), making it challenging to develop chronic disease protocols with wide applicability in primary care practice. (<a href="#ref">1</a>) This characteristic of CSHCN creates difficulties in achieving meaningful sample sizes for measures specific to any one condition and necessitates the development of measures using a "non-categorical" approach (e.g., use of prescription medication to manage condition, elevated service need, functional limitations) applicable across a wide variety of conditions. (<a href="#ref">7,8</a>) Further, while common conditions such as asthma and obesity lend themselves to practice guidelines, they often change in severity or resolve altogether during childhood. (<a href="#ref">9</a>) Finally, CSHCN often require care coordination with providers beyond health care system (e.g., school systems) for optimal management. Despite the growing numbers of CSHCN, most children do not have a chronic disease. PCMHs must therefore emphasize primary prevention in addition to chronic disease management.</p>
+<p><strong><em>Demographics</em></strong>: U.S. children are more likely to be poor and less likely to be white than the adult population. According to the 2010 Census, racial and ethnic minorities comprise 46% of U.S. children. The percentage of children of Hispanic origin is growing faster than any other minority population. (<a href="#ref">10</a>) In addition, more than 20% of America's children experience poverty. (<a href="#ref">11</a>) Therefore, public insurance plays a larger role for children relative to adults. The different demographics between children and adults do raise issues when applying adult-derived case-mix adjustment models to children. Any model used to compare care provided to children should employ case-mix adjustment developed for pediatric use. Separately, the vulnerability of children necessitates that measures appropriately monitor health disparities and address social determinants of health. (<a href="#ref">12</a>) The diversity of the health beliefs within families of U.S. children presents a significant challenge in assuring that measurement instruments minimize cultural assumptions and capture the well-being of children as perceived among diverse communities.</p>
+<p><strong><em>Dollars</em></strong>: Policy makers in the current political environment seek large, short-term cost savings in health spending, which may be difficult to achieve among children. Compared to programs for adults, children's health programs are relatively inexpensive and unlikely to contribute to immediate return on investment (ROI) within the health care sector. To accurately account for the ROI of the PCMH, there needs to be metrics that account for the long-term benefits to society. (<a href="#ref">13,14</a>) The current adult-focused approach may effectively marginalize the importance of child health outcomes and miss opportunities to recognize and make gains over the long term.</p>
+<p>The "Five Ds" provides a useful framework for examining the potential impact of PCMH measures on child health care delivery and for informing policy makers' decisions regarding changes in payment policy. By critically examining our current PCMH measures with an eye toward the needs of children, we can define a research agenda on the development of future measures in child and adolescent health.</p>
+<p><strong>Application of the "Five Ds" to Measurement of Quality and Outcome</strong></p>
+<p>The evolution of new care and payment models for the PCMH requires a new framework for evaluating the quality of care. Clinical quality measurement is often divided into five domains: structure, process, outcome, access, and patient experience (see <a href="#table">Table 1</a>). To accurately assess the value of pediatric care, we suggest that each domain, when applicable, must reflect the "Five Ds." Integrating these factors poses challenges but also new opportunities for measure developers and those promoting the use of metrics from the five domains in alternative payment models. Below we propose examples of measures that take into account children's needs.</p>
+<p><strong><em>Structure</em></strong>: Structure measures characterize a health care organization's ability to provide high quality care. Metrics are needed in assessing the degree of adoption of electronic medical records and computerized physician order entry, critical tools in this era of advancing information technology. (<a href="#ref">15</a>) Specific financial, legal, and ethical dilemmas arise with the use of electronic medical records and steps need to be taken to protect both adolescent and parental confidentiality as patients emerge from childhood to young adulthood. (<a href="#ref">16</a>) The availability of night-time and weekend clinical services provides another structure-focused metric that also reflects access to care. Measures, when developed, should evaluate the availability of health care services, such as nursing triage, on-call physicians, after-hours clinic operation, and email and text messaging communication. Availability of medical interpreter services represents a structural measure of cultural competency. </p>
+<p><strong><em>Process</em></strong>: Process of care measures can effectively assess the degree to which providers adhere to recommended health care activities. (<a href="#ref">17</a>) As such, they often provide the foundation for measuring the PCMH. For example, a process measure assessing developmental screening would be the proportion of children screened for autism by 2 years of age. Disease-specific process measures are also applicable, such as the proportion of children with moderate persistent asthma prescribed daily inhaled glucocorticoid therapy. However, such measures may need to be customized to children's developmental stage. For instance, diagnosis and management of persistent asthma in a 2 year old is often more challenging than in an 8 year old. As a result, suitable performance targets may be different and age specific.</p>
+<p><strong><em>Access</em></strong>: Access to care refers to the achievement of timely and appropriate health care services by patients, and appropriate measures vary according to the needs of distinct groups of children. For access to primary care, a measure may focus on the proportion of school-age children with a well-child visit with their primary care provider in the previous 12 months. For those with developmental difficulties, an important access measure would be the proportion of children identified to be at risk and referred to an Early Intervention Program. For CSHCN, access to subspecialty care may be particularly important; an appropriate measure could be the proportion of children in need of subspecialty care who had a subspecialist visit within the last 12 months.</p>
+<p><strong><em>Outcome</em></strong>: Determining outcomes of care, defined as attainment of health states resulting from health care, often proves challenging, as it requires a clear, temporal relationship between health care service and the outcome, as well as risk-adjustment for different populations. Risk-adjustment in pediatric populations must account for development over time and dependence of children on adults and demographics. Culture, race, ethnicity and parental beliefs all play a role in both adherence to recommended treatments and health outcomes, and risk-adjustment models must incorporate them to ensure adequate resource allocation and health equity. Adult outcome measures are usually based on morbidity or mortality in the short-term. Relevant outcomes for children often take much longer to develop. The differential epidemiology of chronic conditions in childhood makes improvement in the care of CSHCN more difficult to measure. Nonclinical measures, such as school days missed due to illness, may serve as important proxy outcomes to assess over time.</p>
+<p><strong><em>Patient Experience</em></strong>: The collection of information of the care experience of a child usually involves perceptions and observations of family members collected though surveys. Child health measures must carefully define whose perspective is being sought (i.e., the child, the parent or both) and who is best able to provide that information, e.g., the parent or the adolescent. Some of the strongest existing measures for children's health capture both patient and family experience, including the CAHPS tools, (<a href="#ref">18</a>) the National Survey of Children's Health, (<a href="#ref">19</a>) the National Survey of Children with Special Health Care Needs, (<a href="#ref">19</a>) and the Young Adult Health Care Survey. (<a href="#ref">20</a>) In most cases, dependency requires that the parent respond to these measures for their children, limiting, to some extent, the ability to directly measure a child's experience with care. Additionally, continued efforts to measure health related quality of life from the perspective of the child provide promise for future assessment. (<a href="#ref">21</a>) The expense of survey-based data collection poses a significant financial obstacle to routine implementation. Nonetheless, patient and family experience is important enough for children that its measurement warrants investment.</p>
+<p><strong>Conclusion</strong></p>
+<p>PCMH measures used for assessing health care quality among adults cannot be uniformly applied to children. Viewing the fundamental differences between pediatric and adult health through the model of the "Five Ds" can provide a research framework for developing meaningful measures of health care quality in childhood. Such efforts will more fully address the unique aspects of childhood and recognize the need for both short and long-term metrics of quality.</p>
+<hr />
+<p><strong>Authors</strong></p>
+<p><strong>Jean L. Raphael, MD, MPH</strong><br />
+Department of Pediatrics, Baylor College of Medicine, Houston, TX</p>
+<p><strong>Matthew Sadof, MD</strong><br />
+Baystate Children's Hospital, Tufts University School of Medicine, Springfield, MA</p>
+<p><strong>Christopher Stille, MD, MPH</strong><br />
+University of Colorado School of Medicine, Children's Hospital Colorado, Aurora, CO</p>
+<p><strong>Sara Toomey, MD</strong><br />
+Boston Children's Hospital, Boston, MA</p>
+<p><strong>David Keller, MD</strong><br />
+University of Colorado School of Medicine, Children's Hospital Colorado, Aurora, CO</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Quality Measures Clearinghouse&trade; (NQMC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor ECRI Institute.</p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>Drs. Raphael and Toomey state no personal financial, business or professional conflicts of interest nor any family conflict of interest with respect to this expert commentary.</p>
+<p>Drs. Sadof, Stille, and Keller state no personal financial or family conflict of interest with respect to this expert commentary. They state business and profession interest as noted below:</p>
+<ul style="list-style-type: disc;">
+    <li>Dr. Sadof: American Academy of Pediatrics (AAP)/American Academy of Pediatrics (AAP) Medical Home Work Group; American Academy for Cerebral Palsy and Developmental Medicine (AACPDM) Complex Care Work Group </li>
+    <li>Dr. Stille: served on the Board of the Academic Pediatric Association until May 2013 </li>
+    <li>Dr. Keller: President (and Chair of the Board) of the Academic Pediatric Association &ndash; unpaid position </li>
+</ul>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;">
+    <li>Forrest CB, Simpson L, Clancy C. Child health services research. Challenges and opportunities. JAMA. 1997;277:1787-93. </li>
+    <li>Stille C, Turchi RM, Antonelli R, et al. The family-centered medical home: specific considerations for child health research and policy. Acad Pediatr. 2010;10:211-7. </li>
+    <li>McCormick MC, Brooks-Gunn J, Buka SL, et al. Early intervention in low birth weight premature infants: results at 18 years of age for the Infant Health and Development Program. Pediatrics. 2006;117:771-80. </li>
+    <li>Aday LA. Health status of vulnerable populations. Annu Rev Public Health. 1994;15:487-509. </li>
+    <li>Halfon N, Hochstein M. Life course health development: an integrated framework for developing health, policy, and research. Milbank Q. 2002;80:433-79, iii. </li>
+    <li>Cohen E, Kuo DZ, Agrawal R, et al. Children with medical complexity: an emerging population for clinical and research initiatives. Pediatrics. 2011;127:529-38. </li>
+    <li>Stein RE, Silver EJ. Operationalizing a conceptually based noncategorical definition: a first look at US children with chronic conditions. Arch Pediatr Adolesc Med. 1999;153:68-74. </li>
+    <li>Bramlett MD, Read D, Bethell C, Blumberg SJ. Differentiating subgroups of children with special health care needs by health status and complexity of health care needs. Matern Child Health J. 2009;13:151-63. </li>
+    <li>Van Cleave J, Gortmaker SL, Perrin JM. Dynamics of obesity and chronic health conditions among children and youth. JAMA. 2010;303:623-30. </li>
+    <li>ChildStat.gov. America's children: key national indicators of well-being, 2011. [internet]. [accessed 2013 Jul 15]. Available at: <a href="http://www.childstats.gov/pdf/ac2011/ac_11.pdf"  title="ChildStat.gov Web site" target="_blank">http://www.childstats.gov/pdf/ac2011/ac_11.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>United States Consensus Bureaus. About poverty 2011. [internet]. [accessed 2013 Jul 15]. Available at: <a href="http://www.census.gov/hhes/www/poverty/about/index.html"  target="_blank" title="United States Consensus Bureaus Web site">http://www.census.gov/hhes/www/poverty/about/index.html</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>Raphael JL, Beal AC. A review of the evidence for disparities in child vs adult health care: a disparity in disparities. J Natl Med Assoc. 2010;102:684-91. </li>
+    <li>Guyer B, Ma S, Grason H, et al. Early childhood health promotion and its life course health consequences. Acad Pediatr. 2009;9:142-9 e1-71. </li>
+    <li>Wegner SE, Humble CG, Feaganes J, Stiles AD. Estimated savings from paid telephone consultations between subspecialists and primary care physicians. Pediatrics. 2008;122:e1136-40. </li>
+    <li>Crosson JC, Etz RS, Wu S, Straus SG, Eisenman D, Bell DS. Meaningful use of electronic prescribing in 5 exemplar primary care practices. Ann Fam Med. 2011;9:392-7. </li>
+    <li>Sittig DF, Singh H. Legal, ethical, and financial dilemmas in electronic health record adoption and use. Pediatrics. 2011;127:e1042-7. </li>
+    <li>Rubin HR, Pronovost P, Diette GB. The advantages and disadvantages of process-based measures of health care quality. Int J Qual Health Care. 2001;13:469-74. </li>
+    <li>Consumer Assessment of Healthcare Providers and Systems (CAHPS). What is a medical home? (Rockville (MD): Agency for Healthcare Research and Quality. [Web site]. [accessed 2013 Jul 10]. Available at: <a href="http://www.cahps.ahrq.gov"  target="_blank" title="AHRQ CAHPS Web site">http://www.cahps.ahrq.gov</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>The Child and Adolescent Health Measurement Initiative. Measuring medical home for children and youth. [internet]. 2009 May [accessed 2013 Jan 31]. 65 p. Available at: <a href="/Home/Disclaimer?id=47906&contentType=expert-commentary&redirect=http%3a%2f%2fwww.childhealthdata.org%2fdocs%2fmedical-home%2fmhmanual-_body_sept2009-cb-edit-1-pdf.pdf" title="Data Resource Center for Child &amp; Adolescent Health Web site">http://www.childhealthdata.org/docs/medical-home/mhmanual-_body_sept2009-cb-edit-1-pdf.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>The Child and Adolescent Health Measurement Initiative (CAHMI). Young Adult Health Care Survey. [internet]. [accessed 2013 Jul 10]. Available at <a href="/Home/Disclaimer?id=47906&contentType=expert-commentary&redirect=http%3a%2f%2fwww.cahmi.org%2fpages%2fSections.aspx%3fsection%3d9" title="CAHMI Web site">http://www.cahmi.org/pages/Sections.aspx?section=9</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>Panepinto JA, Torres S, Bendo CB, et al. PedsQL Sickle Cell Disease Module: Feasibility, Reliability, and Validity. Pediatr Blood Cancer. 2013;60(8):1338-44. </li>
+    <li>McManus BM, Carle A, Acevedo-Garcia D, Ganz M, Hauser-Cram P, McCormick M. Modeling the social determinants of caregiver burden among families of children with developmental disabilities. Am J Intellect Dev Disabil. 2011;116:246-60. </li>
+</ol>
+<a name="table"></a>
+<p><strong>Table 1. Clinical quality measurement through the lens of the "Five Ds"</strong></p>
+<table width="100%" border="1" cellspacing="1" cellpadding="1" summary="Clinical quality measurement through the lens of the Five Ds">
+    <thead>
+        <tr>
+            <th class="Center" valign="top">Quality Measure</th>
+            <th class="Center" valign="top">Development</th>
+            <th class="Center" valign="top">Dependency</th>
+            <th class="Center" valign="top">Differential Epidemiology</th>
+            <th class="Center" valign="top">Demographics</th>
+            <th class="Center" valign="top">Dollars</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">Structural measures should:</td>
+            <td valign="top">- show effective systems of care that coordinate transitions from birth hospital to home, home to school/child care, and also transition from child/family centered to adult centered care<br />
+            - address specific challenges of information technology as it pertains to maternal health, adolescent and parental confidentiality</td>
+            <td valign="top">- show effective care coordination across multiple systems of care from both the family and child perspective<br />
+            - highlight coordination with schools<br />
+            - highlight adolescent services that reflect the transition of care from parent to patient<br />
+            - include measure of family health as well as individual health</td>
+            <td valign="top">- show capacity for providing universal and targeted prevention services<br />
+            - show capacity to assess chronic illness using non-categorical measures </td>
+            <td valign="top">- demonstrate structural linkages within PCMH that help families address the social determinants of health (e.g., medical-legal partnerships, home visiting services, educational advocacy)<br />
+            - highlight capacity to provide culturally appropriate care within medical home (e.g., interpreters, materials) </td>
+            <td valign="top">- assess ability to capture information related to short-term and long-term economic impact of intervention, including education results<br />
+            - demonstrate level of capital investment in health information technology needed to transform community pediatric offices<br />
+            - assess capacity for team based care including parent partners</td>
+        </tr>
+        <tr>
+            <td valign="top">Process measures should:</td>
+            <td valign="top">- reflect age specific disease management and treatment guidelines<br />
+            - incorporate age specific intermediate outcomes (e.g., immunization rates)<br />
+            - show age appropriate developmental tools </td>
+            <td valign="top">- demonstrate risk assessment that includes social and family factors in assessing high risk<br />
+            - incorporate family centeredness into management/care coordination measures </td>
+            <td valign="top">- assess ability to connect to community partners<br />
+            - focus on childhood risks linked to adverse outcomes in adulthood<br />
+            - measure shared responsibilities between subspecialty and primary care providers </td>
+            <td valign="top">- seek and address disparities in processes of care<br />
+            - assess incorporation of cultural humility into caregiving processes </td>
+            <td valign="top">- account for cost of time-intensive non-procedural services, e.g., provision of anticipatory guidance, screening, care management/coordination, school assessment<br />
+            - aggregate cost savings from impacts on other systems </td>
+        </tr>
+        <tr>
+            <td valign="top">Outcome measures should:</td>
+            <td valign="top">- demonstrate health-related outcomes that are age-appropriate, e.g., use age-specific tools to assess quality of life<br />
+            - apply life course strategies to services and measurement </td>
+            <td valign="top">- include impact on family outcomes, e.g., parental work days lost, family impact quality of life, days of school missed<br />
+            - need to assess functioning in developmentally appropriate ways </td>
+            <td valign="top">- use a broad definition of health in formulating health outcomes<br />
+            - include both disease specific (e.g., rates of asthma admissions) and non-categorical (e.g., health-related quality of life) outcomes </td>
+            <td valign="top">- seek disparities in assessing outcomes of care<br />
+            - recognize cultural factors affecting value of different health outcomes </td>
+            <td valign="top">- look at the long term ROI on early investment<br />
+            - account for overall cost savings across multiple systems vs. cost shifting </td>
+        </tr>
+        <tr>
+            <td valign="top">Access measures should:</td>
+            <td valign="top">- vary with age and developmental level, e.g., new parents includes ready access to nursing for advice<br />
+            - include adolescent access to confidential care and age appropriate screening (sex, drugs, mental health)<br />
+            - include access to pediatric specific medical, surgical, mental health, dental and nutritional subspecialty services </td>
+            <td valign="top">- include impact on family, e.g., parental work days lost<br />
+            - recognize access to care for children in a variety of family situations, including foster care and residential care </td>
+            <td valign="top">- include services outside the PCMH including pediatric specific services in the Medical Neighborhood<br />
+            - include non-categorical measures, (e.g., rate of children with need for subspecialist involvement who have had a visit in the last 12 months) </td>
+            <td valign="top">- seek and address barriers to care that lead to disparities<br />
+            - measure care for specific subpopulations, including GLBT youth </td>
+            <td valign="top">- include other sectors (e.g., school) in measures of the ROI for dollars expended for enhanced access and continuity</td>
+        </tr>
+        <tr>
+            <td valign="top">Patient Experience measures should:</td>
+            <td valign="top">- collect information from the patient in a developmentally appropriate manner<br />
+            - collect information about the patient that addresses developmentally appropriate concerns of the patient<br />
+            - review school data when appropriate</td>
+            <td valign="top">- account for the experience of both parent/family and child</td>
+            <td valign="top">- assess the quality of care regarding managing disease in both short and long term<br />
+            - assess quality of risk/prevention services provided </td>
+            <td valign="top">- assess culturally competence displayed in the provision of care<br />
+            - seek patient and parent perception of disparity </td>
+            <td valign="top">- assess impact of care coordination on patient/family burden of care and ease of navigating the health system (<a href="#ref">22</a>) and cost of coordination with other agencies (e.g., schools)</td>
+        </tr>
+    </tbody>
+</table>
+
+
+	<section class="comments" id="comments">
+		<h2 class="comments-header">Comments</h2>
+		
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 04/11/2014</h3>
+				<div class='comment-main'>
+					<div class='comment-content'><p>This commentary updates and improves upon the original presentation of the four Ds by Forrest, Simpson, and Clancy by adding a fifth D, for Dollars. The relative lack of funding and lack of financial interest has long plagued pediatric care and child health services in this country. The conceptualization presented here explains why that may result from even the most thoughtful and knowledgeable of individuals.</p></div>
+					<p class='comment-author'>Robert Jacobson, MD</p>
+						<p class='comment-position'>Professor of Pediatrics</p>
+											<p class='comment-affiliation'>Mayo Clinic</p>
+					<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> None stated</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+	</section><!--/.comments -->
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011399</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51322/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-patients-irrespective-of-frequency-of-dialysis-with-documented-monthly-npcr-measurements">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis patients (irrespective of frequency of dialysis) with documented monthly nPCR measurements.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011398</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51321/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-home-hemodialysis-and-peritoneal-dialysis-patients-who-have-monthly-measures-for-hemoglobin-during-the-reporting-period">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis, home hemodialysis, and peritoneal dialysis patients who have monthly measures for hemoglobin during the reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011397</li>
+            <li>May 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51319/end-stage-renal-disease-esrd-percentage-of-adult-hemodialysis-patientmonths-using-a-catheter-continuously-for-three-months-or-longer-for-vascular-access">End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011396</li>
+            <li>Apr 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51318/end-stage-renal-disease-esrd-adjusted-percentage-of-adult-hemodialysis-patientmonths-using-an-autogenous-arteriovenous-fistula-avf-as-the-sole-means-of-vascular-access">End stage renal disease (ESRD): adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula (AVF) as the sole means of vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011395</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51317/end-stage-renal-disease-esrd-percentage-of-all-peritoneal-dialysis-and-hemodialysis-patientmonths-with-serum-or-plasma-phosphorus-measured-at-least-once-within-the-month">End stage renal disease (ESRD): percentage of all peritoneal dialysis and hemodialysis patient-months with serum or plasma phosphorus measured at least once within the month.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

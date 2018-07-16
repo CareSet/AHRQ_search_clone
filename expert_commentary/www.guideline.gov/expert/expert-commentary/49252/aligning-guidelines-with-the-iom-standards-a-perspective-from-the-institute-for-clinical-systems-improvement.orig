@@ -1,0 +1,592 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Aligning Guidelines with the IOM Standards: A Perspective from the Institute for Clinical Systems Improvement | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>June 15, 2015</li>
+			</ul>
+			<h1>Aligning Guidelines with the IOM Standards: A Perspective from the Institute for Clinical Systems Improvement</h1>
+			<p class="byline">By: Joann Foreman, BAN, Lisa LeMay, Claire Neely, MD, and Cally Vinz, RN</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/expert/expert-commentary/49252/aligning-guidelines-with-the-iom-standards-a-perspective-from-the-institute-for-clinical-systems-improvement" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.guideline.gov/expert/expert-commentary/49252/aligning-guidelines-with-the-iom-standards-a-perspective-from-the-institute-for-clinical-systems-improvement" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.guideline.gov/expert/expert-commentary/49252/aligning-guidelines-with-the-iom-standards-a-perspective-from-the-institute-for-clinical-systems-improvement&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Aligning Guidelines with the IOM Standards: A Perspective from the Institute for Clinical Systems Improvement&body=https://www.guideline.gov/expert/expert-commentary/49252/aligning-guidelines-with-the-iom-standards-a-perspective-from-the-institute-for-clinical-systems-improvement" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (1)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>Since its inception in 1993, the Institute for Clinical Systems Improvement (ICSI) has developed and updated evidence-based clinical practice guidelines in partnership with its medical group members. During much of that time, ICSI has been able to increase dissemination of its guidelines through the National Guideline Clearinghouse (NGC). ICSI guidelines have been represented on the NGC Web site for more than a decade; and 35 ICSI guideline summaries are currently published there. Several years ago, to provide more effective implementation opportunities for its practice guidelines, ICSI initiated a redesign of its development and revision process. With the release of the Institute of Medicine (IOM) report <em>Clinical Practice Guidelines We Can Trust</em> in 2011, those redesign efforts were expanded to align with the IOM standards (<a href="#ref">1</a>).</p>
+<p>This expert commentary details the steps and rationale ICSI followed to align its guidelines with the eight main standards established by the IOM, namely, 1) establishing transparency, 2) management of conflict of interest, 3) guideline development group composition, 4) clinical practice guideline-systematic review intersection, 5) establishing evidence foundations for and rating strength of recommendations, 6) articulation of recommendations, 7) external review, and 8) updating.</p>
+<p><strong>Guideline Transition Team Approach</strong><br />
+Even before the release of the IOM Standards, ICSI formed a Guideline Transition Team comprised of its medical director, senior leadership, facilitators, and operations staff. The team's task was to generate and evaluate ideas that would improve the ability of ICSI's guidelines to support its Triple Aim initiative of better health, better care, and lower costs (<a href="#ref">2</a>).</p>
+<p>Throughout 2010 and 2011, this group hosted internal and external guideline forums that resulted in the development of a white paper titled <em>Shaping the Future of ICSI's Health Care Guidelines</em> (<a href="#ref">3</a>). Following the release of the IOM standards, the ICSI Guideline Transition Team conducted a gap analysis and commissioned a team to create a process, as well as a master plan, for addressing alignment of ICSI guidelines with the IOM standards.</p>
+<p>Based upon the gap analysis, ICSI took the following initial steps:</p>
+<ul style="list-style-type: disc;">
+    <li>Reduced the number of guidelines revised each year because of the more intensive nature of the work </li>
+    <li>Extended its guideline revision cycle by 12 months </li>
+    <li>Pursued development of a rigorous process to evaluate guidelines from other developers that more closely adhere to the IOM standards </li>
+</ul>
+<p>ICSI's Committee for Evidence-Based Practice, a group comprised of member clinicians who serve as an approval body for all guidelines, provided feedback and insight in support of the recommended guideline enhancement activities. ICSI's Strategy Committee then approved the newly developed work for rollout to our membership. Both committees are related to the ICSI Board of Directors. The following is a summary of how ICSI's development process aligns with each of the eight IOM standards.</p>
+<ol style="list-style-type: decimal;" start="1">
+    <li><strong>Establishing Transparency: Maintained Current Process</strong><br />
+    ICSI has always maintained a publicly available description of its process for guideline development. ICSI guideline development work is funded by annual dues from ICSI's member medical groups and sponsoring health plans. Members of the guideline development work group are not paid by ICSI, but their affiliated medical groups do support their participation in the process. ICSI staff facilitates and coordinates the guideline development and revision process. Review and feedback is provided by ICSI staff, member medical groups, and sponsoring health plans. Editorial control is held by the work group, and all recommendations are based on their independent evaluation of the evidence.<br />
+    <br />
+    </li>
+    <li><strong>Management of Conflict of Interest: Developed More Robust Policy</strong><br />
+    The development of ICSI scientific documents relies on the diverse expertise of the ICSI members who volunteer their services. ICSI seeks to appoint work group and review committee members who have no real or potential conflicts and/or competing interests to declare. We have established a policy of transparency for declaring potential conflicting and competing interests of individuals who participate in the development, revision and approval of guidelines and protocols (<a href="#ref">4</a>).
+    <p>Currently, work group members complete a conflict of interest (COI) disclosure form in advance of launching guideline development work. The disclosure form includes questions about financial and non-financial relationships, which may exist most notably with pharmaceutical and industrial firms. ICSI follows up with participants on all declared potential conflicts of interest in order to gather relevant details required to determine the level of possible influence present. Each disclosure is evaluated on a case-by-case basis; possible actions range from removing the participant from the work group to adding members as a means of ensuring that no more than one third of its composition is made up of members with declared potential and competing interests. Work group leaders are required to have no COI disclosures.</p>
+    <p>In 2010, to further align with the IOM standard, the ICSI Board of Directors strengthened the COI policy by establishing a COI committee to review all disclosures and to recommend when steps should be taken to mitigate potential conflicts of interest. The ICSI Board maintains ultimate responsibility for determining what limitations or actions should be taken related to all ICSI declarations.</p>
+    </li>
+    <li><strong>Guideline Development Group Composition: Maintained Current Approach</strong><br />
+    ICSI has established a comprehensive approach to shaping a development work group that ensures the accuracy and validity of its guidelines. A work group consists of 6 to 12 members, including physicians, nurses, pharmacists, and other health care professionals with knowledge about the topic area. Most work group members, including the work group leader and co-leader, are recruited from ICSI member organizations. In addition, ICSI has configured some work groups to include patients and other pertinent healthcare stakeholders.<br />
+    <br />
+    </li>
+    <li><strong>Clinical Practice Guideline-Systematic Review Intersection: Refined Development Process</strong><br />
+    ICSI intentionally applied a refined development process when revising our recent <em>Diagnosis and Management of Type 2 Diabetes Mellitus in Adults</em> guideline (<a href="#ref">5</a>) to meet NGC's inclusion criteria, which require a systematic review. Process steps included:
+    <ul style="list-style-type: disc;">
+        <li>Outlined PICO (Population, Intervention, Comparison, Outcomes) questions </li>
+        <li>Performed a literature search and evidence review for each PICO question </li>
+        <li>Created a study selection flowchart by topic </li>
+        <li>Developed an evidence table with assessment of the quality of individual studies </li>
+        <li>Graded the body of evidence using the GRADE methodology </li>
+        <li>Facilitated seven 3-hour work group meetings with content experts to author and review revisions of recommendations and supporting text. Also modified guideline format to accommodate several recommendation tables </li>
+        <li>Updated algorithm content and suggested quality measures in the guideline </li>
+    </ul>
+    <p>After using this refined development process, ICSI's guideline <em>Diagnosis and Management of Type 2 Diabetes Mellitus in Adults</em> was accepted for inclusion in NGC. The experience has laid the ground work for future guideline development.</p>
+    </li>
+    <li><strong>Establishing Evidence Foundations for and Rating Strength of Recommendations: Switched to GRADE</strong><br />
+    ICSI has transitioned from its previous literature classification system to using the GRADE (Grading of Recommendations Assessment, Development and Evaluation) approach (<a href="#ref">6</a>). GRADE was adopted because it offers a number of advantages over ICSI's former system, as noted below:
+    <ul style="list-style-type: disc;">
+        <li>Developed by a widely representative group of international guideline developers </li>
+        <li>Offers explicit and comprehensive criteria for downgrading and upgrading quality of evidence ratings </li>
+        <li>Offers a clear separation between quality of evidence and strength of recommendations and includes a transparent process of moving from evidence evaluation to recommendations </li>
+        <li>Provides clear, pragmatic interpretations of strong versus weak recommendations for clinicians, patients and policymakers </li>
+        <li>Provides explicit acknowledgement of values and preferences </li>
+        <li>Provides explicit evaluation of the importance of outcomes of alternative management strategies. </li>
+    </ul>
+    </li>
+    <li><strong>Articulation of Recommendations: Added Clarity</strong><br />
+    ICSI's guidelines have historically provided evidence-based recommendations. With the transition to GRADE methodology, recommendation language was clarified and strengthened. For example, descriptions of benefits and harms of a recommendation were expanded, thereby facilitating the greater use of guidelines, as well as leading to future creation of decision-support strategies and tools.<br />
+    <br />
+    </li>
+    <li><strong>External Review: Expanded Current Process</strong><br />
+    ICSI's review process has always included soliciting external feedback from members and sponsors in advance of revision meetings. Additionally, as part of extensive revisions, we further modified a "critical review process" to include the opportunity for public comment and solicited commentary from targeted stakeholders.
+    <p>ICSI's Patient Advisory Council (PAC) seeks patient input based on a set of standard criteria, which allow for review of each guideline from the viewpoint of both patient and family. This PAC "Seal of Approval" includes criteria such as obtaining direct input from patients, maintaining relevance of and respect for patients and families, incorporating shared decision-making where appropriate, citing literature that lists patients concerns, including a coordinated and communicative care team (<a href="#ref">7</a>). The first ICSI guideline to receive the PAC Seal of Approval was <em><a href="/content.aspx?id=48544" title="Guideline #10548">Diagnosis and Management of Type 2 Diabetes Mellitus in Adults</a></em>.</p>
+    </li>
+    <li><strong>Updating: Maintained Current Approach</strong><br />
+    ICSI's documents are updated based on our members' needs and requests, as well as a continual survey of the literature for major changes that may warrant change ahead of the established revision cycle. </li>
+</ol>
+<p><strong>Moving Guidelines toward Clinical Decision Support</strong><br />
+Medical science technology is advancing at an unprecedented rate. The nation's health care delivery system is falling short in its ability to translate knowledge into practice and to apply new technology safely and appropriately. Guideline development and implementation can help close this gap. While acknowledging the need for robust, trustworthy guidelines, ICSI is also focusing on translating evidence into practice by exploring how to improve the use of evidence-based guidelines through clinical decision support (CDS) tools. This work seeks to provide clinical groups with a framework to rapidly implement and integrate guidelines into existing workflows. </p>
+<p><strong>Conclusion</strong><br />
+Through development of clinical practice guidelines, ICSI's goal has remained the same &ndash; to put evidence into the hands of clinicians in order to provide them and their patients with actionable information from which to make good decisions about care that support the best health outcomes. The IOM report has outlined national standards that all guideline developers can use to build more trustworthy guidelines. ICSI is applying these standards as we continue our work to support our member organizations' efforts toward meeting Triple Aim goals.</p>
+<hr />
+<p><strong>Authors</strong></p>
+<p>Joann Foreman, RN, BAN, Team Director <br />
+Institute for Clinical Systems Improvement, Bloomington, MN</p>
+<p>Lisa LeMay, Senior Manager for Core Programs<br />
+Institute for Clinical Systems Improvement, Bloomington, MN</p>
+<p>Claire Neely, MD, Chief Medical Officer<br />
+Institute for Clinical Systems Improvement, Bloomington, MN</p>
+<p>Cally Vinz, RN, Vice President<br />
+Institute for Clinical Systems Improvement, Bloomington, MN</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Guideline Clearinghouse&trade; (NGC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor ECRI Institute.</p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>The authors declare that they are all employees of the Institute for Clinical Systems Improvement. They declare no additional conflicts of interest with respect to this commentary.</p>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Institute of Medicine (IOM). Clinical practice guidelines we can trust. Washington (DC): The National Academies Press; 2011. </li>
+    <li>Berwick DM, Nolan TW, Whittington J. The triple aim: care, health and cost. Health Aff (Millwood). 2008;27(3):759-69. </li>
+    <li>Institute for Clinical Systems Improvement (ICSI). Shaping the future of ICSI's health care guidelines. Presented at a meeting of provider groups, health plans, and employers. 2011 Jan 14. </li>
+    <li>Institute for Clinical Systems Improvement (ICSI). Conflict of interest policy. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 Jun. 5 p. Also available: <a href="/Home/Disclaimer?id=49252&contentType=expert-commentary&redirect=https%3a%2f%2fwww.icsi.org%2f_asset%2ffwsfmi%2fcoi_policyletter.pdf" title="ICSI Web site">https://www.icsi.org/_asset/fwsfmi/coi_policyletter.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>Redmon B, Caccamo D, Flavin P, Michels R, O'Connor P, Roberts J, Smith S, Sperl-Hillen J. Diagnosis and management of type 2 diabetes mellitus in adults. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2014 Jul. 85 p. </li>
+    <li>GRADE working group. Welcome. [internet]. The GRADE working group. Available: <a href="/Home/Disclaimer?id=49252&contentType=expert-commentary&redirect=http%3a%2f%2fwww.gradeworkinggroup.org" title="GRADE Working Group Web site">http://www.gradeworkinggroup.org</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>Institute for Clinical Systems Improvement (ICSI). PAC seal of approval. [internet]. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2014. Available: <a href="/Home/Disclaimer?id=49252&contentType=expert-commentary&redirect=https%3a%2f%2fwww.icsi.org%2ffor_patients%2fseal_of_approval%2f" title="ICSI Web site">https://www.icsi.org/for_patients/seal_of_approval/</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+</ol>
+
+
+	<section class="comments" id="comments">
+		<h2 class="comments-header">Comments</h2>
+		
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 07/08/2015</h3>
+				<div class='comment-main'>
+					<div class='comment-content'>As an Information Advocate, I call for the role of the person in Precision Medicine to be a partner and privy to his or her data (omics) from the donation of their sample forward, virtually and in real time; this can be accomplished on a bioscience platform which people easily may access and use as they do social platforms today. As individuals, especially patients, give their sample to doctor or science they become part of the Genome Wide Database and Precision Medicine will compare them to the database in order to assess, diagnose, treat and evaluate their treatments. All of this data accessible to the treaters must be available to the treated. This necessitates a much broader role of patient and person education and development of guidelines and protocols to both facilitate knowledge and ethical compliance by all. GRADE and other systems of evaluating the data and evidence of its usefulness in improving the condition of the person will need to be user friendly and open to all. This will give your committee and the IOM a huge responsibility to imagine prototypes for this entire new medicine.</div>
+					<p class='comment-author'>Judith Kohn, BA, BS, MS</p>
+						<p class='comment-position'>PerDiem RN Baystate Wing Hospital Palmer, MA</p>
+											<p class='comment-affiliation'>Jenny Stories & More</p>
+					<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> None</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+	</section><!--/.comments -->
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NGC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the guideline and/or measure fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+		<h3>Related Content</h3>
+		<h4 class="prefix-icon guideline">GUIDELINE SUMMARIES</h4>
+		<div class="content-list-wrap">
+			    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:010548</li>
+            <li>1996 Mar (revised 2014 Jul)</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/48544/diagnosis-and-management-of-type-2-diabetes-mellitus-in-adults">Diagnosis and management of type 2 diabetes mellitus in adults.</a></p>
+    </div>
+
+		</div>
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NGC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

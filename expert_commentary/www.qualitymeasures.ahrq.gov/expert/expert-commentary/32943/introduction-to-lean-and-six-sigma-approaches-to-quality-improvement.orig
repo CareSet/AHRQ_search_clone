@@ -1,0 +1,565 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Introduction to Lean and Six Sigma Approaches to Quality Improvement | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>May 16, 2011</li>
+			</ul>
+			<h1>Introduction to Lean and Six Sigma Approaches to Quality Improvement</h1>
+			<p class="byline">By: Justin Glasgow, MS</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/32943/introduction-to-lean-and-six-sigma-approaches-to-quality-improvement" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/32943/introduction-to-lean-and-six-sigma-approaches-to-quality-improvement" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/32943/introduction-to-lean-and-six-sigma-approaches-to-quality-improvement&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Introduction to Lean and Six Sigma Approaches to Quality Improvement&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/32943/introduction-to-lean-and-six-sigma-approaches-to-quality-improvement" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (2)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>In this second decade since the publication of "To Err is Human" (<a href="#ref">1</a>), health care still finds itself in a quality crisis. The last two National Healthcare Quality Reports have noted that improvements in quality have been slow and subject to significant variability across regions and settings (<a href="#ref">2-3</a>). Further, a recent analysis by the Centers for Medicare and Medicaid Services (CMS) estimated that 13.5% of Medicare beneficiaries experienced an adverse event during a hospital stay (<a href="#ref">4</a>). This lack of improvement is concerning, particularly in the inpatient hospital system where quality improvement (QI) is a ubiquitous activity. This raises the question of whether current QI approaches are insufficient for effecting widespread change. This article briefly introduces the Lean and Six Sigma approaches for QI, reviews the current understanding of their utility, and concludes with recommendations on how to improve QI efforts.</p>
+<p>PDSA, shorthand for Plan-Do-Study-Act, is the iterative cycle that forms the basis of most QI activities. The PDSA cycle is akin to the scientific method in that it provides an overlying framework for approaching a problem, but does not explicitly proscribe the best methods for solving a problem. Lean and Six Sigma place PDSA within a specific context that should provide a directed focus intended to optimize the QI process.</p>
+<p>Lean was initially developed and championed by the Toyota Motor Company (<a href="#ref">5</a>). The context Lean uses to advance quality is to focus on the customer (important customers of QI efforts in health care include patients, regulatory bodies, payers, and providers) and determine what the customer would consider of value. If a process does not provide value, then it is considered waste and should be a target of improvement. An additional critical component of the Lean context is that it emphasizes empowering individual employees to improve quality. Lean organizations not only allow, but expect every individual employee to exhibit vigilance in identifying and addressing poor quality and waste. To be an effective Lean organization, everyone, from top to the bottom of the hierarchy, must work to increase value and cannot stand idly by when poor quality is identified. Some common applications of Lean in health care include efforts to improve patient flow (<a href="#ref">6</a>), eliminate central line infections (<a href="#ref">7</a>), and remove waste from the system (<a href="#ref">8</a>).</p>
+<p>Six Sigma grew out of quality control efforts at Motorola, and General Electric (GE) is its most popular champion (<a href="#ref">9</a>). The context of Six Sigma is to identify sources of variation (potential sources of error) in a process and work to reduce variation such that it can perform nearly error free. Six Sigma developed out of statistical process control theory, and the name derives from the goal of creating a process that performs with such low variability that it is error free to six standard deviations of a normal distribution, resulting in only 3.4 errors per million attempts. Health care activities such as physician prescription writing and hospital injuries produce about 10,000 errors per million opportunities (3-4 sigma level), while deaths due to anesthesia during surgery performs at the 6 sigma level, with 4 deaths per million surgeries (<a href="#ref">10</a>). Some example applications of Six Sigma include efforts to reduce medication errors (<a href="#ref">11</a>), improve hand hygiene compliance (<a href="#ref">12</a>), and reduce catheter-related blood stream infections (<a href="#ref">13</a>).</p>
+<p>Six Sigma alters the PDSA slightly and gives it the acronym DMAIC, which stands for Define, Measure, Analyze, Improve, and Control. The addition of this fifth step, Control, provides extra emphasis on maintaining high levels of performance and low levels of variability. This typically entails a plan to continuously measure and monitor the process, with strict guidelines defining when the process is out of control and a new QI project is required.</p>
+<p>Although these brief descriptions do not cover all that Lean and Six Sigma encompass, they provide a basic understanding of how the two approaches build upon the basic PDSA cycle. The next important question to consider is whether the current evidence suggests that these approaches help to improve quality. Several recent systematic reviews of Lean and Six Sigma projects argue that the current evidence does not demonstrate that either approach is effective (<a href="#ref">14-16</a>). The critiques generally focus on the fact that QI articles fail to evaluate interventions in a manner that determines whether any improvements were made and, if so, that the improvements causally relate to the QI effort. An additional critique is that few articles demonstrate how well improvements persist after the initial project completes.</p>
+<p>The goal of this initial discussion is to introduce the consideration that Lean and Six Sigma are not magic elixirs guarantying perfect QI projects. Instead, we should think of them as potentially useful tools, but only if we understand how to best deploy them. For QI projects to improve and sustain quality, it is critical to use the available tools appropriately. The following five recommendations speak to broader concerns that must be addressed in order to ensure effective QI, no matter whether you use just a simple PDSA or incorporate components of the Lean or Six Sigma approaches.</p>
+<ol style="list-style-type: decimal;">
+    <li><strong>Make your QI efforts about quality, not about meeting a requirement.</strong>
+    <p>Successful projects are those that people believe in and want to see become successful. Far too often, the people affected by a QI project (if not the QI team themselves) are told they must change in order to meet some arbitrary internal or external requirement. In these settings, the efforts routinely fail, either during the process or by immediate degradation of improvements after project completion. However, communication early in the process regarding the project value (for all customers and individuals affected by the QI) beyond meeting arbitrary requirements increases the likelihood that people will be motivated to help the efforts succeed.</p>
+    </li>
+    <li><strong>Aim for real change, not just re-education.</strong>
+    <p>An all too frequent solution for improving quality in health care is to round up a group of individuals, tell them what they are doing wrong, teach them how to do better, and return them to work. Sometimes, if properly motivated, this educational approach may make initial improvements, but in the hectic world of health care, it is too easy to unconsciously return to old ways. The failure of simple education is exemplified in an effort to use the education of nurses to reduce urinary tract infections (UTIs). While the intervention generated initial improvement, within two years of the intervention not only were all improvements lost, but the hospital recorded a quarterly rate of UTI higher than any seen in the past four years (<a href="#ref">17</a>).</p>
+    <p>While effective QI will include education, it must also involve an understanding of how poor quality exists in the current process and then identify ways to change the process such that sources of poor quality are eliminated. A common example of process change is the creation of central line bundles, which combine all the necessary items for proper sterile central line placement into one kit (<a href="#ref">7, 13</a>). Utilization of these bundles commonly leads to a sustainable reduction in infections associated with central lines. This intervention is rarely sufficient on its own, but, with continued focus and other process changes, hospitals can steadily reduce their central line infection rates.</p>
+    </li>
+    <li><strong>Empower and excite.</strong>
+    <p>Change is most lasting when those who provide frontline care are involved and truly excited about the QI they helped to develop. While it is critically important that those who formulate the strategic plan for an organization make it clear that they value and support QI, the health care system does not lend itself to the necessary carrots and sticks for management to easily effect change. Instead, it must be the frontline leaders who recognize a quality problem, communicate the need for change, and motivate those around them to overcome the challenge. Additionally, it is these people who understand how a process truly occurs and can best identify the waste or potential sources of error. Only when there is true energy at the front lines for supporting and making a change is it possible to achieve long-term quality.</p>
+    </li>
+    <li><strong>Measure and evaluate.</strong>
+    <p>It is impossible to improve quality if there is no clear understanding about the current state of performance. This likely means multiple measurements before, during, and after a QI project. Sometimes knowing how performance varies over time can prove just as informative as knowing absolute performance at any single point in time. Also, measurement should not stop just because changes are no longer occurring. It's critical to observe how well change is maintained in the months and even years after a QI initiative.</p>
+    </li>
+    <li><strong>Start small, dream big.</strong>
+    <p>Remember, PDSA is conceived as an iterative cycle, and all QI approaches include some level of focus on continuous improvement and monitoring. As such, it is critical to set initial project goals that are reasonable to achieve. As an example, consider efforts to reduce central line-related infections; the initial project goal may be to reduce them by 50%, then in the next iteration by another 10%. Working in this manner allows teams to identify and eliminate different sources of error. It also means that over time the team may eventually achieve a bigger goal, such as complete elimination of central line infections. Tackling small, achievable goals will steadily improve quality while maintaining excitement and confidence.</p>
+    </li>
+</ol>
+<p>In summary, there is no reason why we cannot provide high quality health care. The tools exist to achieve this aim; whether it is a simple PDSA or the Lean or Six Sigma approaches, we must learn how to best use them. By committing to a specific approach, developing a focus on QI, and developing QI leaders, we can steadily and effectively work to create a culture that provides high quality care.</p>
+<hr />
+<p><strong>Author</strong></p>
+<p><strong>Justin Glasgow, MS</strong><br />
+MD/PhD Candidate<br />
+Iowa City Veterans Affairs Healthcare System, Iowa City, IA<br />
+University of Iowa, Iowa City, IA</p>
+<p><strong>Disclaimer</strong></p>
+<p>Mr. Glasgow is a researcher at the Iowa City Veterans Affairs Medical Center. This commentary is a reflection of his views and opinions and does not necessarily reflect the views of the Department of Veterans Affairs.</p>
+<p>Additionally, the views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Quality Measures Clearinghouse&trade; (NQMC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor, ECRI Institute.</p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>Mr. Glasgow declared no potential conflicts of interest with respect to this expert commentary.</p>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;">
+    <li>Institute of Medicine. To err is human: building a safer health system. Washington, D.C.: National Academy of Sciences; 2000. </li>
+    <li>Agency for Healthcare Research and Quality. National healthcare quality report. Rockville, MD: Health and Human Services. 2008. Available at: <a href="http://www.ahrq.gov/qual/nhqr08/nhqr08.pdf"  title="AHRQ Web site: NHQR" target="_blank">http://www.ahrq.gov/qual/nhqr08/nhqr08.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> (<a href="#PDF">PDF Help</a>). Accessed February 11, 2011. </li>
+    <li>Agency for Healthcare Research and Quality. National healthcare quality report. Rockville, MD: Health and Human Services. 2009. Available at: <a href="http://www.ahrq.gov/qual/nhqr09/nhqr09.pdf"  title="AHRQ Web site: NHDR" target="_blank">http://www.ahrq.gov/qual/nhqr09/nhqr09.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> (<a href="#PDF">PDF Help</a>). Accessed February 11, 2011. </li>
+    <li>Department of Health and Human Services. Adverse events in hospitals: national incidence among Medicare beneficiaries. Washington, D.C.: Office of the Inspector General. 2010. </li>
+    <li>Ohno, T. Toyota Production System. New York: Productivity Press; 1988. </li>
+    <li>Ben-Tovim DI, et al. Redesigning care at the Flinders Medical Centre: clinical process redesign using "lean thinking." Med J Aus. 2008. 188(6): S27-S31. </li>
+    <li>Shannon RP, et al. Using real-time problem solving to eliminate central line infections. Jt Comm J Qual Patient Saf. 2006. 32(9): 479-487. </li>
+    <li>Thompson DN, Wolf GA, and Spear SJ. Driving improvement in patient care: lessons from Toyota. J Nurs Adm. 2003. 33(11): 585-595. </li>
+    <li>Harry M and Schroeder R. Six Sigma. New York: Doubleday; 2000. </li>
+    <li>Chassin R. The Six Sigma initiative at Mount Sinai Medical Center. Mt Sinai J Med. 2008. 75(1): 45-52. </li>
+    <li>Benitez Y, et al. Hospital reduces medication errors using DMAIC and QFD. Quality Progress. 2007. 40(1): 38. </li>
+    <li>Eldridge NE, et al. Using the six sigma process to implement the Centers for Disease Control and Prevention Guideline for Hand Hygiene in 4 intensive care units. J Gen Intern Med. 2006. 21(Suppl 2): S35-42. </li>
+    <li>Frankel HL, et al. Use of corporate Six Sigma performance-improvement strategies to reduce incidence of catheter-related bloodstream infections in a surgical ICU. J Am Coll Surg. 2005. 201(3): 349-358. </li>
+    <li>Vest JR and Gamm LD. A critical review of the research literature on Six Sigma, Lean and StuderGroup's Hardwiring Excellence in the United States: The need to demonstrate and communicate the effectiveness of transformation strategies in healthcare. Implement Sci. 2009. 4(35). </li>
+    <li>DelliFraine JL, Langabeer JR, and Nembhard IM. Assessing the evidence of Six Sigma and Lean in the healthcare industry. Qual Manag Health Care. 2010. 19(3): 211-225. </li>
+    <li>Glasgow JM, Scott-Caziewell JR, and Kaboli PJ. Guiding inpatient quality improvement: a systematic review of Lean and Six Sigma. Jt Comm J Qual Patient Saf. 2010. 36(12): 533-40. </li>
+    <li>Hansen BG. Reducing nosocomial urinary tract infections through process improvement. J Healthc Qual. 2006. 28(2): W2-2-W2-9. </li>
+</ol>
+<a name="PDF"></a>
+<p><strong>PDF Help</strong>: Documents in PDF format require the Adobe Acrobat Reader&reg;. If you experience problems with PDF documents, please <a href="/Home/Disclaimer?id=32943&contentType=expert-commentary&redirect=http%3a%2f%2fget.adobe.com%2freader%2f" title="Adobe Web site">download the latest version of the Reader&reg;</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />.</p>
+
+
+	<section class="comments" id="comments">
+		<h2 class="comments-header">Comments</h2>
+		
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 04/16/2013</h3>
+				<div class='comment-main'>
+					<div class='comment-content'><p>I have been involved in the health care quality arena for over 15 years and have seen numerous quality trends come and go. I personally have found the Lean approach is very effective for three simple reasons.</p>
+<ol style="list-style-type: decimal;">
+    <li>Lean, when done correctly, empowers all staff and, especially those on the front line to identify and fix problems that negatively impacts the patient and themselves at the source. (Imagine an organization where it is every employees job to identify and fix problems.) </li>
+    <li>Lean provides structures for process and problem solving to ferret out the root causes to develop robust action plans to address many of the root causes. </li>
+    <li>The use of ongoing auditing to assure that the action plans actually improve the problems identified and to assure that the changes stick. </li>
+</ol>
+<p>On the projects that I have been involved in, I have found that the projects that failed are the ones that did not have any buy in from the staff involved and lack of auditing to assure sustained improvement. The projects that excelled were those that have ongoing metrics and teams composed of the front line staff (subject matter experts) who have a vested interest in the project. One of the other things that can make or break Lean in an organization is management. Management in a Lean environment is very different. Managers need to be supportive of the front line staff identifying both the problems and the solutions. No longer does management come in and dictate what is done and how. Another challenge for management is making time for the front line staff to work on the problems identified.</p></div>
+					<p class='comment-author'>Gretchen Davenport, RN, BSN, MBA/HCM, CPHQ</p>
+						<p class='comment-position'>Central Lean Coach</p>
+										<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> No potential conflicts of interest with respect to this expert commentary.</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 06/20/2011</h3>
+				<div class='comment-main'>
+					<div class='comment-content'>I am so glad to have access to this article. I am transitioning to a Quality Improvement Coordinator this coming September. This article gave me an idea of how to go about a QI Project. I am new to this field and to Lean &amp; Six Sigma except for what I have learned from my Master's class in Quality Improvement, especially from the clinical portion of this class. I did present an Operating Room Poster in a QI Fair after that class. I like the part where you have to get the people involved excited about the project and to continuously assess the usefulness and success of the project. Thank you very much.</div>
+					<p class='comment-author'>Zenaida Caro, </p>
+						<p class='comment-position'>Charge Nurse</p>
+											<p class='comment-affiliation'>Kaiser Permanente</p>
+					<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> None</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+	</section><!--/.comments -->
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011399</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51322/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-patients-irrespective-of-frequency-of-dialysis-with-documented-monthly-npcr-measurements">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis patients (irrespective of frequency of dialysis) with documented monthly nPCR measurements.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011398</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51321/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-home-hemodialysis-and-peritoneal-dialysis-patients-who-have-monthly-measures-for-hemoglobin-during-the-reporting-period">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis, home hemodialysis, and peritoneal dialysis patients who have monthly measures for hemoglobin during the reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011397</li>
+            <li>May 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51319/end-stage-renal-disease-esrd-percentage-of-adult-hemodialysis-patientmonths-using-a-catheter-continuously-for-three-months-or-longer-for-vascular-access">End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011396</li>
+            <li>Apr 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51318/end-stage-renal-disease-esrd-adjusted-percentage-of-adult-hemodialysis-patientmonths-using-an-autogenous-arteriovenous-fistula-avf-as-the-sole-means-of-vascular-access">End stage renal disease (ESRD): adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula (AVF) as the sole means of vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011395</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51317/end-stage-renal-disease-esrd-percentage-of-all-peritoneal-dialysis-and-hemodialysis-patientmonths-with-serum-or-plasma-phosphorus-measured-at-least-once-within-the-month">End stage renal disease (ESRD): percentage of all peritoneal dialysis and hemodialysis patient-months with serum or plasma phosphorus measured at least once within the month.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

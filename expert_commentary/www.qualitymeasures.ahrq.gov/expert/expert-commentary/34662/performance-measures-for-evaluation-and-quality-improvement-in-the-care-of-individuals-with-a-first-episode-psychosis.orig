@@ -1,0 +1,977 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Performance Measures for Evaluation and Quality Improvement in the Care of Individuals with a First Episode Psychosis | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>October 10, 2011</li>
+			</ul>
+			<h1>Performance Measures for Evaluation and Quality Improvement in the Care of Individuals with a First Episode Psychosis</h1>
+			<p class="byline">By: Donald Addington, MBBS, MRCPsych, FRCPC</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/34662/performance-measures-for-evaluation-and-quality-improvement-in-the-care-of-individuals-with-a-first-episode-psychosis" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/34662/performance-measures-for-evaluation-and-quality-improvement-in-the-care-of-individuals-with-a-first-episode-psychosis" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/34662/performance-measures-for-evaluation-and-quality-improvement-in-the-care-of-individuals-with-a-first-episode-psychosis&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Performance Measures for Evaluation and Quality Improvement in the Care of Individuals with a First Episode Psychosis&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/34662/performance-measures-for-evaluation-and-quality-improvement-in-the-care-of-individuals-with-a-first-episode-psychosis" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (0)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>Measurement-based quality improvement has begun to address priority areas in psychiatry (<a href="#ref">1</a>). Despite these efforts, the National Committee for Quality Assurance has reported gains in quality of general medical and surgical services in the United States, but not in the quality of mental health services (<a href="#ref">2</a>). For a patient who will go on to develop schizophrenia, the first episode of psychosis is a pivotal time when the quality of care received can significantly influence his or her future course of illness. In this commentary, we describe the development and pilot testing of performance measures to reduce variability and improve quality of care for this population.</p>
+<h3>Background</h3>
+<p><strong>Schizophrenia</strong>. Schizophrenia has a lifetime prevalence of about 1%. It typically begins in young adulthood and has a permanent impact, with major effects on the likelihood of marriage, employment and mortality. On a per capita basis it is the single most expensive of the mental disorders and in the World Health Organization assessment of disease impact, it ranks in the top ten of all health disorders. Despite improvements in evidence based pharmacological and psychosocial treatment, many patients do not receive evidence based care (<a href="#ref">3</a>).</p>
+<p><strong>First psychotic episode</strong>. Two aspects of the onset of a first psychotic episode carry significant implications for treatment and, in some cases, quality of care.</p>
+<p>First, the duration of untreated psychosis, defined as the time between onset of diagnosable symptoms of psychosis and treatment of psychosis, is significant because there is consistent evidence that longer duration of untreated psychosis is associated with poorer outcomes. The onset of schizophrenia can be insidious or sudden. Even after the onset of psychotic symptoms, there are often delays of one to two years before the start of appropriate treatment, with delays being longer in those with an insidious onset. The duration of untreated psychosis can be shortened through a combination of public and gatekeeper education and removing access barriers.</p>
+<p>Second, the response to treatment of the first episode is quicker and more complete than the response to subsequent episodes, leading to the implication that prevention of the second episode has both short term and longer term benefits. For example early, appropriate treatment of first episode psychosis can reduce the two year relapse rates from 60% to 30% (<a href="#ref">4</a>). These reductions in relapse rate can be achieved by providing consistent evidence based care, including psychosocial services, usually through specialized treatment teams.</p>
+<p><strong>Specialty services</strong>. Over the last 30 years specialized first episode psychosis services have been developed around the world but are not yet a broadly accepted or consistent feature of care in most developed countries. Initially these were research oriented programs, some of which conducted randomized controlled studies which demonstrated that the programs were both effective (<a href="#ref">5</a>) and cost effective (<a href="#ref">6</a>). As the evidence has mounted many centres have developed such programs. The core values, goals and standards for first episode services have been articulated in a joint statement of the International Early Psychosis Association and the World Health Organization (<a href="#ref">7</a>). The International Early Psychosis Association lists 152 self reported programs in 26 countries. This self-reported list is not comprehensive and the programs vary in size and scope. The largest numbers are in Australia, Canada, New Zealand and the United Kingdom, where some national or provincial policies and guidelines have been developed.</p>
+<p>The key clinical components for such programs include:</p>
+<ul style="list-style-type: disc;">
+    <li>Public and gatekeeper education </li>
+    <li>Easy access </li>
+    <li>Pharmacotherapy </li>
+    <li>Continuity of care </li>
+    <li>Assertive case management </li>
+    <li>Family education and support </li>
+    <li>Patient education and support </li>
+    <li>Integrated addictions treatment </li>
+    <li>Supported employment </li>
+</ul>
+<p>The impetus for the development of specialty services for individuals with a first psychotic episode is that care is believed to vary widely, leaving the potential for early signs of psychosis going unrecognized, delays in initiation of antipsychotic medications, fragmented rather than continuity of care, and overreliance on pharmacotherapy without accompanying psychosocial interventions that have been shown to improve outcomes. We initiated the development of performance measures that could be employed within the specialty services, to ensure that the care provided was consistent with the goals of these programs.</p>
+<p>First episode psychosis services represent a good target for performance measurement development for many reasons. New programs are being funded without required performance measures despite the fact that they represent a significant investment. Although such programs are cost effective if they reduce admissions, failure of effective implementation may result in increased costs. Furthermore while clear policy and practice manuals exist it is not evident that these policies and practices are being adhered to in newly established programs.</p>
+<h3>Performance Measure Development</h3>
+<p>The development of new evidence based services for first episode psychosis has provided an opportunity to identify specific evidence based performance measures for such services. In one study a two stage process was used to identify potential measures employing, first, a systematic review of the literature and, second, a Delphi consensus approach to reduce the number to 24 measures rated on one global scale as being essential (<a href="#ref">8</a>). Subsequently, operational definitions were developed through an iterative process between an expert panel and health information experts (<a href="#ref">9</a>).</p>
+<p><strong>Data sources</strong>. The data for calculating the performance measures were obtained by research staff with access to the health facilities systems data bases, health records and research data bases. The source of each performance measure is identified in <a href="#table1">Table 1</a>.</p>
+<p><strong>Pilot testing</strong>. Nineteen of these measures (see <a href="#table1">Table 1</a>) were successfully used to compare two Canadian publicly funded programs that provide mental health care to individuals who experience a first psychotic episode. The sample size required to compare the programs was based on a power analysis using the rate of hospital admission after program entry at two years as the primary outcome measure. The sources of data for each performance measure are indicated in the table along with some comments about the indicators.</p>
+<p>The two programs had similar rates on the performance measures (<a href="#ref">10</a>). Results on the hospitalization measure were similar to results published in randomized controlled studies (<a href="#ref">11</a>) suggesting that there was accumulating data to establish standards for such programs. The key results are outlined in <a href="#table2a">Tables 2a</a> and <a href="#table2b">2b</a>.</p>
+<p>A number of performance measures were not used because the data were not available, e.g., such as data on cost effectiveness. This has led to attempts to find proxy measures of these concepts. One proxy measure that we have discussed locally is a ratio based upon the average case load per Full Time Equivalent of clinical (non-administrative) staff over the two year hospitalization rate. This has yet to be tested. Another performance measure for which there was no data was evidence of patient involvement in decision making. This was derived from organizations that have standards that require patients to sign care plans. This result suggested a specific quality improvement opportunity for each organization.</p>
+<p>Our research next focused on hospitalization as a key performance measure since it is reliable, valid and generally available. The hospitalization rate is the proportion of all patients admitted to hospital within a specified time period, usually one or two years. Hospitalization can be considered a process measure because it is a form of treatment. It is not an outcome such as death, being at work or in education, or clinical relapse which is an increase in symptoms. It can be considered a proxy outcome for clinical relapse because it often results from a relapse. Relapse is hard to reliably assess in clinical settings (<a href="#ref">12</a>), so hospitalization is used as a proxy. Hospital admission is an important outcome measure since it is universally available (<a href="#ref">13</a>). It is practically significant because it represents an outcome which is negative for both patients and families and carries significant societal costs (<a href="#ref">14</a>). Furthermore, it is influenced by a number of important process measures such as medication adherence (<a href="#ref">15</a>) and family education and support (<a href="#ref">16</a>). We have developed a risk adjustment model for hospitalization for patients with first episode psychosis that allows for the beginning of comparisons between real world programs (<a href="#ref">17</a>). To do this, candidate predictor variables for hospital admission were identified through a literature review. An expert panel comprised of an epidemiologist, health services researcher and clinical trial specialist who focused on schizophrenia then selected 11 potential risk adjustment variables through the use of a structured process, the Template for Risk Adjustment Information Transfer (TRAIT). Multivariable logistic regression modeling using the 11 resultant variables was employed to develop models in one cohort of first episode psychosis patients (n=297) and validate these models using data from a second cohort (n=309). The performance of the logistic modeling was good, with C-statistics ranging from .72 to .74 for the three outcomes. In the validation data the C-statistics were slightly lower, ranging from .67 to .71.</p>
+<p>More recently we have examined the external validity of hospitalization as an outcome measure by showing that it is correlated with both a measure of global psychopathology, the Positive and Negative Syndrome Scale for Schizophrenia, which is widely used in clinical trials and the Quality of Life Scale. A manuscript reporting these findings has been accepted for publication (<a href="#ref">18</a>).</p>
+<h3>Further Implementation</h3>
+<p>Development of these performance measures and data collection for pilot testing was funded by a Canadian provincial health services research fund. At present, our province, Alberta, and the other Canadian provinces lack the data infrastructure to implement these measures routinely. Currently, nationwide results on only 3 quality measures for mental health services are published by the Canadian Institute of Health Information (CIHI) which is an independent non-profit organization funded by both the Federal and Provincial Governments. The mental health indicators include only hospital-based indicators including:</p>
+<ul style="list-style-type: disc;">
+    <li>Rates of patient self injury </li>
+    <li>Repeat hospitalizations for mental illness (the proportion of all patients hospitalized who have at least one other hospitalization within a year of the first hospitalization) </li>
+    <li>30-day readmission rate for persons hospitalized for a mental illness) </li>
+</ul>
+<p>As an illustration of the advances in data collection that would be needed to implement these measures routinely, a "first psychotic episode" is not currently identified in either the national or provincial reporting systems. One way to achieve identification of the first episode would be to add that as a specifier to the Diagnostic and Statistical Manual for Mental Disorder classification system. At present this is not one of the modifications proposed for schizophrenia.</p>
+<p>Despite these challenges, the development and validation of mental health performance measures remains an important enterprise because they are a necessary but not sufficient component of health services evaluation and quality improvement. Our local first episode psychosis health services research program is presently focused on two performance-measurement initiatives: first, testing the validity of hospitalization as a performance measure by linking it to other performance measures such as quality of life and relapse and second, developing an evidence based fidelity measure to assess adherence to evidence based practices in the treatment of first psychosis.</p>
+<hr />
+<p><strong>Author</strong></p>
+<p><strong>Donald Addington, MBBS, MRCPsych, FRCPC</strong><br />
+Department of Psychiatry, University of Calgary, Alberta, Canada</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the authors and do not necessarily state or reflect those of the National Quality Measures Clearinghouse&trade; (NQMC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor, ECRI Institute.</p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>Dr. Addington reports business/professional affiliations with the University of Calgary and Alberta Health Services.</p>
+<a name="#ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;">
+    <li>Adair CE, Simpson L, Birdsell JM, Omelchuk K, Casebeer AL, Gardiner HP et al. Performance measurement systems in health and mental health services: Models, practices and effectiveness: A state of the science review. Alberta, Canada, Alberta Heritage Foundation for Medical Research. 2003. 1-89. </li>
+    <li>National Committee for Quality Assurance. The state of health care quality 2006. Washington (DC), National Committee for Quality Assurance. 2006. 1-81. </li>
+    <li>Lehman AF, Steinwachs DM. Patterns of usual care for schizophrenia: Initial results from the schizophrenia patient outcomes research team (PORT) client survey. Schizophr Bull 1998;24:11-20. </li>
+    <li>Addington D, Addington J, Patten S. Relapse rates in an early psychosis treatment service. Acta Psychiatr Scand 2007;115:126-131. </li>
+    <li>Petersen L, Jeppesen P, Thorup A et al. A randomised multicentre trial of integrated versus standard treatment for patients with a first episode of psychotic illness. Br Med J 2005;331:602. </li>
+    <li>McCrone P, Knapp M. Economic evaluation of early intervention services. British Journal of Psychiatry Supplement 2007;51:s19-s22. </li>
+    <li>Bertolote J, McGorry P. Early intervention and recovery for young people with early psychosis: consensus statement. British Journal of Psychiatry Supplement 2005;48:s116-s119. </li>
+    <li>Addington D, Mckenzie E, Addington J, Patten S, Smith H, Adair C. Performance measures for early psychosis treatment services. Psychiatric Services 2005;56:1570-1582. </li>
+    <li>Addington D, Mckenzie E, Addington J, Patten S, Smith H, Adair C. Performance measures for evaluating services for people with a first episode psychosis. Early Intervention in Psychiatry 2007;1:157-167. </li>
+    <li>Addington D, Norman R, Adair C et al. A comparison of early psychosis treatment services using consensus and evidenced-based performance measures; moving towards setting standards. Early Intervention in Psychiatry 2009;3:274-281. </li>
+    <li>Craig TK, Garety P, Power P et al. The Lambeth Early Onset (LEO) Team: randomised controlled trial of the effectiveness of specialised care for early psychosis. Br Med J 2004;329:1-5. </li>
+    <li>Gleeson JF, Alvarez-Jimenez M, Cotton SM, Parker AG, Hetrick S. A systematic review of relapse measurement in randomized controlled trials of relapse prevention in first-episode psychosis. Schizophr Res 2010;119:79-88. </li>
+    <li>Burns T. Hospitalisation as an outcome measure in schizophrenia. British Journal of Psychiatry Supplement 2007;50:s37-s41. </li>
+    <li>Weiden PJ, Olfson M. Cost of relapse in schizophrenia. Schizophr Bull 1995;21:419-429. </li>
+    <li>Wunderink L, Nienhuis FJ, Sytema S, Slooff CJ, Knegtering R, Wiersma D. Guided discontinuation versus maintenance treatment in remitted first-episode psychosis: relapse rates and functional outcome. Journal of Clinical Psychiatry 2007;68:654-661. </li>
+    <li>Dixon LB, Adams C, Lucksted A. Update on family psychoeducation for schizophrenia. Schizophr Bull 2000;26:5-20. </li>
+    <li>Addington DE, Beck C, Wang J et al. Predictors of admission in first-episode psychosis: developing a risk adjustment model for service comparisons. Psychiatr Serv 2010;61:483-488. </li>
+    <li>Addington D, Mckenzie E, Wang JL. Validity of Admission to Hospital as an Outcome Measure for First Episode Psychosis Services. Psychiatric Services. [Accepted but not yet published] </li>
+</ol>
+<a name="#table1"></a>
+<p><strong>Table 1: Performance Measures (PMs) for First Episode Psychosis</strong></p>
+<table border="1" cellspacing="1" summary="Table 1:  Performance Measures for First Episode Psychosis">
+    <thead>
+        <tr>
+            <th class="Center" valign="top">CANADIAN INSTITUTES OF HEALTH RESEARCH (CIHR) DOMAIN DEFINITION &amp; MEASURE NAME</th>
+            <th class="Center" valign="top">MEASURE DEFINITION, DATA SOURCES AND COMMENTS </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top" colspan="2">
+            <p><strong>ACCEPTABILITY</strong>: Mental health service provided meets expectations of community, providers and paying organizations</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>1/ Patient involvement in treatment decisions</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of early psychosis treatment service (EPTS) patients who participate in decisions concerning their treatment, as measured by the signature on a care plan</p>
+            <p>Data Source: Health record</p>
+            <p>Comment: To implement successfully, this requires a policy from the health care provider that such care plans must be signed.</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>2/ Family involvement in treatment decisions</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of families of EPTS patients who participate in decisions concerning their relatives' treatment, as measured by the signature on a care plan</p>
+            <p>Data Source: Health record</p>
+            <p>Comment: Same as above.</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" colspan="2">
+            <p><strong>ACCEPTABILITY</strong>: Ability of patients to obtain mental health service at the right place and right time, based on needs</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>3/ Wait-time</p>
+            </td>
+            <td valign="top">
+            <p>The time between referral to service and actual face-to-face contact for assessment and commencement of mental health service. Date of first face-to-face contact with EPTS minus first referral date.</p>
+            <p>Data Source: Health provider's wait time data sources</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>4/ Median duration of untreated psychosis (DUP)</p>
+            </td>
+            <td valign="top">
+            <p>The time between onset of psychotic symptoms and first appropriate treatment. DUP (in weeks) is calculated by a clinician at the patient's initial assessment (upon enrolment to EPTS).</p>
+            <p>Data Source: Program evaluation data base</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>5/ Population-based treatment rate</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of unique individuals in the population served by the EPTS and who receive at least one health service for a diagnosis of schizophrenia in a given period</p>
+            <p>Data Source: Health provider's public health population health unit</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>6/ Referrals to EPTS through inpatient services</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of individuals in the EPTS who were referred through inpatient services</p>
+            <p>Data Source: Program evaluation data base</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" colspan="2">
+            <p><strong>APPROPRIATENESS</strong>: Mental health service provided is relevant to patient needs and based on established standards</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>7/ Maintenance antipsychotic medication treatment (adherence)</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of individuals in the EPTS who received antipsychotic medication for acute symptoms and continued medication for at least a 12-month period subsequent to the stabilization of the acute episode</p>
+            <p>Data Source: Individual health record</p>
+            <p>Comment: Difficult to automate</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>8/ Administration of second-generation antipsychotic for first episode psychosis</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of adults with first-episode psychosis who received a second-generation medication (clozapine, olanzapine, risperidone, or quetiapine) at the time of their one year assessment</p>
+            <p>Data Source: Individual health record</p>
+            <p>Comment: Difficult to automate</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>9/ Family intervention</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of family members who received formal education regarding psychosis (support, training in problem solving skills, and/or education about the illness). The course must be longer than 6 months with more than 10 planned sessions.</p>
+            <p>Data Source: Individual health record</p>
+            <p>Comment: A challenge to collect this information. Some programs provide group based programs that are evidence based but reach a limited proportion of families. For programs that deliver such services to individual families there is limited research evidence to specify the minimum effective number of sessions resulting in different programs using different cut off numbers to define the PM.</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p><strong>COMPETENCE</strong>: Individual's knowledge/skills are appropriate to the mental health service provided</p>
+            <p>&nbsp;</p>
+            </td>
+            <td valign="top">
+            <p>Comment: There is no way to measure this. It was included because it is mentioned in policy and practices documents.</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" colspan="2">
+            <p><strong>CONTINUITY</strong>: Ability to provide uninterrupted coordinated healthcare across programs, practitioners, organizations and levels of care over time</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>10/ Drop-out rate</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of patients who terminated treatment within a 12-month period (where treatment termination NOT due to patient transfer, move, or re-diagnosis)</p>
+            <p>Data Source: Program evaluation data base</p>
+            <p>Comment: Simpler data such as discharge prior to a fixed time period may be reasonable proxy measures but can be problematic in health systems that service mobile populations such as students.</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>11/ Community (treatment service) follow-up after hospitalization</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of hospital discharges for individuals in the EPTS who have had at least one contact with EPTS within 30 days of discharge</p>
+            <p>Data Source: Health provider Admission Discharge and Transfer data base</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>12/ Documented discharge plans</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of adults who, upon discharge from EPTS, had formal written documented discharge plans</p>
+            <p>Data Source: Individual health record</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" colspan="2">
+            <p><strong>EFFECTIVENESS</strong>: Mental health service achieves desired results</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>13/ Symptom remission</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of patients who achieve symptom remission, as assessed with a semi-structured rating scale, at annual assessment</p>
+            <p>Data Source: Program evaluation data base</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>14/ Cumulative admissions to the hospital (1, 2, and 3 year)</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of unique EPTS patients admitted to hospital while registered in years 1, 2, and 3 of treatment service</p>
+            <p>Data Source: Health system hospitalization data base</p>
+            <p>Comment: This is the most widely available, reliable and valid indicator in this data set. It has broad potential because there are national reporting requirements for hospital admissions.</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>15/ Hospital admission incidence density</p>
+            </td>
+            <td valign="top">
+            <p>The number of new cases of inpatient hospitalizations during each of yrs 1,2, and 3 of enrolment in EPTS, divided by the total person-days at risk</p>
+            <p>Data Source: Health system hospitalization data base</p>
+            <p>Comment: This is a rigorous and valid measure that is very difficult to calculate on a routine basis.</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>16/ Educational status</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of individuals in the EPTS who are registered in an educational institution at the time of their 1 year assessment (age-appropriate)</p>
+            <p>Data Source: Program evaluation data base</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>17/ Work/Occupational status</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of individuals in the EPTS who are employed (defined as the achievement of competitive employment, either full-time or part-time) at the time of their 1 year assessment</p>
+            <p>Data Source: Program evaluation data base</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>18/ Quality of life</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of individuals in the EPTS who scored higher on a standardized quality of life scale (summed scores) at their one year assessment than at their initial assessment</p>
+            <p>Data Source: Program evaluation data base</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p><strong>EFFICIENCY</strong>: Achieving desired results with most cost-effective use of resources</p>
+            </td>
+            <td valign="top">
+            <p>Data not presently available to calculate measures within this domain</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top" colspan="2">
+            <p><strong>SAFETY</strong>: Potential risks of an intervention or the environment are avoided or minimized</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>18/ Assessment of tardive dyskinesia (TD)</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of patients monitored for TD at 6-month intervals</p>
+            <p>Data Source: Program evaluation data base</p>
+            </td>
+        </tr>
+        <tr>
+            <td valign="top">
+            <p>19/ Attempted suicide rate</p>
+            </td>
+            <td valign="top">
+            <p>The percentage of suicide attempts by patients per year</p>
+            <p>Data Source: Program evaluation data base</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<a name="#table2a"></a>
+<p><strong>Table 2a: Performance Measures (PMs) (% conformance)</strong></p>
+<table border="1" cellspacing="1" summary="Table 2a: Performance Measures (PM) (% conformance)">
+    <thead>
+        <tr>
+            <th class="Center" valign="top">PM</th>
+            <th class="Center" valign="top">Center A %</th>
+            <th class="Center" valign="top">Center B %</th>
+            <th class="Center" valign="top">P value</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="Center" valign="top">
+            <p>Inpatient referral</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>43</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>52</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>0.114</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">
+            <p>Second generation antipsychotic medications</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>75</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>89</p>
+            </td>
+            <td class="Center" valign="top">
+            <p><strong>0.002*</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">
+            <p>1 year adherence</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>76</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>82</p>
+            </td>
+            <td class="Center" valign="top">
+            <p><strong>0.007*</strong></p>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">
+            <p>1 year drop-out</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>28</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>26</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>0.701</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">
+            <p>1 year remission</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>72</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>78</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>0.285</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">
+            <p>Year 1 hospitalized</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>26</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>29</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>0.625</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">
+            <p>Year 2 hospitalized</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>31</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>38</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>0.248</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">
+            <p>Year 3 hospitalized</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>35</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>42</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>0.260</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>*Statistically significant p &gt; 0.05</p>
+<a name="#table2b"></a>
+<p><strong>Table 2b: Performance Measure (PM) Results (Continuous Variable)</strong></p>
+<table border="1" cellspacing="1" summary="Table 2a: Performance Measures (PM) (% conformance)">
+    <thead>
+        <tr>
+            <th class="Center" valign="top">PM</th>
+            <th class="Center" valign="top">Center A</th>
+            <th class="Center" valign="top">Center B</th>
+            <th class="Center" valign="top">P value</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td class="Center" valign="top">
+            <p>Mean time in program (months)</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>27.4 SD<br />
+            13.5</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>28.0 SD<br />
+            14.1</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>&nbsp;</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">
+            <p>Median duration of untreated psychosis</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>24</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>27</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>0.373<br />
+            Wilcoxon test</p>
+            </td>
+        </tr>
+        <tr>
+            <td class="Center" valign="top">
+            <p>Mean days wait time</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>21</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>3</p>
+            </td>
+            <td class="Center" valign="top">
+            <p>0.000 t test</p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011399</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51322/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-patients-irrespective-of-frequency-of-dialysis-with-documented-monthly-npcr-measurements">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis patients (irrespective of frequency of dialysis) with documented monthly nPCR measurements.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011398</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51321/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-home-hemodialysis-and-peritoneal-dialysis-patients-who-have-monthly-measures-for-hemoglobin-during-the-reporting-period">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis, home hemodialysis, and peritoneal dialysis patients who have monthly measures for hemoglobin during the reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011397</li>
+            <li>May 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51319/end-stage-renal-disease-esrd-percentage-of-adult-hemodialysis-patientmonths-using-a-catheter-continuously-for-three-months-or-longer-for-vascular-access">End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011396</li>
+            <li>Apr 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51318/end-stage-renal-disease-esrd-adjusted-percentage-of-adult-hemodialysis-patientmonths-using-an-autogenous-arteriovenous-fistula-avf-as-the-sole-means-of-vascular-access">End stage renal disease (ESRD): adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula (AVF) as the sole means of vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011395</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51317/end-stage-renal-disease-esrd-percentage-of-all-peritoneal-dialysis-and-hemodialysis-patientmonths-with-serum-or-plasma-phosphorus-measured-at-least-once-within-the-month">End stage renal disease (ESRD): percentage of all peritoneal dialysis and hemodialysis patient-months with serum or plasma phosphorus measured at least once within the month.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

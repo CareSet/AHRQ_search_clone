@@ -1,0 +1,568 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Promoting Transparent and Actionable Clinical Practice Guidelines: Viewpoint from the National Quality Measures Clearinghouse/National Guideline Clearinghouse (NQMC/NGC) Editorial Board | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>December 20, 2010</li>
+			</ul>
+			<h1>Promoting Transparent and Actionable Clinical Practice Guidelines: Viewpoint from the National Quality Measures Clearinghouse/National Guideline Clearinghouse (NQMC/NGC) Editorial Board</h1>
+			<p class="byline">By: NGC/NQMC Editorial Board: Richard C. Hermann, MD, MS (co-chair), Paul G. Shekelle, MD, MPH, PhD (co-chair), Ethan Balk, MD, MPH, Jerod M. Loeb, PhD, Kathleen N. Lohr, PhD, Mark J. Monteforte, MD, Eric C. Schneider, MD, MSc, and Robert Wachter, MD</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/24555/promoting-transparent-and-actionable-clinical-practice-guidelines-viewpoint-from-the-national-quality-measures-clearinghousenational-guideline-clearinghouse-nqmcngc-editorial-board" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/24555/promoting-transparent-and-actionable-clinical-practice-guidelines-viewpoint-from-the-national-quality-measures-clearinghousenational-guideline-clearinghouse-nqmcngc-editorial-board" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/24555/promoting-transparent-and-actionable-clinical-practice-guidelines-viewpoint-from-the-national-quality-measures-clearinghousenational-guideline-clearinghouse-nqmcngc-editorial-board&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Promoting Transparent and Actionable Clinical Practice Guidelines: Viewpoint from the National Quality Measures Clearinghouse/National Guideline Clearinghouse (NQMC/NGC) Editorial Board&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/24555/promoting-transparent-and-actionable-clinical-practice-guidelines-viewpoint-from-the-national-quality-measures-clearinghousenational-guideline-clearinghouse-nqmcngc-editorial-board" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (1)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p><strong>Introduction</strong></p>
+<p>Members of the National Quality Measures Clearinghouse/National Guideline Clearinghouse (NQMC/NGC) <a href="/about/editorial-board.aspx" title="NQMC/NGC Editorial Board">Core Editorial Board</a> bring diverse expertise to monthly meetings with NQMC/NGC staff. They discuss a wide range of topics, including Clearinghouse policy, taxonomies for guidelines and measures, commentaries, and generally how best to meet Clearinghouse users' needs. The Editorial Board periodically reviews multiple dimensions of clinical practice guidelines (CPGs) and quality measures, using information from the thousands of measures and guidelines that the Clearinghouse staff has inventoried and summarized to date. Serving in an advisory capacity to NQMC/NGC, the Editorial Board offers this consensus viewpoint.</p>
+<p>Two current issues have prompted this statement. The first is the need to establish the "trustworthiness" of a CPG. Making funding sources for the guideline and potential conflicts of interest more transparent can contribute to the trustworthiness of the guideline. Disclosure of this information helps inform decision making about the suitability of a guideline. The second issue, promoting actionable CPGs, is prompted by the information-technology-driven transition of CPGs from their publication in books and journals to their electronic availability online; now CPGs can be accessed throughout hospitals, within practices, or at the bedside, and they often are embedded in clinical decision support systems (CDSs). This last application, the transition to CDSs, requires CPG developers to formulate actionable and unambiguous recommendation statements. The NQMC/NGC Editorial Board presents the following recommendations for consideration by CPG developers and offers a brief discussion and examples to illustrate these points.</p>
+<ol style="list-style-type: decimal;">
+    <li><strong>The NQMC/NGC Editorial Board encourages CPG developers to describe their conflict of interest policies, to disclose potential conflicts of interest, and to describe all funding sources for the development of their CPGs.</strong>
+    <p>Several different types of potential conflicts of interest can influence guideline development&mdash;including financial, professional, and intellectual conflicts. Some conflicts may warrant that an individual recuse himself or herself from participation in the guideline development process. In 2009, the Institute of Medicine (IOM) issued the report Conflict of Interest in Medical Research, Education, and Practice (<a href="#ref">1</a>), which included the following "desirable step" for NGC:</p>
+    <blockquote>"...[it would be desirable for] the National Guideline Clearinghouse to require that all clinical practice guidelines accepted for posting describe (or provide an Internet link to) the developer's conflict of interest policies, the sources and amounts of funding for development of the guideline, and the relevant financial interests of guideline panel members, if any." </blockquote>
+    <p>Source(s) of funding and statements reporting the presence or absence of financial disclosure and conflicts of interest are voluntarily reported by 99% and 60% of guidelines, respectively, published on NGC. The Board strongly urges CPG developers to disclose any potential conflicts of interest and to describe all funding sources for the development of their CPGs. </p>
+    </li>
+    <li><strong>The NQMC/NGC Editorial Board encourages CPG developers to formulate recommendation statements that are "actionable" and that employ active voice rather than passive voice.</strong>
+    <p>Recommendation statements can be implemented only if they are clear and identifiable. For example, Grol et al. found that vague and non-specific recommendations were followed only about half as often as clear and specific recommendations (in 36% vs 67% of clinical decisions). (<a href="#ref">2</a>) Hussain and colleagues reported that recommendation statements were not reliably identifiable in 31.6% (310/982) of the guidelines in NGC that were examined, and many recommendations were not executable as written. (<a href="#ref">3</a>) </p>
+    <p>Recommendations should be decidable (i.e., every condition should be described clearly enough so that reasonable practitioners can be expected to agree on the clinical circumstances under which the recommendation should be applied). They should also be executable (i.e., the recommended action [what to do, or perhaps what not to do] should be stated specifically and unambiguously). Such statements are either imperative&mdash;who ought to do what, to whom&mdash;or conditional&mdash;when (under what circumstances) who ought to do what, to whom. The level of obligation conveyed by the exact choice of words (i.e., must, should, or may) qualifies the strength of the recommendation, and that strength is itself based in part upon the strength of the underlying evidence. (<a href="#ref">4</a>) </p>
+    <p>"Imperative" recommendations are directed at a defined target population without limitation.</p>
+    <ul style="list-style-type: disc;">
+        <li>Example 1: "Clinicians should not routinely obtain imaging or other diagnostic tests in patients with nonspecific low back pain." (<a href="#ref">5</a>) </li>
+        <li>Example 2: "Patients undergoing hysterectomy should receive single-dose antimicrobial prophylaxis preoperatively." (<a href="#ref">6</a>) </li>
+    </ul>
+    <p>"Conditional" recommendations can be thought of as "if&hellip;, then&hellip;" statements.</p>
+    <ul style="list-style-type: disc;">
+        <li>Example 1: "If breaks in aseptic technique, disconnection, or leakage occur, replace the catheter and collecting system using aseptic technique and sterile equipment." (<a href="#ref">7</a>) </li>
+        <li>Example 2: "If blood pressure is not controlled on a thiazide-type diuretic alone, then a thiazide-type diuretic + ACE [angiotensin-converting enzyme] inhibitor is recommended." (<a href="#ref">8</a>) </li>
+    </ul>
+    <p>In addition, we prefer using the active voice rather than the passive voice for recommendation statements. In most situations it is clearer to emphasize what the clinician should do for the patient. In active voice construction, there is a clear "doer" of the action.</p>
+    <ul style="list-style-type: disc;">
+        <li>Example:<br />
+        <span style="text-decoration: underline;">Active</span>: Clinicians should use weight management as the primary treatment for their patients who are overweight or obese.<br />
+        <em>Versus</em><br />
+        <span style="text-decoration: underline;">Passive</span>: Patients who are overweight or obese should be treated with weight management as the primary treatment. </li>
+    </ul>
+    <p>Recommendation statements containing the elements mentioned above are easier to implement than those lacking these elements or written in passive voice.</p>
+    </li>
+    <li><strong>The NQMC/NGC Editorial Board recommends avoiding vague or ambiguous recommendation statements (such as "Physicians may offer&hellip;" or "When possible&hellip;").</strong>
+    <p>Recommendation statements containing vague or ambiguous language and expressions are not actionable, at least not consistently. This problem fosters subjective and potentially erroneous interpretation and thus can impede decision-making.</p>
+    <ul style="list-style-type: disc;">
+        <li>Example: Start patients at a dose of inhaled steroids appropriate to the severity of disease. </li>
+    </ul>
+    <p>In this recommendation statement, neither the doses of steroids nor the severities of disease are defined, leaving interpretation unclear.</p>
+    <p>Ambiguous language also hampers translating recommendations into health care process and outcome quality measures. As CPGs and CPG-derived quality measures are incorporated into CDSs and electronic health records (EHRs), translating recommendations into quality measures will become more challenging.</p>
+    <ul style="list-style-type: disc;">
+        <li>Example: "Frequency of follow-up visits is based on the severity of disease presentation, etiology, and treatment. A follow-up visit should include an interval history, measurement of visual acuity, and slit-lamp biomicroscopy." (<a href="#ref">9</a>) </li>
+    </ul>
+    <p>Although this statement recommends the activities to be performed during a follow-up visit, it does not provide recommendations for the frequency of follow-up, nor does it define the conditions that would be determinants of that frequency.</p>
+    <p>We recognize that there may be sound reasons for crafting recommendation statements that are not actionable. For example, evidence to support a more specific recommendation statement may be absent or experts may disagree. If this is the case, then the guideline should explicitly state why a recommendation cannot be made.</p>
+    <ul style="list-style-type: disc;">
+        <li>Example: "The USPSTF [U.S. Preventive Services Task Force] concludes that the current evidence is insufficient to assess the balance of benefits and harms of screening for visual acuity for the improvement of outcomes in older adults." (<a href="#ref">10</a>) </li>
+    </ul>
+    <p>Also, a recommendation may need to allow for variation in practice to account for particular clinical circumstances. When these situations are expected to occur, the guideline should explicitly explain the rationale for nonspecific statements.</p>
+    <ul style="list-style-type: disc;">
+        <li>Example: "Clinicians should not routinely prescribe oral corticosteroids to treat hoarseness." (<a href="#ref">11</a>) </li>
+    </ul>
+    <p>In this example from a recent American Academy of Otolaryngology-Head and Neck Surgery Foundation guideline, the authors explain an instance of "intentional vagueness":</p>
+    <blockquote>"Intentional vagueness: Use of the word "routine" to acknowledge there may be specific situations, based on laryngoscopy results or other associated conditions, that may justify steroid use on an individualized basis." (<a href="#ref">11</a>)</blockquote></li>
+    <li><strong>The NQMC/NGC Editorial Board encourages guideline developers to distinguish explicitly between factual statements and recommendations.</strong>
+    <p>Sometimes CPGs use statements of fact as recommendations.</p>
+    <ul style="list-style-type: disc;">
+        <li>Example 1: "Adjuvant hormone therapy for locally advanced breast cancer results in improved survival in the long term." (<a href="#ref">4</a>) </li>
+        <li>Example 2: "A recent Cochrane systematic review concluded that overweight and obese people lost more weight on LGI [low-glycemic index] diets than on high glycemic index or other weight-reduction diets and that their cardiovascular risk marker profile improved." (<a href="#ref">12</a>) </li>
+    </ul>
+    <p>Such statements are difficult to implement because they do not prescribe an action with sufficient precision. The preceding examples could easily be improved if the recommendations were explicitly stated rather than implied (e.g., "Clinicians should offer adjuvant hormone therapy to patients with locally advanced breast cancer&hellip;," or "Clinicians should prescribe a low-glycemic index diet for overweight and obese people&hellip;"). The Board recognizes that practice guidelines use factual statements to summarize research findings and support the rationale for CPG recommendations. However, when presenting recommendations, it encourages developers to distinguish between supporting statements and recommendations and to refrain from using them as recommendation statements in and of themselves or imply that factual statements are actual recommendations.</p>
+    </li>
+</ol>
+<hr />
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>All Core Editorial Board members complete Conflict of Interest disclosure forms annually for the Agency of Healthcare Research and Quality (AHRQ) and have declared no potential conflicts of interest with respect to this viewpoint. Dr. Monteforte has participated in AHRQ-funded projects utilizing the Guideline Elements Model.</p>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;">
+    <li>Conflict of Interest in Medical Research, Education, and Practice. Ed. Bernard Lo and Marilyn J. Field. IOM 2009. </li>
+    <li>Grol R, Dalhuijsen J, Thomas S, Veld C, Rutten G, Mokkink H. Attributes of clinical guidelines that influence use of guidelines in general practice: observational study. BMJ 1998;317:858-61. </li>
+    <li>Hussain T, Michel G, Shiffman RN. The Yale Guideline Recommendation Corpus: A representative sample of the knowledge content of guidelines, Int J Med Inform 2009 May;78(5):354-363. </li>
+    <li>Rosenfeld RM and Shiffman RN. Clinical practice guideline development manual: a quality-driven approach for translating evidence into action. Otolaryngol Head Neck Surg 2009 Jun;140(6 Suppl):S1-S43. </li>
+    <li>Chou R, Qaseem A, Snow V, Casey D, Cross JT Jr, Shekelle P, Owens DK, Clinical Efficacy Assessment Subcommittee of the American College of Physicians, American College of Physicians, American Pain Society Low Back Pain Guidelines Panel. Diagnosis and treatment of low back pain: a joint clinical practice guideline from the American College of Physicians and the American Pain Society. Ann Intern Med 2007 Oct 2;147(7):478-91. </li>
+    <li>American College of Obstetricians and Gynecologists (ACOG). Antibiotic prophylaxis for gynecologic procedures. Washington (DC): American College of Obstetricians and Gynecologists (ACOG); 2009 May. 10 p. (ACOG practice bulletin; no. 104). </li>
+    <li>Gould CV, Umscheid CA, Agarwal RK, Kuntz G, Pegues DA, Healthcare Infection Control Practices Advisory Committee (HICPAC). Guideline for prevention of catheter-associated urinary tract infections 2009. Atlanta (GA): Centers for Disease Control and Prevention (CDC); 2009. 67 p. </li>
+    <li>Kaiser Permanente Care Management Institute. Hypertension guidelines. Oakland (CA): Kaiser Permanente Care Management Institute; 2005 Jun. 83 p. </li>
+    <li>American Academy of Ophthalmology Cornea/External Disease Panel, Preferred Practice Patterns Committee. Conjunctivitis. San Francisco (CA): American Academy of Ophthalmology (AAO); 2008. 30 p. </li>
+    <li>U.S. Preventive Services Task Force. Screening for impaired visual acuity in older adults: U.S. Preventive Services Task Force recommendation statement. Ann Intern Med 2009 Jul 7;151(1):37-43, W10. </li>
+    <li>Schwartz S, et al. Clinical practice guideline: hoarseness (dysphonia). Otolaryngol Head Neck Surg 2009 Sep;141(3S2):S1-S31. </li>
+    <li>World Gastroenterology Organisation (WGO). World Gastroenterology Organisation Global Guideline: Obesity. Munich (Germany): World Gastroenterology Organisation (WGO); 2009. </li>
+</ol>
+
+
+	<section class="comments" id="comments">
+		<h2 class="comments-header">Comments</h2>
+		
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 12/21/2010</h3>
+				<div class='comment-main'>
+					<div class='comment-content'>I think that NQMC/NGC Board should more clearly differentiate recommendations for primary guideline developers (e.g., specialty society members) from content developers for CDS, who derive content from published peer-generated guidelines. Non-specialists abstracting from often vague societal guidelines run the risk of misleading users by attempting to convert vague guidelines into more directive statements, as in example 4. You are dealing with a double-edged sword that could encourage magnification of significance of notions proffered in published guidelines beyond the intention of the original authors.</div>
+					<p class='comment-author'>Caliann Lum, MD, PhD</p>
+										<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> None</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+	</section><!--/.comments -->
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011399</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51322/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-patients-irrespective-of-frequency-of-dialysis-with-documented-monthly-npcr-measurements">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis patients (irrespective of frequency of dialysis) with documented monthly nPCR measurements.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011398</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51321/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-home-hemodialysis-and-peritoneal-dialysis-patients-who-have-monthly-measures-for-hemoglobin-during-the-reporting-period">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis, home hemodialysis, and peritoneal dialysis patients who have monthly measures for hemoglobin during the reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011397</li>
+            <li>May 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51319/end-stage-renal-disease-esrd-percentage-of-adult-hemodialysis-patientmonths-using-a-catheter-continuously-for-three-months-or-longer-for-vascular-access">End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011396</li>
+            <li>Apr 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51318/end-stage-renal-disease-esrd-adjusted-percentage-of-adult-hemodialysis-patientmonths-using-an-autogenous-arteriovenous-fistula-avf-as-the-sole-means-of-vascular-access">End stage renal disease (ESRD): adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula (AVF) as the sole means of vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011395</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51317/end-stage-renal-disease-esrd-percentage-of-all-peritoneal-dialysis-and-hemodialysis-patientmonths-with-serum-or-plasma-phosphorus-measured-at-least-once-within-the-month">End stage renal disease (ESRD): percentage of all peritoneal dialysis and hemodialysis patient-months with serum or plasma phosphorus measured at least once within the month.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

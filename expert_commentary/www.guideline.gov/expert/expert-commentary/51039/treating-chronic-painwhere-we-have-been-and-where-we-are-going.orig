@@ -1,0 +1,539 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Treating Chronic Pain-Where We Have Been and Where We Are Going | National Guideline Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NGC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NGC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NGC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NGC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NGC.svg" color="#1d4345">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/8382974d7bae1577062376dcd37102348398fe04/NGCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KHDP6Z"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KHDP6Z');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NGC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NGC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NGC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NGC_header.png"
+				            alt="National Guideline Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NGC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+<a href="/summaries/browse" class="parent-link">Guideline Summaries</a>                    		            <ul class="level-2 dropdown">
+                             <li class=""><a href="/browse/clinical-specialty">By Clinical Specialty</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=0&amp;fLockTerm=Guideline Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+<li class=""><a href="/syntheses/index">Guideline Syntheses</a></li>		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+<a href="/summaries/submit">Submit Guidelines</a>                    		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Guideline Clearinghouse (NGC, guideline.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NGC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>July 03, 2017</li>
+			</ul>
+			<h1>Treating Chronic Pain-Where We Have Been and Where We Are Going</h1>
+			<p class="byline">By: L.G. Davis, MD, Sanjog Pangarkar, MD, and Neil M. Paige, MD, MSHS</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.guideline.gov/expert/expert-commentary/51039/treating-chronic-painwhere-we-have-been-and-where-we-are-going" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.guideline.gov/expert/expert-commentary/51039/treating-chronic-painwhere-we-have-been-and-where-we-are-going" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.guideline.gov/expert/expert-commentary/51039/treating-chronic-painwhere-we-have-been-and-where-we-are-going&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Treating Chronic Pain-Where We Have Been and Where We Are Going&body=https://www.guideline.gov/expert/expert-commentary/51039/treating-chronic-painwhere-we-have-been-and-where-we-are-going" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (0)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>In the 1990s and early 2000s, there was an unprecedented increase in opioid prescribing for chronic non-cancer pain in the United States. Chronic pain management became synonymous with long-term opioid therapy (LOT). The United States currently accounts for 70% of the world's opioid use but less than 5% of the world's population, suggesting that this is primarily an American issue (<a href="#ref">1</a>). At the same time, overdoses and opioid adverse events rose dramatically, nearly quadrupling from 1999 to 2011 (<a href="#ref">2</a>). Every year since 2002, deaths attributable to controlled prescription medications outpaced those for people using cocaine and heroin combined. In addition, the number of people reporting the current use of controlled prescription drugs was higher than for those reporting the combined use of these illicit drugs (cocaine, heroin, methamphetamine, MDMA, and PCP) (<a href="#ref">3</a>). </p>
+<p>The potential genesis of this epidemic occurred with noble intentions, to improve patient care and decrease the burden of chronic pain. The phrase "pain as the 5th vital sign" was coined during the American Pain Society's 1995 Presidential Address (<a href="#ref">4</a>). By 1999, large care organizations like the Department of Veterans' Affairs (VA) formally adopted pain as the "5th vital sign," requiring providers to enter a patient reported numerical value on a scale of 0 to 10, with a pain score of 4 or more requiring "comprehensive pain assessment and prompt intervention" (<a href="#ref">5</a>). Shortly thereafter, the Joint Commission released new standards for the assessment and management of pain (<a href="#ref">6</a>), with Congress declaring 2001 to 2010 the "decade of pain control and research." A number of societies, including those focusing on better pain management, end-of-life care, and cancer, sought to destigmatize the use of prescription opioids for use in patients with terminal illness.</p>
+<p>Coincident with these education efforts, the U.S. Food and Drug Administration issued guidelines relaxing the restrictions on broadcast advertising of prescription drugs directly to consumers (<a href="#ref">7</a>). Pharmaceutical companies started to aggressively market opioids (and other medications) to both providers and patients using print and broadcast media (<a href="#ref">8</a>). As a result, prescriptions of opioids to treat non-cancer pain became commonplace. Another factor contributing to the increase in opioid prescriptions was the marked decrease of interdisciplinary pain treatment programs. Schatman and Webster suggest that insurance companies declined to cover these programs in favor of opioids as first line treatment and "it may not be a coincidence that the opioid crisis in the USA began at about the same time that the number of interdisciplinary programs began to precipitously decrease" (<a href="#ref">9</a>). </p>
+<p>Despite the trend of prescribing opioids to treat chronic pain, there is little evidence in the literature to support that it is beneficial in the long term. In a comprehensive review, Chou and colleagues evaluated evidence on the effectiveness of long-term (greater than 3 months) opioid therapy for chronic non-cancer pain in adults. They found no studies of opioid therapy versus placebo or opioid therapy versus nonopioid therapy which evaluated long-term (greater than 1 year) outcomes related to pain, function, or quality of life (<a href="#ref">10</a>). Indeed, in a small study of VA patients who underwent dose reduction of their chronic opioids, 44% of patients reported a decrease in their subjective pain score, with an additional 28% reporting no change in their pain, further calling into question the efficacy of LOT (<a href="#ref">11</a>). Moreover, Chou found that opioid therapy for chronic pain was associated with increased risk of overdose, opioid abuse, and in one study, risk of myocardial infarction (<a href="#ref">10</a>). </p>
+<p>Several factors contribute to the potential harms of LOT. Substance use disorders (SUD) were four times higher in patients prescribed opioids than in the general population (<a href="#ref">12</a>). Clinicians may also not be able to predict which patients on LOT are abusing, misusing, or diverting their medication (<a href="#ref">13</a>). Further, while there is no "safe" level of opioid prescribing, the hazard ratio of overdose dramatically increases at 50 morphine equivalents (ME) (<a href="#ref">14</a>). </p>
+<p>In August 2012, due to growing concern over the safety of the nation's Veterans and the public, the former Undersecretary of Health for the VA chartered the Opioid Safety Initiative (OSI) Task Force. The VA embarked on a coordinated effort to decrease risk, improve safety, and treat SUDs as mandated by the VA's Initiative, which was released in August 2013. The OSI recommended utilization of opioid risk assessment tools, informed consent for opioid prescribing, toxicology screening, and periodic review of prescription drug monitoring program (PDMP) databases. The OSI further recommended distribution of naloxone rescue kits for patients on high dose or high risk LOT; decreasing maximal morphine equivalents (ME); and avoiding the combination of opioids and benzodiazepines. The VA also established use of electronic "clinical reminders" to assist providers with compliance with these requirements. Some sites implemented mandatory case reviews for patients above a set ME threshold (e.g., greater than 100 milligrams ME). From 2013 to 2016, the OSI demonstrated marked improvement in key clinical metrics, with a 25% reduction in patients receiving opioids overall; a 47% reduction in patients receiving a combination of opioid and benzodiazepines; and a 36% reduction in patients receiving high dose opioids (greater than 100 mg ME) (<a href="#ref">15</a>). </p>
+<p>Going forward, the 2017 VA/DoD guidelines will further improve safety and outline appropriate care (<a href="#ref">16</a>). The toolkit that was prepared to accompany the guideline includes a patient summary that can be given to patients so they can better understand the physiology of their pain and options for treatment, including potential risks and benefits. It includes "questions to ask your provider" which can provide a framework for developing non-opioid strategies for the treatment of chronic pain. The guideline will additionally assist providers in choosing the best approach for his or her particular patient. In an editorial, Alford commented, "&hellip;education can empower clinicians to make appropriate, well-informed decisions about whether to initiate, continue, modify, or discontinue opioid treatment for each individual patient at each clinical encounter" (<a href="#ref">17</a>). </p>
+<p>The goal to reduce LOT has been an impetus for VA to diversify treatment options for the management of chronic pain. The VA has expanded access to complementary and integrative healthcare (CIH), such as chiropractic care, acupuncture, yoga, and tai chi in order to reduce reliance on medications while improving physical function. There has also been a shift to employ the biopsychosocial model of pain care, which combines the interaction between biological, psychological, and social factors in managing chronic illness. In addition to physical and occupational therapy for rehabilitation, the VA has implemented programs in cognitive behavior therapy, mindfulness based stress reduction, and biofeedback. The VA continues to offer patients interventional pain relieving treatments such as nerve blocks, joint injections, and neuraxial pain therapies. </p>
+<p>The advent of the recent guidelines to prevent opioid abuse, misuse and diversion does raise provider concerns with regards to the type (and intensity) of monitoring required, as well as the concern that "policing" of prescription utilization erodes the patient-provider relationship due to a perception of implied distrust. Alford points out that "patients with chronic pain are desperately seeking immediate relief from their suffering; they tend to have unrealistic expectations regarding the potential benefits of opioids and not to fully appreciate the degree of the risk" (<a href="#ref">17</a>). The key to success for long-term chronic pain management is a comprehensive team approach. This is where full multidisciplinary engagement is necessary to ensure effective and efficient monitoring as we work to ensure the safety, appropriateness, and success of all treatments. Both provider and patient must understand the risks involved with LOT. Patients must be empowered to embrace self-management and to understand the many options to treat chronic pain, other than LOT. When there are no other options but LOT, patients must be educated why the provider needs to follow established guidelines for safety monitoring.</p>
+<hr />
+<p><strong>Authors</strong></p>
+<p>L.G. Davis, MD<br />
+Staff Physician<br />
+VA Greater Los Angeles Healthcare System<br />
+Associate Clinical Professor of Medicine<br />
+David Geffen School of Medicine at UCLA</p>
+<p>Sanjog Pangarkar, MD<br />
+Director, Inpatient &amp; Interventional Pain Service<br />
+VA Greater Los Angeles Healthcare System<br />
+Associate Clinical Professor of Medicine (PM&amp;R)<br />
+David Geffen School of Medicine at UCLA</p>
+<p>Neil M. Paige, MD, MSHS<br />
+Chief, Primary Care <br />
+VA Greater Los Angeles Healthcare System<br />
+Clinical Professor of Medicine<br />
+David Geffen School of Medicine at UCLA</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the author and do not necessarily state or reflect those of the National Guideline Clearinghouse&trade; (NGC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor ECRI Institute.</p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>All authors declare no financial or personal conflicts of interest with respect to this commentary. </p>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>International Narcotics Control Board. Narcotics drugs: estimated world requirements for 2016; statistics for 2014. Vienna (Austria): International Narcotics Control Board; 2015. p. 148-250. Available at: <a href="/Home/Disclaimer?id=51039&contentType=expert-commentary&redirect=http%3a%2f%2fwww.incb.org%2fdocuments%2fNarcotic-Drugs%2fTechnical-Publications%2f2015%2fpart_4_tables_EFS.pdf" title="International Narcotics Control Board Web site">http://www.incb.org/documents/Narcotic-Drugs/Technical-Publications/2015/part_4_tables_EFS.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>Chen LH, Hedegaard H, Warner M. Drug-poisoning deaths involving opioid analgesics: United States, 1999&ndash;2011. Hyattsville (MD): National Center for Health Statistics; 2014. (NCHS data brief; no. 166). </li>
+    <li>Drug Enforcement Administration (DEA) Strategic Intelligence Section. 2015 national drug threat assessment summary. Washington (DC): U.S. Department of Justice (DOJ); 2015 Oct. 134 p. Available at: <a href="https://www.dea.gov/docs/2015%20NDTA%20Report.pdf"  title="Drug Enforcement Administration (DEA) Web site" target="_blank">https://www.dea.gov/docs/2015%20NDTA%20Report.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>Campbell J. APS 1995 presidential address. J Pain. Spring 1996;5(1):85-8. </li>
+    <li>Geriatrics and Extended Care Strategic Healthcare Group, National Pain Management Coordinating Committee. Pain as the 5th vital sign toolkit. Washington (DC): Veterans Health Administration; 2000 Oct. 56 p. Available at: <a href="https://www.va.gov/PAINMANAGEMENT/docs/Pain_As_the_5th_Vital_Sign_Toolkit.pdf"  target="_blank" title="Veterans Health Administration Web site">https://www.va.gov/PAINMANAGEMENT/docs/Pain_As_the_5th_Vital_Sign_Toolkit.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>Joint Commission on Accreditation of Healthcare Organizations. Comprehensive accreditation manual for hospitals. Oakbrook Terrace (IL): Joint Commission on Accreditation of Healthcare Organizations; 2001. </li>
+    <li>Zgierska A, Miller M, Rabago D. Patient satisfaction, prescription drug abuse, and potential unintended consequences. JAMA . 2012;307(13):1377-8. </li>
+    <li>Van Zee A. The promotion and marketing of OxyContin: commercial triumph, public health tragedy. Am J Public Health. 2009 Feb;99(2):221-7. </li>
+    <li>Schatman ME, Webster LR. The health insurance industry: perpetuating the opioid crisis through policies of cost-containment and profitability. J Pain Res. 2015; Mar8:153-8. </li>
+    <li>Chou R, Turner JA, Devine EB, Hansen RN, Sullivan SD, Blazina I, Dana T, Bougatsos C, Deyo RA. The effectiveness and risks of long-term opioid therapy for chronic pain: a systematic review for a National Institutes of Health Pathways to Prevention Workshop. Ann Intern Med. 2015 Feb 17;162(4):276-86. </li>
+    <li>Tran C, Kim G, Lee W, Seversen D. Evaluation of long-term opioid therapy reduction at a Veteran Affairs system. Poster presented at: 2016 California Society of Health-System Pharmacist Seminar. Anaheim (CA): 2016 Oct 27-30. </li>
+    <li>Bhamb B, Brown D, Hariharan J, Anderson J, Balousek S, Fleming MF. Survey of select practice behaviors by primary care physicians on the use of opioids for chronic pain. J Pain. 2007;8(7):573-82. </li>
+    <li>Bronstein K, Passik S, Munitz L, Leider H. Can clinicians accurately predict which patients are misusing their medications? Poster presented at: 30th Annual Scientific Meeting of the American Pain Society. Austin (TX): 2011 May 19-21. </li>
+    <li>Dunn KM, Saunders KW, Rutter CM, Banta-Green CJ, Merrill JO, Sullivan MD, et al. Opioid prescriptions for chronic pain and overdose: a cohort study. Ann Intern Med. 2010;152:85-92. </li>
+    <li>Gellad WF, Good CB, Shulkin D. Addressing the opioid epidemic in the United States: lessons from the Department of Veterans Affairs. JAMA Intern Med. 2017 May 1;177(5):611-2. </li>
+    <li>The Opioid Therapy for Chronic Pain Work Group. VA/DoD clinical practice guideline for opioid therapy for chronic pain. Washington (DC): Department of Veterans Affairs, Department of Defense; 2017 Feb. 198 p. Available at: <a href="https://www.healthquality.va.gov/guidelines/Pain/cot/VADoDOTCPG022717.pdf"  target="_blank" title="Department of Veterans Affairs Web site">https://www.healthquality.va.gov/guidelines/Pain/cot/VADoDOTCPG022717.pdf</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. </li>
+    <li>Alford DP. Opioid prescribing for chronic pain&mdash;achieving the right balance through education. N Engl J Med. 2016;374:301-3. </li>
+</ol>
+
+
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NGC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the guideline and/or measure fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+		<h3>Related Content</h3>
+		<h4 class="prefix-icon guideline">GUIDELINE SUMMARIES</h4>
+		<div class="content-list-wrap">
+			    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011178</li>
+            <li>2017 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/50703/vadod-clinical-practice-guideline-for-opioid-therapy-for-chronic-pain">VA/DoD clinical practice guideline for opioid therapy for chronic pain.</a></p>
+    </div>
+
+		</div>
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NGC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/ngc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon guideline news-list-category-label">Guideline Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011378</li>
+            <li>2017 Oct</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51300/mental-health-care-in-the-perinatal-period-australian-clinical-practice-guideline">Mental health care in the perinatal period: Australian clinical practice guideline.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011372</li>
+            <li>2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51294/clinical-practice-guideline-on-systemic-lupus-erythematosus">Clinical practice guideline on systemic lupus erythematosus.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011385</li>
+            <li>2018 Mar</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51326/vadod-clinical-practice-guideline-for-the-management-of-pregnancy">VA/DoD clinical practice guideline for the management of pregnancy.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011376</li>
+            <li>2018 Feb</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51298/clinical-pharmacogenetics-implementation-consortium-cpic-guideline-for-dihydropyrimidine-dehydrogenase-genotype-and-fluoropyrimidine-dosing-2017-update">Clinical Pharmacogenetics Implementation Consortium (CPIC) guideline for dihydropyrimidine dehydrogenase genotype and fluoropyrimidine dosing: 2017 update.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NGC:011370</li>
+            <li>2017 Dec</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51292/the-implementation-of-targeted-temperature-management-an-evidencebased-guideline-from-the-neurocritical-care-society">The implementation of targeted temperature management: an evidence-based guideline from the Neurocritical Care Society.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NGC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NGC_footer.png"
+						    alt="NGC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Guideline Summaries</a></li>
+<li><a href="/syntheses/index">Guideline Syntheses</a></li>						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Guidelines</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NQMC Measures</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+				    <li><!-- NQMC footer link -->
+						<a href="https://www.qualitymeasures.ahrq.gov" target="_blank" class="partner-button nqmc">
+							<span class="partner-logo">
+								<picture>
+							    	<source type="image/svg+xml" srcset="/UI/images/logo_footerlink_nqmc.svg">
+									<img src="/UI/images/logo_footerlink_nqmc.png" alt="National Quality Measures Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/MQMC footer Link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>

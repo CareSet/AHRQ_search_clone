@@ -1,0 +1,608 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>  
+
+        <title>Treat the System, Not the Error: Patient Safety in 2013 | National Quality Measures Clearinghouse</title>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <link rel="icon" href="/UI/images/favicon-NQMC.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/UI/images/apple-touch-icon-NQMC.png">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/UI/images/favicon-NQMC-16x16.png" sizes="16x16">
+    <link rel="manifest" href="/UI/images/manifest-NQMC.json">
+    <link rel="mask-icon" href="/UI/images/safari-pinned-tab-NQMC.svg" color="#222c66">
+    <meta name="theme-color" content="#ffffff">
+    
+<link href="/cassette.axd/stylesheet/50802fec44b49e78c77b55e1df8361e3dbe9a339/NQMCSiteCSS" type="text/css" rel="stylesheet"/>
+<!--[if lt IE 9]>
+<link href="/cassette.axd/stylesheet/2188ac5b8507764bb4079068f7a3c8d7ccfba0e7/ieCSS" type="text/css" rel="stylesheet"/>
+<![endif]-->
+
+
+
+    <script async type="text/javascript" id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal­-Federated-­Analytics-­Min.js?agency=HHS&subagency=AHRQ"></script>
+    </head>
+<body class="no-js content-page">
+<a href="#main-content" id="skip-nav">Skip to main content</a>
+<!--https://developers.google.com/tag-manager/devguide#multidomain  ECH-1199-->
+    
+    <!-- Google Tag Manager -->
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-W4NX5V"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W4NX5V');</script>
+
+    <noscript>
+        <iframe src="//www.googletagmanager.com/ns.html?id=GTM-KXQCDQ"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <script>
+        (function (w, d, s, l, i) {
+            w[l] = w[l] || []; w[l].push({
+                'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+            }); var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-KXQCDQ');</script>
+    <!-- End Google Tag Manager -->
+
+
+    <!-- AHRQ HEADER -->
+<div id="ahrq-header">
+
+	<p class="hhs-links">
+		<a href="http://www.hhs.gov/" target="_blank" class="logo-hhs"><span class="logomark"></span>U.S.&nbsp;Department of&nbsp;Health&nbsp;and Human&nbsp;Services</a>
+		<a href="http://www.hhs.gov/" target="_blank" class="external-link"><strong>HHS.gov</strong></a>
+	</p><!-- /.hhs-links -->
+	<p class="ahrq-links">
+		<a href="http://www.ahrq.gov/" target="_blank" class="logo-ahrq">Agency for Healthcare Research and Quality: Advancing Excellence in Health Care</a>
+		<a href="http://www.ahrq.gov/" target="_blank" class="external-link"><strong>AHRQ.gov</strong></a>
+	</p><!-- /.ahrq-links -->
+
+</div><!-- /#ahrq-header -->
+
+	<!-- HEADER -->
+	<div class="header" id="header">
+		<div class="masthead">
+
+			<ul class="header-actions">
+				<li><a href="#header-search" class="search-action"><span class="label">Search</span></a></li>
+				<li><a href="#header-account" class="account-action"><span class="label">Account</span></a></li>
+				<li><a href="#main-nav" class="menu-action"><span class="label">Menu</span></a></li>
+			</ul><!-- /.header-actions -->
+				
+				<a href="/" class="header-logo NQMC">
+				    <picture>
+				        <source
+				            media="(min-width: 960px)"
+				            srcset="/UI/images/logo_NQMC_header.png">
+				        <source
+				            srcset="/UI/images/logo_NQMC_header_m.png">
+				        <img
+				            src="/UI/images/logo_NQMC_header.png"
+				            alt="National Quality Measures Clearinghouse">
+				    </picture>
+				</a>
+<form action="/search" class="header-search header-action" enctype="multipart/form-data" id="header-search" method="get">					<p class="search-bar">
+						<label for="q"><span class="screen-reader-text">Search</span>
+							<input id="q" type="text" title="Search Input" name="q" class="search-input" placeholder="Search">
+						</label>
+						<input id="masthead-search-button" type="submit" title="Search Submit" class="search-submit" value="Search">
+					</p>
+					<p class="search-tips">
+						<a href="/help-and-about/search-browse/search-tips">Search Tips</a>
+					</p>
+</form>				<div class="header-account header-action" id="header-account">
+				<a id="login-button" class="signin" href="/accounts/signinlanding" aria-role="tab" aria-controls="login-panel" aria-selected="false">Log into My NQMC</a>
+<div id="login-panel" class="login dropdown" aria-role="tab-panel" aria-labeledby="login-button" aria-hidden="true">
+    
+            <div class="sign-in">
+            <form id="sign-in-form" action="/Accounts/LoginSubmit" method="post">
+                <h3>Sign In</h3>
+                <div class="errormessages"></div>
+                <p class="invalid-user-cred message-block" style="display: none;"></p>
+                <p>
+                    <label for="sign-in-username">Username or Email <span class="required">*</span></label>
+                    <input type="text" id="sign-in-username" class="input-text" name="email" required>
+                   
+                </p>
+                <p>
+                    <label for="sign-in-userpwd">Password <span class="required">*</span></label>
+                    <input type="password" id="sign-in-userpwd" class="input-text" name="password" required>
+                  
+                </p>
+                <p class="form-link"><a href="/accounts/forgotpassword">Forgot Password?</a></p>
+                <p><label for="remember-me"><input type="checkbox" name="remember-me" id="remember-me">Remember Me</label></p>
+                <input id="account-sign-in" type="submit" value="Sign In" />
+            </form>
+            <p>
+                <label for="sign-up-btn">Don't have an account?</label>
+                <a href="/accounts/login" class="sign-up-btn" id="sign-up-btn">Create New Account</a>
+            </p>
+        </div><!--/.sign-in-->
+</div><!-- /.login -->
+				</div><!-- /.header-account -->
+		</div><!-- /.masthead -->
+
+		<div class="main-nav header-action" id="main-nav">
+		    <ul class="level-1">
+		        <li class=""><a href="/">Home</a></li>
+		        <li class=""><a href="/new-this-week/index">New This Week</a></li>
+		        <li>
+                    <a href="/summaries/browse" class="parent-link">Measure Summaries</a>		            <ul class="level-2 dropdown">
+		                    <li class=""><a href="/browse/domain">By Measure Domain</a></li>
+                            <li class=""><a href="/browse/setting">By Measurement Setting</a></li>
+		                <li class=""><a href="/browse/organization">By Organization</a></li>
+		                <li class=""><a href="/browse/mesh-tag">By MeSH Tag</a></li>
+		                <li class=""><a href="/summaries/in-progress">In Progress</a></li>
+		                <li class=""><a href="/summaries/archive">Archive</a></li>
+
+		                <li class=""><a href="/search?f_DocType=302&amp;fLockTerm=Measure Summaries">All Summaries</a></li>
+		            </ul>
+		        </li>
+		        <li class=""><a href="/expert">Expert Commentaries</a></li>
+		        <li class=""><a href="/matrix">Matrix Tool</a></li>
+		        <li class="">
+                    <a href="/summaries/submit">Submit Measures</a>		        </li>
+                <li class=""><a href="/help-and-about">Help &amp;&nbsp;About</a></li>		      
+		    </ul>
+		</div><!-- /.main-nav -->
+</div><!-- /.header -->
+
+    <br/><div class='content'><div class='fundingNotice2'><b>The AHRQ National Quality Measures Clearinghouse (NQMC, qualitymeasures.ahrq.gov) Web site will not be available after July 16, 2018</b> because federal funding <br/>through AHRQ will no longer be available to support the NQMC as of that date. For additional information, read our <a href='/home/announcements'>full announcement</a>.</div></div>
+
+	<!-- CONTENT -->
+	<main id="main-content" tabindex="-1">
+		
+
+<div class="main">
+
+		<div class="aside-container">
+
+	<div class="content">
+
+	<!-- CONTENT HEADER -->
+		<div class="content-header">
+			<ul class="content-header-meta">
+				<li class="prefix-icon large-icon commentary">Expert Commentary</li>
+				<li>March 25, 2013</li>
+			</ul>
+			<h1>Treat the System, Not the Error: Patient Safety in 2013</h1>
+			<p class="byline">By: Sumant Ranji, MD</p>
+		</div><!-- /.content-header-meta -->
+
+		<!-- TOOLBAR -->
+		<div class="content-toolbar commentaries">
+			<ul class="tools primary-tools">
+				<li class="dropdown tool">
+					<a href="#" class="tool-button">Share</a>
+					<div class="dropdown-panel">
+						<ul class="toolbar-social">
+							<li><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/43902/treat-the-system-not-the-error-patient-safety-in-2013" class="facebook">Facebook</a></li>
+							<li><a target="_blank" href="https://twitter.com/share?text=&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/43902/treat-the-system-not-the-error-patient-safety-in-2013" class="twitter">Twitter</a></li>
+							<li><a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/43902/treat-the-system-not-the-error-patient-safety-in-2013&title=&summary=&source="  class="linkedin">Linkedin</a></li>
+							<li><a href="mailto:?Subject=AHRQ: Treat the System, Not the Error: Patient Safety in 2013&body=https://www.qualitymeasures.ahrq.gov/expert/expert-commentary/43902/treat-the-system-not-the-error-patient-safety-in-2013" class="email">Email</a></li>
+						</ul>
+					</div><!-- /.dropdown-panel -->
+				</li>
+				<li class="tool"><a href="#" class="tool-button" id="print-button">Print</a></li>
+				<li class="tool"><a href="#comments" class="tool-button">Read Comments (3)</a></li>
+			</ul>
+		</div><!-- /.content-toolbar -->
+
+		<!-- ARTICLE -->
+		<div class="article" id="article">
+			
+
+
+		<p>The seminal Agency for Healthcare Research and Quality (AHRQ) <a href="http://www.ncbi.nlm.nih.gov/pubmed/11510252" target="_blank" title="PubMed Web site">Making Health Care Safer</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif"  /> report, (<a href="#ref">1</a>) issued in 2001, was the first effort to use evidence-based medicine principles in identifying practices to improve patient safety. Though its recommendations proved controversial&mdash;drawing criticism for both the practices that were included and some that were omitted&mdash;the report galvanized patient safety efforts at hospitals nationwide and laid the foundation for further rigorous research, resulting in some of the most prominent successes in the safety field. In the past decade, thousands of lives have been saved thanks to innovative efforts to reduce health care-associated infections, (<a href="#ref">2</a>) prevent surgical complications, (<a href="#ref">3</a>) and improve teamwork among clinicians. (<a href="#ref">4</a>) The culture of health care is changing, slowly but surely. Efforts to build a climate of safety among clinicians, including the integration of patient safety and quality improvement principles into training programs, are gradually eliminating the "blame and shame" response that impeded progress in patient safety for decades.</p>
+<p>Despite these success stories, the sobering truth is that, overall, patient safety has not improved throughout the past decade. Landmark studies indicate that the prevalence of preventable harm likely has not changed over the past several years, (<a href="#ref">5</a>) and some of the highest-profile efforts to improve safety thus far&mdash;such as restricting resident work hours (<a href="#ref">6</a>) and investing in health information technology&mdash;have resulted in additional costs (in terms of manpower, time, and finances) without tangible benefits for patients or clinicians.</p>
+<p>The publication of <a href="http://www.ahrq.gov/research/findings/evidence-based-reports/ptsafetyuptp.html"  target="_blank" title="AHRQ Web site">Making Health Care Safer II</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" /> (<a href="#ref">7</a>) therefore arrives at a pivotal turning point for the patient safety field. Through a rigorous process combining traditional systematic review methodology with the judgments of key stakeholders and technical experts in the field, the authors critically examined the evidence supporting 41 separate patient safety practices (PSPs). In addition to the effectiveness of the practice, the report also explicitly considered implementation, context, and cost in determining which practices should be operationalized. The resulting list of 22 practices, categorized as either "encouraged" or "strongly encouraged," could, if universally implemented, produce significant reductions in preventable harm. Some of the 10 "strongly encouraged" practices meet the criteria for "accountability measures" (<a href="#ref">8</a>)&mdash;they have a strong evidence base documenting effectiveness, are measurable at the point of care, are closely linked to clinical outcomes, and lack significant unintended adverse consequences&mdash;and have already been widely implemented in a broad range of contexts. Guidelines promoting the use of these PSPs should be developed and disseminated, and it would be appropriate to also develop formal accountability performance measures (see <a href="#table1">Table 1</a>) for both processes and outcomes relating to these practices.</p>
+<p>However, organizations and policymakers should be mindful of Maimonides' maxim: "the physician should not treat the disease, but the patient who is suffering from it." Although "Making Health Care Safer II" identifies several key interventions that should be widely used, perhaps the report's most important contribution is that it exposes the need for a deeper understanding of our own systems, and that the optimal solutions for improving patient safety will require fundamental reengineering of how care is provided.</p>
+<p>All 10 of the "strongly encouraged" practices target specific clinical adverse events, such as health care-associated infections and pressure ulcers. Hospitals that successfully implement all 10 practices should prevent adverse events, improve the patient experience, and likely save lives. But therein is the rub. Adverse events are manifestations of underlying systems that are broken, and focusing on preventing individual errors ignores the reality that many of these harms are interdependent. Successful implementation of the recommended PSPs will require organizations to understand their own cultural norms and system weaknesses that allow errors to happen and inhibit solutions. Hospitals will need to treat the entire system, not just the individual error.</p>
+<p>For example, three of the "strongly encouraged&rdquo; practices are explicit checklists, and another two are conceptually similar multi-component interventions ("bundles"). Undeniably powerful tools, checklists have been the foundation for many of the most prominent successes of the safety movement. Though often described as a "simple" intervention, in truth, successful checklist implementation requires clinicians to adopt specific practices (such as using chlorhexidine for skin antisepsis before inserting a central venous catheter), as well as make sociocultural changes (such as conducting a multidisciplinary time-out before beginning the procedure). An ethnographic analysis (<a href="#ref">9</a>) of the influential Keystone Intensive Care Unit (ICU) study in Michigan showed that, far from being a simple intervention, the use of checklists in preventing catheter-related bloodstream infections (CRBSIs) was only one aspect of a complex intervention that emphasized teamwork, development of safety culture, rigorous data measurement and feedback, and the reframing of CRBSIs as a social issue in order to build a shared sense of commitment in eradicating the problem. The Keystone ICU authors have underscored a point that bears repeating: "The answer to the question of what a simple checklist can achieve is: on its own, not much. (<a href="#ref">10</a>) The same could be said of virtually all of the recommended practices in "Making Health Care Safer II"&mdash;simply rolling out the checklist (or the "Do Not Use" list, or the ultrasound machine) and telling frontline clinicians to use it will not improve patient safety.</p>
+<p>Another of the recommended practices, rapid response teams (RRTs), also represents an intuitively simple concept: when a hospitalized patient demonstrates signs of imminent clinical deterioration, a dedicated team is summoned to the bedside to immediately assess and treat the patient with the goal of preventing adverse clinical outcomes. There is some (albeit relatively weak) evidence indicating that RRTs can prevent cardiopulmonary arrests, (<a href="#ref">11</a>) and RRTs have proven a very popular intervention among nursing staff. Some form of RRT exists at most U.S. hospitals, thanks in part to a 2008 Joint Commission National Patient Safety Goal that mandated hospitals maintain a system for bedside staff to obtain immediate assistance for unstable patients.</p>
+<p>Despite this, our understanding of how RRTs can improve inpatient care remains very limited. The literature shows wide variation among team composition, frequency of use, and approaches to implementation across different institutions. More crucially, RRTs represent one of several potential approaches to advance safety for acutely ill inpatients, and the "best" approach likely depends on the underlying reasons for a patient's deterioration. If overworked bedside nurses are unable to properly monitor patients, a hospital might gain more benefit by simply hiring more nurses&mdash;especially since lower patient-to-nurse ratios are consistently associated with improved clinical outcomes. Patients being routinely "boarded" in the emergency department or admitted to overflow wards may indicate an underlying mismatch between clinical resources and patient needs, meaning that geographic localization of patients or measures to improve throughput could be effective. If authority gradients inhibit communication between clinicians on the wards, interventions to enhance the culture of safety, such as teamwork training or simulation training, could help escalate care for sick patients without needing to add more specialists to the mix. Many patients may not want (or need) additional interventions at the end of life, so better documentation of a patient's preferences for life-sustaining treatment could help allocate available resources to patients who would benefit the most.</p>
+<p>Fundamentally, the mixed performance of RRTs illustrates the flaw of attempting to treat the disease (failure to rescue deteriorating patients) without understanding the patient (the hospital system of care). Patients often suffer cardiopulmonary arrest on hospital wards, despite warning signs present for hours before the event. But these cases are merely symptoms of a sick system. Adopting a reactive, one-size-fits-all solution like an RRT without also analyzing and addressing the underlying reasons why patients decline unattended will likely accomplish little. The fundamental answer to preventing in-hospital clinical deterioration and cardiac arrests ultimately lies in proactively reengineering systems to prevent such deterioration in the first place.</p>
+<p>How can this be accomplished? First, health care must integrate expertise from other fields&mdash;particularly human factors engineering and systems engineering&mdash;to design safer systems. Second, and perhaps of equal importance, methods to improve safety culture must be rigorously studied and disseminated. One such intervention, teamwork training, reduced surgical mortality in a Veterans Affairs study; (<a href="#ref">4</a>) further research should define the key elements of such interventions in different patient (and provider) populations, as well as examine the interaction between technical interventions and tools that emphasize cultural change. Finally, the field should achieve consensus on standardized, reliable, and reproducible measurements for common safety problems. The example of health care-associated infections, for which the Centers for Disease Control and Prevention has developed standardized measurement techniques, should be followed. It will be impossible to know if safety is truly improving unless safety can first be accurately measured.</p>
+<p>The publication of "Making Health Care Safer II" may, in Churchill's famous words, represent "the end of the beginning" for the patient safety movement. Just as clinicians should "treat the patient, not the disease," the patient safety field will need to prioritize redesigning systems over targeting individual error types in order to achieve the ultimate goal&mdash;the creation of a highly reliable health care system that minimizes preventable harm for all patients.</p>
+<hr />
+<p><strong>Author</strong></p>
+<p><strong>Sumant Ranji, MD</strong><br />
+Quality and Safety Programs<br />
+UCSF Internal Medicine Residency Program<br />
+San Francisco, California</p>
+<p><strong>Disclaimer</strong></p>
+<p>The views and opinions expressed are those of the authors and do not necessarily state or reflect those of the National Quality Measures Clearinghouse<sup>&trade;</sup> (NQMC), the Agency for Healthcare Research and Quality (AHRQ), or its contractor ECRI Institute.</p>
+<p><strong>Potential Conflicts of Interest</strong></p>
+<p>Dr. Ranji is a member of the NGC/NQMC Core Editorial Board and was a contributing author for <a href="http://www.ahrq.gov/research/findings/evidence-based-reports/ptsafetyuptp.html"  target="_blank" title="AHRQ Web site">Making Health Care Safer II: An Updated Critical Analysis of the Evidence for Patient Safety Practices</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. He declares no financial or personal conflicts of interest with respect to this commentary.</p>
+<a name="table1"></a>
+<p><strong>Table 1. "Strongly Encouraged" Patient Safety Practices and Potential Accountability Measures</strong></p>
+<table border="1" cellspacing="1" cellpadding="3" summary="Table: Strongly Encouraged Patient Safety Practices and Potential Acountability Measures">
+    <thead>
+        <tr>
+            <th valign="top" style="background-color: #eeeeee;" scope="col">Patient Safety Practice</th>
+            <th valign="top" style="background-color: #eeeeee;" scope="col">Proposed Process Measure</th>
+            <th valign="top" style="background-color: #eeeeee;" scope="col">Proposed Outcome Measure</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign="top">Preoperative checklists and anesthesia checklists to prevent operative and post-operative events</td>
+            <td valign="top">Checklist usage</td>
+            <td valign="top">Risk-adjusted postoperative mortality for selected procedures</td>
+        </tr>
+        <tr>
+            <td valign="top">Bundles that include checklists to prevent central line associated blood stream infections</td>
+            <td valign="top">Checklist usage</td>
+            <td valign="top">Catheter-related bloodstream infections (CRBSI) rate</td>
+        </tr>
+        <tr>
+            <td valign="top">Interventions to reduce urinary catheter use which include catheter reminders, stop orders, or nurse-initiated removal protocols</td>
+            <td valign="top">None</td>
+            <td valign="top">Catheter-associated urinary tract infection (UTI) rate</td>
+        </tr>
+        <tr>
+            <td valign="top">Bundles that include elevation of head-of-bed, sedation vacations, oral care with chlorhexidine, and subglottic suctioning endotracheal tubes to prevent ventilator-associated pneumonia (VAP)</td>
+            <td valign="top">Bundle adherence</td>
+            <td valign="top">VAP rate</td>
+        </tr>
+        <tr>
+            <td valign="top">Hand hygiene</td>
+            <td valign="top">Observed hand hygiene rate</td>
+            <td valign="top">Rate of selected health care-associated infections</td>
+        </tr>
+        <tr>
+            <td valign="top">The Do Not Use list for hazardous abbreviations</td>
+            <td valign="top">None</td>
+            <td valign="top">None</td>
+        </tr>
+        <tr>
+            <td valign="top">Multicomponent interventions to reduce pressure ulcers</td>
+            <td valign="top">Documentation of intervention use</td>
+            <td valign="top">Pressure ulcer rate</td>
+        </tr>
+        <tr>
+            <td valign="top">Barrier precautions for the prevention of health care-associated infections</td>
+            <td valign="top">None</td>
+            <td valign="top">Rate of selected health care-associated infections</td>
+        </tr>
+        <tr>
+            <td valign="top">Use of real-time ultrasound for central line placement</td>
+            <td valign="top">Documentation of ultrasound use</td>
+            <td valign="top">Mechanical and infectious complication rates after line placement</td>
+        </tr>
+        <tr>
+            <td valign="top">Interventions to improve prophylaxis for venous thromboembolism</td>
+            <td valign="top">Proportion of eligible patients administered pharmacologic prophylaxis</td>
+            <td valign="top">Hospital-acquired VTE rate</td>
+        </tr>
+    </tbody>
+</table>
+<a name="ref"></a>
+<p><strong>References</strong></p>
+<ol style="list-style-type: decimal;" start="1">
+    <li>Shojania KG, Duncan BW, McDonald KM, Wachter RM, eds. <a href="http://www.ncbi.nlm.nih.gov/pubmed/11510252" target="_blank" title="PubMed Web site">Making Health Care Safer: A Critical Analysis of Patient Safety Practices</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif"  />. Evidence Report/Technology Assessment No. 43 from the Agency for Healthcare Research and Quality: AHRQ Publication No. 01-E058; 2001. </li>
+    <li>Pronovost P, Needham D, Berenholtz S, et al. An intervention to decrease catheter-related bloodstream infections in the ICU. N Engl J Med. 2006;355:2725-32. </li>
+    <li>Haynes AB, Weiser TG, Berry WR, et al; for the Safe Surgery Saves Lives Study Group. A surgical safety checklist to reduce morbidity and mortality in a global population. N Engl J Med. 2009;360:491-9. </li>
+    <li>Neily J, Mills PD, Young-Xu Y, et al. Association between implementation of a medical team training program and surgical mortality. JAMA. 2010;304:1693-1700. </li>
+    <li>Landrigan CP, Parry GJ, Bones CB, Hackbarth AD, Goldmann DA, Sharek PJ. Temporal trends in rates of patient harm resulting from medical care. N Engl J Med. 2010;363:2124-34. </li>
+    <li>Landrigan CP, Fahrenkopf AM, Lewin D, et al. Effects of the Accreditation Council for Graduate Medical Education duty hour limits on sleep, work hours, and safety. Pediatrics. 2008;122:250-8. </li>
+    <li>Shekelle PG, Wachter RM, Pronovost PJ, et al. <a href="http://www.ahrq.gov/research/findings/evidence-based-reports/ptsafetyuptp.html"  target="_blank" title="AHRQ Web site">Making Health Care Safer II: An Updated Critical Analysis of the Evidence for Patient Safety Practices</a>&nbsp;<img alt="External Web Site Policy" src="/UI/images/icon_externallink.gif" />. Comparative Effectiveness Review No. 211. (Prepared by the Southern California-RAND Evidence-based Practice Center under Contract No. 290-2007-10062-I.) AHRQ Publication No. 13-E001-EF. Rockville, MD: Agency for Healthcare Research and Quality. March 2013. </li>
+    <li>Chassin MR, Loeb JM, Schmaltz SP, Wachter RM. Accountability measures&mdash;using measurement to promote quality improvement. N Engl J Med. 2010;363:683-8. </li>
+    <li>Dixon-Woods M, Bosk CL, Aveling EL, Goeschel CA, Pronovost PJ. Explaining Michigan: developing an ex post theory of a quality improvement program. Milbank Q. 2011;89:167-205. </li>
+    <li>Bosk CL, Dixon-Woods M, Goeschel CA, Pronovost PJ. Reality check for checklists. Lancet. 2009;374:444-5. </li>
+    <li>Chan PS, Jain R, Nallmothu BK, Berg RA, Sasson C. Rapid response teams: a systematic review and meta-analysis. Arch Intern Med. 2010;170:18-26. </li>
+</ol>
+
+
+	<section class="comments" id="comments">
+		<h2 class="comments-header">Comments</h2>
+		
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 03/28/2013</h3>
+				<div class='comment-main'>
+					<div class='comment-content'>Thank you for this desperately needed commentary. When you leave the ER for a career making housecalls you engage the reality that the world has turned upside down. The sickest patients are too afraid to be admitted when they need to because they have had bad experiences in the hospital before, and the safety movement continues to focus on hospital care when most patients never needed to be there in the first place. When the sick, multi-morbid 80 year old with chronic disease and inability to think or walk gets ill they, or more often their family, wants information, not transportation. Having made housecalls for decades with portable xray, blood gases and all necessary ER-level lab tests and procedures needed for any but the most dire emergency, the members of the American Academy of Home Care Physicians are still waiting for an EMR that works in the mobile environment, a digital xray system that works in low bandwidth situations with unpredictable signal failure, a PaaS that incorporates the complexities of multi-party care delivery teams in the home, and a set of quality designators that incorporate the overwhelming patient preference to stay home even when they are informed and accept the increase risk that may occur. As Hippocrates said: "...and when I enter the home, may I see the man.....JUST the man."</div>
+					<p class='comment-author'>C. Gresham Bayne, MD</p>
+						<p class='comment-position'>CMO, Nant Health</p>
+											<p class='comment-affiliation'>AAHCP</p>
+					<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> None stated</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 04/01/2013</h3>
+				<div class='comment-main'>
+					<div class='comment-content'>This is an excellent, well written, and interesting call to action. It shows the path to change is not simple but offers a way of thinking about the routes that need to be explored for lasting improvements in patient safety.</div>
+					<p class='comment-author'>Joan Kramer, PhD</p>
+										<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> None stated</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+			<div class='comment'>
+				<h3 class='comment-date'>Submitted 06/24/2013</h3>
+				<div class='comment-main'>
+					<div class='comment-content'>Well done on an excellent commentary. I have been researching surgical safety from a human factors engineering perspective for a decade. There has been much progress, but I'm constantly frustrated about the failure to truly understand the nature of the problems (as you so rightly say, the "sociotechnical" illness of healthcare and hospitals), and by the propensity to introduce new checks as a way of dealing with the problems. While checks and checklists can help, they should be considered the worst possible solution, and while the implementation is often thought to be 'no cost' or invisible. In fact, even a 30s check will have a human workload and implication. That time has to be found from somewhere. Instead, we layer check upon check, which ultimately force clinicians to skip the checks just to get the work done. As research moves forwards, I hope we will move towards deeper systems understandings that allow us to design and procure better equipment, redesign the tasks we do, and to understand how board-level decisions on finances, targets, and throughput, influence behavior, rule-breaking, and errors 'at the coal face'*. It can be painful, difficult, and antithetical to the traditional clinical perspective, but it is the only way we are going to successfully move forward.
+<p class="Note">*At the coal face: Originally used with reference to miners, i.e., those who remove coal from the 'face' of the mine, it's now more commonly used to mean any work closest to the frontline (Urban Dictionary).</p></div>
+					<p class='comment-author'>Ken Catchpole, BSc, PhD</p>
+						<p class='comment-position'>Director of Surgical Safety and Human Factors Research</p>
+											<p class='comment-affiliation'>Cedars Sinai Medical Center</p>
+					<p class='comment-disclosure'><span class='comment-disclosure-label'>Disclosure/Conflict of Interest:</span> None stated</p>
+				</div><!--/.comment-main -->
+			</div><!--/.comment -->
+	</section><!--/.comments -->
+
+
+
+		</div><!-- /.article -->
+
+	</div><!-- /.content -->
+
+	
+			<div class="aside">
+				
+	 <!-- About NGC -->
+	<div class="info-block">
+			<h3>About NQMC Expert Commentaries</h3>
+			<p>Expert insight on current issues of importance to the measure and/or guideline fields.</p>
+
+	</div>
+	<!-- /info-block -->
+	
+	  <!-- Related Content -->
+	<!-- New on NGC -->
+	<div class="subscribe-header">
+			<h3 class="subscribe-title">New on NQMC</h3>
+		<ul class="subscribe-links">
+			<li><a href="/subscribe" class="newsletter"><span class="subscribe-links-label">Get Email Alerts</span></a></li>
+			<li><a href="/rssFiles/nqmc_newthisweek.xml" class="rss"><span class="subscribe-links-label">RSS Feed</span></a></li>
+		</ul>
+	</div>
+	<!-- /.subscribe-header -->
+		<h5 class="prefix-icon measure news-list-category-label">Measure Summaries</h5>
+	    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011399</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51322/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-patients-irrespective-of-frequency-of-dialysis-with-documented-monthly-npcr-measurements">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis patients (irrespective of frequency of dialysis) with documented monthly nPCR measurements.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011398</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51321/end-stage-renal-disease-esrd-percentage-of-patientmonths-of-pediatric-less-than-18-years-incenter-hemodialysis-home-hemodialysis-and-peritoneal-dialysis-patients-who-have-monthly-measures-for-hemoglobin-during-the-reporting-period">End stage renal disease (ESRD): percentage of patient-months of pediatric (less than 18 years) in-center hemodialysis, home hemodialysis, and peritoneal dialysis patients who have monthly measures for hemoglobin during the reporting period.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011397</li>
+            <li>May 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51319/end-stage-renal-disease-esrd-percentage-of-adult-hemodialysis-patientmonths-using-a-catheter-continuously-for-three-months-or-longer-for-vascular-access">End stage renal disease (ESRD): percentage of adult hemodialysis patient-months using a catheter continuously for three months or longer for vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011396</li>
+            <li>Apr 2016</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51318/end-stage-renal-disease-esrd-adjusted-percentage-of-adult-hemodialysis-patientmonths-using-an-autogenous-arteriovenous-fistula-avf-as-the-sole-means-of-vascular-access">End stage renal disease (ESRD): adjusted percentage of adult hemodialysis patient-months using an autogenous arteriovenous fistula (AVF) as the sole means of vascular access.</a></p>
+    </div>
+    <div class="list-item-small">
+        <ul class="item-meta">
+            <li> NQMC:011395</li>
+            <li>Sep 2015</li>
+        </ul>
+       
+            <p><a class="" target="" href="/summaries/summary/51317/end-stage-renal-disease-esrd-percentage-of-all-peritoneal-dialysis-and-hemodialysis-patientmonths-with-serum-or-plasma-phosphorus-measured-at-least-once-within-the-month">End stage renal disease (ESRD): percentage of all peritoneal dialysis and hemodialysis patient-months with serum or plasma phosphorus measured at least once within the month.</a></p>
+    </div>
+
+	<a class="block-link" href="/new-this-week/index">
+		<h3>New This Week </h3>
+		<p>View more and sign up for our Newsletter</p>
+	</a>
+	<!-- Adobe Reader -->
+	<p><a href="#" class="external-link">Get Adobe Reader</a></p>
+
+			</div><!-- /.aside -->
+		</div><!-- /.aside-container -->
+
+	<!-- BACK TO TOP -->
+	
+	
+	
+
+
+</div><!-- /.main -->
+
+	</main>
+
+	<!-- FOOTER -->
+	<div class="footer" id="footer">
+
+		<div class="footer-grid-container">
+			<!-- Header -->
+			<div class="footer-header">
+				<a href="#" class="footer-logo">
+			 		<picture>
+					  	<source
+					  		type="image/svg+xml"
+					    	srcset="/UI/images/logo_NQMC_footer.svg">
+					  	<img 
+						    src="/UI/images/logo_NQMC_footer.png"
+						    alt="NQMC">
+					</picture>
+				</a>
+			</div><!-- /.footer-header -->
+
+			<!-- Content -->
+			<div class="footer-content">
+				<div class="footer-nav">
+					<ul class="level-1">
+						<li><a href="/">Home</a></li>
+		                <li><a href="/new-this-week/index">New This Week</a></li>
+						<li><a href="/browse/organization" class="parent-link">Measure Summaries</a></li>
+						<li><a href="/expert">Expert Commentaries</a></li>
+		                <li><a href="/matrix">Matrix Tool</a></li>
+						<li><a href="/summaries/submit">Submit Measures</a></li>
+						<li><a href="/help-and-about">Help &amp;&nbsp;About</a></li>
+					</ul>
+					<ul class="level-2">
+						<li><a href="/contact-us">Contact Us</a></li>
+						<li><a href="/rss">RSS</a></li>
+					    <li><a href="/site-map">Site Map</a></li>
+                        <li><a href="/browse/related">Related NGC Guidelines</a></li>
+                        <li><a href="/help-and-about/about/editorial-board">Editorial Board</a></li>
+                        <li><a href="/help-and-about/general/web-site-credits">Web Site Credits</a></li>
+                        <li><a href="/help-and-about/general/disclaimer">Disclaimer</a></li>
+						<li><a href="/help-and-about/general/privacy">Privacy Policy</a></li>
+                        <li><a href="/help-and-about/technical/accessibility">Accessibility</a></li>	
+                        <li><a href="/help-and-about/technical/for-web-developers">For Web Developers</a></li>
+					</ul>
+				</div><!-- /.footer-nav -->
+			</div><!-- /.footer-content -->
+
+			<!-- Aside -->
+			<div class="footer-aside">
+				<h5 class="footer-partner-link-header">Visit our partner sites</h5>
+				<ul class="footer-partner-links">
+					<li><!-- NGC footer link -->
+						<a href="https://www.guideline.gov" target="_blank" class="partner-button ngc">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_ngc.svg">
+									<img src="/UI/images/logo_footerlink_ngc.png" alt="National Guidelines Clearinghouse"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/NGC footer link -->
+					<li><!-- HHS footer link --> 
+						<a href="https://www.qualitymeasures.ahrq.gov/hhs/index.aspx" target="_blank" class="partner-button hhs">
+							<span class="partner-logo">
+								<picture>
+								    <source type="image/svg+xml" srcset="/UI/images/logo_footerlink_hmis.svg">
+								    <img src="/UI/images/logo_footerlink_hmis.png" alt="HHS Measures Inventory"/>
+								</picture>
+							</span>
+						</a>
+					</li><!--/HHS footer link -->
+				</ul>
+			</div><!-- /.footer-aside -->
+
+		</div><!-- /.footer-grid-container -->
+
+	</div><!-- /.footer -->
+
+	
+	<!-- AHRQ FOOTER -->
+	<div id="ahrq-footer">
+
+		<!-- FIRST -->
+		<div class="ahrq-first-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<p><a href="http://www.ahrq.gov/index.html" class="ahrq-footer-logo" target="_blank">AHRQ</a></p>
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/policy/electronic/accessibility/index.html" target="_blank">Accessibility</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/disclaimers/index.html" target="_blank">Disclaimers</a></li>
+						<li><a href="http://www.ahrq.gov/policy/eeo/index.html" target="_blank">EEO</a></li>
+						<li><a href="http://www.ahrq.gov/policy/foia/index.html" target="_blank">FOIA</a></li>
+						<li><a href="http://www.hhs.gov/web/governance/digital-strategy/index.html" target="_blank">HHS Digital Strategy</a></li>
+						<li><a href="http://oig.hhs.gov/" target="_blank">Inspector General</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/plain-writing/index.html" target="_blank">Plain Writing Act</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/privacy/index.html" target="_blank">Privacy Policy</a></li>
+						<li><a href="http://www.ahrq.gov/policy/electronic/about/policyix.html" target="_blank">Electronic Policies</a></li>
+						<li><a href="http://www.hhs.gov/plugins.html" target="_blank">Viewers &amp; Players</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<h3>Get Social</h3>
+					<ul class="ahrq-social">
+						<li><a href="http://www.facebook.com" target="_blank" class="facebook"><span class="screen-reader-text">Facebook</span></a></li>
+						<li><a href="http://www.twitter.com" target="_blank" class="twitter"><span class="screen-reader-text">Twitter</span></a></li>
+						<li><a href="http://www.linkedin.com" target="_blank" class="linkedin"><span class="screen-reader-text">LinkedIn</span></a></li>
+						<li><a href="http://www.youtube.com" target="_blank" class="youtube"><span class="screen-reader-text">YouTube</span></a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.first-footer -->
+
+		<!-- SECOND -->
+		<div class="ahrq-second-footer">
+			<div class="column">
+			<div class="ahrq-footer-grid-container">
+				<div class="ahrq-footer-left">
+					<ul>
+						<li><a href="http://www.ahrq.gov/index.html" target="_blank" class="ahrq-footer-home-link"><span class="screen-reader-text">AHRQ Home</span></a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/index.html" target="_blank">About Us</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/about/careers/index.html" target="_blank">Careers</a></li>
+						<li><a href="http://www.ahrq.gov/contact/index.html" target="_blank">Contact Us</a></li>
+						<li><a href="http://www.ahrq.gov/Sitemap.html" target="_blank">Sitemap</a></li>
+						<li><a href="https://info.ahrq.gov/" target="_blank">FAQ</a></li>
+					</ul>	
+				</div><!-- /.ahrq-footer-left -->
+				<div class="ahrq-footer-center">
+					<ul>
+						<li><a href="http://www.ahrq.gov/health-care-information/index.html" target="_blank">Health Care Information</a></li>
+						<li><a href="http://www.ahrq.gov/patients-consumers/index.html" target="_blank">For Patients &amp; Consumers</a></li>
+						<li><a href="http://www.ahrq.gov/professionals/index.html" target="_blank">For Professionals</a></li>
+						<li><a href="http://www.ahrq.gov/policymakers/index.html" target="_blank">For Policymakers</a></li>
+						<li><a href="http://www.ahrq.gov/research/index.html" target="_blank">Research Tools &amp; Data</a></li>
+						<li><a href="http://www.ahrq.gov/funding/index.html" target="_blank">Funding &amp; Grants</a></li>
+						<li><a href="http://www.ahrq.gov/cpi/index.html" target="_blank">Offices, Centers &amp; Programs</a></li>
+						<li><a href="http://www.ahrq.gov/news/index.html" target="_blank">News &amp; Events</a></li>
+					</ul>
+				</div><!-- /.ahrq-footer-center -->
+				<div class="ahrq-footer-right">
+					<ul>
+						<li><a href="http://www.hhs.gov/" target="_blank">U.S. Department of Health &amp; Human Services</a></li>
+						<li><a href="http://www.whitehouse.gov/" target="_blank">The White House</a></li>
+						<li><a href="http://www.usa.gov/" target="_blank">USA.gov: The U.S. Government's Official Web Portal   </a></li>
+					</ul>
+					<p class="ahrq-address">
+						<strong>Agency for Healthcare Research&nbsp;and&nbsp;Quality</strong>
+					    <br/>5600 Fishers Lane
+					    <br/>Rockville, MD 20857
+					    <br/><strong>Telephone:</strong> (301) 427-1364
+					</p>
+				</div><!-- /.ahrq-footer-right -->
+			</div><!-- /.ahrq-footer-grid-container -->
+			</div><!-- /.column -->
+		</div><!-- /.second-footer -->
+	</div><!-- /#ahrq-footer -->
+
+
+	
+	<!-- SCRIPTS -->
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+if(!window.jQuery){
+document.write('<script src="/cassette.axd/script/cdd67f922f9d413eaccb759182297335f87c3ff7/UI/js/jquery.js" type="text/javascript"><\/script>');
+}
+</script>
+<script src="/cassette.axd/script/595952c286b7fd52f0737b6f62085709be93156a/bodyJS" type="text/javascript"></script>
+
+    
+</body>
+</html>
