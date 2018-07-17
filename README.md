@@ -1,6 +1,11 @@
 AHRQ Mirror Project
 =====================
 
+Update: Success! We believe that we have mirrored the critical resourcces from AHRQ's guideline.gov. The files exists in this repo, but if you want to browse the raw files (and they are raw files), you can visit these two sites: 
+
+* [http://ahrqguideline.careset.com/](http://ahrqguideline.careset.com/) - a flat mirror of the Guidelines
+* [http://ahrqqualitymeasures.careset.com/](http://ahrqqualitymeasures.careset.com/) - a flat mirror of the Quality Measures
+
 This is a project to backup important resources from [https://guideline.gov/](https://guideline.gov/) and [https://www.qualitymeasures.ahrq.gov/](https://www.qualitymeasures.ahrq.gov/)
 The reasons for this are explained here: [http://www.fredtrotter.com/2018/07/15/emergency-ahrq-backup/](http://www.fredtrotter.com/2018/07/15/emergency-ahrq-backup/)
 
